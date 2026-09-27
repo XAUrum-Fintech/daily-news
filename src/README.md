@@ -37,7 +37,8 @@ each 2-hourly edition; the scheduled agent does the judgment parts.
   hand-curated `trending` section. Exit 0 = valid, exit 1 = errors on stderr.
   Checks include: 10–30 items, ranks 1..N unique, ≥2 `mcx` items, no category
   more than half the items, at most 2 items per `source_domain`, rank-1 item's
-  `image_url` non-null, 3–5 trending entries (title ≤80, summary ≤200,
+  `image_url` non-null (hard-fail if rank 1 OR all items have null
+  `image_url`; individual nulls elsewhere are stderr warnings only), 3–5 trending entries (title ≤80, summary ≤200,
   `item_ids` referencing real items). Loads the tag taxonomy from
   `data/taxonomy.json` (relative to the script).
 - **`publish.py <latest.json> <latest.md>`** — publishes one edition via the

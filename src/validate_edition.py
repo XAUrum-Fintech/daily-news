@@ -255,6 +255,12 @@ def main(argv):
             if img is not None:
                 c.check(isinstance(img, str) and img.startswith("https://"),
                         "%s: image_url must be https or null, got %r" % (label, img))
+            elif img is None:
+                # Null is allowed for non-rank-1 items (source may genuinely
+                # provide no image), but surface it as a warning.
+                sys.stderr.write(
+                    "WARN: %s has null image_url (source provides no image)\n"
+                    % label)
 
         # rank-1 item must carry an image.
         rank1 = next((it for it in items
@@ -264,6 +270,14 @@ def main(argv):
             c.check(isinstance(img1, str) and img1.startswith("https://"),
                     "rank-1 item must have a non-null https image_url, got %r"
                     % (img1,))
+
+        # All-null image_urls means extraction broke — investigate
+        # fetch_image.py before publishing.
+        imgs = [it.get("image_url") for it in items
+                if isinstance(it, dict)]
+        if items and all(not img for img in imgs):
+            c.check(False, "ALL items have null image_url — image extraction "
+                           "appears broken; fix fetch_image.py before publishing")
         # trending.item_ids must reference real item ids in this edition.
         item_ids = {it.get("id") for it in items if isinstance(it, dict)}
         if isinstance(trending, list):

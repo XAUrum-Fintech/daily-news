@@ -155,7 +155,10 @@ headline ≤120, summary ≤600, ≤5 points each ≤160; 10 ≤ items ≤ 30;
 `trending` has 3–5 entries, each with title ≤80, summary ≤200, and 1+ `item_ids`
 that all reference real item ids;
 at least 2 items with category `mcx`; no category more than half the items;
-at most 2 items per source_domain; rank-1 item's `image_url` is non-null;
+at most 2 items per source_domain; rank-1 item's `image_url` is non-null
+(hard-fail); hard-fail if ALL items have null `image_url` (extraction
+breakage — fix `src/fetch_image.py` before publishing); individual null
+`image_url`s elsewhere are warnings only;
 ranks unique 1..N; every item has all base fields
 (id, rank, title, summary, url, source, source_domain, published_at, image_url, tags)
 plus `category` ∈ {mcx, global, policy, festive}, `metals` non-empty ⊆ {gold, silver},
