@@ -1,13 +1,7 @@
 # Edition Runbook — XAUrum-Fintech/daily-news
 
-Canonical spec for every 2-hourly edition. Cron workers: follow this file exactly.
+Canonical spec for every 2-hourly edition. Cron workers: follow this file exactly. This copy lives in the repo, which is the pipeline's source of truth.
 The user's original spec (2026-09-26) is authoritative; this file restates it.
-
-**This repo is the source of truth for the pipeline.** The scripts, data files,
-and this runbook live here under version control (`src/`, `data/`, `docs/`) so
-the pipeline can be iterated on. The working copies under
-`~/workspace/gold-silver-digest/` are scratch, not canonical — except
-`breaking-log.jsonl`, which stays machine-local and is never committed.
 
 ## Repo & auth
 - Repo: `XAUrum-Fintech/daily-news`, branch `main` (public).
@@ -21,6 +15,12 @@ the pipeline can be iterated on. The working copies under
 - `generated_at` = actual generation time, UTC ISO 8601 with Z.
 - `window.from` = slot − 2h, `window.to` = slot (e.g. slot 08:00Z → 06:00–08:00Z).
 - `window` is the 2-hour publishing interval; items up to 48h old are expected inside it.
+- Slot rule: `edition_id` and `window.to` must NEVER be in the future (≤ `generated_at`).
+  Take the even UTC hour nearest to now: if it lies in the future by ≤10 minutes,
+  wait until it arrives, then generate; if it lies further in the future
+  (ad-hoc/manual run), use the previous even hour (floor) instead. Cron runs fire
+  at their even-hour slot and wait out an early dispatch; manual runs rebuild the
+  last completed slot.
 
 ## Sourcing (in this order)
 1. `python3 src/fetch_feeds.py` — Google News RSS (India + global editions) plus
@@ -61,13 +61,13 @@ source_domain, published_at, image_url, tags) PLUS:
 2. `metals` (required) — `["gold"]`, `["silver"]`, or `["gold", "silver"]`.
 3. `source_domain` — normalized per `data/publishers.json`
    (no `www.`, always the same string per publisher; the app uses it for logos).
-4. `source` — display name exactly as in PUBLISHERS.md for that domain
-   (e.g. always "Economic Times", never "ET"). Add missing publishers to the
-   table in the same format; never invent variants.
+4. `source` — display name exactly as in data/publishers.json for that domain
+   (e.g. always "Economic Times", never "ET"). Add missing publishers to
+   data/publishers.json in the same format; never invent variants.
 5. `breaking` (optional, default `false`) — `true` only for rare, major
    market-moving news (import-duty change, very large single-day price move).
-   At most 1–2 per week: check `~/workspace/gold-silver-digest/breaking-log.jsonl` (machine-local, never committed)
-   for entries in the last 7 days; if 2 already, do not set `true`. When set,
+   At most 1–2 per week: check `~/workspace/gold-silver-digest/breaking-log.jsonl` (machine-local,
+   never committed) for entries in the last 7 days; if 2 already, do not set `true`. When set,
    append `{"date":"<YYYY-MM-DD>","id":"<item id>","title":"<title>"}` to the log.
    If the log is missing/unreadable, default `false`.
 6. `related_urls` (optional) — story-level dedup: when several outlets cover the
@@ -87,8 +87,12 @@ source_domain, published_at, image_url, tags) PLUS:
    Factual wording only, e.g. "Gold rose 0.8% on MCX after…". Applies to insights
    and trending too.
 5. Links: https only, publisher's original (never an aggregator), tracking stripped.
-6. `image_url`: the publisher's own preview image (`og:image`/`twitter:image`) or
-   `null`. Never generated or stock images.
+6. `image_url`: extract the publisher's own preview image for EVERY item — fetch
+   the article page and take `og:image` (fallback `twitter:image`); `null` only
+   when the source genuinely provides no image. Rank 1 MUST have an `image_url`
+   whenever the source provides one; if the top story's source has none, prefer a
+   rank-1 story whose source does. Helper: `python3 src/fetch_image.py <url>`
+   prints the image URL or nothing. Never generated or stock images.
 7. Tags: only from `gold, silver, mcx, comex, rupee, rbi, fed, import-duty, india,
    global, jewellery, central-banks`.
 8. Language: plain English; rupee amounts as ₹, lakh/crore where natural. UTF-8.
@@ -115,6 +119,17 @@ source_domain, published_at, image_url, tags) PLUS:
     price targets.
 14. Insights consistency: every claim and number in headline/summary/points must
     match an item in the edition. Re-read the items before writing insights.
+15. Source cap: at most 2 items per `source_domain` per edition — keep the best 2.
+16. One item per story: when several candidates report the same story (e.g. the
+    weekly gold decline on Fed/yield pressure), keep the single best version and
+    move the others' canonical URLs into its `related_urls`. Use the freed slots
+    for DIFFERENT stories: silver, festive demand, policy, domestic premiums.
+    Themes spanning several different stories belong in `trending`, not as
+    duplicate items.
+17. Silver: include at least one silver-led story (silver the main subject, not a
+    passing mention) whenever one exists in the window.
+18. Category by main subject: e.g. a bank forecast quoted in $/oz for global gold
+    is `global`, even when the bank is Indian.
 
 ## Assembling the edition
 1. Fetch the current `news/latest.json`:
@@ -140,6 +155,7 @@ headline ≤120, summary ≤600, ≤5 points each ≤160; 10 ≤ items ≤ 30;
 `trending` has 3–5 entries, each with title ≤80, summary ≤200, and 1+ `item_ids`
 that all reference real item ids;
 at least 2 items with category `mcx`; no category more than half the items;
+at most 2 items per source_domain; rank-1 item's `image_url` is non-null;
 ranks unique 1..N; every item has all base fields
 (id, rank, title, summary, url, source, source_domain, published_at, image_url, tags)
 plus `category` ∈ {mcx, global, policy, festive}, `metals` non-empty ⊆ {gold, silver},

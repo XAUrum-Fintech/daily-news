@@ -25,12 +25,19 @@ each 2-hourly edition; the scheduled agent does the judgment parts.
   Note: `rss/articles/...` links do NOT resolve to publishers via curl —
   leave `link` as-is; the agent resolves the canonical publisher URL by
   searching the exact article title.
+- **`fetch_image.py <article-url>`** — prints the publisher's own preview image
+  URL for an article page (browser UA, 15s timeout). Reads `og:image`
+  (fallback `twitter:image`) from the page HTML and prints the absolute URL.
+  Prints nothing, exit 1, when no suitable image is found (non-HTML response,
+  fetch failure, or no meta tag). Used by the agent to fill `image_url` for
+  every edition item; rank 1 must have one whenever the source provides it.
 - **`validate_edition.py <latest.json>`** — validates an edition against the
   `orob-news.v1` contract plus the extended item fields (`category`, `metals`,
   normalized `source`/`source_domain`, `breaking`, `related_urls`) and the
   hand-curated `trending` section. Exit 0 = valid, exit 1 = errors on stderr.
   Checks include: 10–30 items, ranks 1..N unique, ≥2 `mcx` items, no category
-  more than half the items, 3–5 trending entries (title ≤80, summary ≤200,
+  more than half the items, at most 2 items per `source_domain`, rank-1 item's
+  `image_url` non-null, 3–5 trending entries (title ≤80, summary ≤200,
   `item_ids` referencing real items). Loads the tag taxonomy from
   `data/taxonomy.json` (relative to the script).
 - **`publish.py <latest.json> <latest.md>`** — publishes one edition via the
@@ -50,6 +57,7 @@ each 2-hourly edition; the scheduled agent does the judgment parts.
 | Pull RSS + direct publisher feeds (broad coverage) | `src/fetch_feeds.py` |
 | Targeted searches for primary sources (MCX circulars, SEBI/RBI/IBJA releases) | agent |
 | Open key articles, verify dates/authors, resolve canonical publisher URLs | agent |
+| Extract each article's preview image (`og:image`/`twitter:image`) | agent, via `src/fetch_image.py` |
 | Rank stories by impact for Indian buyers, dedupe via `related_urls` | agent |
 | Write summaries in own words, insights, trending themes; assign `category`/`metals`/`tags`/`breaking` | agent |
 | Normalize `source`/`source_domain` | agent, using `data/publishers.json` |

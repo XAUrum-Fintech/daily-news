@@ -177,6 +177,11 @@ def main(argv):
             c.check(cnt <= n / 2,
                     "category %r has %d items, more than half of %d"
                     % (cat, cnt, n))
+        doms = [it.get("source_domain") for it in items if isinstance(it, dict)]
+        for dom, cnt in sorted(Counter(doms).items(), key=lambda kv: str(kv[0])):
+            c.check(cnt <= 2,
+                    "source_domain %r has %d items, max 2 per edition"
+                    % (dom, cnt))
         for i, it in enumerate(items):
             label = "items[%d]" % i
             if not isinstance(it, dict):
@@ -251,6 +256,14 @@ def main(argv):
                 c.check(isinstance(img, str) and img.startswith("https://"),
                         "%s: image_url must be https or null, got %r" % (label, img))
 
+        # rank-1 item must carry an image.
+        rank1 = next((it for it in items
+                      if isinstance(it, dict) and it.get("rank") == 1), None)
+        if rank1 is not None:
+            img1 = rank1.get("image_url")
+            c.check(isinstance(img1, str) and img1.startswith("https://"),
+                    "rank-1 item must have a non-null https image_url, got %r"
+                    % (img1,))
         # trending.item_ids must reference real item ids in this edition.
         item_ids = {it.get("id") for it in items if isinstance(it, dict)}
         if isinstance(trending, list):
