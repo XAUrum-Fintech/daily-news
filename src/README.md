@@ -92,3 +92,11 @@ use stock photos.
 2. Agent: searches, opens articles, assembles `latest.json` + `latest.md`
 3. `python3 src/validate_edition.py latest.json`
 4. `python3 src/publish.py latest.json latest.md`
+
+## Customs-duty watcher (separate from the feed)
+
+- **`build_customs_duty.py`** — builds and validates one tariff-value event
+  file for the daily customs-duty watcher (spec: `docs/CUSTOMS_DUTY.md`).
+  Writes `<effective>-<short>.json`, `latest.json`, and `state.json` into
+  `--out`; the scheduled agent commits them under `customs-duty/`.
+  Never touches `news/` or any feed file.
