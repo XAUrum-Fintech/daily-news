@@ -1,51 +1,54 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-09-27T12:00Z",
-  "generated_at": "2026-09-27T12:04:00Z",
+  "edition_id": "2026-09-27T14:00Z",
+  "generated_at": "2026-09-27T14:05:08Z",
   "window": {
-    "from": "2026-09-27T10:00:00Z",
-    "to": "2026-09-27T12:00:00Z"
+    "from": "2026-09-27T12:00:00Z",
+    "to": "2026-09-27T14:00:00Z"
   },
   "insights": {
-    "headline": "India's gold imports fell 58% in August as the 15% duty bit; silver imports jumped 127%.",
-    "summary": "Commerce ministry data shows India's August gold imports fell 58% to $2.3 billion while silver imports jumped 127%, with Kotak saying the same 15% duty hit both metals but only gold demand collapsed. The US-Iran Hormuz standoff stays in focus after Trump rejected Tehran's reopening pitch, keeping crude and the risk premium in play. Analysts expect another choppy week ahead of US consumer confidence, GDP, PCE inflation and payrolls data, with bullion still under Fed repricing pressure.",
+    "headline": "MCX gold slipped for the week as Fed rate-hike bets rose; rupee steadied and festive demand faces a test",
+    "summary": "MCX gold ended the week lower as markets priced the possibility of a US Fed rate hike in October, with analysts bracing for another choppy week as US jobs and inflation data meet West Asia tensions. The rupee recovered to 95.81 against the dollar on suspected RBI-backed dollar sales, even as the central bank's forex reserves fell $14.9 billion in a week. UBS said the gold-loan boom may cool as personal loans take over at NBFCs, while the Prime Minister's appeal to curb gold buying will be tested by festive-season demand.",
     "points": [
-      "August gold imports fell 58% y/y to $2.3 billion; silver imports rose 127% in the same month, per commerce ministry data.",
-      "Trump rejected Iran's seven-day Hormuz reopening pitch; Tehran insists only diplomacy can end the standoff.",
-      "US data calendar in focus: consumer confidence, GDP, PCE inflation, PMIs and non-farm payrolls.",
-      "ICICI Bank sees gold at $4,200-$4,600/oz through 2026, then $4,600-$5,000 in H1 2027 as real yields ease.",
-      "MCX October gold ended at Rs 1,51,135 per 10 grams after a roughly 2% weekly slide; the rupee may hold Rs 94.5-96."
+      "MCX gold slipped for the week as US Fed rate-hike bets rose; analysts expect another choppy week ahead.",
+      "Rupee recovered to 95.81/$ on RBI-backed dollar sales by PSU banks; RBI's Poonam Gupta called it 'overcorrected'.",
+      "RBI's forex reserves fell $14.88bn to $765.9bn in the week ended Sept 18, sharpest weekly fall since Nov 2024.",
+      "UBS says the gold-loan boom may cool as personal-loan growth hit a 30% two-year high at NBFCs in August.",
+      "ICICI Bank expects gold at $4,200-4,600/oz through 2026 and $4,600-5,000 in H1 2027 after a near-8% September correction."
     ]
   },
   "trending": [
     {
-      "title": "Gold imports collapse while silver surges",
-      "summary": "The 15% duty hit both metals in August, but only gold imports collapsed 58% to $2.3 billion while silver imports rose 127%. Kotak: buyers shifted to cheaper silver as record prices weighed on gold.",
+      "title": "Festive demand meets the PM's gold appeal",
+      "summary": "With Dhanteras weeks away, the Prime Minister's appeal to curb gold buying is colliding with cultural buying habits, while UBS says the gold-loan boom that financed much of that demand may be cooling.",
       "item_ids": [
-        "27eea7cbd304a138",
-        "b2d210d45c9192fc"
-      ]
-    },
-    {
-      "title": "Hormuz standoff keeps the risk premium alive",
-      "summary": "Trump's rejection of Tehran's seven-day Hormuz reopening pitch keeps West Asia tensions front and centre. Analysts flag crude-price spillover as the key swing factor for bullion this week.",
-      "item_ids": [
-        "484474a2aba4dc50",
-        "4f932c889d9810fa"
+        "d8206f317886195b",
+        "3c0d08f4746a5f41"
       ]
     },
     {
       "title": "Fed repricing still runs the bullion tape",
-      "summary": "A 5.2% 10-year yield and rising odds of another Fed hike drove gold's fifth straight weekly decline, with even the bullish ICICI Bank call banking on real yields easing before $5,000 comes into view.",
+      "summary": "Rising October rate-hike odds and 10-year yields at 2007 highs kept gold under pressure; Wall Street is split, Main Street stays bullish, and ICICI Bank sees $4,600-5,000/oz in H1 2027.",
       "item_ids": [
+        "d3faa0f01bab3b52",
+        "ac90450461c86754",
+        "027e8c4f80178d99",
+        "d84070c7ac8e9bd6",
         "d2a6c047ab46c256",
-        "97bef4dd9b566d2c",
-        "b2d210d45c9192fc"
+        "97bef4dd9b566d2c"
+      ]
+    },
+    {
+      "title": "RBI defends the rupee as reserves slide",
+      "summary": "Suspected RBI dollar sales lifted the rupee off near-96 lows, but the central bank's forex reserves recorded their sharpest weekly fall since November 2024.",
+      "item_ids": [
+        "5ad0e02afc7d1c79",
+        "de6d771f09a1d7ed"
       ]
     },
     {
       "title": "India's paper-gold push continues",
-      "summary": "NSE empanelled Augmont to promote Electronic Gold Receipts and Baanganga Gold & Diamond filed a Rs 720 crore IPO, underlining the shift toward regulated, exchange-linked gold exposure.",
+      "summary": "NSE empanelled Augmont to promote Electronic Gold Receipts, and jeweller Baanganga Gold & Diamond filed for a Rs 720-crore IPO.",
       "item_ids": [
         "2f701bd8946a12ef",
         "13c85147dec6a41b"
@@ -54,21 +57,86 @@
   ],
   "items": [
     {
-      "id": "27eea7cbd304a138",
+      "id": "d3faa0f01bab3b52",
       "rank": 1,
-      "title": "India's Gold Imports Fell 58%. Silver Imports Rose 127%.",
-      "summary": "Commerce ministry data shows India's August gold imports fell to $2.3 billion, down 58% from $5.44 billion a year earlier, while silver imports jumped 127% in the same month. Kotak Institutional Equities notes the same 15% import duty hit both metals in August, and lays out three explanations for why only gold imports collapsed while silver buying surged.",
-      "url": "https://goldsilver.com/industry-news/goldsilver-news/india-gold-imports-plunge-silver-surge-august-2026/",
-      "source": "GoldSilver",
-      "source_domain": "goldsilver.com",
-      "published_at": "2026-09-25T13:19:29Z",
-      "image_url": "https://goldsilver.com/wp-content/uploads/2026/09/india-gold-imports-1.jpg",
+      "title": "Gold price outlook: MCX gold slips for the week as US Fed rate hike bets rise",
+      "summary": "MCX October gold fell about Rs 3,500 per 10 grams on the week to Rs 1,50,891, erasing September's gains as hawkish Fed signals and a 19-year high in the US 10-year yield weighed on bullion, Mint reported. Fed Governor Michael Barr said further rate hikes 'are likely to be needed' to return inflation to 2%.",
+      "url": "https://www.livemint.com/market/stock-market-news/gold-price-outlook-mcx-gold-slips-for-the-week-as-us-fed-rate-hike-bets-rise-what-s-next-for-the-yellow-metal-11790354545598.html",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "published_at": "2026-09-25T18:27:57Z",
+      "image_url": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/plain_gold_1790360352746_QrIA_1790360383625_S1fN_",
+      "tags": [
+        "gold",
+        "mcx",
+        "fed",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "d8206f317886195b",
+      "rank": 2,
+      "title": "Gold Loan Boom Set To Cool As Personal Loans Take Over, UBS Says",
+      "summary": "UBS says the gold-loan boom is set to cool as personal loans take over: personal-loan growth hit a two-year high of 30% at NBFCs in August, and stabilising gold prices threaten to end the rally that lifted gold loans from 1% to 5% of GDP since FY19.",
+      "url": "https://www.ndtvprofit.com/personal-finance/gold-loan-boom-set-to-cool-as-personal-loans-take-over-ubs-says-12101271",
+      "source": "NDTV Profit",
+      "source_domain": "ndtvprofit.com",
+      "published_at": "2026-09-26T09:21:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-gold.jpg",
+      "tags": [
+        "gold",
+        "india",
+        "mcx"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "3c0d08f4746a5f41",
+      "rank": 3,
+      "title": "PM Modi Asked Indians To Skip Gold. Festivals Will Put That To The Test",
+      "summary": "NDTV reports that Prime Minister Narendra Modi's appeal to Indians to cut back on gold purchases is about to meet its real test as the festive season builds toward Dhanteras and Diwali. The appeal, first made in May and renewed since, aims to curb the import bill and protect forex reserves amid the oil-price shock; jewellers and buyers now weigh cultural buying against the call for restraint.",
+      "url": "https://www.ndtv.com/business-news/pm-modi-asked-indians-to-skip-gold-festivals-will-put-that-to-the-test-12096100",
+      "source": "NDTV",
+      "source_domain": "ndtv.com",
+      "published_at": "2026-09-26T10:00:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-gold.jpg",
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
+      ],
+      "category": "festive",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "5ad0e02afc7d1c79",
+      "rank": 4,
+      "title": "Rupee recovers as large public sector banks sell US dollars",
+      "summary": "The rupee gained 15 paise to close at 95.81 against the US dollar on Friday as large public sector banks sold dollars, seen acting at the RBI's behest in thin volumes, recovering from a near-96 low. Traders said the RBI was active before the open and used dollar-rupee sell-buy swaps; RBI deputy governor Poonam Gupta called the rupee 'overcorrected'.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-recovers-as-large-public-sector-banks-sell-us-dollars/articleshow/134497026.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "published_at": "2026-09-26T09:49:00Z",
+      "image_url": "https://img.etimg.com/thumb/msid-134497036,width-1200,height-630,imgsize-38656,overlay-etmarkets/articleshow.jpg",
       "tags": [
         "gold",
         "silver",
         "mcx",
+        "rupee",
         "india",
-        "import-duty"
+        "rbi"
       ],
       "category": "mcx",
       "metals": [
@@ -78,8 +146,30 @@
       "breaking": false
     },
     {
+      "id": "de6d771f09a1d7ed",
+      "rank": 5,
+      "title": "India's forex fall by $14.9 billion in a week, says RBI: Where do reserves stand now?",
+      "summary": "RBI data showed forex reserves dropped $14.88 billion to $765.90 billion in the week ended September 18, the sharpest weekly fall since November 2024, driven by a $14.82 billion slide in foreign currency assets. IDFC First Bank's Gaura Sen Gupta said there was an actual dollar sale of $10.9 billion with the rest revaluation loss; RBI's gold reserves rose $68 million to $111.29 billion.",
+      "url": "https://www.livemint.com/economy/indias-forex-fall-by-14-9-billion-in-a-week-says-rbi-where-do-reserves-stand-now-11790404091421.html",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "published_at": "2026-09-26T06:54:39Z",
+      "image_url": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/2-0-1422536355-iStock-503052802-0_1679748824621_1790405318062_Heey_cfcb37ae-d62b-4af3-9e0e-9f1f06f39ec9_SJmC.jpg",
+      "tags": [
+        "gold",
+        "india",
+        "rbi",
+        "mcx"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false
+    },
+    {
       "id": "484474a2aba4dc50",
-      "rank": 2,
+      "rank": 6,
       "title": "Iran insists on diplomatic solution after Trump rejects peace plan",
       "summary": "Donald Trump on Saturday rejected Iran's proposal to reopen the Strait of Hormuz within seven days, an offer conveyed through Qatari mediators at the UN General Assembly. On Sunday, Iran's foreign minister Abbas Araqchi said only a negotiated solution could end the conflict, while the Wall Street Journal reported Trump privately expects to resume bombing Iran after the November midterms.",
       "url": "https://www.reuters.com/world/asia-pacific/iran-insists-diplomatic-solution-after-trump-rejects-peace-plan-2026-09-26/",
@@ -101,55 +191,8 @@
       ]
     },
     {
-      "id": "4f932c889d9810fa",
-      "rank": 3,
-      "title": "Bullion may stay volatile as US data, W Asia tensions take focus: Analysts",
-      "summary": "Gold and silver face another choppy week as traders turn to the US data calendar - consumer confidence, GDP and PCE inflation readings, manufacturing PMIs, Fed speeches and the non-farm payrolls report, analysts told PTI. The US-Iran standoff stays in play after Trump rejected Tehran's proposal to reopen the Strait of Hormuz, with crude prices adding to the uncertainty.",
-      "url": "https://www.business-standard.com/markets/news/bullion-may-stay-volatile-as-us-data-w-asia-tensions-take-focus-analysts-126092700447_1.html",
-      "source": "Business Standard",
-      "source_domain": "business-standard.com",
-      "published_at": "2026-09-27T11:42:43Z",
-      "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/07/thumb/fitandfill/1200X628/1775547627-738.jpeg",
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "india",
-        "fed",
-        "global"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false
-    },
-    {
-      "id": "b2d210d45c9192fc",
-      "rank": 4,
-      "title": "Gold may rise to $5,000/oz in H1 2027 after near-term consolidation: ICICI Bank",
-      "summary": "ICICI Bank expects gold to trade in the $4,200-$4,600 per ounce range for the rest of 2026, rising to $4,600-$5,000 in the first half of 2027 as elevated US real yields and a stronger dollar ease. The bank says September's roughly 8% correction may not reverse bullion's broader strength, citing $17.8 billion of August ETF inflows and the PBoC's 20-tonne purchase.",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-may-rise-to-5000oz-in-h1-2027-after-near-term-consolidation-icici-bank/article71512216.ece",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "published_at": "2026-09-26T08:34:26Z",
-      "image_url": "https://bl-i.thgim.com/public/incoming/k742dh/article71507806.ece/alternates/LANDSCAPE_1200/2026-07-03T060226Z_961197379_RC2W6LAEKKNQ_RTRMADP_3_ASIA-GOLD.JPG",
-      "tags": [
-        "gold",
-        "global",
-        "fed",
-        "central-banks"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false
-    },
-    {
       "id": "ac90450461c86754",
-      "rank": 5,
+      "rank": 7,
       "title": "Gold slides 2% to $4,288, silver falls 3.7% to $63.90 on hawkish Fed, stronger dollar and rising yields",
       "summary": "Spot gold fell more than 2% for the week to about $4,288 an ounce and silver dropped 3.7% to $63.90 as hawkish Federal Reserve signals, a stronger US dollar and rising Treasury yields pressured bullion. On MCX, October gold closed at Rs 1,51,135 per 10 grams while December silver ended at Rs 2,33,850 per kg, with the weaker rupee cushioning the domestic decline.",
       "url": "https://hdfcsky.com/news/gold-slides-2percent-to-4288-silver-falls-3-7percent-to-63-90-on-hawkish-fed-stronger-dollar-and-rising-yields",
@@ -177,50 +220,6 @@
       ]
     },
     {
-      "id": "d3faa0f01bab3b52",
-      "rank": 6,
-      "title": "Gold price outlook: MCX gold slips for the week as US Fed rate hike bets rise",
-      "summary": "MCX October gold fell about Rs 3,500 per 10 grams on the week to Rs 1,50,891, erasing September's gains as hawkish Fed signals and a 19-year high in the US 10-year yield weighed on bullion, Mint reported. Fed Governor Michael Barr said further rate hikes 'are likely to be needed' to return inflation to 2%.",
-      "url": "https://www.livemint.com/market/stock-market-news/gold-price-outlook-mcx-gold-slips-for-the-week-as-us-fed-rate-hike-bets-rise-what-s-next-for-the-yellow-metal-11790354545598.html",
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "published_at": "2026-09-25T18:27:57Z",
-      "image_url": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/plain_gold_1790360352746_QrIA_1790360383625_S1fN_",
-      "tags": [
-        "gold",
-        "mcx",
-        "fed",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false
-    },
-    {
-      "id": "d2a6c047ab46c256",
-      "rank": 7,
-      "title": "Gold Faces a 5.2% Treasury Yield Wall as Fed Hike Odds Climb",
-      "summary": "Gold faces a wall at the 5.2% US 10-year Treasury yield as markets price rising odds of another Federal Reserve rate hike, Investing.com reports. Higher real yields and a firm dollar keep pressuring the non-yielding metal, with support near $4,235 the level to watch for buyers returning.",
-      "url": "https://www.investing.com/analysis/gold-faces-a-52-treasury-yield-wall-as-fed-hike-odds-climb-200688438",
-      "source": "Investing.com",
-      "source_domain": "investing.com",
-      "published_at": "2026-09-25T19:31:00Z",
-      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
-      "tags": [
-        "gold",
-        "global",
-        "fed",
-        "comex"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false
-    },
-    {
       "id": "027e8c4f80178d99",
       "rank": 8,
       "title": "Wall Street split on gold's path after drop below $4,300; Main Street stays bullish",
@@ -242,8 +241,56 @@
       "breaking": false
     },
     {
-      "id": "97bef4dd9b566d2c",
+      "id": "d84070c7ac8e9bd6",
       "rank": 9,
+      "title": "Gold price prediction: Experts predict Gold rate for last three months of 2026, first half of 2027",
+      "summary": "ICICI Bank expects gold at USD 4,200-4,600/oz for the rest of 2026 and USD 4,600-5,000 in H1 2027, after a near-8% September correction on hawkish US policy repricing. LKP Securities' Jateen Trivedi said gold held the Rs 1.5-1.54 lakh/10g range and ended the week over 2% lower; the US jobs report is the next test.",
+      "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-prediction-experts-predict-gold-rate-for-last-three-months-of-2026-first-half-of-2027/articleshow/134520392.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "published_at": "2026-09-27T00:17:00Z",
+      "image_url": "https://img.etimg.com/thumb/msid-134520534,width-1200,height-630,imgsize-355734,overlay-economictimes/articleshow.jpg",
+      "tags": [
+        "gold",
+        "silver",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://www.thehindubusinessline.com/markets/gold/gold-may-rise-to-5000oz-in-h1-2027-after-near-term-consolidation-icici-bank/article71512216.ece"
+      ]
+    },
+    {
+      "id": "d2a6c047ab46c256",
+      "rank": 10,
+      "title": "Gold Faces a 5.2% Treasury Yield Wall as Fed Hike Odds Climb",
+      "summary": "Gold faces a wall at the 5.2% US 10-year Treasury yield as markets price rising odds of another Federal Reserve rate hike, Investing.com reports. Higher real yields and a firm dollar keep pressuring the non-yielding metal, with support near $4,235 the level to watch for buyers returning.",
+      "url": "https://www.investing.com/analysis/gold-faces-a-52-treasury-yield-wall-as-fed-hike-odds-climb-200688438",
+      "source": "Investing.com",
+      "source_domain": "investing.com",
+      "published_at": "2026-09-25T19:31:00Z",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "tags": [
+        "gold",
+        "global",
+        "fed",
+        "comex"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "97bef4dd9b566d2c",
+      "rank": 11,
       "title": "Gold falls 5th week running as AI tech spending surges",
       "summary": "London gold fell 1.8% week-on-week to about $4,268, its fifth straight weekly decline, while silver dropped 5.3% to below $63.50 as heavy AI-related corporate borrowing pushed the US 10-year Treasury yield above 5.20%, BullionVault reported. The selloff came despite persistent geopolitical risk around the Strait of Hormuz.",
       "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-tech-ai-092520261",
@@ -268,30 +315,33 @@
       ]
     },
     {
-      "id": "483dc9b3f64282ad",
-      "rank": 10,
-      "title": "Rupee likely to trade in Rs 94.5-96 range in near term as dollar inflows fail to lift currency: Report",
-      "summary": "Bank of Baroda research expects the rupee to stay in the Rs 94.5-96 per dollar band in the near term, despite continued dollar inflows through FCNR deposits and borrowings. The report says those inflows have mostly been added to RBI reserves rather than reaching the market, limiting appreciation. The rupee has lost about 28% since January 2022, averaging Rs 95.47 in August 2026.",
-      "url": "https://www.thehindubusinessline.com/markets/forex/rupee-likely-to-trade-in-945-96-range-in-near-term-as-dollar-inflows-fail-to-lift-currency-report/article71512016.ece",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "published_at": "2026-09-26T07:22:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-gold.jpg",
+      "id": "4f932c889d9810fa",
+      "rank": 12,
+      "title": "Bullion may stay volatile as US data, W Asia tensions take focus: Analysts",
+      "summary": "Gold and silver face another choppy week as traders turn to the US data calendar - consumer confidence, GDP and PCE inflation readings, manufacturing PMIs, Fed speeches and the non-farm payrolls report, analysts told PTI. The US-Iran standoff stays in play after Trump rejected Tehran's proposal to reopen the Strait of Hormuz, with crude prices adding to the uncertainty.",
+      "url": "https://www.business-standard.com/markets/news/bullion-may-stay-volatile-as-us-data-w-asia-tensions-take-focus-analysts-126092700447_1.html",
+      "source": "Business Standard",
+      "source_domain": "business-standard.com",
+      "published_at": "2026-09-27T11:42:43Z",
+      "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/07/thumb/fitandfill/1200X628/1775547627-738.jpeg",
       "tags": [
         "gold",
+        "silver",
         "mcx",
-        "rupee",
-        "india"
+        "india",
+        "fed",
+        "global"
       ],
       "category": "mcx",
       "metals": [
-        "gold"
+        "gold",
+        "silver"
       ],
       "breaking": false
     },
     {
       "id": "2f701bd8946a12ef",
-      "rank": 11,
+      "rank": 13,
       "title": "Augmont Enterprises empanelled by NSE to promote Electronic Gold Receipts",
       "summary": "The National Stock Exchange has empanelled Augmont Enterprises to promote Electronic Gold Receipts, the exchange-traded instrument backed by physical gold held in vaults. The move aims to deepen participation in paper gold as Indian investors shift from physical holdings to regulated electronic formats.",
       "url": "https://www.business-standard.com/markets/capital-market-news/augmont-enterprises-empanelled-by-nse-to-promote-electronic-gold-receipts-126092600522_1.html",
@@ -312,7 +362,7 @@
     },
     {
       "id": "13c85147dec6a41b",
-      "rank": 12,
+      "rank": 14,
       "title": "Baanganga Gold & Diamond Files Draft Papers for Rs 720-crore IPO",
       "summary": "Baanganga Gold & Diamond (I) Ltd has filed a draft red herring prospectus with SEBI for an IPO of up to Rs 720 crore, comprising a Rs 540 crore fresh issue and a Rs 180 crore offer for sale by promoters. The integrated gold and diamond jewellery manufacturer plans to use Rs 405 crore of the proceeds for working capital requirements across FY27 to FY29.",
       "url": "https://hdfcsky.com/news/baanganga-gold-diamond-files-draft-papers-for-rs-720-crore-ipo",
