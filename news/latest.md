@@ -1,4 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-09-27T16:00Z
+# Gold & Silver for Indian buyers · 2026-09-27T18:00Z
 
 > Fed rate-hike bets keep gold subdued while UBS sees silver at $80 by September 2027
 
@@ -11,7 +11,7 @@ MCX gold slipped for the week as hawkish Fed signals, a stronger dollar and a 19
 - SGB interest stays taxable for AY 2026-27 while RBI redemption by individuals remains exempt; tighter rules apply from April 2026.
 
 ## Trending
-- **Rate-hike bets keep a lid on gold**: Rising Treasury yields and a firm dollar have gold set for a weekly loss; analysts expect choppy trade into US jobs and inflation data, with Main Street bullish and Wall Street split. (stories 1, 9, 12, 13, 10, 14)
+- **Rate-hike bets keep a lid on gold**: Rising Treasury yields and a firm dollar have gold set for a weekly loss; analysts expect choppy trade into US jobs and inflation data, with Main Street bullish and Wall Street split. (stories 1, 9, 12, 10, 13)
 - **Silver steps into the spotlight**: UBS forecasts silver at $80/oz by September 2027 on gold's coattails plus industrial demand from data centres, AI and EVs; this week's sharper silver selloff shows its higher-beta character. (stories 2, 9)
 - **India's forex cushion thins as rupee steadies**: Forex reserves fell $14.9 billion in a week while the rupee recovered on dollar sales by public-sector banks; gold's import bill stays in focus as the festive season nears. (stories 6, 5)
 - **Festive season to test the 'skip gold' call**: PM Modi's appeal to curb gold buying faces its first big test as Dhanteras and Diwali approach, with jewellers and buyers weighing cultural demand against restraint. (stories 4)
@@ -41,11 +41,9 @@ MCX gold slipped for the week as hawkish Fed signals, a stronger dollar and a 19
    ICICI Bank expects gold at USD 4,200-4,600/oz for the rest of 2026 and USD 4,600-5,000 in H1 2027, after a near-8% September correction on hawkish US policy repricing. LKP Securities' Jateen Trivedi said gold held the Rs 1.5-1.54 lakh/10g range and ended the week over 2% lower; the US jobs report is the next test.
 12. [Gold Faces a 5.2% Treasury Yield Wall as Fed Hike Odds Climb](https://www.investing.com/analysis/gold-faces-a-52-treasury-yield-wall-as-fed-hike-odds-climb-200688438) — *Investing.com*, 2026-09-25T19:31:00Z
    Gold faces a wall at the 5.2% US 10-year Treasury yield as markets price rising odds of another Federal Reserve rate hike, Investing.com reports. Higher real yields and a firm dollar keep pressuring the non-yielding metal, with support near $4,235 the level to watch for buyers returning.
-13. [Gold falls 5th week running as AI tech spending surges](https://www.bullionvault.com/gold-news/gold-price-news/gold-tech-ai-092520261) — *BullionVault*, 2026-09-25T16:07:19Z
-   London gold fell 1.8% week-on-week to about $4,268, its fifth straight weekly decline, while silver dropped 5.3% to below $63.50 as heavy AI-related corporate borrowing pushed the US 10-year Treasury yield above 5.20%, BullionVault reported. The selloff came despite persistent geopolitical risk around the Strait of Hormuz.
-14. [Bullion may stay volatile as US data, W Asia tensions take focus: Analysts](https://www.business-standard.com/markets/news/bullion-may-stay-volatile-as-us-data-w-asia-tensions-take-focus-analysts-126092700447_1.html) — *Business Standard*, 2026-09-27T11:42:43Z
+13. [Bullion may stay volatile as US data, W Asia tensions take focus: Analysts](https://www.business-standard.com/markets/news/bullion-may-stay-volatile-as-us-data-w-asia-tensions-take-focus-analysts-126092700447_1.html) — *Business Standard*, 2026-09-27T11:42:43Z
    Gold and silver face another choppy week as traders turn to the US data calendar - consumer confidence, GDP and PCE inflation readings, manufacturing PMIs, Fed speeches and the non-farm payrolls report, analysts told PTI. The US-Iran standoff stays in play after Trump rejected Tehran's proposal to reopen the Strait of Hormuz, with crude prices adding to the uncertainty.
-15. [Augmont Enterprises empanelled by NSE to promote Electronic Gold Receipts](https://www.business-standard.com/markets/capital-market-news/augmont-enterprises-empanelled-by-nse-to-promote-electronic-gold-receipts-126092600522_1.html) — *Business Standard*, 2026-09-26T09:34:01Z
+14. [Augmont Enterprises empanelled by NSE to promote Electronic Gold Receipts](https://www.business-standard.com/markets/capital-market-news/augmont-enterprises-empanelled-by-nse-to-promote-electronic-gold-receipts-126092600522_1.html) — *Business Standard*, 2026-09-26T09:34:01Z
    The National Stock Exchange has empanelled Augmont Enterprises to promote Electronic Gold Receipts, the exchange-traded instrument backed by physical gold held in vaults. The move aims to deepen participation in paper gold as Indian investors shift from physical holdings to regulated electronic formats.
-16. [Baanganga Gold & Diamond Files Draft Papers for Rs 720-crore IPO](https://hdfcsky.com/news/baanganga-gold-diamond-files-draft-papers-for-rs-720-crore-ipo) — *HDFCSky*, 2026-09-26T07:19:00Z
+15. [Baanganga Gold & Diamond Files Draft Papers for Rs 720-crore IPO](https://hdfcsky.com/news/baanganga-gold-diamond-files-draft-papers-for-rs-720-crore-ipo) — *HDFCSky*, 2026-09-26T07:19:00Z
    Baanganga Gold & Diamond (I) Ltd has filed a draft red herring prospectus with SEBI for an IPO of up to Rs 720 crore, comprising a Rs 540 crore fresh issue and a Rs 180 crore offer for sale by promoters. The integrated gold and diamond jewellery manufacturer plans to use Rs 405 crore of the proceeds for working capital requirements across FY27 to FY29.
