@@ -252,32 +252,22 @@ def main(argv):
                     "%s: tags must be non-empty subset of taxonomy, got %r" % (label, tags))
 
             img = it.get("image_url")
-            if img is not None:
-                c.check(isinstance(img, str) and img.startswith("https://"),
-                        "%s: image_url must be https or null, got %r" % (label, img))
-            elif img is None:
-                # Null is allowed for non-rank-1 items (source may genuinely
-                # provide no image), but surface it as a warning.
-                sys.stderr.write(
-                    "WARN: %s has null image_url (source provides no image)\n"
-                    % label)
+            # Nulls never publish: every item needs a publisher image or one
+            # of the repo's AI placeholder images (see assets/).
+            c.check(isinstance(img, str) and img.startswith("https://"),
+                    "%s: image_url must be a non-null https URL (publisher "
+                    "image or repo placeholder), got %r" % (label, img))
 
-        # rank-1 item must carry an image.
+        # Rank 1 should prefer a publisher image over a placeholder: warn,
+        # but do not fail.
         rank1 = next((it for it in items
                       if isinstance(it, dict) and it.get("rank") == 1), None)
         if rank1 is not None:
-            img1 = rank1.get("image_url")
-            c.check(isinstance(img1, str) and img1.startswith("https://"),
-                    "rank-1 item must have a non-null https image_url, got %r"
-                    % (img1,))
-
-        # All-null image_urls means extraction broke — investigate
-        # fetch_image.py before publishing.
-        imgs = [it.get("image_url") for it in items
-                if isinstance(it, dict)]
-        if items and all(not img for img in imgs):
-            c.check(False, "ALL items have null image_url — image extraction "
-                           "appears broken; fix fetch_image.py before publishing")
+            img1 = rank1.get("image_url") or ""
+            if "placeholder-" in img1:
+                sys.stderr.write(
+                    "WARN: rank-1 item uses a placeholder image; prefer a "
+                    "publisher image when one exists\n")
         # trending.item_ids must reference real item ids in this edition.
         item_ids = {it.get("id") for it in items if isinstance(it, dict)}
         if isinstance(trending, list):

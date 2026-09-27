@@ -87,12 +87,16 @@ source_domain, published_at, image_url, tags) PLUS:
    Factual wording only, e.g. "Gold rose 0.8% on MCX after…". Applies to insights
    and trending too.
 5. Links: https only, publisher's original (never an aggregator), tracking stripped.
-6. `image_url`: extract the publisher's own preview image for EVERY item — fetch
-   the article page and take `og:image` (fallback `twitter:image`); `null` only
-   when the source genuinely provides no image. Rank 1 MUST have an `image_url`
-   whenever the source provides one; if the top story's source has none, prefer a
-   rank-1 story whose source does. Helper: `python3 src/fetch_image.py <url>`
-   prints the image URL or nothing. Never generated or stock images.
+6. `image_url`: the publisher's own preview image for EVERY item — fetch the
+   article page and take `og:image` (fallback `twitter:image`) via
+   `python3 src/fetch_image.py <url>`. When the source provides no usable image,
+   fall back to the repo's AI-generated placeholders (never null):
+   `assets/placeholder-gold.jpg` for gold-led items,
+   `assets/placeholder-silver.jpg` for silver-led items,
+   `assets/placeholder-metals.jpg` when both — referenced by their
+   https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/…
+   URLs. Rank 1 should prefer a publisher image when one exists. Never
+   generated-per-article or stock images.
 7. Tags: only from `gold, silver, mcx, comex, rupee, rbi, fed, import-duty, india,
    global, jewellery, central-banks`.
 8. Language: plain English; rupee amounts as ₹, lakh/crore where natural. UTF-8.
@@ -155,17 +159,17 @@ headline ≤120, summary ≤600, ≤5 points each ≤160; 10 ≤ items ≤ 30;
 `trending` has 3–5 entries, each with title ≤80, summary ≤200, and 1+ `item_ids`
 that all reference real item ids;
 at least 2 items with category `mcx`; no category more than half the items;
-at most 2 items per source_domain; rank-1 item's `image_url` is non-null
-(hard-fail); hard-fail if ALL items have null `image_url` (extraction
-breakage — fix `src/fetch_image.py` before publishing); individual null
-`image_url`s elsewhere are warnings only;
+at most 2 items per source_domain; every item's `image_url` is a non-null https URL
+(publisher image or repo placeholder — nulls never publish; exit 1 on any null);
+warn (exit 0) when rank-1's `image_url` contains "placeholder-" (rank 1 should
+prefer a publisher image);
 ranks unique 1..N; every item has all base fields
 (id, rank, title, summary, url, source, source_domain, published_at, image_url, tags)
 plus `category` ∈ {mcx, global, policy, festive}, `metals` non-empty ⊆ {gold, silver},
 `breaking` boolean (default false), `related_urls` absent or a list of https URLs;
 title ≤160, summary ≤400; url https with no tracking params;
 `published_at` within 48h of `generated_at`; `id == sha256(canonical_url)[:16]`;
-tags ⊆ allowed set; `image_url` https or null.
+tags ⊆ allowed set; `image_url` non-null https (publisher image or repo placeholder).
 
 ## Change detection
 - Compare new items (id + title + summary + url) against the previous edition.

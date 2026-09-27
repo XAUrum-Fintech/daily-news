@@ -30,15 +30,17 @@ each 2-hourly edition; the scheduled agent does the judgment parts.
   (fallback `twitter:image`) from the page HTML and prints the absolute URL.
   Prints nothing, exit 1, when no suitable image is found (non-HTML response,
   fetch failure, or no meta tag). Used by the agent to fill `image_url` for
-  every edition item; rank 1 must have one whenever the source provides it.
+  every edition item. Fallback chain: publisher image → repo AI placeholder
+  (see `assets/` below) — `image_url` is never null.
 - **`validate_edition.py <latest.json>`** — validates an edition against the
   `orob-news.v1` contract plus the extended item fields (`category`, `metals`,
   normalized `source`/`source_domain`, `breaking`, `related_urls`) and the
   hand-curated `trending` section. Exit 0 = valid, exit 1 = errors on stderr.
   Checks include: 10–30 items, ranks 1..N unique, ≥2 `mcx` items, no category
-  more than half the items, at most 2 items per `source_domain`, rank-1 item's
-  `image_url` non-null (hard-fail if rank 1 OR all items have null
-  `image_url`; individual nulls elsewhere are stderr warnings only), 3–5 trending entries (title ≤80, summary ≤200,
+  more than half the items, at most 2 items per `source_domain`, every item's
+  `image_url` a non-null https URL (publisher image or repo placeholder —
+  exit 1 on any null; stderr warning only when rank 1 uses a placeholder),
+  3–5 trending entries (title ≤80, summary ≤200,
   `item_ids` referencing real items). Loads the tag taxonomy from
   `data/taxonomy.json` (relative to the script).
 - **`publish.py <latest.json> <latest.md>`** — publishes one edition via the
@@ -50,6 +52,25 @@ each 2-hourly edition; the scheduled agent does the judgment parts.
   with message `news: <generated_at>` (sha included when updating; on 409,
   re-fetch and retry once) → final GET to verify, prints the commit SHA.
   Never commits any other files; never rewrites history.
+
+## Assets (`assets/`)
+
+AI-generated placeholder images used as the `image_url` fallback when a
+publisher's article page provides no usable `og:image`/`twitter:image`.
+Referenced by their raw URLs, e.g.
+`https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-gold.jpg`.
+
+Fallback chain per item: publisher image → placeholder → (never null).
+
+| File | Use for |
+|---|---|
+| `assets/placeholder-gold.jpg` | gold-led items |
+| `assets/placeholder-silver.jpg` | silver-led items |
+| `assets/placeholder-metals.jpg` | items covering both metals |
+
+Rank 1 should prefer a publisher image when one exists (the validator warns
+if rank 1 uses a placeholder). Never generate per-article images and never
+use stock photos.
 
 ## How the agent and scripts split the work each edition
 
