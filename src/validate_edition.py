@@ -11,6 +11,7 @@ import json
 import os
 import re
 import sys
+from collections import Counter
 from datetime import datetime, timedelta, timezone
 from urllib.parse import urlparse, parse_qsl
 
@@ -21,7 +22,8 @@ EDITION_RE = re.compile(r"^\d{4}-\d{2}-\d{2}T\d{2}:00Z$")
 TRACKING_PREFIX = "utm_"
 TRACKING_EXACT = {"fbclid", "gclid"}
 
-TOP_KEYS = {"schema", "edition_id", "generated_at", "window", "insights", "items"}
+TOP_KEYS = {"schema", "edition_id", "generated_at", "window", "insights",
+            "trending", "items"}
 ITEM_REQUIRED = {
     "id", "rank", "title", "summary", "url", "source",
     "source_domain", "published_at", "tags", "category", "metals",
@@ -140,14 +142,41 @@ def main(argv):
                 c.check(isinstance(p, str) and 0 < len(p) <= 160,
                         "insights.points[%d] must be 1-160 chars" % i)
 
+    trending = doc.get("trending")
+    c.check(isinstance(trending, list), "trending must be a list")
+    if isinstance(trending, list):
+        c.check(3 <= len(trending) <= 5,
+                "trending must have 3-5 entries, got %d" % len(trending))
+        for i, t in enumerate(trending):
+            label = "trending[%d]" % i
+            if not isinstance(t, dict):
+                c.err("%s: must be an object" % label)
+                continue
+            c.check(isinstance(t.get("title"), str) and 0 < len(t["title"]) <= 80,
+                    "%s: title must be 1-80 chars" % label)
+            c.check(isinstance(t.get("summary"), str) and 0 < len(t["summary"]) <= 200,
+                    "%s: summary must be 1-200 chars" % label)
+            ids = t.get("item_ids")
+            c.check(isinstance(ids, list) and len(ids) > 0
+                    and all(isinstance(x, str) for x in ids),
+                    "%s: item_ids must be a non-empty list of strings" % label)
+
     items = doc.get("items")
     c.check(isinstance(items, list), "items must be a list")
     if isinstance(items, list):
         n = len(items)
-        c.check(5 <= n <= 20, "items must have 5-20 entries, got %d" % n)
+        c.check(10 <= n <= 30, "items must have 10-30 entries, got %d" % n)
         ranks = [it.get("rank") for it in items if isinstance(it, dict)]
         c.check(sorted(ranks) == list(range(1, n + 1)),
                 "ranks must be exactly 1..%d unique, got %s" % (n, sorted(ranks)))
+        cats = [it.get("category") for it in items if isinstance(it, dict)]
+        c.check(sum(1 for x in cats if x == "mcx") >= 2,
+                "at least 2 items must have category 'mcx', got %d"
+                % sum(1 for x in cats if x == "mcx"))
+        for cat, cnt in sorted(Counter(cats).items()):
+            c.check(cnt <= n / 2,
+                    "category %r has %d items, more than half of %d"
+                    % (cat, cnt, n))
         for i, it in enumerate(items):
             label = "items[%d]" % i
             if not isinstance(it, dict):
@@ -221,6 +250,19 @@ def main(argv):
             if img is not None:
                 c.check(isinstance(img, str) and img.startswith("https://"),
                         "%s: image_url must be https or null, got %r" % (label, img))
+
+        # trending.item_ids must reference real item ids in this edition.
+        item_ids = {it.get("id") for it in items if isinstance(it, dict)}
+        if isinstance(trending, list):
+            for i, t in enumerate(trending):
+                if not isinstance(t, dict):
+                    continue
+                ids = t.get("item_ids")
+                if isinstance(ids, list):
+                    for x in ids:
+                        c.check(x in item_ids,
+                                "trending[%d]: item_ids %r not found among edition items"
+                                % (i, x))
 
     return report(c)
 

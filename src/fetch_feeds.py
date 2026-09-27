@@ -1,14 +1,22 @@
 #!/usr/bin/env python3
-"""Fetch Google News RSS feeds for the gold/silver digest (stdlib only).
+"""Fetch candidate news for the gold/silver digest (stdlib only).
 
-Pulls the India-edition and global-edition feeds for the runbook's query sets,
-parses <item> entries and prints a JSON list to stdout:
+Two source kinds, printed as one JSON list to stdout:
 
     [{"title": ..., "link": ..., "pubDate": ..., "source_name": ...,
-      "query": ..., "edition": "IN"|"US"}]
+      "query": ..., "edition": "IN"|"US"|null, "feed_origin": ...}]
 
-`source_name` is parsed from the " - Source" suffix Google News appends to
-titles. Items are deduped by (normalized title, source_name).
+1. Google News RSS (India + global editions) for the runbook's query sets.
+   `source_name` is parsed from the " - Source" suffix Google News appends to
+   titles. `feed_origin` is "google_news_in" or "google_news_us".
+2. Direct publisher feeds (commodity/market sections preferred).
+   `source_name` is the publisher's display name, `feed_origin` is
+   "direct:<source_domain>".
+
+Items are deduped by (normalized title, source_name).
+
+A feed that fails (timeout/403/non-XML) prints a WARN to stderr and is
+skipped — it never crashes the run.
 
 NOTE (from experience): Google News ``rss/articles/...`` links do NOT resolve
 to the publisher via ``curl -sIL``. Leave ``link`` as-is; the edition agent
@@ -36,6 +44,17 @@ IN_QUERIES = [
     "RBI gold reserves",
     "gold price India",
     "silver price India",
+    "Dhanteras gold",
+    "Diwali gold demand",
+    "Akshaya Tritiya gold sales",
+    "gold jewellery demand India",
+    "silver demand India",
+    "MCX silver",
+    "gold ETF India inflows",
+    "sovereign gold bond",
+    "gold hallmarking BIS",
+    "RBI gold buying",
+    "gold import India",
 ]
 
 US_QUERIES = [
@@ -45,6 +64,32 @@ US_QUERIES = [
     "Federal Reserve gold",
     "central bank gold buying",
     "gold ETF flows",
+    "COMEX silver futures",
+    "central bank gold reserves",
+    "London gold price",
+]
+
+# (source_domain, feed_url, display_name) — all verified 200 OK with recent items.
+DIRECT_FEEDS = [
+    ("economictimes.indiatimes.com",
+     "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
+     "Economic Times"),
+    ("livemint.com",
+     "https://www.livemint.com/rss/markets",
+     "Mint"),
+    ("business-standard.com",
+     "https://www.business-standard.com/rss/markets-106.rss",
+     "Business Standard"),
+    ("thehindubusinessline.com",
+     "https://www.thehindubusinessline.com/markets/commodities/feeder/default.rss",
+     "The Hindu BusinessLine"),
+    ("investing.com",
+     "https://www.investing.com/rss/commodities.rss",
+     "Investing.com"),
+    # Low frequency (~monthly), still worth polling.
+    ("gold.org",
+     "https://www.gold.org/rss.xml",
+     "World Gold Council"),
 ]
 
 
@@ -77,7 +122,7 @@ def norm_title(title):
     return re.sub(r"\s+", " ", title).strip().lower()
 
 
-def parse_items(xml_bytes, query, edition):
+def parse_gnews_items(xml_bytes, query, edition, origin):
     items = []
     root = ET.fromstring(xml_bytes)
     for item in root.iter("item"):
@@ -93,30 +138,73 @@ def parse_items(xml_bytes, query, edition):
                 "source_name": source_name,
                 "query": query,
                 "edition": edition,
+                "feed_origin": origin,
             }
         )
     return items
 
 
+def parse_direct_items(xml_bytes, display_name, domain):
+    items = []
+    root = ET.fromstring(xml_bytes)
+    for item in root.iter("item"):
+        title = unescape((item.findtext("title") or "").strip())
+        if not title:
+            continue
+        items.append(
+            {
+                "title": title,
+                "link": (item.findtext("link") or "").strip(),
+                "pubDate": (item.findtext("pubDate") or "").strip(),
+                "source_name": display_name,
+                "query": None,
+                "edition": None,
+                "feed_origin": "direct:" + domain,
+            }
+        )
+    return items
+
+
+def pull(url, parse, label):
+    """Fetch+parse one feed; return items (possibly []) — never raises."""
+    try:
+        xml_bytes = fetch(url)
+    except Exception as exc:  # noqa: BLE001 - skip failed feeds
+        print("WARN: feed failed %r: %s" % (label, exc), file=sys.stderr)
+        return None
+    try:
+        return parse(xml_bytes)
+    except Exception as exc:  # noqa: BLE001
+        print("WARN: parse failed %r: %s" % (label, exc), file=sys.stderr)
+        return None
+
+
 def main():
-    feeds = [("IN", "en-IN", "IN", "IN:en", IN_QUERIES),
-             ("US", "en-US", "US", "US:en", US_QUERIES)]
     all_items = []
     failures = 0
-    for edition, hl, gl, ceid, queries in feeds:
+
+    for edition, hl, gl, ceid, queries, origin in [
+        ("IN", "en-IN", "IN", "IN:en", IN_QUERIES, "google_news_in"),
+        ("US", "en-US", "US", "US:en", US_QUERIES, "google_news_us"),
+    ]:
         for query in queries:
             url = feed_url(query, hl, gl, ceid)
-            try:
-                xml_bytes = fetch(url)
-            except Exception as exc:  # noqa: BLE001 - keep going on feed errors
-                print("WARN: feed failed %r: %s" % (query, exc), file=sys.stderr)
+            got = pull(url,
+                       lambda b, q=query, e=edition, o=origin: parse_gnews_items(b, q, e, o),
+                       "gnews:%s:%s" % (edition, query))
+            if got is None:
                 failures += 1
-                continue
-            try:
-                all_items.extend(parse_items(xml_bytes, query, edition))
-            except Exception as exc:  # noqa: BLE001
-                print("WARN: parse failed %r: %s" % (query, exc), file=sys.stderr)
-                failures += 1
+            else:
+                all_items.extend(got)
+
+    for domain, url, display_name in DIRECT_FEEDS:
+        got = pull(url,
+                   lambda b, n=display_name, d=domain: parse_direct_items(b, n, d),
+                   "direct:" + domain)
+        if got is None:
+            failures += 1
+        else:
+            all_items.extend(got)
 
     # Dedupe by (normalized title, source).
     seen = set()

@@ -5,18 +5,33 @@ each 2-hourly edition; the scheduled agent does the judgment parts.
 
 ## Scripts
 
-- **`fetch_feeds.py`** — pulls the Google News RSS feeds for the runbook's
-  India-edition queries (`hl=en-IN&gl=IN&ceid=IN:en`) and global-edition queries
-  (`hl=en-US&gl=US&ceid=US:en`), parses `<item>` entries, splits the
-  `" - Source"` suffix off titles into `source_name`, dedupes by
-  (normalized title, source), and prints a JSON list to stdout.
+- **`fetch_feeds.py`** — pulls candidate news and prints a JSON list to stdout.
+  Two source kinds:
+  1. Google News RSS for the runbook's India-edition queries
+     (`hl=en-IN&gl=IN&ceid=IN:en`) and global-edition queries
+     (`hl=en-US&gl=US&ceid=US:en`) — broadened with festival/demand queries
+     (`Dhanteras gold`, `Diwali gold demand`, `Akshaya Tritiya gold sales`,
+     `gold jewellery demand India`, `silver demand India`, `MCX silver`,
+     `gold ETF India inflows`, `sovereign gold bond`, `gold hallmarking BIS`,
+     `RBI gold buying`, `gold import India`) and global adds
+     (`COMEX silver futures`, `central bank gold reserves`, `London gold price`).
+  2. Direct publisher feeds: Economic Times markets, Mint markets,
+     Business Standard markets, Hindu BusinessLine commodities, Investing.com
+     commodities, World Gold Council (see `DIRECT_FEEDS` in the script).
+  Every candidate is tagged with `feed_origin` (`google_news_in`,
+  `google_news_us`, or `direct:<source_domain>`). A failing feed prints a WARN
+  to stderr and is skipped — it never crashes the run. Items are deduped by
+  (normalized title, source).
   Note: `rss/articles/...` links do NOT resolve to publishers via curl —
   leave `link` as-is; the agent resolves the canonical publisher URL by
   searching the exact article title.
 - **`validate_edition.py <latest.json>`** — validates an edition against the
   `orob-news.v1` contract plus the extended item fields (`category`, `metals`,
-  normalized `source`/`source_domain`, `breaking`, `related_urls`). Exit 0 =
-  valid, exit 1 = errors on stderr. Loads the tag taxonomy from
+  normalized `source`/`source_domain`, `breaking`, `related_urls`) and the
+  hand-curated `trending` section. Exit 0 = valid, exit 1 = errors on stderr.
+  Checks include: 10–30 items, ranks 1..N unique, ≥2 `mcx` items, no category
+  more than half the items, 3–5 trending entries (title ≤80, summary ≤200,
+  `item_ids` referencing real items). Loads the tag taxonomy from
   `data/taxonomy.json` (relative to the script).
 - **`publish.py <latest.json> <latest.md>`** — publishes one edition via the
   GitHub Contents API using `~/workspace/skills/github/bin/gh-api`
@@ -32,13 +47,13 @@ each 2-hourly edition; the scheduled agent does the judgment parts.
 
 | Step | Who |
 |---|---|
-| Pull RSS feeds (broad coverage) | `src/fetch_feeds.py` |
+| Pull RSS + direct publisher feeds (broad coverage) | `src/fetch_feeds.py` |
 | Targeted searches for primary sources (MCX circulars, SEBI/RBI/IBJA releases) | agent |
 | Open key articles, verify dates/authors, resolve canonical publisher URLs | agent |
-| Rank stories (MCX first, Indian-buyer relevance), dedupe via `related_urls` | agent |
-| Write summaries in own words, insights, assign `category`/`metals`/`tags`/`breaking` | agent |
+| Rank stories by impact for Indian buyers, dedupe via `related_urls` | agent |
+| Write summaries in own words, insights, trending themes; assign `category`/`metals`/`tags`/`breaking` | agent |
 | Normalize `source`/`source_domain` | agent, using `data/publishers.json` |
-| Validate the edition JSON | `src/validate_edition.py` |
+| Validate the edition JSON (incl. trending + balance rules) | `src/validate_edition.py` |
 | Change-detect and publish | `src/publish.py` |
 
 ## Edition flow (detail in `docs/RUNBOOK.md`)
