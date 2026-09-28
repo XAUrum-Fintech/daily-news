@@ -2,10 +2,10 @@
 
 > Gold hits seven-week low as oil surge revives Fed rate-hike bets; MCX gold slides on global cues
 
-Gold fell to a seven-week low below $4,200 on Monday after Brent crude jumped nearly 4% to $108 on the US-Iran standoff, reviving bets on further Fed rate hikes and lifting yields and the dollar. On MCX, gold fell Rs 2,600 per 10 grams and silver plunged Rs 5,000 a kg, while Indian gold and silver ETFs slid up to 4%. The rupee weakened toward 96 per dollar despite likely RBI intervention, keeping domestic prices elevated. Analysts say this week's US jobs data will decide whether the selloff extends or stabilises.
+Gold fell to a seven-week low below $4,200 on Monday after Brent crude jumped nearly 4% to $108 on the US-Iran standoff, reviving bets on further Fed rate hikes and lifting yields and the dollar. On MCX, gold fell ₹ 2,600 per 10 grams and silver plunged ₹ 5,000 a kg, while Indian gold and silver ETFs slid up to 4%. The rupee weakened toward 96 per dollar despite likely RBI intervention, keeping domestic prices elevated. Analysts say this week's US jobs data will decide whether the selloff extends or stabilises.
 
 - Spot gold broke below $4,200 to a seven-week low as oil-driven inflation fears boosted Fed hike bets.
-- MCX gold fell Rs 2,600 per 10 grams and silver Rs 5,000 a kg on Monday, tracking the global selloff.
+- MCX gold fell ₹ 2,600 per 10 grams and silver ₹ 5,000 a kg on Monday, tracking the global selloff.
 - The rupee slipped near 96 per dollar on oil woes; likely RBI dollar sales capped the fall at 95.9825.
 - Nomura sees an 80% chance of 25-50 bps of RBI rate hikes by December, dismissing 125 bps fears.
 - UBS expects silver at $70 by December and $80 by September 2027, citing gold support and tight fundamentals.
@@ -20,7 +20,7 @@ Gold fell to a seven-week low below $4,200 on Monday after Brent crude jumped ne
 1. [Gold hits 7-week low as oil-driven inflation fears boost rate-hike bets](https://www.reuters.com/world/india/gold-drops-more-than-1-us-rate-hike-bets-2026-09-28/) — *Reuters*, 2026-09-28T01:41:00Z
    Spot gold slid to a seven-week low below $4,200 on Monday as surging oil prices on the US-Iran standoff stoked inflation fears and bets on further Fed rate hikes, lifting Treasury yields and the dollar. Markets see a 70.3% chance of a Fed hike in October. Silver fell alongside ahead of US PCE and jobs data.
 2. [Gold price falls Rs 2,600, silver plunges Rs 5,000 on Monday](https://www.thehindubusinessline.com/markets/gold/gold-price-falls-2600-silver-plunges-5000-amid-crude-oil-surge/article71519585.ece) — *The Hindu BusinessLine*, 2026-09-28T11:31:02Z
-   Gold tumbled Rs 2,600 to Rs 1.5 lakh per 10 grams in New Delhi on Monday while silver plunged Rs 5,000 to Rs 2.32 lakh per kg, tracking weak global markets as a firm dollar and Brent crude surging 4% to $108.53 on US-Iran tensions pressured precious metals.
+   Gold tumbled ₹ 2,600 to ₹ 1.5 lakh per 10 grams in New Delhi on Monday while silver plunged ₹ 5,000 to ₹ 2.32 lakh per kg, tracking weak global markets as a firm dollar and Brent crude surging 4% to $108.53 on US-Iran tensions pressured precious metals.
 3. [Why Gold, silver ETFs tumbled over 4% today | What's behind the fall and what should investors do?](https://www.livemint.com/market/commodities/why-gold-silver-etfs-tumbled-over-4-today-whats-behind-the-fall-and-what-should-investors-do-11790580238197.html) — *Mint*, 2026-09-28T09:03:25Z
    Indian gold and silver ETFs tumbled up to 4% on Monday, mirroring the sharp fall in bullion as Fed rate-hike bets strengthened. The slide tracked MCX futures lower, with higher US yields and a firm dollar cited as the immediate triggers.
 4. [Oil woes push rupee to over one-week low, RBI caps fall near 96/USD](https://economictimes.indiatimes.com/markets/forex/forex-news/oil-woes-push-rupee-to-over-one-week-low-rbi-caps-fall-near-96/usd/articleshow/134539275.cms) — *Economic Times*, 2026-09-28T10:27:19Z
