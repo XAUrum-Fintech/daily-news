@@ -1,383 +1,434 @@
 {
-  "schema": "orob-news.v1",
-  "edition_id": "2026-09-28T02:00Z",
-  "generated_at": "2026-09-28T02:08:49Z",
-  "window": {
-    "from": "2026-09-28T00:00:00Z",
-    "to": "2026-09-28T02:00:00Z"
-  },
-  "insights": {
-    "headline": "Gold drops more than 1% as October rate-hike bets harden; oil above $106 keeps inflation front and centre.",
-    "summary": "Gold slid 1.5% to $4,223.95 early Monday as oil above $106 and near-record bond yields cemented bets on another Fed hike in October, while the dollar held near a two-month high. In India, Kotak flagged the collapse in monthly gold imports, silver lagged with a 2.6% slide, and a Mumbai jewellery maker filed for a Rs 720-crore IPO - all against the backdrop of the festive season.",
-    "points": [
-      "Spot gold -1.5% to $4,223.95 on Monday; traders price a 66% chance of an October Fed hike (Reuters).",
-      "Brent above $106 after Trump rejected Iran's Hormuz proposal; dollar index at 101.15, up 1.7% in September (ET).",
-      "Silver slid 2.6% to $62.64; bounces capped near $65.09 with 10-year yields near 5.17% (Reuters, FXEmpire).",
-      "Kotak's good-bad-ugly verdict on India's import slide meets the festive 'skip gold' test (CNBC-TV18, NDTV).",
-      "NSE empanelled Augmont to promote gold receipts; Baanganga's Rs 720-cr IPO bets on wholesale jewellery doubling by CY30 (BS, Hindu BusinessLine)."
-    ]
-  },
-  "trending": [
-    {
-      "title": "October rate-hike bets harden",
-      "summary": "Traders price 65-66% odds of another Fed hike in October as oil and yields run hot; gold and silver keep sliding.",
-      "item_ids": [
-        "957868eb0666b969",
-        "044cc4acd6066aa3"
-      ]
-    },
-    {
-      "title": "Oil-Iran standoff drives the macro trade",
-      "summary": "Brent above $106 after Trump rejected Tehran's Hormuz proposal; energy costs feed inflation fears and bond yields.",
-      "item_ids": [
-        "4f932c889d9810fa",
-        "044cc4acd6066aa3"
-      ]
-    },
-    {
-      "title": "India's import slide becomes the domestic story",
-      "summary": "Kotak's good-bad-ugly framing puts duty policy, not the Fed, at the centre of India's gold flows; festive buying will test Modi's 'skip gold' call.",
-      "item_ids": [
-        "678977113a9d562a",
-        "3c0d08f4746a5f41"
-      ]
-    },
-    {
-      "title": "Silver's lag widens",
-      "summary": "Silver fell 2.6% on Monday and every bounce near $65.09 stays capped while 10-year yields sit near 5.17% and the dollar holds firm.",
-      "item_ids": [
-        "957868eb0666b969",
-        "ac90450461c86754",
-        "fc2336d84cbae60d"
-      ]
-    },
-    {
-      "title": "Market structure deepens",
-      "summary": "NSE empanelled Augmont to promote electronic gold receipts, and Baanganga's Rs 720-crore IPO bets on India's wholesale jewellery market doubling by CY30.",
-      "item_ids": [
-        "2f701bd8946a12ef",
-        "a6d566b22e1daf7d"
-      ]
-    }
-  ],
-  "items": [
-    {
-      "id": "957868eb0666b969",
-      "rank": 1,
-      "title": "Gold drops more than 1% on US rate-hike bets",
-      "summary": "Spot gold fell 1.5% to $4,223.95 early Monday as higher oil prices and elevated bond yields reinforced bets on more Fed hikes. KCM Trade's Tim Waterer called the yield-oil tandem 'a thorn in gold's side'; traders price a 66% chance of an October hike. Silver slid 2.6% to $62.64 ahead of PCE and payrolls data.",
-      "url": "https://www.reuters.com/world/india/gold-drops-more-than-1-us-rate-hike-bets-2026-09-28/",
-      "source": "Reuters",
-      "source_domain": "reuters.com",
-      "published_at": "2026-09-28T01:41:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-gold.jpg",
-      "tags": [
-        "gold",
-        "silver",
-        "global",
-        "fed"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false
-    },
-    {
-      "id": "678977113a9d562a",
-      "rank": 2,
-      "title": "Explained - The good, bad and ugly about the decline in Gold imports by Kotak Institutional Equities",
-      "summary": "Kotak says India's official monthly gold imports have fallen sharply since May 2026, from $7.4B in February to $2.3B in August. The slide is 'good' if households permanently reset demand after the May 13 duty hike made domestic gold 9% dearer, 'bad' if purchases only paused ahead of possible duty normalization, 'ugly' if buying moved into unofficial channels, costing customs and GST revenue.",
-      "url": "https://www.cnbctv18.com/market/commodities/gold-monthly-imports-declining-good-bad-ugly-kotak-explains-prices-spot-global-mcx-festive-demand-19998538.htm",
-      "source": "CNBC-TV18",
-      "source_domain": "cnbctv18.com",
-      "published_at": "2026-09-27T22:58:16Z",
-      "image_url": "https://images.cnbctv18.com/uploads/2026/08/1787893984_b9enMbX5oQ-gold-loan-finance-may15jpg-tXxHyAffhw.jpg?im=FitAndFill,width=1200,height=675",
-      "tags": [
-        "gold",
-        "india",
-        "mcx",
-        "import-duty"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false
-    },
-    {
-      "id": "4f932c889d9810fa",
-      "rank": 3,
-      "title": "Bullion may stay volatile as US data, W Asia tensions take focus: Analysts",
-      "summary": "Gold and silver face another choppy week as traders turn to the US data calendar - consumer confidence, GDP and PCE inflation readings, manufacturing PMIs, Fed speeches and the non-farm payrolls report, analysts told PTI. The US-Iran standoff stays in play after Trump rejected Tehran's proposal to reopen the Strait of Hormuz, with crude prices adding to the uncertainty.",
-      "url": "https://www.business-standard.com/markets/news/bullion-may-stay-volatile-as-us-data-w-asia-tensions-take-focus-analysts-126092700447_1.html",
-      "source": "Business Standard",
-      "source_domain": "business-standard.com",
-      "published_at": "2026-09-27T11:42:43Z",
-      "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/07/thumb/fitandfill/1200X628/1775547627-738.jpeg",
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "india",
-        "fed",
-        "global"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://www.7globe.in/gold-and-silver-outlook-whats-in-store-for-traders-this-week-job-data-crude-and-more-in-focus/"
-      ]
-    },
-    {
-      "id": "044cc4acd6066aa3",
-      "rank": 4,
-      "title": "Dollar firms as US-Iran tensions lift oil, hawkish Fed bets build",
-      "summary": "The dollar held near a two-month high (DXY 101.15, up 1.7% in September) as Brent rose above $106 after Donald Trump rejected an Iranian proposal to reopen the Strait of Hormuz. Traders price a 65% chance of an October Fed hike; OCBC's Sim Moh Siong warned the dollar could overshoot if energy tensions persist.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-firms-as-us-iran-tensions-lift-oil-hawkish-fed-bets-build/articleshow/134529719.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "published_at": "2026-09-28T01:58:00Z",
-      "image_url": "https://img.etimg.com/thumb/msid-134529731,width-1200,height-630,imgsize-94362,overlay-etmarkets/articleshow.jpg",
-      "tags": [
-        "gold",
-        "global",
-        "fed",
-        "india"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false
-    },
-    {
-      "id": "2f701bd8946a12ef",
-      "rank": 5,
-      "title": "Augmont Enterprises empanelled by NSE to promote Electronic Gold Receipts",
-      "summary": "The National Stock Exchange has empanelled Augmont Enterprises to promote Electronic Gold Receipts, the exchange-traded instrument backed by physical gold held in vaults. The move aims to deepen participation in paper gold as Indian investors shift from physical holdings to regulated electronic formats.",
-      "url": "https://www.business-standard.com/markets/capital-market-news/augmont-enterprises-empanelled-by-nse-to-promote-electronic-gold-receipts-126092600522_1.html",
-      "source": "Business Standard",
-      "source_domain": "business-standard.com",
-      "published_at": "2026-09-26T09:34:01Z",
-      "image_url": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
-      "tags": [
-        "gold",
-        "mcx",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false
-    },
-    {
-      "id": "ac90450461c86754",
-      "rank": 6,
-      "title": "Gold slides 2% to $4,288, silver falls 3.7% to $63.90 on hawkish Fed, stronger dollar and rising yields",
-      "summary": "Spot gold fell more than 2% for the week to about $4,288 an ounce and silver dropped 3.7% to $63.90 as hawkish Federal Reserve signals, a stronger US dollar and rising Treasury yields pressured bullion. On MCX, October gold closed at Rs 1,51,135 per 10 grams while December silver ended at Rs 2,33,850 per kg, with the weaker rupee cushioning the domestic decline.",
-      "url": "https://hdfcsky.com/news/gold-slides-2percent-to-4288-silver-falls-3-7percent-to-63-90-on-hawkish-fed-stronger-dollar-and-rising-yields",
-      "source": "HDFCSky",
-      "source_domain": "hdfcsky.com",
-      "published_at": "2026-09-26T08:23:42Z",
-      "image_url": "https://static.hdfcsky.com/wp-content/uploads/2026/07/gold-silver-weekly-price-review.jpg",
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "fed",
-        "global",
-        "india",
-        "rupee"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://www.kitco.com/news/off-the-wire/2026-09-25/mounting-rate-hike-bets-keep-weekly-loss-sight-gold"
-      ]
-    },
-    {
-      "id": "fc2336d84cbae60d",
-      "rank": 7,
-      "title": "Silver (XAG) Forecast: Treasury Yields and Dollar Cap Bounce at $65.09",
-      "summary": "Spot silver closed Friday higher above its 50-day average near $63.77, but FXEmpire notes sellers capped every bounce near $65.32 as 10-year Treasury yields near 5.17% and a firm dollar pressed on the metal. Softening US-Iran headlines also trimmed safe-haven demand, leaving the near-term uptrend intact only above the $63.07–$62.31 support zone.",
-      "url": "https://www.fxempire.com/forecasts/article/silver-xag-forecast-treasury-yields-and-dollar-cap-bounce-at-65-09-1632606",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "published_at": "2026-09-27T22:47:04Z",
-      "image_url": "https://responsive.fxempire.com/v7/_fxempire_/2026/09/silver-precious-metal-price-chart-07-5.jpg?func=cover&q=70&width=1201",
-      "tags": [
-        "silver",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "breaking": false
-    },
-    {
-      "id": "b2ddaa0385965fd3",
-      "rank": 8,
-      "title": "What Fed’s rate hike means for gold, the rupee and Indian markets",
-      "summary": "Deccan Herald lays out what the new Fed Chair's first decision - a 25-basis-point rate hike despite President Trump's repeated calls for lower rates - means for gold prices, the rupee, Indian bond yields and stock markets.",
-      "url": "https://www.deccanherald.com/business/what-feds-rate-hike-means-for-gold-the-rupee-and-indian-markets-4161913",
-      "source": "Deccan Herald",
-      "source_domain": "deccanherald.com",
-      "published_at": "2026-09-27T11:03:00Z",
-      "image_url": "https://media.assettype.com/deccanherald%2F2026-09-27%2Fh8fxi2a6%2Ffed-rate.jpg?rect=0%2C0%2C1024%2C538&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "tags": [
-        "gold",
-        "india",
-        "fed",
-        "rupee",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false
-    },
-    {
-      "id": "36e1d18848c6c54c",
-      "rank": 9,
-      "title": "Gold Price Forecast: XAU/USD Stabilizes Near $4,300 as PCE Inflation and Jobs Data Loom",
-      "summary": "Gold steadied near $4,300 as traders awaited the September 30 US PCE inflation report and the October 2 non-farm payrolls data, FXLeaders reports. A stronger-than-expected PCE reading could reinforce expectations of further Fed tightening and pressure bullion, while softer data could give buyers room to regain momentum.",
-      "url": "https://www.fxleaders.com/news/2026/09/27/gold-price-forecast-xau-usd-stabilizes-near-4300-as-pce-inflation-and-jobs-data-loom/",
-      "source": "FXLeaders",
-      "source_domain": "fxleaders.com",
-      "published_at": "2026-09-27T19:41:04Z",
-      "image_url": "https://dr46azxe5rdcu.cloudfront.net/wp-content/uploads/2026/09/16191817/images-1-3.webp",
-      "tags": [
-        "gold",
-        "global",
-        "fed"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false
-    },
-    {
-      "id": "d8206f317886195b",
-      "rank": 10,
-      "title": "Gold Loan Boom Set To Cool As Personal Loans Take Over, UBS Says",
-      "summary": "UBS says the gold-loan boom is set to cool as personal loans take over: personal-loan growth hit a two-year high of 30% at NBFCs in August, and stabilising gold prices threaten to end the rally that lifted gold loans from 1% to 5% of GDP since FY19.",
-      "url": "https://www.ndtvprofit.com/personal-finance/gold-loan-boom-set-to-cool-as-personal-loans-take-over-ubs-says-12101271",
-      "source": "NDTV Profit",
-      "source_domain": "ndtvprofit.com",
-      "published_at": "2026-09-26T09:21:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-gold.jpg",
-      "tags": [
-        "gold",
-        "india",
-        "mcx"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false
-    },
-    {
-      "id": "a6d566b22e1daf7d",
-      "rank": 11,
-      "title": "Baanganga Gold & Diamond files draft papers for Rs 720-crore IPO",
-      "summary": "Mumbai jewellery maker Baanganga Gold & Diamond filed draft papers with SEBI for a Rs 720-crore IPO - Rs 540-crore fresh issue plus Rs 180-crore promoter offer for sale. It will deploy Rs 405 crore as working capital across FY27-29. A supplier to Malabar Gold and Kalyan Jewellers, it holds an estimated 1.9% of India's wholesale gold jewellery market.",
-      "url": "https://www.thehindubusinessline.com/markets/baanganga-gold-diamond-files-draft-papers-for-720-crore-ipo/article71511963.ece",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "published_at": "2026-09-26T07:19:00Z",
-      "image_url": "https://bl-i.thgim.com/public/incoming/e89q3g/article71512023.ece/alternates/LANDSCAPE_1200/BL23_IPO_ahead_sign.jpg",
-      "tags": [
-        "gold",
-        "india",
-        "jewellery"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false
-    },
-    {
-      "id": "d84070c7ac8e9bd6",
-      "rank": 12,
-      "title": "Gold price prediction: Experts predict Gold rate for last three months of 2026, first half of 2027",
-      "summary": "ICICI Bank expects gold at USD 4,200-4,600/oz for the rest of 2026 and USD 4,600-5,000 in H1 2027, after a near-8% September correction on hawkish US policy repricing. LKP Securities' Jateen Trivedi said gold held the Rs 1.5-1.54 lakh/10g range and ended the week over 2% lower; the US jobs report is the next test.",
-      "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-prediction-experts-predict-gold-rate-for-last-three-months-of-2026-first-half-of-2027/articleshow/134520392.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "published_at": "2026-09-27T00:17:00Z",
-      "image_url": "https://img.etimg.com/thumb/msid-134520534,width-1200,height-630,imgsize-355734,overlay-economictimes/articleshow.jpg",
-      "tags": [
-        "gold",
-        "silver",
-        "global",
-        "fed"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://www.thehindubusinessline.com/markets/gold/gold-may-rise-to-5000oz-in-h1-2027-after-near-term-consolidation-icici-bank/article71512216.ece"
-      ]
-    },
-    {
-      "id": "3c0d08f4746a5f41",
-      "rank": 13,
-      "title": "PM Modi Asked Indians To Skip Gold. Festivals Will Put That To The Test",
-      "summary": "NDTV reports that Prime Minister Narendra Modi's appeal to Indians to cut back on gold purchases is about to meet its real test as the festive season builds toward Dhanteras and Diwali. The appeal, first made in May and renewed since, aims to curb the import bill and protect forex reserves amid the oil-price shock; jewellers and buyers now weigh cultural buying against the call for restraint.",
-      "url": "https://www.ndtv.com/business-news/pm-modi-asked-indians-to-skip-gold-festivals-will-put-that-to-the-test-12096100",
-      "source": "NDTV",
-      "source_domain": "ndtv.com",
-      "published_at": "2026-09-26T10:00:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-gold.jpg",
-      "tags": [
-        "gold",
-        "india",
-        "jewellery"
-      ],
-      "category": "festive",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false
-    },
-    {
-      "id": "9ce964676fb0e5ee",
-      "title": "Sovereign Gold Bond Tax Rules for ITR AY 2026–27",
-      "summary": "Juris Hour lays out SGB tax treatment for AY 2026-27: interest is taxable as income from other sources; RBI redemption — including eligible premature redemption — by an individual is exempt under Section 47(viic); selling on a stock exchange is a taxable transfer. A narrower exemption for bonds not bought directly from the RBI applies only from April 2026.",
-      "url": "https://www.jurishour.in/columns/sovereign-gold-bond-tax-rules-itr-ay-2026-27/",
-      "source": "Juris Hour",
-      "source_domain": "jurishour.in",
-      "published_at": "2026-09-26T05:14:00Z",
-      "image_url": "https://www.jurishour.in/wp-content/uploads/2026/09/Sovereign-Gold-bonds-768x432.jpg",
-      "tags": [
-        "gold",
-        "india"
-      ],
-      "category": "policy",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 14
-    }
+ "schema": "orob-news.v1",
+ "edition_id": "2026-09-28T04:00Z",
+ "generated_at": "2026-09-28T04:05:48Z",
+ "window": {
+  "from": "2026-09-28T02:00:00Z",
+  "to": "2026-09-28T04:00:00Z"
+ },
+ "insights": {
+  "headline": "Gold slides over 1% as October rate-hike bets harden; silver nears $62 with data week ahead.",
+  "summary": "Spot gold fell 1.5% to $4,223.95 early Monday and silver 2.6% to $62.64 as oil above $106 and near-record bond yields reinforced bets on an October Fed hike, with US PCE data on September 30 and payrolls on October 2 as this week's triggers. In India, MCX gold futures lost nearly 2.3% last week to around ₹1.5 lakh per 10 grams; Kotak flagged the collapse in monthly gold imports while Macquarie projected MCX revenue growing 19% annually through FY30 on wider investor participation.",
+  "points": [
+   "Spot gold -1.5% to $4,223.95, silver -2.6% to $62.64 as traders price 66% odds of an October Fed hike (Reuters).",
+   "MCX gold futures -2.3% last week to ~₹1.5 lakh/10g; silver futures -3% to ₹2.34 lakh/kg (CNBC-TV18).",
+   "Kotak flags India's gold import slide since May; silver bounces capped near $65.09 on 10-year yields near 5.17% (CNBC-TV18, FXEmpire).",
+   "Macquarie sees MCX revenue rising 19% annually through FY30 as traded clients hit 2.1 million in FY26 (Economic Times).",
+   "PCE inflation on Sep 30 and US payrolls on Oct 2 will test whether gold holds $4,300 (CNBC-TV18, FXLeaders)."
   ]
+ },
+ "trending": [
+  {
+   "title": "October rate-hike bets harden",
+   "summary": "Traders price 66% odds of another Fed hike in October as oil above $106 and yields run hot; gold and silver keep sliding.",
+   "item_ids": [
+    "957868eb0666b969",
+    "cf8f9e492569ec61"
+   ]
+  },
+  {
+   "title": "Data week decides the Fed trade",
+   "summary": "PCE inflation on September 30 and payrolls on October 2 will test whether gold's $4,300 level is a base or a ceiling for the next Fed move.",
+   "item_ids": [
+    "36e1d18848c6c54c",
+    "a31043da934690a2"
+   ]
+  },
+  {
+   "title": "Silver's lag widens",
+   "summary": "Silver fell 2.6% to $62.64 on Monday and every bounce near $65.09 stays capped while 10-year yields sit near 5.17% and the dollar holds firm.",
+   "item_ids": [
+    "cf8f9e492569ec61",
+    "fc2336d84cbae60d",
+    "957868eb0666b969"
+   ]
+  },
+  {
+   "title": "India's import slide becomes the domestic story",
+   "summary": "Kotak's good-bad-ugly framing puts duty policy, not the Fed, at the centre of India's gold flows; festive buying will test the 'skip gold' call.",
+   "item_ids": [
+    "678977113a9d562a",
+    "3c0d08f4746a5f41"
+   ]
+  },
+  {
+   "title": "MCX's growth story deepens",
+   "summary": "Macquarie projects 19% annual revenue growth through FY30 as traded clients hit 2.1 million; NSE empanelled Augmont to promote electronic gold receipts.",
+   "item_ids": [
+    "7d1725b4be6a92d0",
+    "2f701bd8946a12ef"
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "957868eb0666b969",
+   "rank": 1,
+   "title": "Gold drops more than 1% on US rate-hike bets",
+   "summary": "Spot gold fell 1.5% to $4,223.95 early Monday as higher oil prices and elevated bond yields reinforced bets on more Fed hikes. KCM Trade's Tim Waterer called the yield-oil tandem 'a thorn in gold's side'; traders price a 66% chance of an October hike. Silver slid 2.6% to $62.64 ahead of PCE and payrolls data.",
+   "url": "https://www.reuters.com/world/india/gold-drops-more-than-1-us-rate-hike-bets-2026-09-28/",
+   "source": "Reuters",
+   "source_domain": "reuters.com",
+   "published_at": "2026-09-28T01:41:00Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-metals.jpg",
+   "tags": [
+    "gold",
+    "silver",
+    "global",
+    "fed"
+   ],
+   "category": "global",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "related_urls": [
+    "https://economictimes.indiatimes.com/markets/commodities/news/dollar-firms-as-us-iran-tensions-lift-oil-hawkish-fed-bets-build/articleshow/134522779.cms",
+    "https://www.livemint.com/market/gold-tilts-lower-as-iran-impasse-continues-to-fan-rate-hike-bets-11790553903937.html",
+    "https://economictimes.indiatimes.com/markets/commodities/news/precious-fed-tightening-bets-weigh-on-gold-prices/articleshow/134529772.cms"
+   ]
+  },
+  {
+   "id": "a31043da934690a2",
+   "rank": 2,
+   "title": "Gold, silver prices tumble up to 2.8%: What investors should watch this week",
+   "summary": "COMEX gold fell 1.57% to $4,253.40 and silver 2.76% to $63.01 on Monday, while MCX gold futures for October lost nearly 2.3% last week to around ₹1.5 lakh per 10 grams and silver futures fell 3% to ₹2.34 lakh per kg. LKP Securities' Jateen Trivedi said profit booking continued as markets priced an October Fed hike; this week's US PCE inflation, GDP and September payrolls data will set the tone.",
+   "url": "https://www.cnbctv18.com/market/commodities/gold-silver-prices-tumble-what-investors-should-watch-this-week-19999589.htm",
+   "source": "CNBC-TV18",
+   "source_domain": "cnbctv18.com",
+   "published_at": "2026-09-28T01:55:58Z",
+   "image_url": "https://images.cnbctv18.com/uploads/2026/09/image-2026-09-fc0a568e72e09e43d54018a4cf107cd5.jpg?im=FitAndFill,width=1200,height=675",
+   "tags": [
+    "gold",
+    "silver",
+    "mcx",
+    "fed",
+    "india"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "cf8f9e492569ec61",
+   "rank": 3,
+   "title": "Silver Price Forecast: XAG/USD falls to near $62.00 amid Fed rate hike odds",
+   "summary": "Silver slid toward $62.00 an ounce on Monday as rising odds of another Fed rate hike and a firm dollar kept pressure on the white metal, according to FXStreet's technical analysis, with elevated bond yields and dollar strength capping any bounce.",
+   "url": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-6200-amid-fed-rate-hike-odds-202609280322",
+   "source": "FXStreet",
+   "source_domain": "fxstreet.com",
+   "published_at": "2026-09-28T03:22:09Z",
+   "image_url": "https://editorial.fxsstatic.com/images/i/Silver4_Medium.png",
+   "tags": [
+    "silver",
+    "fed",
+    "global"
+   ],
+   "category": "global",
+   "metals": [
+    "silver"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "678977113a9d562a",
+   "rank": 4,
+   "title": "Explained - The good, bad and ugly about the decline in Gold imports by Kotak Institutional Equities",
+   "summary": "Kotak says India's official monthly gold imports have fallen sharply since May 2026, from $7.4B in February to $2.3B in August. The slide is 'good' if households permanently reset demand after the May 13 duty hike made domestic gold 9% dearer, 'bad' if purchases only paused ahead of possible duty normalization, 'ugly' if buying moved into unofficial channels, costing customs and GST revenue.",
+   "url": "https://www.cnbctv18.com/market/commodities/gold-monthly-imports-declining-good-bad-ugly-kotak-explains-prices-spot-global-mcx-festive-demand-19998538.htm",
+   "source": "CNBC-TV18",
+   "source_domain": "cnbctv18.com",
+   "published_at": "2026-09-27T22:58:16Z",
+   "image_url": "https://images.cnbctv18.com/uploads/2026/08/1787893984_b9enMbX5oQ-gold-loan-finance-may15jpg-tXxHyAffhw.jpg?im=FitAndFill,width=1200,height=675",
+   "tags": [
+    "gold",
+    "india",
+    "mcx",
+    "import-duty"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "4f932c889d9810fa",
+   "rank": 5,
+   "title": "Bullion may stay volatile as US data, W Asia tensions take focus: Analysts",
+   "summary": "Gold and silver face another choppy week as traders turn to the US data calendar - consumer confidence, GDP and PCE inflation readings, manufacturing PMIs, Fed speeches and the non-farm payrolls report, analysts told PTI. The US-Iran standoff stays in play after Trump rejected Tehran's proposal to reopen the Strait of Hormuz, with crude prices adding to the uncertainty.",
+   "url": "https://www.business-standard.com/markets/news/bullion-may-stay-volatile-as-us-data-w-asia-tensions-take-focus-analysts-126092700447_1.html",
+   "source": "Business Standard",
+   "source_domain": "business-standard.com",
+   "published_at": "2026-09-27T11:42:43Z",
+   "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/07/thumb/fitandfill/1200X628/1775547627-738.jpeg",
+   "tags": [
+    "gold",
+    "silver",
+    "mcx",
+    "india",
+    "fed",
+    "global"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "related_urls": [
+    "https://www.7globe.in/gold-and-silver-outlook-whats-in-store-for-traders-this-week-job-data-crude-and-more-in-focus/"
+   ]
+  },
+  {
+   "id": "7d1725b4be6a92d0",
+   "rank": 6,
+   "title": "MCX revenue seen rising 19% annually through FY30 on wider investor, product base: Report",
+   "summary": "Macquarie Equity Research expects MCX revenue to grow at a 19% compound annual rate through FY30 — from Rs 23.02 billion in FY26 to Rs 39.92 billion in FY29 — as wider retail and institutional participation and smaller-ticket bullion contracts expand turnover. Traded client count rose to 2.1 million in FY26 from 0.9 million in FY24; the report flagged regulatory risk and potential NSE competition.",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/mcx-revenue-seen-rising-19-annually-through-fy30-on-wider-investor-product-base-report/articleshow/134530788.cms",
+   "source": "Economic Times",
+   "source_domain": "economictimes.indiatimes.com",
+   "published_at": "2026-09-28T03:20:14Z",
+   "image_url": "https://img.etimg.com/thumb/msid-134530821,width-1200,height-630,imgsize-2182025,overlay-etmarkets/articleshow.jpg",
+   "tags": [
+    "mcx",
+    "gold",
+    "silver",
+    "india"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "fc2336d84cbae60d",
+   "rank": 7,
+   "title": "Silver (XAG) Forecast: Treasury Yields and Dollar Cap Bounce at $65.09",
+   "summary": "Spot silver closed Friday higher above its 50-day average near $63.77, but FXEmpire notes sellers capped every bounce near $65.32 as 10-year Treasury yields near 5.17% and a firm dollar pressed on the metal. Softening US-Iran headlines also trimmed safe-haven demand, leaving the near-term uptrend intact only above the $63.07–$62.31 support zone.",
+   "url": "https://www.fxempire.com/forecasts/article/silver-xag-forecast-treasury-yields-and-dollar-cap-bounce-at-65-09-1632606",
+   "source": "FXEmpire",
+   "source_domain": "fxempire.com",
+   "published_at": "2026-09-27T22:47:04Z",
+   "image_url": "https://responsive.fxempire.com/v7/_fxempire_/2026/09/silver-precious-metal-price-chart-07-5.jpg?func=cover&q=70&width=1201",
+   "tags": [
+    "silver",
+    "global"
+   ],
+   "category": "global",
+   "metals": [
+    "silver"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "36e1d18848c6c54c",
+   "rank": 8,
+   "title": "Gold Price Forecast: XAU/USD Stabilizes Near $4,300 as PCE Inflation and Jobs Data Loom",
+   "summary": "Gold steadied near $4,300 as traders awaited the September 30 US PCE inflation report and the October 2 non-farm payrolls data, FXLeaders reports. A stronger-than-expected PCE reading could reinforce expectations of further Fed tightening and pressure bullion, while softer data could give buyers room to regain momentum.",
+   "url": "https://www.fxleaders.com/news/2026/09/27/gold-price-forecast-xau-usd-stabilizes-near-4300-as-pce-inflation-and-jobs-data-loom/",
+   "source": "FXLeaders",
+   "source_domain": "fxleaders.com",
+   "published_at": "2026-09-27T19:41:04Z",
+   "image_url": "https://dr46azxe5rdcu.cloudfront.net/wp-content/uploads/2026/09/16191817/images-1-3.webp",
+   "tags": [
+    "gold",
+    "global",
+    "fed"
+   ],
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "ac90450461c86754",
+   "rank": 9,
+   "title": "Gold slides 2% to $4,288, silver falls 3.7% to $63.90 on hawkish Fed, stronger dollar and rising yields",
+   "summary": "Spot gold fell more than 2% for the week to about $4,288 an ounce and silver dropped 3.7% to $63.90 as hawkish Federal Reserve signals, a stronger US dollar and rising Treasury yields pressured bullion. On MCX, October gold closed at Rs 1,51,135 per 10 grams while December silver ended at Rs 2,33,850 per kg, with the weaker rupee cushioning the domestic decline.",
+   "url": "https://hdfcsky.com/news/gold-slides-2percent-to-4288-silver-falls-3-7percent-to-63-90-on-hawkish-fed-stronger-dollar-and-rising-yields",
+   "source": "HDFCSky",
+   "source_domain": "hdfcsky.com",
+   "published_at": "2026-09-26T08:23:42Z",
+   "image_url": "https://static.hdfcsky.com/wp-content/uploads/2026/07/gold-silver-weekly-price-review.jpg",
+   "tags": [
+    "gold",
+    "silver",
+    "mcx",
+    "fed",
+    "global",
+    "india",
+    "rupee"
+   ],
+   "category": "global",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "related_urls": [
+    "https://www.kitco.com/news/off-the-wire/2026-09-25/mounting-rate-hike-bets-keep-weekly-loss-sight-gold"
+   ]
+  },
+  {
+   "id": "b2ddaa0385965fd3",
+   "rank": 10,
+   "title": "What Fed’s rate hike means for gold, the rupee and Indian markets",
+   "summary": "Deccan Herald lays out what the new Fed Chair's first decision - a 25-basis-point rate hike despite President Trump's repeated calls for lower rates - means for gold prices, the rupee, Indian bond yields and stock markets.",
+   "url": "https://www.deccanherald.com/business/what-feds-rate-hike-means-for-gold-the-rupee-and-indian-markets-4161913",
+   "source": "Deccan Herald",
+   "source_domain": "deccanherald.com",
+   "published_at": "2026-09-27T11:03:00Z",
+   "image_url": "https://media.assettype.com/deccanherald%2F2026-09-27%2Fh8fxi2a6%2Ffed-rate.jpg?rect=0%2C0%2C1024%2C538&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+   "tags": [
+    "gold",
+    "india",
+    "fed",
+    "rupee",
+    "global"
+   ],
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "d84070c7ac8e9bd6",
+   "rank": 11,
+   "title": "Gold price prediction: Experts predict Gold rate for last three months of 2026, first half of 2027",
+   "summary": "ICICI Bank expects gold at USD 4,200-4,600/oz for the rest of 2026 and USD 4,600-5,000 in H1 2027, after a near-8% September correction on hawkish US policy repricing. LKP Securities' Jateen Trivedi said gold held the Rs 1.5-1.54 lakh/10g range and ended the week over 2% lower; the US jobs report is the next test.",
+   "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-prediction-experts-predict-gold-rate-for-last-three-months-of-2026-first-half-of-2027/articleshow/134520392.cms",
+   "source": "Economic Times",
+   "source_domain": "economictimes.indiatimes.com",
+   "published_at": "2026-09-27T00:17:00Z",
+   "image_url": "https://img.etimg.com/thumb/msid-134520534,width-1200,height-630,imgsize-355734,overlay-economictimes/articleshow.jpg",
+   "tags": [
+    "gold",
+    "silver",
+    "global",
+    "fed"
+   ],
+   "category": "global",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "related_urls": [
+    "https://www.thehindubusinessline.com/markets/gold/gold-may-rise-to-5000oz-in-h1-2027-after-near-term-consolidation-icici-bank/article71512216.ece"
+   ]
+  },
+  {
+   "id": "d8206f317886195b",
+   "rank": 12,
+   "title": "Gold Loan Boom Set To Cool As Personal Loans Take Over, UBS Says",
+   "summary": "UBS says the gold-loan boom is set to cool as personal loans take over: personal-loan growth hit a two-year high of 30% at NBFCs in August, and stabilising gold prices threaten to end the rally that lifted gold loans from 1% to 5% of GDP since FY19.",
+   "url": "https://www.ndtvprofit.com/personal-finance/gold-loan-boom-set-to-cool-as-personal-loans-take-over-ubs-says-12101271",
+   "source": "NDTV Profit",
+   "source_domain": "ndtvprofit.com",
+   "published_at": "2026-09-26T09:21:00Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-gold.jpg",
+   "tags": [
+    "gold",
+    "india",
+    "mcx"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "2f701bd8946a12ef",
+   "rank": 13,
+   "title": "Augmont Enterprises empanelled by NSE to promote Electronic Gold Receipts",
+   "summary": "The National Stock Exchange has empanelled Augmont Enterprises to promote Electronic Gold Receipts, the exchange-traded instrument backed by physical gold held in vaults. The move aims to deepen participation in paper gold as Indian investors shift from physical holdings to regulated electronic formats.",
+   "url": "https://www.business-standard.com/markets/capital-market-news/augmont-enterprises-empanelled-by-nse-to-promote-electronic-gold-receipts-126092600522_1.html",
+   "source": "Business Standard",
+   "source_domain": "business-standard.com",
+   "published_at": "2026-09-26T09:34:01Z",
+   "image_url": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "tags": [
+    "gold",
+    "mcx",
+    "india"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "a6d566b22e1daf7d",
+   "rank": 14,
+   "title": "Baanganga Gold & Diamond files draft papers for Rs 720-crore IPO",
+   "summary": "Mumbai jewellery maker Baanganga Gold & Diamond filed draft papers with SEBI for a Rs 720-crore IPO - Rs 540-crore fresh issue plus Rs 180-crore promoter offer for sale. It will deploy Rs 405 crore as working capital across FY27-29. A supplier to Malabar Gold and Kalyan Jewellers, it holds an estimated 1.9% of India's wholesale gold jewellery market.",
+   "url": "https://www.thehindubusinessline.com/markets/baanganga-gold-diamond-files-draft-papers-for-720-crore-ipo/article71511963.ece",
+   "source": "The Hindu BusinessLine",
+   "source_domain": "thehindubusinessline.com",
+   "published_at": "2026-09-26T07:19:00Z",
+   "image_url": "https://bl-i.thgim.com/public/incoming/e89q3g/article71512023.ece/alternates/LANDSCAPE_1200/BL23_IPO_ahead_sign.jpg",
+   "tags": [
+    "gold",
+    "india",
+    "jewellery"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "3c0d08f4746a5f41",
+   "rank": 15,
+   "title": "PM Modi Asked Indians To Skip Gold. Festivals Will Put That To The Test",
+   "summary": "NDTV reports that Prime Minister Narendra Modi's appeal to Indians to cut back on gold purchases is about to meet its real test as the festive season builds toward Dhanteras and Diwali. The appeal, first made in May and renewed since, aims to curb the import bill and protect forex reserves amid the oil-price shock; jewellers and buyers now weigh cultural buying against the call for restraint.",
+   "url": "https://www.ndtv.com/business-news/pm-modi-asked-indians-to-skip-gold-festivals-will-put-that-to-the-test-12096100",
+   "source": "NDTV",
+   "source_domain": "ndtv.com",
+   "published_at": "2026-09-26T10:00:00Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-gold.jpg",
+   "tags": [
+    "gold",
+    "india",
+    "jewellery"
+   ],
+   "category": "festive",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "9ce964676fb0e5ee",
+   "title": "Sovereign Gold Bond Tax Rules for ITR AY 2026–27",
+   "summary": "Juris Hour lays out SGB tax treatment for AY 2026-27: interest is taxable as income from other sources; RBI redemption — including eligible premature redemption — by an individual is exempt under Section 47(viic); selling on a stock exchange is a taxable transfer. A narrower exemption for bonds not bought directly from the RBI applies only from April 2026.",
+   "url": "https://www.jurishour.in/columns/sovereign-gold-bond-tax-rules-itr-ay-2026-27/",
+   "source": "Juris Hour",
+   "source_domain": "jurishour.in",
+   "published_at": "2026-09-26T05:14:00Z",
+   "image_url": "https://www.jurishour.in/wp-content/uploads/2026/09/Sovereign-Gold-bonds-768x432.jpg",
+   "tags": [
+    "gold",
+    "india"
+   ],
+   "category": "policy",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "rank": 16
+  }
+ ]
 }
