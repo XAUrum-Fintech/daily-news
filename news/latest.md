@@ -1,26 +1,26 @@
-# Gold & Silver for Indian buyers · 2026-09-28T18:00Z
+# Gold & Silver for Indian buyers · 2026-09-28T20:00Z
 
-> Gold and silver extended their sell-off as oil-driven inflation fears hardened bets on another Fed rate hike.
+> Gold's sell-off deepened to 4% as multi-decade-high US yields hardened bets on another Fed hike.
 
-MCX October gold futures fell 2.42% to ₹1,47,225 per 10 grams and December silver dropped 3.22% to ₹2,27,133 per kg on Monday, with spot gold at a seven-week low below $4,200 and real US bond yields near record highs. The rupee slid to 96.03 per dollar as Brent held near $108, keeping landed gold costs high for Indian buyers. Nomura expects the RBI to raise rates by 25–50 bps by December, while China is on pace to import a record ~1,700 tonnes of gold this year, per Heraeus via Kitco.
+Spot gold slid as much as 4% to $4,111 an ounce — its lowest since August 5 — as the 10-year US Treasury yield touched its highest since June 2007 and markets priced roughly 70% odds of another Fed rate hike in October. On MCX, October gold futures fell 2.42% to ₹1,47,225 per 10 grams and December silver dropped 3.22% to ₹2,27,133 per kg, while the rupee closed at 96.03 per dollar with Brent near $108. Money managers' gold net longs fell to their weakest since late July, though China is on pace for record ~1,700-tonne imports in 2026 and stronger Indian demand ahead of Diwali may lend support.
 
-- MCX October gold futures fell 2.42% to ₹1,47,225/10g and December silver dropped 3.22% to ₹2,27,133/kg on oil-driven rate-hike bets.
-- Spot gold hit a seven-week low below $4,200 as US real bond yields touched near-record highs and the dollar held firm.
-- The rupee closed at 96.03 per dollar, keeping domestic gold prices elevated even as global prices fell.
-- China’s gold imports reached 1,141 tonnes in Jan–Aug 2026, on pace for ~1,700 tonnes – the highest of the decade, per Heraeus.
-- Indian gold and silver ETFs tumbled up to 4% on Monday, mirroring the bullion sell-off.
+- Spot gold fell as much as 4% to $4,111/oz, its lowest since August 5, as the 10-year Treasury yield hit its highest since June 2007.
+- MCX October gold futures fell 2.42% to ₹1,47,225/10g; December silver dropped 3.22% to ₹2,27,133/kg on rate-hike bets.
+- Money managers' gold net longs fell to their weakest since late July; gold ETFs saw modest outflows of 1.6 tonnes last week.
+- The rupee closed at 96.03 per dollar with Brent near $108, keeping landed gold costs high for Indian buyers.
+- UBS expects silver to reach $70/oz by December 2026 and $80 by September 2027 on tighter physical fundamentals.
 
 ## Trending
-- **Rate-hike repricing crushes bullion**: Oil-driven inflation fears have markets pricing roughly a two-in-three chance of an October Fed hike, lifting real yields to near-record highs and hammering non-yielding metals on MCX and COMEX alike. (stories 1, 3, 2, 6)
-- **Rupee at 96.03 compounds the fall**: The rupee’s slide to 96.03 per dollar against Brent near $108 keeps landed gold costs high for Indian buyers even as futures tumble, with Nomura expecting 25–50 bps of RBI hikes by December. (stories 5, 7, 1)
-- **China buys, India imports falter**: China’s non-monetary gold imports are on pace for a decade-high ~1,700 tonnes while India’s imports have declined on high prices and elevated duties – a demand split that shapes premiums and MCX pricing. (stories 4, 10)
-- **Silver’s bruised week, bullish year**: Silver fell over 3% on MCX and slid toward $60, but analysts stay constructive: UBS sees $70/oz by December 2026 and $80 by September 2027, and BMO lifted its long-term silver average to $47. (stories 3, 11, 12, 9)
+- **Rate-hike repricing crushes bullion**: Markets now price roughly 70% odds of an October Fed hike, lifting the 10-year yield to its highest since 2007 and hammering non-yielding metals on MCX and COMEX alike. (stories 1, 3, 2, 6)
+- **Rupee at 96.03 compounds the fall**: The rupee's slide to 96.03 per dollar against Brent near $108 keeps landed gold costs high for Indian buyers even as futures tumble, with Nomura expecting 25–50 bps of RBI hikes by December. (stories 5, 7, 1)
+- **China buys, India imports falter**: China's non-monetary gold imports are on pace for a decade-high ~1,700 tonnes while India's imports have declined on high prices and elevated duties – a demand split shaping premiums and MCX pricing. (stories 4, 10)
+- **Silver's bruised week, bullish year**: Silver fell over 3% on MCX and slid toward $60, but analysts stay constructive: UBS sees $70/oz by December 2026 and $80 by September 2027, and BMO lifted its long-term silver average to $47. (stories 3, 11, 12, 9)
 
 ## Stories
 1. [Gold, silver plunge up to 3% as oil surge, rate-hike bets trigger sell-off. What lies ahead?](https://economictimes.indiatimes.com/markets/stocks/news/gold-silver-plunge-up-to-3-as-oil-surge-rate-hike-bets-trigger-sell-off-what-lies-ahead/articleshow/134542705.cms) — *Economic Times*, 2026-09-28T12:28:00Z
    MCX October gold futures fell 2.42% to Rs 1,47,225 per 10 grams and December silver futures dropped 3.22% to Rs 2,27,133 per kg as surging crude and rising US yields revived bets on another Fed rate hike in October. Analysts cited by ET put immediate MCX gold support at Rs 1,47,300-1,48,000, with US inflation and jobs data due this week seen as the next trigger.
-2. [Gold hits 7-week low as oil-driven inflation fears boost rate-hike bets](https://www.reuters.com/world/india/gold-drops-more-than-1-us-rate-hike-bets-2026-09-28/) — *Reuters*, 2026-09-28T01:41:00Z
-   Spot gold slid to a seven-week low below $4,200 on Monday as surging oil prices on the US-Iran standoff stoked inflation fears and bets on further Fed rate hikes, lifting Treasury yields and the dollar. Markets see a 70.3% chance of a Fed hike in October. Silver fell alongside ahead of US PCE and jobs data.
+2. [Gold's lustre dims as Treasury yields surge, markets bet on higher Fed rates](https://www.reuters.com/world/india/golds-lustre-dims-treasury-yields-surge-markets-bet-higher-fed-rates-2026-09-28/) — *Reuters*, 2026-09-28T17:44:41Z
+   Spot gold fell 4% to $4,111 an ounce, its lowest since August 5, as the 10-year Treasury yield hit its highest since June 2007 and markets priced ~70% odds of another October Fed hike. Money managers' net longs fell to their weakest since late July; gold ETFs saw modest outflows. StoneX's Rhona O'Connell said central-bank buying and Indian festive demand ahead of Diwali could offer support.
 3. [Why Gold, silver ETFs tumbled over 4% today | What's behind the fall and what should investors do?](https://www.livemint.com/market/commodities/why-gold-silver-etfs-tumbled-over-4-today-whats-behind-the-fall-and-what-should-investors-do-11790580238197.html) — *Mint*, 2026-09-28T09:03:25Z
    Indian gold and silver ETFs tumbled up to 4% on Monday, mirroring the sharp fall in bullion as Fed rate-hike bets strengthened. The slide tracked MCX futures lower, with higher US yields and a firm dollar cited as the immediate triggers.
 4. [China on pace to import 1,700 tonnes of gold in 2026, silver price faces key test near $60/oz – Heraeus](https://www.kitco.com/news/article/2026-09-28/china-pace-import-1700-tonnes-gold-2026-silver-price-faces-key-test-near) — *Kitco*, 2026-09-28T12:00:00Z
