@@ -1,60 +1,55 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-09-28T14:00Z",
-  "generated_at": "2026-09-28T14:08:11Z",
+  "edition_id": "2026-09-28T16:00Z",
+  "generated_at": "2026-09-28T16:07:01Z",
   "window": {
-    "from": "2026-09-28T12:00:00Z",
-    "to": "2026-09-28T14:00:00Z"
+    "from": "2026-09-28T14:00:00Z",
+    "to": "2026-09-28T16:00:00Z"
   },
   "insights": {
-    "headline": "MCX gold slid below Rs 1.48 lakh as oil-driven Fed hike bets hammered bullion; ETFs fell up to 4%",
-    "summary": "Gold fell to a seven-week low near $4,200 on Monday as Brent crude near $108 revived expectations of another US Fed rate hike in October, lifting Treasury yields and the dollar. On MCX, October gold futures closed down 2.42% at Rs 1,47,225 per 10 grams and December silver fell 3.22% to Rs 2,27,133 per kg, while Indian gold and silver ETFs dropped up to 4%. The rupee weakened toward 96 per dollar, and analysts cited Rs 1,47,300-1,48,000 as immediate MCX gold support ahead of US inflation and jobs data this week.",
+    "headline": "Gold and silver extended their sell-off as oil-driven inflation fears hardened bets on another Fed rate hike.",
+    "summary": "MCX October gold futures fell 2.42% to ₹1,47,225 per 10 grams and December silver dropped 3.22% to ₹2,27,133 per kg on Monday, tracking COMEX gold below $4,200 to a seven-week low. Indian gold and silver ETFs tumbled up to 4% in sympathy while the rupee closed at 96.03 per dollar as Brent crude held near $108. Kotak flagged a sharp fall in gold imports since May's duty hike to 15%, and Nomura put an 80% probability on 25-50 bps of RBI rate hikes by December.",
     "points": [
-      "Spot gold touched its lowest since early August; silver fell over 4% as 10-year US yields topped 5.2%.",
-      "MCX gold broke below Rs 1.5 lakh; silver crashed below Rs 2.28 lakh per kg on global cues.",
-      "Indian gold and silver ETFs fell up to 4%, tracking the physical-market selloff.",
-      "Rupee slid toward 96/USD on surging crude; Nomura sees up to 50 bps of RBI hikes by December.",
-      "Kotak cut its gold import outlook as high prices, duties and a shift to ETFs weigh on demand."
+      "MCX gold fell 2.42% to ₹1,47,225/10g; silver down 3.22% to ₹2,27,133/kg as oil and rate-hike bets drove selling.",
+      "Gold and silver ETFs tumbled up to 4%, mirroring bullion; rupee closed at 96.03/$ with crude elevated.",
+      "Kotak: gold imports fell sharply since May's duty hike to 15%; festive demand may revive flows.",
+      "Nomura sees an 80% chance of 25-50 bps RBI hikes by December ahead of the Oct 5-7 policy meeting.",
+      "UBS expects silver at $70 by December and $80 by September 2027 despite the current pressure."
     ]
   },
   "trending": [
     {
-      "title": "Rate-hike repricing rules bullion",
-      "summary": "Surging oil revived October Fed-hike bets, lifting yields and the dollar and sinking gold to a seven-week low; Indian analysts see US inflation and payrolls data this week deciding the next move.",
+      "title": "Rate-hike repricing crushes bullion",
+      "summary": "Oil-driven inflation fears have markets pricing a ~68% chance of an October Fed hike, lifting yields and the dollar and hammering non-yielding metals on MCX and COMEX alike.",
       "item_ids": [
         "d8ec42fe34bb4e84",
         "957868eb0666b969",
-        "b2ddaa0385965fd3"
+        "bce28ec705f69001"
       ]
     },
     {
-      "title": "Domestic amplifiers: rupee and RBI",
-      "summary": "The rupee closed at 96.03 per dollar on surging crude, and Nomura expects the RBI to raise rates by up to 50 bps by December — both keeping domestic gold prices elevated.",
+      "title": "Rupee at 96.03 compounds the fall",
+      "summary": "The rupee closed at 96.03 per dollar as crude stayed elevated, lifting the landed cost of gold for Indian buyers even as MCX futures slid.",
       "item_ids": [
         "1c44802b97440b1a",
-        "51e8414508bfe148"
+        "d8ec42fe34bb4e84"
       ]
     },
     {
-      "title": "Silver's two stories: crash today, $80 tomorrow",
-      "summary": "Silver plunged over 4% with gold, yet UBS forecasts $80 an ounce by September 2027 on gold and industrial demand — and analysts say the metal could shine again on any dovish turn.",
+      "title": "Import slump tests festive demand",
+      "summary": "Kotak notes gold imports have fallen sharply since the May duty hike, with households pausing; the festive season will show whether demand revives or shifts further to ETFs and digital gold.",
+      "item_ids": [
+        "678977113a9d562a",
+        "f93a9ea1dc50c6fe"
+      ]
+    },
+    {
+      "title": "Silver's split outlook",
+      "summary": "Silver fell harder than gold, but analysts stay constructive: UBS sees $80 by September 2027 while technicals eye $60 support into NFP week.",
       "item_ids": [
         "cec21de6580874a7",
-        "4c6c630f8e2cccc2"
-      ]
-    },
-    {
-      "title": "Import demand weakens as prices bite",
-      "summary": "Kotak Institutional Equities flagged softer gold imports as high prices, elevated duties and a shift to ETFs and digital gold weigh on physical demand.",
-      "item_ids": [
-        "678977113a9d562a"
-      ]
-    },
-    {
-      "title": "Paper gold feels the same pain",
-      "summary": "Gold and silver ETFs tumbled up to 4% alongside physical prices, showing the selloff spared neither bars nor funds.",
-      "item_ids": [
-        "f93a9ea1dc50c6fe"
+        "4c6c630f8e2cccc2",
+        "bce28ec705f69001"
       ]
     }
   ],
@@ -89,17 +84,38 @@
     },
     {
       "breaking": false,
+      "category": "mcx",
+      "image_url": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/gold_etf_1790586155243_cAGI_1",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "published_at": "2026-09-28T09:03:25Z",
+      "rank": 2,
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "summary": "Indian gold and silver ETFs tumbled up to 4% on Monday, mirroring the sharp fall in bullion as Fed rate-hike bets strengthened. The slide tracked MCX futures lower, with higher US yields and a firm dollar cited as the immediate triggers.",
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "india"
+      ],
+      "title": "Why Gold, silver ETFs tumbled over 4% today | What's behind the fall and what should investors do?",
+      "url": "https://www.livemint.com/market/commodities/why-gold-silver-etfs-tumbled-over-4-today-whats-behind-the-fall-and-what-should-investors-do-11790580238197.html",
+      "id": "f93a9ea1dc50c6fe"
+    },
+    {
+      "breaking": false,
       "category": "global",
       "metals": [
         "gold",
         "silver"
       ],
       "published_at": "2026-09-28T01:41:00Z",
-      "rank": 2,
+      "rank": 3,
       "related_urls": [
-        "https://www.thehindubusinessline.com/markets/gold/gold-drops-more-than-2-on-us-rate-hike-bets/article71518649.ece",
-        "https://www.fxstreet.com/analysis/gold-and-silver-plunge-at-weekly-open-can-month-end-flows-and-nfp-spark-a-reversal-202609280948",
-        "https://www.investing.com/analysis/gold-breaks-below-4200-to-begin-nfp-week-on-a-bearish-note-200688484"
+        "https://www.kitco.com/news/article/2026-09-28/metals-sell-hormuz-stalemate-drives-yields-dollar-higher-kitco-am-report"
       ],
       "source": "Reuters",
       "source_domain": "reuters.com",
@@ -114,29 +130,6 @@
       "url": "https://www.reuters.com/world/india/gold-drops-more-than-1-us-rate-hike-bets-2026-09-28/",
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-metals.jpg",
       "id": "957868eb0666b969"
-    },
-    {
-      "breaking": false,
-      "category": "mcx",
-      "image_url": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/gold_etf_1790586155243_cAGI_1",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "published_at": "2026-09-28T09:03:25Z",
-      "rank": 3,
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "summary": "Indian gold and silver ETFs tumbled up to 4% on Monday, mirroring the sharp fall in bullion as Fed rate-hike bets strengthened. The slide tracked MCX futures lower, with higher US yields and a firm dollar cited as the immediate triggers.",
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "india"
-      ],
-      "title": "Why Gold, silver ETFs tumbled over 4% today | What's behind the fall and what should investors do?",
-      "url": "https://www.livemint.com/market/commodities/why-gold-silver-etfs-tumbled-over-4-today-whats-behind-the-fall-and-what-should-investors-do-11790580238197.html",
-      "id": "f93a9ea1dc50c6fe"
     },
     {
       "id": "1c44802b97440b1a",
@@ -163,53 +156,11 @@
     {
       "breaking": false,
       "category": "mcx",
-      "image_url": "https://images.cnbctv18.com/uploads/2026/08/1787893984_b9enMbX5oQ-gold-loan-finance-may15j",
-      "metals": [
-        "gold"
-      ],
-      "published_at": "2026-09-27T22:58:16Z",
-      "rank": 5,
-      "source": "CNBC-TV18",
-      "source_domain": "cnbctv18.com",
-      "summary": "Kotak Institutional Equities breaks down the decline in India's gold imports — softer demand at high prices, elevated import duties and a shift toward ETFs and digital gold — and what it means for domestic premiums, MCX prices and festive-season buying.",
-      "tags": [
-        "gold",
-        "mcx",
-        "india",
-        "import-duty"
-      ],
-      "title": "Explained - The good, bad and ugly about the decline in Gold imports by Kotak Institutional Equities",
-      "url": "https://www.cnbctv18.com/market/commodities/gold-monthly-imports-declining-good-bad-ugly-kotak-explains-prices-spot-global-mcx-festive-demand-19998538.htm",
-      "id": "678977113a9d562a"
-    },
-    {
-      "breaking": false,
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "published_at": "2026-09-27T14:27:46Z",
-      "rank": 6,
-      "source": "Yahoo Finance",
-      "source_domain": "uk.finance.yahoo.com",
-      "summary": "UBS expects silver to recover to $70 an ounce by December 2026 and reach $80 by September 2027, via $75 in March and June 2027, citing support from higher gold prices and tighter near-term physical fundamentals — while cautioning that a more hawkish Fed remains a near-term headwind.",
-      "tags": [
-        "silver",
-        "global"
-      ],
-      "title": "Silver Could Reach $80 by September 2027, According to UBS Forecast",
-      "url": "https://uk.finance.yahoo.com/news/silver-could-reach-80-september-142746719.html",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-silver.jpg",
-      "id": "cec21de6580874a7"
-    },
-    {
-      "breaking": false,
-      "category": "mcx",
       "metals": [
         "gold"
       ],
       "published_at": "2026-09-28T04:37:28Z",
-      "rank": 7,
+      "rank": 5,
       "source": "Economic Times",
       "source_domain": "economictimes.indiatimes.com",
       "summary": "Nomura expects the RBI to raise rates by a cumulative 25-50 basis points by December — assigning an 80% probability — ahead of the October 5-7 policy meeting, while dismissing market fears of 125 bps of hikes over the next year. It sees a terminal repo rate of 5.75%, arguing a full tightening cycle is unlikely.",
@@ -226,13 +177,35 @@
     },
     {
       "breaking": false,
+      "category": "mcx",
+      "image_url": "https://images.cnbctv18.com/uploads/2026/08/1787893984_b9enMbX5oQ-gold-loan-finance-may15j",
+      "metals": [
+        "gold"
+      ],
+      "published_at": "2026-09-27T22:58:16Z",
+      "rank": 6,
+      "source": "CNBC-TV18",
+      "source_domain": "cnbctv18.com",
+      "summary": "Kotak Institutional Equities breaks down the decline in India's gold imports — softer demand at high prices, elevated import duties and a shift toward ETFs and digital gold — and what it means for domestic premiums, MCX prices and festive-season buying.",
+      "tags": [
+        "gold",
+        "mcx",
+        "india",
+        "import-duty"
+      ],
+      "title": "Explained - The good, bad and ugly about the decline in Gold imports by Kotak Institutional Equities",
+      "url": "https://www.cnbctv18.com/market/commodities/gold-monthly-imports-declining-good-bad-ugly-kotak-explains-prices-spot-global-mcx-festive-demand-19998538.htm",
+      "id": "678977113a9d562a"
+    },
+    {
+      "breaking": false,
       "category": "global",
       "image_url": "https://media.assettype.com/deccanherald%2F2026-09-27%2Fh8fxi2a6%2Ffed-rate.jpg?rect=0%2C0",
       "metals": [
         "gold"
       ],
       "published_at": "2026-09-27T11:03:00Z",
-      "rank": 8,
+      "rank": 7,
       "source": "Deccan Herald",
       "source_domain": "deccanherald.com",
       "summary": "An explainer on what the Fed's rate-hike path means for gold, the rupee and Indian markets — higher US yields raise the opportunity cost of holding gold and tend to lift the dollar, pressuring both global bullion and domestic prices.",
@@ -246,6 +219,26 @@
       "title": "What Fed's rate hike means for gold, the rupee and Indian markets",
       "url": "https://www.deccanherald.com/business/what-feds-rate-hike-means-for-gold-the-rupee-and-indian-markets-4161913",
       "id": "b2ddaa0385965fd3"
+    },
+    {
+      "breaking": false,
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "published_at": "2026-09-27T14:27:46Z",
+      "rank": 8,
+      "source": "Yahoo Finance",
+      "source_domain": "uk.finance.yahoo.com",
+      "summary": "UBS expects silver to recover to $70 an ounce by December 2026 and reach $80 by September 2027, via $75 in March and June 2027, citing support from higher gold prices and tighter near-term physical fundamentals — while cautioning that a more hawkish Fed remains a near-term headwind.",
+      "tags": [
+        "silver",
+        "global"
+      ],
+      "title": "Silver Could Reach $80 by September 2027, According to UBS Forecast",
+      "url": "https://uk.finance.yahoo.com/news/silver-could-reach-80-september-142746719.html",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-silver.jpg",
+      "id": "cec21de6580874a7"
     },
     {
       "breaking": false,
@@ -268,24 +261,28 @@
       "id": "4c6c630f8e2cccc2"
     },
     {
-      "breaking": false,
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "published_at": "2026-09-28T03:15:00Z",
+      "id": "bce28ec705f69001",
       "rank": 10,
-      "source": "Reuters",
-      "source_domain": "reuters.com",
-      "summary": "Australia's Northern Star rejected a $27 billion takeover bid from South Africa's Gold Fields that would have created the world's second-largest gold miner, saying the offer undervalued the company.",
+      "title": "Gold and Silver plunge at weekly open: Can month-end flows and NFP spark a reversal?",
+      "summary": "Gold broke below $4,225 support toward $4,143 and silver fell through $62.30 toward $60.90 at the week's open as hawkish Fed expectations, rising oil and a 10-year yield near 5.23% pressured metals. FXStreet notes month-end flows could spark volatility, while Friday's US jobs report may decide whether the sell-off extends or reverses.",
+      "url": "https://www.fxstreet.com/analysis/gold-and-silver-plunge-at-weekly-open-can-month-end-flows-and-nfp-spark-a-reversal-202609280948",
+      "source": "FXStreet",
+      "source_domain": "fxstreet.com",
+      "published_at": "2026-09-28T09:48:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-metals.jpg",
       "tags": [
         "gold",
+        "silver",
+        "fed",
+        "comex",
         "global"
       ],
-      "title": "Northern Star rejects Gold Fields' $27 billion bid to create world's No.2 gold miner",
-      "url": "https://www.reuters.com/world/asia-pacific/australias-northern-star-rejects-27-billion-takeover-approach-gold-fields-2026-09-28/",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-gold.jpg",
-      "id": "103f71f2e1b4cf01"
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false
     }
   ]
 }
