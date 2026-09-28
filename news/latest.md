@@ -1,19 +1,19 @@
-# Gold & Silver for Indian buyers · 2026-09-28T20:00Z
+# Gold & Silver for Indian buyers · 2026-09-28T22:00Z
 
-> Gold's sell-off deepened to 4% as multi-decade-high US yields hardened bets on another Fed hike.
+> Gold's 4% Monday rout on oil-driven Fed-hike bets; rupee, bond yields weaken.
 
-Spot gold slid as much as 4% to $4,111 an ounce — its lowest since August 5 — as the 10-year US Treasury yield touched its highest since June 2007 and markets priced roughly 70% odds of another Fed rate hike in October. On MCX, October gold futures fell 2.42% to ₹1,47,225 per 10 grams and December silver dropped 3.22% to ₹2,27,133 per kg, while the rupee closed at 96.03 per dollar with Brent near $108. Money managers' gold net longs fell to their weakest since late July, though China is on pace for record ~1,700-tonne imports in 2026 and stronger Indian demand ahead of Diwali may lend support.
+Gold and silver extended their sell-off as oil-driven inflation fears hardened bets on another Fed rate hike, with spot gold down 4% to $4,111 — its lowest since August 5 — and MCX gold futures off 2.42% at ₹1,47,225 per 10 grams. The rupee weakened to 95.99 per dollar, down 6.37% this year, while India's 10-year bond yield hit a 2.5-year high of 7.19%. Offset against the rout, China is on pace for record ~1,700-tonne gold imports in 2026 while Indian imports falter, and analysts stay constructive on silver with UBS seeing $70/oz by December.
 
 - Spot gold fell as much as 4% to $4,111/oz, its lowest since August 5, as the 10-year Treasury yield hit its highest since June 2007.
-- MCX October gold futures fell 2.42% to ₹1,47,225/10g; December silver dropped 3.22% to ₹2,27,133/kg on rate-hike bets.
+- MCX October gold fell 2.42% to ₹1,47,225/10g; December silver dropped 3.22% to ₹2,27,133/kg on Fed-hike repricing.
+- The rupee fell to 95.99 per dollar, down 6.37% this year, while the 10-year bond yield hit a 2.5-year high of 7.19%.
 - Money managers' gold net longs fell to their weakest since late July; gold ETFs saw modest outflows of 1.6 tonnes last week.
-- The rupee closed at 96.03 per dollar with Brent near $108, keeping landed gold costs high for Indian buyers.
 - UBS expects silver to reach $70/oz by December 2026 and $80 by September 2027 on tighter physical fundamentals.
 
 ## Trending
 - **Rate-hike repricing crushes bullion**: Markets now price roughly 70% odds of an October Fed hike, lifting the 10-year yield to its highest since 2007 and hammering non-yielding metals on MCX and COMEX alike. (stories 1, 3, 2, 6)
-- **Rupee at 96.03 compounds the fall**: The rupee's slide to 96.03 per dollar against Brent near $108 keeps landed gold costs high for Indian buyers even as futures tumble, with Nomura expecting 25–50 bps of RBI hikes by December. (stories 5, 7, 1)
-- **China buys, India imports falter**: China's non-monetary gold imports are on pace for a decade-high ~1,700 tonnes while India's imports have declined on high prices and elevated duties – a demand split shaping premiums and MCX pricing. (stories 4, 10)
+- **Rupee and yields tighten the screws**: The rupee's fall to 95.99 per dollar against Brent near $107 keeps landed gold costs high for Indian buyers even as futures tumble, with the bond market pricing in RBI rate hikes. (stories 5, 7, 1)
+- **China buys, India imports falter**: China's gold imports are on pace for a decade-high ~1,700 tonnes while India's imports have declined on high prices and elevated duties, a demand split shaping premiums. (stories 4, 10)
 - **Silver's bruised week, bullish year**: Silver fell over 3% on MCX and slid toward $60, but analysts stay constructive: UBS sees $70/oz by December 2026 and $80 by September 2027, and BMO lifted its long-term silver average to $47. (stories 3, 11, 12, 9)
 
 ## Stories
@@ -25,8 +25,8 @@ Spot gold slid as much as 4% to $4,111 an ounce — its lowest since August 5 �
    Indian gold and silver ETFs tumbled up to 4% on Monday, mirroring the sharp fall in bullion as Fed rate-hike bets strengthened. The slide tracked MCX futures lower, with higher US yields and a firm dollar cited as the immediate triggers.
 4. [China on pace to import 1,700 tonnes of gold in 2026, silver price faces key test near $60/oz – Heraeus](https://www.kitco.com/news/article/2026-09-28/china-pace-import-1700-tonnes-gold-2026-silver-price-faces-key-test-near) — *Kitco*, 2026-09-28T12:00:00Z
    China’s gold imports reached 1,141 tonnes in the first eight months of 2026, already above all of 2025, and are on pace for about 1,700 tonnes – the highest of the decade – driven by investment demand, according to Heraeus analysts cited by Kitco. The note adds that silver faces a key test near $60 an ounce.
-5. [Surge in crude oil prices continue to pressurize INR](https://www.business-standard.com/markets/capital-market-news/surge-in-crude-oil-prices-continue-to-pressurize-inr-126092800981_1.html) — *Business Standard*, 2026-09-28T12:34:00Z
-   The rupee fell 28 paise to close at 96.03 per dollar on Monday as the US rejection of Iran's proposal dimmed hopes of the Strait of Hormuz reopening, keeping Brent crude near $108. Elevated oil and firm US yields are likely to keep pressuring the rupee, which keeps domestic gold prices elevated even when global prices fall.
+5. [Crude oil worries drag rupee, push bond yields to fresh 2.5-year peak](https://www.business-standard.com/markets/capital-market-news/g-sec-yields-surge-to-2-5-year-high-on-crude-spike-rupee-nears-96-126092801195_1.html) — *Business Standard*, 2026-09-28T14:15:58Z
+   India's 10-year bond yield rose 6 bps to 7.19% on Monday, a 2.5-year high, with the 5-year yield up to 6.88%, as crude near $107 and a weaker rupee pressured markets. The rupee fell to 95.99 per dollar and is down 6.37% this year. Yields rose despite strong demand at the RBI's final Rs 25,000 crore bond sale, which drew Rs 67,655 crore in bids and took September OMO sales to Rs 1 trillion.
 6. [Gold and Silver Sink as Real US Bond Yields Hit Near-Record Highs](https://www.bullionvault.co.uk/gold-news/gold-price-news/gold-silver-bond-yields-china-092820261) — *BullionVault*, 2026-09-28T12:00:00Z
    Gold and silver sank in Asian trading on Monday as US real bond yields hit near-record highs, with Shanghai gold down 2.5% and silver down 4.2%; London gold traded near $4,153, down 9.1% in September, according to BullionVault.
 7. [Will RBI announce steep rate hikes? Nomura sees up to 50 bps increase by Dec, dismisses 125 bps hike fears](https://economictimes.indiatimes.com/markets/stocks/news/will-rbi-announce-steep-rate-hikes-nomura-sees-up-to-50-bps-increase-by-dec-dismisses-125-bps-hike-fears/articleshow/134531953.cms) — *Economic Times*, 2026-09-28T04:37:28Z

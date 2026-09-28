@@ -1,19 +1,19 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-09-28T20:00Z",
-  "generated_at": "2026-09-28T20:01:58Z",
+  "edition_id": "2026-09-28T22:00Z",
+  "generated_at": "2026-09-28T22:04:06Z",
   "window": {
-    "from": "2026-09-28T18:00:00Z",
-    "to": "2026-09-28T20:00:00Z"
+    "from": "2026-09-28T20:00:00Z",
+    "to": "2026-09-28T22:00:00Z"
   },
   "insights": {
-    "headline": "Gold's sell-off deepened to 4% as multi-decade-high US yields hardened bets on another Fed hike.",
-    "summary": "Spot gold slid as much as 4% to $4,111 an ounce — its lowest since August 5 — as the 10-year US Treasury yield touched its highest since June 2007 and markets priced roughly 70% odds of another Fed rate hike in October. On MCX, October gold futures fell 2.42% to ₹1,47,225 per 10 grams and December silver dropped 3.22% to ₹2,27,133 per kg, while the rupee closed at 96.03 per dollar with Brent near $108. Money managers' gold net longs fell to their weakest since late July, though China is on pace for record ~1,700-tonne imports in 2026 and stronger Indian demand ahead of Diwali may lend support.",
+    "headline": "Gold's 4% Monday rout on oil-driven Fed-hike bets; rupee, bond yields weaken.",
+    "summary": "Gold and silver extended their sell-off as oil-driven inflation fears hardened bets on another Fed rate hike, with spot gold down 4% to $4,111 — its lowest since August 5 — and MCX gold futures off 2.42% at ₹1,47,225 per 10 grams. The rupee weakened to 95.99 per dollar, down 6.37% this year, while India's 10-year bond yield hit a 2.5-year high of 7.19%. Offset against the rout, China is on pace for record ~1,700-tonne gold imports in 2026 while Indian imports falter, and analysts stay constructive on silver with UBS seeing $70/oz by December.",
     "points": [
       "Spot gold fell as much as 4% to $4,111/oz, its lowest since August 5, as the 10-year Treasury yield hit its highest since June 2007.",
-      "MCX October gold futures fell 2.42% to ₹1,47,225/10g; December silver dropped 3.22% to ₹2,27,133/kg on rate-hike bets.",
+      "MCX October gold fell 2.42% to ₹1,47,225/10g; December silver dropped 3.22% to ₹2,27,133/kg on Fed-hike repricing.",
+      "The rupee fell to 95.99 per dollar, down 6.37% this year, while the 10-year bond yield hit a 2.5-year high of 7.19%.",
       "Money managers' gold net longs fell to their weakest since late July; gold ETFs saw modest outflows of 1.6 tonnes last week.",
-      "The rupee closed at 96.03 per dollar with Brent near $108, keeping landed gold costs high for Indian buyers.",
       "UBS expects silver to reach $70/oz by December 2026 and $80 by September 2027 on tighter physical fundamentals."
     ]
   },
@@ -29,17 +29,17 @@
       ]
     },
     {
-      "title": "Rupee at 96.03 compounds the fall",
-      "summary": "The rupee's slide to 96.03 per dollar against Brent near $108 keeps landed gold costs high for Indian buyers even as futures tumble, with Nomura expecting 25–50 bps of RBI hikes by December.",
+      "title": "Rupee and yields tighten the screws",
+      "summary": "The rupee's fall to 95.99 per dollar against Brent near $107 keeps landed gold costs high for Indian buyers even as futures tumble, with the bond market pricing in RBI rate hikes.",
       "item_ids": [
-        "1c44802b97440b1a",
+        "8f307469cc462f30",
         "51e8414508bfe148",
         "d8ec42fe34bb4e84"
       ]
     },
     {
       "title": "China buys, India imports falter",
-      "summary": "China's non-monetary gold imports are on pace for a decade-high ~1,700 tonnes while India's imports have declined on high prices and elevated duties – a demand split shaping premiums and MCX pricing.",
+      "summary": "China's gold imports are on pace for a decade-high ~1,700 tonnes while India's imports have declined on high prices and elevated duties, a demand split shaping premiums.",
       "item_ids": [
         "29734f9ed82bfd61",
         "678977113a9d562a"
@@ -82,7 +82,8 @@
       "related_urls": [
         "https://www.thehindubusinessline.com/markets/gold/gold-price-falls-2600-silver-plunges-5000-amid-crude-oil-surge/article71519585.ece",
         "https://www.cnbctv18.com/market/commodities/gold-silver-prices-tumble-what-investors-should-watch-this-week-19999589.htm",
-        "https://hiindia.com/silver-tumbles-over-rs-7000-on-mcx-slips-below-rs-2-28-lakh-amid-global-sell-off/"
+        "https://hiindia.com/silver-tumbles-over-rs-7000-on-mcx-slips-below-rs-2-28-lakh-amid-global-sell-off/",
+        "https://www.outlookmoney.com/invest/gold-silver-prices-fall-strong-us-dollar-bond-yields-crude-oil-price"
       ],
       "rank": 1
     },
@@ -109,7 +110,8 @@
       ],
       "breaking": false,
       "related_urls": [
-        "https://www.reuters.com/world/india/gold-drops-more-than-1-us-rate-hike-bets-2026-09-28/"
+        "https://www.reuters.com/world/india/gold-drops-more-than-1-us-rate-hike-bets-2026-09-28/",
+        "https://www.moneyweb.co.za/news-fast-news/gold-slumps-as-costlier-crude-oil-fans-gains-in-treasury-yields/"
       ]
     },
     {
@@ -158,26 +160,31 @@
       "rank": 4
     },
     {
-      "id": "1c44802b97440b1a",
-      "title": "Surge in crude oil prices continue to pressurize INR",
-      "summary": "The rupee fell 28 paise to close at 96.03 per dollar on Monday as the US rejection of Iran's proposal dimmed hopes of the Strait of Hormuz reopening, keeping Brent crude near $108. Elevated oil and firm US yields are likely to keep pressuring the rupee, which keeps domestic gold prices elevated even when global prices fall.",
-      "url": "https://www.business-standard.com/markets/capital-market-news/surge-in-crude-oil-prices-continue-to-pressurize-inr-126092800981_1.html",
+      "id": "8f307469cc462f30",
+      "rank": 5,
+      "title": "Crude oil worries drag rupee, push bond yields to fresh 2.5-year peak",
+      "summary": "India's 10-year bond yield rose 6 bps to 7.19% on Monday, a 2.5-year high, with the 5-year yield up to 6.88%, as crude near $107 and a weaker rupee pressured markets. The rupee fell to 95.99 per dollar and is down 6.37% this year. Yields rose despite strong demand at the RBI's final Rs 25,000 crore bond sale, which drew Rs 67,655 crore in bids and took September OMO sales to Rs 1 trillion.",
+      "url": "https://www.business-standard.com/markets/capital-market-news/g-sec-yields-surge-to-2-5-year-high-on-crude-spike-rupee-nears-96-126092801195_1.html",
       "source": "Business Standard",
       "source_domain": "business-standard.com",
-      "published_at": "2026-09-28T12:34:00Z",
-      "image_url": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+      "published_at": "2026-09-28T14:15:58Z",
+      "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/10/thumb/fitandfill/1200X628/1786382345-0314.jpg",
       "tags": [
         "rupee",
         "india",
-        "gold"
+        "gold",
+        "rbi"
       ],
       "category": "mcx",
       "metals": [
         "gold"
       ],
       "breaking": false,
-      "related_urls": [],
-      "rank": 5
+      "related_urls": [
+        "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slips-toward-96-vs-us-dollar-as-crude-yields-and-stocks-weigh-on-currency/articleshow/134544621.cms",
+        "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-pinned-just-shy-of-96/usd-as-rbi-intervention-counters-oil-woes/articleshow/134535315.cms",
+        "https://economictimes.indiatimes.com/markets/forex/forex-news/oil-woes-push-rupee-to-over-one-week-low-rbi-caps-fall-near-96/usd/articleshow/134539275.cms"
+      ]
     },
     {
       "url": "https://www.bullionvault.co.uk/gold-news/gold-price-news/gold-silver-bond-yields-china-092820261",
