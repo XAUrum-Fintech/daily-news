@@ -115,3 +115,27 @@ were migrated to `tools/fetch.py` + `tools/sync.py` on official sources.
 The old JSON paths (`customs-duty/latest.json`, schema `orob-customs-duty.v1`)
 no longer exist; consumers should read `customs-duty-tracker/latest.json`
 (schema `customs-tracker.v1`).
+
+## Update style (values + commentary)
+
+When a new event is reported to the user, the update follows this shape:
+
+**Customs duty update — <EVENT LABEL>** (w.e.f. <effective>)
+<one line naming the event and the key rate move>
+- Gold: tariff $X/10g (<changed|no change>) · duty ₹Y/kg (+/-₹Z)
+- Silver: tariff $A/kg (<changed|no change>) · duty ₹B/kg (+/-₹C)
+
+Why it moved: <2–3 lines on the driver — which leg moved (tariff value,
+exchange rate, or both) and what it means>
+
+Verify: <source links, one per line>
+
+Source-link convention (official sources, so readers can verify):
+- Exchange-rate events: https://foservices.icegate.gov.in/#/services/notifyPublishScreen
+  — find the circular number and use Download PDF.
+- Tariff-value events: https://taxinformation.cbic.gov.in/ — Non-Tariff
+  notifications (search the notification number); the official PDF is served
+  from /content/pdf/<docFilePath>.
+- London fixes (tariff rows): https://prices.lbma.org.uk/json/gold_pm.json and
+  https://prices.lbma.org.uk/json/silver.json (full history; v[0] is USD),
+  or https://www.lbma.org.uk/prices-and-data/precious-metal-prices#/
