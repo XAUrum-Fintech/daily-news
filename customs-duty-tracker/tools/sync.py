@@ -5,7 +5,8 @@ Pipeline:
   1. Shallow-clone XAUrum-Fintech/daily-news (branch main) to a temp dir.
   2. Run fetch.py (official sources: ICEGATE, CBIC, LBMA) for new events.
   3. Append each new event via tools/build_customs_tracker.py (validates).
-  4. Commit latest.json + latest.csv + state.json in ONE atomic commit via
+  4. Render tools/render_update.py -> latest.md (values + commentary).
+  5. Commit latest.json + latest.csv + state.json + latest.md in ONE atomic commit via
      the GitHub git-database API (gh-api), and verify the ref moved.
 
 Never touches news/ or any feed file. No new events -> no commit, quiet.
@@ -27,7 +28,7 @@ import tempfile
 GH_API = os.path.expanduser("~/workspace/skills/github/bin/gh-api")
 REPO = "XAUrum-Fintech/daily-news"
 TRACKER_SUBDIR = "customs-duty-tracker"
-TRACKER_FILES = ["latest.json", "latest.csv", "state.json"]
+TRACKER_FILES = ["latest.json", "latest.csv", "state.json", "latest.md"]
 
 
 def log(msg):
@@ -108,7 +109,11 @@ def main():
                         "--usd-inr-export", str(ev["usd_inr_export"])]
             run(cmd)
 
-        # 3. atomic commit of the three regenerated files
+        # 2b. render the human-readable update for the newest row
+        render_py = os.path.join(here, "render_update.py")
+        run([sys.executable, render_py, "--tracker-dir", tracker_dir])
+
+        # 3. atomic commit of the four regenerated files
         ref = gh("GET", f"/repos/{args.repo}/git/refs/heads/{args.branch}")
         base_sha = ref["object"]["sha"]
         commit = gh("GET", f"/repos/{args.repo}/git/commits/{base_sha}")
