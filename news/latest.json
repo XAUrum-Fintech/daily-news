@@ -1,337 +1,386 @@
 {
-  "schema": "orob-news.v1",
-  "edition_id": "2026-09-29T08:00Z",
-  "generated_at": "2026-09-29T08:08:11Z",
-  "window": {
-    "from": "2026-09-29T06:00:00Z",
-    "to": "2026-09-29T08:00:00Z"
-  },
-  "insights": {
-    "headline": "Gold and silver extend Monday's sharp slide on a strong dollar, rising yields and high oil",
-    "summary": "Precious metals are having their worst two-day run in weeks. MCX October gold futures fell 2.13% on Monday to Rs 1,47,667 per 10 grams and silver December futures dropped 2.83% to Rs 2,28,035 per kg, while spot gold steadied Tuesday near a seven-week low at $4,123 an ounce. Markets now price a 70.3% chance of an October Fed rate hike, keeping the dollar and yields firm and the rupee under pressure.",
-    "points": [
-      "MCX Oct gold futures -2.13% to Rs 1,47,667/10g; Dec silver -2.83% to Rs 2,28,035/kg (Outlook Money).",
-      "Indian gold and silver ETFs tumbled up to 4% on Monday, tracking bullion lower (Mint).",
-      "Spot gold $4,123/oz near a seven-week low; silver fell ~5% to $61.08, lowest since early August.",
-      "China is on pace to import ~1,700 tonnes of gold in 2026, a decade high, per Heraeus via Kitco.",
-      "Kotak says India's gold-import decline reflects softer demand at high prices and a shift to ETFs and digital gold."
-    ]
-  },
-  "trending": [
-    {
-      "title": "The washout: dollar, yields and oil crush bullion",
-      "summary": "A toxic mix of a firm dollar, 5.2%+ US yields and $107 oil dragged MCX gold 2% lower and silver nearly 3%, with the decline stretching into Tuesday's session near seven-week lows.",
-      "item_ids": [
-        "e3a914d9e644b2e7",
-        "a935aebfe19a0dd9",
-        "3798a2ac9c51776e"
-      ]
-    },
-    {
-      "title": "ETF investors feel the pain, physical buyers split",
-      "summary": "Indian gold and silver ETFs fell up to 4%, while Comex shows physical gold demand evaporating even as silver demand firms — a market-structure divergence worth watching.",
-      "item_ids": [
-        "f93a9ea1dc50c6fe",
-        "54090c07b6bcdc85"
-      ]
-    },
-    {
-      "title": "China's insatiable gold appetite, banks step back",
-      "summary": "Chinese imports head for a decade high near 1,700 tonnes, but a dozen-plus big Chinese banks are exiting retail leveraged futures — a structural shift toward physical and ETFs.",
-      "item_ids": [
-        "29734f9ed82bfd61",
-        "52f6f855ba614ce6",
-        "e4b17770c45c518c"
-      ]
-    },
-    {
-      "title": "India's festive runway: cautious optimism, export push",
-      "summary": "High prices are slowing discretionary jewellery buying even as wedding demand stays resilient; the industry targets $100bn in exports and festive demand could re-anchor the market.",
-      "item_ids": [
-        "d48a4d4e42d9c6e6",
-        "678977113a9d562a",
-        "fea07c3d6d39975f"
-      ]
-    }
-  ],
-  "items": [
-    {
-      "id": "e3a914d9e644b2e7",
-      "rank": 1,
-      "title": "Gold, Silver Prices Fall Up To 3%: Why Precious Metals Are Down",
-      "summary": "Gold and silver prices fell sharply on September 28 as a stronger US dollar, rising crude oil and US bond yields weighed on precious metals. On MCX, October gold futures fell 2.13 per cent to Rs 1,47,667 per 10 grams; December silver declined 2.83 per cent to Rs 2,28,035 per kg. Kotak's Kaynat Chainwala: the near-term outlook has turned bearish, with both metals vulnerable to further downside.",
-      "url": "https://www.outlookmoney.com/invest/gold-silver-prices-fall-strong-us-dollar-bond-yields-crude-oil-price",
-      "source": "Outlook Money",
-      "source_domain": "outlookmoney.com",
-      "published_at": "2026-09-29T03:31:00Z",
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "fed",
-        "rupee",
-        "india",
-        "global"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "image_url": "https://media.assettype.com/outlookmoney/2026-09-28/3t4kmm2p/Gold-and-silver-prices.jpg?w=1200",
-      "related_urls": [
-        "https://www.7globe.in/why-are-gold-and-silver-prices-falling-how-oil-prices-us-interest-rates-are-driving-the-decline/"
-      ]
-    },
-    {
-      "id": "a935aebfe19a0dd9",
-      "rank": 2,
-      "title": "Gold holds near seven-week low, US economic data on tap",
-      "summary": "Spot gold steadied at $4,123.29 an ounce on Tuesday, holding near its lowest since August 5 after Monday's selloff, as markets priced a 70.3% chance of an October Fed rate hike per CME FedWatch. Elevated oil prices and Fed Governor Lisa Cook's warning on inflation kept yields and the dollar firm; traders now await US jobs, ADP, PCE and payrolls data this week.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-holds-near-seven-week-low-us-economic-data-on-tap/articleshow/134553921.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "published_at": "2026-09-29T03:08:00Z",
-      "tags": [
-        "gold",
-        "comex",
-        "fed",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "image_url": "https://img.etimg.com/thumb/msid-134553941,width-1200,height-630,imgsize-2216329,overlay-etmarkets/articleshow.jpg"
-    },
-    {
-      "id": "f93a9ea1dc50c6fe",
-      "rank": 3,
-      "title": "Why Gold, silver ETFs tumbled over 4% today | What's behind the fall and what should investors do?",
-      "summary": "Indian gold and silver ETFs tumbled up to 4% on Monday, mirroring the sharp fall in bullion as Fed rate-hike bets strengthened. The slide tracked MCX futures lower, with higher US yields and a firm dollar cited as the immediate triggers.",
-      "url": "https://www.livemint.com/market/commodities/why-gold-silver-etfs-tumbled-over-4-today-whats-behind-the-fall-and-what-should-investors-do-11790580238197.html",
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "published_at": "2026-09-28T09:03:25Z",
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "image_url": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/gold_etf_1790586155243_cAGI_1790586155401_LSGT_36f5e37f-6e7b-44fd-8727-32bd66d6702c_uvkG.png"
-    },
-    {
-      "id": "b2ddaa0385965fd3",
-      "rank": 4,
-      "title": "What Fed's rate hike means for gold, the rupee and Indian markets",
-      "summary": "An explainer on what the Fed's rate-hike path means for gold, the rupee and Indian markets — higher US yields raise the opportunity cost of holding gold and tend to lift the dollar, pressuring both global bullion and domestic prices.",
-      "url": "https://www.deccanherald.com/business/what-feds-rate-hike-means-for-gold-the-rupee-and-indian-markets-4161913",
-      "source": "Deccan Herald",
-      "source_domain": "deccanherald.com",
-      "published_at": "2026-09-27T11:03:00Z",
-      "tags": [
-        "gold",
-        "fed",
-        "rupee",
-        "india",
-        "global"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "image_url": "https://media.assettype.com/deccanherald%2F2026-09-27%2Fh8fxi2a6%2Ffed-rate.jpg?rect=0%2C0%2C1024%2C538&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
-    },
-    {
-      "id": "3798a2ac9c51776e",
-      "rank": 5,
-      "title": "Silver Price Forecast: XAG/USD plunges 5% as momentum indicators turn bearish",
-      "summary": "Silver fell about 5% on Monday to $61.08, its lowest since early August, pressured by a firmer dollar and the US 10-year yield at 5.27%, its highest since 2007. The pair sits below its 50-, 100- and 200-day moving averages with RSI at 39; supports lie at the 61.8% Fibonacci level of $61.02 and $58.27, with resistance at $62.95–$73.19.",
-      "url": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-plunges-5-as-momentum-indicators-turn-bearish-202609281539",
-      "source": "FXStreet",
-      "source_domain": "fxstreet.com",
-      "published_at": "2026-09-28T15:39:09Z",
-      "tags": [
-        "silver",
-        "comex",
-        "fed",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "breaking": false,
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-silver.jpg"
-    },
-    {
-      "id": "54090c07b6bcdc85",
-      "rank": 6,
-      "title": "Comex Update: 400oz Gold Contract Cancelled; Silver Demand Strengthens",
-      "summary": "Comex data shows that demand for gold has evaporated where demand for silver has firmed. With the 400-ounce bars now removed from the inventory, if inventory were to come under pressure again, the Comex may find their vaults getting drained quite quickly. The immediate and sudden collapse in physical demand for gold is something worth watching.",
-      "url": "https://www.schiffgold.com/exploring-finance/comex-update-400oz-gold-contract-cancelled-silver-demand-strengthens",
-      "source": "SchiffGold",
-      "source_domain": "schiffgold.com",
-      "published_at": "2026-09-28T00:00:00Z",
-      "tags": [
-        "gold",
-        "silver",
-        "comex",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "image_url": "https://www.schiffgold.com/wp-content/uploads/2025/07/Comex-Cover-1.jpg"
-    },
-    {
-      "id": "fea07c3d6d39975f",
-      "rank": 7,
-      "title": "How gold sector is gearing up $100 bn export target as India eyes massive expansion in $55 bn FTA jewellery market",
-      "summary": "India's gems and jewellery industry is targeting $100 billion in exports, WGC India CEO Sachin Jain said at the Delhi Jewellery & Gem Fair. Jain added that 20-25% of India's gold consumption could come from domestic mines within five to seven years. FTA partner countries import $55 billion of jewellery a year while India's share is $8 billion.",
-      "url": "https://www.livemint.com/economy/how-gold-sector-is-gearing-up-100-bn-export-target-as-india-eyes-massive-expansion-in-55-bn-fta-jewellery-market-11790580568576.html",
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "published_at": "2026-09-28T07:52:05Z",
-      "tags": [
-        "gold",
-        "mcx",
-        "india",
-        "jewellery"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "image_url": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/gems_1790581798667_SnAx_1790581802005_ijfK_660abcf1-b22c-4088-9ee4-4f215b2ca56c_Ui1n.png"
-    },
-    {
-      "id": "29734f9ed82bfd61",
-      "rank": 8,
-      "title": "China on pace to import 1,700 tonnes of gold in 2026, silver price faces key test near $60/oz – Heraeus",
-      "summary": "China’s gold imports reached 1,141 tonnes in the first eight months of 2026, already above all of 2025, and are on pace for about 1,700 tonnes – the highest of the decade – driven by investment demand, according to Heraeus analysts cited by Kitco. The note adds that silver faces a key test near $60 an ounce.",
-      "url": "https://www.kitco.com/news/article/2026-09-28/china-pace-import-1700-tonnes-gold-2026-silver-price-faces-key-test-near",
-      "source": "Kitco",
-      "source_domain": "kitco.com",
-      "published_at": "2026-09-28T12:00:00Z",
-      "tags": [
-        "gold",
-        "silver",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "image_url": "https://image-api.prod.kitco.com/image/0629d254-0953-41b9-88b4-666069a9fc55.png?top=0.15981657608696&left=0&width=1672&height=940.68036684783&scale_width=1920&token=dc9aa571cf30f73ef265fee3c60ba6069f54b563ba86e2019b356346cf8316fa"
-    },
-    {
-      "id": "678977113a9d562a",
-      "rank": 9,
-      "title": "Explained - The good, bad and ugly about the decline in Gold imports by Kotak Institutional Equities",
-      "summary": "Kotak Institutional Equities breaks down the decline in India's gold imports — softer demand at high prices, elevated import duties and a shift toward ETFs and digital gold — and what it means for domestic premiums, MCX prices and festive-season buying.",
-      "url": "https://www.cnbctv18.com/market/commodities/gold-monthly-imports-declining-good-bad-ugly-kotak-explains-prices-spot-global-mcx-festive-demand-19998538.htm",
-      "source": "CNBC-TV18",
-      "source_domain": "cnbctv18.com",
-      "published_at": "2026-09-27T22:58:16Z",
-      "tags": [
-        "gold",
-        "mcx",
-        "india",
-        "import-duty"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "image_url": "https://images.cnbctv18.com/uploads/2026/08/1787893984_b9enMbX5oQ-gold-loan-finance-may15jpg-tXxHyAffhw.jpg?im=FitAndFill,width=1200,height=675"
-    },
-    {
-      "id": "52f6f855ba614ce6",
-      "rank": 10,
-      "title": "Big Chinese banks ending retail leveraged gold and silver futures trading",
-      "summary": "A dozen-plus large Chinese banks plan to end retail leveraged gold and silver futures trading, shutting down Shanghai Gold Exchange margin-traded Au(T+D) and Ag(T+D) contracts, Money Metals reports. China Everbright Bank will exit after October 19, joining ICBC, Bank of China and China Construction Bank. The shift could steer Chinese retail demand toward physical metal and ETFs.",
-      "url": "https://www.moneymetals.com/news/2026/09/27/big-chinese-banks-ending-retail-leveraged-gold-and-silver-futures-trading-005243",
-      "source": "Money Metals",
-      "source_domain": "moneymetals.com",
-      "published_at": "2026-09-27T12:00:00Z",
-      "tags": [
-        "gold",
-        "silver",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-metals.jpg",
-      "related_urls": [
-        "https://www.fxstreet.com/analysis/big-chinese-banks-ending-retail-leveraged-gold-and-silver-futures-trading-202609281941"
-      ]
-    },
-    {
-      "id": "d48a4d4e42d9c6e6",
-      "rank": 11,
-      "title": "India Gold market cautiously optimistic with approach of festive and wedding seasons",
-      "summary": "India's gold market is entering the festive and wedding season with cautious optimism, Money Metals reports: high prices have slowed discretionary jewellery buying, but wedding-related demand stays resilient. Indian gold ETF inflows rose sharply in August, digital gold buying stayed strong, and the World Gold Council expects steady investment buying.",
-      "url": "https://www.moneymetals.com/news/2026/09/27/india-gold-market-cautiously-optimistic-with-the-approach-of-the-festive-and-wedding-seasons-005242",
-      "source": "Money Metals",
-      "source_domain": "moneymetals.com",
-      "published_at": "2026-09-27T12:00:00Z",
-      "tags": [
-        "gold",
-        "india",
-        "jewellery"
-      ],
-      "category": "festive",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-gold.jpg"
-    },
-    {
-      "id": "e4b17770c45c518c",
-      "rank": 12,
-      "title": "CFTC CoTs: Managed Money No Longer Driving Price Moves",
-      "summary": "The Commitment of Traders report shows managed money's historical correlation with price moves has weakened over the prior two years, though hedge funds recently increased positioning. Central-bank buying and Asian physical demand have become the more important drivers of gold and silver prices.",
-      "url": "https://www.schiffgold.com/exploring-finance/cftc-cots-managed-money-no-longer-driving-price-moves",
-      "source": "SchiffGold",
-      "source_domain": "schiffgold.com",
-      "published_at": "2026-09-28T00:00:00Z",
-      "tags": [
-        "gold",
-        "silver",
-        "comex",
-        "global",
-        "central-banks"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-metals.jpg"
-    }
+ "schema": "orob-news.v1",
+ "edition_id": "2026-09-29T10:00Z",
+ "generated_at": "2026-09-29T10:11:28Z",
+ "window": {
+  "from": "2026-09-29T08:00:00Z",
+  "to": "2026-09-29T10:00:00Z"
+ },
+ "insights": {
+  "headline": "Gold and silver extend their two-day slide as rate-hike bets lift the dollar, yields and oil",
+  "summary": "MCX gold fell ₹4,300 per 10 grams and silver nearly ₹9,000 per kg over two sessions, with gold around ₹1,46,569/10g and silver near ₹2,25,900/kg, while spot gold held near a seven-week low around $4,123 an ounce. Markets now price a 70.3% chance of an October US Fed rate hike, keeping the dollar and bond yields firm and pressuring the rupee. Indian gold and silver ETFs tumbled up to 4% tracking bullion lower, even as the jewellery sector gears up for a $100 billion export push ahead of the festive season.",
+  "points": [
+   "MCX gold -₹4,300/10g and silver -₹9,000/kg over two sessions on Fed rate-hike bets (Economic Times).",
+   "Spot gold near seven-week low around $4,123/oz; silver plunged about 5% as momentum turned bearish.",
+   "Indian gold and silver ETFs fell up to 4%, tracking the bullion selloff (Mint).",
+   "BMO trimmed its Q4 gold average to $4,650/oz but raised its long-term average 29% to $4,000/oz (Kitco).",
+   "Jewellery sector eyes a $100 bn export target as festive and wedding demand approaches (Mint)."
   ]
+ },
+ "trending": [
+  {
+   "title": "The washout: dollar, yields and oil crush bullion",
+   "summary": "Surging crude, a firm dollar and 70.3% odds of an October Fed hike drove a two-day rout: MCX gold fell ₹4,300 and silver nearly ₹9,000, with spot gold near a seven-week low.",
+   "item_ids": [
+    "c655baac2a7592f5",
+    "e3a914d9e644b2e7",
+    "a935aebfe19a0dd9",
+    "3798a2ac9c51776e"
+   ]
+  },
+  {
+   "title": "ETF investors feel the pain, physical buyers split",
+   "summary": "Gold and silver ETFs slid up to 4% with bullion, while Kotak's read of falling gold imports shows a mixed picture for domestic demand and the trade balance.",
+   "item_ids": [
+    "f93a9ea1dc50c6fe",
+    "678977113a9d562a"
+   ]
+  },
+  {
+   "title": "Near-term pain, higher long-term base: banks split",
+   "summary": "BMO trimmed near-term averages but lifted its long-term gold average 29% to $4,000/oz; China is on pace to import 1,700 tonnes of gold in 2026 as its big banks exit retail leveraged trading.",
+   "item_ids": [
+    "1f7916da690a842b",
+    "29734f9ed82bfd61",
+    "52f6f855ba614ce6"
+   ]
+  },
+  {
+   "title": "India's festive runway: export push, cautious demand",
+   "summary": "The jewellery sector is gearing up for a $100 billion export target as the festive and wedding seasons approach, though a weaker rupee and elevated prices keep buyers watchful.",
+   "item_ids": [
+    "fea07c3d6d39975f",
+    "d48a4d4e42d9c6e6",
+    "b2ddaa0385965fd3"
+   ]
+  }
+ ],
+ "items": [
+  {
+   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-dip-rs-4300/10g-in-2-days-silver-falls-rs-8800/kg-as-traders-expect-us-fed-to-hike-rates-again-buy-sell-or-hold/articleshow/134556082.cms",
+   "title": "Gold prices dip Rs 4,300/10g in 2 days; silver falls Rs 8,800/kg as traders expect US Fed to hike rates again",
+   "summary": "MCX gold fell ₹4,300 per 10 grams and silver nearly ₹9,000 per kg over two sessions, with gold around ₹1,46,569 per 10 grams and silver near ₹2,25,900 per kg. The slide follows a jump in crude oil and sticky inflation that pushed traders to price a 70.3% chance of another US Fed rate hike in October, lifting the dollar and bond yields.",
+   "source": "Economic Times",
+   "source_domain": "economictimes.indiatimes.com",
+   "published_at": "2026-09-29T04:29:56Z",
+   "image_url": "https://img.etimg.com/thumb/msid-134556101,width-1200,height-630,imgsize-177858,overlay-etmarkets/articleshow.jpg",
+   "tags": [
+    "gold",
+    "silver",
+    "mcx",
+    "fed",
+    "india"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "id": "c655baac2a7592f5",
+   "rank": 1
+  },
+  {
+   "id": "e3a914d9e644b2e7",
+   "rank": 2,
+   "title": "Gold, Silver Prices Fall Up To 3%: Why Precious Metals Are Down",
+   "summary": "Gold and silver prices fell sharply on September 28 as a stronger US dollar, rising crude oil and US bond yields weighed on precious metals. On MCX, October gold futures fell 2.13 per cent to Rs 1,47,667 per 10 grams; December silver declined 2.83 per cent to Rs 2,28,035 per kg. Kotak's Kaynat Chainwala: the near-term outlook has turned bearish, with both metals vulnerable to further downside.",
+   "url": "https://www.outlookmoney.com/invest/gold-silver-prices-fall-strong-us-dollar-bond-yields-crude-oil-price",
+   "source": "Outlook Money",
+   "source_domain": "outlookmoney.com",
+   "published_at": "2026-09-29T03:31:00Z",
+   "tags": [
+    "gold",
+    "silver",
+    "mcx",
+    "fed",
+    "rupee",
+    "india",
+    "global"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "image_url": "https://media.assettype.com/outlookmoney/2026-09-28/3t4kmm2p/Gold-and-silver-prices.jpg?w=1200",
+   "related_urls": [
+    "https://www.7globe.in/why-are-gold-and-silver-prices-falling-how-oil-prices-us-interest-rates-are-driving-the-decline/"
+   ]
+  },
+  {
+   "id": "a935aebfe19a0dd9",
+   "rank": 3,
+   "title": "Gold holds near seven-week low, US economic data on tap",
+   "summary": "Spot gold steadied at $4,123.29 an ounce on Tuesday, holding near its lowest since August 5 after Monday's selloff, as markets priced a 70.3% chance of an October Fed rate hike per CME FedWatch. Elevated oil prices and Fed Governor Lisa Cook's warning on inflation kept yields and the dollar firm; traders now await US jobs, ADP, PCE and payrolls data this week.",
+   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-holds-near-seven-week-low-us-economic-data-on-tap/articleshow/134553921.cms",
+   "source": "Economic Times",
+   "source_domain": "economictimes.indiatimes.com",
+   "published_at": "2026-09-29T03:08:00Z",
+   "tags": [
+    "gold",
+    "comex",
+    "fed",
+    "global"
+   ],
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "image_url": "https://img.etimg.com/thumb/msid-134553941,width-1200,height-630,imgsize-2216329,overlay-etmarkets/articleshow.jpg"
+  },
+  {
+   "id": "f93a9ea1dc50c6fe",
+   "rank": 4,
+   "title": "Why Gold, silver ETFs tumbled over 4% today | What's behind the fall and what should investors do?",
+   "summary": "Indian gold and silver ETFs tumbled up to 4% on Monday, mirroring the sharp fall in bullion as Fed rate-hike bets strengthened. The slide tracked MCX futures lower, with higher US yields and a firm dollar cited as the immediate triggers.",
+   "url": "https://www.livemint.com/market/commodities/why-gold-silver-etfs-tumbled-over-4-today-whats-behind-the-fall-and-what-should-investors-do-11790580238197.html",
+   "source": "Mint",
+   "source_domain": "livemint.com",
+   "published_at": "2026-09-28T09:03:25Z",
+   "tags": [
+    "gold",
+    "silver",
+    "mcx",
+    "india"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "image_url": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/gold_etf_1790586155243_cAGI_1790586155401_LSGT_36f5e37f-6e7b-44fd-8727-32bd66d6702c_uvkG.png"
+  },
+  {
+   "id": "fea07c3d6d39975f",
+   "rank": 5,
+   "title": "How gold sector is gearing up $100 bn export target as India eyes massive expansion in $55 bn FTA jewellery market",
+   "summary": "India's gems and jewellery industry is targeting $100 billion in exports, WGC India CEO Sachin Jain said at the Delhi Jewellery & Gem Fair. Jain added that 20-25% of India's gold consumption could come from domestic mines within five to seven years. FTA partner countries import $55 billion of jewellery a year while India's share is $8 billion.",
+   "url": "https://www.livemint.com/economy/how-gold-sector-is-gearing-up-100-bn-export-target-as-india-eyes-massive-expansion-in-55-bn-fta-jewellery-market-11790580568576.html",
+   "source": "Mint",
+   "source_domain": "livemint.com",
+   "published_at": "2026-09-28T07:52:05Z",
+   "tags": [
+    "gold",
+    "mcx",
+    "india",
+    "jewellery"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "image_url": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/gems_1790581798667_SnAx_1790581802005_ijfK_660abcf1-b22c-4088-9ee4-4f215b2ca56c_Ui1n.png"
+  },
+  {
+   "id": "3798a2ac9c51776e",
+   "rank": 6,
+   "title": "Silver Price Forecast: XAG/USD plunges 5% as momentum indicators turn bearish",
+   "summary": "Silver fell about 5% on Monday to $61.08, its lowest since early August, pressured by a firmer dollar and the US 10-year yield at 5.27%, its highest since 2007. The pair sits below its 50-, 100- and 200-day moving averages with RSI at 39; supports lie at the 61.8% Fibonacci level of $61.02 and $58.27, with resistance at $62.95–$73.19.",
+   "url": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-plunges-5-as-momentum-indicators-turn-bearish-202609281539",
+   "source": "FXStreet",
+   "source_domain": "fxstreet.com",
+   "published_at": "2026-09-28T15:39:09Z",
+   "tags": [
+    "silver",
+    "comex",
+    "fed",
+    "global"
+   ],
+   "category": "global",
+   "metals": [
+    "silver"
+   ],
+   "breaking": false,
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-silver.jpg"
+  },
+  {
+   "id": "b2ddaa0385965fd3",
+   "rank": 7,
+   "title": "What Fed's rate hike means for gold, the rupee and Indian markets",
+   "summary": "An explainer on what the Fed's rate-hike path means for gold, the rupee and Indian markets — higher US yields raise the opportunity cost of holding gold and tend to lift the dollar, pressuring both global bullion and domestic prices.",
+   "url": "https://www.deccanherald.com/business/what-feds-rate-hike-means-for-gold-the-rupee-and-indian-markets-4161913",
+   "source": "Deccan Herald",
+   "source_domain": "deccanherald.com",
+   "published_at": "2026-09-27T11:03:00Z",
+   "tags": [
+    "gold",
+    "fed",
+    "rupee",
+    "india",
+    "global"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "image_url": "https://media.assettype.com/deccanherald%2F2026-09-27%2Fh8fxi2a6%2Ffed-rate.jpg?rect=0%2C0%2C1024%2C538&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
+  },
+  {
+   "url": "https://www.kitco.com/news/article/2026-09-28/gold-and-silver-prices-are-struggling-now-much-higher-long-term-base",
+   "title": "Gold and silver prices are struggling now, but a much higher long-term base is building - BMO Capital Markets",
+   "summary": "BMO Capital Markets trimmed its Q4 2026 gold average forecast to about $4,650 an ounce from $4,750 and pushed its $5,000 target to Q2 next year, but raised its long-term gold average 29% to $4,000 an ounce, citing monetary debasement and Chinese and central-bank demand outweighing yield pressure. It cut silver's Q4 average to $67.40 while lifting its long-term silver average 31% to $47 an ounce.",
+   "source": "Kitco",
+   "source_domain": "kitco.com",
+   "published_at": "2026-09-28T19:20:06Z",
+   "image_url": "https://image-api.prod.kitco.com/image/3b3e893e-0e3c-431a-995e-b97ac42022ac.png?top=0&left=1.3376&width=1669.3248&height=940&scale_width=1920&token=76a4a77ce8196349cb2bffcc7e1b82bee02d3e4d4b8d53f018b534c8b55c9716",
+   "tags": [
+    "gold",
+    "silver",
+    "comex",
+    "global",
+    "central-banks"
+   ],
+   "category": "global",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "id": "1f7916da690a842b",
+   "rank": 8
+  },
+  {
+   "id": "54090c07b6bcdc85",
+   "rank": 9,
+   "title": "Comex Update: 400oz Gold Contract Cancelled; Silver Demand Strengthens",
+   "summary": "Comex data shows that demand for gold has evaporated where demand for silver has firmed. With the 400-ounce bars now removed from the inventory, if inventory were to come under pressure again, the Comex may find their vaults getting drained quite quickly. The immediate and sudden collapse in physical demand for gold is something worth watching.",
+   "url": "https://www.schiffgold.com/exploring-finance/comex-update-400oz-gold-contract-cancelled-silver-demand-strengthens",
+   "source": "SchiffGold",
+   "source_domain": "schiffgold.com",
+   "published_at": "2026-09-28T00:00:00Z",
+   "tags": [
+    "gold",
+    "silver",
+    "comex",
+    "global"
+   ],
+   "category": "global",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "image_url": "https://www.schiffgold.com/wp-content/uploads/2025/07/Comex-Cover-1.jpg"
+  },
+  {
+   "id": "29734f9ed82bfd61",
+   "rank": 10,
+   "title": "China on pace to import 1,700 tonnes of gold in 2026, silver price faces key test near $60/oz – Heraeus",
+   "summary": "China’s gold imports reached 1,141 tonnes in the first eight months of 2026, already above all of 2025, and are on pace for about 1,700 tonnes – the highest of the decade – driven by investment demand, according to Heraeus analysts cited by Kitco. The note adds that silver faces a key test near $60 an ounce.",
+   "url": "https://www.kitco.com/news/article/2026-09-28/china-pace-import-1700-tonnes-gold-2026-silver-price-faces-key-test-near",
+   "source": "Kitco",
+   "source_domain": "kitco.com",
+   "published_at": "2026-09-28T12:00:00Z",
+   "tags": [
+    "gold",
+    "silver",
+    "global"
+   ],
+   "category": "global",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "image_url": "https://image-api.prod.kitco.com/image/0629d254-0953-41b9-88b4-666069a9fc55.png?top=0.15981657608696&left=0&width=1672&height=940.68036684783&scale_width=1920&token=dc9aa571cf30f73ef265fee3c60ba6069f54b563ba86e2019b356346cf8316fa"
+  },
+  {
+   "id": "678977113a9d562a",
+   "rank": 11,
+   "title": "Explained - The good, bad and ugly about the decline in Gold imports by Kotak Institutional Equities",
+   "summary": "Kotak Institutional Equities breaks down the decline in India's gold imports — softer demand at high prices, elevated import duties and a shift toward ETFs and digital gold — and what it means for domestic premiums, MCX prices and festive-season buying.",
+   "url": "https://www.cnbctv18.com/market/commodities/gold-monthly-imports-declining-good-bad-ugly-kotak-explains-prices-spot-global-mcx-festive-demand-19998538.htm",
+   "source": "CNBC-TV18",
+   "source_domain": "cnbctv18.com",
+   "published_at": "2026-09-27T22:58:16Z",
+   "tags": [
+    "gold",
+    "mcx",
+    "india",
+    "import-duty"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "image_url": "https://images.cnbctv18.com/uploads/2026/08/1787893984_b9enMbX5oQ-gold-loan-finance-may15jpg-tXxHyAffhw.jpg?im=FitAndFill,width=1200,height=675"
+  },
+  {
+   "id": "52f6f855ba614ce6",
+   "rank": 12,
+   "title": "Big Chinese banks ending retail leveraged gold and silver futures trading",
+   "summary": "A dozen-plus large Chinese banks plan to end retail leveraged gold and silver futures trading, shutting down Shanghai Gold Exchange margin-traded Au(T+D) and Ag(T+D) contracts, Money Metals reports. China Everbright Bank will exit after October 19, joining ICBC, Bank of China and China Construction Bank. The shift could steer Chinese retail demand toward physical metal and ETFs.",
+   "url": "https://www.moneymetals.com/news/2026/09/27/big-chinese-banks-ending-retail-leveraged-gold-and-silver-futures-trading-005243",
+   "source": "Money Metals",
+   "source_domain": "moneymetals.com",
+   "published_at": "2026-09-27T12:00:00Z",
+   "tags": [
+    "gold",
+    "silver",
+    "global"
+   ],
+   "category": "global",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-metals.jpg",
+   "related_urls": [
+    "https://www.fxstreet.com/analysis/big-chinese-banks-ending-retail-leveraged-gold-and-silver-futures-trading-202609281941"
+   ]
+  },
+  {
+   "id": "d48a4d4e42d9c6e6",
+   "rank": 13,
+   "title": "India Gold market cautiously optimistic with approach of festive and wedding seasons",
+   "summary": "India's gold market is entering the festive and wedding season with cautious optimism, Money Metals reports: high prices have slowed discretionary jewellery buying, but wedding-related demand stays resilient. Indian gold ETF inflows rose sharply in August, digital gold buying stayed strong, and the World Gold Council expects steady investment buying.",
+   "url": "https://www.moneymetals.com/news/2026/09/27/india-gold-market-cautiously-optimistic-with-the-approach-of-the-festive-and-wedding-seasons-005242",
+   "source": "Money Metals",
+   "source_domain": "moneymetals.com",
+   "published_at": "2026-09-27T12:00:00Z",
+   "tags": [
+    "gold",
+    "india",
+    "jewellery"
+   ],
+   "category": "festive",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-gold.jpg"
+  },
+  {
+   "id": "e4b17770c45c518c",
+   "rank": 14,
+   "title": "CFTC CoTs: Managed Money No Longer Driving Price Moves",
+   "summary": "The Commitment of Traders report shows managed money's historical correlation with price moves has weakened over the prior two years, though hedge funds recently increased positioning. Central-bank buying and Asian physical demand have become the more important drivers of gold and silver prices.",
+   "url": "https://www.schiffgold.com/exploring-finance/cftc-cots-managed-money-no-longer-driving-price-moves",
+   "source": "SchiffGold",
+   "source_domain": "schiffgold.com",
+   "published_at": "2026-09-28T00:00:00Z",
+   "tags": [
+    "gold",
+    "silver",
+    "comex",
+    "global",
+    "central-banks"
+   ],
+   "category": "global",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-metals.jpg"
+  }
+ ]
 }
