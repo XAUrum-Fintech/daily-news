@@ -1,56 +1,57 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-09-29T20:00Z",
-  "generated_at": "2026-09-29T20:12:17Z",
+  "edition_id": "2026-09-29T22:00Z",
+  "generated_at": "2026-09-29T22:05:01Z",
   "window": {
-    "from": "2026-09-29T18:00:00Z",
-    "to": "2026-09-29T20:00:00Z"
+    "from": "2026-09-29T20:00:00Z",
+    "to": "2026-09-29T22:00:00Z"
   },
   "insights": {
-    "headline": "Gold steadied near a seven-week low as soaring US yields and rate-hike bets kept bullion under pressure.",
-    "summary": "Gold recovered to about $4,166 an ounce on Tuesday, up more than 1% after US job openings fell to 7.08 million, but the 30-year Treasury yield topping 5.6% — a 2002 high — kept rate-hike bets alive. On MCX, gold hovered near ₹1.48 lakh per 10 grams while silver slipped to about ₹2.25 lakh per kg. Silver traded near $60.75 globally as a strong dollar and 5.28% 10-year yields weighed on the white metal.",
+    "headline": "Gold held near seven-week lows as Williams cooled October hike bets and a 96-breaching rupee squeezed Indian buyers.",
+    "summary": "Gold held near a seven-week low after Monday's 4% plunge, with New York Fed President John Williams pushing back on market bets for an October rate hike even as he signalled one more increase this year. The US 30-year yield topping 5.6% kept non-yielding bullion under pressure, while the rupee's intraday slide past 96 per dollar raised landed costs for Indian buyers before RBI intervention steadied it. Silver stayed under pressure and festive-season demand hopes persisted despite the price slide.",
     "points": [
-      "US 30-year yield topped 5.6%, highest since 2002; the 10-year hit 5.28%, highest since 2007.",
-      "JOLTS job openings fell to 7.08M vs 7.23M expected; consumer confidence dropped to 81.9.",
-      "MCX gold near ₹1.48 lakh/10g; silver ~₹2.25 lakh/kg; Delhi gold below ₹1.5 lakh first time in 2 months.",
-      "Hormuz standoff keeps oil elevated; traders price ~70% chance of a Fed hike in October (CME FedWatch).",
-      "Four SGB tranches eligible for premature redemption in October (15, 19, 28, 30)."
+      "MCX gold held below ₹1.5 lakh per 10g in Delhi, the first such dip in two months, tracking the global slide.",
+      "Williams said there is “no need for urgency” on the next hike, tempering market bets on an October move.",
+      "The US 30-year yield topped 5.6%, its highest since 2002, keeping pressure on non-yielding gold.",
+      "The rupee slipped past 96 per dollar intraday; RBI dollar sales helped it close flat at 95.99.",
+      "Silver stayed under pressure near $60 as elevated yields and a firm dollar weighed on the metal."
     ]
   },
   "trending": [
     {
-      "title": "The rates chokehold on bullion",
-      "summary": "The 30-year yield at a 2002 high and a 70% priced-in October hike are squeezing bullion; only soft US data (JOLTS, confidence) is giving gold brief relief.",
+      "title": "Fed speak splits the hike timeline",
+      "summary": "Williams' no-urgency message clashed with markets still pricing a strong chance of an October hike, leaving gold caught between dovish relief and hawkish yields.",
       "item_ids": [
+        "99db5bc232cdd9a8",
         "ce618272fed2546e",
-        "b922da48e0b255ae",
-        "8c0ccb795837cad3"
+        "b922da48e0b255ae"
       ]
     },
     {
-      "title": "Silver's steeper slide",
-      "summary": "Silver keeps underperforming gold — down on MCX and near $60.75 globally — as yields and the dollar hit the white metal harder.",
+      "title": "Rupee at 96 resets the domestic gold math",
+      "summary": "The breach of 96 per dollar, even briefly, lifted the landed cost of imported gold; RBI intervention capped the damage but the pressure on retail prices remains.",
+      "item_ids": [
+        "71c62a3186bd232e",
+        "668d2f0501be4545",
+        "17c51d826fa061a6"
+      ]
+    },
+    {
+      "title": "Silver searches for a floor",
+      "summary": "Silver stayed under pressure as yields and the dollar weighed, with analysts flagging headwinds for any rebound even as long-term India demand themes persist.",
       "item_ids": [
         "c2cf4f2ca1636056",
-        "85fa66de0af8c7da",
-        "36dbc0de0450fe36"
+        "36dbc0de0450fe36",
+        "85fa66de0af8c7da"
       ]
     },
     {
-      "title": "Domestic demand at a crossroads",
-      "summary": "Cash, no-receipt deals are rising as 15% duty plus 3% GST bite; imports are falling even as the festive and wedding season nears.",
+      "title": "Festive demand meets sticker shock",
+      "summary": "With Dhanteras and the wedding season approaching, jewellers are cautiously optimistic, but high prices are pushing some buyers toward receipt-less cash deals.",
       "item_ids": [
+        "f2af7c9c9129e994",
         "3379349a44c3a5c5",
-        "678977113a9d562a",
-        "f2af7c9c9129e994"
-      ]
-    },
-    {
-      "title": "Policy calendar: SGB exits",
-      "summary": "Four sovereign gold bond tranches open for premature redemption in October, with fixed exit dates and application windows.",
-      "item_ids": [
-        "4ba79548fcede8f8",
-        "f93a9ea1dc50c6fe"
+        "17c51d826fa061a6"
       ]
     }
   ],
@@ -80,8 +81,57 @@
       "breaking": false
     },
     {
+      "id": "99db5bc232cdd9a8",
+      "title": "Fed's Williams sees no urgency for next Fed rate hike",
+      "summary": "New York Fed President John Williams said the Fed has time to weigh incoming data before raising rates again, pushing back on market bets for an October hike. He still expects one more increase late this year, sees inflation ending 2026 near 3.5% and growth at 2.25%. The dovish tilt eased some of the rate pressure weighing on gold.",
+      "url": "https://www.reuters.com/business/feds-williams-sees-no-urgency-next-fed-rate-hike-2026-09-29/",
+      "source": "Reuters",
+      "source_domain": "reuters.com",
+      "published_at": "2026-09-29T19:00:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-gold.jpg",
+      "tags": [
+        "gold",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-rate-hike-not-urgent-says-john-williams-austan-goolsbee-warns-against-playing-with-fire/articleshow/134573558.cms"
+      ],
+      "rank": 2
+    },
+    {
+      "id": "71c62a3186bd232e",
+      "title": "Rupee recoups intraday losses as RBI intervenes via dollar sales",
+      "summary": "The rupee briefly slid past 96 per dollar on Tuesday before RBI dollar sales, softer crude and index-rebalancing inflows pulled it back to close flat at 95.99. Dealers blamed month-end dollar demand, elevated US yields and foreign outflows for the slide past the psychologically key 96 mark. A weaker rupee raises the landed cost of imported gold for Indian buyers.",
+      "url": "https://www.business-standard.com/markets/news/rupee-recoups-intraday-losses-as-rbi-intervenes-through-dollar-sales-126092900851_1.html",
+      "source": "Business Standard",
+      "source_domain": "business-standard.com",
+      "published_at": "2026-09-29T11:29:52Z",
+      "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/25/thumb/fitandfill/1200X628/1782407878-7939.jpg",
+      "tags": [
+        "gold",
+        "rupee",
+        "rbi",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-breaches-96-per-dollar-as-oil-surge-stokes-pressure-rbi-intervention-limits-fall/articleshow/134565213.cms"
+      ],
+      "rank": 3
+    },
+    {
       "id": "b922da48e0b255ae",
-      "rank": 2,
+      "rank": 4,
       "title": "Gold prices catching a bid as JOLTS Job openings fall to 7.08 million",
       "summary": "Gold caught a bid after US job openings fell to 7.08 million in August, below the 7.23 million forecast, reviving hopes that a cooling labour market could slow the Federal Reserve's hawkish turn. Spot gold traded near $4,166 an ounce, up more than 1% on the day.",
       "url": "https://www.kitco.com/news/article/2026-09-29/gold-prices-catching-bid-jolts-job-openings-fall-708-million",
@@ -105,7 +155,7 @@
     },
     {
       "id": "ce618272fed2546e",
-      "rank": 3,
+      "rank": 5,
       "title": "US 30-year Treasury yield tops 5.6%, reaching highest level since 2002",
       "summary": "The 30-year US Treasury yield crossed 5.6% — a level last seen in 2002 — rising for a sixth straight session as heavy corporate-debt issuance, elevated energy prices and expectations of further central-bank rate hikes drove a global bond selloff. The 10-year yield touched 5.28%, its highest since 2007, a headwind for non-yielding gold.",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-30-year-treasury-yield-tops-5-6-reaching-highest-level-since-2002/articleshow/134570770.cms",
@@ -127,7 +177,7 @@
     },
     {
       "id": "8c0ccb795837cad3",
-      "rank": 4,
+      "rank": 6,
       "title": "Gold Price Rallies as 8-Week Trading Low Blamed on China, Rates, Trump",
       "summary": "Gold and silver recovered part of Monday's slide, with the eight-week trading low blamed on thin volumes over China's holiday week, high real US yields and tariff-policy uncertainty. Both metals remain well below last week's levels as rate-hike bets persist.",
       "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-china-trading-09292061",
@@ -150,7 +200,7 @@
     },
     {
       "id": "c2cf4f2ca1636056",
-      "rank": 5,
+      "rank": 7,
       "title": "Silver price retreats as rising US yields, Hormuz tensions bolster US Dollar",
       "summary": "Silver slipped back toward $60.75 an ounce as the 10-year US Treasury yield climbed to 5.28% — its highest since 2007 — and Hormuz tensions kept the dollar firm near a two-month high. Traders now price about a 70% chance of another Fed rate hike in October, per the CME FedWatch tool.",
       "url": "https://www.fxstreet.com/news/silver-price-retreats-as-rising-us-yields-hormuz-tensions-bolster-us-dollar-202609291719",
@@ -171,7 +221,7 @@
     },
     {
       "id": "17c51d826fa061a6",
-      "rank": 6,
+      "rank": 8,
       "title": "Gold slips below ₹1.5 lakh per 10g in Delhi for the first time in 2 months",
       "summary": "Gold fell ₹1,400 to ₹1,48,600 per 10 grams in Delhi, sliding below ₹1.5 lakh for the first time in two months, the Press Trust of India reported. Silver held at ₹2.32 lakh per kg after a ₹5,000 fall the previous day. Spot gold recovered about 1% to $4,145 an ounce after Monday's 4% tumble while silver stayed flat near $60.70.",
       "url": "https://www.business-standard.com/markets/news/gold-slips-below-1-5-lakh-per-10g-in-delhi-for-the-first-time-in-2-months-126092901049_1.html",
@@ -194,7 +244,7 @@
     },
     {
       "id": "3379349a44c3a5c5",
-      "rank": 7,
+      "rank": 9,
       "title": "Indians are buying more and more gold without receipt as prices, tax bite",
       "summary": "Import duty on gold and silver has more than doubled to 15%, with 3% GST on retail sales, and a growing share of Indian buyers is turning to under-the-counter cash deals, Bloomberg reported. Traders said cash purchases can shave up to 6% off market prices. Gold remains about 28% costlier than a year ago, and the unofficial trade is picking up ahead of the wedding and festival season.",
       "url": "https://www.livemint.com/money/personal-finance/indians-are-buying-more-and-more-gold-without-receipt-as-prices-tax-bite-11790681805619.html",
@@ -220,7 +270,7 @@
     },
     {
       "id": "f93a9ea1dc50c6fe",
-      "rank": 8,
+      "rank": 10,
       "title": "Why Gold, silver ETFs tumbled over 4% today | What's behind the fall and what should investors do?",
       "summary": "Indian gold and silver ETFs tumbled up to 4% on Monday, mirroring the sharp fall in bullion as Fed rate-hike bets strengthened. The slide tracked MCX futures lower, with higher US yields and a firm dollar cited as the immediate triggers.",
       "url": "https://www.livemint.com/market/commodities/why-gold-silver-etfs-tumbled-over-4-today-whats-behind-the-fall-and-what-should-investors-do-11790580238197.html",
@@ -243,7 +293,7 @@
     },
     {
       "id": "36dbc0de0450fe36",
-      "rank": 9,
+      "rank": 11,
       "title": "Poor man's gold may become India's next big story as the silver horse rises",
       "summary": "With gold hovering near Rs 1.5 lakh per 10g, India's silver market - 'poor man's gold' - is drawing fresh attention from jewellers and investors as a relatively affordable precious-metal play ahead of the festive and wedding season.",
       "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/silver-prices-poor-mans-gold-may-become-indias-next-big-story-as-the-silver-horse-rises/articleshow/134556840.cms",
@@ -265,7 +315,7 @@
     },
     {
       "id": "85fa66de0af8c7da",
-      "rank": 10,
+      "rank": 12,
       "title": "Silver prices continued to remain under pressure on Tuesday",
       "summary": "MCX December silver traded near Rs 2.25 lakh per kg, down 0.93%, extending Monday's sharp selloff that saw Delhi silver fall Rs 5,000 to Rs 2.32 lakh. Vikram Subburaj of Giottus blamed higher US yields and a stronger dollar, while Kotak MF's Satish Dondapati cited higher crude raising the odds of another Fed hike.",
       "url": "https://www.tradingview.com/news/cnbctv:7b3d583b8094b:0/",
@@ -291,7 +341,7 @@
     },
     {
       "id": "29734f9ed82bfd61",
-      "rank": 11,
+      "rank": 13,
       "title": "China on pace to import 1,700 tonnes of gold in 2026, silver price faces key test near $60/oz – Heraeus",
       "summary": "China’s gold imports reached 1,141 tonnes in the first eight months of 2026, already above all of 2025, and are on pace for about 1,700 tonnes – the highest of the decade – driven by investment demand, according to Heraeus analysts cited by Kitco. The note adds that silver faces a key test near $60 an ounce.",
       "url": "https://www.kitco.com/news/article/2026-09-28/china-pace-import-1700-tonnes-gold-2026-silver-price-faces-key-test-near",
@@ -313,7 +363,7 @@
     },
     {
       "id": "678977113a9d562a",
-      "rank": 12,
+      "rank": 14,
       "title": "Explained - The good, bad and ugly about the decline in Gold imports by Kotak Institutional Equities",
       "summary": "Kotak Institutional Equities breaks down the decline in India's gold imports — softer demand at high prices, elevated import duties and a shift toward ETFs and digital gold — and what it means for domestic premiums, MCX prices and festive-season buying.",
       "url": "https://www.cnbctv18.com/market/commodities/gold-monthly-imports-declining-good-bad-ugly-kotak-explains-prices-spot-global-mcx-festive-demand-19998538.htm",
@@ -335,7 +385,7 @@
     },
     {
       "id": "f2af7c9c9129e994",
-      "rank": 13,
+      "rank": 15,
       "title": "India Gold market cautiously optimistic with approach of festive and wedding seasons",
       "summary": "India's gold market is cautiously optimistic heading into the festive buying season, with wedding demand described as resilient by the World Gold Council even as high prices weigh on jewellery purchases. Domestic gold continues to trade about 2% below import parity, with discounts widening to $78 an ounce as of Sept 11 on adequate local supply.",
       "url": "https://www.fxstreet.com/analysis/india-gold-market-cautiously-optimistic-with-approach-of-festive-and-wedding-seasons-202609281938",
@@ -356,7 +406,7 @@
     },
     {
       "id": "54090c07b6bcdc85",
-      "rank": 14,
+      "rank": 16,
       "title": "Comex Update: 400oz Gold Contract Cancelled; Silver Demand Strengthens",
       "summary": "Comex data shows that demand for gold has evaporated where demand for silver has firmed. With the 400-ounce bars now removed from the inventory, if inventory were to come under pressure again, the Comex may find their vaults getting drained quite quickly. The immediate and sudden collapse in physical demand for gold is something worth watching.",
       "url": "https://www.schiffgold.com/exploring-finance/comex-update-400oz-gold-contract-cancelled-silver-demand-strengthens",
@@ -379,7 +429,7 @@
     },
     {
       "id": "4ba79548fcede8f8",
-      "rank": 15,
+      "rank": 17,
       "title": "Sovereign Gold Bond (SGB) premature redemption October 2026: 4 exit dates; check deadlines to submit your request",
       "summary": "Four SGB tranches are due for premature redemption in October 2026: 2019-20 Series V on Oct 15, 2020-21 Series VII on Oct 19, 2020-21 Series I on Oct 28 and 2019-20 Series VI on Oct 30. Investors must submit requests inside each tranche's prescribed window; only the specified tranches are eligible, and payouts are linked to the prevailing gold price under the RBI framework.",
       "url": "https://upstox.com/news/personal-finance/commodities/gold-bond-premature-redemption-october-2026-4-exit-dates-check-sgb-redemption-request-deadlines/article-201048/",
