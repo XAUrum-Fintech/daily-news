@@ -63,23 +63,35 @@ rate) — that is what makes the duty columns meaningful.
 - `tools/build_customs_tracker.py` — append / validate / rebuild. Refuses to
   write anything on validation failure.
 - `tools/import_xlsx.py` — one-time seed importer from the .xlsx; kept for
-  audit.
+  audit (replays the original v1 seed; not used in the daily pipeline).
 - `tools/fetch.py` — daily detection: reads the tracker's `latest.json`
   from a checkout, queries ICEGATE + CBIC + LBMA, and prints new events as
-  builder-ready JSON. An item counts as new only if its notification number
+  builder-ready JSON (each event carries its official `source_url` /
+  `source_kind`: the CBIC notice PDF for tariff events, the ICEGATE listing
+  portal for exchange-rate events — see "Per-notice source links" below).
+  An item counts as new only if its notification number
   is unknown **and** it is published after the last tracked row (the
   tracker continues the .xlsx from 2026-01-13; older unknown circulars are
   out of scope). Exit 0 with zero events is the normal quiet day. A CBIC
   failure is a warning, not fatal — its WAF intermittently rejects
   requests. HTTP goes through curl: Python's urllib is fingerprinted and
   dropped by these frontends.
+- `tools/backfill_source_urls.py` — fills `source_url`/`source_kind` on
+  existing rows (idempotent; re-runnable). Exchange-rate rows get the
+  ICEGATE portal link; tariff-value rows get the official CBIC notice PDF
+  URL whenever the CBIC API is reachable (it also probes CBIC's "Exchange
+  Rate" category for ERAM numbers, in case CBIC hosts those circulars as
+  PDFs). Re-validates every row through the builder before writing, and
+  migrates `customs-tracker.v1` files to v2. `sync.py` runs it on every
+  daily run — before appends, and even on no-new-event days — so links
+  keep filling in as CBIC becomes reachable.
 - `tools/render_update.py` — renders `latest.md` from `latest.json`'s
   newest row (values + deterministic commentary + verify links).
 - `tools/sync.py` — the daily pipeline: shallow-clones the repo, runs
-  `fetch.py`, appends each event through the builder, renders `latest.md`,
-  and commits the four regenerated files in one atomic git-database-API
-  commit (with one retry on ref conflict, then a loud failure). Never
-  touches `news/`.
+  `fetch.py`, runs `backfill_source_urls.py`, appends each event through
+  the builder, renders `latest.md`, and commits the four regenerated files
+  in one atomic git-database-API commit (with one retry on ref conflict,
+  then a loud failure). Never touches `news/`.
 
 ### Row schema (`latest.json` rows)
 
@@ -90,7 +102,42 @@ exchange rows), `gold_tariff_usd_10g`, `silver_tariff_usd_kg`,
 `gold_tariff_usd_troy_oz`, `silver_london_fix_usd_oz`,
 `silver_tariff_usd_troy_oz`, `fix_date`, `gold_value_inr_kg`,
 `gold_duty_inr_kg`, `gold_duty_change_inr_kg`, `silver_value_inr_kg`,
-`silver_duty_inr_kg`, `silver_duty_change_inr_kg`.
+`silver_duty_inr_kg`, `silver_duty_change_inr_kg`, `source_url`,
+`source_kind`.
+
+### Per-notice source links (schema `customs-tracker.v2`)
+
+Each row carries the official source link for its notice:
+
+- `source_url` — https URL of the notice itself when one exists, else the
+  official listing portal where the notice number can be found. Null only
+  while a tariff row's CBIC PDF link is still pending (CBIC WAF).
+- `source_kind` — `"notice"` (the URL opens the notice itself, e.g. the
+  CBIC notice PDF) or `"portal"` (the URL opens the official listing
+  portal; find the notice number there). Null together with `source_url`.
+
+Link policy by event type:
+
+- **Tariff-value events** → the official notice PDF:
+  `https://taxinformation.cbic.gov.in/content/pdf/<docFilePath>`
+  (kind `"notice"`). Captured by `fetch.py` from the CBIC API at detection
+  time; historical rows are backfilled by `backfill_source_urls.py` when
+  the CBIC API is reachable.
+- **Exchange-rate events** → ICEGATE publishes no per-notice URL: the
+  circular detail is a POST-only API (`igexratepublishnot`) and the
+  portal's "Download PDF" is generated client-side from that JSON, so
+  there is no official notice page to link. The row records the official
+  listing portal
+  `https://foservices.icegate.gov.in/#/services/notifyPublishScreen`
+  (kind `"portal"`) — open it, find the circular number, Download PDF.
+  `backfill_source_urls.py` also probes CBIC's "Exchange Rate" category
+  for these numbers in case CBIC hosts the circulars as PDFs.
+
+Consumers (e.g. an "official notice" button) should branch on
+`source_kind`: `"notice"` → open the URL directly; `"portal"` → label the
+button as opening the portal and show the notice number beside it so the
+reader can find the notice there; null → fall back to the portal +
+notice number.
 
 ### Formulas (reproduce the sheet exactly)
 
@@ -108,7 +155,8 @@ independently recomputed from the .xlsx with zero discrepancies.
 
 - On any extraction or validation failure, the existing files are left
   untouched and the failure is reported plainly.
-- A run that finds no new events stays quiet (no commit).
+- A run that finds no new events stays quiet (a backfill-only commit of
+  source links may still land, silently).
 - A run that appends events regenerates all four files (`latest.json`,
   `latest.csv`, `state.json`, `latest.md`) and commits.
 
@@ -121,7 +169,8 @@ docs (`docs/CUSTOMS_DUTY.md`), data (`customs-duty/`), and daily schedule
 were migrated to `tools/fetch.py` + `tools/sync.py` on official sources.
 The old JSON paths (`customs-duty/latest.json`, schema `orob-customs-duty.v1`)
 no longer exist; consumers should read `customs-duty-tracker/latest.json`
-(schema `customs-tracker.v1`).
+(schema `customs-tracker.v2` since 2026-09-29, when per-notice
+`source_url`/`source_kind` columns were added).
 
 ## Update style (values + commentary)
 
@@ -143,7 +192,12 @@ exchange rate, or both) and what it means>
 
 Verify: <source links, one per line>
 
-Source-link convention (official sources, so readers can verify):
+Source-link convention (official sources, so readers can verify): the
+row's own `source_url` is used (see "Per-notice source links" above) —
+`[Official notice](url)` when `source_kind` is `"notice"`,
+`[Official notifications portal](url) — find <number>, Download PDF` when
+it is `"portal"`. Fallbacks when a row has no `source_url` yet:
+
 - Exchange-rate events: https://foservices.icegate.gov.in/#/services/notifyPublishScreen
   — find the circular number and use Download PDF.
 - Tariff-value events: https://taxinformation.cbic.gov.in/ — Non-Tariff

@@ -110,6 +110,38 @@ def metal_line(name, tkey, unit, duty_key, chg_key, last, prev):
     return f"- {name}: tariff {tag} \u00b7 duty {inr_trim(last[duty_key])}/kg{chg_s}"
 
 
+def verify_links(last):
+    """Official source links for the newest row.
+
+    Uses the row's own source_url when present:
+      - kind "notice": the link opens the notice itself (e.g. the CBIC
+        notice PDF);
+      - kind "portal": the link opens the official listing portal -- find
+        the notice number there (this is the ICEGATE case, which exposes
+        no per-notice URL).
+    Falls back to the portal links when the row has no source_url yet.
+    """
+    su, sk = last.get("source_url"), last.get("source_kind")
+    if su and sk == "notice":
+        lines = [f"- [Official notice]({su}) \u2014 the notice itself."]
+    elif su and sk == "portal":
+        lines = [f"- [Official notifications portal]({su})"
+                 f" \u2014 find {last['eram_notification'] or last['tariff_notification']}, "
+                 "Download PDF."]
+    elif last["event"] == "Exchange rate":
+        lines = [(f"- [ICEGATE exchange-rate notifications]({ICEGATE_SCREEN})"
+                  f" \u2014 find {last['eram_notification']}, Download PDF.")]
+    else:
+        lines = [(f"- [CBIC tax information portal]({CBIC_PORTAL})"
+                  f" \u2014 Non-Tariff notifications; "
+                  f"search {last['tariff_notification']}.")]
+    if last["event"] == "Tariff value" and last.get("gold_london_fix_usd_oz"):
+        lines.append(f"- [LBMA gold fix]({LBMA_GOLD}) / "
+                     f"[LBMA silver fix]({LBMA_SILVER})"
+                     " \u2014 full history, v[0] is USD.")
+    return "\n".join(lines)
+
+
 def render(rows):
     last = rows[-1]
     prev = rows[-2] if len(rows) > 1 else None
@@ -119,19 +151,10 @@ def render(rows):
         event_line = f"Exchange-rate circular {last['eram_notification']}"
         move_line = (f"USD/INR import: {prev['usd_inr_import']:.2f} \u2192 "
                      f"{last['usd_inr_import']:.2f}") if prev else ""
-        verify = (f"- [ICEGATE exchange-rate notifications]({ICEGATE_SCREEN})"
-                  f" \u2014 find {last['eram_notification']}, Download PDF.")
     else:
         label = last["tariff_notification"]
         event_line = f"Tariff-value notification {last['tariff_notification']}"
         move_line = ""  # tariff moves show in the metal lines below
-        verify = (f"- [CBIC tax information portal]({CBIC_PORTAL})"
-                  f" \u2014 Non-Tariff notifications; "
-                  f"search {last['tariff_notification']}.")
-        if last.get("gold_london_fix_usd_oz"):
-            verify += (f"\n- [LBMA gold fix]({LBMA_GOLD}) / "
-                       f"[LBMA silver fix]({LBMA_SILVER})"
-                       " \u2014 full history, v[0] is USD.")
 
     lines = [
         f"# Customs duty update \u2014 {label}",
@@ -155,10 +178,10 @@ def render(rows):
         "",
         "## Verify",
         "",
-        verify,
+        verify_links(last),
         "",
         "---",
-        "*Generated from `latest.json` (schema customs-tracker.v1). "
+        "*Generated from `latest.json` (schema customs-tracker.v2). "
         "Machine-owned \u2014 do not hand-edit.*",
         "",
     ]

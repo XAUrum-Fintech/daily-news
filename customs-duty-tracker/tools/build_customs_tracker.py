@@ -1,10 +1,13 @@
 #!/usr/bin/env python3
 """Build/append rows for the customs-duty tracker dataset.
 
-The tracker is a 20-column event table (one row per event that changes
+The tracker is a 22-column event table (one row per event that changes
 customs duty on gold/silver imports): CBIC tariff-value fixations and
 ICEGATE ERAM exchange-rate notifications, with the LBMA London fix and
-INR duty computed at a fixed 15% duty rate.
+INR duty computed at a fixed 15% duty rate. Each row also carries the
+official source link for its notice (`source_url`; `source_kind` is
+"notice" when the link opens the notice itself, "portal" when it opens
+the official listing portal where the notice number can be found).
 
 Usage:
     python3 src/build_customs_tracker.py append \\
@@ -37,7 +40,9 @@ DUTY_RATE = 0.15
 GOLD_10G_TO_TROY_OZ = 3.11034768
 SILVER_KG_TO_TROY_OZ = 0.0311034768
 
-SCHEMA = "customs-tracker.v1"
+SCHEMA = "customs-tracker.v2"
+
+SOURCE_KINDS = {"notice", "portal"}
 
 # (json key, csv header)
 COLUMNS = [
@@ -61,6 +66,8 @@ COLUMNS = [
     ("silver_value_inr_kg", "Silver Value (INR/kg)"),
     ("silver_duty_inr_kg", "Silver Duty (INR/kg)"),
     ("silver_duty_change_inr_kg", "Silver Duty Increase/Decrease (INR/kg)"),
+    ("source_url", "Source URL"),
+    ("source_kind", "Source Type"),
 ]
 
 EVENT_LABELS = {"tariff_value": "Tariff value", "exchange_rate": "Exchange rate"}
@@ -151,6 +158,13 @@ def compute_row(prev, ev):
         gold_chg = float(_chg(gold_duty, prev["gold_duty_inr_kg"]))
         silver_chg = float(_chg(silver_duty, prev["silver_duty_inr_kg"]))
 
+    source_url = ev.get("source_url")
+    source_kind = ev.get("source_kind")
+    if source_url is not None and not str(source_url).startswith("https://"):
+        die("source_url must be an https URL or null")
+    if source_kind is not None and source_kind not in SOURCE_KINDS:
+        die(f"source_kind must be one of {sorted(SOURCE_KINDS)} or null")
+
     return {
         "published": ev["published"],
         "effective": ev["effective"],
@@ -172,6 +186,8 @@ def compute_row(prev, ev):
         "silver_value_inr_kg": float(silver_value),
         "silver_duty_inr_kg": float(silver_duty),
         "silver_duty_change_inr_kg": silver_chg,
+        "source_url": source_url,
+        "source_kind": source_kind,
     }
 
 
@@ -179,7 +195,7 @@ def validate_append(rows, row):
     """Sanity checks before appending `row` after `rows`."""
     keys = [k for k, _ in COLUMNS]
     if [k for k in row] != keys:
-        die("row keys do not match the 20-column schema")
+        die("row keys do not match the 22-column schema")
     try:
         pub = datetime.strptime(row["published"], "%Y-%m-%d").date()
         eff = datetime.strptime(row["effective"], "%Y-%m-%d").date()
@@ -233,6 +249,11 @@ def validate_append(rows, row):
         die("silver tariff outside plausible range")
     if not (50 <= row["usd_inr_import"] <= 160):
         die("USD/INR import rate outside plausible range")
+    su, sk = row["source_url"], row["source_kind"]
+    if su is not None and not str(su).startswith("https://"):
+        die("source_url must be an https URL or null")
+    if sk is not None and sk not in SOURCE_KINDS:
+        die("source_kind must be 'notice' or 'portal' or null")
 
 
 def write_outputs(tracker_dir, rows, generated_at):
@@ -299,6 +320,8 @@ def cmd_append(args):
         "gold_london_fix_usd_oz": args.gold_fix,
         "silver_london_fix_usd_oz": args.silver_fix,
         "fix_date": args.fix_date,
+        "source_url": args.source_url,
+        "source_kind": args.source_kind,
     }
     prev = rows[-1] if rows else None
     row = compute_row(prev, ev)
@@ -337,6 +360,11 @@ def main():
                    help="LBMA silver fix USD/oz (tariff_value only)")
     a.add_argument("--fix-date", default=None,
                    help="YYYY-MM-DD of the fix (default: published, tariff_value only)")
+    a.add_argument("--source-url", default=None,
+                   help="official link for this notice (https URL or omit)")
+    a.add_argument("--source-kind", default=None, choices=["notice", "portal"],
+                   help="'notice' opens the notice itself; 'portal' opens the "
+                        "official listing portal (find the notice number there)")
     args = ap.parse_args()
     if args.cmd == "append":
         cmd_append(args)

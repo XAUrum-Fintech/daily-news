@@ -13,7 +13,7 @@ The rupee weakened — the import rate rose ₹1.55 to 96.80. Tariff values are 
 
 ## Verify
 
-- [ICEGATE exchange-rate notifications](https://foservices.icegate.gov.in/#/services/notifyPublishScreen) — find 27/2026, Download PDF.
+- [Official notifications portal](https://foservices.icegate.gov.in/#/services/notifyPublishScreen) — find 27/2026, Download PDF.
 
 ---
-*Generated from `latest.json` (schema customs-tracker.v1). Machine-owned — do not hand-edit.*
+*Generated from `latest.json` (schema customs-tracker.v2). Machine-owned — do not hand-edit.*

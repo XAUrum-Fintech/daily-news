@@ -4,12 +4,15 @@
 Pipeline:
   1. Shallow-clone XAUrum-Fintech/daily-news (branch main) to a temp dir.
   2. Run fetch.py (official sources: ICEGATE, CBIC, LBMA) for new events.
-  3. Append each new event via tools/build_customs_tracker.py (validates).
-  4. Render tools/render_update.py -> latest.md (values + commentary).
-  5. Commit latest.json + latest.csv + state.json + latest.md in ONE atomic commit via
+  3. Backfill missing source_url/source_kind on existing rows
+     (tools/backfill_source_urls.py; harmless when nothing is missing).
+  4. Append each new event via tools/build_customs_tracker.py (validates).
+  5. Render tools/render_update.py -> latest.md (values + commentary).
+  6. Commit latest.json + latest.csv + state.json + latest.md in ONE atomic commit via
      the GitHub git-database API (gh-api), and verify the ref moved.
 
-Never touches news/ or any feed file. No new events -> no commit, quiet.
+Never touches news/ or any feed file. No new events -> quiet (a
+backfill-only commit of source links may still happen, silently).
 Any failure -> the remote repo is left untouched; the error is printed
 plainly and the exit code is nonzero.
 
@@ -54,6 +57,60 @@ def gh(method, path, data=None):
     return json.loads(r.stdout) if r.stdout.strip() else {}
 
 
+def _commit(args, tracker_dir, msg):
+    """Atomic commit of the tracker files via the git-database API."""
+    ref = gh("GET", f"/repos/{args.repo}/git/refs/heads/{args.branch}")
+    base_sha = ref["object"]["sha"]
+    commit = gh("GET", f"/repos/{args.repo}/git/commits/{base_sha}")
+    base_tree = commit["tree"]["sha"]
+
+    blobs = []
+    for name in TRACKER_FILES:
+        with open(os.path.join(tracker_dir, name), "rb") as f:
+            content = base64.b64encode(f.read()).decode()
+        b = gh("POST", f"/repos/{args.repo}/git/blobs",
+               {"content": content, "encoding": "base64"})
+        blobs.append({"path": f"{TRACKER_SUBDIR}/{name}",
+                      "mode": "100644", "type": "blob",
+                      "sha": b["sha"]})
+    tree = gh("POST", f"/repos/{args.repo}/git/trees",
+              {"base_tree": base_tree, "tree": blobs})
+    new_commit = gh(
+        "POST", f"/repos/{args.repo}/git/commits",
+        {"message": msg, "tree": tree["sha"], "parents": [base_sha]})
+    try:
+        gh("PATCH", f"/repos/{args.repo}/git/refs/heads/{args.branch}",
+           {"sha": new_commit["sha"]})
+    except RuntimeError:
+        # 409 race: rebase onto the new head once, then give up loudly
+        log("ref update conflict; retrying once on fresh head")
+        ref = gh("GET",
+                 f"/repos/{args.repo}/git/refs/heads/{args.branch}")
+        base_sha = ref["object"]["sha"]
+        commit = gh("GET", f"/repos/{args.repo}/git/commits/{base_sha}")
+        tree = gh("POST", f"/repos/{args.repo}/git/trees",
+                  {"base_tree": commit["tree"]["sha"], "tree": blobs})
+        new_commit = gh("POST", f"/repos/{args.repo}/git/commits",
+                        {"message": msg, "tree": tree["sha"],
+                         "parents": [base_sha]})
+        gh("PATCH", f"/repos/{args.repo}/git/refs/heads/{args.branch}",
+           {"sha": new_commit["sha"]})
+
+    # verify
+    ref = gh("GET", f"/repos/{args.repo}/git/refs/heads/{args.branch}")
+    if ref["object"]["sha"] != new_commit["sha"]:
+        raise RuntimeError("ref verification failed after commit")
+    print(f"committed {new_commit['sha'][:7]}: {msg}")
+    return new_commit["sha"]
+
+
+def _tracker_dirty(clone):
+    r = subprocess.run(
+        ["git", "-C", clone, "status", "--porcelain", "--", TRACKER_SUBDIR],
+        capture_output=True, text=True)
+    return bool(r.stdout.strip())
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--workdir", default=None)
@@ -64,6 +121,7 @@ def main():
     here = os.path.dirname(os.path.abspath(__file__))
     fetch_py = os.path.join(here, "fetch.py")
     build_py = os.path.join(here, "build_customs_tracker.py")
+    backfill_py = os.path.join(here, "backfill_source_urls.py")
 
     workdir = args.workdir or tempfile.mkdtemp(prefix="cdt-sync-")
     clone = os.path.join(workdir, "daily-news")
@@ -85,17 +143,32 @@ def main():
         events = detected.get("events", [])
         for w in detected.get("warnings", []):
             log("warning: " + w)
+        # 3. backfill source links on existing rows (migrates v1 -> v2
+        # on first run; fills CBIC PDF links whenever CBIC is reachable).
+        # Runs even with no new events so links keep filling in.
+        run([sys.executable, backfill_py, "--tracker-dir", tracker_dir])
+
         if not events:
-            print("no new events")
+            # Quiet day: commit backfill-only changes (if any) without
+            # any chat report; truly nothing changed -> stay silent.
+            if _tracker_dirty(clone):
+                _commit(args, tracker_dir,
+                        "customs-duty-tracker: backfill source links")
+                print("backfilled source links (no new events)")
+            else:
+                print("no new events")
             return 0
 
-        # 2. append (builder validates every row; aborts on failure)
+        # 4. append (builder validates every row; aborts on failure)
         for ev in events:
             cmd = [sys.executable, build_py, "append",
                    "--repo-dir", clone,
                    "--published", ev["published"],
                    "--effective", ev["effective"],
                    "--event", ev["event"]]
+            if ev.get("source_url"):
+                cmd += ["--source-url", ev["source_url"],
+                        "--source-kind", ev.get("source_kind") or "notice"]
             if ev["event"] == "tariff_value":
                 cmd += ["--tariff-notification", ev["tariff_notification"],
                         "--gold-tariff", str(ev["gold_tariff"]),
@@ -109,56 +182,15 @@ def main():
                         "--usd-inr-export", str(ev["usd_inr_export"])]
             run(cmd)
 
-        # 2b. render the human-readable update for the newest row
+        # 5. render the human-readable update for the newest row
         render_py = os.path.join(here, "render_update.py")
         run([sys.executable, render_py, "--tracker-dir", tracker_dir])
 
-        # 3. atomic commit of the four regenerated files
-        ref = gh("GET", f"/repos/{args.repo}/git/refs/heads/{args.branch}")
-        base_sha = ref["object"]["sha"]
-        commit = gh("GET", f"/repos/{args.repo}/git/commits/{base_sha}")
-        base_tree = commit["tree"]["sha"]
-
-        blobs = []
-        for name in TRACKER_FILES:
-            with open(os.path.join(tracker_dir, name), "rb") as f:
-                content = base64.b64encode(f.read()).decode()
-            b = gh("POST", f"/repos/{args.repo}/git/blobs",
-                   {"content": content, "encoding": "base64"})
-            blobs.append({"path": f"{TRACKER_SUBDIR}/{name}",
-                          "mode": "100644", "type": "blob",
-                          "sha": b["sha"]})
-        tree = gh("POST", f"/repos/{args.repo}/git/trees",
-                  {"base_tree": base_tree, "tree": blobs})
+        # 6. atomic commit of the four regenerated files
         first, last = events[0], events[-1]
         msg = (f"customs-duty-tracker: {len(events)} new event(s) "
                f"{first['published']}..{last['published']}")
-        new_commit = gh(
-            "POST", f"/repos/{args.repo}/git/commits",
-            {"message": msg, "tree": tree["sha"], "parents": [base_sha]})
-        try:
-            gh("PATCH", f"/repos/{args.repo}/git/refs/heads/{args.branch}",
-               {"sha": new_commit["sha"]})
-        except RuntimeError:
-            # 409 race: rebase onto the new head once, then give up loudly
-            log("ref update conflict; retrying once on fresh head")
-            ref = gh("GET",
-                     f"/repos/{args.repo}/git/refs/heads/{args.branch}")
-            base_sha = ref["object"]["sha"]
-            commit = gh("GET", f"/repos/{args.repo}/git/commits/{base_sha}")
-            tree = gh("POST", f"/repos/{args.repo}/git/trees",
-                      {"base_tree": commit["tree"]["sha"], "tree": blobs})
-            new_commit = gh("POST", f"/repos/{args.repo}/git/commits",
-                            {"message": msg, "tree": tree["sha"],
-                             "parents": [base_sha]})
-            gh("PATCH", f"/repos/{args.repo}/git/refs/heads/{args.branch}",
-               {"sha": new_commit["sha"]})
-
-        # verify
-        ref = gh("GET", f"/repos/{args.repo}/git/refs/heads/{args.branch}")
-        if ref["object"]["sha"] != new_commit["sha"]:
-            raise RuntimeError("ref verification failed after commit")
-        print(f"committed {new_commit['sha'][:7]}: {msg}")
+        _commit(args, tracker_dir, msg)
         return 0
     finally:
         if not args.workdir:

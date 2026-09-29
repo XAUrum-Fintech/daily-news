@@ -51,6 +51,7 @@ import time
 from datetime import date, datetime, timedelta
 
 ICEGATE_BASE = "https://foservices.icegate.gov.in/cbu/icegateapi"
+ICEGATE_PORTAL = "https://foservices.icegate.gov.in/#/services/notifyPublishScreen"
 CBIC_LIST = ("https://taxinformation.cbic.gov.in/api/cbic-notification-msts/"
              "fetchNotificationByYearAndCategory")
 CBIC_PDF = "https://taxinformation.cbic.gov.in/content/pdf/"
@@ -128,7 +129,7 @@ def load_tracker(tracker_dir):
     path = os.path.join(tracker_dir, "latest.json")
     with open(path) as f:
         data = json.load(f)
-    if data.get("schema") != "customs-tracker.v1":
+    if data.get("schema") not in ("customs-tracker.v1", "customs-tracker.v2"):
         raise RuntimeError(f"unexpected schema in {path}")
     known_tariff, known_eram = set(), set()
     cutoff = ""
@@ -193,6 +194,11 @@ def icegate_new_events(known_eram, cutoff):
             "eram_notification": item["number"],
             "usd_inr_import": det["usd_import"],
             "usd_inr_export": det["usd_export"],
+            # ICEGATE exposes no per-notice URL (detail is a POST API; the
+            # portal's PDF is generated client-side), so the official
+            # listing portal is the source link.
+            "source_url": ICEGATE_PORTAL,
+            "source_kind": "portal",
         })
     return events
 
@@ -383,7 +389,8 @@ def cbic_new_events(known_tariff, cutoff, warnings):
             continue
         log(f"new tariff notification {n['number']} dated {n['dated']}")
         try:
-            pdf_bytes = http_bytes(CBIC_PDF + n["pdf"].lstrip("/"))
+            pdf_url = CBIC_PDF + n["pdf"].lstrip("/")
+            pdf_bytes = http_bytes(pdf_url)
             gold, silver, gl, sl = cbic_extract_tariff_values(pdf_bytes)
             log(f"  TABLE-2: gold {gold}/10g ({gl[:60]}), "
                 f"silver {silver}/kg ({sl[:60]})")
@@ -400,6 +407,9 @@ def cbic_new_events(known_tariff, cutoff, warnings):
                 "gold_fix": gold_fix,
                 "silver_fix": silver_fix,
                 "fix_date": fix_date,
+                # The official notice PDF itself.
+                "source_url": pdf_url,
+                "source_kind": "notice",
             })
         except Exception as e:
             warnings.append(f"CBIC {n['number']}: extraction failed: {e}")
