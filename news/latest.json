@@ -1,71 +1,26 @@
 {
-  "schema": "orob-news.v1",
-  "edition_id": "2026-09-28T22:00Z",
-  "generated_at": "2026-09-28T22:04:06Z",
+  "edition_id": "2026-09-29T00:00Z",
+  "generated_at": "2026-09-29T00:06:39Z",
   "window": {
-    "from": "2026-09-28T20:00:00Z",
-    "to": "2026-09-28T22:00:00Z"
+    "from": "2026-09-28T22:00:00Z",
+    "to": "2026-09-29T00:00:00Z"
   },
-  "insights": {
-    "headline": "Gold's 4% Monday rout on oil-driven Fed-hike bets; rupee, bond yields weaken.",
-    "summary": "Gold and silver extended their sell-off as oil-driven inflation fears hardened bets on another Fed rate hike, with spot gold down 4% to $4,111 — its lowest since August 5 — and MCX gold futures off 2.42% at ₹1,47,225 per 10 grams. The rupee weakened to 95.99 per dollar, down 6.37% this year, while India's 10-year bond yield hit a 2.5-year high of 7.19%. Offset against the rout, China is on pace for record ~1,700-tonne gold imports in 2026 while Indian imports falter, and analysts stay constructive on silver with UBS seeing $70/oz by December.",
-    "points": [
-      "Spot gold fell as much as 4% to $4,111/oz, its lowest since August 5, as the 10-year Treasury yield hit its highest since June 2007.",
-      "MCX October gold fell 2.42% to ₹1,47,225/10g; December silver dropped 3.22% to ₹2,27,133/kg on Fed-hike repricing.",
-      "The rupee fell to 95.99 per dollar, down 6.37% this year, while the 10-year bond yield hit a 2.5-year high of 7.19%.",
-      "Money managers' gold net longs fell to their weakest since late July; gold ETFs saw modest outflows of 1.6 tonnes last week.",
-      "UBS expects silver to reach $70/oz by December 2026 and $80 by September 2027 on tighter physical fundamentals."
-    ]
-  },
-  "trending": [
-    {
-      "title": "Rate-hike repricing crushes bullion",
-      "summary": "Markets now price roughly 70% odds of an October Fed hike, lifting the 10-year yield to its highest since 2007 and hammering non-yielding metals on MCX and COMEX alike.",
-      "item_ids": [
-        "d8ec42fe34bb4e84",
-        "f93a9ea1dc50c6fe",
-        "94b954b8da8e0343",
-        "abb14890d7f6b28a"
-      ]
-    },
-    {
-      "title": "Rupee and yields tighten the screws",
-      "summary": "The rupee's fall to 95.99 per dollar against Brent near $107 keeps landed gold costs high for Indian buyers even as futures tumble, with the bond market pricing in RBI rate hikes.",
-      "item_ids": [
-        "8f307469cc462f30",
-        "51e8414508bfe148",
-        "d8ec42fe34bb4e84"
-      ]
-    },
-    {
-      "title": "China buys, India imports falter",
-      "summary": "China's gold imports are on pace for a decade-high ~1,700 tonnes while India's imports have declined on high prices and elevated duties, a demand split shaping premiums.",
-      "item_ids": [
-        "29734f9ed82bfd61",
-        "678977113a9d562a"
-      ]
-    },
-    {
-      "title": "Silver's bruised week, bullish year",
-      "summary": "Silver fell over 3% on MCX and slid toward $60, but analysts stay constructive: UBS sees $70/oz by December 2026 and $80 by September 2027, and BMO lifted its long-term silver average to $47.",
-      "item_ids": [
-        "f93a9ea1dc50c6fe",
-        "cec21de6580874a7",
-        "4c6c630f8e2cccc2",
-        "1f7916da690a842b"
-      ]
-    }
-  ],
   "items": [
     {
-      "id": "d8ec42fe34bb4e84",
-      "title": "Gold, silver plunge up to 3% as oil surge, rate-hike bets trigger sell-off. What lies ahead?",
-      "summary": "MCX October gold futures fell 2.42% to Rs 1,47,225 per 10 grams and December silver futures dropped 3.22% to Rs 2,27,133 per kg as surging crude and rising US yields revived bets on another Fed rate hike in October. Analysts cited by ET put immediate MCX gold support at Rs 1,47,300-1,48,000, with US inflation and jobs data due this week seen as the next trigger.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/gold-silver-plunge-up-to-3-as-oil-surge-rate-hike-bets-trigger-sell-off-what-lies-ahead/articleshow/134542705.cms",
+      "id": "4ba3ca85608ee5e7",
+      "rank": 1,
+      "title": "Gold tumbles 4% to seven-week low as oil, dollar and yields climb",
+      "summary": "Gold fell 4% on Monday to a seven-week low as surging oil prices revived inflation fears and hardened bets on further Fed tightening. Spot gold touched $4,110.55 — its lowest since August 5 — while silver dropped 4.5% to $61.39. A near-two-month-high dollar and climbing Treasury yields added pressure, and traders now price about 94% odds of a December Fed hike.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-tumbles-4-to-seven-week-low-as-oil-dollar-and-yields-climb/articleshow/134549139.cms",
+      "image_url": "https://img.etimg.com/thumb/msid-134549180,width-1200,height-630,imgsize-213780,overlay-etmarkets/articleshow.jpg",
       "source": "Economic Times",
       "source_domain": "economictimes.indiatimes.com",
-      "published_at": "2026-09-28T12:28:00Z",
-      "image_url": "https://img.etimg.com/thumb/msid-134542719,width-1200,height-630,imgsize-219508,overlay-etmarkets/articleshow.jpg",
+      "published_at": "2026-09-28T18:42:24Z",
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
       "tags": [
         "gold",
         "silver",
@@ -73,45 +28,15 @@
         "fed",
         "india"
       ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
       "breaking": false,
       "related_urls": [
+        "https://economictimes.indiatimes.com/markets/stocks/news/gold-silver-plunge-up-to-3-as-oil-surge-rate-hike-bets-trigger-sell-off-what-lies-ahead/articleshow/134542705.cms",
+        "https://www.reuters.com/world/india/golds-lustre-dims-treasury-yields-surge-markets-bet-higher-fed-rates-2026-09-28/",
+        "https://www.reuters.com/world/india/gold-drops-more-than-1-us-rate-hike-bets-2026-09-28/",
+        "https://www.moneyweb.co.za/news-fast-news/gold-slumps-as-costlier-crude-oil-fans-gains-in-treasury-yields/",
         "https://www.thehindubusinessline.com/markets/gold/gold-price-falls-2600-silver-plunges-5000-amid-crude-oil-surge/article71519585.ece",
         "https://www.cnbctv18.com/market/commodities/gold-silver-prices-tumble-what-investors-should-watch-this-week-19999589.htm",
-        "https://hiindia.com/silver-tumbles-over-rs-7000-on-mcx-slips-below-rs-2-28-lakh-amid-global-sell-off/",
         "https://www.outlookmoney.com/invest/gold-silver-prices-fall-strong-us-dollar-bond-yields-crude-oil-price"
-      ],
-      "rank": 1
-    },
-    {
-      "id": "94b954b8da8e0343",
-      "rank": 2,
-      "title": "Gold's lustre dims as Treasury yields surge, markets bet on higher Fed rates",
-      "summary": "Spot gold fell 4% to $4,111 an ounce, its lowest since August 5, as the 10-year Treasury yield hit its highest since June 2007 and markets priced ~70% odds of another October Fed hike. Money managers' net longs fell to their weakest since late July; gold ETFs saw modest outflows. StoneX's Rhona O'Connell said central-bank buying and Indian festive demand ahead of Diwali could offer support.",
-      "url": "https://www.reuters.com/world/india/golds-lustre-dims-treasury-yields-surge-markets-bet-higher-fed-rates-2026-09-28/",
-      "source": "Reuters",
-      "source_domain": "reuters.com",
-      "published_at": "2026-09-28T17:44:41Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-gold.jpg",
-      "tags": [
-        "gold",
-        "fed",
-        "global",
-        "india",
-        "central-banks"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://www.reuters.com/world/india/gold-drops-more-than-1-us-rate-hike-bets-2026-09-28/",
-        "https://www.moneyweb.co.za/news-fast-news/gold-slumps-as-costlier-crude-oil-fans-gains-in-treasury-yields/"
       ]
     },
     {
@@ -123,7 +48,7 @@
         "silver"
       ],
       "published_at": "2026-09-28T09:03:25Z",
-      "rank": 3,
+      "rank": 2,
       "source": "Mint",
       "source_domain": "livemint.com",
       "summary": "Indian gold and silver ETFs tumbled up to 4% on Monday, mirroring the sharp fall in bullion as Fed rate-hike bets strengthened. The slide tracked MCX futures lower, with higher US yields and a firm dollar cited as the immediate triggers.",
@@ -157,11 +82,11 @@
       ],
       "breaking": false,
       "id": "29734f9ed82bfd61",
-      "rank": 4
+      "rank": 3
     },
     {
       "id": "8f307469cc462f30",
-      "rank": 5,
+      "rank": 4,
       "title": "Crude oil worries drag rupee, push bond yields to fresh 2.5-year peak",
       "summary": "India's 10-year bond yield rose 6 bps to 7.19% on Monday, a 2.5-year high, with the 5-year yield up to 6.88%, as crude near $107 and a weaker rupee pressured markets. The rupee fell to 95.99 per dollar and is down 6.37% this year. Yields rose despite strong demand at the RBI's final Rs 25,000 crore bond sale, which drew Rs 67,655 crore in bids and took September OMO sales to Rs 1 trillion.",
       "url": "https://www.business-standard.com/markets/capital-market-news/g-sec-yields-surge-to-2-5-year-high-on-crude-spike-rupee-nears-96-126092801195_1.html",
@@ -207,7 +132,29 @@
       ],
       "breaking": false,
       "id": "abb14890d7f6b28a",
-      "rank": 6
+      "rank": 5
+    },
+    {
+      "id": "fea07c3d6d39975f",
+      "rank": 6,
+      "title": "How gold sector is gearing up $100 bn export target as India eyes massive expansion in $55 bn FTA jewellery market",
+      "summary": "India's gems and jewellery industry is targeting $100 billion in exports, WGC India CEO Sachin Jain said at the Delhi Jewellery & Gem Fair. Jain added that 20-25% of India's gold consumption could come from domestic mines within five to seven years. FTA partner countries import $55 billion of jewellery a year while India's share is $8 billion.",
+      "url": "https://www.livemint.com/economy/how-gold-sector-is-gearing-up-100-bn-export-target-as-india-eyes-massive-expansion-in-55-bn-fta-jewellery-market-11790580568576.html",
+      "image_url": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/gems_1790581798667_SnAx_1790581802005_ijfK_660abcf1-b22c-4088-9ee4-4f215b2ca56c_Ui1n.png",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "published_at": "2026-09-28T07:52:05Z",
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "mcx",
+        "india",
+        "jewellery"
+      ],
+      "breaking": false
     },
     {
       "breaking": false,
@@ -255,6 +202,52 @@
       "id": "b2ddaa0385965fd3"
     },
     {
+      "id": "d48a4d4e42d9c6e6",
+      "rank": 9,
+      "title": "India Gold market cautiously optimistic with approach of festive and wedding seasons",
+      "summary": "India's gold market is entering the festive and wedding season with cautious optimism, Money Metals reports: high prices have slowed discretionary jewellery buying, but wedding-related demand stays resilient. Indian gold ETF inflows rose sharply in August, digital gold buying stayed strong, and the World Gold Council expects steady investment buying.",
+      "url": "https://www.moneymetals.com/news/2026/09/27/india-gold-market-cautiously-optimistic-with-the-approach-of-the-festive-and-wedding-seasons-005242",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-gold.jpg",
+      "source": "Money Metals",
+      "source_domain": "moneymetals.com",
+      "published_at": "2026-09-27T12:00:00Z",
+      "category": "festive",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "52f6f855ba614ce6",
+      "rank": 10,
+      "title": "Big Chinese banks ending retail leveraged gold and silver futures trading",
+      "summary": "A dozen-plus large Chinese banks plan to end retail leveraged gold and silver futures trading, shutting down Shanghai Gold Exchange margin-traded Au(T+D) and Ag(T+D) contracts, Money Metals reports. China Everbright Bank will exit after October 19, joining ICBC, Bank of China and China Construction Bank. The shift could steer Chinese retail demand toward physical metal and ETFs.",
+      "url": "https://www.moneymetals.com/news/2026/09/27/big-chinese-banks-ending-retail-leveraged-gold-and-silver-futures-trading-005243",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-metals.jpg",
+      "source": "Money Metals",
+      "source_domain": "moneymetals.com",
+      "published_at": "2026-09-27T12:00:00Z",
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "global"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://www.fxstreet.com/analysis/big-chinese-banks-ending-retail-leveraged-gold-and-silver-futures-trading-202609281941"
+      ]
+    },
+    {
       "url": "https://www.kitco.com/news/article/2026-09-28/gold-and-silver-prices-are-struggling-now-much-higher-long-term-base",
       "title": "Gold and silver prices are struggling now, but a much higher long-term base is building – BMO Capital Markets",
       "summary": "BMO Capital Markets says gold and silver are struggling near term as Middle East tensions push oil higher and stoke inflation fears, but expects a higher long-term base – trimming its near-term gold forecast while raising its long-term gold average to $4,000/oz and silver to $47/oz.",
@@ -274,7 +267,7 @@
       ],
       "breaking": false,
       "id": "1f7916da690a842b",
-      "rank": 9
+      "rank": 11
     },
     {
       "breaking": false,
@@ -284,7 +277,7 @@
         "gold"
       ],
       "published_at": "2026-09-27T22:58:16Z",
-      "rank": 10,
+      "rank": 12,
       "source": "CNBC-TV18",
       "source_domain": "cnbctv18.com",
       "summary": "Kotak Institutional Equities breaks down the decline in India's gold imports — softer demand at high prices, elevated import duties and a shift toward ETFs and digital gold — and what it means for domestic premiums, MCX prices and festive-season buying.",
@@ -305,7 +298,7 @@
         "silver"
       ],
       "published_at": "2026-09-27T14:27:46Z",
-      "rank": 11,
+      "rank": 13,
       "source": "Yahoo Finance",
       "source_domain": "uk.finance.yahoo.com",
       "summary": "UBS expects silver to recover to $70 an ounce by December 2026 and reach $80 by September 2027, via $75 in March and June 2027, citing support from higher gold prices and tighter near-term physical fundamentals — while cautioning that a more hawkish Fed remains a near-term headwind.",
@@ -325,7 +318,7 @@
         "silver"
       ],
       "published_at": "2026-09-28T05:30:00Z",
-      "rank": 12,
+      "rank": 14,
       "source": "The Telegraph",
       "source_domain": "telegraph.co.uk",
       "summary": "In its Questor weekly outlook, the Telegraph's Russ Mould argues silver looks poised to follow in gold's footsteps — holding steady around $60 after retreating from $117 highs and forming a base.",
@@ -338,5 +331,61 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-silver.jpg",
       "id": "4c6c630f8e2cccc2"
     }
-  ]
+  ],
+  "insights": {
+    "headline": "Gold's 4% Monday rout deepens on oil-driven Fed-hike bets; India eyes $100 bn jewellery exports.",
+    "summary": "Spot gold fell 4% to $4,110.55 an ounce — its lowest since August 5 — as surging oil prices revived inflation fears and hardened bets on further Fed tightening, with traders pricing about 94% odds of a December hike. Silver slid 4.5% to $61.39 while Indian gold and silver ETFs tumbled up to 4%, and the rupee weakened to 95.99 per dollar. Offsetting the gloom, China is on pace for record ~1,700-tonne gold imports in 2026, India's jewellery industry is targeting $100 billion in exports, and jewellers are cautiously optimistic ahead of the festive and wedding season.",
+    "points": [
+      "Spot gold fell 4% to $4,110.55/oz, its lowest since August 5, as oil's ~3% jump on the US rejection of Iran's proposal hardened Fed-hike bets.",
+      "Silver dropped 4.5% to $61.39/oz; Indian gold and silver ETFs tumbled up to 4%, tracking the global sell-off.",
+      "The rupee slid to 95.99 per dollar and India's 10-year yield hit a 2.5-year high of 7.19%, keeping landed gold costs elevated.",
+      "China's 2026 gold imports are on pace for ~1,700 tonnes, a decade high, even as its banks exit retail leveraged futures trading.",
+      "India's jewellery industry targets $100 bn in exports; jewellers are cautiously optimistic for the festive and wedding season."
+    ]
+  },
+  "trending": [
+    {
+      "title": "Monday's 4% rout: oil, yields and the Fed",
+      "summary": "Crude's jump after the US rejected Iran's Hormuz proposal revived inflation fears, pushing Treasury yields to multi-year highs and cementing Fed-hike bets — the perfect storm that crushed bullion.",
+      "item_ids": [
+        "4ba3ca85608ee5e7",
+        "abb14890d7f6b28a"
+      ]
+    },
+    {
+      "title": "India feels the heat: ETFs, rupee, rates",
+      "summary": "Domestic ETFs fell up to 4%, the rupee slid to 95.99 and bond yields hit a 2.5-year high, while Nomura sees 25-50 bps of RBI hikes by December.",
+      "item_ids": [
+        "f93a9ea1dc50c6fe",
+        "8f307469cc462f30",
+        "51e8414508bfe148"
+      ]
+    },
+    {
+      "title": "China's two-way pull on gold",
+      "summary": "Record ~1,700-tonne import pace signals strong physical demand, even as a dozen Chinese banks shut retail investors out of leveraged gold and silver futures.",
+      "item_ids": [
+        "29734f9ed82bfd61",
+        "52f6f855ba614ce6"
+      ]
+    },
+    {
+      "title": "Festive season meets high prices",
+      "summary": "Jewellers are cautiously optimistic for Navratri, Dhanteras, Diwali and weddings, with ETF inflows strong — but Kotak notes imports are declining as high prices bite.",
+      "item_ids": [
+        "d48a4d4e42d9c6e6",
+        "678977113a9d562a"
+      ]
+    },
+    {
+      "title": "Silver: slammed today, $80 next year?",
+      "summary": "Silver fell harder than gold on Monday, yet UBS still sees $70 by December and $80 by September 2027 on tight physical fundamentals.",
+      "item_ids": [
+        "cec21de6580874a7",
+        "4c6c630f8e2cccc2",
+        "4ba3ca85608ee5e7"
+      ]
+    }
+  ],
+  "schema": "orob-news.v1"
 }
