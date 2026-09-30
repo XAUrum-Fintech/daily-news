@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
 """Build/append rows for the customs-duty tracker dataset.
 
-The tracker is a 24-column event table (one row per event that changes
-customs duty on gold/silver imports): CBIC tariff-value fixations and
-ICEGATE ERAM exchange-rate notifications, with the LBMA London fix and
-INR duty computed at the duty rate in force on the row's effective date
-(6% before 13 May 2026; 15% from 13 May 2026, when the government raised
-total import duty on gold/silver from 6% to 15% — BCD 5%->10%, AIDC 1%->5%).
+The tracker is a 25-column event table (one row per event that changes
+customs duty on gold/silver imports): CBIC tariff-value fixations,
+ICEGATE ERAM exchange-rate notifications, and duty-rate changes
+(the rare government revisions of the total import-duty rate itself),
+with the LBMA London fix and INR duty computed at the duty rate in force
+on the row's effective date (6% before 13 May 2026; 15% from 13 May 2026,
+when the government raised total import duty on gold/silver from 6% to
+15% — BCD 5%->10%, AIDC 1%->5%).
 Each row also carries the official source link for its notice (`source_url`;
 `source_kind` is "notice" when the link opens the notice itself, "portal"
 when it opens the official listing portal where the notice number can be
@@ -22,6 +24,17 @@ Usage:
         --tariff-notification "76/2026-Customs (N.T.)" \\
         --gold-tariff 1390 --silver-tariff 2050 \\
         --gold-fix 4350.00 --silver-fix 64.20
+
+    python3 src/build_customs_tracker.py append \\
+        --published 2026-05-12 --effective 2026-05-13 --event duty_rate \\
+        --duty-notification "15/2026-Customs" --duty-rate 0.15
+
+When the government changes the duty rate itself: first add the
+(effective date, new rate) tuple to DUTY_RATE_HISTORY and update DUTY_RATE
+above, then append the duty_rate event on its effective date. The row
+carries forward the prevailing tariff values and exchange rates and
+computes duties at the new rate, so its change columns show the hike's
+effect and later rows compare against it.
 
 The script reads customs-duty-tracker/latest.json, carries forward the
 values the new event does not change, computes all derived columns,
@@ -40,16 +53,19 @@ from decimal import Decimal, ROUND_HALF_UP
 DUTY_RATE = 0.15  # current rate (top-level/state.json); per-row rates vary
 # Total import duty on gold/silver was 6% (BCD 5% + AIDC 1%) until the
 # government raised it to 15% (BCD 10% + AIDC 5%) effective 13 May 2026
-# (notified 12 May 2026). Rows effective before that date use 6%.
-DUTY_CHANGE_EFFECTIVE = "2026-05-13"
-DUTY_RATE_PRE = Decimal("0.06")
-DUTY_RATE_POST = Decimal("0.15")
+# (notification 15/2026-Customs, dated 12 May 2026). Add future changes as
+# (effective date, new rate) tuples here AND update DUTY_RATE above; the
+# builder cross-checks every row's duty_rate against this table.
+DUTY_RATE_BASE = Decimal("0.06")  # in force before the first change below
+DUTY_RATE_HISTORY = [
+    ("2026-05-13", Decimal("0.15")),
+]
 # Exact factors used by the reference spreadsheet (verified constant):
 # USD/10g -> USD/troy oz ; USD/kg -> USD/troy oz
 GOLD_10G_TO_TROY_OZ = 3.11034768
 SILVER_KG_TO_TROY_OZ = 0.0311034768
 
-SCHEMA = "customs-tracker.v3"
+SCHEMA = "customs-tracker.v4"
 
 SOURCE_KINDS = {"notice", "portal"}
 
@@ -60,6 +76,7 @@ COLUMNS = [
     ("event", "Event"),
     ("tariff_notification", "Tariff Notification"),
     ("eram_notification", "ERAM Notification"),
+    ("duty_notification", "Duty Notification"),
     ("gold_tariff_usd_10g", "Gold Tariff (USD/10g)"),
     ("silver_tariff_usd_kg", "Silver Tariff (USD/kg)"),
     ("usd_inr_import", "USD INR (Import)"),
@@ -81,14 +98,20 @@ COLUMNS = [
     ("duty_rate", "Duty Rate"),
 ]
 
-EVENT_LABELS = {"tariff_value": "Tariff value", "exchange_rate": "Exchange rate"}
+EVENT_LABELS = {"tariff_value": "Tariff value",
+                "exchange_rate": "Exchange rate",
+                "duty_rate": "Duty rate"}
 
 _Q2 = Decimal("0.01")
 
 
 def duty_rate_for(effective):
     """Duty rate in force on `effective` (YYYY-MM-DD) as a Decimal."""
-    return DUTY_RATE_PRE if effective < DUTY_CHANGE_EFFECTIVE else DUTY_RATE_POST
+    rate = DUTY_RATE_BASE
+    for boundary, r in DUTY_RATE_HISTORY:
+        if effective >= boundary:
+            rate = r
+    return rate
 
 
 def _d(x):
@@ -145,7 +168,9 @@ def compute_row(prev, ev):
         fix_date = ev.get("fix_date") or ev["published"]
         tariff_notif = ev["tariff_notification"]
         eram_notif = None
-    else:  # exchange_rate
+        duty_notif = None
+        rate = duty_rate_for(ev["effective"])
+    elif event == "exchange_rate":
         for k in ("eram_notification", "usd_inr_import", "usd_inr_export"):
             if ev.get(k) is None:
                 die(f"--{k.replace('_', '-')} is required for exchange_rate events")
@@ -160,11 +185,36 @@ def compute_row(prev, ev):
         fix_date = None
         tariff_notif = None
         eram_notif = ev["eram_notification"]
+        duty_notif = None
+        rate = duty_rate_for(ev["effective"])
+    else:  # duty_rate: the rate change itself gets its own row
+        if ev.get("duty_notification") is None:
+            die("--duty-notification is required for duty_rate events")
+        if ev.get("duty_rate") is None:
+            die("--duty-rate is required for duty_rate events")
+        if prev is None:
+            die("cannot start the table with a duty_rate event")
+        new_rate = float(ev["duty_rate"])
+        if new_rate == prev["duty_rate"]:
+            die("duty_rate event must change the rate")
+        if abs(new_rate - float(duty_rate_for(ev["effective"]))) > 1e-9:
+            die("duty_rate does not match DUTY_RATE_HISTORY for the effective "
+                "date (update the history table first)")
+        gold_tariff = prev["gold_tariff_usd_10g"]
+        silver_tariff = prev["silver_tariff_usd_kg"]
+        usd_inr_import = prev["usd_inr_import"]
+        usd_inr_export = prev["usd_inr_export"]
+        gold_fix = prev["gold_london_fix_usd_oz"]
+        silver_fix = prev["silver_london_fix_usd_oz"]
+        fix_date = prev["fix_date"]
+        tariff_notif = None
+        eram_notif = None
+        duty_notif = ev["duty_notification"]
+        rate = Decimal(str(new_rate))
 
     gold_troy_oz = round(gold_tariff * GOLD_10G_TO_TROY_OZ, 6)
     silver_troy_oz = round(silver_tariff * SILVER_KG_TO_TROY_OZ, 6)
 
-    rate = duty_rate_for(ev["effective"])
     gold_value, gold_duty, silver_value, silver_duty = derive(
         gold_tariff, silver_tariff, usd_inr_import, rate)
 
@@ -188,6 +238,7 @@ def compute_row(prev, ev):
         "event": EVENT_LABELS[event],
         "tariff_notification": tariff_notif,
         "eram_notification": eram_notif,
+        "duty_notification": duty_notif,
         "gold_tariff_usd_10g": gold_tariff,
         "silver_tariff_usd_kg": silver_tariff,
         "usd_inr_import": usd_inr_import,
@@ -214,7 +265,7 @@ def validate_append(rows, row):
     """Sanity checks before appending `row` after `rows`."""
     keys = [k for k, _ in COLUMNS]
     if [k for k in row] != keys:
-        die("row keys do not match the 24-column schema")
+        die("row keys do not match the 25-column schema")
     try:
         pub = datetime.strptime(row["published"], "%Y-%m-%d").date()
         eff = datetime.strptime(row["effective"], "%Y-%m-%d").date()
@@ -229,20 +280,30 @@ def validate_append(rows, row):
             die(f"published {row['published']} is before last row {last['published']}")
         if (pub, row["event"]) == (last_pub, last["event"]):
             die("duplicate (published, event) row")
-        if pub == last_pub and not (
-            last["event"] == "Tariff value" and row["event"] == "Exchange rate"
-        ):
-            die("same-date rows are only allowed as tariff_value then exchange_rate")
+        # same-date rows are allowed as long as the event type differs
+        # (e.g. a duty-rate change notified the same day as an ERAM circular)
         # numeric carry-forward consistency
         if row["event"] == "Exchange rate":
             for k in ("gold_tariff_usd_10g", "silver_tariff_usd_kg",
                       "gold_tariff_usd_troy_oz", "silver_tariff_usd_troy_oz"):
                 if row[k] != last[k]:
                     die(f"{k} must carry forward unchanged on exchange_rate rows")
+        if row["event"] == "Duty rate":
+            for k in ("gold_tariff_usd_10g", "silver_tariff_usd_kg",
+                      "gold_tariff_usd_troy_oz", "silver_tariff_usd_troy_oz",
+                      "usd_inr_import", "usd_inr_export"):
+                if row[k] != last[k]:
+                    die(f"{k} must carry forward unchanged on duty_rate rows")
+            if row["duty_rate"] == last["duty_rate"]:
+                die("duty_rate row must change the rate")
+            if not row["duty_notification"]:
+                die("duty_rate row needs a duty_notification")
         # recompute derived columns from raw inputs (Decimal, half-up),
         # using the row's own duty rate
-        if row["duty_rate"] not in (0.06, 0.15):
-            die(f"duty_rate must be 0.06 or 0.15, got {row['duty_rate']}")
+        if not (0 < row["duty_rate"] < 1):
+            die(f"duty_rate must be between 0 and 1, got {row['duty_rate']}")
+        if abs(row["duty_rate"] - float(duty_rate_for(row["effective"]))) > 1e-9:
+            die("duty_rate does not match the rate history for its effective date")
         gv, gd, sv, sd = derive(row["gold_tariff_usd_10g"],
                                 row["silver_tariff_usd_kg"],
                                 row["usd_inr_import"],
@@ -314,6 +375,8 @@ def write_outputs(tracker_dir, rows, generated_at):
             (r["tariff_notification"] for r in reversed(rows) if r["tariff_notification"]), None),
         "last_eram_notification": next(
             (r["eram_notification"] for r in reversed(rows) if r["eram_notification"]), None),
+        "last_duty_notification": next(
+            (r["duty_notification"] for r in reversed(rows) if r["duty_notification"]), None),
         "updated_at": generated_at,
     }
     with open(os.path.join(tracker_dir, "state.json"), "w") as f:
@@ -341,6 +404,8 @@ def cmd_append(args):
         "event": args.event,
         "tariff_notification": args.tariff_notification,
         "eram_notification": args.eram_notification,
+        "duty_notification": args.duty_notification,
+        "duty_rate": args.duty_rate,
         "gold_tariff_usd_10g": args.gold_tariff,
         "silver_tariff_usd_kg": args.silver_tariff,
         "usd_inr_import": args.usd_inr_import,
@@ -371,11 +436,16 @@ def main():
                    help="repo root (default: current directory)")
     a.add_argument("--published", required=True, help="YYYY-MM-DD notification date")
     a.add_argument("--effective", required=True, help="YYYY-MM-DD effective date")
-    a.add_argument("--event", required=True, choices=["tariff_value", "exchange_rate"])
+    a.add_argument("--event", required=True,
+                   choices=["tariff_value", "exchange_rate", "duty_rate"])
     a.add_argument("--tariff-notification", default=None,
                    help='e.g. "76/2026-Customs (N.T.)" (tariff_value only)')
     a.add_argument("--eram-notification", default=None,
                    help='e.g. "28/2026" (exchange_rate only)')
+    a.add_argument("--duty-notification", default=None,
+                   help='e.g. "15/2026-Customs" (duty_rate only)')
+    a.add_argument("--duty-rate", type=float, default=None,
+                   help="new total duty rate, e.g. 0.15 (duty_rate only)")
     a.add_argument("--gold-tariff", type=float, default=None,
                    help="USD per 10g (tariff_value only)")
     a.add_argument("--silver-tariff", type=float, default=None,
