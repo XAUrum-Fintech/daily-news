@@ -107,7 +107,7 @@ def main():
     with open(path) as f:
         data = json.load(f)
     if data.get("schema") not in ("customs-tracker.v1", "customs-tracker.v2",
-                                   "customs-tracker.v3"):
+                                   "customs-tracker.v3", "customs-tracker.v4"):
         print(f"backfill: ERROR: unexpected schema {data.get('schema')}",
               file=sys.stderr)
         sys.exit(1)
@@ -154,7 +154,7 @@ def main():
                 log(f"no CBIC PDF yet for {r.get('tariff_notification')}; "
                     "leaving null")
                 r["source_url"], r["source_kind"] = None, None
-        # reorder keys to the v3 column order; set notice_url + duty_rate
+        # reorder keys to the v4 column order; set notice_url + duty_rate
         # and recompute the INR duty columns at the row's own rate
         rate = B.duty_rate_for(r["effective"])
         _, gd, _, sd = B.derive(r["gold_tariff_usd_10g"],
