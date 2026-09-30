@@ -8,9 +8,16 @@
   number and record the official notice PDF URL (source_kind "notice").
 - Also tries CBIC's "Exchange Rate" category for ERAM numbers, in case
   CBIC hosts those circulars as PDFs too.
+- `notice_url` is set to `source_url` on every row (the field orob's app
+  reads).
+- `duty_rate` is set per row from the rate in force on its effective date
+  (6% before 13 May 2026, 15% from that date), and the INR duty columns are
+  recomputed at that rate. This corrects the pre-13-May-2026 rows, whose
+  duties were seeded at 15% in the reference spreadsheet.
 
-Idempotent: rows that already have a source_url are skipped. Migrates
-customs-tracker.v1 files to v2 (adds the two columns). On any validation
+Idempotent: rows that already have a source_url are skipped for the source
+lookup (duty recompute still runs, and is itself idempotent). Migrates
+customs-tracker.v1/v2 files to v3 (adds the new columns). On any validation
 failure nothing is written. CBIC failures are warnings; affected rows keep
 nulls for a later run (the daily sync re-runs this).
 
@@ -99,7 +106,8 @@ def main():
     path = os.path.join(args.tracker_dir, "latest.json")
     with open(path) as f:
         data = json.load(f)
-    if data.get("schema") not in ("customs-tracker.v1", "customs-tracker.v2"):
+    if data.get("schema") not in ("customs-tracker.v1", "customs-tracker.v2",
+                                   "customs-tracker.v3"):
         print(f"backfill: ERROR: unexpected schema {data.get('schema')}",
               file=sys.stderr)
         sys.exit(1)
@@ -146,7 +154,25 @@ def main():
                 log(f"no CBIC PDF yet for {r.get('tariff_notification')}; "
                     "leaving null")
                 r["source_url"], r["source_kind"] = None, None
-        # reorder keys to the v2 column order
+        # reorder keys to the v3 column order; set notice_url + duty_rate
+        # and recompute the INR duty columns at the row's own rate
+        rate = B.duty_rate_for(r["effective"])
+        _, gd, _, sd = B.derive(r["gold_tariff_usd_10g"],
+                                r["silver_tariff_usd_kg"],
+                                r["usd_inr_import"], rate)
+        r["gold_duty_inr_kg"] = float(gd)
+        r["silver_duty_inr_kg"] = float(sd)
+        if new_rows:
+            prev = new_rows[-1]
+            r["gold_duty_change_inr_kg"] = float(
+                B._chg(r["gold_duty_inr_kg"], prev["gold_duty_inr_kg"]))
+            r["silver_duty_change_inr_kg"] = float(
+                B._chg(r["silver_duty_inr_kg"], prev["silver_duty_inr_kg"]))
+        else:
+            r["gold_duty_change_inr_kg"] = None
+            r["silver_duty_change_inr_kg"] = None
+        r["notice_url"] = r.get("source_url")
+        r["duty_rate"] = float(rate)
         new_rows.append({k: r.get(k) for k, _ in B.COLUMNS})
 
     # validate every row exactly as the builder would on append
@@ -154,6 +180,14 @@ def main():
     for row in new_rows:
         B.validate_append(checked, row)
         checked.append(row)
+
+    # No-op runs must not touch the outputs: write_outputs stamps a fresh
+    # generated_at, which would make every quiet daily run look dirty and
+    # produce a needless backfill-only commit. The duty recompute above is
+    # deterministic, so a second run changes nothing.
+    if data.get("schema") == B.SCHEMA and checked == rows:
+        print("backfill: no changes")
+        return 0
 
     from datetime import datetime, timezone
     generated_at = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
