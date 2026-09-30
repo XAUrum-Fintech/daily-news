@@ -129,7 +129,8 @@ def load_tracker(tracker_dir):
     path = os.path.join(tracker_dir, "latest.json")
     with open(path) as f:
         data = json.load(f)
-    if data.get("schema") not in ("customs-tracker.v1", "customs-tracker.v2"):
+    if data.get("schema") not in ("customs-tracker.v1", "customs-tracker.v2",
+                                   "customs-tracker.v3", "customs-tracker.v4"):
         raise RuntimeError(f"unexpected schema in {path}")
     known_tariff, known_eram = set(), set()
     cutoff = ""
