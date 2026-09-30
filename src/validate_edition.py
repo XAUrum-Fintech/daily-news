@@ -26,8 +26,11 @@ TOP_KEYS = {"schema", "edition_id", "generated_at", "window", "insights",
             "trending", "items"}
 ITEM_REQUIRED = {
     "id", "rank", "title", "summary", "url", "source",
-    "source_domain", "published_at", "tags", "category", "metals",
+    "source_domain", "publisher_id", "published_at", "image_url",
+    "image_kind", "tags", "category", "metals",
 }
+PUBLISHER_ID_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
+IMAGE_KINDS = {"photo", "none", "placeholder"}
 
 
 def load_taxonomy():
@@ -251,23 +254,44 @@ def main(argv):
                     and set(tags) <= tags_allowed,
                     "%s: tags must be non-empty subset of taxonomy, got %r" % (label, tags))
 
-            img = it.get("image_url")
-            # Nulls never publish: every item needs a publisher image or one
-            # of the repo's AI placeholder images (see assets/).
-            c.check(isinstance(img, str) and img.startswith("https://"),
-                    "%s: image_url must be a non-null https URL (publisher "
-                    "image or repo placeholder), got %r" % (label, img))
+            pid = it.get("publisher_id")
+            c.check(isinstance(pid, str) and PUBLISHER_ID_RE.match(pid),
+                    "%s: publisher_id must be a lowercase slug "
+                    "(e.g. 'economic-times'), got %r" % (label, pid))
 
-        # Rank 1 should prefer a publisher image over a placeholder: warn,
-        # but do not fail.
+            img = it.get("image_url")
+            kind = it.get("image_kind")
+            c.check(kind in IMAGE_KINDS,
+                    "%s: image_kind must be one of %s, got %r"
+                    % (label, sorted(IMAGE_KINDS), kind))
+            # No placeholders in image_url: null + kind "none" when there is
+            # no real photo. orob ignores kind "placeholder" (kept only for
+            # tolerance; this pipeline never emits it).
+            if img is None:
+                c.check(kind == "none",
+                        "%s: image_url null requires image_kind 'none', "
+                        "got %r" % (label, kind))
+            else:
+                c.check(isinstance(img, str) and img.startswith("https://"),
+                        "%s: image_url must be null or an https URL, got %r"
+                        % (label, img))
+                c.check(kind == "photo",
+                        "%s: image_url set requires image_kind 'photo', "
+                        "got %r" % (label, kind))
+                if isinstance(img, str) and img.startswith("https://"):
+                    c.check("placeholder-" not in img,
+                            "%s: image_url must not be a repo placeholder "
+                            "image (send null + image_kind 'none' instead)"
+                            % label)
+
+        # Rank 1 is the edition's top story: warn when it has no real photo.
         rank1 = next((it for it in items
                       if isinstance(it, dict) and it.get("rank") == 1), None)
-        if rank1 is not None:
-            img1 = rank1.get("image_url") or ""
-            if "placeholder-" in img1:
-                sys.stderr.write(
-                    "WARN: rank-1 item uses a placeholder image; prefer a "
-                    "publisher image when one exists\n")
+        if rank1 is not None and rank1.get("image_kind") != "photo":
+            sys.stderr.write(
+                "WARN: rank-1 item has image_kind %r; the top story should "
+                "have a real photo when one exists\n"
+                % (rank1.get("image_kind"),))
         # trending.item_ids must reference real item ids in this edition.
         item_ids = {it.get("id") for it in items if isinstance(it, dict)}
         if isinstance(trending, list):
