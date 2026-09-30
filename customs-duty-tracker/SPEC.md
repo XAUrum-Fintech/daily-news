@@ -48,7 +48,8 @@ rate) — that is what makes the duty columns meaningful.
   event carries the last tariff values forward.
 - Effective date = published date + 1 day.
 - Rows only ever grow; history is never rewritten or windowed.
-- Duty rate: **15%**.
+- Duty rate: **15%** from 13 May 2026; **6%** before (see "Duty rate
+  history" below). Each row carries its own `duty_rate`.
 
 ## Files
 
@@ -81,10 +82,12 @@ rate) — that is what makes the duty columns meaningful.
   ICEGATE portal link; tariff-value rows get the official CBIC notice PDF
   URL whenever the CBIC API is reachable (it also probes CBIC's "Exchange
   Rate" category for ERAM numbers, in case CBIC hosts those circulars as
-  PDFs). Re-validates every row through the builder before writing, and
-  migrates `customs-tracker.v1` files to v2. `sync.py` runs it on every
-  daily run — before appends, and even on no-new-event days — so links
-  keep filling in as CBIC becomes reachable.
+  PDFs). Also sets `notice_url` (= `source_url`), sets the per-row
+  `duty_rate`, and recomputes the INR duty columns at that rate (see
+  "Duty rate history"). Re-validates every row through the builder before
+  writing, and migrates older schemas to `customs-tracker.v3`. `sync.py`
+  runs it on every daily run — before appends, and even on no-new-event
+  days — so links keep filling in as CBIC becomes reachable.
 - `tools/render_update.py` — renders `latest.md` from `latest.json`'s
   newest row (values + deterministic commentary + verify links).
 - `tools/sync.py` — the daily pipeline: shallow-clones the repo, runs
@@ -103,9 +106,31 @@ exchange rows), `gold_tariff_usd_10g`, `silver_tariff_usd_kg`,
 `silver_tariff_usd_troy_oz`, `fix_date`, `gold_value_inr_kg`,
 `gold_duty_inr_kg`, `gold_duty_change_inr_kg`, `silver_value_inr_kg`,
 `silver_duty_inr_kg`, `silver_duty_change_inr_kg`, `source_url`,
-`source_kind`.
+`source_kind`, `notice_url`, `duty_rate`.
 
-### Per-notice source links (schema `customs-tracker.v2`)
+### Duty rate history (schema `customs-tracker.v3`)
+
+Total import duty on gold and silver (basic customs duty + agriculture
+infrastructure and development cess) was **6%** (BCD 5% + AIDC 1%, the
+July 2024 budget cut) until the government raised it to **15%** (BCD 10% +
+AIDC 5%) effective **13 May 2026** (notified 12 May 2026, to curb
+non-essential imports amid the West Asia crisis). Verified 2026-09-30
+against PTI/Mint/Kitco reporting of the May 2026 hike.
+
+- Every row carries `duty_rate`: `0.06` when `effective` < 2026-05-13,
+  `0.15` otherwise. The top-level `duty_rate` (and `state.json`) stays the
+  *current* rate, 0.15.
+- The INR duty columns are computed at the row's own rate. Correction note:
+  the 35 rows effective before 13 May 2026 were seeded from the reference
+  spreadsheet at 15%; on 2026-09-30 their duties were recomputed at 6%
+  (e.g. 2026-05-09 gold duty ₹8,31,230.40/kg instead of ₹20,78,076/kg),
+  and the 2026-05-16 change column now shows the hike's step (+₹13,21,062.60
+  gold). This is a data correction, not a restatement of history.
+- The builder (`duty_rate_for`) and the backfill both derive the rate from
+  the effective date, so future rate changes only need a new boundary here.
+
+### Per-notice source links (schema `customs-tracker.v2` → `v3` adds
+`notice_url`)
 
 Each row carries the official source link for its notice:
 
@@ -137,7 +162,8 @@ Consumers (e.g. an "official notice" button) should branch on
 `source_kind`: `"notice"` → open the URL directly; `"portal"` → label the
 button as opening the portal and show the notice number beside it so the
 reader can find the notice there; null → fall back to the portal +
-notice number.
+notice number. orob's app reads `notice_url` (always equal to
+`source_url`); `source_kind` tells it how to label the button.
 
 ### Formulas (reproduce the sheet exactly)
 
@@ -169,8 +195,10 @@ docs (`docs/CUSTOMS_DUTY.md`), data (`customs-duty/`), and daily schedule
 were migrated to `tools/fetch.py` + `tools/sync.py` on official sources.
 The old JSON paths (`customs-duty/latest.json`, schema `orob-customs-duty.v1`)
 no longer exist; consumers should read `customs-duty-tracker/latest.json`
-(schema `customs-tracker.v2` since 2026-09-29, when per-notice
-`source_url`/`source_kind` columns were added).
+(schema `customs-tracker.v3` since 2026-09-30, when per-row `notice_url`
+and `duty_rate` columns were added and pre-13-May-2026 duties were
+corrected to the 6% rate in force then; `v2` on 2026-09-29 added per-notice
+`source_url`/`source_kind`).
 
 ## Update style (values + commentary)
 
