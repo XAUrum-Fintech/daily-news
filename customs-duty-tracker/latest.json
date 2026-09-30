@@ -1,6 +1,6 @@
 {
-  "schema": "customs-tracker.v2",
-  "generated_at": "2026-09-29T09:39:37Z",
+  "schema": "customs-tracker.v3",
+  "generated_at": "2026-09-30T02:36:33Z",
   "duty_rate": 0.15,
   "row_count": 62,
   "source_notes": "Tariff values: CBIC 'Fixation of Tariff Value' notifications amending 36/2001-Customs (N.T.). Exchange rates: ICEGATE ERAM notifications. London fix: LBMA gold PM / silver price.",
@@ -26,7 +26,9 @@
     "Silver Duty (INR/kg)",
     "Silver Duty Increase/Decrease (INR/kg)",
     "Source URL",
-    "Source Type"
+    "Source Type",
+    "Notice URL",
+    "Duty Rate"
   ],
   "rows": [
     {
@@ -45,13 +47,15 @@
       "silver_tariff_usd_troy_oz": 84.725871,
       "fix_date": "2026-01-13",
       "gold_value_inr_kg": 13483800.0,
-      "gold_duty_inr_kg": 2022570.0,
+      "gold_duty_inr_kg": 809028.0,
       "gold_duty_change_inr_kg": null,
       "silver_value_inr_kg": 247339.2,
-      "silver_duty_inr_kg": 37100.88,
+      "silver_duty_inr_kg": 14840.35,
       "silver_duty_change_inr_kg": null,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.06
     },
     {
       "published": "2026-01-15",
@@ -69,13 +73,15 @@
       "silver_tariff_usd_troy_oz": 91.755257,
       "fix_date": "2026-01-15",
       "gold_value_inr_kg": 13465640.0,
-      "gold_duty_inr_kg": 2019846.0,
-      "gold_duty_change_inr_kg": -2724.0,
+      "gold_duty_inr_kg": 807938.4,
+      "gold_duty_change_inr_kg": -1089.6,
       "silver_value_inr_kg": 267860.0,
-      "silver_duty_inr_kg": 40179.0,
-      "silver_duty_change_inr_kg": 3078.12,
+      "silver_duty_inr_kg": 16071.6,
+      "silver_duty_change_inr_kg": 1231.25,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.06
     },
     {
       "published": "2026-01-15",
@@ -93,13 +99,15 @@
       "silver_tariff_usd_troy_oz": 91.755257,
       "fix_date": null,
       "gold_value_inr_kg": 13524960.0,
-      "gold_duty_inr_kg": 2028744.0,
-      "gold_duty_change_inr_kg": 8898.0,
+      "gold_duty_inr_kg": 811497.6,
+      "gold_duty_change_inr_kg": 3559.2,
       "silver_value_inr_kg": 269040.0,
-      "silver_duty_inr_kg": 40356.0,
-      "silver_duty_change_inr_kg": 177.0,
+      "silver_duty_inr_kg": 16142.4,
+      "silver_duty_change_inr_kg": 70.8,
       "source_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
-      "source_kind": "portal"
+      "source_kind": "portal",
+      "notice_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
+      "duty_rate": 0.06
     },
     {
       "published": "2026-01-22",
@@ -117,13 +125,15 @@
       "silver_tariff_usd_troy_oz": 91.755257,
       "fix_date": "2026-01-22",
       "gold_value_inr_kg": 14291040.0,
-      "gold_duty_inr_kg": 2143656.0,
-      "gold_duty_change_inr_kg": 114912.0,
+      "gold_duty_inr_kg": 857462.4,
+      "gold_duty_change_inr_kg": 45964.8,
       "silver_value_inr_kg": 269040.0,
-      "silver_duty_inr_kg": 40356.0,
+      "silver_duty_inr_kg": 16142.4,
       "silver_duty_change_inr_kg": 0.0,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.06
     },
     {
       "published": "2026-01-23",
@@ -141,13 +151,15 @@
       "silver_tariff_usd_troy_oz": 91.755257,
       "fix_date": null,
       "gold_value_inr_kg": 14291040.0,
-      "gold_duty_inr_kg": 2143656.0,
+      "gold_duty_inr_kg": 857462.4,
       "gold_duty_change_inr_kg": 0.0,
       "silver_value_inr_kg": 269040.0,
-      "silver_duty_inr_kg": 40356.0,
+      "silver_duty_inr_kg": 16142.4,
       "silver_duty_change_inr_kg": 0.0,
       "source_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
-      "source_kind": "portal"
+      "source_kind": "portal",
+      "notice_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
+      "duty_rate": 0.06
     },
     {
       "published": "2026-01-27",
@@ -165,13 +177,15 @@
       "silver_tariff_usd_troy_oz": 110.261825,
       "fix_date": "2026-01-27",
       "gold_value_inr_kg": 14291040.0,
-      "gold_duty_inr_kg": 2143656.0,
+      "gold_duty_inr_kg": 857462.4,
       "gold_duty_change_inr_kg": 0.0,
       "silver_value_inr_kg": 323304.0,
-      "silver_duty_inr_kg": 48495.6,
-      "silver_duty_change_inr_kg": 8139.6,
+      "silver_duty_inr_kg": 19398.24,
+      "silver_duty_change_inr_kg": 3255.84,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.06
     },
     {
       "published": "2026-01-27",
@@ -189,13 +203,15 @@
       "silver_tariff_usd_troy_oz": 110.261825,
       "fix_date": null,
       "gold_value_inr_kg": 14291040.0,
-      "gold_duty_inr_kg": 2143656.0,
+      "gold_duty_inr_kg": 857462.4,
       "gold_duty_change_inr_kg": 0.0,
       "silver_value_inr_kg": 323304.0,
-      "silver_duty_inr_kg": 48495.6,
+      "silver_duty_inr_kg": 19398.24,
       "silver_duty_change_inr_kg": 0.0,
       "source_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
-      "source_kind": "portal"
+      "source_kind": "portal",
+      "notice_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
+      "duty_rate": 0.06
     },
     {
       "published": "2026-01-28",
@@ -213,13 +229,15 @@
       "silver_tariff_usd_troy_oz": 110.261825,
       "fix_date": null,
       "gold_value_inr_kg": 14291040.0,
-      "gold_duty_inr_kg": 2143656.0,
+      "gold_duty_inr_kg": 857462.4,
       "gold_duty_change_inr_kg": 0.0,
       "silver_value_inr_kg": 323304.0,
-      "silver_duty_inr_kg": 48495.6,
+      "silver_duty_inr_kg": 19398.24,
       "silver_duty_change_inr_kg": 0.0,
       "source_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
-      "source_kind": "portal"
+      "source_kind": "portal",
+      "notice_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
+      "duty_rate": 0.06
     },
     {
       "published": "2026-01-29",
@@ -237,13 +255,15 @@
       "silver_tariff_usd_troy_oz": 110.261825,
       "fix_date": "2026-01-29",
       "gold_value_inr_kg": 15586080.0,
-      "gold_duty_inr_kg": 2337912.0,
-      "gold_duty_change_inr_kg": 194256.0,
+      "gold_duty_inr_kg": 935164.8,
+      "gold_duty_change_inr_kg": 77702.4,
       "silver_value_inr_kg": 323304.0,
-      "silver_duty_inr_kg": 48495.6,
+      "silver_duty_inr_kg": 19398.24,
       "silver_duty_change_inr_kg": 0.0,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.06
     },
     {
       "published": "2026-01-30",
@@ -261,13 +281,15 @@
       "silver_tariff_usd_troy_oz": 119.126316,
       "fix_date": "2026-01-30",
       "gold_value_inr_kg": 15868800.0,
-      "gold_duty_inr_kg": 2380320.0,
-      "gold_duty_change_inr_kg": 42408.0,
+      "gold_duty_inr_kg": 952128.0,
+      "gold_duty_change_inr_kg": 16963.2,
       "silver_value_inr_kg": 349296.0,
-      "silver_duty_inr_kg": 52394.4,
-      "silver_duty_change_inr_kg": 3898.8,
+      "silver_duty_inr_kg": 20957.76,
+      "silver_duty_change_inr_kg": 1559.52,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.06
     },
     {
       "published": "2026-02-02",
@@ -285,13 +307,15 @@
       "silver_tariff_usd_troy_oz": 103.854509,
       "fix_date": "2026-02-02",
       "gold_value_inr_kg": 14628480.0,
-      "gold_duty_inr_kg": 2194272.0,
-      "gold_duty_change_inr_kg": -186048.0,
+      "gold_duty_inr_kg": 877708.8,
+      "gold_duty_change_inr_kg": -74419.2,
       "silver_value_inr_kg": 304516.8,
-      "silver_duty_inr_kg": 45677.52,
-      "silver_duty_change_inr_kg": -6716.88,
+      "silver_duty_inr_kg": 18271.01,
+      "silver_duty_change_inr_kg": -2686.75,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.06
     },
     {
       "published": "2026-02-03",
@@ -309,13 +333,15 @@
       "silver_tariff_usd_troy_oz": 82.641938,
       "fix_date": "2026-02-03",
       "gold_value_inr_kg": 13844160.0,
-      "gold_duty_inr_kg": 2076624.0,
-      "gold_duty_change_inr_kg": -117648.0,
+      "gold_duty_inr_kg": 830649.6,
+      "gold_duty_change_inr_kg": -47059.2,
       "silver_value_inr_kg": 242318.4,
-      "silver_duty_inr_kg": 36347.76,
-      "silver_duty_change_inr_kg": -9329.76,
+      "silver_duty_inr_kg": 14539.1,
+      "silver_duty_change_inr_kg": -3731.91,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.06
     },
     {
       "published": "2026-02-03",
@@ -333,13 +359,15 @@
       "silver_tariff_usd_troy_oz": 82.641938,
       "fix_date": null,
       "gold_value_inr_kg": 13844160.0,
-      "gold_duty_inr_kg": 2076624.0,
+      "gold_duty_inr_kg": 830649.6,
       "gold_duty_change_inr_kg": 0.0,
       "silver_value_inr_kg": 242318.4,
-      "silver_duty_inr_kg": 36347.76,
+      "silver_duty_inr_kg": 14539.1,
       "silver_duty_change_inr_kg": 0.0,
       "source_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
-      "source_kind": "portal"
+      "source_kind": "portal",
+      "notice_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
+      "duty_rate": 0.06
     },
     {
       "published": "2026-02-05",
@@ -357,13 +385,15 @@
       "silver_tariff_usd_troy_oz": 91.257601,
       "fix_date": "2026-02-05",
       "gold_value_inr_kg": 14637600.0,
-      "gold_duty_inr_kg": 2195640.0,
-      "gold_duty_change_inr_kg": 119016.0,
+      "gold_duty_inr_kg": 878256.0,
+      "gold_duty_change_inr_kg": 47606.4,
       "silver_value_inr_kg": 267580.8,
-      "silver_duty_inr_kg": 40137.12,
-      "silver_duty_change_inr_kg": 3789.36,
+      "silver_duty_inr_kg": 16054.85,
+      "silver_duty_change_inr_kg": 1515.75,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.06
     },
     {
       "published": "2026-02-05",
@@ -381,13 +411,15 @@
       "silver_tariff_usd_troy_oz": 91.257601,
       "fix_date": null,
       "gold_value_inr_kg": 14661675.0,
-      "gold_duty_inr_kg": 2199251.25,
-      "gold_duty_change_inr_kg": 3611.25,
+      "gold_duty_inr_kg": 879700.5,
+      "gold_duty_change_inr_kg": 1444.5,
       "silver_value_inr_kg": 268020.9,
-      "silver_duty_inr_kg": 40203.14,
-      "silver_duty_change_inr_kg": 66.02,
+      "silver_duty_inr_kg": 16081.25,
+      "silver_duty_change_inr_kg": 26.4,
       "source_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
-      "source_kind": "portal"
+      "source_kind": "portal",
+      "notice_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
+      "duty_rate": 0.06
     },
     {
       "published": "2026-02-06",
@@ -405,13 +437,15 @@
       "silver_tariff_usd_troy_oz": 79.376073,
       "fix_date": "2026-02-06",
       "gold_value_inr_kg": 14661675.0,
-      "gold_duty_inr_kg": 2199251.25,
+      "gold_duty_inr_kg": 879700.5,
       "gold_duty_change_inr_kg": 0.0,
       "silver_value_inr_kg": 233125.2,
-      "silver_duty_inr_kg": 34968.78,
-      "silver_duty_change_inr_kg": -5234.36,
+      "silver_duty_inr_kg": 13987.51,
+      "silver_duty_change_inr_kg": -2093.74,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.06
     },
     {
       "published": "2026-02-06",
@@ -429,13 +463,15 @@
       "silver_tariff_usd_troy_oz": 79.376073,
       "fix_date": null,
       "gold_value_inr_kg": 14661675.0,
-      "gold_duty_inr_kg": 2199251.25,
+      "gold_duty_inr_kg": 879700.5,
       "gold_duty_change_inr_kg": 0.0,
       "silver_value_inr_kg": 233125.2,
-      "silver_duty_inr_kg": 34968.78,
+      "silver_duty_inr_kg": 13987.51,
       "silver_duty_change_inr_kg": 0.0,
       "source_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
-      "source_kind": "portal"
+      "source_kind": "portal",
+      "notice_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
+      "duty_rate": 0.06
     },
     {
       "published": "2026-02-13",
@@ -453,13 +489,15 @@
       "silver_tariff_usd_troy_oz": 84.197112,
       "fix_date": "2026-02-13",
       "gold_value_inr_kg": 14835240.0,
-      "gold_duty_inr_kg": 2225286.0,
-      "gold_duty_change_inr_kg": 26034.75,
+      "gold_duty_inr_kg": 890114.4,
+      "gold_duty_change_inr_kg": 10413.9,
       "silver_value_inr_kg": 247284.45,
-      "silver_duty_inr_kg": 37092.67,
-      "silver_duty_change_inr_kg": 2123.89,
+      "silver_duty_inr_kg": 14837.07,
+      "silver_duty_change_inr_kg": 849.56,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.06
     },
     {
       "published": "2026-02-18",
@@ -477,13 +515,15 @@
       "silver_tariff_usd_troy_oz": 75.301517,
       "fix_date": "2026-02-18",
       "gold_value_inr_kg": 14835240.0,
-      "gold_duty_inr_kg": 2225286.0,
+      "gold_duty_inr_kg": 890114.4,
       "gold_duty_change_inr_kg": 0.0,
       "silver_value_inr_kg": 221158.35,
-      "silver_duty_inr_kg": 33173.75,
-      "silver_duty_change_inr_kg": -3918.92,
+      "silver_duty_inr_kg": 13269.5,
+      "silver_duty_change_inr_kg": -1567.57,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.06
     },
     {
       "published": "2026-02-19",
@@ -501,13 +541,15 @@
       "silver_tariff_usd_troy_oz": 75.301517,
       "fix_date": null,
       "gold_value_inr_kg": 14924560.0,
-      "gold_duty_inr_kg": 2238684.0,
-      "gold_duty_change_inr_kg": 13398.0,
+      "gold_duty_inr_kg": 895473.6,
+      "gold_duty_change_inr_kg": 5359.2,
       "silver_value_inr_kg": 222489.9,
-      "silver_duty_inr_kg": 33373.49,
-      "silver_duty_change_inr_kg": 199.74,
+      "silver_duty_inr_kg": 13349.39,
+      "silver_duty_change_inr_kg": 79.89,
       "source_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
-      "source_kind": "portal"
+      "source_kind": "portal",
+      "notice_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
+      "duty_rate": 0.06
     },
     {
       "published": "2026-02-24",
@@ -525,13 +567,15 @@
       "silver_tariff_usd_troy_oz": 87.618494,
       "fix_date": "2026-02-24",
       "gold_value_inr_kg": 14924560.0,
-      "gold_duty_inr_kg": 2238684.0,
+      "gold_duty_inr_kg": 895473.6,
       "gold_duty_change_inr_kg": 0.0,
       "silver_value_inr_kg": 258882.3,
-      "silver_duty_inr_kg": 38832.35,
-      "silver_duty_change_inr_kg": 5458.86,
+      "silver_duty_inr_kg": 15532.94,
+      "silver_duty_change_inr_kg": 2183.55,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.06
     },
     {
       "published": "2026-02-27",
@@ -549,13 +593,15 @@
       "silver_tariff_usd_troy_oz": 87.089735,
       "fix_date": "2026-02-27",
       "gold_value_inr_kg": 15292160.0,
-      "gold_duty_inr_kg": 2293824.0,
-      "gold_duty_change_inr_kg": 55140.0,
+      "gold_duty_inr_kg": 917529.6,
+      "gold_duty_change_inr_kg": 22056.0,
       "silver_value_inr_kg": 257320.0,
-      "silver_duty_inr_kg": 38598.0,
-      "silver_duty_change_inr_kg": -234.35,
+      "silver_duty_inr_kg": 15439.2,
+      "silver_duty_change_inr_kg": -93.74,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.06
     },
     {
       "published": "2026-03-05",
@@ -573,13 +619,15 @@
       "silver_tariff_usd_troy_oz": 87.089735,
       "fix_date": null,
       "gold_value_inr_kg": 15392000.0,
-      "gold_duty_inr_kg": 2308800.0,
-      "gold_duty_change_inr_kg": 14976.0,
+      "gold_duty_inr_kg": 923520.0,
+      "gold_duty_change_inr_kg": 5990.4,
       "silver_value_inr_kg": 259000.0,
-      "silver_duty_inr_kg": 38850.0,
-      "silver_duty_change_inr_kg": 252.0,
+      "silver_duty_inr_kg": 15540.0,
+      "silver_duty_change_inr_kg": 100.8,
       "source_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
-      "source_kind": "portal"
+      "source_kind": "portal",
+      "notice_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
+      "duty_rate": 0.06
     },
     {
       "published": "2026-03-13",
@@ -597,13 +645,15 @@
       "silver_tariff_usd_troy_oz": 87.711805,
       "fix_date": "2026-03-13",
       "gold_value_inr_kg": 15281000.0,
-      "gold_duty_inr_kg": 2292150.0,
-      "gold_duty_change_inr_kg": -16650.0,
+      "gold_duty_inr_kg": 916860.0,
+      "gold_duty_change_inr_kg": -6660.0,
       "silver_value_inr_kg": 260850.0,
-      "silver_duty_inr_kg": 39127.5,
-      "silver_duty_change_inr_kg": 277.5,
+      "silver_duty_inr_kg": 15651.0,
+      "silver_duty_change_inr_kg": 111.0,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.06
     },
     {
       "published": "2026-03-19",
@@ -621,13 +671,15 @@
       "silver_tariff_usd_troy_oz": 87.711805,
       "fix_date": "2026-03-19",
       "gold_value_inr_kg": 14504000.0,
-      "gold_duty_inr_kg": 2175600.0,
-      "gold_duty_change_inr_kg": -116550.0,
+      "gold_duty_inr_kg": 870240.0,
+      "gold_duty_change_inr_kg": -46620.0,
       "silver_value_inr_kg": 260850.0,
-      "silver_duty_inr_kg": 39127.5,
+      "silver_duty_inr_kg": 15651.0,
       "silver_duty_change_inr_kg": 0.0,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.06
     },
     {
       "published": "2026-03-19",
@@ -645,13 +697,15 @@
       "silver_tariff_usd_troy_oz": 87.711805,
       "fix_date": null,
       "gold_value_inr_kg": 14778400.0,
-      "gold_duty_inr_kg": 2216760.0,
-      "gold_duty_change_inr_kg": 41160.0,
+      "gold_duty_inr_kg": 886704.0,
+      "gold_duty_change_inr_kg": 16464.0,
       "silver_value_inr_kg": 265785.0,
-      "silver_duty_inr_kg": 39867.75,
-      "silver_duty_change_inr_kg": 740.25,
+      "silver_duty_inr_kg": 15947.1,
+      "silver_duty_change_inr_kg": 296.1,
       "source_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
-      "source_kind": "portal"
+      "source_kind": "portal",
+      "notice_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
+      "duty_rate": 0.06
     },
     {
       "published": "2026-03-20",
@@ -669,13 +723,15 @@
       "silver_tariff_usd_troy_oz": 70.356065,
       "fix_date": "2026-03-20",
       "gold_value_inr_kg": 13958425.0,
-      "gold_duty_inr_kg": 2093763.75,
-      "gold_duty_change_inr_kg": -122996.25,
+      "gold_duty_inr_kg": 837505.5,
+      "gold_duty_change_inr_kg": -49198.5,
       "silver_value_inr_kg": 213193.5,
-      "silver_duty_inr_kg": 31979.03,
-      "silver_duty_change_inr_kg": -7888.72,
+      "silver_duty_inr_kg": 12791.61,
+      "silver_duty_change_inr_kg": -3155.49,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.06
     },
     {
       "published": "2026-03-30",
@@ -693,13 +749,15 @@
       "silver_tariff_usd_troy_oz": 68.458752,
       "fix_date": "2026-03-30",
       "gold_value_inr_kg": 13666250.0,
-      "gold_duty_inr_kg": 2049937.5,
-      "gold_duty_change_inr_kg": -43826.25,
+      "gold_duty_inr_kg": 819975.0,
+      "gold_duty_change_inr_kg": -17530.5,
       "silver_value_inr_kg": 207444.25,
-      "silver_duty_inr_kg": 31116.64,
-      "silver_duty_change_inr_kg": -862.39,
+      "silver_duty_inr_kg": 12446.66,
+      "silver_duty_change_inr_kg": -344.95,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.06
     },
     {
       "published": "2026-04-02",
@@ -717,13 +775,15 @@
       "silver_tariff_usd_troy_oz": 75.488138,
       "fix_date": "2026-04-02",
       "gold_value_inr_kg": 14382550.0,
-      "gold_duty_inr_kg": 2157382.5,
-      "gold_duty_change_inr_kg": 107445.0,
+      "gold_duty_inr_kg": 862953.0,
+      "gold_duty_change_inr_kg": 42978.0,
       "silver_value_inr_kg": 228744.75,
-      "silver_duty_inr_kg": 34311.71,
-      "silver_duty_change_inr_kg": 3195.07,
+      "silver_duty_inr_kg": 13724.69,
+      "silver_duty_change_inr_kg": 1278.03,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.06
     },
     {
       "published": "2026-04-02",
@@ -741,13 +801,15 @@
       "silver_tariff_usd_troy_oz": 75.488138,
       "fix_date": null,
       "gold_value_inr_kg": 14313880.0,
-      "gold_duty_inr_kg": 2147082.0,
-      "gold_duty_change_inr_kg": -10300.5,
+      "gold_duty_inr_kg": 858832.8,
+      "gold_duty_change_inr_kg": -4120.2,
       "silver_value_inr_kg": 227652.6,
-      "silver_duty_inr_kg": 34147.89,
-      "silver_duty_change_inr_kg": -163.82,
+      "silver_duty_inr_kg": 13659.16,
+      "silver_duty_change_inr_kg": -65.53,
       "source_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
-      "source_kind": "portal"
+      "source_kind": "portal",
+      "notice_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
+      "duty_rate": 0.06
     },
     {
       "published": "2026-04-15",
@@ -765,13 +827,15 @@
       "silver_tariff_usd_troy_oz": 78.038623,
       "fix_date": "2026-04-15",
       "gold_value_inr_kg": 14482720.0,
-      "gold_duty_inr_kg": 2172408.0,
-      "gold_duty_change_inr_kg": 25326.0,
+      "gold_duty_inr_kg": 868963.2,
+      "gold_duty_change_inr_kg": 10130.4,
       "silver_value_inr_kg": 235344.2,
-      "silver_duty_inr_kg": 35301.63,
-      "silver_duty_change_inr_kg": 1153.74,
+      "silver_duty_inr_kg": 14120.65,
+      "silver_duty_change_inr_kg": 461.49,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.06
     },
     {
       "published": "2026-04-16",
@@ -789,13 +853,15 @@
       "silver_tariff_usd_troy_oz": 78.038623,
       "fix_date": null,
       "gold_value_inr_kg": 14544480.0,
-      "gold_duty_inr_kg": 2181672.0,
-      "gold_duty_change_inr_kg": 9264.0,
+      "gold_duty_inr_kg": 872668.8,
+      "gold_duty_change_inr_kg": 3705.6,
       "silver_value_inr_kg": 236347.8,
-      "silver_duty_inr_kg": 35452.17,
-      "silver_duty_change_inr_kg": 150.54,
+      "silver_duty_inr_kg": 14180.87,
+      "silver_duty_change_inr_kg": 60.22,
       "source_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
-      "source_kind": "portal"
+      "source_kind": "portal",
+      "notice_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
+      "duty_rate": 0.06
     },
     {
       "published": "2026-04-30",
@@ -813,13 +879,15 @@
       "silver_tariff_usd_troy_oz": 73.404205,
       "fix_date": "2026-04-30",
       "gold_value_inr_kg": 13715520.0,
-      "gold_duty_inr_kg": 2057328.0,
-      "gold_duty_change_inr_kg": -124344.0,
+      "gold_duty_inr_kg": 822931.2,
+      "gold_duty_change_inr_kg": -49737.6,
       "silver_value_inr_kg": 222312.0,
-      "silver_duty_inr_kg": 33346.8,
-      "silver_duty_change_inr_kg": -2105.37,
+      "silver_duty_inr_kg": 13338.72,
+      "silver_duty_change_inr_kg": -842.15,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.06
     },
     {
       "published": "2026-05-07",
@@ -837,13 +905,15 @@
       "silver_tariff_usd_troy_oz": 73.404205,
       "fix_date": null,
       "gold_value_inr_kg": 13853840.0,
-      "gold_duty_inr_kg": 2078076.0,
-      "gold_duty_change_inr_kg": 20748.0,
+      "gold_duty_inr_kg": 831230.4,
+      "gold_duty_change_inr_kg": 8299.2,
       "silver_value_inr_kg": 224554.0,
-      "silver_duty_inr_kg": 33683.1,
-      "silver_duty_change_inr_kg": 336.3,
+      "silver_duty_inr_kg": 13473.24,
+      "silver_duty_change_inr_kg": 134.52,
       "source_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
-      "source_kind": "portal"
+      "source_kind": "portal",
+      "notice_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
+      "duty_rate": 0.06
     },
     {
       "published": "2026-05-08",
@@ -861,13 +931,15 @@
       "silver_tariff_usd_troy_oz": 80.96235,
       "fix_date": "2026-05-08",
       "gold_value_inr_kg": 13853840.0,
-      "gold_duty_inr_kg": 2078076.0,
+      "gold_duty_inr_kg": 831230.4,
       "gold_duty_change_inr_kg": 0.0,
       "silver_value_inr_kg": 247675.45,
-      "silver_duty_inr_kg": 37151.32,
-      "silver_duty_change_inr_kg": 3468.22,
+      "silver_duty_inr_kg": 14860.53,
+      "silver_duty_change_inr_kg": 1387.29,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.06
     },
     {
       "published": "2026-05-15",
@@ -886,12 +958,14 @@
       "fix_date": "2026-05-15",
       "gold_value_inr_kg": 14348620.0,
       "gold_duty_inr_kg": 2152293.0,
-      "gold_duty_change_inr_kg": 74217.0,
+      "gold_duty_change_inr_kg": 1321062.6,
       "silver_value_inr_kg": 267371.5,
       "silver_duty_inr_kg": 40105.73,
-      "silver_duty_change_inr_kg": 2954.41,
+      "silver_duty_change_inr_kg": 25245.2,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.15
     },
     {
       "published": "2026-05-19",
@@ -915,7 +989,9 @@
       "silver_duty_inr_kg": 35038.99,
       "silver_duty_change_inr_kg": -5066.74,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.15
     },
     {
       "published": "2026-05-20",
@@ -939,7 +1015,9 @@
       "silver_duty_inr_kg": 35038.99,
       "silver_duty_change_inr_kg": 0.0,
       "source_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
-      "source_kind": "portal"
+      "source_kind": "portal",
+      "notice_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
+      "duty_rate": 0.15
     },
     {
       "published": "2026-05-21",
@@ -963,7 +1041,9 @@
       "silver_duty_inr_kg": 35738.66,
       "silver_duty_change_inr_kg": 699.67,
       "source_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
-      "source_kind": "portal"
+      "source_kind": "portal",
+      "notice_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
+      "duty_rate": 0.15
     },
     {
       "published": "2026-05-29",
@@ -987,7 +1067,9 @@
       "silver_duty_inr_kg": 34472.16,
       "silver_duty_change_inr_kg": -1266.5,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.15
     },
     {
       "published": "2026-06-04",
@@ -1011,7 +1093,9 @@
       "silver_duty_inr_kg": 34312.32,
       "silver_duty_change_inr_kg": -159.84,
       "source_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
-      "source_kind": "portal"
+      "source_kind": "portal",
+      "notice_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
+      "duty_rate": 0.15
     },
     {
       "published": "2026-06-11",
@@ -1035,7 +1119,9 @@
       "silver_duty_inr_kg": 30313.08,
       "silver_duty_change_inr_kg": -3999.24,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.15
     },
     {
       "published": "2026-06-15",
@@ -1059,7 +1145,9 @@
       "silver_duty_inr_kg": 31515.75,
       "silver_duty_change_inr_kg": 1202.67,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.15
     },
     {
       "published": "2026-06-18",
@@ -1083,7 +1171,9 @@
       "silver_duty_inr_kg": 31091.63,
       "silver_duty_change_inr_kg": -424.12,
       "source_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
-      "source_kind": "portal"
+      "source_kind": "portal",
+      "notice_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
+      "duty_rate": 0.15
     },
     {
       "published": "2026-06-29",
@@ -1107,7 +1197,9 @@
       "silver_duty_inr_kg": 27117.62,
       "silver_duty_change_inr_kg": -3974.01,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.15
     },
     {
       "published": "2026-06-30",
@@ -1131,7 +1223,9 @@
       "silver_duty_inr_kg": 26803.13,
       "silver_duty_change_inr_kg": -314.49,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.15
     },
     {
       "published": "2026-07-02",
@@ -1155,7 +1249,9 @@
       "silver_duty_inr_kg": 26775.0,
       "silver_duty_change_inr_kg": -28.13,
       "source_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
-      "source_kind": "portal"
+      "source_kind": "portal",
+      "notice_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
+      "duty_rate": 0.15
     },
     {
       "published": "2026-07-14",
@@ -1179,7 +1275,9 @@
       "silver_duty_inr_kg": 26775.0,
       "silver_duty_change_inr_kg": 0.0,
       "source_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
-      "source_kind": "portal"
+      "source_kind": "portal",
+      "notice_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
+      "duty_rate": 0.15
     },
     {
       "published": "2026-07-15",
@@ -1203,7 +1301,9 @@
       "silver_duty_inr_kg": 26689.32,
       "silver_duty_change_inr_kg": -85.68,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.15
     },
     {
       "published": "2026-07-15",
@@ -1227,7 +1327,9 @@
       "silver_duty_inr_kg": 26689.32,
       "silver_duty_change_inr_kg": 0.0,
       "source_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
-      "source_kind": "portal"
+      "source_kind": "portal",
+      "notice_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
+      "duty_rate": 0.15
     },
     {
       "published": "2026-07-16",
@@ -1251,7 +1353,9 @@
       "silver_duty_inr_kg": 27250.02,
       "silver_duty_change_inr_kg": 560.7,
       "source_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
-      "source_kind": "portal"
+      "source_kind": "portal",
+      "notice_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
+      "duty_rate": 0.15
     },
     {
       "published": "2026-07-31",
@@ -1275,7 +1379,9 @@
       "silver_duty_inr_kg": 27337.5,
       "silver_duty_change_inr_kg": 87.48,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.15
     },
     {
       "published": "2026-08-06",
@@ -1299,7 +1405,9 @@
       "silver_duty_inr_kg": 27014.06,
       "silver_duty_change_inr_kg": -323.44,
       "source_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
-      "source_kind": "portal"
+      "source_kind": "portal",
+      "notice_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
+      "duty_rate": 0.15
     },
     {
       "published": "2026-08-10",
@@ -1323,7 +1431,9 @@
       "silver_duty_inr_kg": 29909.97,
       "silver_duty_change_inr_kg": 2895.91,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.15
     },
     {
       "published": "2026-08-14",
@@ -1347,7 +1457,9 @@
       "silver_duty_inr_kg": 30212.53,
       "silver_duty_change_inr_kg": 302.56,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.15
     },
     {
       "published": "2026-08-20",
@@ -1371,7 +1483,9 @@
       "silver_duty_inr_kg": 30354.08,
       "silver_duty_change_inr_kg": 141.55,
       "source_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
-      "source_kind": "portal"
+      "source_kind": "portal",
+      "notice_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
+      "duty_rate": 0.15
     },
     {
       "published": "2026-08-25",
@@ -1395,7 +1509,9 @@
       "silver_duty_inr_kg": 30354.08,
       "silver_duty_change_inr_kg": 0.0,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.15
     },
     {
       "published": "2026-08-31",
@@ -1419,7 +1535,9 @@
       "silver_duty_inr_kg": 32814.83,
       "silver_duty_change_inr_kg": 2460.75,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.15
     },
     {
       "published": "2026-09-03",
@@ -1443,7 +1561,9 @@
       "silver_duty_inr_kg": 32389.76,
       "silver_duty_change_inr_kg": -425.07,
       "source_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
-      "source_kind": "portal"
+      "source_kind": "portal",
+      "notice_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
+      "duty_rate": 0.15
     },
     {
       "published": "2026-09-15",
@@ -1467,7 +1587,9 @@
       "silver_duty_inr_kg": 28975.05,
       "silver_duty_change_inr_kg": -3414.71,
       "source_url": null,
-      "source_kind": null
+      "source_kind": null,
+      "notice_url": null,
+      "duty_rate": 0.15
     },
     {
       "published": "2026-09-16",
@@ -1491,7 +1613,9 @@
       "silver_duty_inr_kg": 28975.05,
       "silver_duty_change_inr_kg": 0.0,
       "source_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
-      "source_kind": "portal"
+      "source_kind": "portal",
+      "notice_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
+      "duty_rate": 0.15
     },
     {
       "published": "2026-09-17",
@@ -1515,7 +1639,9 @@
       "silver_duty_inr_kg": 29446.56,
       "silver_duty_change_inr_kg": 471.51,
       "source_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
-      "source_kind": "portal"
+      "source_kind": "portal",
+      "notice_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
+      "duty_rate": 0.15
     }
   ]
 }
