@@ -152,8 +152,10 @@ def item_key(it):
 
 
 def main(argv):
+    force = "--force" in argv
+    argv = [a for a in argv if a != "--force"]
     if len(argv) != 3:
-        print("usage: publish.py <latest.json> <latest.md>", file=sys.stderr)
+        print("usage: publish.py [--force] <latest.json> <latest.md>", file=sys.stderr)
         return 2
     json_path, md_path = argv[1], argv[2]
 
@@ -177,8 +179,9 @@ def main(argv):
         print("ERROR: failed to read current %s: %s" % (JSON_PATH, exc), file=sys.stderr)
         return 1
 
-    # 2. Change detection.
-    if old_bytes is not None:
+    # 2. Change detection (--force skips this: use when only additive
+    # fields changed, e.g. a same-edition field migration).
+    if old_bytes is not None and not force:
         try:
             old_doc = json.loads(old_bytes.decode("utf-8"))
             old_items = [item_key(it) for it in old_doc.get("items", [])]
