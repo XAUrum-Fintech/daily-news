@@ -1,13 +1,16 @@
 #!/usr/bin/env python3
 """Build/append rows for the customs-duty tracker dataset.
 
-The tracker is a 22-column event table (one row per event that changes
+The tracker is a 24-column event table (one row per event that changes
 customs duty on gold/silver imports): CBIC tariff-value fixations and
 ICEGATE ERAM exchange-rate notifications, with the LBMA London fix and
-INR duty computed at a fixed 15% duty rate. Each row also carries the
-official source link for its notice (`source_url`; `source_kind` is
-"notice" when the link opens the notice itself, "portal" when it opens
-the official listing portal where the notice number can be found).
+INR duty computed at the duty rate in force on the row's effective date
+(6% before 13 May 2026; 15% from 13 May 2026, when the government raised
+total import duty on gold/silver from 6% to 15% — BCD 5%->10%, AIDC 1%->5%).
+Each row also carries the official source link for its notice (`source_url`;
+`source_kind` is "notice" when the link opens the notice itself, "portal"
+when it opens the official listing portal where the notice number can be
+found), a `notice_url` copy for orob's app, and the row's own `duty_rate`.
 
 Usage:
     python3 src/build_customs_tracker.py append \\
@@ -34,13 +37,19 @@ import sys
 from datetime import datetime, timezone
 from decimal import Decimal, ROUND_HALF_UP
 
-DUTY_RATE = 0.15
+DUTY_RATE = 0.15  # current rate (top-level/state.json); per-row rates vary
+# Total import duty on gold/silver was 6% (BCD 5% + AIDC 1%) until the
+# government raised it to 15% (BCD 10% + AIDC 5%) effective 13 May 2026
+# (notified 12 May 2026). Rows effective before that date use 6%.
+DUTY_CHANGE_EFFECTIVE = "2026-05-13"
+DUTY_RATE_PRE = Decimal("0.06")
+DUTY_RATE_POST = Decimal("0.15")
 # Exact factors used by the reference spreadsheet (verified constant):
 # USD/10g -> USD/troy oz ; USD/kg -> USD/troy oz
 GOLD_10G_TO_TROY_OZ = 3.11034768
 SILVER_KG_TO_TROY_OZ = 0.0311034768
 
-SCHEMA = "customs-tracker.v2"
+SCHEMA = "customs-tracker.v3"
 
 SOURCE_KINDS = {"notice", "portal"}
 
@@ -68,31 +77,38 @@ COLUMNS = [
     ("silver_duty_change_inr_kg", "Silver Duty Increase/Decrease (INR/kg)"),
     ("source_url", "Source URL"),
     ("source_kind", "Source Type"),
+    ("notice_url", "Notice URL"),
+    ("duty_rate", "Duty Rate"),
 ]
 
 EVENT_LABELS = {"tariff_value": "Tariff value", "exchange_rate": "Exchange rate"}
 
 _Q2 = Decimal("0.01")
-_RATE = Decimal("0.15")
+
+
+def duty_rate_for(effective):
+    """Duty rate in force on `effective` (YYYY-MM-DD) as a Decimal."""
+    return DUTY_RATE_PRE if effective < DUTY_CHANGE_EFFECTIVE else DUTY_RATE_POST
 
 
 def _d(x):
     return Decimal(str(x))
 
 
-def derive(gold_tariff_10g, silver_tariff_kg, usd_inr_import):
+def derive(gold_tariff_10g, silver_tariff_kg, usd_inr_import, rate):
     """Money math in Decimal (half-up, like the spreadsheet).
 
     Returns (gold_value, gold_duty, silver_value, silver_duty) as Decimals
-    rounded to 2dp.
+    rounded to 2dp. `rate` is the duty rate in force on the row's effective
+    date (see duty_rate_for).
     """
     g10 = _d(gold_tariff_10g)
     skg = _d(silver_tariff_kg)
     fxi = _d(usd_inr_import)
     gold_value = (g10 * 100 * fxi).quantize(_Q2, rounding=ROUND_HALF_UP)
-    gold_duty = (gold_value * _RATE).quantize(_Q2, rounding=ROUND_HALF_UP)
+    gold_duty = (gold_value * _d(rate)).quantize(_Q2, rounding=ROUND_HALF_UP)
     silver_value = (skg * fxi).quantize(_Q2, rounding=ROUND_HALF_UP)
-    silver_duty = (silver_value * _RATE).quantize(_Q2, rounding=ROUND_HALF_UP)
+    silver_duty = (silver_value * _d(rate)).quantize(_Q2, rounding=ROUND_HALF_UP)
     return gold_value, gold_duty, silver_value, silver_duty
 
 
@@ -148,8 +164,9 @@ def compute_row(prev, ev):
     gold_troy_oz = round(gold_tariff * GOLD_10G_TO_TROY_OZ, 6)
     silver_troy_oz = round(silver_tariff * SILVER_KG_TO_TROY_OZ, 6)
 
+    rate = duty_rate_for(ev["effective"])
     gold_value, gold_duty, silver_value, silver_duty = derive(
-        gold_tariff, silver_tariff, usd_inr_import)
+        gold_tariff, silver_tariff, usd_inr_import, rate)
 
     if prev is None:
         gold_chg = None
@@ -188,6 +205,8 @@ def compute_row(prev, ev):
         "silver_duty_change_inr_kg": silver_chg,
         "source_url": source_url,
         "source_kind": source_kind,
+        "notice_url": source_url,
+        "duty_rate": float(rate),
     }
 
 
@@ -195,7 +214,7 @@ def validate_append(rows, row):
     """Sanity checks before appending `row` after `rows`."""
     keys = [k for k, _ in COLUMNS]
     if [k for k in row] != keys:
-        die("row keys do not match the 22-column schema")
+        die("row keys do not match the 24-column schema")
     try:
         pub = datetime.strptime(row["published"], "%Y-%m-%d").date()
         eff = datetime.strptime(row["effective"], "%Y-%m-%d").date()
@@ -220,10 +239,14 @@ def validate_append(rows, row):
                       "gold_tariff_usd_troy_oz", "silver_tariff_usd_troy_oz"):
                 if row[k] != last[k]:
                     die(f"{k} must carry forward unchanged on exchange_rate rows")
-        # recompute derived columns from raw inputs (Decimal, half-up)
+        # recompute derived columns from raw inputs (Decimal, half-up),
+        # using the row's own duty rate
+        if row["duty_rate"] not in (0.06, 0.15):
+            die(f"duty_rate must be 0.06 or 0.15, got {row['duty_rate']}")
         gv, gd, sv, sd = derive(row["gold_tariff_usd_10g"],
                                 row["silver_tariff_usd_kg"],
-                                row["usd_inr_import"])
+                                row["usd_inr_import"],
+                                row["duty_rate"])
         if abs(float(gv) - row["gold_value_inr_kg"]) > 0.005:
             die("gold_value_inr_kg does not recompute")
         if abs(float(sv) - row["silver_value_inr_kg"]) > 0.005:
@@ -254,6 +277,11 @@ def validate_append(rows, row):
         die("source_url must be an https URL or null")
     if sk is not None and sk not in SOURCE_KINDS:
         die("source_kind must be 'notice' or 'portal' or null")
+    nu = row["notice_url"]
+    if nu is not None and not str(nu).startswith("https://"):
+        die("notice_url must be an https URL or null")
+    if (nu is None) != (su is None) or nu != su:
+        die("notice_url must equal source_url")
 
 
 def write_outputs(tracker_dir, rows, generated_at):
