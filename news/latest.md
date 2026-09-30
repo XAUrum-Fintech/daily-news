@@ -1,4 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-09-30T08:00Z
+# Gold & Silver for Indian buyers · 2026-09-30T10:00Z
 
 > PCE data today decides gold’s next move as 30-year US yields hit a 24-year high
 
@@ -6,15 +6,16 @@ Gold held near $4,180 an ounce on Wednesday, down about 6% for September, as inv
 
 - US 30-year yield hit 5.62%, highest since 2002; 10-year at 5.29%, highest since 2007. Reuters poll: 35 of 61 economists see an RBI hike to 5.50% on Oct 5-7.
 - MCX October gold rose Rs 1,114 to Rs 1,47,346/10g; September silver up Rs 1,050 to Rs 2,26,487/kg as crude’s fall eased inflation fears.
-- Shanghai gold premium over London topped $26/oz, a three-month high, ahead of China’s Golden Week; silver set an 8-week London low of $60.85 before rebounding.
+- Shanghai gold's premium over London topped $26/oz ahead of Golden Week; South Korea's central bank set a December date to resume gold buying after 13 years.
 - Fed’s Barr backed further hikes, but NY Fed’s Williams said policymakers can wait for data — October hike odds cooled to about 50%.
 - Four SGB tranches face premature redemption in October; cash gold deals without receipt are rising as the 15% import duty bites.
 
 ## Trending
 - **PCE day: US inflation print sets the Fed trade**: Today’s PCE reading and Friday’s payrolls decide whether the Fed hikes in October; gold’s 6% September slide and silver’s fragile bounce both hang on the outcome. (stories 1, 2, 13)
 - **Yields vs the rupee: India’s cost of gold**: A 24-year high in US 30-year yields is pressuring the rupee near 95.9 and lifting domestic gold costs, with the RBI’s Oct 5-7 decision now a live hike call. (stories 3, 16, 14)
-- **China demand flickers back before Golden Week**: Shanghai’s $26/oz premium over London is the widest in three months and September PMI is back above 50 — early signs of physical buying returning. (stories 4, 7)
+- **China demand flickers back before Golden Week**: Shanghai’s $26/oz premium over London is the widest in three months and September PMI is back above 50 — early signs of physical buying returning. (stories 4, 8)
 - **Festive season meets high prices**: Jewellers stay cautious with prices 9% above last year’s festive peak: lighter designs and coins over jewellery, while the informal cash market keeps growing. (stories 12, 18, 11)
+- **A central bank comes back to gold**: After 13 years, the Bank of Korea has a December date for buying physical gold — small in tonnes, but another signal that official-sector demand keeps rebuilding. (stories 6)
 
 ## Stories
 1. [Gold on track for monthly decline as investors brace for US inflation data](https://www.reuters.com/world/india/gold-track-monthly-decline-investors-brace-us-inflation-data-2026-09-30/) — *Reuters*, 2026-09-30T04:35:00Z
@@ -27,14 +28,14 @@ Gold held near $4,180 an ounce on Wednesday, down about 6% for September, as inv
    Gold and silver rallied from eight-week lows in London on Tuesday as pressure from surging bond yields and oil prices paused, BullionVault reports. Shanghai’s gold premium over London topped $26 an ounce, the widest in three months, as yuan strength and pre-Golden Week stocking lifted Chinese demand. Silver set a fresh eight-week low at the London noon fix of $60.85 before rebounding.
 5. [Gold and silver crash as 10-year yield tops 5.2%](https://www.thestreet.com/investing/gold-and-silver-crash-as-10-year-yield-tops-5-2) — *TheStreet*, 2026-09-30T02:07:00Z
    December gold futures settled 3.52% lower at $4,135.40 an ounce on Sept 28 as the 10-year Treasury yield climbed back above 5.2% and the 30-year topped 5.3%, while spot silver slid 4.31% to $61.53. CME FedWatch put October hike odds at 70.3%, up from 64.2% a day earlier. Central banks still bought a record 289 tonnes in Q2 even as hedge funds cut net longs to the lowest since late July.
-6. [US Market: Fed's Barr backs further rate hikes as inflation risks remain elevated](https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-feds-barr-backs-further-rate-hikes-as-inflation-risks-remain-elevated/articleshow/134581258.cms) — *Economic Times*, 2026-09-30T04:20:00Z
+6. [Bank of Korea to resume physical gold buying in December after 13-year pause](https://www.ajupress.com/view/20260930162623150) — *Aju Press*, 2026-09-30T07:47:00Z
+   The Bank of Korea will finish a transaction and settlement system by December 14, clearing the way to buy about one metric ton of domestic, export-bound gold around mid-month, its first gold purchase since February 2013. The channel, built with the Korea Exchange and the Korea Securities Depository, lets the bank accumulate gold in won; holdings are unchanged at 104.4 tonnes since 2013.
+7. [US Market: Fed's Barr backs further rate hikes as inflation risks remain elevated](https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-feds-barr-backs-further-rate-hikes-as-inflation-risks-remain-elevated/articleshow/134581258.cms) — *Economic Times*, 2026-09-30T04:20:00Z
    Fed Governor Michael Barr said on Tuesday that elevated energy prices and AI-driven investment were complicating the return to 2% inflation, and further rate increases may be needed. Markets were pricing a strong chance of another 25-basis-point hike at the Fed's October 27-28 meeting.
-7. [Gold, silver, platinum and palladium rise as China’s September PMI returns to growth](https://news.metal.com/newscontent/104141814-metals-show-mixed-performance-alumina-leads-the-gains-shfe-nickel-leads-the-declines-coke-gold-silver-platinum-and-palladium-rise-smm-midday-review) — *Shanghai Metals Market*, 2026-09-30T06:40:00Z
+8. [Gold, silver, platinum and palladium rise as China’s September PMI returns to growth](https://news.metal.com/newscontent/104141814-metals-show-mixed-performance-alumina-leads-the-gains-shfe-nickel-leads-the-declines-coke-gold-silver-platinum-and-palladium-rise-smm-midday-review) — *Shanghai Metals Market*, 2026-09-30T06:40:00Z
    COMEX gold rose 0.77% and silver 0.56% by midday in Asia while SHFE gold gained 1.06%, with platinum and palladium also higher, in SMM’s midday review. China’s official September manufacturing PMI came in at 50.1%, back above the expansion threshold, while traders trimmed bets on an imminent Fed hike after New York Fed President Williams said policymakers could wait for more data.
-8. [Gold, silver prices rebound as crude oil prices fall on supply boost](https://www.business-standard.com/markets/commodities/gold-silver-prices-rebound-as-crude-oil-prices-fall-on-supply-boost-126093000340_1.html) — *Business Standard*, 2026-09-30T05:44:00Z
+9. [Gold, silver prices rebound as crude oil prices fall on supply boost](https://www.business-standard.com/markets/commodities/gold-silver-prices-rebound-as-crude-oil-prices-fall-on-supply-boost-126093000340_1.html) — *Business Standard*, 2026-09-30T05:44:00Z
    Gold and silver futures opened higher on Wednesday, September 30, as a sharp decline in crude oil prices provided some support to bullion. Oil fell amid improved energy supplies from West Asia and another large release from US emergency oil reserves. Easing crude tempered the energy-driven inflation fears that have been pressuring precious metals.
-9. [Oil climbs after Trump denies he is willing to ease sanctions on Iran](https://www.reuters.com/business/energy/oil-climbs-after-trump-denies-he-is-willing-ease-sanctions-iran-2026-09-30/) — *Reuters*, 2026-09-30T02:01:00Z
-   Brent crude rose 1.1% to $103.73 a barrel after US President Donald Trump denied a report that he was willing to ease Iran sanctions and release frozen funds, Reuters reports. Middle East crude exports rebounded to 16.328 million barrels a day in September, the highest since the US-Israeli war with Iran began. Costlier oil feeds the inflation pressure behind Fed hike bets.
 10. [OPINION | India’s fondness for gold is a market phenomenon, not a moral problem](https://www.moneycontrol.com/news/opinion/india-s-fondness-for-gold-is-a-market-phenomenon-not-a-moral-problem-14041809.html) — *Moneycontrol*, 2026-09-30T07:22:50Z
    India’s gold imports reflect rational household economics, not cultural excess, argue Harsh Vardhan and Amrita Agarwal in Moneycontrol. With gold doubling in two years, households treat it as an inflation hedge, their most liquid real asset, and trusted loan collateral. Policy should offer better alternatives — relaxed ETF rules, wider access, smarter taxes — instead of moralising about demand.
 11. [Indians are buying more and more gold without receipt as prices, tax bite](https://www.livemint.com/money/personal-finance/indians-are-buying-more-and-more-gold-without-receipt-as-prices-tax-bite-11790681805619.html) — *Mint*, 2026-09-29T12:07:00Z
