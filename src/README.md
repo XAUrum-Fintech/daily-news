@@ -79,10 +79,10 @@ use stock photos.
 | Pull RSS + direct publisher feeds (broad coverage) | `src/fetch_feeds.py` |
 | Targeted searches for primary sources (MCX circulars, SEBI/RBI/IBJA releases) | agent |
 | Open key articles, verify dates/authors, resolve canonical publisher URLs | agent |
-| Extract each article's preview image (`og:image`/`twitter:image`) | agent, via `src/fetch_image.py` |
+| Extract each article's preview image (`og:image`/`twitter:image`), qualify it (https, ≤2MB, ≥800px, no-cookie fetch) or re-host | agent, via `src/fetch_image.py` |
 | Rank stories by impact for Indian buyers, dedupe via `related_urls` | agent |
-| Write summaries in own words, insights, trending themes; assign `category`/`metals`/`tags`/`breaking` | agent |
-| Normalize `source`/`source_domain` | agent, using `data/publishers.json` |
+| Write summaries in own words, insights, trending themes; assign `category`/`metals`/`tags`/`breaking`/`publisher_id`/`image_kind` | agent |
+| Normalize `source`/`source_domain`/`publisher_id` | agent, using `data/publishers.json` |
 | Validate the edition JSON (incl. trending + balance rules) | `src/validate_edition.py` |
 | Change-detect and publish | `src/publish.py` |
 
