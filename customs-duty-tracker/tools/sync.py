@@ -7,6 +7,8 @@ Pipeline:
   3. Backfill missing source_url/source_kind on existing rows
      (tools/backfill_source_urls.py; harmless when nothing is missing).
   4. Append each new event via tools/build_customs_tracker.py (validates).
+  4b. Backfill again so just-appended rows get their source links the
+     same day instead of waiting for the next run.
   5. Render tools/render_update.py -> latest.md (values + commentary).
   6. Commit latest.json + latest.csv + state.json + latest.md in ONE atomic commit via
      the GitHub git-database API (gh-api), and verify the ref moved.
@@ -143,9 +145,11 @@ def main():
         events = detected.get("events", [])
         for w in detected.get("warnings", []):
             log("warning: " + w)
-        # 3. backfill source links on existing rows (migrates v1 -> v2
-        # on first run; fills CBIC PDF links whenever CBIC is reachable).
-        # Runs even with no new events so links keep filling in.
+        # 3. backfill source links on existing rows: official CBIC PDF
+        # links first, caalley.com mirror fallback when CBIC is
+        # unreachable (official links replace mirror links whenever CBIC
+        # becomes reachable). Runs even with no new events so links keep
+        # filling in.
         run([sys.executable, backfill_py, "--tracker-dir", tracker_dir])
 
         if not events:
@@ -181,6 +185,11 @@ def main():
                         "--usd-inr-import", str(ev["usd_inr_import"]),
                         "--usd-inr-export", str(ev["usd_inr_export"])]
             run(cmd)
+
+        # 4b. backfill again so rows appended just now get their source
+        # links the same day (official CBIC PDF first, caalley mirror
+        # fallback) instead of waiting for tomorrow's run.
+        run([sys.executable, backfill_py, "--tracker-dir", tracker_dir])
 
         # 5. render the human-readable update for the newest row
         render_py = os.path.join(here, "render_update.py")
