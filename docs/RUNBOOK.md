@@ -63,14 +63,21 @@ source_domain, published_at, image_url, tags) PLUS:
    (no `www.`, always the same string per publisher; the app uses it for logos).
 4. `source` — display name exactly as in data/publishers.json for that domain
    (e.g. always "Economic Times", never "ET"). Add missing publishers to
-   data/publishers.json in the same format; never invent variants.
-5. `breaking` (optional, default `false`) — `true` only for rare, major
-   market-moving news (import-duty change, very large single-day price move).
-   At most 1–2 per week: check `~/workspace/gold-silver-digest/breaking-log.jsonl` (machine-local,
+   data/publishers.json in the same format (`{"name": ..., "publisher_id": ...}`);
+   never invent variants.
+5. `publisher_id` (required) — stable slug per publisher from data/publishers.json
+   (e.g. `economic-times`, `cnbc-tv18`). When adding a publisher not in orob's
+   table, coin a slug in the same style (lowercase, hyphens) and record it in
+   the edition report so the app team can add the logo mapping.
+6. `image_url` / `image_kind` (required) — see Content rule 6. When there is no
+   real photo: `"image_url": null, "image_kind": "none"`.
+7. `breaking` (optional, default `false`) — `true` only for rare, genuinely
+   market-moving news (import-duty change, Fed surprise, big MCX limit move).
+   At most a couple per day: check `~/workspace/gold-silver-digest/breaking-log.jsonl` (machine-local,
    never committed) for entries in the last 7 days; if 2 already, do not set `true`. When set,
    append `{"date":"<YYYY-MM-DD>","id":"<item id>","title":"<title>"}` to the log.
    If the log is missing/unreadable, default `false`.
-6. `related_urls` (optional) — story-level dedup: when several outlets cover the
+8. `related_urls` (optional) — story-level dedup: when several outlets cover the
    same story, include it ONCE from the most authoritative/detailed source and
    put the other versions' canonical URLs here. Each item in `items` must be a
    different story.
@@ -87,19 +94,44 @@ source_domain, published_at, image_url, tags) PLUS:
    Factual wording only, e.g. "Gold rose 0.8% on MCX after…". Applies to insights
    and trending too.
 5. Links: https only, publisher's original (never an aggregator), tracking stripped.
-6. `image_url`: the publisher's own preview image for EVERY item — fetch the
-   article page and take `og:image` (fallback `twitter:image`) via
-   `python3 src/fetch_image.py <url>`. When the source provides no usable image,
-   fall back to the repo's AI-generated placeholders (never null):
-   `assets/placeholder-gold.jpg` for gold-led items,
-   `assets/placeholder-silver.jpg` for silver-led items,
-   `assets/placeholder-metals.jpg` when both — referenced by their
-   https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/…
-   URLs. Rank 1 should prefer a publisher image when one exists. Never
-   generated-per-article or stock images.
+6. Images — the app copies each photo to its own storage, so every real photo
+   must be fetchable and big enough:
+   - For EVERY item, run
+     `python3 src/fetch_image.py <article-url> --id <item-id>`
+     and use the JSON it prints: `image_url` + `image_kind`.
+   - A real photo (`image_kind: "photo"`): the article's own lead image
+     (`og:image`, fallback `twitter:image`) — absolute https, JPEG/PNG/WebP,
+     at least 800 px wide, at most 2 MB, downloadable with NO cookies and NO
+     referrer, and the file's real type matching its extension. The script
+     checks all of this.
+   - Blocked, too big, too small, or dishonest-typed images: the script
+     downloads the bytes, resizes to a 1280-px-wide JPEG and re-hosts it as
+     `assets/news/<item-id>.jpg`, and prints the
+     `https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/<item-id>.jpg`
+     URL with `"rehosted": true`. Commit re-hosted files BEFORE the edition
+     (one Contents-API commit for all of them; see Commit section) so the
+     URLs resolve when the edition lands.
+   - No real photo at all: send `"image_url": null, "image_kind": "none"`.
+     The app then shows the publisher's cover or its own topic artwork.
+   - NEVER send the repo's old generic placeholders
+     (`assets/placeholder-gold.jpg` etc.) as `image_url` — the app treats
+     them as real photos. They remain in the repo only for history.
+   - Never generated-per-article or stock images.
+   - Rank 1 is the edition's top story; it should have a real photo
+     (`image_kind: "photo"`) whenever one exists.
 7. Tags: only from `gold, silver, mcx, comex, rupee, rbi, fed, import-duty, india,
-   global, jewellery, central-banks`.
+   global, jewellery, central-banks` (the app's known set; "More / Less like
+   this" and topic artwork use them). Drop stories outside the app's topics:
+   gold, silver, bullion, customs duty and policy, rupee/forex, MCX/COMEX,
+   central banks and the Fed as they move bullion, jewellery demand.
 8. Language: plain English; rupee amounts as ₹, lakh/crore where natural. UTF-8.
+9. `published_at`: the ARTICLE's own publication time (UTC, `Z` suffix) —
+   never the crawl time. The app groups Today / Yesterday / Earlier and orders
+   newest-first on this field. When the page shows no time, estimate from the
+   feed/RSS entry and prefer the earliest defensible value over the crawl time.
+10. `rank`: rank 1 is the TOP STORY of the edition (the single most important
+    story, shown at the head of the feed). Everything else is shown by
+    `published_at` newest-first; ranks after 1 are only a tie-breaker.
 
 ## Selection rules (feedback on edition 2026-09-27T06:00Z, applied 2026-09-27)
 9. EXCLUDE, always: "gold rate today" / city price-table / rate-listing articles.
@@ -159,31 +191,41 @@ headline ≤120, summary ≤600, ≤5 points each ≤160; 10 ≤ items ≤ 30;
 `trending` has 3–5 entries, each with title ≤80, summary ≤200, and 1+ `item_ids`
 that all reference real item ids;
 at least 2 items with category `mcx`; no category more than half the items;
-at most 2 items per source_domain; every item's `image_url` is a non-null https URL
-(publisher image or repo placeholder — nulls never publish; exit 1 on any null);
-warn (exit 0) when rank-1's `image_url` contains "placeholder-" (rank 1 should
-prefer a publisher image);
-ranks unique 1..N; every item has all base fields
-(id, rank, title, summary, url, source, source_domain, published_at, image_url, tags)
+at most 2 items per source_domain; every item has `publisher_id` (slug from
+data/publishers.json); every item's `image_url` is either null (with
+`image_kind: "none"`) or an https URL (with `image_kind: "photo"`) — never a
+repo placeholder URL; warn (exit 0) when rank-1's `image_kind` is not "photo"
+(the top story should have a real photo);
+ranks unique 1..N, rank 1 the edition's top story; every item has all base fields
+(id, rank, title, summary, url, source, source_domain, publisher_id, published_at,
+image_url, image_kind, tags)
 plus `category` ∈ {mcx, global, policy, festive}, `metals` non-empty ⊆ {gold, silver},
 `breaking` boolean (default false), `related_urls` absent or a list of https URLs;
-title ≤160, summary ≤400; url https with no tracking params;
-`published_at` within 48h of `generated_at`; `id == sha256(canonical_url)[:16]`;
-tags ⊆ allowed set; `image_url` non-null https (publisher image or repo placeholder).
+title ≤160, summary ≤400 (summary always present — the server requires it);
+url https with no tracking params;
+`published_at` is the article's own time, within 48h of `generated_at`;
+`id == sha256(canonical_url)[:16]`;
+tags ⊆ the app's known set only
+(gold, silver, rupee, fed, rbi, mcx, comex, import-duty, central-banks, india,
+global, jewellery).
 
 ## Change detection
 - Compare new items (id + title + summary + url) against the previous edition.
 - Identical → SKIP the commit entirely. Do not commit.
 
 ## Commit (only when changed AND valid)
+- If the edition re-hosts images (`assets/news/<id>.jpg` files were written by
+  fetch_image.py): commit them FIRST with one Contents-API commit
+  (`message: "news assets: re-hosted images for <edition_id>"`) so the
+  re-hosted URLs resolve before the edition references them.
 - `PUT /repos/XAUrum-Fintech/daily-news/contents/news/latest.json`
   data: `{"message":"news: <generated_at>","content":"<base64 of UTF-8 JSON>","branch":"main","sha":"<current sha>"}`
   (omit `sha` on the very first edition).
 - Include `news/latest.md` (human-readable mirror: headline, insights, trending,
   numbered stories with links and summaries) in the same commit via a second PUT
   with the same message.
-- NEVER commit images or any other files. NEVER rewrite history (no force-push;
-  the Contents API never rewrites).
+- Never commit images outside `assets/news/` or any other files. NEVER rewrite
+  history (no force-push; the Contents API never rewrites).
 - Commit only when `latest.json` actually changed. (The first edition's double
   commit was a one-off empty-repo bootstrap; `src/publish.py` change-detects and
   commits at most once per edition.)
