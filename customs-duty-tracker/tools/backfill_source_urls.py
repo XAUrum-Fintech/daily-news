@@ -6,6 +6,14 @@
   portal is recorded with source_kind "portal". No network needed.
 - Tariff-value rows: query the CBIC notification API for the notification
   number and record the official notice PDF URL (source_kind "notice").
+  When the CBIC API is unreachable, fall back to the caalley.com mirror
+  (genuine notification PDFs under a predictable pattern; each candidate
+  is downloaded and verified before use).
+- Duty-rate rows: same treatment for the duty notification (CBIC "Tariff"
+  category, caalley mirror fallback).
+- Official CBIC links always win: rows whose link is a caalley mirror are
+  re-checked against the CBIC API whenever it is reachable, and the
+  mirror link is replaced by the official PDF URL when found.
 - Also tries CBIC's "Exchange Rate" category for ERAM numbers, in case
   CBIC hosts those circulars as PDFs too.
 - `notice_url` is set to `source_url` on every row (the field orob's app
@@ -27,7 +35,10 @@ Usage: backfill_source_urls.py --tracker-dir <customs-duty-tracker dir>
 import argparse
 import json
 import os
+import re
+import subprocess
 import sys
+import tempfile
 from datetime import date
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -36,6 +47,67 @@ import fetch as F
 
 CBIC_CATEGORIES_TARIFF = ["Non Tariff"]
 CBIC_CATEGORIES_ERAM = ["Exchange Rate", "Exchange rate"]
+CBIC_CATEGORIES_DUTY = ["Tariff"]
+
+
+def caalley_candidates(number):
+    """Candidate caalley.com mirror PDF URLs for a notification number.
+
+    N.T. series: cus{yy}/csnt{nn:02d}-{yyyy}.pdf (zero-padded).
+    Regular Tariff series: cus{yy}/cst-{nn}-{yyyy}.pdf (not padded).
+    """
+    m = re.match(r"\s*(\d{1,3})\s*/\s*(\d{4})\s*-\s*Customs",
+                 number or "", re.I)
+    if not m:
+        return []
+    nn, yyyy = int(m.group(1)), m.group(2)
+    yy = yyyy[2:]
+    nt = bool(re.search(r"\(N\.?T\.?\)", number or "", re.I))
+    if nt:
+        return [f"https://www.caalley.com/cus{yy}/csnt{nn:02d}-{yyyy}.pdf"]
+    return [f"https://caalley.com/cus{yy}/cst-{nn}-{yyyy}.pdf",
+            f"https://www.caalley.com/cus{yy}/cst-{nn}-{yyyy}.pdf"]
+
+
+def caalley_verify(url, number):
+    """Download a mirror candidate; accept on HTTP 200 + PDF magic bytes,
+    plus a best-effort notification-number text match when the PDF has a
+    text layer (scanned PDFs such as 01/2026 are accepted on magic bytes,
+    consistent with the official PDF which also has no text layer)."""
+    try:
+        body = F.http_bytes(url, timeout=30)
+    except Exception as e:
+        log(f"caalley fetch failed ({url}): {e}")
+        return False
+    if not body or not body.startswith(b"%PDF-"):
+        return False
+    m = re.match(r"\s*(\d{1,3})\s*/\s*(\d{4})", number or "")
+    if not m:
+        return True
+    try:
+        with tempfile.NamedTemporaryFile(suffix=".pdf",
+                                         delete=False) as f:
+            f.write(body)
+            fn = f.name
+        t = subprocess.run(["pdftotext", "-layout", fn, "-"],
+                           capture_output=True, text=True,
+                           timeout=30).stdout
+        os.unlink(fn)
+    except Exception:
+        return True  # no pdftotext available: accept on magic bytes
+    if not t.strip():
+        return True  # scanned PDF: accept on magic bytes
+    return bool(re.search(
+        rf"Notification No\.?\s*0?{int(m.group(1))}\s*/\s*{m.group(2)}",
+        t, re.I))
+
+
+def caalley_lookup(number):
+    """Return a verified caalley.com mirror PDF URL for `number`, or None."""
+    for url in caalley_candidates(number):
+        if caalley_verify(url, number):
+            return url
+    return None
 
 
 def log(msg):
@@ -116,12 +188,30 @@ def main():
         print("backfill: no rows")
         return 0
 
-    filled_notice = filled_portal = skipped = 0
+    filled_official = filled_mirror = replaced_mirror = 0
+    filled_portal = skipped = 0
     cbic_ok = cbic_probe()
+
+    def official_then_mirror(number, categories, year):
+        """(url, origin) for a notification: official CBIC PDF first,
+        caalley mirror fallback. origin is 'official', 'mirror', or None."""
+        if cbic_ok and number:
+            url = cbic_find_pdf(number, categories, year)
+            if url:
+                return url, "official"
+        if number:
+            url = caalley_lookup(number)
+            if url:
+                return url, "mirror"
+        return None, None
+
     new_rows = []
     for r in rows:
         r = dict(r)
-        if r.get("source_url"):
+        is_mirror = "caalley.com" in (r.get("source_url") or "")
+        # Official links always win: mirror rows are re-checked against
+        # CBIC whenever it is reachable. Other filled rows are done.
+        if r.get("source_url") and not (is_mirror and cbic_ok):
             skipped += 1
         elif r["event"] == "Exchange rate":
             url = None
@@ -134,24 +224,36 @@ def main():
                                     CBIC_CATEGORIES_ERAM, year)
             if url:
                 r["source_url"], r["source_kind"] = url, "notice"
-                filled_notice += 1
+                filled_official += 1
             else:
                 r["source_url"], r["source_kind"] = F.ICEGATE_PORTAL, "portal"
                 filled_portal += 1
-        elif r["event"] == "Tariff value":
-            url = None
-            if cbic_ok and r.get("tariff_notification"):
-                try:
-                    year = int(r["published"][:4])
-                except ValueError:
-                    year = date.today().year
-                url = cbic_find_pdf(r["tariff_notification"],
-                                    CBIC_CATEGORIES_TARIFF, year)
-            if url:
+        elif r["event"] in ("Tariff value", "Duty rate"):
+            number = (r.get("tariff_notification")
+                      or r.get("duty_notification"))
+            categories = (CBIC_CATEGORIES_TARIFF
+                          if r["event"] == "Tariff value"
+                          else CBIC_CATEGORIES_DUTY)
+            try:
+                year = int(r["published"][:4])
+            except ValueError:
+                year = date.today().year
+            url, origin = official_then_mirror(number, categories, year)
+            if url == r.get("source_url"):
+                skipped += 1  # mirror kept; CBIC had nothing better
+            elif url:
                 r["source_url"], r["source_kind"] = url, "notice"
-                filled_notice += 1
+                if origin == "official":
+                    if is_mirror:
+                        replaced_mirror += 1
+                        log(f"official CBIC link replaced mirror for "
+                            f"{number}")
+                    else:
+                        filled_official += 1
+                else:
+                    filled_mirror += 1
             else:
-                log(f"no CBIC PDF yet for {r.get('tariff_notification')}; "
+                log(f"no CBIC PDF and no mirror yet for {number}; "
                     "leaving null")
                 r["source_url"], r["source_kind"] = None, None
         # reorder keys to the v4 column order; set notice_url + duty_rate
@@ -192,7 +294,8 @@ def main():
     from datetime import datetime, timezone
     generated_at = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     B.write_outputs(args.tracker_dir, checked, generated_at)
-    print(f"backfill: notice={filled_notice} portal={filled_portal} "
+    print(f"backfill: official={filled_official} mirror={filled_mirror} "
+          f"replaced_mirror={replaced_mirror} portal={filled_portal} "
           f"skipped={skipped} still-null="
           f"{sum(1 for r in checked if not r['source_url'])}; "
           f"rows={len(checked)} schema={B.SCHEMA}")
