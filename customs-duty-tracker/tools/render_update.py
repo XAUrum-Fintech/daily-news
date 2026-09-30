@@ -53,6 +53,17 @@ def dstr(iso):
 
 def commentary(last, prev, rows):
     parts = []
+    if last["event"] == "Duty rate" and prev:
+        parts.append(
+            f"Total import duty on gold and silver moved from "
+            f"{prev['duty_rate'] * 100:.0f}% to {last['duty_rate'] * 100:.0f}% "
+            f"under {last['duty_notification']}. Tariff values and the "
+            "exchange rate are unchanged versus the previous event, so the "
+            "entire duty jump comes from the rate change itself.")
+        per10 = last["gold_duty_inr_kg"] / 100
+        parts.append(
+            f"Gold duty now works out to about {inr(per10, 0)} per 10g.")
+        return " ".join(parts)
     rate_changed = bool(
         prev and last["usd_inr_import"] != prev["usd_inr_import"])
     tariff_changed = bool(
@@ -131,6 +142,9 @@ def verify_links(last):
     elif last["event"] == "Exchange rate":
         lines = [(f"- [ICEGATE exchange-rate notifications]({ICEGATE_SCREEN})"
                   f" \u2014 find {last['eram_notification']}, Download PDF.")]
+    elif last["event"] == "Duty rate":
+        lines = [(f"- [CBIC tax information portal]({CBIC_PORTAL})"
+                  f" \u2014 search {last['duty_notification']}.")]
     else:
         lines = [(f"- [CBIC tax information portal]({CBIC_PORTAL})"
                   f" \u2014 Non-Tariff notifications; "
@@ -151,6 +165,12 @@ def render(rows, schema):
         event_line = f"Exchange-rate circular {last['eram_notification']}"
         move_line = (f"USD/INR import: {prev['usd_inr_import']:.2f} \u2192 "
                      f"{last['usd_inr_import']:.2f}") if prev else ""
+    elif last["event"] == "Duty rate":
+        label = last["duty_notification"]
+        event_line = f"Duty-rate notification {last['duty_notification']}"
+        move_line = (f"Total import duty on gold/silver: "
+                     f"{prev['duty_rate'] * 100:.0f}% \u2192 "
+                     f"{last['duty_rate'] * 100:.0f}%") if prev else ""
     else:
         label = last["tariff_notification"]
         event_line = f"Tariff-value notification {last['tariff_notification']}"
@@ -194,7 +214,7 @@ def main():
     args = ap.parse_args()
     with open(os.path.join(args.tracker_dir, "latest.json")) as f:
         latest = json.load(f)
-    md = render(latest["rows"], latest.get("schema", "customs-tracker.v3"))
+    md = render(latest["rows"], latest.get("schema", "customs-tracker.v4"))
     out = os.path.join(args.tracker_dir, "latest.md")
     with open(out, "w") as f:
         f.write(md)
