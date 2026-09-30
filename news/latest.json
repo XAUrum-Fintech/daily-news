@@ -1,65 +1,62 @@
 {
  "schema": "orob-news.v1",
- "edition_id": "2026-09-30T14:00Z",
- "generated_at": "2026-09-30T14:12:38Z",
+ "edition_id": "2026-09-30T16:00Z",
+ "generated_at": "2026-09-30T16:10:43Z",
  "window": {
-  "from": "2026-09-30T12:00:00Z",
-  "to": "2026-09-30T14:00:00Z"
+  "from": "2026-09-30T14:00:00Z",
+  "to": "2026-09-30T16:00:00Z"
  },
  "insights": {
-  "headline": "Gold rebounds above $4,200 as cooler US inflation data eases Fed rate-hike bets",
-  "summary": "August PCE inflation came in softer than expected — core PCE at 3.0% versus 3.3% forecast — cutting bets on an October Fed hike and lifting gold back above $4,200 an ounce, though bullion remains headed for a monthly loss of over 6%. In India, MCX gold futures reclaimed Rs 1.50 lakh per 10 grams, while the rupee stayed near the bottom of Asia's currency pile ahead of next week's RBI decision.",
+  "headline": "Gold's PCE bounce fades as September closes with bullion down 8.5% and silver off 13.5%",
+  "summary": "August PCE inflation rose 0.3% versus 0.4% expected, briefly lifting gold above $4,200 and cutting October Fed-hike bets -- but the metal slipped back as real 10-year Treasury yields surged near record highs. Gold ended September down 8.5% and silver off 13.5%, the strongest negative 9-month link between gold and real rates since 2020. In India, MCX gold held near Rs 1.50 lakh per 10 grams, MCX silver steadied near Rs 2.26 lakh a kg after correcting from Rs 2.40 lakh, and the rupee closed a comparatively stable first half after FY26's 9.9% fall.",
   "points": [
-   "Core PCE rose 3.0% YoY in August vs 3.3% expected; Oct Fed hike odds fell sharply.",
-   "NY gold futures rose 1.6% to $4,245.20; silver bounced with the broader metals complex.",
-   "MCX gold futures reclaimed Rs 1.50 lakh/10g on firm spot demand, PTI reported.",
-   "Rupee closed at 95.83/$, among Asia's worst quarterly performers; RBI hike expected next week.",
-   "Silver held near $61-63, still down roughly 48% from January's ~$121 peak."
+   "US PCE rose 0.3% in August vs 0.4% forecast; October Fed-hike odds fell about 8 points and gold briefly topped $4,210.",
+   "Gold then slipped anyway; September ended with gold -8.5% and silver -13.5% as real 10-yr yields hit near-record highs.",
+   "MCX gold held near Rs 1.50 lakh/10g; MCX silver steadied around Rs 2.26 lakh/kg after correcting from Rs 2.40 lakh.",
+   "Rupee lost just 1.1% in H1 FY27 after FY26's 9.9% slide, steadied by RBI dollar sales near the 96-per-dollar mark.",
+   "Wells Fargo trimmed its end-2027 gold target to $5,200-$5,400, citing Fed hikes and a stronger dollar."
   ]
  },
  "trending": [
   {
-   "title": "Soft PCE flips the Fed-hike script for gold",
-   "summary": "Cooler August inflation cut October hike odds and pushed gold back above $4,200, reversing the pre-data slide that had futures at eight-week lows.",
+   "title": "The PCE bounce that didn't stick",
+   "summary": "Softer August inflation cut October hike odds and pushed gold above $4,200 -- but the metal gave it back as real yields and the dollar reasserted themselves. The fade matters more than the rally.",
    "item_ids": [
     "0abec9b13426acf7",
-    "2dc6d401aae3576d",
-    "6aac684f45289e43"
+    "27e8673c0a42d76f",
+    "9f02a00ed410eb6a"
    ]
   },
   {
-   "title": "Silver bounces but yields cap the recovery",
-   "summary": "Silver tested $62.84 resistance after the $60.63 low as metals rebounded post-PCE, though elevated Treasury yields and a firm dollar still cap rallies.",
+   "title": "September's rout, in two numbers",
+   "summary": "Gold -8.5%, silver -13.5% for September as real 10-year yields surged near record highs -- the strongest negative 9-month gold/real-rate link since 2020.",
    "item_ids": [
-    "3c5118e99ed96783",
-    "0abec9b13426acf7",
-    "95c51f1a9d334fae"
+    "80580787c4ec743f",
+    "2dc6d401aae3576d"
    ]
   },
   {
-   "title": "Rupee under pressure as US yields surge",
-   "summary": "The rupee ranked among Asia's worst Q3 performers as record US 30-year yields powered the dollar; a 25bp RBI hike is widely expected next week.",
+   "title": "Silver's two-speed story",
+   "summary": "MCX silver corrected from above Rs 2.40 lakh/kg to about Rs 2.26 lakh; spot tested $62.84 resistance after a $60.63 low, with analysts seeing near-term volatility but medium-term support.",
    "item_ids": [
-    "22b3ac8b2419e6c4",
-    "3504b7787f7d0062",
-    "02543b52f35212cd"
+    "918ad1660e8b8671",
+    "3c5118e99ed96783"
    ]
   },
   {
-   "title": "Festive demand meets price caution",
-   "summary": "With gold 9% above last year's festive peak, jewellers expect selective buying, lighter pieces and exchange schemes into Navratri and Diwali.",
+   "title": "India braces for the festive quarter",
+   "summary": "Jewellery demand faces prices 9% above last year; gold ETF folios collapsed from 12 lakh in January to 4,000 in September, and more buyers are going without receipts as tax bites.",
    "item_ids": [
     "906750845a5d0e6c",
-    "f2af7c9c9129e994",
+    "7f09d320548e899d",
     "3379349a44c3a5c5"
    ]
   },
   {
    "title": "Central banks keep buying the dip",
-   "summary": "The Bank of Korea set December for its first physical gold purchase since 2013, even as Natixis sees $4,100 by year-end in its base case.",
+   "summary": "Bank of Korea will resume physical gold buying in December after a 13-year pause, the latest central bank adding to reserves.",
    "item_ids": [
-    "4217afa1802750d2",
-    "df557c333850a919"
+    "4217afa1802750d2"
    ]
   }
  ],
@@ -93,26 +90,25 @@
    ]
   },
   {
-   "id": "22b3ac8b2419e6c4",
+   "id": "80580787c4ec743f",
    "rank": 2,
-   "title": "Rupee lingers around bottom of Asia FX pile as global headwinds deepen",
-   "summary": "The rupee ranked among Asia's worst performers this quarter, falling 1.2% in July-September as elevated crude prices and surging US bond yields weighed on local assets. It closed Wednesday at 95.83 per dollar, with persistent RBI intervention helping it avoid a test of its 96.96 record low. Markets widely expect a 25-basis-point RBI hike next week.",
-   "url": "https://economictimes.indiatimes.com/markets/forex/rupee-lingers-around-bottom-of-asia-fx-pile-as-global-headwinds-deepen/articleshow/134591316.cms",
-   "source": "Economic Times",
-   "source_domain": "economictimes.indiatimes.com",
-   "publisher_id": "economic-times",
-   "published_at": "2026-09-30T10:35:54Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/22b3ac8b2419e6c4.jpg",
-   "image_kind": "photo",
+   "title": "Gold Down 8.5% in Sept, Silver -13.5% as Real Yields 'Re-Price Fast'",
+   "summary": "Gold ended September down 8.5% and silver off 13.5% despite a late rebound on softer US inflation data, as real 10-year Treasury yields surged near record highs. BullionVault notes the strongest negative 9-month link between gold and real rates since bullion's 2020 Covid peak, with markets repricing where rates settle.",
+   "url": "https://www.bullionvault.co.uk/gold-news/gold-price-news/gold-silver-prices-real-rates-093020261",
+   "source": "BullionVault",
+   "source_domain": "bullionvault.com",
+   "publisher_id": "bullionvault",
+   "published_at": "2026-09-30T14:25:46Z",
+   "image_url": null,
+   "image_kind": "none",
    "tags": [
-    "mcx",
     "gold",
     "silver",
-    "rupee",
-    "india",
-    "rbi"
+    "global",
+    "fed",
+    "comex"
    ],
-   "category": "mcx",
+   "category": "global",
    "metals": [
     "gold",
     "silver"
@@ -120,8 +116,32 @@
    "breaking": false
   },
   {
-   "id": "d6eb3d6a4a71f9e7",
+   "id": "27e8673c0a42d76f",
    "rank": 3,
+   "title": "Gold Got the Inflation Report Bulls Wanted, but the Metal Slipped Anyway",
+   "summary": "Gold jumped to about $4,210 an ounce after soft August PCE data cut October Fed-hike odds by roughly 8 points, with New York Fed chief Williams saying there was no urgency to hike again. But the metal failed to hold the move and slipped back, struggling to convert increasingly favorable fundamentals into sustained upside.",
+   "url": "https://www.investing.com/analysis/gold-got-the-inflation-report-bulls-wanted-but-the-metal-slipped-anyway-200688702",
+   "source": "Investing.com",
+   "source_domain": "investing.com",
+   "publisher_id": "investing-com",
+   "published_at": "2026-09-30T15:51:00Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "gold",
+    "global",
+    "fed",
+    "comex"
+   ],
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "d6eb3d6a4a71f9e7",
+   "rank": 4,
    "title": "Gold futures rise Rs 1,288 to Rs 1.50 lakh on firm spot demand",
    "summary": "MCX gold futures rose Rs 1,288, or 0.87%, to Rs 1,50,111 per 10 grams in the December contract as speculators built fresh positions on firm spot demand, PTI reported. The rebound tracked steadier global cues ahead of the US PCE inflation data.",
    "url": "https://hdfcsky.com/news/domestic-gold-futures-rise-to-rs-1-50-lakh-10-gm-on-firm-spot-demand",
@@ -137,6 +157,100 @@
     "india"
    ],
    "category": "mcx",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "918ad1660e8b8671",
+   "rank": 5,
+   "title": "Silver price volatility: MCX silver falls after sharp correction",
+   "summary": "MCX silver steadied near Rs 2,26,270 a kg after a sharp correction from above Rs 2.40 lakh earlier in September. Analysts quoted blame higher US yields, a firmer dollar and rate-hike expectations; Kotak Mutual Fund's Satish Dondapati expects near-term volatility but stays positive on the medium-to-long-term outlook, citing global debt, central-bank buying and portfolio flows.",
+   "url": "https://www.businesstoday.in/personal-finance/story/silver-price-volatility-mcx-silver-falls-after-sharp-correction-what-should-investors-do-now-558871-2026-09-30",
+   "source": "Business Today",
+   "source_domain": "businesstoday.in",
+   "publisher_id": "business-today",
+   "published_at": "2026-09-30T11:55:54Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "silver",
+    "mcx",
+    "india"
+   ],
+   "category": "mcx",
+   "metals": [
+    "silver"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "bf21afc9047fc057",
+   "rank": 6,
+   "title": "Rupee remains relatively stable in H1 FY27 after 10% fall in FY26",
+   "summary": "After sliding 9.9% in FY26, the rupee lost just 1.1% in the first half of FY27, steadied by RBI interventions including a June special dollar-rupee swap for FCNR(B) deposits. It settled at 95.83 to the dollar on Wednesday after briefly breaching 96, with dealers saying the central bank sold dollars around that level; forex reserves rose about $78 billion to $765.9 billion by September 18.",
+   "url": "https://www.business-standard.com/markets/news/rupee-remains-relatively-stable-in-h1-fy27-after-10-fall-in-fy26-126093001265_1.html",
+   "source": "Business Standard",
+   "source_domain": "business-standard.com",
+   "publisher_id": "business-standard",
+   "published_at": "2026-09-30T15:29:51Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "rupee",
+    "mcx",
+    "gold",
+    "india"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "9f02a00ed410eb6a",
+   "rank": 7,
+   "title": "US dollar retreats after softer-than-expected inflation data",
+   "summary": "The dollar slipped after US PCE inflation rose 0.3% in August versus 0.4% expected, trimming bets on further Fed rate hikes. The dollar index fell 0.23% to 101.17 while 2-year Treasury yields dropped 5.82 basis points to 4.831%, though the greenback is still set for a September monthly gain.",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-dollar-retreats-after-softer-than-expected-inflation-data/articleshow/134597817.cms",
+   "source": "Economic Times",
+   "source_domain": "economictimes.indiatimes.com",
+   "publisher_id": "economic-times",
+   "published_at": "2026-09-30T15:22:45Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "gold",
+    "fed",
+    "global"
+   ],
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "c1e6858858c3c991",
+   "rank": 8,
+   "title": "Wells Fargo resets gold price target amid rate concern",
+   "summary": "Wells Fargo Investment Institute trimmed its end-2027 gold price target to $5,200-$5,400 an ounce from $5,400-$5,600, citing the Fed's September rate hike, expectations of more increases, and a stronger dollar. The bank still sees gold rising over the period, but says higher rates and a firm dollar blunt the case for the zero-yield asset.",
+   "url": "https://www.thestreet.com/investing/wells-fargo-resets-gold-price-target-amid-rate-concern",
+   "source": "TheStreet",
+   "source_domain": "thestreet.com",
+   "publisher_id": "thestreet",
+   "published_at": "2026-09-30T14:17:00Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "gold",
+    "fed",
+    "global",
+    "central-banks"
+   ],
+   "category": "global",
    "metals": [
     "gold"
    ],
@@ -165,81 +279,11 @@
    ],
    "breaking": false,
    "id": "2dc6d401aae3576d",
-   "rank": 4
-  },
-  {
-   "id": "3c5118e99ed96783",
-   "rank": 5,
-   "title": "Silver Tests $62.84 Resistance After the $60.63 Low",
-   "summary": "Silver is testing resistance at $62.84 after bouncing from a $60.63 low, Investing.com’s technical analysis notes, with traders watching whether today’s US PCE inflation data sparks follow-through buying. The piece flags a closing-price reversal off the lows but cautions that elevated Treasury yields and a firm dollar continue to cap rebounds.",
-   "url": "https://www.investing.com/analysis/silver-tests-6284-resistance-after-the-6063-low-200688641",
-   "source": "Investing.com",
-   "source_domain": "investing.com",
-   "publisher_id": "investing",
-   "published_at": "2026-09-30T06:37:14Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/3c5118e99ed96783.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "silver",
-    "fed",
-    "global"
-   ],
-   "category": "global",
-   "metals": [
-    "silver"
-   ],
-   "breaking": false
-  },
-  {
-   "id": "3504b7787f7d0062",
-   "rank": 6,
-   "title": "US 30-yr yield rises to highest level since 2002: What this means for rupee",
-   "summary": "The 30-year US Treasury yield climbed to 5.6206% on Tuesday, its highest since June 2002, with the 10-year at 5.293%, last seen in 2007. Business Standard reports the surge, driven by inflation fears, higher oil and Fed-hike bets, is pressuring the rupee near ₹95.9 to the dollar. A Reuters poll found 35 of 61 economists expecting a 25-basis-point RBI repo hike to 5.50% at its October 5-7 meeting.",
-   "url": "https://www.business-standard.com/markets/news/us-30-year-bond-yield-2002-high-india-rupee-rbi-policy-repo-rate-126093000395_1.html",
-   "source": "Business Standard",
-   "source_domain": "business-standard.com",
-   "publisher_id": "business-standard",
-   "published_at": "2026-09-30T06:35:38Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/3504b7787f7d0062.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "rupee",
-    "fed",
-    "india"
-   ],
-   "category": "mcx",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false
-  },
-  {
-   "id": "6aac684f45289e43",
-   "title": "US Market: Fed's Barr backs further rate hikes as inflation risks remain elevated",
-   "summary": "Fed Governor Michael Barr said on Tuesday that elevated energy prices and AI-driven investment were complicating the return to 2% inflation, and further rate increases may be needed. Markets were pricing a strong chance of another 25-basis-point hike at the Fed's October 27-28 meeting.",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-feds-barr-backs-further-rate-hikes-as-inflation-risks-remain-elevated/articleshow/134581258.cms",
-   "source": "Economic Times",
-   "source_domain": "economictimes.indiatimes.com",
-   "publisher_id": "economic-times",
-   "published_at": "2026-09-30T04:20:00Z",
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "tags": [
-    "gold",
-    "fed",
-    "global"
-   ],
-   "breaking": false,
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/6aac684f45289e43.jpg",
-   "image_kind": "photo",
-   "rank": 7
+   "rank": 9
   },
   {
    "id": "4217afa1802750d2",
-   "rank": 8,
+   "rank": 10,
    "title": "Bank of Korea to resume physical gold buying in December after 13-year pause",
    "summary": "The Bank of Korea will finish a transaction and settlement system by December 14, clearing the way to buy about one metric ton of domestic, export-bound gold around mid-month, its first gold purchase since February 2013. The channel, built with the Korea Exchange and the Korea Securities Depository, lets the bank accumulate gold in won; holdings are unchanged at 104.4 tonnes since 2013.",
    "url": "https://www.ajupress.com/view/20260930162623150",
@@ -259,31 +303,6 @@
    "breaking": false,
    "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/4217afa1802750d2.jpg",
    "image_kind": "photo"
-  },
-  {
-   "id": "95c51f1a9d334fae",
-   "rank": 9,
-   "title": "Gold, silver, platinum and palladium rise as China’s September PMI returns to growth",
-   "summary": "COMEX gold rose 0.77% and silver 0.56% by midday in Asia while SHFE gold gained 1.06%, with platinum and palladium also higher, in SMM’s midday review. China’s official September manufacturing PMI came in at 50.1%, back above the expansion threshold, while traders trimmed bets on an imminent Fed hike after New York Fed President Williams said policymakers could wait for more data.",
-   "url": "https://news.metal.com/newscontent/104141814-metals-show-mixed-performance-alumina-leads-the-gains-shfe-nickel-leads-the-declines-coke-gold-silver-platinum-and-palladium-rise-smm-midday-review",
-   "source": "Shanghai Metals Market",
-   "source_domain": "news.metal.com",
-   "publisher_id": "shanghai-metals-market",
-   "published_at": "2026-09-30T06:40:00Z",
-   "image_url": null,
-   "image_kind": "none",
-   "tags": [
-    "gold",
-    "silver",
-    "global",
-    "comex"
-   ],
-   "category": "global",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "breaking": false
   },
   {
    "url": "https://www.kitco.com/news/article/2026-09-29/natixis-sees-gold-price-falling-4100-year-end-three-scenarios-remain-play",
@@ -307,54 +326,55 @@
    ],
    "breaking": false,
    "id": "df557c333850a919",
-   "rank": 10
+   "rank": 11
   },
   {
-   "id": "4ba79548fcede8f8",
-   "rank": 11,
-   "title": "Sovereign Gold Bond (SGB) premature redemption October 2026: 4 exit dates; check deadlines to submit your request",
-   "summary": "Four SGB tranches are due for premature redemption in October 2026: 2019-20 Series V on Oct 15, 2020-21 Series VII on Oct 19, 2020-21 Series I on Oct 28 and 2019-20 Series VI on Oct 30. Investors must submit requests inside each tranche's prescribed window; only the specified tranches are eligible, and payouts are linked to the prevailing gold price under the RBI framework.",
-   "url": "https://upstox.com/news/personal-finance/commodities/gold-bond-premature-redemption-october-2026-4-exit-dates-check-sgb-redemption-request-deadlines/article-201048/",
-   "source": "Upstox",
-   "source_domain": "upstox.com",
-   "published_at": "2026-09-29T07:17:52Z",
-   "image_url": "https://assets.upstox.com/content/assets/images/news/sovereign-gold-bond-sgb-premature-redemption-october-2026.webp",
+   "id": "95c51f1a9d334fae",
+   "rank": 12,
+   "title": "Gold, silver, platinum and palladium rise as China’s September PMI returns to growth",
+   "summary": "COMEX gold rose 0.77% and silver 0.56% by midday in Asia while SHFE gold gained 1.06%, with platinum and palladium also higher, in SMM’s midday review. China’s official September manufacturing PMI came in at 50.1%, back above the expansion threshold, while traders trimmed bets on an imminent Fed hike after New York Fed President Williams said policymakers could wait for more data.",
+   "url": "https://news.metal.com/newscontent/104141814-metals-show-mixed-performance-alumina-leads-the-gains-shfe-nickel-leads-the-declines-coke-gold-silver-platinum-and-palladium-rise-smm-midday-review",
+   "source": "Shanghai Metals Market",
+   "source_domain": "news.metal.com",
+   "publisher_id": "shanghai-metals-market",
+   "published_at": "2026-09-30T06:40:00Z",
+   "image_url": null,
+   "image_kind": "none",
    "tags": [
     "gold",
-    "india",
-    "mcx",
-    "rbi"
+    "silver",
+    "global",
+    "comex"
    ],
-   "category": "policy",
+   "category": "global",
    "metals": [
-    "gold"
+    "gold",
+    "silver"
    ],
-   "breaking": false,
-   "publisher_id": "upstox",
-   "image_kind": "photo"
+   "breaking": false
   },
   {
-   "url": "https://www.livemint.com/market/euro-falls-to-16-month-low-as-hawkish-fed-bets-boost-dollar-11790707107261.html",
-   "title": "Euro Falls to 16-Month Low as Hawkish Fed Bets Boost Dollar",
-   "summary": "The euro dropped as much as 0.5% to $1.1312 on Tuesday, its weakest since May 2025 and its worst month since July 2025, as bets on further Fed hikes powered broad dollar strength. The US 30-year yield rose to its highest since 2002 and the Bloomberg Dollar Spot Index is up about 2% in September — a headwind for dollar-priced gold for Indian buyers.",
-   "source": "Mint",
-   "source_domain": "livemint.com",
-   "publisher_id": "mint",
-   "published_at": "2026-09-30T00:08:00Z",
-   "image_url": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+   "id": "3c5118e99ed96783",
+   "rank": 13,
+   "title": "Silver Tests $62.84 Resistance After the $60.63 Low",
+   "summary": "Silver is testing resistance at $62.84 after bouncing from a $60.63 low, Investing.com’s technical analysis notes, with traders watching whether today’s US PCE inflation data sparks follow-through buying. The piece flags a closing-price reversal off the lows but cautions that elevated Treasury yields and a firm dollar continue to cap rebounds.",
+   "url": "https://www.investing.com/analysis/silver-tests-6284-resistance-after-the-6063-low-200688641",
+   "source": "Investing.com",
+   "source_domain": "investing.com",
+   "publisher_id": "investing",
+   "published_at": "2026-09-30T06:37:14Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/3c5118e99ed96783.jpg",
    "image_kind": "photo",
    "tags": [
-    "gold",
+    "silver",
     "fed",
     "global"
    ],
    "category": "global",
    "metals": [
-    "gold"
+    "silver"
    ],
-   "breaking": false,
-   "id": "02543b52f35212cd",
-   "rank": 12
+   "breaking": false
   },
   {
    "id": "031762e6983d8bdd",
@@ -379,7 +399,31 @@
    "breaking": false,
    "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/031762e6983d8bdd.jpg",
    "image_kind": "photo",
-   "rank": 13
+   "rank": 14
+  },
+  {
+   "id": "4ba79548fcede8f8",
+   "rank": 15,
+   "title": "Sovereign Gold Bond (SGB) premature redemption October 2026: 4 exit dates; check deadlines to submit your request",
+   "summary": "Four SGB tranches are due for premature redemption in October 2026: 2019-20 Series V on Oct 15, 2020-21 Series VII on Oct 19, 2020-21 Series I on Oct 28 and 2019-20 Series VI on Oct 30. Investors must submit requests inside each tranche's prescribed window; only the specified tranches are eligible, and payouts are linked to the prevailing gold price under the RBI framework.",
+   "url": "https://upstox.com/news/personal-finance/commodities/gold-bond-premature-redemption-october-2026-4-exit-dates-check-sgb-redemption-request-deadlines/article-201048/",
+   "source": "Upstox",
+   "source_domain": "upstox.com",
+   "published_at": "2026-09-29T07:17:52Z",
+   "image_url": "https://assets.upstox.com/content/assets/images/news/sovereign-gold-bond-sgb-premature-redemption-october-2026.webp",
+   "tags": [
+    "gold",
+    "india",
+    "mcx",
+    "rbi"
+   ],
+   "category": "policy",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "publisher_id": "upstox",
+   "image_kind": "photo"
   },
   {
    "id": "7f09d320548e899d",
@@ -401,11 +445,11 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 14
+   "rank": 16
   },
   {
    "id": "3379349a44c3a5c5",
-   "rank": 15,
+   "rank": 17,
    "title": "Indians are buying more and more gold without receipt as prices, tax bite",
    "summary": "Import duty on gold and silver has more than doubled to 15%, with 3% GST on retail sales, and a growing share of Indian buyers is turning to under-the-counter cash deals, Bloomberg reported. Traders said cash purchases can shave up to 6% off market prices. Gold remains about 28% costlier than a year ago, and the unofficial trade is picking up ahead of the wedding and festival season.",
    "url": "https://www.livemint.com/money/personal-finance/indians-are-buying-more-and-more-gold-without-receipt-as-prices-tax-bite-11790681805619.html",
@@ -429,7 +473,7 @@
   },
   {
    "id": "95d357299b5eb778",
-   "rank": 16,
+   "rank": 18,
    "title": "OPINION | India’s fondness for gold is a market phenomenon, not a moral problem",
    "summary": "India’s gold imports reflect rational household economics, not cultural excess, argue Harsh Vardhan and Amrita Agarwal in Moneycontrol. With gold doubling in two years, households treat it as an inflation hedge, their most liquid real asset, and trusted loan collateral. Policy should offer better alternatives — relaxed ETF rules, wider access, smarter taxes — instead of moralising about demand.",
    "url": "https://www.moneycontrol.com/news/opinion/india-s-fondness-for-gold-is-a-market-phenomenon-not-a-moral-problem-14041809.html",
@@ -471,11 +515,11 @@
    "breaking": false,
    "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/906750845a5d0e6c.jpg",
    "image_kind": "photo",
-   "rank": 17
+   "rank": 19
   },
   {
    "id": "f2af7c9c9129e994",
-   "rank": 18,
+   "rank": 20,
    "title": "India Gold market cautiously optimistic with approach of festive and wedding seasons",
    "summary": "India's gold market is cautiously optimistic heading into the festive buying season, with wedding demand described as resilient by the World Gold Council even as high prices weigh on jewellery purchases. Domestic gold continues to trade about 2% below import parity, with discounts widening to $78 an ounce as of Sept 11 on adequate local supply.",
    "url": "https://www.fxstreet.com/analysis/india-gold-market-cautiously-optimistic-with-approach-of-festive-and-wedding-seasons-202609281938",
