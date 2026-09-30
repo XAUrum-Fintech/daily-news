@@ -1,7 +1,7 @@
 {
   "schema": "orob-news.v1",
   "edition_id": "2026-09-30T02:00Z",
-  "generated_at": "2026-09-30T02:04:44Z",
+  "generated_at": "2026-09-30T02:34:48Z",
   "window": {
     "from": "2026-09-30T00:00:00Z",
     "to": "2026-09-30T02:00:00Z"
@@ -78,7 +78,9 @@
         "gold",
         "silver"
       ],
-      "breaking": false
+      "breaking": false,
+      "publisher_id": "kitco",
+      "image_kind": "photo"
     },
     {
       "id": "64a7629730f70502",
@@ -88,7 +90,7 @@
       "source": "Economic Times",
       "source_domain": "economictimes.indiatimes.com",
       "published_at": "2026-09-29T19:47:39Z",
-      "image_url": "https://img.etimg.com/thumb/msid-134573634,width-1200,height-630,imgsize-101344,overlay-etmarkets/articleshow.jpg",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/64a7629730f70502.jpg",
       "category": "global",
       "metals": [
         "gold",
@@ -101,7 +103,9 @@
         "global"
       ],
       "breaking": false,
-      "rank": 2
+      "rank": 2,
+      "publisher_id": "economic-times",
+      "image_kind": "photo"
     },
     {
       "id": "17c51d826fa061a6",
@@ -112,7 +116,7 @@
       "source": "Business Standard",
       "source_domain": "business-standard.com",
       "published_at": "2026-09-29T13:11:59Z",
-      "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/31/thumb/fitandfill/1200X628/1788168485-4915.jpg",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/17c51d826fa061a6.jpg",
       "tags": [
         "gold",
         "mcx",
@@ -122,7 +126,9 @@
       "metals": [
         "gold"
       ],
-      "breaking": false
+      "breaking": false,
+      "publisher_id": "business-standard",
+      "image_kind": "photo"
     },
     {
       "id": "821c607a8a19d297",
@@ -133,7 +139,7 @@
       "source": "Economic Times",
       "source_domain": "economictimes.indiatimes.com",
       "published_at": "2026-09-29T11:50:00Z",
-      "image_url": "https://img.etimg.com/thumb/msid-134565246,width-1200,height-630,imgsize-35218,overlay-etmarkets/articleshow.jpg",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/821c607a8a19d297.jpg",
       "tags": [
         "gold",
         "rupee",
@@ -145,7 +151,9 @@
       "metals": [
         "gold"
       ],
-      "breaking": false
+      "breaking": false,
+      "publisher_id": "economic-times",
+      "image_kind": "photo"
     },
     {
       "id": "929bbb90a021f5aa",
@@ -155,7 +163,7 @@
       "source": "Kitco",
       "source_domain": "kitco.com",
       "published_at": "2026-09-29T20:11:00Z",
-      "image_url": "https://image-api.prod.kitco.com/image/1b0b1d7d-d685-43e4-bcb5-6240b0b224f5.png?top=0.15981657608696&left=0&width=1672&height=940.68036684783&scale_width=1920&token=b8bfe570dbd960f458152a7938069a225853f4af33890eb58202d5a42cfa2eba",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/929bbb90a021f5aa.jpg",
       "category": "global",
       "metals": [
         "gold"
@@ -167,7 +175,9 @@
         "global"
       ],
       "breaking": false,
-      "rank": 5
+      "rank": 5,
+      "publisher_id": "kitco",
+      "image_kind": "photo"
     },
     {
       "id": "85fa66de0af8c7da",
@@ -178,7 +188,7 @@
       "source": "CNBC-TV18",
       "source_domain": "cnbctv18.com",
       "published_at": "2026-09-29T04:00:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-silver.jpg",
+      "image_url": null,
       "tags": [
         "silver",
         "mcx",
@@ -190,7 +200,9 @@
       "metals": [
         "silver"
       ],
-      "breaking": false
+      "breaking": false,
+      "publisher_id": "cnbc-tv18",
+      "image_kind": "none"
     },
     {
       "id": "c2cf4f2ca1636056",
@@ -201,7 +213,7 @@
       "source": "FXStreet",
       "source_domain": "fxstreet.com",
       "published_at": "2026-09-29T17:19:03Z",
-      "image_url": "https://editorial.fxsstatic.com/images/i/Silver4_Medium.png",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/c2cf4f2ca1636056.jpg",
       "tags": [
         "silver",
         "fed",
@@ -211,7 +223,9 @@
       "metals": [
         "silver"
       ],
-      "breaking": false
+      "breaking": false,
+      "publisher_id": "fxstreet",
+      "image_kind": "photo"
     },
     {
       "id": "8c0ccb795837cad3",
@@ -222,7 +236,7 @@
       "source": "BullionVault",
       "source_domain": "bullionvault.com",
       "published_at": "2026-09-29T15:09:51Z",
-      "image_url": "https://www.bullionvault.com/gold-news/sites/default/files/inline-images/2026-09-29-sge-premium.png",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/8c0ccb795837cad3.jpg",
       "tags": [
         "gold",
         "silver",
@@ -234,7 +248,9 @@
         "gold",
         "silver"
       ],
-      "breaking": false
+      "breaking": false,
+      "publisher_id": "bullionvault",
+      "image_kind": "photo"
     },
     {
       "id": "3379349a44c3a5c5",
@@ -256,7 +272,9 @@
       "metals": [
         "gold"
       ],
-      "breaking": false
+      "breaking": false,
+      "publisher_id": "mint",
+      "image_kind": "photo"
     },
     {
       "id": "668d2f0501be4545",
@@ -279,7 +297,9 @@
         "gold",
         "silver"
       ],
-      "breaking": false
+      "breaking": false,
+      "publisher_id": "ians",
+      "image_kind": "photo"
     },
     {
       "id": "f93a9ea1dc50c6fe",
@@ -290,7 +310,7 @@
       "source": "Mint",
       "source_domain": "livemint.com",
       "published_at": "2026-09-28T09:03:25Z",
-      "image_url": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/gold_etf_1790586155243_cAGI_1790586155401_LSGT_36f5e37f-6e7b-44fd-8727-32bd66d6702c_uvkG.png",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/f93a9ea1dc50c6fe.jpg",
       "tags": [
         "gold",
         "silver",
@@ -302,7 +322,9 @@
         "gold",
         "silver"
       ],
-      "breaking": false
+      "breaking": false,
+      "publisher_id": "mint",
+      "image_kind": "photo"
     },
     {
       "id": "f2af7c9c9129e994",
@@ -313,7 +335,7 @@
       "source": "FXStreet",
       "source_domain": "fxstreet.com",
       "published_at": "2026-09-28T19:38:09Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-gold.jpg",
+      "image_url": null,
       "tags": [
         "gold",
         "india",
@@ -323,7 +345,9 @@
       "metals": [
         "gold"
       ],
-      "breaking": false
+      "breaking": false,
+      "publisher_id": "fxstreet",
+      "image_kind": "none"
     },
     {
       "id": "4ba79548fcede8f8",
@@ -345,7 +369,9 @@
       "metals": [
         "gold"
       ],
-      "breaking": false
+      "breaking": false,
+      "publisher_id": "upstox",
+      "image_kind": "photo"
     },
     {
       "id": "25479eca4842b9c4",
@@ -355,7 +381,7 @@
       "source": "USA Today",
       "source_domain": "usatoday.com",
       "published_at": "2026-09-28T14:00:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-metals.jpg",
+      "image_url": null,
       "category": "global",
       "metals": [
         "gold",
@@ -367,7 +393,9 @@
         "global"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 14,
+      "publisher_id": "usa-today",
+      "image_kind": "none"
     }
   ]
 }
