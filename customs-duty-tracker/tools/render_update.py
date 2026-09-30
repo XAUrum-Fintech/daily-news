@@ -142,7 +142,7 @@ def verify_links(last):
     return "\n".join(lines)
 
 
-def render(rows):
+def render(rows, schema):
     last = rows[-1]
     prev = rows[-2] if len(rows) > 1 else None
 
@@ -181,8 +181,8 @@ def render(rows):
         verify_links(last),
         "",
         "---",
-        "*Generated from `latest.json` (schema customs-tracker.v2). "
-        "Machine-owned \u2014 do not hand-edit.*",
+        "*Generated from `latest.json` (schema %s). "
+        "Machine-owned \u2014 do not hand-edit.*" % schema,
         "",
     ]
     return "\n".join(lines)
@@ -194,7 +194,7 @@ def main():
     args = ap.parse_args()
     with open(os.path.join(args.tracker_dir, "latest.json")) as f:
         latest = json.load(f)
-    md = render(latest["rows"])
+    md = render(latest["rows"], latest.get("schema", "customs-tracker.v3"))
     out = os.path.join(args.tracker_dir, "latest.md")
     with open(out, "w") as f:
         f.write(md)
