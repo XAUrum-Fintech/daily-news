@@ -1,61 +1,120 @@
 {
   "schema": "orob-news.v1",
   "edition_id": "2026-10-01T12:00Z",
-  "generated_at": "2026-10-01T12:01:37Z",
+  "generated_at": "2026-10-01T13:03:30Z",
   "window": {
-    "from": "2026-10-01T11:00:00Z",
+    "from": "2026-10-01T10:00:00Z",
     "to": "2026-10-01T12:00:00Z"
   },
   "insights": {
-    "headline": "Yields at 24-year high cap gold near $4,167 as traders slash October Fed-hike bets",
-    "summary": "The 10-year US Treasury yield hit 5.34%, its highest since 2002, while the dollar index touched a year-to-date high of 101.85, capping gold near $4,167 and knocking the Sensex over 1,000 points. Softer US inflation cut October Fed-hike odds to about 37% and lifted MCX gold ₹607 to ~₹1,49,434 and silver ₹2,828 to ~₹2,25,680. IBJA's Kothari flags broken supports at $4,250 in gold and $62.5 in silver, while Morgan Stanley's Gower expects gold back above $5,000/oz within a year.",
+    "headline": "Rupee sinks to two-month low of 96.32 as bond rout deepens; RBI hike expected October 7",
+    "summary": "The rupee fell 0.5% to 96.3150 per dollar — its weakest in two months — as global bond yields surged and Brent crude reclaimed $100 after China suspended oil product exports. India's 10-year yield rose to 7.2133%, its highest since April 2024, with traders expecting the RBI’s first rate hike in nearly four years on October 7. Gold held near $4,167 as a 24-year high in US Treasury yields offset fading October Fed-hike bets, while MCX gold futures rose ₹607 and silver jumped ₹2,828.",
     "points": [
-      "10-yr US yield 5.34%, highest since 2002; dollar index at year-to-date high 101.85; Sensex -1,000+ pts.",
-      "October Fed-hike odds cut to ~37% on soft PCE; MCX gold +₹607 (~₹1,49,434), silver +₹2,828 (~₹2,25,680).",
-      "IBJA's Kothari: gold broke $4,250 support, eyes $4,100/$4,000; silver broke $62.5 neckline, $60/$57 next.",
-      "Morgan Stanley's Gower expects gold above $5,000/oz within a year on central-bank and ETF demand.",
-      "Analysts see festive demand ahead of Dhanteras-Diwali shaping the near-term outlook after September's slide."
+      "US 10-year yield touched 5.34%, highest since 2002, capping gold near $4,167 even as soft August PCE cut October Fed-hike odds to about 37%.",
+      "ADP reported 90,000 September US jobs vs 73,000 expected, giving the Fed room to keep fighting inflation — a fresh headwind for gold.",
+      "MCX gold futures rose ₹607 to about ₹1,49,434 per 10 grams; silver’s December contract jumped ₹2,828 to about ₹2,25,680 per kg.",
+      "IBJA president Kothari: gold broke $4,250 support and eyes $4,100; silver’s $62.5 neckline gave way ahead of US jobs data.",
+      "Festive buying ahead of Dhanteras and Diwali could support demand, though jewellers expect lighter ticket sizes at these prices."
     ]
   },
   "trending": [
     {
       "title": "Bond rout vs. rate-hold bets: gold caught in the middle",
-      "summary": "The 10-year yield's surge to a 24-year high keeps pressuring metals, but softer US inflation slashed October-hike odds to ~37%, steadying gold near $4,167 and lifting MCX futures.",
+      "summary": "A 24-year high in US yields and strong jobs data cap gold, but soft inflation keeps October Fed-hike bets fading — with India’s own 10-year at a mid-2024 high ahead of an expected RBI hike.",
       "item_ids": [
         "5fa8b58b813124aa",
-        "11a1764c35c011a2",
         "db503a946d99df3c",
-        "2cca5ca9e2c54a10",
-        "18f2b7d4c6decb53"
+        "aeea48c194dd9bf8",
+        "c7f946c9e03e9bb4",
+        "3bc10e8556c8fc55"
+      ]
+    },
+    {
+      "title": "Rupee's slide raises the local price of gold",
+      "summary": "The rupee’s sharpest one-day fall in two months to 96.32 directly lifts domestic bullion prices; economists expect further weakness into H2FY27 as RBI intervention turns cautious.",
+      "item_ids": [
+        "eeb10b8b81c710ec",
+        "eab567c6e983b18b"
       ]
     },
     {
       "title": "Silver's $60 test",
-      "summary": "Silver slipped to a four-week low near $60 as yields spiked and broke below $62.5 resistance; Kothari sees $60 and $57 next, even as MCX silver jumped ₹2,828.",
+      "summary": "Silver slipped to a four-week low near $60 as Treasury yields surged, though MCX silver still jumped nearly ₹2,830 on domestic buying after September’s 13.5% slide.",
       "item_ids": [
         "911df639f6f25a04",
-        "18f2b7d4c6decb53",
-        "2cca5ca9e2c54a10"
+        "2cca5ca9e2c54a10",
+        "22e3f9938ce1b878"
       ]
     },
     {
       "title": "Festive demand takes the spotlight",
-      "summary": "With Dhanteras and Diwali nearing, analysts map how seasonal buying could shape prices after September's slide; Mint's experts see firm but range-bound prices ahead.",
+      "summary": "With Dhanteras and Diwali approaching, jewellers expect resilient volumes but lighter ticket sizes and more old-gold exchanges after September’s 6%+ fall.",
       "item_ids": [
         "440657d2dc8c323f",
-        "12aa6a11450bbf51"
+        "12aa6a11450bbf51",
+        "4ccb7feb323da2c5"
       ]
     },
     {
       "title": "Central banks keep buying",
-      "summary": "Morgan Stanley's Gower expects gold back above $5,000/oz within a year on central-bank and ETF demand; the Bank of Korea plans its first gold purchase since 2013.",
+      "summary": "South Korea’s central bank will buy gold for the first time since 2013, and Morgan Stanley sees $5,000/oz in H2 2027 on sustained central-bank and ETF demand.",
       "item_ids": [
-        "71aac83d331cd75f",
-        "4217afa1802750d2"
+        "4217afa1802750d2",
+        "71aac83d331cd75f"
       ]
     }
   ],
   "items": [
+    {
+      "id": "eeb10b8b81c710ec",
+      "title": "Rupee drops to two-month low as global bond rout deepens, oil jumps",
+      "summary": "The rupee fell 0.5% to 96.3150 per dollar, its weakest in two months and sharpest single-day drop in over two months, the Economic Times reports. Surging global bond yields and Brent crude reclaiming $100 — after China suspended oil product exports — pressured the currency; dollar sales by state-run banks limited the fall.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-drops-to-two-month-low-as-global-bond-rout-deepens-oil-jumps/articleshow/134615636.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-10-01T10:22:24Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/eeb10b8b81c710ec.jpg",
+      "image_kind": "photo",
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "rupee",
+        "mcx",
+        "india"
+      ],
+      "breaking": false,
+      "rank": 1
+    },
+    {
+      "id": "aeea48c194dd9bf8",
+      "title": "Global bond rout hoists benchmark Indian yield to mid-2024 high before RBI policy",
+      "summary": "India's benchmark 10-year yield rose 3 bps to 7.2133% on Thursday, its highest since April 2024, as a global bond selloff cemented expectations of an RBI rate hike next week, the Economic Times reports. The US 10-year at 5.30% has squeezed the spread to the tightest in over a year; the RBI is expected to deliver its first hike in nearly four years on October 7.",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/global-bond-rout-hoists-benchmark-indian-yield-to-mid-2024-high-before-rbi-policy/articleshow/134619359.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-10-01T12:34:27Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/aeea48c194dd9bf8.jpg",
+      "image_kind": "photo",
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "rbi",
+        "mcx",
+        "india"
+      ],
+      "breaking": false,
+      "rank": 2
+    },
     {
       "id": "5fa8b58b813124aa",
       "title": "Gold struggles as rising US Treasury yields outweigh dovish Fed repricing",
@@ -78,32 +137,7 @@
         "comex",
         "global"
       ],
-      "rank": 1
-    },
-    {
-      "id": "11a1764c35c011a2",
-      "title": "US 10-year yield at 24-year high rattles Nifty, rupee and bond markets. Why is India hit hard?",
-      "summary": "The US 10-year Treasury yield climbed to 5.34% on Thursday, its highest since early 2002 and above its 2007 peak, deepening a global bond sell-off. ET reports the Sensex fell over 1,000 points, the rupee slipped to 95.98 per dollar, and nearly Rs 10 lakh crore of investor wealth was wiped out as higher US yields raised fears of FII outflows and RBI-policy pressure.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/us-10-year-yield-at-24-year-high-rattles-nifty-rupee-and-bond-markets-why-is-india-hit-hard/articleshow/134613973.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "publisher_id": "economic-times",
-      "published_at": "2026-10-01T09:12:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/11a1764c35c011a2.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "global",
-        "rupee",
-        "fed",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "db503a946d99df3c",
@@ -128,7 +162,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "2cca5ca9e2c54a10",
@@ -153,7 +187,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "18f2b7d4c6decb53",
@@ -179,7 +213,53 @@
         "comex",
         "global"
       ],
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "id": "c7f946c9e03e9bb4",
+      "title": "Gold faces new headwinds as ADP reports strong private-sector job growth",
+      "summary": "ADP said 90,000 US jobs were created in September, well above the 73,000 consensus and up from 36,000 in August, Kitco reports. The resilient labor market gives the Federal Reserve room to keep fighting inflation, pressuring gold; spot held near $4,184. Some analysts say gold needs clear labor-market weakness to rally back above $4,300.",
+      "url": "https://www.kitco.com/news/article/2026-09-30/gold-faces-new-headwinds-adp-reports-strong-private-sector-job-growth",
+      "source": "Kitco",
+      "source_domain": "kitco.com",
+      "publisher_id": "kitco",
+      "published_at": "2026-09-30T14:00:00Z",
+      "image_url": "https://image-api.prod.kitco.com/image/4483dab0-8260-471c-b190-bb23c8f7dfc2.jpeg?top=48.336538461538&left=0&width=640&height=360.32692307692&scale_width=1920&token=338eaf03364f9518a13e991ce1425cb6230e9736476839108e46a9d452bff430",
+      "image_kind": "photo",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "fed",
+        "global"
+      ],
+      "breaking": false,
+      "rank": 7
+    },
+    {
+      "id": "911df639f6f25a04",
+      "title": "Silver Price Forecast: XAG/USD seems vulnerable near $60 amid soaring US Treasury Yields",
+      "summary": "Spot silver slipped about 1.5% to a four-week low near $60 as the 10-year US Treasury yield hit a fresh two-decade high near 5.3%, FXStreet reports. Traders trimmed bets on a hawkish Fed after soft US inflation data, and the technical picture stays bearish below $62.19 resistance.",
+      "url": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-seems-vulnerable-near-60-amid-soaring-us-treasury-yields-202610010847",
+      "source": "FXStreet",
+      "source_domain": "fxstreet.com",
+      "publisher_id": "fxstreet",
+      "published_at": "2026-10-01T08:47:45Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/911df639f6f25a04.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "silver",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 8
     },
     {
       "id": "71aac83d331cd75f",
@@ -204,53 +284,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 6
-    },
-    {
-      "id": "911df639f6f25a04",
-      "title": "Silver Price Forecast: XAG/USD seems vulnerable near $60 amid soaring US Treasury Yields",
-      "summary": "Spot silver slipped about 1.5% to a four-week low near $60 as the 10-year US Treasury yield hit a fresh two-decade high near 5.3%, FXStreet reports. Traders trimmed bets on a hawkish Fed after soft US inflation data, and the technical picture stays bearish below $62.19 resistance.",
-      "url": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-seems-vulnerable-near-60-amid-soaring-us-treasury-yields-202610010847",
-      "source": "FXStreet",
-      "source_domain": "fxstreet.com",
-      "publisher_id": "fxstreet",
-      "published_at": "2026-10-01T08:47:45Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/911df639f6f25a04.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "silver",
-        "global",
-        "fed"
-      ],
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 7
-    },
-    {
-      "id": "ec71e4ee1e666a1d",
-      "title": "Gold price could have a ‘shinier Q4’ despite 20-year highs in bond yields - FOREX.com's Razaqzada",
-      "summary": "FOREX.com's Fawad Razaqzada is cautiously optimistic on gold into year-end, arguing its resilience between $4,100 and $4,500 through Q3 — despite 10-year yields at 20-year highs — sets up a stronger Q4. A reopening of the Strait of Hormuz could see central banks pause rate hikes, which would help bullion, he says.",
-      "url": "https://www.kitco.com/news/article/2026-09-30/gold-price-could-have-shinier-q4-despite-20-year-highs-bond-yields",
-      "source": "Kitco",
-      "source_domain": "kitco.com",
-      "publisher_id": "kitco",
-      "published_at": "2026-09-30T17:48:10Z",
-      "image_url": "https://image-api.prod.kitco.com/image/d6118130-7b6c-4d09-8e52-6f7314aec214.jpeg?top=0.15965290381125&left=0&width=1000&height=562.68069419238&scale_width=1920&token=88eef64b87376e6cadd7da657bc32ae8618a70d8200d0e294a0d54985c983c12",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "global",
-        "fed"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "3bc10e8556c8fc55",
@@ -273,7 +307,32 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 10
+    },
+    {
+      "id": "22e3f9938ce1b878",
+      "title": "Gold Down 8.5% in Sept, Silver -13.5% as Real Yields 'Re-Price Fast'",
+      "summary": "Gold fell 8.5% and silver 13.5% in September as real yields repriced sharply higher, BullionVault reports. Inflation-protected 10-year Treasury yields jumped the most in four years to near a record high — the most negative nine-month gold-real-yield stretch since 2020. Conventional 10-year yields still offered 5.24% at month-end after their steepest monthly rise since September 2023.",
+      "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-prices-real-rates-093020261",
+      "source": "BullionVault",
+      "source_domain": "bullionvault.com",
+      "publisher_id": "bullionvault",
+      "published_at": "2026-09-30T14:25:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/22e3f9938ce1b878.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 11
     },
     {
       "id": "440657d2dc8c323f",
@@ -299,7 +358,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 12
     },
     {
       "id": "12aa6a11450bbf51",
@@ -323,7 +382,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 13
     },
     {
       "id": "4ccb7feb323da2c5",
@@ -343,54 +402,6 @@
         "fed"
       ],
       "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 12
-    },
-    {
-      "id": "22e3f9938ce1b878",
-      "title": "Gold Down 8.5% in Sept, Silver -13.5% as Real Yields 'Re-Price Fast'",
-      "summary": "Gold fell 8.5% and silver 13.5% in September as real yields repriced sharply higher, BullionVault reports. Inflation-protected 10-year Treasury yields jumped the most in four years to near a record high — the most negative nine-month gold-real-yield stretch since 2020. Conventional 10-year yields still offered 5.24% at month-end after their steepest monthly rise since September 2023.",
-      "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-prices-real-rates-093020261",
-      "source": "BullionVault",
-      "source_domain": "bullionvault.com",
-      "publisher_id": "bullionvault",
-      "published_at": "2026-09-30T14:25:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/22e3f9938ce1b878.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "fed",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 13
-    },
-    {
-      "id": "4217afa1802750d2",
-      "title": "BOK to add gold to its coffers for the first time since 2013",
-      "summary": "The Bank of Korea will buy about one metric ton of domestically produced gold in December — its first physical purchase since February 2013, Aju Press reports. A settlement system completes December 14; the gold will be bought in won via KRX/KSD from domestic output. The BOK held 104.4 tonnes at end-August and resumed gold exposure via a $250 million gold ETF position in Q2.",
-      "url": "https://www.ajupress.com/view/20260930162623150",
-      "source": "Aju Press",
-      "source_domain": "ajupress.com",
-      "publisher_id": "aju-press",
-      "published_at": "2026-09-30T07:47:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/4217afa1802750d2.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "central-banks",
-        "global"
-      ],
-      "category": "global",
       "metals": [
         "gold"
       ],
@@ -425,6 +436,29 @@
       "rank": 15
     },
     {
+      "id": "4217afa1802750d2",
+      "title": "BOK to add gold to its coffers for the first time since 2013",
+      "summary": "The Bank of Korea will buy about one metric ton of domestically produced gold in December — its first physical purchase since February 2013, Aju Press reports. A settlement system completes December 14; the gold will be bought in won via KRX/KSD from domestic output. The BOK held 104.4 tonnes at end-August and resumed gold exposure via a $250 million gold ETF position in Q2.",
+      "url": "https://www.ajupress.com/view/20260930162623150",
+      "source": "Aju Press",
+      "source_domain": "ajupress.com",
+      "publisher_id": "aju-press",
+      "published_at": "2026-09-30T07:47:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/4217afa1802750d2.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "central-banks",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 16
+    },
+    {
       "id": "eab567c6e983b18b",
       "title": "Rupee to fall more, yield curve to shift higher in H2FY27: Gaura Sengupta",
       "summary": "IDFC First Bank chief economist Gaura Sengupta expects the rupee to depreciate further in H2FY27 as RBI intervention turns more cautious now that the FCNR(B) window has closed — the $133 billion mobilised is borrowed money to be repaid in three years. Persistent dollar strength and high US yields keep foreign capital away, pushing the G-sec yield curve higher.",
@@ -448,7 +482,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 16
+      "rank": 17
     },
     {
       "id": "5d3857cc65c48eec",
@@ -471,7 +505,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 17
+      "rank": 18
     },
     {
       "id": "580a2f79ed237971",
@@ -494,7 +528,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 18
+      "rank": 19
     }
   ]
 }
