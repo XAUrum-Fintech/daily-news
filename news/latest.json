@@ -1,45 +1,47 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-01T10:00Z",
-  "generated_at": "2026-10-01T10:05:35Z",
+  "edition_id": "2026-10-01T11:00Z",
+  "generated_at": "2026-10-01T11:01:36Z",
   "window": {
-    "from": "2026-10-01T09:00:00Z",
-    "to": "2026-10-01T10:00:00Z"
+    "from": "2026-10-01T10:00:00Z",
+    "to": "2026-10-01T11:00:00Z"
   },
   "insights": {
     "headline": "US 10-year yield hits 24-year high, rattling Indian markets as gold steadies on rate-hold bets",
-    "summary": "The US 10-year Treasury yield surged to 5.34%, its highest since early 2002, deepening a global bond sell-off that knocked the Sensex down over 1,000 points and pushed the rupee to 95.98 per dollar. Softer US inflation data, however, strengthened expectations that the Fed will hold rates, lifting MCX gold futures ₹607 to about ₹1,49,434 and silver’s December contract ₹2,828 to about ₹2,25,680. Silver still slipped to a four-week low near $60 as the yield surge kept pressure on precious metals. Ahead of Dhanteras and Diwali, analysts are watching how festive demand shapes the near-term outlook.",
+    "summary": "The US 10-year Treasury yield surged to 5.34%, its highest since early 2002, deepening a bond sell-off that knocked the Sensex down over 1,000 points and pushed the rupee to 95.98/$. Softer US inflation data strengthened Fed rate-hold bets, lifting MCX gold ₹607 to ~₹1,49,434 and silver ₹2,828 to ~₹2,25,680. Morgan Stanley’s Gower expects gold back above $5,000/oz within a year on central-bank demand; FOREX.com’s Razaqzada sees a ‘shinier Q4’.",
     "points": [
       "10-yr US yield hit 5.34%, a 24-yr high; Sensex fell 1,000+ pts, rupee slid to 95.98/$.",
       "MCX gold +₹607 to ~₹1,49,434; silver Dec +₹2,828 to ~₹2,25,680 on Fed rate-hold bets.",
       "Spot silver fell 1.5% to a 4-week low near $60; bearish below $62.19 resistance.",
-      "Gold/silver futures edged up ahead of Dhanteras-Diwali; analysts eye festive demand.",
+      "Morgan Stanley's Gower sees gold above $5,000/oz in H2 2027 on central-bank buying.",
       "GJC warns the hallmarking fee hike (Rs 45→75) could spur fake-stamp fraud by jewellers."
     ]
   },
   "trending": [
     {
       "title": "Bond rout vs. rate-hold hopes: gold caught in the middle",
-      "summary": "Softer US inflation cooled October Fed-hike bets and lifted bullion, but the 10-year yield’s surge to a 24-year high keeps pressuring non-yielding metals — the push-pull defined Thursday’s trade.",
+      "summary": "Softer US inflation cooled October Fed-hike bets and lifted bullion, but the 10-year yield's 24-year high keeps pressuring metals; FOREX.com's Razaqzada still sees a 'shinier Q4' on gold's resilience.",
       "item_ids": [
         "11a1764c35c011a2",
         "db503a946d99df3c",
         "3bc10e8556c8fc55",
-        "2cca5ca9e2c54a10"
+        "2cca5ca9e2c54a10",
+        "ec71e4ee1e666a1d"
       ]
     },
     {
       "title": "Silver's $60 test",
-      "summary": "Silver slid 1.5% to a four-week low near $60 as yields spiked, staying bearish below $62.19 resistance, even as MCX silver jumped ₹2,828 on rate-hold expectations.",
+      "summary": "Silver slid 1.5% to a four-week low near $60 as yields spiked, staying bearish below $62.19; Morgan Stanley's Gower says its earlier run to $120 was driven by more than hype.",
       "item_ids": [
         "911df639f6f25a04",
         "2cca5ca9e2c54a10",
-        "22e3f9938ce1b878"
+        "22e3f9938ce1b878",
+        "71aac83d331cd75f"
       ]
     },
     {
       "title": "Festive demand takes the spotlight",
-      "summary": "With Dhanteras and Diwali nearing, analysts map how seasonal buying could shape prices after September’s slide; Mint’s experts see firm but range-bound gold through the festival and wedding season.",
+      "summary": "With Dhanteras and Diwali nearing, analysts map how seasonal buying could shape prices after September's slide; Mint's experts see firm but range-bound prices ahead.",
       "item_ids": [
         "440657d2dc8c323f",
         "12aa6a11450bbf51"
@@ -55,26 +57,25 @@
     },
     {
       "title": "Institutions keep buying gold",
-      "summary": "South Korea’s central bank is preparing its first gold purchase since 2013, and the WGC showcased pension funds allocating 2–5% to gold for diversification and geopolitical resilience.",
+      "summary": "South Korea's central bank is preparing its first gold purchase since 2013, and Morgan Stanley's Gower points to China's imports running at their highest since 2017.",
       "item_ids": [
         "4217afa1802750d2",
-        "b7f074a63ab43e8e"
+        "71aac83d331cd75f"
       ]
     }
   ],
   "items": [
     {
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/us-10-year-yield-at-24-year-high-rattles-nifty-rupee-and-bond-markets-why-is-india-hit-hard/articleshow/134613973.cms",
+      "id": "11a1764c35c011a2",
       "title": "US 10-year yield at 24-year high rattles Nifty, rupee and bond markets. Why is India hit hard?",
       "summary": "The US 10-year Treasury yield climbed to 5.34% on Thursday, its highest since early 2002 and above its 2007 peak, deepening a global bond sell-off. ET reports the Sensex fell over 1,000 points, the rupee slipped to 95.98 per dollar, and nearly Rs 10 lakh crore of investor wealth was wiped out as higher US yields raised fears of FII outflows and RBI-policy pressure.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/us-10-year-yield-at-24-year-high-rattles-nifty-rupee-and-bond-markets-why-is-india-hit-hard/articleshow/134613973.cms",
       "source": "Economic Times",
       "source_domain": "economictimes.indiatimes.com",
       "publisher_id": "economic-times",
       "published_at": "2026-10-01T09:12:00Z",
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/11a1764c35c011a2.jpg",
+      "image_kind": "photo",
       "tags": [
         "gold",
         "global",
@@ -82,18 +83,15 @@
         "fed",
         "india"
       ],
-      "breaking": false,
-      "related_urls": [
-        "https://www.wsj.com/finance/investing/surging-yields-bring-the-bond-market-back-to-the-turn-of-the-century-2b74773f"
+      "category": "global",
+      "metals": [
+        "gold"
       ],
-      "image_kind": "photo",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/11a1764c35c011a2.jpg",
-      "id": "11a1764c35c011a2",
+      "breaking": false,
       "rank": 1
     },
     {
       "id": "db503a946d99df3c",
-      "rank": 2,
       "title": "Gold inches higher as softer US inflation dims October Fed hike bets",
       "summary": "Gold edged up Thursday after soft US inflation data cooled October Fed-hike bets, Reuters reports. Spot gold rose 0.5% to $4,175.19 after August PCE came in below forecasts; December futures gained 0.4% to $4,204.80. October-hike odds fell to 38% from 45%, though a December move is still priced at 97%. A firm dollar capped gains; silver rose 1.2% to $61.11. Friday’s payrolls report is next.",
       "url": "https://www.reuters.com/world/india/gold-inches-higher-softer-us-inflation-dims-october-fed-hike-bets-2026-10-01/",
@@ -109,67 +107,112 @@
         "fed",
         "global"
       ],
+      "category": "global",
       "metals": [
         "gold",
         "silver"
       ],
-      "category": "global",
-      "breaking": false
+      "breaking": false,
+      "rank": 2
     },
     {
-      "url": "https://www.business-standard.com/markets/commodities/gold-rises-607-as-rate-hold-expectations-strengthen-silver-jumps-2-828-126100100452_1.html",
+      "id": "2cca5ca9e2c54a10",
       "title": "Gold rises ₹607 as rate-hold expectations strengthen; silver jumps ₹2,828",
       "summary": "MCX gold futures rose ₹607 to about ₹1,49,434 per 10 grams while silver’s December contract jumped ₹2,828 to about ₹2,25,680 per kg, Business Standard reports. Lower-than-expected US inflation data strengthened expectations that the Fed will hold rates, with Comex gold trading near $4,200 an ounce.",
+      "url": "https://www.business-standard.com/markets/commodities/gold-rises-607-as-rate-hold-expectations-strengthen-silver-jumps-2-828-126100100452_1.html",
       "source": "Business Standard",
       "source_domain": "business-standard.com",
       "publisher_id": "business-standard",
       "published_at": "2026-10-01T07:05:00Z",
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/2cca5ca9e2c54a10.jpg",
+      "image_kind": "photo",
       "tags": [
         "gold",
         "silver",
         "mcx",
         "india"
       ],
-      "breaking": false,
-      "related_urls": [
-        "https://www.ndtvprofit.com/markets/gold-glitters-silver-shines-yellow-metal-prices-jump-by-over-rs-1-500-white-metal-surges-by-rs-3-000-12123767"
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
       ],
-      "image_kind": "photo",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/2cca5ca9e2c54a10.jpg",
-      "id": "2cca5ca9e2c54a10",
+      "breaking": false,
       "rank": 3
     },
     {
-      "url": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-seems-vulnerable-near-60-amid-soaring-us-treasury-yields-202610010847",
+      "id": "71aac83d331cd75f",
+      "title": "Gold price will break $5,000/oz in H2 2027, and silver's run to $120 was driven by more than hype – Morgan Stanley's Gower",
+      "summary": "Morgan Stanley's Amy Gower expects gold to trade back above $5,000/oz within a year, citing strong central-bank and ETF demand — she notes China's gold imports are on track for their highest since 2017. She sees support above $4,000/oz as fiscal-sustainability worries underpin prices, and says silver's run to $120 was driven by more than hype.",
+      "url": "https://www.kitco.com/news/article/2026-09-30/gold-price-will-break-5000oz-h2-2027-and-silvers-run-120-was-driven-more",
+      "source": "Kitco",
+      "source_domain": "kitco.com",
+      "publisher_id": "kitco",
+      "published_at": "2026-09-30T18:48:10Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/71aac83d331cd75f.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "global",
+        "central-banks"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 4
+    },
+    {
+      "id": "911df639f6f25a04",
       "title": "Silver Price Forecast: XAG/USD seems vulnerable near $60 amid soaring US Treasury Yields",
       "summary": "Spot silver slipped about 1.5% to a four-week low near $60 as the 10-year US Treasury yield hit a fresh two-decade high near 5.3%, FXStreet reports. Traders trimmed bets on a hawkish Fed after soft US inflation data, and the technical picture stays bearish below $62.19 resistance.",
+      "url": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-seems-vulnerable-near-60-amid-soaring-us-treasury-yields-202610010847",
       "source": "FXStreet",
       "source_domain": "fxstreet.com",
       "publisher_id": "fxstreet",
       "published_at": "2026-10-01T08:47:45Z",
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/911df639f6f25a04.jpg",
+      "image_kind": "photo",
       "tags": [
         "silver",
         "global",
         "fed"
       ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
       "breaking": false,
+      "rank": 5
+    },
+    {
+      "id": "ec71e4ee1e666a1d",
+      "title": "Gold price could have a ‘shinier Q4’ despite 20-year highs in bond yields - FOREX.com's Razaqzada",
+      "summary": "FOREX.com's Fawad Razaqzada is cautiously optimistic on gold into year-end, arguing its resilience between $4,100 and $4,500 through Q3 — despite 10-year yields at 20-year highs — sets up a stronger Q4. A reopening of the Strait of Hormuz could see central banks pause rate hikes, which would help bullion, he says.",
+      "url": "https://www.kitco.com/news/article/2026-09-30/gold-price-could-have-shinier-q4-despite-20-year-highs-bond-yields",
+      "source": "Kitco",
+      "source_domain": "kitco.com",
+      "publisher_id": "kitco",
+      "published_at": "2026-09-30T17:48:10Z",
+      "image_url": "https://image-api.prod.kitco.com/image/d6118130-7b6c-4d09-8e52-6f7314aec214.jpeg?top=0.15965290381125&left=0&width=1000&height=562.68069419238&scale_width=1920&token=88eef64b87376e6cadd7da657bc32ae8618a70d8200d0e294a0d54985c983c12",
       "image_kind": "photo",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/911df639f6f25a04.jpg",
-      "id": "911df639f6f25a04",
-      "rank": 4
+      "tags": [
+        "gold",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 6
     },
     {
       "id": "3bc10e8556c8fc55",
-      "rank": 5,
       "title": "Goldman Sachs pushes Fed rate hike forecast to December",
       "summary": "Goldman Sachs pushed its next-hike call to December after August PCE inflation printed 3.4% versus 3.7% expected, Reuters reports. The brokerage had forecast a 25bp October hike. \"We see a strong chance the FOMC will ultimately conclude additional rate hikes are unnecessary,\" it said. October-hike odds fell to 38% from 71% a week ago, per CME FedWatch. Friday's US nonfarm payrolls report is next.",
       "url": "https://www.reuters.com/business/goldman-sachs-pushes-fed-rate-hike-forecast-december-2026-10-01/",
@@ -184,26 +227,24 @@
         "fed",
         "global"
       ],
+      "category": "global",
       "metals": [
         "gold"
       ],
-      "category": "global",
       "breaking": false,
-      "related_urls": []
+      "rank": 7
     },
     {
-      "url": "https://www.cnbctv18.com/market/commodities/gold-silver-prices-edge-higher-how-festive-demand-could-shape-outlook-20003069.htm",
+      "id": "440657d2dc8c323f",
       "title": "Gold, silver prices edge higher: How festive demand could shape the outlook",
       "summary": "Domestic gold and silver futures edged higher ahead of Dhanteras and Diwali, CNBC-TV18 reports, quoting analysts on how festive demand could shape the near-term price outlook.",
+      "url": "https://www.cnbctv18.com/market/commodities/gold-silver-prices-edge-higher-how-festive-demand-could-shape-outlook-20003069.htm",
       "source": "CNBC-TV18",
       "source_domain": "cnbctv18.com",
       "publisher_id": "cnbc-tv18",
       "published_at": "2026-10-01T09:33:35Z",
-      "category": "festive",
-      "metals": [
-        "gold",
-        "silver"
-      ],
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/440657d2dc8c323f.jpg",
+      "image_kind": "photo",
       "tags": [
         "gold",
         "silver",
@@ -211,11 +252,13 @@
         "jewellery",
         "india"
       ],
+      "category": "festive",
+      "metals": [
+        "gold",
+        "silver"
+      ],
       "breaking": false,
-      "image_kind": "photo",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/440657d2dc8c323f.jpg",
-      "id": "440657d2dc8c323f",
-      "rank": 6
+      "rank": 8
     },
     {
       "id": "12aa6a11450bbf51",
@@ -234,12 +277,12 @@
         "jewellery",
         "fed"
       ],
+      "category": "festive",
       "metals": [
         "gold"
       ],
-      "category": "festive",
       "breaking": false,
-      "rank": 7
+      "rank": 9
     },
     {
       "id": "4ccb7feb323da2c5",
@@ -258,16 +301,15 @@
         "india",
         "fed"
       ],
+      "category": "mcx",
       "metals": [
         "gold"
       ],
-      "category": "mcx",
       "breaking": false,
-      "rank": 8
+      "rank": 10
     },
     {
       "id": "22e3f9938ce1b878",
-      "rank": 9,
       "title": "Gold Down 8.5% in Sept, Silver -13.5% as Real Yields 'Re-Price Fast'",
       "summary": "Gold fell 8.5% and silver 13.5% in September as real yields repriced sharply higher, BullionVault reports. Inflation-protected 10-year Treasury yields jumped the most in four years to near a record high — the most negative nine-month gold-real-yield stretch since 2020. Conventional 10-year yields still offered 5.24% at month-end after their steepest monthly rise since September 2023.",
       "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-prices-real-rates-093020261",
@@ -283,16 +325,16 @@
         "fed",
         "global"
       ],
+      "category": "global",
       "metals": [
         "gold",
         "silver"
       ],
-      "category": "global",
-      "breaking": false
+      "breaking": false,
+      "rank": 11
     },
     {
       "id": "4217afa1802750d2",
-      "rank": 10,
       "title": "BOK to add gold to its coffers for the first time since 2013",
       "summary": "The Bank of Korea will buy about one metric ton of domestically produced gold in December — its first physical purchase since February 2013, Aju Press reports. A settlement system completes December 14; the gold will be bought in won via KRX/KSD from domestic output. The BOK held 104.4 tonnes at end-August and resumed gold exposure via a $250 million gold ETF position in Q2.",
       "url": "https://www.ajupress.com/view/20260930162623150",
@@ -307,15 +349,15 @@
         "central-banks",
         "global"
       ],
+      "category": "global",
       "metals": [
         "gold"
       ],
-      "category": "global",
-      "breaking": false
+      "breaking": false,
+      "rank": 12
     },
     {
       "id": "368181bf18933d73",
-      "rank": 11,
       "title": "Gold, silver prices today: What investors should watch after September correction",
       "summary": "Gold was steady on October 1 while silver gained as investors weighed US rates, yields and the dollar, CNBC TV18 reports. COMEX gold traded at $4,191.90 (+0.12%) and silver at $60.965 (+0.66%); domestic 99.9% gold rose ₹700 to ₹1.49 lakh/10g with silver flat at ₹2.32 lakh/kg. Elevated yields cap bullion while ETF holdings rose five days straight; the Oct 2 US jobs report is next.",
       "url": "https://www.cnbctv18.com/market/commodities/gold-silver-prices-what-investors-should-watch-after-september-correction-20000936.htm",
@@ -333,13 +375,13 @@
         "mcx",
         "fed"
       ],
+      "category": "mcx",
       "metals": [
         "gold",
         "silver"
       ],
-      "category": "mcx",
       "breaking": false,
-      "related_urls": []
+      "rank": 13
     },
     {
       "id": "eab567c6e983b18b",
@@ -352,11 +394,6 @@
       "published_at": "2026-10-01T01:31:06Z",
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/eab567c6e983b18b.jpg",
       "image_kind": "photo",
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
       "tags": [
         "gold",
         "silver",
@@ -364,35 +401,39 @@
         "india",
         "rbi"
       ],
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
       "breaking": false,
-      "rank": 12
+      "rank": 14
     },
     {
-      "url": "https://timesofindia.indiatimes.com/business/india-business/unscrupulous-jewellers-may-use-fake-stamps-to-mark-your-gold-as-hallmarking-charges-rise-to-rs-75-from-rs-45-gem-and-jewellery-domestic-council-flags-risk-of-rise-in-fraudsters/articleshow/134610852.cms",
+      "id": "5d3857cc65c48eec",
       "title": "Unscrupulous jewellers may use fake stamps to mark your gold: GJC flags fraud risk as hallmarking charges rise",
       "summary": "Jewellery hallmarking charges rose 67% from Rs 45 to Rs 75 per article, and the Gem and Jewellery Domestic Council has warned the hike could push unscrupulous jewellers — especially in smaller cities — toward fake hallmark stamps, the Times of India reports. GJC has raised the concern with the consumer affairs minister and BIS.",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/unscrupulous-jewellers-may-use-fake-stamps-to-mark-your-gold-as-hallmarking-charges-rise-to-rs-75-from-rs-45-gem-and-jewellery-domestic-council-flags-risk-of-rise-in-fraudsters/articleshow/134610852.cms",
       "source": "Times of India",
       "source_domain": "timesofindia.indiatimes.com",
       "publisher_id": "times-of-india",
       "published_at": "2026-10-01T07:34:00Z",
-      "category": "policy",
-      "metals": [
-        "gold"
-      ],
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/5d3857cc65c48eec.jpg",
+      "image_kind": "photo",
       "tags": [
         "gold",
         "india",
         "jewellery"
       ],
+      "category": "policy",
+      "metals": [
+        "gold"
+      ],
       "breaking": false,
-      "image_kind": "photo",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/5d3857cc65c48eec.jpg",
-      "id": "5d3857cc65c48eec",
-      "rank": 13
+      "rank": 15
     },
     {
       "id": "580a2f79ed237971",
-      "rank": 14,
       "title": "SGB premature redemption October 2026: 4 tranches eligible for early exit",
       "summary": "RBI scheduled premature redemption for four SGB tranches — 2019-20 Series V and VI and 2020-21 Series I and VII, Livemint reports. Deadlines: Oct 5 (Series V, redeems Oct 15), Oct 9 (Series VII, Oct 19), Oct 19 (Series I, Oct 28), Oct 21 (Series VI, Oct 30). Value uses IBJA's 3-day 999-gold average. From FY27 the capital-gains exemption applies only if held to maturity, so early exit may be taxed.",
       "url": "https://www.livemint.com/money/personal-finance/sgb-premature-redemption-october-2026-4-tranches-eligible-for-early-exit-check-rbi-dates-and-deadlines-11790822437536.html",
@@ -407,35 +448,12 @@
         "india",
         "rbi"
       ],
-      "metals": [
-        "gold"
-      ],
       "category": "policy",
-      "breaking": false,
-      "related_urls": []
-    },
-    {
-      "url": "https://www.gold.org/goldhub/gold-focus/2026/10/gold-pension-funds-case-studies",
-      "title": "Gold in Pension Funds: Case studies",
-      "summary": "The World Gold Council profiles four pension funds — PDN in the Netherlands (5% physical gold), Fairfax County in the US (3% via futures), Now Pensions in the UK (~2%) and NGS Super in Australia (3%) — showing how they use gold for diversification, inflation hedging and resilience amid geopolitical risk.",
-      "source": "World Gold Council",
-      "source_domain": "gold.org",
-      "publisher_id": "world-gold-council",
-      "published_at": "2026-10-01T07:58:00Z",
-      "category": "global",
       "metals": [
         "gold"
       ],
-      "tags": [
-        "gold",
-        "global",
-        "central-banks"
-      ],
       "breaking": false,
-      "image_kind": "photo",
-      "image_url": "https://www.gold.org/sites/default/files/default_images/WGC-Social-1200x630.jpeg",
-      "id": "b7f074a63ab43e8e",
-      "rank": 15
+      "rank": 16
     }
   ]
 }
