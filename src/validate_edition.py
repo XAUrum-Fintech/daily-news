@@ -264,9 +264,10 @@ def main(argv):
             c.check(kind in IMAGE_KINDS,
                     "%s: image_kind must be one of %s, got %r"
                     % (label, sorted(IMAGE_KINDS), kind))
-            # No placeholders in image_url: null + kind "none" when there is
-            # no real photo. orob ignores kind "placeholder" (kept only for
-            # tolerance; this pipeline never emits it).
+            # Body image rule (2026-10-01): when fetch_image finds no usable photo,
+            # items carry one of the three shared repo placeholders with kind
+            # "photo", never null. Only those three placeholder URLs are
+            # accepted; ad-hoc placeholder paths are still rejected.
             if img is None:
                 c.check(kind == "none",
                         "%s: image_url null requires image_kind 'none', "
@@ -279,10 +280,15 @@ def main(argv):
                         "%s: image_url set requires image_kind 'photo', "
                         "got %r" % (label, kind))
                 if isinstance(img, str) and img.startswith("https://"):
-                    c.check("placeholder-" not in img,
-                            "%s: image_url must not be a repo placeholder "
-                            "image (send null + image_kind 'none' instead)"
-                            % label)
+                    ok_placeholder = (
+                        img == "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-gold.jpg"
+                        or img == "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-silver.jpg"
+                        or img == "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/placeholder-metals.jpg"
+                    )
+                    c.check("placeholder-" not in img or ok_placeholder,
+                            "%s: image_url must be a real photo or one of the "
+                            "three shared repo placeholders, got %r"
+                            % (label, img))
 
         # Rank 1 is the edition's top story: warn when it has no real photo.
         rank1 = next((it for it in items
