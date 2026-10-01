@@ -1,35 +1,286 @@
 {
-  "edition_id": "2026-09-30T22:00Z",
-  "generated_at": "2026-09-30T22:17:09Z",
-  "insights": {
-    "headline": "Gold bounces to $4,212 on softer crude and Fed relief; RBI sets SGB redemption dates for Oct–Mar",
-    "points": [
-      "MCX Dec gold ₹1,49,824 (+₹1,001), silver ₹2,26,443 (+₹993); Comex gold $4,212.30, silver $61.47 as crude eases.",
-      "Softer August core PCE (3.0%) and 2.2% Q2 GDP pushed October Fed-hike odds to ~50% from ~70%.",
-      "Rupee rebounds to 95.83 vs dollar; stable in H1 FY27 after a 10% FY26 fall — a cushion for MCX buyers.",
-      "September: gold -8.5%, silver -13.5% as the 10-yr hit 5.30% and 30-yr 5.6%; gold ETFs drew $3.8B, China's central bank bought 20+ tons.",
-      "RBI published SGB premature-redemption dates for Oct 2026–Mar 2027; September NFP report due Friday."
-    ],
-    "summary": "Bullion bounced on Wednesday as crude prices fell on better West Asia supplies and a US reserve release, while NY Fed President John Williams said there was no urgency for another rate hike. MCX December gold traded near ₹1,49,824 and silver near ₹2,26,443; Comex gold was at $4,212.30. The rebound follows a bruising September — gold down 8.5%, silver 13.5% — as the 10-year yield hit 5.30% and the 30-year 5.6%. The rupee's rebound to 95.83 softens landed costs, and RBI's SGB redemption calendar for October 2026–March 2027 gives paper-gold holders exit dates."
+  "schema": "orob-news.v1",
+  "edition_id": "2026-10-01T00:00Z",
+  "generated_at": "2026-10-01T00:09:15Z",
+  "window": {
+    "from": "2026-09-30T22:00:00Z",
+    "to": "2026-10-01T00:00:00Z"
   },
+  "insights": {
+    "headline": "Gold sinks to $4,150 as 10-year yield hits a 24-year high; softer PCE can't stop the slide",
+    "summary": "Bullion fell to near $4,150 an ounce on Thursday as the 10-year Treasury yield climbed to 5.304%, its highest since May 2002, overwhelming relief from cooler August PCE inflation. The dollar wrapped its best month since March on the Fed's inflation fight, while Wells Fargo trimmed its 2027 gold target to $5,200–$5,400. For Indian buyers, a rebounding rupee at 95.83 and steady MCX prices near ₹1.50 lakh cushioned the blow, and the RBI published SGB redemption dates for October 2026–March 2027. Friday's US jobs report is the next test for October rate-hike bets.",
+    "points": [
+      "Gold fell to near $4,150 as the 10-yr yield hit 5.304% (24-yr high) and the 30-yr ~5.65%; October Fed-hike odds ~37%.",
+      "The dollar wrapped its best month since March; the rupee rebounded to 95.83 as crude eased — relief for MCX buyers.",
+      "MCX gold held near ₹1.50 lakh and silver near ₹2.26 lakh; September ended with gold -8.5% and silver -13.5%.",
+      "Wells Fargo cut its 2027 gold target to $5,200–$5,400 on rate and dollar risks; Morgan Stanley still sees $5,000+ in H2 2027.",
+      "The RBI set SGB premature-redemption dates for Oct 2026–Mar 2027; the US September jobs report lands Friday."
+    ]
+  },
+  "trending": [
+    {
+      "title": "Yields win the quarter",
+      "summary": "The 10-year hit 5.304%, its highest since May 2002 and largest quarterly gain since 1994; gold slid to $4,150 as real yields re-priced at the fastest pace in four years, ending September down 8.5%.",
+      "item_ids": [
+        "497637ceffaabc70",
+        "31159ca8510809fc",
+        "22e3f9938ce1b878"
+      ]
+    },
+    {
+      "title": "The dollar's best month since March",
+      "summary": "The Fed's inflation fight drove the dollar's strongest month since March and cut October hike odds to ~37%; the rupee's rebound to 95.83 softened the blow for Indian buyers after a 10% FY26 slide.",
+      "item_ids": [
+        "d4a2914b81112a0e",
+        "956ed3c9968071cd",
+        "bf21afc9047fc057"
+      ]
+    },
+    {
+      "title": "Wall Street redraws gold's map",
+      "summary": "Wells Fargo trimmed its 2027 gold target to $5,200–$5,400 on rate and dollar risks, while Morgan Stanley's Gower still sees $5,000+ within a year on ETF and central-bank demand.",
+      "item_ids": [
+        "43c178ff61d411d5",
+        "71aac83d331cd75f"
+      ]
+    },
+    {
+      "title": "Silver's lonely fight",
+      "summary": "Silver hovers near $60–61 with the downtrend intact, closing September down 13.5% — steeper than gold's fall as yields and the dollar squeezed the white metal harder.",
+      "item_ids": [
+        "c2bdaa619c62362a",
+        "22e3f9938ce1b878"
+      ]
+    },
+    {
+      "title": "MCX holds its nerve into the festive run-up",
+      "summary": "MCX gold steadied near ₹1.50 lakh on crude relief, pre-festive buying and a firmer rupee; but high prices plus the 15% import duty are pushing more buyers to off-the-books cash deals.",
+      "item_ids": [
+        "031762e6983d8bdd",
+        "2349a5f9b13da83e",
+        "2a52ebaa5ed3d0c2",
+        "3379349a44c3a5c5"
+      ]
+    }
+  ],
   "items": [
     {
-      "breaking": false,
-      "category": "mcx",
-      "id": "031762e6983d8bdd",
+      "id": "31159ca8510809fc",
+      "rank": 1,
+      "title": "Gold falls to near $4,150 as higher Treasury yields, oil prices outweigh softer PCE inflation",
+      "summary": "Gold tumbled to near $4,150 in early Asian trading Thursday as the 10-year Treasury yield held at 5.298% and the 30-year at 5.642%, overwhelming relief from cooler US inflation data. August headline PCE was 3.4% and core 3.0%, below forecasts, but rising oil prices and hawkish Fed comments kept bullion under pressure. OCBC noted a seven-week low; traders await Friday's US jobs report.",
+      "url": "https://www.fxstreet.com/news/gold-falls-to-near-4-150-as-higher-treasury-yields-oil-prices-outweigh-softer-pce-inflation-202609302330",
+      "source": "FXStreet",
+      "source_domain": "fxstreet.com",
+      "publisher_id": "fxstreet",
+      "published_at": "2026-09-30T23:30:58Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/31159ca8510809fc.jpg",
       "image_kind": "photo",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/031762e6983d8bdd.jpg",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "fed",
+        "comex",
+        "global"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://www.kitco.com/news/article/2026-09-30/gold-price-rockets-session-highs-us-economy-rises-22-q2-pce-inflation-rises",
+        "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-retreats-as-10-year-yield-hits-5-30-1633961"
+      ]
+    },
+    {
+      "id": "497637ceffaabc70",
+      "rank": 2,
+      "title": "10-year Treasury yield rises to new 24-year high, posts largest quarterly gain since 1994",
+      "summary": "The benchmark 10-year Treasury yield climbed to 5.304% on Wednesday, its highest since May 2002, after US Q2 GDP was revised up to 2.2% and August PCE inflation held at 3.4%. The 30-year touched about 5.65%, and the 10-year posted its largest quarterly gain since 1994 — nearly 0.9 points. Traders now see only about a 37% chance of an October Fed hike.",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-30-2026",
+      "source": "Wall Street Journal",
+      "source_domain": "wsj.com",
+      "publisher_id": "wsj",
+      "published_at": "2026-09-30T19:00:00Z",
+      "image_url": "https://images.wsj.net/im-925349/social",
+      "image_kind": "photo",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "fed",
+        "global"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "d4a2914b81112a0e",
+      "rank": 3,
+      "title": "Dollar wraps best month since March on Fed's inflation fight",
+      "summary": "The US dollar wrapped its best month since March as the Federal Reserve's inflation fight kept rate-hike expectations alive and pushed Treasury yields to multi-decade highs. A firm dollar raises the cost of bullion for buyers in other currencies, adding pressure on gold and silver. The dollar index approached a yearly peak even as softer PCE data trimmed October hike odds.",
+      "url": "https://www.livemint.com/market/dollar-wraps-best-month-since-march-on-fed-s-inflation-fight-11790803060581.html",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "publisher_id": "mint",
+      "published_at": "2026-09-30T21:17:40Z",
+      "image_url": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+      "image_kind": "photo",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "fed",
+        "global"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "43c178ff61d411d5",
+      "rank": 4,
+      "title": "Wells Fargo cuts 2027 gold price target to $5,200–$5,400 on rate and dollar risks",
+      "summary": "Wells Fargo lowered its 2027 gold target to $5,200–$5,400 an ounce from $5,400–$5,600, pointing to the risks of higher interest rates and a stronger dollar — the dollar index is up 3.2% this year. The bank still expects gains from current levels, noting central-bank gold buying is recovering after stalling in Q1 and ETF demand turned positive in July and strengthened in August.",
+      "url": "https://www.tipranks.com/news/wells-fargo-slashes-gold-price-target-on-interest-rate-and-dollar-strength-risks",
+      "source": "TipRanks",
+      "source_domain": "tipranks.com",
+      "publisher_id": "tipranks",
+      "published_at": "2026-09-30T18:59:02Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "fed",
+        "central-banks",
+        "global"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "22e3f9938ce1b878",
+      "rank": 5,
+      "title": "Gold down 8.5% and silver 13.5% in September as real yields re-price at the fastest pace in four years",
+      "summary": "Gold and silver closed out a bruising September down 8.5% and 13.5% respectively, despite a Wednesday spike to $4,218 and $61.50 on softer US inflation data that erased itself within hours. Inflation-protected US Treasury yields jumped the fastest in four years, adding 0.44 points to the real 10-year rate close to a record high. September's nonfarm payrolls report is due Friday.",
+      "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-prices-real-rates-093020261",
+      "source": "BullionVault",
+      "source_domain": "bullionvault.com",
+      "publisher_id": "bullionvault",
+      "published_at": "2026-09-30T14:25:46Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/22e3f9938ce1b878.jpg",
+      "image_kind": "photo",
+      "category": "global",
       "metals": [
         "gold",
         "silver"
       ],
-      "published_at": "2026-09-30T05:44:00Z",
-      "publisher_id": "business-standard",
-      "rank": 1,
-      "related_urls": [],
+      "tags": [
+        "gold",
+        "silver",
+        "fed",
+        "global"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://www.marketwatch.com/story/gold-is-supposed-to-be-a-safe-haven-when-inflation-surges-so-why-isnt-it-working-that-way-now-45cbb07b"
+      ]
+    },
+    {
+      "id": "71aac83d331cd75f",
+      "rank": 6,
+      "title": "Morgan Stanley's Gower sees gold back above $5,000 in H2 2027; silver's run to $120 driven by more than hype",
+      "summary": "Morgan Stanley's Amy Gower told CNBC she expects gold to trade back above $5,000 an ounce within a year, citing strong ETF and central-bank demand despite 20-year-high long-dated yields and dollar strength. She said silver's surge to $120 was driven by fundamentals rather than hype, and pointed to China's record gold imports and Golden Week buying as support.",
+      "url": "https://www.kitco.com/news/article/2026-09-30/gold-price-will-break-5000oz-h2-2027-and-silvers-run-120-was-driven-more",
+      "source": "Kitco",
+      "source_domain": "kitco.com",
+      "publisher_id": "kitco",
+      "published_at": "2026-09-30T15:35:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/71aac83d331cd75f.jpg",
+      "image_kind": "photo",
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "central-banks",
+        "global"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "c2bdaa619c62362a",
+      "rank": 7,
+      "title": "Silver eyes $61 as recovery meets fresh selling risk",
+      "summary": "Silver fell to $60.30 on Tuesday, its lowest level since August 5, with RSI at 28 signaling oversold conditions though that alone does not guarantee a bounce. Resistance is set at $61, then $61.80-85 and $62.40-45; support sits at $60, $59.35-40 and $56.55-60. Traders need sustained buying to overcome resistance as the downtrend remains intact.",
+      "url": "https://www.fxleaders.com/news/2026/09/29/silver-price-forecast-xag-usd-61-support-resistance/",
+      "source": "FX Leaders",
+      "source_domain": "fxleaders.com",
+      "publisher_id": "fx-leaders",
+      "published_at": "2026-09-29T12:45:46Z",
+      "image_url": "https://dr46azxe5rdcu.cloudfront.net/wp-content/uploads/2026/07/28072530/Silver-Price-Forecast-3-scaled.webp",
+      "image_kind": "photo",
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "tags": [
+        "silver",
+        "global"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-vulnerable-near-60-202609301526"
+      ]
+    },
+    {
+      "id": "956ed3c9968071cd",
+      "rank": 8,
+      "title": "Rupee rebounds to 95.83 against the dollar as crude prices ease",
+      "summary": "The rupee strengthened to 95.83 per dollar as easing crude prices and likely central-bank support pulled it back from an intraday low of 96.15. A firmer rupee lowers the landed cost of imported gold and silver, cushioning MCX prices for Indian buyers.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/indian-rupee-rebounds-to-95-83-vs-us-dollar-as-crude-prices-ease/articleshow/134600948.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-09-30T18:39:59Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/956ed3c9968071cd.jpg",
+      "image_kind": "photo",
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "rupee",
+        "india",
+        "mcx"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "031762e6983d8bdd",
+      "rank": 9,
+      "title": "Gold, silver rebound as crude oil prices fall on supply boost",
+      "summary": "Bullion bounced as a sharp crude-oil decline eased inflation pressure. MCX December gold traded near ₹1,49,824 per 10g (+₹1,001) and silver near ₹2,26,443 per kg (+₹993); Comex gold was at $4,212.30, silver at $61.47. Giottus's Vikram Subburaj credited NY Fed President John Williams' remark that there is no urgency for another hike — October hike odds fell to ~50% from ~70%.",
+      "url": "https://www.business-standard.com/markets/commodities/gold-silver-prices-rebound-as-crude-oil-prices-fall-on-supply-boost-126093000340_1.html",
       "source": "Business Standard",
       "source_domain": "business-standard.com",
-      "summary": "Bullion bounced as a sharp crude-oil decline eased inflation pressure. MCX December gold traded near ₹1,49,824 per 10g (+₹1,001) and silver near ₹2,26,443 per kg (+₹993); Comex gold was at $4,212.30, silver at $61.47. Giottus's Vikram Subburaj credited NY Fed President John Williams' remark that there is no urgency for another hike — October hike odds fell to ~50% from ~70%.",
+      "publisher_id": "business-standard",
+      "published_at": "2026-09-30T05:44:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/031762e6983d8bdd.jpg",
+      "image_kind": "photo",
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
       "tags": [
         "gold",
         "silver",
@@ -37,75 +288,25 @@
         "india",
         "fed"
       ],
-      "title": "Gold, silver rebound as crude oil prices fall on supply boost",
-      "url": "https://www.business-standard.com/markets/commodities/gold-silver-prices-rebound-as-crude-oil-prices-fall-on-supply-boost-126093000340_1.html"
+      "breaking": false
     },
     {
-      "breaking": false,
-      "category": "global",
-      "id": "f527f3429b2f492c",
-      "image_kind": "photo",
-      "image_url": "https://image-api.prod.kitco.com/image/8e3c3f11-66b0-4562-8014-c28678a59a0a.jpeg?top=8.9827874331551&left=0&width=1920&height=1079.0344251337&scale_width=1920&token=5dfae24ffd6fdd8bff33b61e6e7053070742131f9965406042d528521415063b",
-      "metals": [
-        "gold"
-      ],
-      "published_at": "2026-09-30T16:16:35Z",
-      "publisher_id": "kitco",
-      "rank": 2,
-      "related_urls": [
-        "https://www.tradingnews.com/news/gold-4212-usd-bounces-from-4145-usd-on-softer-inflation"
-      ],
-      "source": "Kitco",
-      "source_domain": "kitco.com",
-      "summary": "Spot gold jumped 0.74% to $4,213.11 an ounce on Wednesday after the BEA said annual core PCE was 3.0% in August, cooler than the 3.3% consensus, with headline inflation at 3.4% against 3.7% expected. Q2 GDP was revised up to 2.2%. BullionVault notes betting on an October Fed hike fell below 35% on the news.",
-      "tags": [
-        "gold",
-        "fed",
-        "global"
-      ],
-      "title": "Softer August PCE (core 3.0%) and 2.2% Q2 GDP send gold to session highs near $4,213",
-      "url": "https://www.kitco.com/news/article/2026-09-30/gold-price-rockets-session-highs-us-economy-rises-22-q2-pce-inflation-rises"
-    },
-    {
-      "breaking": false,
-      "category": "mcx",
-      "id": "956ed3c9968071cd",
-      "image_kind": "photo",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/956ed3c9968071cd.jpg",
-      "metals": [
-        "gold"
-      ],
-      "published_at": "2026-09-30T18:39:59Z",
-      "publisher_id": "economic-times",
-      "rank": 3,
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "summary": "The rupee strengthened to 95.83 per dollar as easing crude prices and likely central-bank support pulled it back from an intraday low of 96.15. A firmer rupee lowers the landed cost of imported gold and silver, cushioning MCX prices for Indian buyers.",
-      "tags": [
-        "gold",
-        "rupee",
-        "india",
-        "mcx"
-      ],
-      "title": "Rupee rebounds to 95.83 against the dollar as crude prices ease",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/indian-rupee-rebounds-to-95-83-vs-us-dollar-as-crude-prices-ease/articleshow/134600948.cms"
-    },
-    {
-      "breaking": false,
-      "category": "mcx",
       "id": "2349a5f9b13da83e",
-      "image_kind": "photo",
+      "rank": 10,
+      "title": "MCX bullion steadies after sharp correction; 24K gold Rs 1,49,570",
+      "summary": "Domestic bullion steadied after a sharp correction: 24K gold was at Rs 1,49,570 per 10g (+0.52%), 22K at Rs 1,37,100, 18K at Rs 1,12,180, and silver at Rs 2,26,190 a kg. Global cues, a weaker rupee and pre-festive buying cushioned the downside. Gold support at Rs 1,45,500-1,46,800, resistance at Rs 1,52,000; silver support at Rs 2,24,500, resistance at Rs 2,32,000. Add 3% GST to quoted prices.",
+      "url": "https://www.mfnewsdaily.in/gold-global-fed-stance-oil-prices-and-festive-buying-in-focus/",
+      "source": "MFNews",
+      "source_domain": "mfnewsdaily.in",
+      "publisher_id": "mfnews",
+      "published_at": "2026-09-30T02:00:00Z",
       "image_url": "https://www.mfnewsdaily.in/wp-content/uploads/2025/04/gold-price-india.jpeg",
+      "image_kind": "photo",
+      "category": "mcx",
       "metals": [
         "gold",
         "silver"
       ],
-      "published_at": "2026-09-30T02:00:00Z",
-      "publisher_id": "mfnews",
-      "rank": 4,
-      "source": "MFNews",
-      "source_domain": "mfnewsdaily.in",
-      "summary": "Domestic bullion steadied after a sharp correction: 24K gold was at Rs 1,49,570 per 10g (+0.52%), 22K at Rs 1,37,100, 18K at Rs 1,12,180, and silver at Rs 2,26,190 a kg. Global cues, a weaker rupee and pre-festive buying cushioned the downside. Gold support at Rs 1,45,500-1,46,800, resistance at Rs 1,52,000; silver support at Rs 2,24,500, resistance at Rs 2,32,000. Add 3% GST to quoted prices.",
       "tags": [
         "gold",
         "silver",
@@ -113,266 +314,102 @@
         "india",
         "rupee"
       ],
-      "title": "MCX bullion steadies after sharp correction; 24K gold Rs 1,49,570",
-      "url": "https://www.mfnewsdaily.in/gold-global-fed-stance-oil-prices-and-festive-buying-in-focus/"
+      "breaking": false
     },
     {
-      "breaking": false,
-      "category": "policy",
-      "id": "2c07cb74f15956e6",
-      "image_kind": "none",
-      "image_url": null,
-      "metals": [
-        "gold"
-      ],
-      "published_at": "2026-09-30T09:10:00Z",
-      "publisher_id": "economic-times",
-      "rank": 5,
-      "related_urls": [],
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "summary": "The RBI has disclosed premature-redemption dates for Sovereign Gold Bonds running from October 2026 to March 2027. Investors holding eligible tranches should note the allocated timeframes for submitting their redemption requests — premature redemption is available after five years at the prevailing market price, and missing a window means waiting for the next redemption date.",
-      "tags": [
-        "gold",
-        "india",
-        "rbi"
-      ],
-      "title": "SGB premature redemption dates in October 2026: check tranche-wise dates and deadlines",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/sgb-premature-redemption-dates-in-october-2026-check-tranche-wise-dates-and-request-deadlines/articleshow/134587993.cms"
-    },
-    {
-      "breaking": false,
-      "category": "global",
-      "id": "fce5a95998b82d0e",
-      "image_kind": "none",
-      "image_url": null,
-      "metals": [
-        "gold"
-      ],
-      "published_at": "2026-09-30T16:51:00Z",
-      "publisher_id": "marketwatch",
-      "rank": 6,
-      "source": "MarketWatch",
-      "source_domain": "marketwatch.com",
-      "summary": "December gold futures fell 6.6% in September to $4,186.70, the worst month since June, even as oil spiked and inflation fears returned — because climbing Treasury yields and a dollar up over 2% in September raised gold's opportunity cost. Countering the gloom: US gold ETFs drew $3.8 billion in September and China's central bank bought over 20 tons in August, its 22nd straight month of buying.",
-      "tags": [
-        "gold",
-        "fed",
-        "central-banks",
-        "global"
-      ],
-      "title": "Gold's worst month since June: the safe-haven playbook breaks down as yields win",
-      "url": "https://www.marketwatch.com/story/gold-is-supposed-to-be-a-safe-haven-when-inflation-surges-so-why-isnt-it-working-that-way-now-45cbb07b"
-    },
-    {
-      "breaking": false,
-      "category": "global",
-      "id": "71aac83d331cd75f",
-      "image_kind": "photo",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/71aac83d331cd75f.jpg",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "published_at": "2026-09-30T15:35:00Z",
-      "publisher_id": "kitco",
-      "rank": 7,
-      "source": "Kitco",
-      "source_domain": "kitco.com",
-      "summary": "Morgan Stanley's Amy Gower told CNBC she expects gold to trade back above $5,000 an ounce within a year, citing strong ETF and central-bank demand despite 20-year-high long-dated yields and dollar strength. She said silver's surge to $120 was driven by fundamentals rather than hype, and pointed to China's record gold imports and Golden Week buying as support.",
-      "tags": [
-        "gold",
-        "silver",
-        "central-banks",
-        "global"
-      ],
-      "title": "Morgan Stanley's Gower sees gold back above $5,000 in H2 2027; silver's run to $120 driven by more than hype",
-      "url": "https://www.kitco.com/news/article/2026-09-30/gold-price-will-break-5000oz-h2-2027-and-silvers-run-120-was-driven-more"
-    },
-    {
-      "breaking": false,
-      "category": "global",
-      "id": "a8bcc5359a941da5",
-      "image_kind": "photo",
-      "image_url": "https://responsive.fxempire.com/v7/_fxempire_/2026/09/gold-precious-metal-price-chart-03-7.jpg?func=cover&q=70&width=1201",
-      "metals": [
-        "gold"
-      ],
-      "published_at": "2026-09-30T18:21:56Z",
-      "publisher_id": "fxempire",
-      "rank": 8,
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "summary": "Gold failed to hold $4,200 on Wednesday and pulled back as the US 10-year Treasury yield hit 5.30%, keeping pressure on non-yielding bullion. October Fed-hike odds eased to 39.3% as crude prices softened, but yields kept climbing. FXEmpire flags $4,160–$4,180 as near-term support, with $4,300–$4,320 resistance above.",
-      "tags": [
-        "gold",
-        "fed",
-        "global"
-      ],
-      "title": "Gold retreats as 10-year Treasury yield hits 5.30%; $4,160–$4,180 support in focus",
-      "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-retreats-as-10-year-yield-hits-5-30-1633961"
-    },
-    {
-      "breaking": false,
-      "category": "mcx",
-      "id": "43f0e9da6d0e19b0",
-      "image_kind": "none",
-      "image_url": null,
-      "metals": [
-        "gold"
-      ],
-      "published_at": "2026-09-30T08:35:08Z",
-      "publisher_id": "mint",
-      "rank": 9,
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "summary": "The US 30-year crossed 5.6%, its highest since June 2002, while the 10-year hit 5.214% -- driven by Fed rate expectations, oil-driven inflation risk, heavy borrowing and AI-led capital demand. For India: elevated US yields pull foreign investors toward US fixed income, pressuring the Sensex and Nifty, while a weaker rupee erodes dollar returns -- a loop that can weigh on both.",
-      "tags": [
-        "gold",
-        "fed",
-        "india",
-        "rupee"
-      ],
-      "title": "Why the 30-year Treasury's 2002-high yield matters for Indian markets",
-      "url": "https://www.livemint.com/market/stock-market-news/sensex-nifty-impact-explained-why-30-year-us-treasury-bond-yields-surged-to-2002-levels-and-why-it-matters-to-india-11790751047666.html"
-    },
-    {
-      "breaking": false,
-      "category": "global",
-      "id": "c2bdaa619c62362a",
-      "image_kind": "photo",
-      "image_url": "https://dr46azxe5rdcu.cloudfront.net/wp-content/uploads/2026/07/28072530/Silver-Price-Forecast-3-scaled.webp",
-      "metals": [
-        "silver"
-      ],
-      "published_at": "2026-09-29T12:45:46Z",
-      "publisher_id": "fx-leaders",
-      "rank": 10,
-      "source": "FX Leaders",
-      "source_domain": "fxleaders.com",
-      "summary": "Silver fell to $60.30 on Tuesday, its lowest level since August 5, with RSI at 28 signaling oversold conditions though that alone does not guarantee a bounce. Resistance is set at $61, then $61.80-85 and $62.40-45; support sits at $60, $59.35-40 and $56.55-60. Traders need sustained buying to overcome resistance as the downtrend remains intact.",
-      "tags": [
-        "silver",
-        "global"
-      ],
-      "title": "Silver eyes $61 as recovery meets fresh selling risk",
-      "url": "https://www.fxleaders.com/news/2026/09/29/silver-price-forecast-xag-usd-61-support-resistance/"
-    },
-    {
-      "breaking": false,
-      "category": "global",
-      "id": "22e3f9938ce1b878",
-      "image_kind": "photo",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/22e3f9938ce1b878.jpg",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "published_at": "2026-09-30T14:25:46Z",
-      "publisher_id": "bullionvault",
+      "id": "2a52ebaa5ed3d0c2",
       "rank": 11,
-      "source": "BullionVault",
-      "source_domain": "bullionvault.com",
-      "summary": "Gold and silver closed out a bruising September down 8.5% and 13.5% respectively, despite a Wednesday spike to $4,218 and $61.50 on softer US inflation data that erased itself within hours. Inflation-protected US Treasury yields jumped the fastest in four years, adding 0.44 points to the real 10-year rate close to a record high. September's nonfarm payrolls report is due Friday.",
+      "title": "Gold, silver futures rise on MCX on Sept 30",
+      "summary": "MCX gold futures traded 0.64% higher at ₹1,49,810 per 10 grams on September 30, while silver futures were 0.43% higher at ₹2,26,270 per kg. In the physical bullion market, gold was quoted at ₹1.50 lakh per 10 grams and silver at ₹2.26 lakh per kg.",
+      "url": "https://inshorts.com/en/news/gold--silver-futures-rise-on-mcx-on-sept-30--check-city-wise-rates-1790736548747",
+      "source": "Inshorts",
+      "source_domain": "inshorts.com",
+      "publisher_id": "inshorts",
+      "published_at": "2026-09-30T21:30:46Z",
+      "image_url": "https://media.inshorts.com/inshorts/images/v1/variants/jpg/m/2026/09_sep/30_wed/img_1790736493103_14.jpg",
+      "image_kind": "photo",
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
       "tags": [
         "gold",
         "silver",
-        "fed",
-        "global"
+        "mcx",
+        "india"
       ],
-      "title": "Gold down 8.5% and silver 13.5% in September as real yields re-price at the fastest pace in four years",
-      "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-prices-real-rates-093020261"
+      "breaking": false
     },
     {
-      "breaking": false,
-      "category": "mcx",
       "id": "bf21afc9047fc057",
-      "image_kind": "photo",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/bf21afc9047fc057.jpg",
-      "metals": [
-        "gold"
-      ],
-      "published_at": "2026-09-30T15:29:04Z",
-      "publisher_id": "business-standard",
       "rank": 12,
+      "title": "Rupee relatively stable in H1 FY27 after 10% fall in FY26",
+      "summary": "Business Standard reports the rupee was relatively stable in the first half of FY27 after falling about 10% in FY26. Currency stability matters for bullion buyers: the rupee's slide earlier in the year amplified the global gold rally for Indian shoppers.",
+      "url": "https://www.business-standard.com/markets/news/rupee-remains-relatively-stable-in-h1-fy27-after-10-fall-in-fy26-126093001265_1.html",
       "source": "Business Standard",
       "source_domain": "business-standard.com",
-      "summary": "Business Standard reports the rupee was relatively stable in the first half of FY27 after falling about 10% in FY26. Currency stability matters for bullion buyers: the rupee's slide earlier in the year amplified the global gold rally for Indian shoppers.",
+      "publisher_id": "business-standard",
+      "published_at": "2026-09-30T15:29:04Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/bf21afc9047fc057.jpg",
+      "image_kind": "photo",
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
       "tags": [
         "gold",
         "rupee",
         "india",
         "mcx"
       ],
-      "title": "Rupee relatively stable in H1 FY27 after 10% fall in FY26",
-      "url": "https://www.business-standard.com/markets/news/rupee-remains-relatively-stable-in-h1-fy27-after-10-fall-in-fy26-126093001265_1.html"
+      "breaking": false
     },
     {
-      "breaking": false,
-      "category": "policy",
-      "id": "3379349a44c3a5c5",
-      "image_kind": "none",
-      "image_url": null,
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "published_at": "2026-09-29T11:54:58Z",
-      "publisher_id": "mint",
+      "id": "2c07cb74f15956e6",
       "rank": 13,
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "summary": "Mint reports that soaring gold prices and the import duty hike to 15% (plus 3% GST) are driving more buyers into under-the-counter cash sales without invoices, where bulk buyers can save up to 6%. The shift toward the grey market ahead of the wedding season is an unintended consequence of the policy meant to curb bullion purchases and protect forex reserves.",
+      "title": "SGB premature redemption dates in October 2026: check tranche-wise dates and deadlines",
+      "summary": "The RBI has disclosed premature-redemption dates for Sovereign Gold Bonds running from October 2026 to March 2027. Investors holding eligible tranches should note the allocated timeframes for submitting their redemption requests — premature redemption is available after five years at the prevailing market price, and missing a window means waiting for the next redemption date.",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/sgb-premature-redemption-dates-in-october-2026-check-tranche-wise-dates-and-request-deadlines/articleshow/134587993.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-09-30T09:10:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "policy",
+      "metals": [
+        "gold"
+      ],
       "tags": [
         "gold",
-        "silver",
+        "india",
+        "rbi"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "3379349a44c3a5c5",
+      "rank": 14,
+      "title": "High gold prices and steep taxes push more Indian buyers toward off-the-books cash deals",
+      "summary": "Mint reports that soaring gold prices and the import duty hike to 15% (plus 3% GST) are driving more buyers into under-the-counter cash sales without invoices, where bulk buyers can save up to 6%. The shift toward the grey market ahead of the wedding season is an unintended consequence of the policy meant to curb bullion purchases and protect forex reserves.",
+      "url": "https://www.livemint.com/money/personal-finance/indians-are-buying-more-and-more-gold-without-receipt-as-prices-tax-bite-11790681805619.html",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "publisher_id": "mint",
+      "published_at": "2026-09-29T11:54:58Z",
+      "image_url": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/gold_1790682659467_RMvT_1790682659606_ieJx_33cd2b27-3443-48c5-a8c7-d08fb2a7c1bf_5oZd.jpg",
+      "image_kind": "photo",
+      "category": "policy",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
         "import-duty",
         "india"
       ],
-      "title": "High gold prices and steep taxes push more Indian buyers toward off-the-books cash deals",
-      "url": "https://www.livemint.com/money/personal-finance/indians-are-buying-more-and-more-gold-without-receipt-as-prices-tax-bite-11790681805619.html"
+      "breaking": false
     }
-  ],
-  "schema": "orob-news.v1",
-  "trending": [
-    {
-      "item_ids": [
-        "031762e6983d8bdd",
-        "f527f3429b2f492c",
-        "2349a5f9b13da83e"
-      ],
-      "summary": "MCX gold near ₹1,49,824 and Comex at $4,212 as crude falls on better supplies and Williams says no urgency for another hike; softer PCE and 2.2% GDP back the move.",
-      "title": "Bullion bounces on crude relief and softer Fed bets"
-    },
-    {
-      "item_ids": [
-        "956ed3c9968071cd",
-        "bf21afc9047fc057",
-        "43f0e9da6d0e19b0"
-      ],
-      "summary": "The rupee bounced to 95.83 as crude eased and stayed stable through H1 FY27 after a 10% FY26 slide — but 30-year yields at 5.6% keep foreign-investor flows wobbly.",
-      "title": "Rupee relief cushions MCX buyers"
-    },
-    {
-      "item_ids": [
-        "22e3f9938ce1b878",
-        "fce5a95998b82d0e",
-        "71aac83d331cd75f"
-      ],
-      "summary": "Gold -8.5% and silver -13.5% for the month as real yields re-priced at the fastest pace in four years; Morgan Stanley's Gower still sees gold back above $5,000 in H2 2027.",
-      "title": "A brutal September in the mirror"
-    },
-    {
-      "item_ids": [
-        "2c07cb74f15956e6",
-        "3379349a44c3a5c5"
-      ],
-      "summary": "RBI set SGB premature-redemption dates for October 2026–March 2027, while high duty and taxes keep pushing Indian buyers toward off-the-books cash deals.",
-      "title": "Policy watch: SGB exits and the grey market"
-    }
-  ],
-  "window": {
-    "from": "2026-09-30T20:00:00Z",
-    "to": "2026-09-30T22:00:00Z"
-  }
+  ]
 }
