@@ -110,8 +110,10 @@ def main(argv):
             "edition_id must match YYYY-MM-DDTHH:00Z, got %r" % (edition_id,))
     if isinstance(edition_id, str) and EDITION_RE.match(edition_id):
         slot = parse_z(edition_id)
-        c.check(slot is not None and slot.hour % 2 == 0,
-                "edition_id hour must be even (2-hourly slots), got %r" % (edition_id,))
+        # Cadence since 2026-10-01 (docs/RUNBOOK.md): hourly 08:00-18:00 IST,
+        # 2-hourly at night. Any slot hour is valid; window span is 1h by day, 2h at night.
+        c.check(slot is not None,
+                "edition_id must be a valid slot hour, got %r" % (edition_id,))
 
     generated_at = parse_z(doc.get("generated_at"))
     c.check(generated_at is not None,
@@ -125,8 +127,8 @@ def main(argv):
                 "window.from/to must be ISO-8601 UTC with Z")
         if wfrom is not None and wto is not None:
             c.check(wto == slot, "window.to must equal edition slot, got %r" % (window.get("to"),))
-            c.check(wto - wfrom == timedelta(hours=2),
-                    "window must span exactly 2h, got %s" % (wto - wfrom,))
+            c.check(wto - wfrom in (timedelta(hours=1), timedelta(hours=2)),
+                    "window must span 1h (daytime) or 2h (night), got %s" % (wto - wfrom,))
 
     insights = doc.get("insights")
     c.check(isinstance(insights, dict), "insights must be an object")
