@@ -1,6 +1,6 @@
 # Edition Runbook — XAUrum-Fintech/daily-news
 
-Canonical spec for every 2-hourly edition. Cron workers: follow this file exactly. This copy lives in the repo, which is the pipeline's source of truth.
+Canonical spec for every edition (hourly 8am-6pm IST, 2-hourly at night). Cron workers: follow this file exactly. This copy lives in the repo, which is the pipeline's source of truth.
 The user's original spec (2026-09-26) is authoritative; this file restates it.
 
 ## Repo & auth
@@ -10,17 +10,24 @@ The user's original spec (2026-09-26) is authoritative; this file restates it.
 - Authenticated requests to `api.github.com` only. Never print, log, or persist credentials.
 
 ## Schedule
-- Every 2 hours at minute 0 UTC: 00, 02, 04, …, 22. (Cron: `0 */2 * * *`, timezone UTC.)
-- `edition_id` = the slot, e.g. `2026-09-27T08:00Z`.
+- The cron job fires every hour. Convert the current time to IST (UTC+5:30) and
+  decide:
+  - Daytime (08:00 ≤ IST < 18:00): publish an hourly edition. Slot = the UTC
+    hour nearest to now; `window.from` = slot − 1h, `window.to` = slot.
+  - Night (IST before 08:00 or at/after 18:00): publish only when the current
+    UTC hour is even (the old 2-hourly cadence). On odd UTC hours do nothing:
+    no edition, no commit, stay quiet. Slot = the even UTC hour nearest to
+    now; `window.from` = slot − 2h, `window.to` = slot.
+- `edition_id` = the slot, e.g. `2026-10-01T03:00Z`.
 - `generated_at` = actual generation time, UTC ISO 8601 with Z.
-- `window.from` = slot − 2h, `window.to` = slot (e.g. slot 08:00Z → 06:00–08:00Z).
-- `window` is the 2-hour publishing interval; items up to 48h old are expected inside it.
-- Slot rule: `edition_id` and `window.to` must NEVER be in the future (≤ `generated_at`).
-  Take the even UTC hour nearest to now: if it lies in the future by ≤10 minutes,
-  wait until it arrives, then generate; if it lies further in the future
-  (ad-hoc/manual run), use the previous even hour (floor) instead. Cron runs fire
-  at their even-hour slot and wait out an early dispatch; manual runs rebuild the
-  last completed slot.
+- `window` is the publishing interval (1h daytime, 2h night); items up to 48h
+  old are expected inside it.
+- Slot rule: `edition_id` and `window.to` must NEVER be in the future
+  (≤ `generated_at`). Take the slot hour nearest to now: if it lies in the
+  future by ≤10 minutes, wait until it arrives, then generate; if it lies
+  further in the future (ad-hoc/manual run), use the previous slot hour
+  (floor) instead. Cron runs fire at their slot and wait out an early
+  dispatch; manual runs rebuild the last completed slot.
 
 ## Sourcing (in this order)
 1. `python3 src/fetch_feeds.py` — Google News RSS (India + global editions) plus
