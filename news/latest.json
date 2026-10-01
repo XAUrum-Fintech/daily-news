@@ -1,42 +1,41 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-01T11:00Z",
-  "generated_at": "2026-10-01T11:01:36Z",
+  "edition_id": "2026-10-01T12:00Z",
+  "generated_at": "2026-10-01T12:01:37Z",
   "window": {
-    "from": "2026-10-01T10:00:00Z",
-    "to": "2026-10-01T11:00:00Z"
+    "from": "2026-10-01T11:00:00Z",
+    "to": "2026-10-01T12:00:00Z"
   },
   "insights": {
-    "headline": "US 10-year yield hits 24-year high, rattling Indian markets as gold steadies on rate-hold bets",
-    "summary": "The US 10-year Treasury yield surged to 5.34%, its highest since early 2002, deepening a bond sell-off that knocked the Sensex down over 1,000 points and pushed the rupee to 95.98/$. Softer US inflation data strengthened Fed rate-hold bets, lifting MCX gold ₹607 to ~₹1,49,434 and silver ₹2,828 to ~₹2,25,680. Morgan Stanley’s Gower expects gold back above $5,000/oz within a year on central-bank demand; FOREX.com’s Razaqzada sees a ‘shinier Q4’.",
+    "headline": "Yields at 24-year high cap gold near $4,167 as traders slash October Fed-hike bets",
+    "summary": "The 10-year US Treasury yield hit 5.34%, its highest since 2002, while the dollar index touched a year-to-date high of 101.85, capping gold near $4,167 and knocking the Sensex over 1,000 points. Softer US inflation cut October Fed-hike odds to about 37% and lifted MCX gold ₹607 to ~₹1,49,434 and silver ₹2,828 to ~₹2,25,680. IBJA's Kothari flags broken supports at $4,250 in gold and $62.5 in silver, while Morgan Stanley's Gower expects gold back above $5,000/oz within a year.",
     "points": [
-      "10-yr US yield hit 5.34%, a 24-yr high; Sensex fell 1,000+ pts, rupee slid to 95.98/$.",
-      "MCX gold +₹607 to ~₹1,49,434; silver Dec +₹2,828 to ~₹2,25,680 on Fed rate-hold bets.",
-      "Spot silver fell 1.5% to a 4-week low near $60; bearish below $62.19 resistance.",
-      "Morgan Stanley's Gower sees gold above $5,000/oz in H2 2027 on central-bank buying.",
-      "GJC warns the hallmarking fee hike (Rs 45→75) could spur fake-stamp fraud by jewellers."
+      "10-yr US yield 5.34%, highest since 2002; dollar index at year-to-date high 101.85; Sensex -1,000+ pts.",
+      "October Fed-hike odds cut to ~37% on soft PCE; MCX gold +₹607 (~₹1,49,434), silver +₹2,828 (~₹2,25,680).",
+      "IBJA's Kothari: gold broke $4,250 support, eyes $4,100/$4,000; silver broke $62.5 neckline, $60/$57 next.",
+      "Morgan Stanley's Gower expects gold above $5,000/oz within a year on central-bank and ETF demand.",
+      "Analysts see festive demand ahead of Dhanteras-Diwali shaping the near-term outlook after September's slide."
     ]
   },
   "trending": [
     {
-      "title": "Bond rout vs. rate-hold hopes: gold caught in the middle",
-      "summary": "Softer US inflation cooled October Fed-hike bets and lifted bullion, but the 10-year yield's 24-year high keeps pressuring metals; FOREX.com's Razaqzada still sees a 'shinier Q4' on gold's resilience.",
+      "title": "Bond rout vs. rate-hold bets: gold caught in the middle",
+      "summary": "The 10-year yield's surge to a 24-year high keeps pressuring metals, but softer US inflation slashed October-hike odds to ~37%, steadying gold near $4,167 and lifting MCX futures.",
       "item_ids": [
+        "5fa8b58b813124aa",
         "11a1764c35c011a2",
         "db503a946d99df3c",
-        "3bc10e8556c8fc55",
         "2cca5ca9e2c54a10",
-        "ec71e4ee1e666a1d"
+        "18f2b7d4c6decb53"
       ]
     },
     {
       "title": "Silver's $60 test",
-      "summary": "Silver slid 1.5% to a four-week low near $60 as yields spiked, staying bearish below $62.19; Morgan Stanley's Gower says its earlier run to $120 was driven by more than hype.",
+      "summary": "Silver slipped to a four-week low near $60 as yields spiked and broke below $62.5 resistance; Kothari sees $60 and $57 next, even as MCX silver jumped ₹2,828.",
       "item_ids": [
         "911df639f6f25a04",
-        "2cca5ca9e2c54a10",
-        "22e3f9938ce1b878",
-        "71aac83d331cd75f"
+        "18f2b7d4c6decb53",
+        "2cca5ca9e2c54a10"
       ]
     },
     {
@@ -48,23 +47,39 @@
       ]
     },
     {
-      "title": "India's regulatory watch: hallmarking fees and SGB exits",
-      "summary": "GJC flagged fraud risk from the 67% hallmarking fee hike and sought a review, while RBI opened premature redemption for four SGB tranches in October.",
+      "title": "Central banks keep buying",
+      "summary": "Morgan Stanley's Gower expects gold back above $5,000/oz within a year on central-bank and ETF demand; the Bank of Korea plans its first gold purchase since 2013.",
       "item_ids": [
-        "5d3857cc65c48eec",
-        "580a2f79ed237971"
-      ]
-    },
-    {
-      "title": "Institutions keep buying gold",
-      "summary": "South Korea's central bank is preparing its first gold purchase since 2013, and Morgan Stanley's Gower points to China's imports running at their highest since 2017.",
-      "item_ids": [
-        "4217afa1802750d2",
-        "71aac83d331cd75f"
+        "71aac83d331cd75f",
+        "4217afa1802750d2"
       ]
     }
   ],
   "items": [
+    {
+      "id": "5fa8b58b813124aa",
+      "title": "Gold struggles as rising US Treasury yields outweigh dovish Fed repricing",
+      "summary": "Gold hovered near $4,167, up 0.26%, as the dollar index hit a year-to-date high of 101.85 and the 10-year Treasury yield touched 5.34%, its highest since 2002, FXStreet reports. October-hike odds fell to about 37% from 70% after soft US inflation data, though a later hike stays on the table. Support sits at $4,100 then $4,000; resistance at $4,301.",
+      "url": "https://www.fxstreet.com/news/gold-struggles-as-rising-us-treasury-yields-outweigh-dovish-fed-repricing-202610011125",
+      "source": "FXStreet",
+      "source_domain": "fxstreet.com",
+      "publisher_id": "fxstreet",
+      "published_at": "2026-10-01T11:25:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/5fa8b58b813124aa.jpg",
+      "image_kind": "photo",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "tags": [
+        "gold",
+        "fed",
+        "comex",
+        "global"
+      ],
+      "rank": 1
+    },
     {
       "id": "11a1764c35c011a2",
       "title": "US 10-year yield at 24-year high rattles Nifty, rupee and bond markets. Why is India hit hard?",
@@ -83,12 +98,12 @@
         "fed",
         "india"
       ],
-      "category": "global",
+      "category": "mcx",
       "metals": [
         "gold"
       ],
       "breaking": false,
-      "rank": 1
+      "rank": 2
     },
     {
       "id": "db503a946d99df3c",
@@ -113,7 +128,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "2cca5ca9e2c54a10",
@@ -138,7 +153,33 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "id": "18f2b7d4c6decb53",
+      "title": "IBJA chief Kothari: gold broke $4,250 support, eyes $4,100; silver's $62.5 neckline gives way",
+      "summary": "IBJA president Prithviraj Kothari says gold and silver slid further ahead of the US jobs report, with monthly losses of 8.5% and 13.5%. Softer August PCE cut October-hike odds to 38%, though a December hike is priced at 87%. Technically both metals look weak: gold broke $4,250 support with $4,100 and $4,000 next; silver cracked its $62.5 neckline, with $60 and $57 next.",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-1-october-2026/article71528461.ece",
+      "source": "The Hindu BusinessLine",
+      "source_domain": "thehindubusinessline.com",
+      "publisher_id": "hindu-businessline",
+      "published_at": "2026-10-01T07:32:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "tags": [
+        "gold",
+        "silver",
+        "fed",
+        "comex",
+        "global"
+      ],
+      "rank": 5
     },
     {
       "id": "71aac83d331cd75f",
@@ -163,7 +204,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 4
+      "rank": 6
     },
     {
       "id": "911df639f6f25a04",
@@ -186,7 +227,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 5
+      "rank": 7
     },
     {
       "id": "ec71e4ee1e666a1d",
@@ -209,7 +250,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 8
     },
     {
       "id": "3bc10e8556c8fc55",
@@ -232,7 +273,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 7
+      "rank": 9
     },
     {
       "id": "440657d2dc8c323f",
@@ -258,7 +299,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 10
     },
     {
       "id": "12aa6a11450bbf51",
@@ -282,7 +323,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 11
     },
     {
       "id": "4ccb7feb323da2c5",
@@ -306,7 +347,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 12
     },
     {
       "id": "22e3f9938ce1b878",
@@ -331,7 +372,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 13
     },
     {
       "id": "4217afa1802750d2",
@@ -354,7 +395,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 14
     },
     {
       "id": "368181bf18933d73",
@@ -381,7 +422,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 13
+      "rank": 15
     },
     {
       "id": "eab567c6e983b18b",
@@ -407,7 +448,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 16
     },
     {
       "id": "5d3857cc65c48eec",
@@ -430,7 +471,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 15
+      "rank": 17
     },
     {
       "id": "580a2f79ed237971",
@@ -453,7 +494,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 16
+      "rank": 18
     }
   ]
 }
