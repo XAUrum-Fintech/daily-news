@@ -1,50 +1,50 @@
 {
  "schema": "orob-news.v1",
- "edition_id": "2026-10-02T07:00Z",
- "generated_at": "2026-10-02T07:02:05Z",
+ "edition_id": "2026-10-02T08:00Z",
+ "generated_at": "2026-10-02T08:06:02Z",
  "window": {
-  "from": "2026-10-02T06:00:00Z",
-  "to": "2026-10-02T07:00:00Z"
+  "from": "2026-10-02T07:00:00Z",
+  "to": "2026-10-02T08:00:00Z"
  },
  "insights": {
-  "headline": "Gold slips toward a second weekly loss ahead of US payrolls; rupee at 96.31",
-  "summary": "Gold fell 0.6% to $4,154.78/oz on Friday, on track for a second straight weekly decline — down over 3% on the week — as a firmer dollar and Treasury yields at their highest since 2002 weighed on bullion. All eyes are on the September US payrolls report at 12:30 GMT: traders now see only ~25% odds of an October Fed hike versus ~79% for December. In India, the rupee sank to 96.31, its biggest fall in over two months, keeping imported bullion expensive, with MCX closed for Gandhi Jayanti. Reuters points to an entrenched ~$840/oz debasement premium holding gold above $4,000.",
+  "headline": "Gold steadies near $4,180 as softer yields cut October Fed-hike odds to ~27%; MCX shut for Gandhi Jayanti",
+  "summary": "Spot gold held near $4,180/oz on Friday as Treasury yields retreated from 24-year highs and Fed Vice Chair Jefferson's call for patience cut October hike odds to ~27% from 70% — though bullion remains on track for a ~2% weekly loss ahead of the US payrolls report at 12:30 GMT. In India, MCX is fully closed for Gandhi Jayanti, and the rupee's slide to 96.31 keeps imported bullion dear in rupee terms. Analysts see festive demand supporting prices after September's ~6% fall, while BofA warns of risks below $4,000 in Q4.",
   "points": [
-   "US September payrolls due 12:30 GMT Friday; a hot print could revive October hike bets and pressure gold further.",
-   "Rupee at 96.31 cushions global gold falls on MCX but lifts the landed cost of imported bullion; MCX shut for Gandhi Jayanti.",
-   "Reuters: a post-2022 'debasement premium' near $840/oz keeps gold above $4,000 despite 24-year-high yields.",
-   "Bank of Korea plans its first reserve gold purchase since 2013, buying from domestic producers in December.",
-   "Four SGB tranches open premature redemption in October; request windows close Oct 5, 9, 19 and 21."
+   "US September payrolls due 12:30 GMT: consensus +90k jobs, 4.1% jobless rate; a hot print could revive October hike bets.",
+   "Rupee at 96.31 — sharpest fall in 2+ months — cushions global declines on MCX but raises landed cost of imports.",
+   "MCX closed all of Friday for Gandhi Jayanti; trading resumes Monday, Oct 5.",
+   "BofA sees rising risk gold falls below $4,000 in Q4; Reuters cites ~$840/oz debasement premium above $4,000.",
+   "Bank of Korea plans first reserve gold purchase since 2013 in December; 4 SGB tranches open early redemption this month."
   ]
  },
  "trending": [
   {
    "title": "Payrolls day decides gold's next leg",
-   "summary": "Gold slid ahead of the September US jobs report: a soft print keeps the October hike off the table, a strong one extends the dollar's run. BofA warns crowded positioning could unwind fast.",
+   "summary": "Gold's calm hides a cross-current: softening yields and fading October hike bets support bullion, while a firm dollar caps it. The September jobs report at 12:30 GMT decides which side wins.",
    "item_ids": [
-    "30ec8798042c25fc",
-    "11e98fe7d56e6729"
+    "7380c551e15194f8",
+    "1d2483f227fd6bdf"
    ]
   },
   {
-   "title": "96.31: the rupee rewrites India's gold price",
-   "summary": "The rupee's sharpest fall in two months keeps imported bullion dear in rupee terms even when global prices soften; MCX futures still reclaimed ₹1.50 lakh/10g.",
+   "title": "A quiet MCX, a weak rupee",
+   "summary": "With MCX fully shut for Gandhi Jayanti, Indian traders sit out the payrolls volatility. The rupee's 96.31 low means any global rebound translates into higher rupee prices for festival buyers.",
    "item_ids": [
-    "d80b4405481c3531",
-    "e5c98496cea7c54e"
+    "4f97bb3157371725",
+    "d80b4405481c3531"
    ]
   },
   {
-   "title": "Central banks underpin the floor",
-   "summary": "The Bank of Korea's first gold buy since 2013 and an entrenched de-dollarisation premium keep structural demand intact beneath the volatility.",
+   "title": "The $4,000 floor debate",
+   "summary": "BofA warns of a slide below $4,000 in Q4 on oil-driven inflation and crowded longs; against it, Reuters analysis puts an entrenched ~$840/oz debasement premium under gold since 2022.",
    "item_ids": [
-    "6d21e2940b3a73cf",
+    "11e98fe7d56e6729",
     "69a073e35eda545b"
    ]
   },
   {
-   "title": "Festive season meets record prices",
-   "summary": "Analysts expect Dussehra-to-Diwali buying to support gold in value terms, but record prices push buyers toward lighter jewellery, coins and digital gold; IIBX adds a Kolkata vault by Diwali.",
+   "title": "Diwali pipeline builds",
+   "summary": "Analysts expect Dussehra-to-Diwali buying to stay healthy in value terms even at record prices, while IIBX's new Kolkata vault by Diwali shortens the supply chain for Bengal jewellers.",
    "item_ids": [
     "12aa6a11450bbf51",
     "26d1022a3aaeac1f"
@@ -53,32 +53,31 @@
  ],
  "items": [
   {
-   "id": "30ec8798042c25fc",
-   "rank": 1,
-   "title": "Gold slips before US payrolls data, set for second weekly loss",
-   "summary": "Gold fell 0.6% to $4,154.78/oz, on track for a second straight weekly decline, as a firmer dollar and Treasury yields at their highest since 2002 weighed on bullion. The September US payrolls report is due at 12:30 GMT; traders now price only ~25% odds of an October Fed hike versus ~79% for December. Silver, platinum and palladium are also set for weekly losses. MCX is closed for Gandhi Jayanti.",
-   "url": "https://www.reuters.com/world/india/gold-slips-before-us-payrolls-data-set-second-weekly-loss-2026-10-02/",
-   "source": "Reuters",
-   "source_domain": "reuters.com",
-   "publisher_id": "reuters",
-   "published_at": "2026-10-02T00:30:00Z",
+   "id": "7380c551e15194f8",
+   "title": "Gold steadies as easing US bond yields reduce rate-hike bets",
+   "summary": "Spot gold held near $4,180/oz on Friday, up ~0.5% on the day, as US bond yields retreated from 24-year highs and Fed Vice Chair Jefferson's call for patience cut October hike odds to ~27% from 70% earlier in the week. Gold is still on track for a ~2% weekly loss ahead of the September payrolls report at 12:30 GMT; a firm dollar caps the rebound. Oil rose on Middle East escalation fears.",
+   "url": "https://www.moneyweb.co.za/mineweb/gold-steadies-as-easing-us-bond-yields-reduce-rate-hike-bets/",
+   "source": "Moneyweb",
+   "source_domain": "moneyweb.co.za",
+   "publisher_id": "moneyweb",
+   "published_at": "2026-10-02T06:15:00Z",
    "image_url": null,
    "image_kind": "none",
-   "tags": [
-    "gold",
-    "silver",
-    "global",
-    "fed"
-   ],
    "category": "global",
    "metals": [
     "gold",
     "silver"
    ],
+   "tags": [
+    "gold",
+    "global",
+    "fed"
+   ],
    "breaking": false,
    "related_urls": [
-    "https://www.fxstreet.com/news/gold-struggles-to-lure-buyers-amid-bullish-usd-eye-us-nfp-for-fed-rate-cues-202610020355"
-   ]
+    "https://www.reuters.com/world/india/gold-slips-before-us-payrolls-data-set-second-weekly-loss-2026-10-02/"
+   ],
+   "rank": 1
   },
   {
    "id": "d80b4405481c3531",
@@ -108,8 +107,33 @@
    "related_urls": []
   },
   {
+   "id": "4f97bb3157371725",
+   "title": "Gold price today: Precious metal slips ahead of US Jobs data; MCX closed for Gandhi Jayanti",
+   "summary": "MCX is fully closed on Friday for Gandhi Jayanti — gold, silver and all commodities suspended, trading resumes Monday, Oct 5. Spot gold fell 0.6% to $4,154.78/oz, set for a second straight weekly loss. LKP Securities' Jateen Trivedi sees gold in ₹1,48,000–1,52,500 with support at $4,125 and resistance at $4,200 ahead of the US payrolls report; Delhi physical 24K at ₹14,940/g.",
+   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-today-precious-metal-slips-ahead-of-us-jobs-data-mcx-closed-for-gandhi-jayanti/articleshow/134631649.cms",
+   "source": "Economic Times",
+   "source_domain": "economictimes.indiatimes.com",
+   "publisher_id": "economic-times",
+   "published_at": "2026-10-02T04:20:28Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/4f97bb3157371725.jpg",
+   "image_kind": "photo",
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "tags": [
+    "gold",
+    "silver",
+    "mcx",
+    "india"
+   ],
+   "breaking": false,
+   "rank": 3
+  },
+  {
    "id": "11e98fe7d56e6729",
-   "rank": 3,
+   "rank": 4,
    "title": "Risks rising that gold prices fall below $4,000 in Q4 - Bank of America",
    "summary": "Bank of America sees rising risks that gold falls below $4,000 an ounce in Q4, Kitco reports. The bank — among the first to call $5,000 — keeps its bullish 2027 view but expects gold to average $3,750 in Q4 as elevated energy prices sustain inflation fears. Crowded positioning is the biggest near-term risk: if Middle East tensions don't resolve, a rapid unwind could pressure gold lower quickly.",
    "url": "https://www.kitco.com/news/article/2026-10-01/risks-rising-gold-prices-fall-below-4000-q4-bank-america",
@@ -133,7 +157,7 @@
   },
   {
    "id": "69a073e35eda545b",
-   "rank": 4,
+   "rank": 5,
    "title": "Entrenched premium leaves gold primed to climb despite surge in US bond yields",
    "summary": "Gold's resilience above $4,000 as Treasury yields hit their highest since 2002 points to a durable post-2022 demand premium, Reuters analysis says. MKS PAMP's Nicky Shiels estimates the 'debasement and de-dollarisation' premium — the slice not explained by real yields and the dollar — has averaged over $1,000/oz since 2022 and stands near $840 now, driven by central-bank reserve diversification.",
    "url": "https://www.reuters.com/business/entrenched-premium-leaves-gold-primed-climb-despite-surge-us-bond-yields-2026-10-01/",
@@ -160,7 +184,7 @@
   },
   {
    "id": "6d21e2940b3a73cf",
-   "rank": 5,
+   "rank": 6,
    "title": "Bank of Korea plans gold purchase from domestic producers in December",
    "summary": "South Korea's central bank plans to buy gold from domestic producers in December — its first reserve gold purchase since 2013. An official said the transaction system should be ready by December 14, with about one tonne potentially available. The Bank of Korea held 104.4 tonnes of gold (3.1% of reserves) at end-June, per the World Gold Council.",
    "url": "https://www.mining.com/web/bank-of-korea-plans-gold-purchase-from-domestic-producers-in-december/",
@@ -184,7 +208,7 @@
   },
   {
    "id": "12aa6a11450bbf51",
-   "rank": 6,
+   "rank": 7,
    "title": "Gold price future roadmap: What led to 6% yellow metal fall in Sept 2026? Will Diwali help bounce back? Experts view",
    "summary": "Analysts say festive and wedding demand could support gold after its ~6% September slide, Mint reports. Brickwork's Rajeev Sharan expects Dussehra-to-Diwali buying to keep demand healthy in value terms, though record prices may push buyers toward lighter jewellery, coins or digital gold. Gold opened October near $4,150; soft August core PCE cut October Fed-hike odds to ~34-38%.",
    "url": "https://www.livemint.com/market/commodities/gold-price-future-roadmap-why-led-to-6-yellow-metal-fall-in-sept-2026-will-diwali-help-bounce-back-experts-view-11790842892313.html",
@@ -209,55 +233,8 @@
    "related_urls": []
   },
   {
-   "id": "580a2f79ed237971",
-   "rank": 7,
-   "title": "SGB premature redemption October 2026: 4 tranches eligible for early exit, check RBI dates and deadlines",
-   "summary": "Four SGB tranches are eligible for premature redemption in October 2026: 2019-20 Series V (Oct 15; request by Oct 5), 2020-21 Series VII (Oct 19; by Oct 9), 2020-21 Series I (Oct 28; by Oct 19) and 2019-20 Series VI (Oct 30; by Oct 21). Exit is allowed only after five years on scheduled dates; redemption value is linked to the IBJA's 999-purity gold average over the preceding three working days.",
-   "url": "https://www.livemint.com/money/personal-finance/sgb-premature-redemption-october-2026-4-tranches-eligible-for-early-exit-check-rbi-dates-and-deadlines-11790822437536.html",
-   "source": "Mint",
-   "source_domain": "livemint.com",
-   "publisher_id": "mint",
-   "published_at": "2026-10-01T02:55:20Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/580a2f79ed237971.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "india",
-    "rbi"
-   ],
-   "category": "policy",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "related_urls": []
-  },
-  {
-   "id": "747961b35eb45354",
-   "rank": 8,
-   "title": "Silver Falls 45% From Its 2026 Peak as Sierra Madre Scales Up Production",
-   "summary": "Silver has fallen ~45% from its January 2026 peak near $115/oz to about $63 by mid-September, Carbon Credits reports, as producer Sierra Madre scales up output. The World Silver Survey 2026 put 2025 mine output up 3% at 846.6 Moz, yet total demand of 1.13 Boz left a 40.3-Moz deficit — the fifth straight annual shortfall — with a 46.3-Moz deficit expected in 2026.",
-   "url": "https://carboncredits.com/silver-price-pullback-sierra-madre-mine-expansion-sm/",
-   "source": "Carbon Credits",
-   "source_domain": "carboncredits.com",
-   "publisher_id": "carbon-credits",
-   "published_at": "2026-10-01T16:46:08Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/747961b35eb45354.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "silver",
-    "global"
-   ],
-   "category": "global",
-   "metals": [
-    "silver"
-   ],
-   "breaking": false,
-   "related_urls": []
-  },
-  {
    "id": "e5c98496cea7c54e",
-   "rank": 9,
+   "rank": 8,
    "title": "Gold futures rise to ₹1.50 lakh/10 gm on firm spot demand",
    "summary": "Gold futures rose ₹1,475 to ₹1,50,511 per 10 grams on MCX on Thursday as speculators created fresh positions on firm spot demand, PTI reported. The October contract traded 0.99% higher in 2,019 lots. Gold futures also rose 0.59% to $4,182.06/oz in New York.",
    "url": "https://www.thehindubusinessline.com/markets/gold/gold-futures-rise-to-150-lakh10-gm-on-firm-spot-demand/article71532369.ece",
@@ -281,7 +258,7 @@
   },
   {
    "id": "26d1022a3aaeac1f",
-   "rank": 10,
+   "rank": 9,
    "title": "IIBX to open Kolkata bullion vault by Diwali, bringing delivery closer to Bengal jewellers",
    "summary": "IIBX will open its own bullion vault at Manikam SEZ in Kolkata by Diwali, MD Ashok Gautam said at the ICC Gems & Jewellery Summit. Nearly 50 qualified jewellers and TRQ holders in West Bengal are already linked to IIBX; a local vault lets them take delivery nearby instead of sourcing from Chennai or GIFT City, cutting logistics costs and delivery times.",
    "url": "https://financialsamachar.com/from-digital-gold-to-heritage-craftsmanship-icc-summit-explores-jewellerys-future/",
@@ -303,6 +280,76 @@
    ],
    "breaking": false,
    "related_urls": []
+  },
+  {
+   "id": "580a2f79ed237971",
+   "rank": 10,
+   "title": "SGB premature redemption October 2026: 4 tranches eligible for early exit, check RBI dates and deadlines",
+   "summary": "Four SGB tranches are eligible for premature redemption in October 2026: 2019-20 Series V (Oct 15; request by Oct 5), 2020-21 Series VII (Oct 19; by Oct 9), 2020-21 Series I (Oct 28; by Oct 19) and 2019-20 Series VI (Oct 30; by Oct 21). Exit is allowed only after five years on scheduled dates; redemption value is linked to the IBJA's 999-purity gold average over the preceding three working days.",
+   "url": "https://www.livemint.com/money/personal-finance/sgb-premature-redemption-october-2026-4-tranches-eligible-for-early-exit-check-rbi-dates-and-deadlines-11790822437536.html",
+   "source": "Mint",
+   "source_domain": "livemint.com",
+   "publisher_id": "mint",
+   "published_at": "2026-10-01T02:55:20Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/580a2f79ed237971.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "india",
+    "rbi"
+   ],
+   "category": "policy",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "related_urls": []
+  },
+  {
+   "id": "747961b35eb45354",
+   "rank": 11,
+   "title": "Silver Falls 45% From Its 2026 Peak as Sierra Madre Scales Up Production",
+   "summary": "Silver has fallen ~45% from its January 2026 peak near $115/oz to about $63 by mid-September, Carbon Credits reports, as producer Sierra Madre scales up output. The World Silver Survey 2026 put 2025 mine output up 3% at 846.6 Moz, yet total demand of 1.13 Boz left a 40.3-Moz deficit — the fifth straight annual shortfall — with a 46.3-Moz deficit expected in 2026.",
+   "url": "https://carboncredits.com/silver-price-pullback-sierra-madre-mine-expansion-sm/",
+   "source": "Carbon Credits",
+   "source_domain": "carboncredits.com",
+   "publisher_id": "carbon-credits",
+   "published_at": "2026-10-01T16:46:08Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/747961b35eb45354.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "silver",
+    "global"
+   ],
+   "category": "global",
+   "metals": [
+    "silver"
+   ],
+   "breaking": false,
+   "related_urls": []
+  },
+  {
+   "id": "1d2483f227fd6bdf",
+   "title": "Silver price forecast: XAG/USD rises to near $61.40 as US yields retreat, NFP eyed",
+   "summary": "XAG/USD rose ~0.55% toward $61.38 as the Treasury yield rally paused, FXStreet reports. Markets await September US nonfarm payrolls at 12:30 GMT (consensus +90,000 jobs, 4.1% unemployment) after the Fed's September hike to 3.75–4.00%. Technically silver trades below its 20-day EMA at $63.48 with RSI near 41.6; resistance at $62.19, support at $60.00.",
+   "url": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-to-near-6140-as-us-yields-retreat-nfp-eyed-202610020524",
+   "source": "FXStreet",
+   "source_domain": "fxstreet.com",
+   "publisher_id": "fxstreet",
+   "published_at": "2026-10-02T05:24:00Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/1d2483f227fd6bdf.jpg",
+   "image_kind": "photo",
+   "category": "global",
+   "metals": [
+    "silver"
+   ],
+   "tags": [
+    "silver",
+    "global",
+    "fed"
+   ],
+   "breaking": false,
+   "rank": 12
   }
  ]
 }
