@@ -1,35 +1,44 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-02T10:00Z",
-  "generated_at": "2026-10-02T10:08:05Z",
+  "edition_id": "2026-10-02T12:00Z",
+  "generated_at": "2026-10-02T12:05:35Z",
   "window": {
-    "from": "2026-10-02T09:00:00Z",
-    "to": "2026-10-02T10:00:00Z"
+    "from": "2026-10-02T11:00:00Z",
+    "to": "2026-10-02T12:00:00Z"
   },
   "insights": {
-    "headline": "Gold steadies near $4,188 ahead of US payrolls; festive buying returns to India",
-    "summary": "Gold steadied near $4,188/oz as retreating US bond yields cut the odds of an October Fed rate hike to about 26%, with the September payrolls report due at 12:30 GMT set to decide the metal's next move. The metal is still down more than 2% for the week — a second straight weekly loss — while MCX stayed shut for Gandhi Jayanti and the rupee sank to 96.31, a two-month low. In India, physical demand is stirring as lower prices narrow dealer discounts ahead of the festive season, though MCX gold still faces Rs 1.5 lakh resistance.",
+    "headline": "Gold holds near $4,188 ahead of payrolls; Kashkari sees more hikes coming",
+    "summary": "Gold steadied near $4,188/oz as a pullback in US bond yields cut October Fed-hike odds to about 26%, with the September payrolls report due at 12:30 GMT set to decide the metal's next move; bullion is still down over 2% for the week, a second straight weekly loss. Minneapolis Fed chief Kashkari said more rate hikes will probably be needed, projecting one more in 2026 and another in 2027. MCX stayed shut for Gandhi Jayanti while festive-season buying returned as lower prices narrowed Indian dealer discounts to $14/oz from $43, and MCX gold knocked on Rs 1.5 lakh/10g on firm spot demand.",
     "points": [
-      "September US payrolls due 12:30 GMT today; a hot print could revive Fed hike bets and weigh on gold.",
-      "Domestic gold rose Rs 607 to Rs 1,49,643/10g on Oct 1 on Fed rate-hold expectations; MCX closed Friday for Gandhi Jayanti.",
-      "Indian dealer discounts narrowed to $14/oz from $43 as lower prices drew physical buyers back.",
-      "Silver is split: XAG holds near $61.40 ahead of NFP, but experts call half of its 2026 rally a bubble.",
-      "IIBX opens a Kolkata bullion vault by Diwali; four SGB tranches are eligible for early exit in October."
+      "September US payrolls due 12:30 GMT today (consensus +90,000 jobs, 4.1% unemployment); a hot print could revive Fed hike bets.",
+      "Kashkari projects one more quarter-point hike in 2026 and another in 2027; Jefferson urges patience as markets reassess.",
+      "MCX closed Friday for Gandhi Jayanti; domestic gold traded near Rs 1.49-1.50 lakh/10g with Rs 1.5 lakh resistance in focus.",
+      "Festive buying returns: lower prices lured Asian buyers and narrowed Indian dealer discounts to $14/oz from $43.",
+      "Silver split: XAG holds near $61.40 ahead of NFP while Indian experts call half of its 2026 rally a bubble."
     ]
   },
   "trending": [
     {
       "title": "Payrolls day decides gold's next leg",
-      "summary": "Easing yields cut October hike odds to 26% and steadied gold near $4,188, but a firm dollar and 24-year-high yields cap it. The September jobs report at 12:30 GMT decides which side wins.",
+      "summary": "Gold holds near $4,188 with October hike odds at 26% after yields eased, but Kashkari's call for more hikes keeps pressure on. The payrolls report at 12:30 GMT decides which side wins.",
       "item_ids": [
         "30ec8798042c25fc",
         "7380c551e15194f8",
-        "fa63a513af885d0c"
+        "2e21769b8a0a8b6b"
+      ]
+    },
+    {
+      "title": "The Rs 1.5 lakh ceiling on MCX",
+      "summary": "MCX gold knocked on Rs 1.5 lakh/10g on firm spot demand, but faces stiff resistance after the US yield spike, with domestic gold trading Rs 1.49-1.50 lakh on a holiday-shortened Friday.",
+      "item_ids": [
+        "3028577418e518ab",
+        "e5c98496cea7c54e",
+        "2cca5ca9e2c54a10"
       ]
     },
     {
       "title": "Festive buying returns as prices cool",
-      "summary": "India's physical market is stirring: discounts narrowed as lower prices pulled buyers back, and jewellers weigh festive stocking while analysts expect value-term demand to hold on lighter jewellery.",
+      "summary": "Lower prices pulled Asian physical buyers back and narrowed Indian dealer discounts to $14/oz; jewellers weigh festive stocking while analysts see value-term demand holding on lighter jewellery.",
       "item_ids": [
         "74e5a925aee82db7",
         "440657d2dc8c323f",
@@ -37,17 +46,8 @@
       ]
     },
     {
-      "title": "The Rs 1.5 lakh ceiling on MCX",
-      "summary": "Domestic gold is knocking on Rs 1.5 lakh/10g — futures hit Rs 1,50,511 on firm spot demand — but faces stiff resistance after the US yield spike, and a two-month-low rupee keeps imports expensive.",
-      "item_ids": [
-        "3028577418e518ab",
-        "e5c98496cea7c54e",
-        "d80b4405481c3531"
-      ]
-    },
-    {
       "title": "Silver's split verdict",
-      "summary": "XAG holds near $61.40 ahead of payrolls, but analysts are split: one camp calls half of silver's 2026 rally a bubble now deflating, while supply deficits and industrial demand underpin the long case.",
+      "summary": "XAG holds near $61.40 ahead of payrolls, but the camp is split: Indian experts call half of 2026's rally a bubble, even as supply deficits persist with silver 45% off its peak.",
       "item_ids": [
         "1d2483f227fd6bdf",
         "de6f10ac82d42484",
@@ -55,11 +55,11 @@
       ]
     },
     {
-      "title": "Domestic market infrastructure steps up",
-      "summary": "IIBX opens a Kolkata vault by Diwali to bring delivery to Bengal jewellers, and four SGB tranches open for early exit in October — as FY2026 data shows bars and coins are 41% of Indian gold demand.",
+      "title": "Domestic market plumbing gets festive-ready",
+      "summary": "Four SGB tranches open for early exit in October, and IIBX's Kolkata vault by Diwali brings delivery closer to Bengal jewellers.",
       "item_ids": [
-        "26d1022a3aaeac1f",
-        "580a2f79ed237971"
+        "580a2f79ed237971",
+        "26d1022a3aaeac1f"
       ]
     }
   ],
@@ -120,8 +120,31 @@
       "breaking": false
     },
     {
-      "id": "74e5a925aee82db7",
+      "id": "2e21769b8a0a8b6b",
       "rank": 3,
+      "title": "Fed's Jefferson urges patience on rates; Kashkari sees more hikes ahead",
+      "summary": "Fed Vice Chair Philip Jefferson said he saw 'no urgency' for another rate move despite backing last month's hike, urging patience as markets reassess rising bond yields. Minneapolis Fed chief Neel Kashkari struck a hawkish note, saying more hikes will probably be needed — one more this year and another in 2027 — warning policy may need to go higher if a resilient economy keeps inflation sticky.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/feds-jefferson-urges-patience-on-rates-kashkari-sees-more-hikes-ahead/articleshow/134626712.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-10-01T19:42:38Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/2e21769b8a0a8b6b.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "74e5a925aee82db7",
+      "rank": 4,
       "title": "Gold gets its festive shine back as lower prices lure Asian buyers",
       "summary": "Lower gold prices are pulling physical buyers back across Asia ahead of the festive season, the Times of India reports: Indian dealer discounts narrowed from up to $43/oz to $14/oz as demand improved, Singapore dealers saw stronger buying as they rebuilt inventories, and China is watching price moves closely with premiums running high.",
       "url": "https://timesofindia.indiatimes.com/business/international-business/gold-gets-its-festive-shine-back-as-lower-prices-lure-asian-buyers/articleshow/134634015.cms",
@@ -144,7 +167,7 @@
     },
     {
       "id": "69a073e35eda545b",
-      "rank": 4,
+      "rank": 5,
       "title": "Entrenched premium leaves gold primed to climb despite surge in US bond yields",
       "summary": "Gold's resilience above $4,000 as Treasury yields hit their highest since 2002 points to a durable post-2022 demand premium, Reuters analysis says. MKS PAMP's Nicky Shiels estimates the 'debasement and de-dollarisation' premium — the slice not explained by real yields and the dollar — has averaged over $1,000/oz since 2022 and stands near $840 now, driven by central-bank reserve diversification.",
       "url": "https://www.reuters.com/business/entrenched-premium-leaves-gold-primed-climb-despite-surge-us-bond-yields-2026-10-01/",
@@ -171,7 +194,7 @@
     },
     {
       "id": "11e98fe7d56e6729",
-      "rank": 5,
+      "rank": 6,
       "title": "Risks rising that gold prices fall below $4,000 in Q4 - Bank of America",
       "summary": "Bank of America sees rising risks that gold falls below $4,000 an ounce in Q4, Kitco reports. The bank — among the first to call $5,000 — keeps its bullish 2027 view but expects gold to average $3,750 in Q4 as elevated energy prices sustain inflation fears. Crowded positioning is the biggest near-term risk: if Middle East tensions don't resolve, a rapid unwind could pressure gold lower quickly.",
       "url": "https://www.kitco.com/news/article/2026-10-01/risks-rising-gold-prices-fall-below-4000-q4-bank-america",
@@ -193,58 +216,8 @@
       "breaking": false
     },
     {
-      "id": "d80b4405481c3531",
-      "rank": 6,
-      "title": "Rupee sinks to 96.31, logs biggest fall in over 2 months",
-      "summary": "The rupee fell to 96.31 against the dollar on Friday, its sharpest single-day fall in over two months, as record foreign-investor selling — FPIs have pulled about Rs 3 lakh crore from Indian equities in nine months — combined with a surging dollar. With MCX fully closed for Gandhi Jayanti, a weaker rupee keeps imported gold and silver expensive in rupee terms even when global prices soften.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-sinks-to-96-31-logs-biggest-fall-in-over-2-months/articleshow/134630728.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "publisher_id": "economic-times",
-      "published_at": "2026-10-02T02:52:20Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/d80b4405481c3531.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "rupee",
-        "india",
-        "mcx",
-        "gold",
-        "silver"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false
-    },
-    {
-      "id": "440657d2dc8c323f",
-      "rank": 7,
-      "title": "Gold, silver prices edge higher: How festive demand could shape the outlook",
-      "summary": "Gold and silver edged higher on October 1 — MCX December gold at Rs 1.49 lakh/10g, December silver at Rs 2.24 lakh/kg — ahead of India's festive season, CNBC-TV18 reports. Ventura's NS Ramaswamy sees gold caught between high yields and support from central-bank buying and ETF flows; Kama Jewelry's Colin Shah says festive demand stays resilient, though high prices push buyers to lighter jewellery.",
-      "url": "https://www.cnbctv18.com/market/commodities/gold-silver-prices-edge-higher-how-festive-demand-could-shape-outlook-20003069.htm",
-      "source": "CNBC-TV18",
-      "source_domain": "cnbctv18.com",
-      "publisher_id": "cnbc-tv18",
-      "published_at": "2026-10-01T09:33:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/440657d2dc8c323f.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "india",
-        "jewellery"
-      ],
-      "category": "festive",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false
-    },
-    {
       "id": "3028577418e518ab",
-      "rank": 8,
+      "rank": 7,
       "title": "MCX Gold Faces Rs 1.5 Lakh Resistance After Yield Spike",
       "summary": "MCX gold October futures jumped 1.02% to Rs 1,47,649/10g but face a Rs 1.5 lakh resistance after a US Treasury yield spike, NDTV Profit reports, while MCX silver December futures rose 0.94% to Rs 2,25,804/kg. The article lists the key support and resistance levels traders are watching on both metals.",
       "url": "https://www.ndtvprofit.com/markets/mcx-gold-faces-rs-1-5-lakh-resistance-after-yield-spike-key-buy-and-sell-levels-to-watch-12126925",
@@ -269,7 +242,7 @@
     },
     {
       "id": "e5c98496cea7c54e",
-      "rank": 9,
+      "rank": 8,
       "title": "Gold futures rise to Rs 1.50 lakh/10 gm on firm spot demand",
       "summary": "Gold futures rose Rs 1,475 to Rs 1,50,511 per 10 grams on MCX on Thursday as speculators created fresh positions on firm spot demand, PTI reported. The October contract traded 0.99% higher in 2,019 lots. Gold futures also rose 0.59% to $4,182.06/oz in New York.",
       "url": "https://www.thehindubusinessline.com/markets/gold/gold-futures-rise-to-150-lakh10-gm-on-firm-spot-demand/article71532369.ece",
@@ -287,6 +260,31 @@
       "category": "mcx",
       "metals": [
         "gold"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "440657d2dc8c323f",
+      "rank": 9,
+      "title": "Gold, silver prices edge higher: How festive demand could shape the outlook",
+      "summary": "Gold and silver edged higher on October 1 — MCX December gold at Rs 1.49 lakh/10g, December silver at Rs 2.24 lakh/kg — ahead of India's festive season, CNBC-TV18 reports. Ventura's NS Ramaswamy sees gold caught between high yields and support from central-bank buying and ETF flows; Kama Jewelry's Colin Shah says festive demand stays resilient, though high prices push buyers to lighter jewellery.",
+      "url": "https://www.cnbctv18.com/market/commodities/gold-silver-prices-edge-higher-how-festive-demand-could-shape-outlook-20003069.htm",
+      "source": "CNBC-TV18",
+      "source_domain": "cnbctv18.com",
+      "publisher_id": "cnbc-tv18",
+      "published_at": "2026-10-01T09:33:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/440657d2dc8c323f.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "india",
+        "jewellery"
+      ],
+      "category": "festive",
+      "metals": [
+        "gold",
+        "silver"
       ],
       "breaking": false
     },
@@ -361,32 +359,8 @@
       "breaking": false
     },
     {
-      "id": "1aff45d8673ccc2d",
-      "rank": 13,
-      "title": "Gold Edges Higher as Softer Inflation Supports Bullion",
-      "summary": "Physical gold demand in India improved modestly as lower prices drew buyers ahead of the festive season, Bullions reports, with dealer discounts narrowing to $43/oz from $60 last week. Singapore premiums were 1.70-2.50, Hong Kong 1.70-2.00. MCX gold settled 0.14% higher at Rs 1,49,036 as soft US inflation bolstered rate-hold expectations; Goldman Sachs kept its end-2027 forecast at $5,400/oz.",
-      "url": "https://bullions.co.in/news/2026/10/gold-edges-higher-as-softer-inflation-supports-bullion/",
-      "source": "Bullions",
-      "source_domain": "bullions.co.in",
-      "publisher_id": "bullions",
-      "published_at": "2026-10-01T12:00:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "india",
-        "jewellery",
-        "mcx"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false
-    },
-    {
       "id": "12aa6a11450bbf51",
-      "rank": 14,
+      "rank": 13,
       "title": "Gold price future roadmap: What led to 6% yellow metal fall in Sept 2026? Will Diwali help bounce back?",
       "summary": "Analysts say festive and wedding demand could support gold after its ~6% September slide, Mint reports. Brickwork's Rajeev Sharan expects Dussehra-to-Diwali buying to keep demand healthy in value terms, though record prices may push buyers toward lighter jewellery, coins or digital gold. Gold opened October near $4,150; soft August core PCE cut October Fed-hike odds to ~34-38%.",
       "url": "https://www.livemint.com/market/commodities/gold-price-future-roadmap-why-led-to-6-yellow-metal-fall-in-sept-2026-will-diwali-help-bounce-back-experts-view-11790842892313.html",
@@ -411,7 +385,7 @@
     },
     {
       "id": "2cca5ca9e2c54a10",
-      "rank": 15,
+      "rank": 14,
       "title": "Gold rises Rs 607 as rate-hold expectations strengthen; silver jumps Rs 2,828",
       "summary": "Softer-than-expected US inflation strengthened Fed rate-hold expectations and lifted Indian bullion, Business Standard reports: MCX December gold opened Rs 607 higher at Rs 1,49,643/10g and December silver opened Rs 2,828 higher at Rs 2,26,534/kg, with Comex gold trading near $4,200/oz. The article lists key support and resistance levels for both metals.",
       "url": "https://www.business-standard.com/markets/commodities/gold-rises-607-as-rate-hold-expectations-strengthen-silver-jumps-2-828-126100100452_1.html",
@@ -437,7 +411,7 @@
     },
     {
       "id": "580a2f79ed237971",
-      "rank": 16,
+      "rank": 15,
       "title": "SGB premature redemption October 2026: 4 tranches eligible for early exit, check RBI dates and deadlines",
       "summary": "Four SGB tranches are eligible for premature redemption in October 2026: 2019-20 Series V (Oct 15; request by Oct 5), 2020-21 Series VII (Oct 19; by Oct 9), 2020-21 Series I (Oct 28; by Oct 19) and 2019-20 Series VI (Oct 30; by Oct 21). Exit is allowed only after five years on scheduled dates; redemption value is linked to the IBJA's 999-purity gold average over the preceding three working days.",
       "url": "https://www.livemint.com/money/personal-finance/sgb-premature-redemption-october-2026-4-tranches-eligible-for-early-exit-check-rbi-dates-and-deadlines-11790822437536.html",
@@ -460,7 +434,7 @@
     },
     {
       "id": "26d1022a3aaeac1f",
-      "rank": 17,
+      "rank": 16,
       "title": "IIBX to open Kolkata bullion vault by Diwali, bringing delivery closer to Bengal jewellers",
       "summary": "IIBX will open its own bullion vault at Manikam SEZ in Kolkata by Diwali, MD Ashok Gautam said at the ICC Gems & Jewellery Summit — Bengal's ~50 IIBX-linked jewellers can take delivery locally instead of from Chennai or GIFT City. Summit data: FY2026 jewellery use fell to 825 tonnes while bars and coins rose to 296 tonnes (41% of demand); gems and jewellery exports hit $27.72bn.",
       "url": "https://financialsamachar.com/from-digital-gold-to-heritage-craftsmanship-icc-summit-explores-jewellerys-future/",
@@ -484,7 +458,7 @@
     },
     {
       "id": "1d2483f227fd6bdf",
-      "rank": 18,
+      "rank": 17,
       "title": "Silver price forecast: XAG/USD rises to near $61.40 as US yields retreat, NFP eyed",
       "summary": "XAG/USD rose ~0.55% toward $61.38 as the Treasury yield rally paused, FXStreet reports. Markets await September US nonfarm payrolls at 12:30 GMT (consensus +90,000 jobs, 4.1% unemployment) after the Fed's September hike to 3.75–4.00%. Technically silver trades below its 20-day EMA at $63.48 with RSI near 41.6; resistance at $62.19, support at $60.00.",
       "url": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-to-near-6140-as-us-yields-retreat-nfp-eyed-202610020524",
@@ -507,7 +481,7 @@
     },
     {
       "id": "747961b35eb45354",
-      "rank": 19,
+      "rank": 18,
       "title": "Silver Falls 45% From Its 2026 Peak as Sierra Madre Scales Up Production",
       "summary": "Silver has fallen ~45% from its January 2026 peak near $115/oz to about $63 by mid-September, Carbon Credits reports, as producer Sierra Madre scales up output. The World Silver Survey 2026 put 2025 mine output up 3% at 846.6 Moz, yet total demand of 1.13 Boz left a 40.3-Moz deficit — the fifth straight annual shortfall — with a 46.3-Moz deficit expected in 2026.",
       "url": "https://carboncredits.com/silver-price-pullback-sierra-madre-mine-expansion-sm/",
