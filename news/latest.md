@@ -1,50 +1,66 @@
-# Gold & Silver News — 2026-10-02T18:00Z
+# Gold & Silver News — 2026-10-02T20:00Z
 
-Generated 2026-10-02T18:05:36Z (window 2026-10-02T16:00:00Z → 2026-10-02T18:00:00Z)
+Generated 2026-10-02T20:03:03Z (window 2026-10-02T18:00:00Z → 2026-10-02T20:00:00Z)
 
-**Silver's India shortage is policy-made, not demand-led; weak US jobs data keeps Fed-pause hopes alive**
+**Fed officials cool October rate-hike bets as markets reprice to 25% odds**
 
-A new analysis pins India's silver import collapse — 534.3 to 46.8 tonnes this May — on licensing curbs and the 15% duty rather than weak demand, with MCX silver 17% above the world price at end-September. The soft US September jobs report lifted gold to $4,210 and cooled October Fed hike bets, though high bond yields remain a drag. RBI data showed forex reserves falling $18.34 billion to $747.56 billion for a third straight week as dollar sales defended the rupee; gold reserves slipped $2.59 billion to $108.7 billion. In India, bullion markets were closed for Gandhi Jayanti; Thursday's...
+Fed officials led by Vice Chair Philip Jefferson signaled the central bank can take its time before another rate increase, and markets cut October hike odds from about 70% to 25%. US Treasury yields still rose after the weak September jobs report — 29,000 jobs added versus 90,000 expected — with the 10-year up 4.72 bps to 5.281%, keeping gold below $4,200. In India, silver imports remain squeezed by licensing curbs and the 15% duty, and RBI data showed forex reserves falling $18.34 billion to $747.56 billion for a third straight week as dollar sales defended the rupee.
 
-- Silver imports fell to 46.8 tonnes in May from 534.3 a year earlier; MCX silver was 17% above world prices on Sep 30.
+- October Fed hike odds fell from ~70% to 25% after Jefferson and Williams urged patience; Goldman Sachs says an October move is unlikely.
 
-- US added 29,000 jobs in September vs 90,000 expected; gold rose 0.8% to $4,210 and October Fed-hike odds fell to 12-19%.
+- September US payrolls added 29,000 vs 90,000 expected; the 10-year yield rose 4.72 bps to 5.281% and gold failed to hold above $4,200.
+
+- India's silver imports fell to 46.8 tonnes in May from 534.3 a year earlier; licensing curbs and the 15% duty, not demand, drove the drop.
 
 - Forex reserves fell $18.34B to $747.56B for a third straight week; RBI gold reserves down $2.59B to $108.7B.
 
 - MCX was shut for Gandhi Jayanti; Thursday's Delhi gold was Rs 1,49,800/10g and silver Rs 2.27 lakh/kg.
 
-- With gold at Rs 1.5 lakh/10g, middle-class buyers are shifting to silver; IBJA sees Diwali silver demand up 17-18% YoY.
-
 ## Trending
+
+### Fed officials cool October hike bets; odds fall from 70% to 25%
+
+Jefferson and Williams said the Fed can take its time before another increase, and traders slashed October hike odds; Goolsbee still kept both a hike and a cut on the table.
+
+Items: eb1f312c26052c9f, 4bd9076cecd5538b
 
 ### Silver's India problem is policy, not demand
 
-India's silver imports fell from 534.3 to 46.8 tonnes this May because licences, not demand, dried up; MCX silver was 17% above world prices at end-September. With Dhanteras on November 6,...
+India's silver imports fell from 534.3 to 46.8 tonnes this May because licences, not demand, dried up; MCX silver was 17% above world prices on Sep 30.
 
 Items: 2a4fddc9f3876fe2, d1033c69a46bcc28, 747961b35eb45354
 
-### Weak US jobs data revives Fed-pause bets
-
-A 29,000-job September print, far below the 90,000 expected, lifted gold to $4,210 and slashed October hike odds — but surging long-end bond yields are capping the rally.
-
-Items: 24ca6dac303c975d, 2e21769b8a0a8b6b, 7380c551e15194f8
-
 ### Rs 1.5 lakh gold pushes buyers toward silver
 
-With 10 grams of gold costing Rs 1.5 lakh, middle-class Indian buyers are buying silver instead — festive silver demand is expected to rise 17-18% year-on-year.
+With 24K gold near Rs 1.5 lakh per 10 grams, middle-class buyers are shifting to silver; IBJA expects Diwali silver demand up 17-18% year on year.
 
 Items: 6761beaa62bf2e20, 3028577418e518ab, e5c98496cea7c54e, 2a4fddc9f3876fe2
 
 ### RBI burns reserves defending the rupee
 
-Forex reserves fell $18.34 billion in a week — the third straight drop — as the RBI sold dollars; the steady drain is the backdrop to India's bullion import curbs.
+RBI sold dollars to contain the rupee's slide as forex reserves fell for a third straight week; gold reserves also slipped on revaluation.
 
 Items: 997d1234fb634c54, 2a4fddc9f3876fe2
 
 ## Items
 
-### 1. Silver's India Problem Was Policy, Not Demand
+### 1. Fed officials give hints on rate decision as markets cut October rate hike odds
+
+Economic Times · 2026-10-02T18:30:04Z · global · gold, silver
+
+Fed Vice Chair Philip Jefferson and New York Fed President John Williams signaled the central bank can take its time before another rate increase. Markets repriced sharply: October hike odds fell from about 70% to 25% on federal funds futures, and Goldman Sachs economists said an October hike is unlikely. Chicago Fed's Austan Goolsbee kept both a hike and a cut on the table.
+
+https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-officials-give-hints-on-rate-decision-as-markets-cut-october-rate-hike-odds/articleshow/134645153.cms
+
+### 2. US yields rise, reversing initial reaction to weak jobs report
+
+Mint · 2026-10-02T19:34:38Z · global · gold, silver
+
+US Treasury yields reversed an early decline after the weak September jobs report, with the 10-year yield climbing 4.72 basis points to 5.281%. Traders priced roughly an 80% probability that the Fed keeps rates unchanged at this month's meeting. TD Securities' Molly Brooks said the report helped prevent an extreme selloff, though the bond market is 'definitely not out of the woods'.
+
+https://www.livemint.com/market/us-yields-rise-reversing-initial-reaction-to-weak-jobs-report-11790969678755.html
+
+### 3. Silver's India Problem Was Policy, Not Demand
 
 Investing.com · 2026-10-02T16:35:00Z · policy · silver
 
@@ -52,7 +68,7 @@ India's silver imports fell to 46.8 tonnes in May from 534.3 tonnes a year earli
 
 https://www.investing.com/analysis/silvers-india-problem-was-policy-not-demand-200688867
 
-### 2. Soft September jobs report sends markets higher
+### 4. Soft September jobs report sends markets higher
 
 Reuters · 2026-10-02T13:00:00Z · global · gold
 
@@ -60,15 +76,7 @@ US employers added just 29,000 jobs in September, far below the 90,000 economist
 
 https://www.reuters.com/business/view-soft-september-jobs-report-sends-markets-higher-2026-10-02/
 
-### 3. Fed's Jefferson urges patience on rates; Kashkari sees more hikes ahead
-
-Economic Times · 2026-10-01T19:42:38Z · global · gold
-
-Fed Vice Chair Philip Jefferson said he saw 'no urgency' for another rate move despite backing last month's hike, urging patience as markets reassess rising bond yields. Minneapolis Fed chief Neel Kashkari struck a hawkish note, saying more hikes will probably be needed — one more this year and another in 2027 — warning policy may need to go higher if a resilient economy keeps inflation sticky.
-
-https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/feds-jefferson-urges-patience-on-rates-kashkari-sees-more-hikes-ahead/articleshow/134626712.cms
-
-### 4. Entrenched premium leaves gold primed to climb despite surge in US bond yields
+### 5. Entrenched premium leaves gold primed to climb despite surge in US bond yields
 
 Reuters · 2026-10-01T15:59:56Z · global · gold
 
@@ -76,7 +84,7 @@ Gold's resilience above $4,000 as Treasury yields hit their highest since 2002 p
 
 https://www.reuters.com/business/entrenched-premium-leaves-gold-primed-climb-despite-surge-us-bond-yields-2026-10-01/
 
-### 5. Risks rising that gold prices fall below $4,000 in Q4 - Bank of America
+### 6. Risks rising that gold prices fall below $4,000 in Q4 - Bank of America
 
 Kitco · 2026-10-01T18:13:16Z · global · gold
 
@@ -84,7 +92,7 @@ Bank of America sees rising risks that gold falls below $4,000 an ounce in Q4, K
 
 https://www.kitco.com/news/article/2026-10-01/risks-rising-gold-prices-fall-below-4000-q4-bank-america
 
-### 6. Gold at Rs 1.5 lakh per 10 grams is pushing middle-class Indian buyers to silver
+### 7. Gold at Rs 1.5 lakh per 10 grams is pushing middle-class Indian buyers to silver
 
 Times of India · 2026-10-02T13:29:00Z · mcx · gold, silver
 
@@ -92,7 +100,7 @@ Indian buyers are shifting from gold to silver this festive season: 10g of 24-ka
 
 https://timesofindia.indiatimes.com/business/india-business/gold-at-rs-1-5-lakh-per-10-grams-is-pushing-middle-class-indian-buyers-to-silver-who-are-getting-650-grams-of-silver-at-the-same-price-some-betting-silver-at-rs-2-3-lakh-per-kg-may-hit-rs-4-lakh/articleshow/134634505.cms
 
-### 7. MCX Gold Faces Rs 1.5 Lakh Resistance After Yield Spike
+### 8. MCX Gold Faces Rs 1.5 Lakh Resistance After Yield Spike
 
 NDTV Profit · 2026-10-01T15:57:00Z · mcx · gold, silver
 
@@ -100,7 +108,7 @@ MCX gold October futures jumped 1.02% to Rs 1,47,649/10g but face a Rs 1.5 lakh 
 
 https://www.ndtvprofit.com/markets/mcx-gold-faces-rs-1-5-lakh-resistance-after-yield-spike-key-buy-and-sell-levels-to-watch-12126925
 
-### 8. Gold futures rise to Rs 1.50 lakh/10 gm on firm spot demand
+### 9. Gold futures rise to Rs 1.50 lakh/10 gm on firm spot demand
 
 The Hindu BusinessLine · 2026-10-01T10:20:28Z · mcx · gold
 
@@ -108,7 +116,7 @@ Gold futures rose Rs 1,475 to Rs 1,50,511 per 10 grams on MCX on Thursday as spe
 
 https://www.thehindubusinessline.com/markets/gold/gold-futures-rise-to-150-lakh10-gm-on-firm-spot-demand/article71532369.ece
 
-### 9. Silver Prices Fall ₹5,000 Today, Down ₹10,000 This Week
+### 10. Silver Prices Fall ₹5,000 Today, Down ₹10,000 This Week
 
 Financial News India · 2026-10-02T01:00:00Z · mcx · gold, silver
 
@@ -116,7 +124,7 @@ Delhi bullion trade saw gold add ₹500 on Thursday to ₹1,49,800 per 10 grams 
 
 https://financialnewsindia.com/news/silver-prices-fall-%e2%82%b95000-today-down-%e2%82%b910000-this-week/
 
-### 10. Gold price today: Precious metal slips ahead of US Jobs data; MCX closed for Gandhi Jayanti
+### 11. Gold price today: Precious metal slips ahead of US Jobs data; MCX closed for Gandhi Jayanti
 
 Economic Times · 2026-10-02T04:20:28Z · mcx · gold, silver
 
@@ -124,7 +132,7 @@ MCX is fully closed on Friday for Gandhi Jayanti — gold, silver and all commod
 
 https://economictimes.indiatimes.com/markets/commodities/news/gold-price-today-precious-metal-slips-ahead-of-us-jobs-data-mcx-closed-for-gandhi-jayanti/articleshow/134631649.cms
 
-### 11. Gold rises Rs 607 as rate-hold expectations strengthen; silver jumps Rs 2,828
+### 12. Gold rises Rs 607 as rate-hold expectations strengthen; silver jumps Rs 2,828
 
 Business Standard · 2026-10-01T07:05:00Z · mcx · gold, silver
 
@@ -132,7 +140,7 @@ Softer-than-expected US inflation strengthened Fed rate-hold expectations and li
 
 https://www.business-standard.com/markets/commodities/gold-rises-607-as-rate-hold-expectations-strengthen-silver-jumps-2-828-126100100452_1.html
 
-### 12. India's Forex Reserves Plunge by $18.34 Billion
+### 13. India's Forex Reserves Plunge by $18.34 Billion
 
 Rediff · 2026-10-02T16:50:00Z · policy · gold
 
@@ -140,7 +148,7 @@ India's foreign exchange reserves fell $18.34 billion to $747.56 billion in the 
 
 https://www.rediff.com/business/report/indias-forex-reserves-drop-significantly-to-74756-billion-rbi-data/20261002.htm
 
-### 13. Gold gets its festive shine back as lower prices lure Asian buyers
+### 14. Gold gets its festive shine back as lower prices lure Asian buyers
 
 Times of India · 2026-10-02T08:15:00Z · festive · gold
 
@@ -148,21 +156,13 @@ Lower gold prices are pulling physical buyers back across Asia ahead of the fest
 
 https://timesofindia.indiatimes.com/business/international-business/gold-gets-its-festive-shine-back-as-lower-prices-lure-asian-buyers/articleshow/134634015.cms
 
-### 14. Gold, silver prices edge higher: How festive demand could shape the outlook
+### 15. Gold, silver prices edge higher: How festive demand could shape the outlook
 
 CNBC-TV18 · 2026-10-01T09:33:00Z · festive · gold, silver
 
 Gold and silver edged higher on October 1 — MCX December gold at Rs 1.49 lakh/10g, December silver at Rs 2.24 lakh/kg — ahead of India's festive season, CNBC-TV18 reports. Ventura's NS Ramaswamy sees gold caught between high yields and support from central-bank buying and ETF flows; Kama Jewelry's Colin Shah says festive demand stays resilient, though high prices push buyers to lighter jewellery.
 
 https://www.cnbctv18.com/market/commodities/gold-silver-prices-edge-higher-how-festive-demand-could-shape-outlook-20003069.htm
-
-### 15. Gold price future roadmap: What led to 6% yellow metal fall in Sept 2026? Will Diwali help bounce back?
-
-Mint · 2026-10-01T08:48:06Z · festive · gold
-
-Analysts say festive and wedding demand could support gold after its ~6% September slide, Mint reports. Brickwork's Rajeev Sharan expects Dussehra-to-Diwali buying to keep demand healthy in value terms, though record prices may push buyers toward lighter jewellery, coins or digital gold. Gold opened October near $4,150; soft August core PCE cut October Fed-hike odds to ~34-38%.
-
-https://www.livemint.com/market/commodities/gold-price-future-roadmap-why-led-to-6-yellow-metal-fall-in-sept-2026-will-diwali-help-bounce-back-experts-view-11790842892313.html
 
 ### 16. '50% of silver rally was just bubble': experts pick gold and platinum
 
@@ -211,3 +211,4 @@ Mint · 2026-10-01T02:55:20Z · policy · gold
 Four SGB tranches are eligible for premature redemption in October 2026: 2019-20 Series V (Oct 15; request by Oct 5), 2020-21 Series VII (Oct 19; by Oct 9), 2020-21 Series I (Oct 28; by Oct 19) and 2019-20 Series VI (Oct 30; by Oct 21). Exit is allowed only after five years on scheduled dates; redemption value is linked to the IBJA's 999-purity gold average over the preceding three working days.
 
 https://www.livemint.com/money/personal-finance/sgb-premature-redemption-october-2026-4-tranches-eligible-for-early-exit-check-rbi-dates-and-deadlines-11790822437536.html
+
