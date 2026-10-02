@@ -4,9 +4,9 @@ Generated 2026-10-02T18:05:36Z (window 2026-10-02T16:00:00Z → 2026-10-02T18:00
 
 **Silver's India shortage is policy-made, not demand-led; weak US jobs data keeps Fed-pause hopes alive**
 
-A new analysis pins India's silver import collapse — down 91% in a month — on import licensing curbs rather than weak demand, with domestic premiums topping 10% over global prices. The soft US September jobs report lifted gold to $4,210 and cooled October Fed hike bets, though high bond yields remain a drag. RBI data showed forex reserves falling $18.34 billion in a week to $747.56 billion, the third straight drop, as dollar sales defended the rupee; gold reserves slipped $2.59 billion to $108.7 billion. In India, bullion markets were closed for Gandhi Jayanti; Thursday's Delhi trade saw...
+A new analysis pins India's silver import collapse — 534.3 to 46.8 tonnes this May — on licensing curbs and the 15% duty rather than weak demand, with MCX silver 17% above the world price at end-September. The soft US September jobs report lifted gold to $4,210 and cooled October Fed hike bets, though high bond yields remain a drag. RBI data showed forex reserves falling $18.34 billion to $747.56 billion for a third straight week as dollar sales defended the rupee; gold reserves slipped $2.59 billion to $108.7 billion. In India, bullion markets were closed for Gandhi Jayanti; Thursday's...
 
-- Silver imports 'nearly come to a halt' as banks await licences; premiums hit about $6.5/oz, 10%+ over global prices.
+- Silver imports fell to 46.8 tonnes in May from 534.3 a year earlier; MCX silver was 17% above world prices on Sep 30.
 
 - US added 29,000 jobs in September vs 90,000 expected; gold rose 0.8% to $4,210 and October Fed-hike odds fell to 12-19%.
 
@@ -20,7 +20,7 @@ A new analysis pins India's silver import collapse — down 91% in a month — o
 
 ### Silver's India problem is policy, not demand
 
-India's silver imports collapsed 91% in a month because licences, not demand, dried up — and domestic premiums now top 10% over world prices. With festive buying set to rise, the licensing backlog...
+India's silver imports fell from 534.3 to 46.8 tonnes this May because licences, not demand, dried up; MCX silver was 17% above world prices at end-September. With Dhanteras on November 6,...
 
 Items: 2a4fddc9f3876fe2, d1033c69a46bcc28, 747961b35eb45354
 
@@ -48,7 +48,7 @@ Items: 997d1234fb634c54, 2a4fddc9f3876fe2
 
 Investing.com · 2026-10-02T16:35:00Z · policy · silver
 
-India's silver import collapse — down 91% in a month — is the result of government licensing curbs, not weak demand, a new analysis argues. Since mid-May most forms of silver have needed prior import authorisation, and most banks still lack the permits; leading importer Amrapali Group says shipments have 'nearly come to a halt'. Domestic premiums have surged to about $6.5 an ounce, more than...
+India's silver imports fell to 46.8 tonnes in May from 534.3 tonnes a year earlier after the duty rose to 15% and licence rules tightened, recovering to about 15.5 million ounces in August as permits arrived, per Heraeus. MCX silver stood 17% above the world price on September 30, and demand from jewellery, coins, ETFs and industry stays intact, the analysis says. Silver was collateral damage...
 
 https://www.investing.com/analysis/silvers-india-problem-was-policy-not-demand-200688867
 
