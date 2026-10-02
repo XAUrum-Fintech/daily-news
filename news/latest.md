@@ -1,30 +1,30 @@
-# Gold & Silver for Indian buyers · 2026-10-02T06:00Z
+# Gold & Silver for Indian buyers · 2026-10-02T07:00Z
 
-> Payrolls day: gold holds near $4,200 as a firm dollar caps gains; rupee at 96.31 keeps domestic prices high
+> Gold slips toward a second weekly loss ahead of US payrolls; rupee at 96.31
 
-Gold steadied near $4,200 ahead of Friday's US September payrolls report, with a dollar near its strongest since April 2025 capping upside as traders await jobs data for Fed policy clues. In India, the rupee sank to 96.31 — its biggest fall in over two months — keeping imported bullion expensive even as MCX gold futures reclaimed ₹1.50 lakh/10g on firm spot demand. Analysts see festive buying supporting gold after September's ~6% slide, while Bank of America warns of downside risk below $4,000 in Q4.
+Gold fell 0.6% to $4,154.78/oz on Friday, on track for a second straight weekly decline — down over 3% on the week — as a firmer dollar and Treasury yields at their highest since 2002 weighed on bullion. All eyes are on the September US payrolls report at 12:30 GMT: traders now see only ~25% odds of an October Fed hike versus ~79% for December. In India, the rupee sank to 96.31, its biggest fall in over two months, keeping imported bullion expensive, with MCX closed for Gandhi Jayanti. Reuters points to an entrenched ~$840/oz debasement premium holding gold above $4,000.
 
-- US payrolls expected at 90K jobs vs 162K prior, unemployment steady at 4.1% — the data will shape Fed rate-hike bets.
-- Rupee at 96.31 cushions global gold falls on MCX but lifts the landed cost of imported bullion.
+- US September payrolls due 12:30 GMT Friday; a hot print could revive October hike bets and pressure gold further.
+- Rupee at 96.31 cushions global gold falls on MCX but lifts the landed cost of imported bullion; MCX shut for Gandhi Jayanti.
 - Reuters: a post-2022 'debasement premium' near $840/oz keeps gold above $4,000 despite 24-year-high yields.
 - Bank of Korea plans its first reserve gold purchase since 2013, buying from domestic producers in December.
 - Four SGB tranches open premature redemption in October; request windows close Oct 5, 9, 19 and 21.
 
 ## Trending
-- **Payrolls decide the next leg for gold**: Gold hugs $4,200 as traders wait for the September US jobs report: a soft print dents October hike bets, a strong one extends the dollar's run. BofA warns crowded positioning could unwind fast. (stories 1, 4)
-- **96.31: the rupee rewrites India's gold price**: The rupee's sharpest fall in two months keeps imported bullion dear in rupee terms even when global prices soften; MCX futures still reclaimed ₹1.50 lakh/10g on domestic demand. (stories 3, 9)
-- **Central banks underpin the floor**: The Bank of Korea's first gold buy since 2013 and an entrenched de-dollarisation premium keep structural demand intact beneath the volatility. (stories 5, 2)
+- **Payrolls day decides gold's next leg**: Gold slid ahead of the September US jobs report: a soft print keeps the October hike off the table, a strong one extends the dollar's run. BofA warns crowded positioning could unwind fast. (stories 1, 3)
+- **96.31: the rupee rewrites India's gold price**: The rupee's sharpest fall in two months keeps imported bullion dear in rupee terms even when global prices soften; MCX futures still reclaimed ₹1.50 lakh/10g. (stories 2, 9)
+- **Central banks underpin the floor**: The Bank of Korea's first gold buy since 2013 and an entrenched de-dollarisation premium keep structural demand intact beneath the volatility. (stories 5, 4)
 - **Festive season meets record prices**: Analysts expect Dussehra-to-Diwali buying to support gold in value terms, but record prices push buyers toward lighter jewellery, coins and digital gold; IIBX adds a Kolkata vault by Diwali. (stories 6, 10)
 
 ## Stories
-1. [Gold approaches $4,200 as bullish USD caps gains before US NFP](https://www.fxstreet.com/news/gold-struggles-to-lure-buyers-amid-bullish-usd-eye-us-nfp-for-fed-rate-cues-202610020355) — *FXStreet*, 2026-10-02T03:55:15Z
-   Gold traded back toward $4,200 on Friday after an early Asian-session dip, but a bullish dollar capped gains ahead of the US September payrolls report. Expected: 90K jobs added (down from 162K), unemployment steady at 4.1%; traders await the data for Fed policy clues as October rate-hike bets recede. The dollar held near its strongest since April 2025, backed by the US-Iran standoff.
-2. [Entrenched premium leaves gold primed to climb despite surge in US bond yields](https://www.reuters.com/business/entrenched-premium-leaves-gold-primed-climb-despite-surge-us-bond-yields-2026-10-01/) — *Reuters*, 2026-10-01T15:59:56Z
-   Gold's resilience above $4,000 as Treasury yields hit their highest since 2002 points to a durable post-2022 demand premium, Reuters analysis says. MKS PAMP's Nicky Shiels estimates the 'debasement and de-dollarisation' premium — the slice not explained by real yields and the dollar — has averaged over $1,000/oz since 2022 and stands near $840 now, driven by central-bank reserve diversification.
-3. [Rupee sinks to 96.31, logs biggest fall in over 2 months](https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-sinks-to-96-31-logs-biggest-fall-in-over-2-months/articleshow/134630728.cms) — *Economic Times*, 2026-10-02T02:52:20Z
+1. [Gold slips before US payrolls data, set for second weekly loss](https://www.reuters.com/world/india/gold-slips-before-us-payrolls-data-set-second-weekly-loss-2026-10-02/) — *Reuters*, 2026-10-02T00:30:00Z
+   Gold fell 0.6% to $4,154.78/oz, on track for a second straight weekly decline, as a firmer dollar and Treasury yields at their highest since 2002 weighed on bullion. The September US payrolls report is due at 12:30 GMT; traders now price only ~25% odds of an October Fed hike versus ~79% for December. Silver, platinum and palladium are also set for weekly losses. MCX is closed for Gandhi Jayanti.
+2. [Rupee sinks to 96.31, logs biggest fall in over 2 months](https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-sinks-to-96-31-logs-biggest-fall-in-over-2-months/articleshow/134630728.cms) — *Economic Times*, 2026-10-02T02:52:20Z
    The rupee fell to 96.31 against the dollar on Friday, its sharpest single-day fall in over two months, as record foreign-investor selling — FPIs have pulled about Rs 3 lakh crore from Indian equities in nine months — combined with a surging dollar. With MCX fully closed for Gandhi Jayanti, a weaker rupee keeps imported gold and silver expensive in rupee terms even when global prices soften.
-4. [Risks rising that gold prices fall below $4,000 in Q4 - Bank of America](https://www.kitco.com/news/article/2026-10-01/risks-rising-gold-prices-fall-below-4000-q4-bank-america) — *Kitco*, 2026-10-01T18:13:16Z
+3. [Risks rising that gold prices fall below $4,000 in Q4 - Bank of America](https://www.kitco.com/news/article/2026-10-01/risks-rising-gold-prices-fall-below-4000-q4-bank-america) — *Kitco*, 2026-10-01T18:13:16Z
    Bank of America sees rising risks that gold falls below $4,000 an ounce in Q4, Kitco reports. The bank — among the first to call $5,000 — keeps its bullish 2027 view but expects gold to average $3,750 in Q4 as elevated energy prices sustain inflation fears. Crowded positioning is the biggest near-term risk: if Middle East tensions don't resolve, a rapid unwind could pressure gold lower quickly.
+4. [Entrenched premium leaves gold primed to climb despite surge in US bond yields](https://www.reuters.com/business/entrenched-premium-leaves-gold-primed-climb-despite-surge-us-bond-yields-2026-10-01/) — *Reuters*, 2026-10-01T15:59:56Z
+   Gold's resilience above $4,000 as Treasury yields hit their highest since 2002 points to a durable post-2022 demand premium, Reuters analysis says. MKS PAMP's Nicky Shiels estimates the 'debasement and de-dollarisation' premium — the slice not explained by real yields and the dollar — has averaged over $1,000/oz since 2022 and stands near $840 now, driven by central-bank reserve diversification.
 5. [Bank of Korea plans gold purchase from domestic producers in December](https://www.mining.com/web/bank-of-korea-plans-gold-purchase-from-domestic-producers-in-december/) — *MINING.COM*, 2026-10-01T14:53:23Z
    South Korea's central bank plans to buy gold from domestic producers in December — its first reserve gold purchase since 2013. An official said the transaction system should be ready by December 14, with about one tonne potentially available. The Bank of Korea held 104.4 tonnes of gold (3.1% of reserves) at end-June, per the World Gold Council.
 6. [Gold price future roadmap: What led to 6% yellow metal fall in Sept 2026? Will Diwali help bounce back? Experts view](https://www.livemint.com/market/commodities/gold-price-future-roadmap-why-led-to-6-yellow-metal-fall-in-sept-2026-will-diwali-help-bounce-back-experts-view-11790842892313.html) — *Mint*, 2026-10-01T08:48:06Z
