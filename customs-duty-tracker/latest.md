@@ -4,12 +4,12 @@
 **Event:** Exchange-rate circular 28/2026
 **USD/INR import: 96.80 → 96.95**
 
-- Gold: tariff $1,373/10g (no change) · duty ₹19,96,685.25/kg (+₹3,089.25)
-- Silver: tariff $2,028/kg (no change) · duty ₹29,492.19/kg (+₹45.63)
+- Gold: tariff $1,339/10g (no change) · duty ₹19,47,240.75/kg (+₹3,012.75)
+- Silver: tariff $1,965/kg (no change) · duty ₹28,576.01/kg (+₹44.21)
 
 ## Why it moved
 
-The rupee weakened — the import rate rose ₹0.15 to 96.95. Tariff values are unchanged since 15 Sep 2026 (75/2026-Customs (N.T)), so the entire duty move comes from the exchange rate. Gold duty now works out to about ₹19,967 per 10g.
+The rupee weakened — the import rate rose ₹0.15 to 96.95. Tariff values are unchanged since 30 Sep 2026 (80/2026-Customs (N.T)), so the entire duty move comes from the exchange rate. Gold duty now works out to about ₹19,472 per 10g.
 
 ## Verify
 

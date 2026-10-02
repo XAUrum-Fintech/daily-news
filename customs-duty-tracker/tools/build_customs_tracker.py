@@ -152,9 +152,10 @@ def compute_row(prev, ev):
 
     if event == "tariff_value":
         for k in ("tariff_notification", "gold_tariff_usd_10g", "silver_tariff_usd_kg",
-                  "gold_london_fix_usd_oz", "silver_london_fix_usd_oz"):
+                  "gold_london_fix_usd_oz"):
             if ev.get(k) is None:
                 die(f"--{k.replace('_', '-')} is required for tariff_value events")
+        # silver_london_fix_usd_oz is optional (may be unavailable); None is stored as null
         gold_tariff = float(ev["gold_tariff_usd_10g"])
         silver_tariff = float(ev["silver_tariff_usd_kg"])
         usd_inr_import = (float(ev["usd_inr_import"]) if ev.get("usd_inr_import") is not None
@@ -164,7 +165,8 @@ def compute_row(prev, ev):
         if usd_inr_import is None or usd_inr_export is None:
             die("tariff_value event needs USD/INR rates: pass --usd-inr-import/--usd-inr-export")
         gold_fix = float(ev["gold_london_fix_usd_oz"])
-        silver_fix = float(ev["silver_london_fix_usd_oz"])
+        silver_fix = (float(ev["silver_london_fix_usd_oz"])
+                      if ev.get("silver_london_fix_usd_oz") is not None else None)
         fix_date = ev.get("fix_date") or ev["published"]
         tariff_notif = ev["tariff_notification"]
         eram_notif = None
