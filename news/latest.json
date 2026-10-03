@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-03T11:00Z",
-  "generated_at": "2026-10-03T11:00:16Z",
+  "edition_id": "2026-10-03T12:00Z",
+  "generated_at": "2026-10-03T12:02:30Z",
   "window": {
-    "from": "2026-10-03T10:00:00Z",
-    "to": "2026-10-03T11:00:00Z"
+    "from": "2026-10-03T11:00:00Z",
+    "to": "2026-10-03T12:00:00Z"
   },
   "insights": {
     "headline": "Gold posts biggest weekly drop since June as yields top 5%; India's festive demand holds firm",
@@ -51,6 +51,13 @@
       "item_ids": [
         "6d21e2940b3a73cf",
         "01d5f4160e04f16b"
+      ]
+    },
+    {
+      "title": "SEBI eyes deeper commodity markets",
+      "summary": "SEBI is reviewing position limits for non-agri contracts, including bullion, to deepen liquidity without weakening risk controls. Consultations are done and guidelines will follow.",
+      "item_ids": [
+        "fe1511b508d187ad"
       ]
     }
   ],
@@ -414,6 +421,31 @@
       "rank": 14
     },
     {
+      "id": "fe1511b508d187ad",
+      "rank": 15,
+      "title": "SEBI examining position limits for non-agri contracts to boost liquidity",
+      "summary": "SEBI chairman Tuhin Kanta Pandey said on Saturday the regulator is reviewing position limits for non-agricultural commodity derivatives — which include bullion contracts — to deepen liquidity and market depth without weakening risk controls. Consultations are complete and guidelines will follow; SEBI is also tackling GST frictions for exchange participants.",
+      "url": "https://www.thehindubusinessline.com/markets/sebi-examining-position-limits-for-non-agri-contracts-to-boost-liquidity/article71540251.ece",
+      "source": "The Hindu BusinessLine",
+      "source_domain": "thehindubusinessline.com",
+      "publisher_id": "hindu-businessline",
+      "published_at": "2026-10-03T10:00:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/fe1511b508d187ad.jpg",
+      "image_kind": "photo",
+      "category": "policy",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "india"
+      ],
+      "breaking": false
+    },
+    {
       "id": "2a4fddc9f3876fe2",
       "title": "Silver's India Problem Was Policy, Not Demand",
       "summary": "India's silver imports fell to 46.8 tonnes in May from 534.3 tonnes a year earlier after the duty rose to 15% and licence rules tightened, recovering to about 15.5 million ounces in August as permits arrived, per Heraeus. MCX silver stood 17% above the world price on September 30, and demand from jewellery, coins, ETFs and industry stays intact, the analysis says. Silver was collateral damage...",
@@ -436,7 +468,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 15
+      "rank": 16
     },
     {
       "id": "997d1234fb634c54",
@@ -461,11 +493,11 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 16
+      "rank": 17
     },
     {
       "id": "da9f5b736ac346b7",
-      "rank": 17,
+      "rank": 18,
       "title": "Gold Demand Remains Strong Despite High Prices, Buyers Adjust Purchases",
       "summary": "The World Gold Council expects Indian gold demand to improve through the festive and wedding season on steady investment demand and resilient wedding buying despite near-record prices. With 24-carat gold around ₹1.48 lakh per 10 grams, Guwahati jewellers expect robust but smaller purchases — lighter jewellery, coins or digital gold — while old-gold exchange has widened domestic discounts.",
       "url": "https://www.guwahatiplus.com/exclusive-news/gold-demand-remains-strong-despite-high-prices-buyers-adjust-purchases",
@@ -508,7 +540,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 18
+      "rank": 19
     },
     {
       "id": "bb4481231e12d27f",
@@ -534,7 +566,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 19
+      "rank": 20
     },
     {
       "id": "de6f10ac82d42484",
@@ -560,7 +592,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 20
+      "rank": 21
     }
   ]
 }
