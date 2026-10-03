@@ -1,4 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-10-03T08:00Z
+# Gold & Silver for Indian buyers · 2026-10-03T09:00Z
 
 > Payrolls bounce keeps fading as yields hold above 5%; India's gold slips 7% before Dhanteras
 
@@ -11,10 +11,10 @@ September's weak US jobs report briefly lifted gold before Treasury yields above
 - RBI's reserves fell a record $18.34bn to $747.56bn as rupee pressure mounted.
 
 ## Trending
-- **Yields are running the show**: Every gold move this week traces back to the bond market: weak payrolls briefly lifted bullion, then 10-year yields above 5% and a firm dollar dragged it back toward $4,000. (stories 1, 3)
-- **India's Dhanteras test**: Gold is 7% cheaper than August, but the trade stays guarded: imports slumped 58%, dealers offer deep discounts, and buyers shift to digital gold and lighter pieces before November 6. (stories 2, 8, 15)
-- **Silver's two stories**: In India, silver demand was waiting on import licences, not missing. Globally, Deutsche Bank says silver has tipped into oversupply, with $60 in sight. (stories 13, 5, 12)
-- **Central banks keep stacking**: South Korea will buy gold from producers in December, its first purchase since 2013. Official-sector buying runs at double the 2022 pace, Deutsche Bank notes — the floor under gold's resilience. (stories 7, 5)
+- **Yields are running the show**: Every gold move this week traces back to the bond market: weak payrolls briefly lifted bullion, then 10-year yields above 5% and a firm dollar dragged it back toward $4,000. (stories ce51a3c4fc273b95, 4bd9076cecd5538b)
+- **India's Dhanteras test**: Gold is 7% cheaper than August, but the trade stays guarded: imports slumped 58%, dealers offer deep discounts, and buyers shift to digital gold and lighter pieces before November 6. (stories 3aafeea0ac67921e, 6761beaa62bf2e20, 74e5a925aee82db7)
+- **Silver's two stories**: In India, silver demand was waiting on import licences, not missing. Globally, Deutsche Bank says silver has tipped into oversupply, with $60 in sight. (stories 2a4fddc9f3876fe2, f1e9bb522d4f6d7f, 0ca212f65e716708)
+- **Central banks keep stacking**: South Korea will buy gold from producers in December, its first purchase since 2013. Official-sector buying runs at double the 2022 pace, Deutsche Bank notes — the floor under gold's resilience. (stories 6d21e2940b3a73cf, f1e9bb522d4f6d7f)
 
 ## Stories
 1. [Wall Street on the brink of bearish majority after gold's post-payrolls slide](https://www.kitco.com/news/article/2026-10-02/wall-street-brink-bearish-majority-after-golds-post-payrolls-slide-main) — *Kitco*, 2026-10-02T21:48:00Z
@@ -47,11 +47,9 @@ September's weak US jobs report briefly lifted gold before Treasury yields above
    India's foreign exchange reserves fell $18.34 billion to $747.56 billion in the week ended September 25, RBI data released on Friday showed — the third straight weekly decline, pulling the kitty further from its September 4 record of $785.71 billion. Foreign currency assets dropped $15.57 billion to $615.41 billion as the RBI sold dollars to steady the rupee, while gold reserves fell $2.59...
 15. [Gold gets its festive shine back as lower prices lure Asian buyers](https://timesofindia.indiatimes.com/business/international-business/gold-gets-its-festive-shine-back-as-lower-prices-lure-asian-buyers/articleshow/134634015.cms) — *Times of India*, 2026-10-02T08:15:00Z
    Lower gold prices are pulling physical buyers back across Asia ahead of the festive season, the Times of India reports: Indian dealer discounts narrowed from up to $43/oz to $14/oz as demand improved, Singapore dealers saw stronger buying as they rebuilt inventories, and China is watching price moves closely with premiums running high.
-16. [Gold price future roadmap: What led to 6% yellow metal fall in Sept 2026? Will Diwali help bounce back? Experts view](https://www.livemint.com/market/commodities/gold-price-future-roadmap-why-led-to-6-yellow-metal-fall-in-sept-2026-will-diwali-help-bounce-back-experts-view-11790842892313.html) — *Mint*, 2026-10-01T08:48:06Z
-   Mint asked analysts what drove gold's 6% September fall and whether Diwali can spark a rebound: multi-decade highs in US Treasury yields and strong US spending raised the opportunity cost of holding bullion. Brickwork's Rajeev Sharan expects festive and wedding demand from Dussehra through Diwali to keep demand healthy, though record prices may push buyers to lighter jewellery or digital gold.
-17. [Gold, silver prices edge higher: How festive demand could shape the outlook](https://www.cnbctv18.com/market/commodities/gold-silver-prices-edge-higher-how-festive-demand-could-shape-outlook-20003069.htm) — *CNBC-TV18*, 2026-10-01T09:33:00Z
+16. [Gold, silver prices edge higher: How festive demand could shape the outlook](https://www.cnbctv18.com/market/commodities/gold-silver-prices-edge-higher-how-festive-demand-could-shape-outlook-20003069.htm) — *CNBC-TV18*, 2026-10-01T09:33:00Z
    Gold and silver edged higher on October 1 — MCX December gold at Rs 1.49 lakh/10g, December silver at Rs 2.24 lakh/kg — ahead of India's festive season, CNBC-TV18 reports. Ventura's NS Ramaswamy sees gold caught between high yields and support from central-bank buying and ETF flows; Kama Jewelry's Colin Shah says festive demand stays resilient, though high prices push buyers to lighter jewellery.
-18. [Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats As Treasury Yields Rebound](https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-retreats-as-treasury-yields-rebound-1634862) — *FXEmpire*, 2026-10-03T00:04:00Z
+17. [Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats As Treasury Yields Rebound](https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-retreats-as-treasury-yields-rebound-1634862) — *FXEmpire*, 2026-10-03T00:04:00Z
    Gold slid back below $4,160 after failing to hold $4,200, as 10-year Treasury yields climbed toward 5.30% despite the weak September payrolls report. FXEmpire flags $4,000–$4,020 as the next support if $4,160 breaks.
-19. ['50% of silver rally was just bubble': experts pick gold and platinum](https://www.bhaskarenglish.in/business/news/gold-platinum-investment-tips-silver-price-crash-india-market-2027-139218141.html) — *Bhaskar English*, 2026-10-02T02:01:00Z
+18. ['50% of silver rally was just bubble': experts pick gold and platinum](https://www.bhaskarenglish.in/business/news/gold-platinum-investment-tips-silver-price-crash-india-market-2027-139218141.html) — *Bhaskar English*, 2026-10-02T02:01:00Z
    Four Indian market experts argue about half of silver's early-2026 rally was a speculative bubble — the metal has fallen from a January peak of Rs 3.86 lakh/kg to about Rs 2.22 lakh — and they now favour gold and platinum, Bhaskar English reports. They see silver possibly recovering toward Rs 3-4 lakh/kg by 2027, though small investors may wait until end-2027 to recoup older holdings.
