@@ -1,4 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-10-03T02:00Z
+# Gold & Silver for Indian buyers · 2026-10-03T03:00Z
 
 > Payrolls bounce faded as yields rebounded; MCX gold holds near Rs 1.5 lakh, silver stays weak after 6% weekly rout
 
@@ -14,7 +14,7 @@ Gold's brief post-payrolls rally faded after the US added just 29,000 jobs in Se
 - **The payrolls bounce that failed**: Soft September jobs cut October Fed-hike odds to ~22%, but rising yields won the day and gold slipped back under $4,200. (stories 1, 2, 4)
 - **Silver's rough week puts $60 in sight**: Silver lost about 6% on the week; India's demand problem was policy, not appetite, but global selling dominated. (stories 3, 8, 17)
 - **Rs 1.5 lakh gold rewrites Indian buying**: At Rs 1.50 lakh/10g, buyers shift toward silver and lighter pieces while MCX futures hover near the level. (stories 9, 10, 13)
-- **Policy overhang: reserves, SGB exits**: Record $18.34bn forex-reserve drop and October SGB redemptions frame the domestic backdrop for buyers. (stories 16, 19)
+- **Policy overhang: record reserve drain**: RBI's record $18.34bn weekly forex-reserve drop frames the domestic backdrop as rupee pressure mounts. (stories 16)
 - **Festive pullback draws buyers back**: Lower prices are luring Asian buyers as festive demand builds, softening the week's declines. (stories 11, 12)
 
 ## Stories
@@ -54,5 +54,3 @@ Gold's brief post-payrolls rally faded after the US added just 29,000 jobs in Se
    Four Indian market experts argue about half of silver's early-2026 rally was a speculative bubble — the metal has fallen from a January peak of Rs 3.86 lakh/kg to about Rs 2.22 lakh — and they now favour gold and platinum, Bhaskar English reports. They see silver possibly recovering toward Rs 3-4 lakh/kg by 2027, though small investors may wait until end-2027 to recoup older holdings.
 18. [Silver Falls 45% From Its 2026 Peak as Sierra Madre Scales Up Production](https://carboncredits.com/silver-price-pullback-sierra-madre-mine-expansion-sm/) — *Carbon Credits*, 2026-10-01T16:46:08Z
    Silver has fallen ~45% from its January 2026 peak near $115/oz to about $63 by mid-September, Carbon Credits reports, as producer Sierra Madre scales up output. The World Silver Survey 2026 put 2025 mine output up 3% at 846.6 Moz, yet total demand of 1.13 Boz left a 40.3-Moz deficit — the fifth straight annual shortfall — with a 46.3-Moz deficit expected in 2026.
-19. [SGB premature redemption October 2026: 4 tranches eligible for early exit, check RBI dates and deadlines](https://www.livemint.com/money/personal-finance/sgb-premature-redemption-october-2026-4-tranches-eligible-for-early-exit-check-rbi-dates-and-deadlines-11790822437536.html) — *Mint*, 2026-10-01T02:55:20Z
-   Four SGB tranches are eligible for premature redemption in October 2026: 2019-20 Series V (Oct 15; request by Oct 5), 2020-21 Series VII (Oct 19; by Oct 9), 2020-21 Series I (Oct 28; by Oct 19) and 2019-20 Series VI (Oct 30; by Oct 21). Exit is allowed only after five years on scheduled dates; redemption value is linked to the IBJA's 999-purity gold average over the preceding three working days.
