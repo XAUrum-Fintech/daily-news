@@ -1,521 +1,590 @@
 {
-  "schema": "orob-news.v1",
-  "edition_id": "2026-10-03T09:00Z",
-  "generated_at": "2026-10-03T08:59:18Z",
-  "window": {
-    "from": "2026-10-03T08:00Z",
-    "to": "2026-10-03T09:00Z"
-  },
-  "insights": {
-    "headline": "Payrolls bounce keeps fading as yields hold above 5%; India's gold slips 7% before Dhanteras",
-    "summary": "September's weak US jobs report briefly lifted gold before Treasury yields above 5% pulled it back below $4,200, with Wall Street turning bearish on the near term. In India, prices have eased about 7% from August to roughly ₹1.48 lakh per 10 grams, but the trade stays guarded ahead of Dhanteras as imports slump and buyers shift toward digital gold and lighter jewellery. Silver ended the week roughly 6% lower near $60, though India's licence-led demand revival offers some support.",
-    "points": [
-      "US added 29k jobs vs ~90k expected; October Fed-hike odds fell, but 10-year yields held above 5%.",
-      "Kitco survey: Wall Street turns bearish after gold's post-payrolls slide; $4,000 support in focus.",
-      "India: gold ~7% below August at ₹1.48 lakh/10g; August imports fell 58% YoY to $2.3bn; ETF inflows jumped.",
-      "Silver lost ~6% on the week; Deutsche Bank's Ghali says inventories point to oversupply.",
-      "RBI's reserves fell a record $18.34bn to $747.56bn as rupee pressure mounted."
-    ]
-  },
-  "trending": [
-    {
-      "title": "Yields are running the show",
-      "summary": "Every gold move this week traces back to the bond market: weak payrolls briefly lifted bullion, then 10-year yields above 5% and a firm dollar dragged it back toward $4,000.",
-      "item_ids": [
-        "ce51a3c4fc273b95",
-        "4bd9076cecd5538b"
-      ]
-    },
-    {
-      "title": "India's Dhanteras test",
-      "summary": "Gold is 7% cheaper than August, but the trade stays guarded: imports slumped 58%, dealers offer deep discounts, and buyers shift to digital gold and lighter pieces before November 6.",
-      "item_ids": [
-        "3aafeea0ac67921e",
-        "6761beaa62bf2e20",
-        "74e5a925aee82db7"
-      ]
-    },
-    {
-      "title": "Silver's two stories",
-      "summary": "In India, silver demand was waiting on import licences, not missing. Globally, Deutsche Bank says silver has tipped into oversupply, with $60 in sight.",
-      "item_ids": [
-        "2a4fddc9f3876fe2",
-        "f1e9bb522d4f6d7f",
-        "0ca212f65e716708"
-      ]
-    },
-    {
-      "title": "Central banks keep stacking",
-      "summary": "South Korea will buy gold from producers in December, its first purchase since 2013. Official-sector buying runs at double the 2022 pace, Deutsche Bank notes — the floor under gold's resilience.",
-      "item_ids": [
-        "6d21e2940b3a73cf",
-        "f1e9bb522d4f6d7f"
-      ]
-    }
-  ],
-  "items": [
-    {
-      "id": "ce51a3c4fc273b95",
-      "title": "Wall Street on the brink of bearish majority after gold's post-payrolls slide",
-      "summary": "Kitco's weekly gold survey after Friday's slide shows Wall Street teetering on a bearish majority while Main Street abandoned the bullish bias it had held since July, after gold failed to hold above $4,200 and finished the week near session lows. Bannockburn's Marc Chandler likes gold higher next week on weak jobs and Fed patience; Adrian Day expects it lower; Adam Button stays neutral.",
-      "url": "https://www.kitco.com/news/article/2026-10-02/wall-street-brink-bearish-majority-after-golds-post-payrolls-slide-main",
-      "source": "Kitco",
-      "source_domain": "kitco.com",
-      "publisher_id": "kitco",
-      "published_at": "2026-10-02T21:48:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/ce51a3c4fc273b95.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "global",
-        "fed"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "related_urls": [],
-      "rank": 1
-    },
-    {
-      "id": "3aafeea0ac67921e",
-      "rank": 2,
-      "title": "Gold eases 7% before Dhanteras as imports slump 58% and buyers shift to digital gold",
-      "summary": "India's gold price has cooled about 7% from its August peak to roughly ₹1.48 lakh per 10g (IBJA, Oct 1), with the trade guarded ahead of Dhanteras on November 6. August gold imports fell 58% year on year to $2.3 billion under the 15% import duty, while Indian gold ETFs drew ₹25.97 billion of fresh money in August and dealers widened discounts to about $78 an ounce, a sign of soft physical demand.",
-      "url": "https://www.thefinancialeconomy.com/gold-price-in-india/",
-      "source": "The Financial Economy",
-      "source_domain": "thefinancialeconomy.com",
-      "publisher_id": "the-financial-economy",
-      "published_at": "2026-10-02T14:00:00Z",
-      "image_url": "https://www.thefinancialeconomy.com/wp-content/uploads/2026/10/gold-price-in-india-gold-bars-on-a-dark-surface-as-rates-eas.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "india",
-        "import-duty",
-        "jewellery"
-      ],
-      "category": "festive",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false
-    },
-    {
-      "id": "4bd9076cecd5538b",
-      "title": "US yields rise, reversing initial reaction to weak jobs report",
-      "summary": "US Treasury yields reversed an early decline after the weak September jobs report, the 10-year climbing 4.72 bps to 5.281% as traders priced ~80% odds of a Fed hold this month. Gold futures erased their payrolls pop — up 1.4% to $4,259, then down 1.2% to $4,153.80, the biggest blown gain in almost a month, per Dow Jones Market Data.",
-      "url": "https://www.livemint.com/market/us-yields-rise-reversing-initial-reaction-to-weak-jobs-report-11790969678755.html",
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "publisher_id": "mint",
-      "published_at": "2026-10-02T19:34:38Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "fed",
-        "global",
-        "gold",
-        "silver"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://www.mitrade.com/au/insights/news/live-news/article-2-2077316-20260911",
-        "https://www.barrons.com/livecoverage/stock-market-news-today-100226/card/gold-futures-erase-jobs-report-gains-sinking-lower-AZVUa6yGhW5IxslzvHQC"
-      ],
-      "rank": 3
-    },
-    {
-      "id": "eb1f312c26052c9f",
-      "title": "Fed officials give hints on rate decision as markets cut October rate hike odds",
-      "summary": "Fed Vice Chair Philip Jefferson and New York Fed President John Williams signaled the central bank can take its time before another rate increase. Markets repriced sharply: October hike odds fell from about 70% to 25% on federal funds futures, and Goldman Sachs economists said an October hike is unlikely. Chicago Fed's Austan Goolsbee kept both a hike and a cut on the table.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-officials-give-hints-on-rate-decision-as-markets-cut-october-rate-hike-odds/articleshow/134645153.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "publisher_id": "economic-times",
-      "published_at": "2026-10-02T18:30:04Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/eb1f312c26052c9f.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "fed",
-        "global",
-        "gold",
-        "silver"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/feds-jefferson-urges-patience-on-rates-kashkari-sees-more-hikes-ahead/articleshow/134626712.cms"
-      ],
-      "rank": 4
-    },
-    {
-      "id": "f1e9bb522d4f6d7f",
-      "rank": 5,
-      "title": "Gold's resilience supports strong outlook, silver faces oversupply, copper could be the big gainer – Deutsche Bank's Ghali",
-      "summary": "Deutsche Bank's Ghali said gold's pullback has been 'incredibly limited' despite 10-year yields above 5% and oil over $100, with positioning most bearish since October 2021 while official buying runs at double the 2022 pace. Silver has tipped into oversupply - London inventories highest since November 2024, solar demand down a third - and should lag gold; copper holds the biggest potential gains.",
-      "url": "https://www.kitco.com/news/article/2026-10-02/golds-resilience-supports-strong-outlook-silver-faces-oversupply-copper",
-      "source": "Kitco",
-      "source_domain": "kitco.com",
-      "publisher_id": "kitco",
-      "published_at": "2026-10-02T16:04:11Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/f1e9bb522d4f6d7f.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "global",
-        "central-banks"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false
-    },
-    {
-      "id": "24ca6dac303c975d",
-      "title": "Soft September jobs report sends markets higher",
-      "summary": "US employers added just 29,000 jobs in September, far below the 90,000 economists expected, while the unemployment rate ticked up to 4.2%. Treasury yields fell and the odds of a Fed rate hike at the October meeting dropped to around 12-19%. Gold rose 0.8% to $4,210 on the cooler data.",
-      "url": "https://www.reuters.com/business/view-soft-september-jobs-report-sends-markets-higher-2026-10-02/",
-      "source": "Reuters",
-      "source_domain": "reuters.com",
-      "publisher_id": "reuters",
-      "published_at": "2026-10-02T13:00:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "fed",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://www.kitco.com/news/article/2026-10-02/gold-prices-see-sold-bid-us-economy-created-29k-jobs-september",
-        "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bets-on-us-federal-reserve-rate-hike-in-october-fall-as-job-market-cools/articleshow/134640792.cms"
-      ],
-      "rank": 6
-    },
-    {
-      "id": "6d21e2940b3a73cf",
-      "rank": 7,
-      "title": "Bank of Korea plans gold purchase from domestic producers in December",
-      "summary": "South Korea's central bank plans to buy gold from domestic producers in December - its first reserve addition since 2013. The transaction system should be ready by December 14, when about 1 tonne could be available; the bank announced the resumption in August and bought $250 million of gold ETFs in Q2. The BOK holds 104.4 tonnes, about 3% of reserves, all stored in London.",
-      "url": "https://www.mining.com/web/bank-of-korea-plans-gold-purchase-from-domestic-producers-in-december/",
-      "source": "MINING.COM",
-      "source_domain": "mining.com",
-      "publisher_id": "mining-com",
-      "published_at": "2026-10-01T14:53:23Z",
-      "image_url": "https://www.mining.com/wp-content/uploads/2026/06/AdobeStock_993107916-1024x574.jpeg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "global",
-        "central-banks"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://en.sedaily.com/finance/2026/09/30/bank-of-korea-to-buy-140-million-in-domestic-gold-this-year"
-      ]
-    },
-    {
-      "id": "6761beaa62bf2e20",
-      "title": "Gold at Rs 1.5 lakh per 10 grams is pushing middle-class Indian buyers to silver",
-      "summary": "Indian buyers are shifting from gold to silver this festive season: 10g of 24-karat gold costs about Rs 1.5 lakh — the same money buys roughly 650g of silver, TOI reports. The IBJA estimates Diwali-season silver demand will rise 17-18% year-on-year; silver imports topped $1 billion in August, up 127% on the year. A Surat jeweller says silver now makes up to 35% of yearly revenue, up from 10%.",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-at-rs-1-5-lakh-per-10-grams-is-pushing-middle-class-indian-buyers-to-silver-who-are-getting-650-grams-of-silver-at-the-same-price-some-betting-silver-at-rs-2-3-lakh-per-kg-may-hit-rs-4-lakh/articleshow/134634505.cms",
-      "source": "Times of India",
-      "source_domain": "timesofindia.indiatimes.com",
-      "publisher_id": "times-of-india",
-      "published_at": "2026-10-02T13:29:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/6761beaa62bf2e20.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "india",
-        "jewellery"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": [],
-      "rank": 8
-    },
-    {
-      "id": "3028577418e518ab",
-      "title": "MCX Gold Faces Rs 1.5 Lakh Resistance After Yield Spike",
-      "summary": "MCX gold October futures jumped 1.02% to Rs 1,47,649/10g but face a Rs 1.5 lakh resistance after a US Treasury yield spike, NDTV Profit reports, while MCX silver December futures rose 0.94% to Rs 2,25,804/kg. The article lists the key support and resistance levels traders are watching on both metals.",
-      "url": "https://www.ndtvprofit.com/markets/mcx-gold-faces-rs-1-5-lakh-resistance-after-yield-spike-key-buy-and-sell-levels-to-watch-12126925",
-      "source": "NDTV Profit",
-      "source_domain": "ndtvprofit.com",
-      "publisher_id": "ndtv-profit",
-      "published_at": "2026-10-01T15:57:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": [],
-      "rank": 9
-    },
-    {
-      "id": "e5c98496cea7c54e",
-      "title": "Gold futures rise to Rs 1.50 lakh/10 gm on firm spot demand",
-      "summary": "Gold futures rose Rs 1,475 to Rs 1,50,511 per 10 grams on MCX on Thursday as speculators created fresh positions on firm spot demand, PTI reported. The October contract traded 0.99% higher in 2,019 lots. Gold futures also rose 0.59% to $4,182.06/oz in New York.",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-futures-rise-to-150-lakh10-gm-on-firm-spot-demand/article71532369.ece",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "publisher_id": "hindu-businessline",
-      "published_at": "2026-10-01T10:20:28Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/e5c98496cea7c54e.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "india",
-        "mcx"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "related_urls": [],
-      "rank": 10
-    },
-    {
-      "id": "d1033c69a46bcc28",
-      "title": "Silver Prices Fall ₹5,000 Today, Down ₹10,000 This Week",
-      "summary": "Delhi bullion trade saw gold add ₹500 on Thursday to ₹1,49,800 per 10 grams on a weaker rupee — ₹96.31 against the dollar, its softest in over two months — even as silver fell ₹5,000 to ₹2.27 lakh per kg. For the week, gold is down about ₹2,800 and silver about ₹10,000. Bullion markets are closed today for Gandhi Jayanti.",
-      "url": "https://financialnewsindia.com/news/silver-prices-fall-%e2%82%b95000-today-down-%e2%82%b910000-this-week/",
-      "source": "Financial News India",
-      "source_domain": "financialnewsindia.com",
-      "publisher_id": "financial-news-india",
-      "published_at": "2026-10-02T01:00:00Z",
-      "image_url": "https://financialnewsindia.com/news/wp-content/uploads/2026/10/i-1.jpeg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "india",
-        "mcx"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": [],
-      "rank": 11
-    },
-    {
-      "id": "0ca212f65e716708",
-      "title": "Silver price forecast: bears crowd $60 after six-percent weekly rout",
-      "summary": "Silver retreated about 0.76% on Friday to $60.50 as Treasury yields edged higher and capped the dollar's payroll-driven dip, FXStreet reports. The white metal finished the week with losses of over 6%, trading below the 50- and 100-day SMAs at $64.06-$64.74 and poised to test $60; RSI stays below 50. Support sits at $60, then the August low of $56.57, with the year-to-date low of $54.77 below that.",
-      "url": "https://www.fxstreet.com/news/silver-price-forecast-bears-crowd-60-after-six-percent-weekly-rout-202610022152",
-      "source": "FXStreet",
-      "source_domain": "fxstreet.com",
-      "publisher_id": "fxstreet",
-      "published_at": "2026-10-02T21:52:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/0ca212f65e716708.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "silver",
-        "global",
-        "fed"
-      ],
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://talkmarkets.com/article/silver-price-forecast-bears-crowd-60-after-six-percent-weekly-rout"
-      ],
-      "rank": 12
-    },
-    {
-      "id": "2a4fddc9f3876fe2",
-      "title": "Silver's India Problem Was Policy, Not Demand",
-      "summary": "India's silver imports fell to 46.8 tonnes in May from 534.3 tonnes a year earlier after the duty rose to 15% and licence rules tightened, recovering to about 15.5 million ounces in August as permits arrived, per Heraeus. MCX silver stood 17% above the world price on September 30, and demand from jewellery, coins, ETFs and industry stays intact, the analysis says. Silver was collateral damage...",
-      "url": "https://www.investing.com/analysis/silvers-india-problem-was-policy-not-demand-200688867",
-      "source": "Investing.com",
-      "source_domain": "investing.com",
-      "publisher_id": "investing",
-      "published_at": "2026-10-02T16:35:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "silver",
-        "india",
-        "import-duty",
-        "mcx"
-      ],
-      "category": "policy",
-      "metals": [
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": [],
-      "rank": 13
-    },
-    {
-      "id": "997d1234fb634c54",
-      "title": "India's Forex Reserves Plunge by $18.34 Billion",
-      "summary": "India's foreign exchange reserves fell $18.34 billion to $747.56 billion in the week ended September 25, RBI data released on Friday showed — the third straight weekly decline, pulling the kitty further from its September 4 record of $785.71 billion. Foreign currency assets dropped $15.57 billion to $615.41 billion as the RBI sold dollars to steady the rupee, while gold reserves fell $2.59...",
-      "url": "https://www.rediff.com/business/report/indias-forex-reserves-drop-significantly-to-74756-billion-rbi-data/20261002.htm",
-      "source": "Rediff",
-      "source_domain": "rediff.com",
-      "publisher_id": "rediff",
-      "published_at": "2026-10-02T16:50:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/997d1234fb634c54.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "india",
-        "rbi",
-        "rupee"
-      ],
-      "category": "policy",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "related_urls": [],
-      "rank": 14
-    },
-    {
-      "id": "74e5a925aee82db7",
-      "title": "Gold gets its festive shine back as lower prices lure Asian buyers",
-      "summary": "Lower gold prices are pulling physical buyers back across Asia ahead of the festive season, the Times of India reports: Indian dealer discounts narrowed from up to $43/oz to $14/oz as demand improved, Singapore dealers saw stronger buying as they rebuilt inventories, and China is watching price moves closely with premiums running high.",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/gold-gets-its-festive-shine-back-as-lower-prices-lure-asian-buyers/articleshow/134634015.cms",
-      "source": "Times of India",
-      "source_domain": "timesofindia.indiatimes.com",
-      "publisher_id": "times-of-india",
-      "published_at": "2026-10-02T08:15:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/74e5a925aee82db7.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "india",
-        "jewellery"
-      ],
-      "category": "festive",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "related_urls": [],
-      "rank": 15
-    },
-    {
-      "id": "440657d2dc8c323f",
-      "title": "Gold, silver prices edge higher: How festive demand could shape the outlook",
-      "summary": "Gold and silver edged higher on October 1 — MCX December gold at Rs 1.49 lakh/10g, December silver at Rs 2.24 lakh/kg — ahead of India's festive season, CNBC-TV18 reports. Ventura's NS Ramaswamy sees gold caught between high yields and support from central-bank buying and ETF flows; Kama Jewelry's Colin Shah says festive demand stays resilient, though high prices push buyers to lighter jewellery.",
-      "url": "https://www.cnbctv18.com/market/commodities/gold-silver-prices-edge-higher-how-festive-demand-could-shape-outlook-20003069.htm",
-      "source": "CNBC-TV18",
-      "source_domain": "cnbctv18.com",
-      "publisher_id": "cnbc-tv18",
-      "published_at": "2026-10-01T09:33:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/440657d2dc8c323f.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "india",
-        "jewellery"
-      ],
-      "category": "festive",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": [],
-      "rank": 16
-    },
-    {
-      "id": "bb4481231e12d27f",
-      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats As Treasury Yields Rebound",
-      "summary": "Gold slid back below $4,160 after failing to hold $4,200, as 10-year Treasury yields climbed toward 5.30% despite the weak September payrolls report. FXEmpire flags $4,000–$4,020 as the next support if $4,160 breaks.",
-      "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-retreats-as-treasury-yields-rebound-1634862",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "publisher_id": "fxempire",
-      "published_at": "2026-10-03T00:04:00Z",
-      "image_url": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/gold-precious-metal-price-chart-05.jpg?func=cover&q=70&width=1201",
-      "image_kind": "photo",
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "comex",
-        "global"
-      ],
-      "breaking": false,
-      "related_urls": [],
-      "rank": 17
-    },
-    {
-      "id": "de6f10ac82d42484",
-      "title": "'50% of silver rally was just bubble': experts pick gold and platinum",
-      "summary": "Four Indian market experts argue about half of silver's early-2026 rally was a speculative bubble — the metal has fallen from a January peak of Rs 3.86 lakh/kg to about Rs 2.22 lakh — and they now favour gold and platinum, Bhaskar English reports. They see silver possibly recovering toward Rs 3-4 lakh/kg by 2027, though small investors may wait until end-2027 to recoup older holdings.",
-      "url": "https://www.bhaskarenglish.in/business/news/gold-platinum-investment-tips-silver-price-crash-india-market-2027-139218141.html",
-      "source": "Bhaskar English",
-      "source_domain": "bhaskarenglish.in",
-      "publisher_id": "bhaskar-english",
-      "published_at": "2026-10-02T02:01:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/de6f10ac82d42484.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "silver",
-        "gold",
-        "india",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "silver",
-        "gold"
-      ],
-      "breaking": false,
-      "related_urls": [],
-      "rank": 18
-    }
+ "schema": "orob-news.v1",
+ "edition_id": "2026-10-03T10:00Z",
+ "generated_at": "2026-10-03T10:03:47Z",
+ "window": {
+  "from": "2026-10-03T09:00:00Z",
+  "to": "2026-10-03T10:00:00Z"
+ },
+ "insights": {
+  "headline": "Gold posts biggest weekly drop since June as yields top 5%; India's festive demand holds firm",
+  "summary": "Comex gold fell 3.59% to $4,133.70 this week — the largest weekly decline since early June and the lowest settlement since August — while silver slid 6.68% below $60. A weak US jobs report briefly lifted bullion before 10-year Treasury yields above 5% and a firm dollar pulled it back, leaving Wall Street bearish. In India, gold is about 7% cheaper than August near ₹1.5 lakh per 10 grams, and festive demand is holding ahead of Dhanteras even as August imports slumped 58%. Central banks keep buying, underpinning the $4,000 floor.",
+  "points": [
+   "Comex gold -3.59% to $4,133.70, biggest weekly fall since June; silver -6.68% to $59.977, lowest since August.",
+   "US added 29k jobs vs ~90k expected; October Fed-hike odds fell, but 10-year yields held above 5%.",
+   "India: gold ~₹1.5 lakh/10g with MCX facing resistance; buyers shift to silver; an MCX silver option spiked ₹174 to ₹2,300 in minutes.",
+   "Dhanteras demand steady despite high prices; August gold imports fell 58% YoY; festive buying tilts to lighter jewellery.",
+   "RBI's forex reserves fell a record $18.34bn to $747.56bn as rupee pressure mounted."
   ]
+ },
+ "trending": [
+  {
+   "title": "Yields are running the show",
+   "summary": "Every gold move this week traces back to the bond market: weak payrolls briefly lifted bullion, then 10-year yields above 5% and a firm dollar dragged it to the biggest weekly loss since June.",
+   "item_ids": [
+    "33b9a9609871559e",
+    "ce51a3c4fc273b95",
+    "4bd9076cecd5538b"
+   ]
+  },
+  {
+   "title": "India's Dhanteras test",
+   "summary": "Gold is 7% cheaper than August near ₹1.5 lakh, and demand is holding — buyers adjust to lighter pieces and silver while imports slump 58% ahead of November 6.",
+   "item_ids": [
+    "3aafeea0ac67921e",
+    "6761beaa62bf2e20",
+    "da9f5b736ac346b7"
+   ]
+  },
+  {
+   "title": "Silver's two stories",
+   "summary": "In India, silver demand was waiting on import licences, not missing. Globally, silver just posted its worst week since June, sliding below $60 as Deutsche Bank flags oversupply.",
+   "item_ids": [
+    "2a4fddc9f3876fe2",
+    "0ca212f65e716708",
+    "33b9a9609871559e"
+   ]
+  },
+  {
+   "title": "Central banks keep stacking",
+   "summary": "South Korea will buy gold from producers in December; China and Poland added to reserves in August. Official-sector buying is the floor under gold near $4,000.",
+   "item_ids": [
+    "6d21e2940b3a73cf",
+    "01d5f4160e04f16b"
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "ce51a3c4fc273b95",
+   "title": "Wall Street on the brink of bearish majority after gold's post-payrolls slide",
+   "summary": "Kitco's weekly gold survey after Friday's slide shows Wall Street teetering on a bearish majority while Main Street abandoned the bullish bias it had held since July, after gold failed to hold above $4,200 and finished the week near session lows. Bannockburn's Marc Chandler likes gold higher next week on weak jobs and Fed patience; Adrian Day expects it lower; Adam Button stays neutral.",
+   "url": "https://www.kitco.com/news/article/2026-10-02/wall-street-brink-bearish-majority-after-golds-post-payrolls-slide-main",
+   "source": "Kitco",
+   "source_domain": "kitco.com",
+   "publisher_id": "kitco",
+   "published_at": "2026-10-02T21:48:00Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/ce51a3c4fc273b95.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "global",
+    "fed"
+   ],
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "related_urls": [],
+   "rank": 1
+  },
+  {
+   "id": "33b9a9609871559e",
+   "rank": 2,
+   "title": "Comex Gold Ends the Week 3.59% Lower at $4133.70",
+   "summary": "Comex gold for October delivery lost $154.10, or 3.59%, to $4,133.70 this week — the largest one-week decline since early June, the second straight weekly loss, and the lowest settlement since August 4. Silver fared worse, down 6.68% to $59.977, its lowest settlement since August 3. Year-to-date, gold is down 4.44% and silver 14.48%, per Dow Jones Market Data.",
+   "url": "https://www.wsj.com/finance/commodities-futures/gold-falls-u-s-dollar-yields-key-obstacles-for-price-gain-a4f001e3",
+   "source": "Wall Street Journal",
+   "source_domain": "wsj.com",
+   "publisher_id": "wsj",
+   "published_at": "2026-10-02T19:00:00Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "gold",
+    "silver",
+    "comex",
+    "global"
+   ],
+   "category": "global",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "3aafeea0ac67921e",
+   "rank": 3,
+   "title": "Gold eases 7% before Dhanteras as imports slump 58% and buyers shift to digital gold",
+   "summary": "India's gold price has cooled about 7% from its August peak to roughly ₹1.48 lakh per 10g (IBJA, Oct 1), with the trade guarded ahead of Dhanteras on November 6. August gold imports fell 58% year on year to $2.3 billion under the 15% import duty, while Indian gold ETFs drew ₹25.97 billion of fresh money in August and dealers widened discounts to about $78 an ounce, a sign of soft physical demand.",
+   "url": "https://www.thefinancialeconomy.com/gold-price-in-india/",
+   "source": "The Financial Economy",
+   "source_domain": "thefinancialeconomy.com",
+   "publisher_id": "the-financial-economy",
+   "published_at": "2026-10-02T14:00:00Z",
+   "image_url": "https://www.thefinancialeconomy.com/wp-content/uploads/2026/10/gold-price-in-india-gold-bars-on-a-dark-surface-as-rates-eas.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "india",
+    "import-duty",
+    "jewellery"
+   ],
+   "category": "festive",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "6761beaa62bf2e20",
+   "title": "Gold at Rs 1.5 lakh per 10 grams is pushing middle-class Indian buyers to silver",
+   "summary": "Indian buyers are shifting from gold to silver this festive season: 10g of 24-karat gold costs about Rs 1.5 lakh — the same money buys roughly 650g of silver, TOI reports. The IBJA estimates Diwali-season silver demand will rise 17-18% year-on-year; silver imports topped $1 billion in August, up 127% on the year. A Surat jeweller says silver now makes up to 35% of yearly revenue, up from 10%.",
+   "url": "https://timesofindia.indiatimes.com/business/india-business/gold-at-rs-1-5-lakh-per-10-grams-is-pushing-middle-class-indian-buyers-to-silver-who-are-getting-650-grams-of-silver-at-the-same-price-some-betting-silver-at-rs-2-3-lakh-per-kg-may-hit-rs-4-lakh/articleshow/134634505.cms",
+   "source": "Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "publisher_id": "times-of-india",
+   "published_at": "2026-10-02T13:29:00Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/6761beaa62bf2e20.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "silver",
+    "india",
+    "jewellery"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "related_urls": [],
+   "rank": 4
+  },
+  {
+   "id": "3028577418e518ab",
+   "title": "MCX Gold Faces Rs 1.5 Lakh Resistance After Yield Spike",
+   "summary": "MCX gold October futures jumped 1.02% to Rs 1,47,649/10g but face a Rs 1.5 lakh resistance after a US Treasury yield spike, NDTV Profit reports, while MCX silver December futures rose 0.94% to Rs 2,25,804/kg. The article lists the key support and resistance levels traders are watching on both metals.",
+   "url": "https://www.ndtvprofit.com/markets/mcx-gold-faces-rs-1-5-lakh-resistance-after-yield-spike-key-buy-and-sell-levels-to-watch-12126925",
+   "source": "NDTV Profit",
+   "source_domain": "ndtvprofit.com",
+   "publisher_id": "ndtv-profit",
+   "published_at": "2026-10-01T15:57:00Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "gold",
+    "silver",
+    "mcx",
+    "india"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "related_urls": [],
+   "rank": 5
+  },
+  {
+   "id": "e5c98496cea7c54e",
+   "title": "Gold futures rise to Rs 1.50 lakh/10 gm on firm spot demand",
+   "summary": "Gold futures rose Rs 1,475 to Rs 1,50,511 per 10 grams on MCX on Thursday as speculators created fresh positions on firm spot demand, PTI reported. The October contract traded 0.99% higher in 2,019 lots. Gold futures also rose 0.59% to $4,182.06/oz in New York.",
+   "url": "https://www.thehindubusinessline.com/markets/gold/gold-futures-rise-to-150-lakh10-gm-on-firm-spot-demand/article71532369.ece",
+   "source": "The Hindu BusinessLine",
+   "source_domain": "thehindubusinessline.com",
+   "publisher_id": "hindu-businessline",
+   "published_at": "2026-10-01T10:20:28Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/e5c98496cea7c54e.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "india",
+    "mcx"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "related_urls": [],
+   "rank": 6
+  },
+  {
+   "id": "8603749672dcd6fb",
+   "rank": 7,
+   "title": "Cyber manipulation in commodity market: Silver option price jumped from ₹174 to ₹2,300 in 5 minutes",
+   "summary": "Cybercriminals breached a Noida risk-management firm's servers and used its static IP to place 1,238 unauthorized orders across 5,559 illiquid MCX silver option contracts. The contract spiked from ₹174 to ₹2,300 in five minutes; about ₹12 crore in premiums created false liquidity while counterparties siphoned roughly ₹11 crore. CERT-In confirmed deliberate distortion; one arrest made.",
+   "url": "https://the420.in/noida-mcx-cyber-manipulation-silver-option/",
+   "source": "The420.in",
+   "source_domain": "the420.in",
+   "publisher_id": "the420",
+   "published_at": "2026-10-03T08:00:31Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/8603749672dcd6fb.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "silver",
+    "mcx",
+    "india"
+   ],
+   "category": "mcx",
+   "metals": [
+    "silver"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "4bd9076cecd5538b",
+   "title": "US yields rise, reversing initial reaction to weak jobs report",
+   "summary": "US Treasury yields reversed an early decline after the weak September jobs report, the 10-year climbing 4.72 bps to 5.281% as traders priced ~80% odds of a Fed hold this month. Gold futures erased their payrolls pop — up 1.4% to $4,259, then down 1.2% to $4,153.80, the biggest blown gain in almost a month, per Dow Jones Market Data.",
+   "url": "https://www.livemint.com/market/us-yields-rise-reversing-initial-reaction-to-weak-jobs-report-11790969678755.html",
+   "source": "Mint",
+   "source_domain": "livemint.com",
+   "publisher_id": "mint",
+   "published_at": "2026-10-02T19:34:38Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "fed",
+    "global",
+    "gold",
+    "silver"
+   ],
+   "category": "global",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "related_urls": [
+    "https://www.mitrade.com/au/insights/news/live-news/article-2-2077316-20260911",
+    "https://www.barrons.com/livecoverage/stock-market-news-today-100226/card/gold-futures-erase-jobs-report-gains-sinking-lower-AZVUa6yGhW5IxslzvHQC"
+   ],
+   "rank": 8
+  },
+  {
+   "id": "eb1f312c26052c9f",
+   "title": "Fed officials give hints on rate decision as markets cut October rate hike odds",
+   "summary": "Fed Vice Chair Philip Jefferson and New York Fed President John Williams signaled the central bank can take its time before another rate increase. Markets repriced sharply: October hike odds fell from about 70% to 25% on federal funds futures, and Goldman Sachs economists said an October hike is unlikely. Chicago Fed's Austan Goolsbee kept both a hike and a cut on the table.",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-officials-give-hints-on-rate-decision-as-markets-cut-october-rate-hike-odds/articleshow/134645153.cms",
+   "source": "Economic Times",
+   "source_domain": "economictimes.indiatimes.com",
+   "publisher_id": "economic-times",
+   "published_at": "2026-10-02T18:30:04Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/eb1f312c26052c9f.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "fed",
+    "global",
+    "gold",
+    "silver"
+   ],
+   "category": "global",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "related_urls": [
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/feds-jefferson-urges-patience-on-rates-kashkari-sees-more-hikes-ahead/articleshow/134626712.cms"
+   ],
+   "rank": 9
+  },
+  {
+   "id": "f1e9bb522d4f6d7f",
+   "rank": 10,
+   "title": "Gold's resilience supports strong outlook, silver faces oversupply, copper could be the big gainer – Deutsche Bank's Ghali",
+   "summary": "Deutsche Bank's Ghali said gold's pullback has been 'incredibly limited' despite 10-year yields above 5% and oil over $100, with positioning most bearish since October 2021 while official buying runs at double the 2022 pace. Silver has tipped into oversupply - London inventories highest since November 2024, solar demand down a third - and should lag gold; copper holds the biggest potential gains.",
+   "url": "https://www.kitco.com/news/article/2026-10-02/golds-resilience-supports-strong-outlook-silver-faces-oversupply-copper",
+   "source": "Kitco",
+   "source_domain": "kitco.com",
+   "publisher_id": "kitco",
+   "published_at": "2026-10-02T16:04:11Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/f1e9bb522d4f6d7f.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "silver",
+    "global",
+    "central-banks"
+   ],
+   "category": "global",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "24ca6dac303c975d",
+   "title": "Soft September jobs report sends markets higher",
+   "summary": "US employers added just 29,000 jobs in September, far below the 90,000 economists expected, while the unemployment rate ticked up to 4.2%. Treasury yields fell and the odds of a Fed rate hike at the October meeting dropped to around 12-19%. Gold rose 0.8% to $4,210 on the cooler data.",
+   "url": "https://www.reuters.com/business/view-soft-september-jobs-report-sends-markets-higher-2026-10-02/",
+   "source": "Reuters",
+   "source_domain": "reuters.com",
+   "publisher_id": "reuters",
+   "published_at": "2026-10-02T13:00:00Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "gold",
+    "fed",
+    "global"
+   ],
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "related_urls": [
+    "https://www.kitco.com/news/article/2026-10-02/gold-prices-see-sold-bid-us-economy-created-29k-jobs-september",
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bets-on-us-federal-reserve-rate-hike-in-october-fall-as-job-market-cools/articleshow/134640792.cms"
+   ],
+   "rank": 11
+  },
+  {
+   "id": "6d21e2940b3a73cf",
+   "rank": 12,
+   "title": "Bank of Korea plans gold purchase from domestic producers in December",
+   "summary": "South Korea's central bank plans to buy gold from domestic producers in December - its first reserve addition since 2013. The transaction system should be ready by December 14, when about 1 tonne could be available; the bank announced the resumption in August and bought $250 million of gold ETFs in Q2. The BOK holds 104.4 tonnes, about 3% of reserves, all stored in London.",
+   "url": "https://www.mining.com/web/bank-of-korea-plans-gold-purchase-from-domestic-producers-in-december/",
+   "source": "MINING.COM",
+   "source_domain": "mining.com",
+   "publisher_id": "mining-com",
+   "published_at": "2026-10-01T14:53:23Z",
+   "image_url": "https://www.mining.com/wp-content/uploads/2026/06/AdobeStock_993107916-1024x574.jpeg",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "global",
+    "central-banks"
+   ],
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "related_urls": [
+    "https://en.sedaily.com/finance/2026/09/30/bank-of-korea-to-buy-140-million-in-domestic-gold-this-year"
+   ]
+  },
+  {
+   "id": "01d5f4160e04f16b",
+   "rank": 13,
+   "title": "China, Poland’s Central Bank Gold Buying Spree Creates a $4K Price Floor",
+   "summary": "Gold fell roughly 6% in September to a seven-week low near $4,110–$4,150 as 10-year Treasury yields near 5.3%, hawkish Fed rhetoric and a strong dollar raised the cost of holding bullion. The longer-term floor comes from central-bank accumulation led by China and Poland diversifying away from fiat, with desks such as Morgan Stanley viewing $4,000 as major psychological and technical support.",
+   "url": "https://www.fxleaders.com/news/2026/10/03/china-polands-central-bank-gold-buying-spree-creates-a-4k-price-floor/",
+   "source": "FX Leaders",
+   "source_domain": "fxleaders.com",
+   "publisher_id": "fx-leaders",
+   "published_at": "2026-10-03T09:03:15Z",
+   "image_url": "https://dr46azxe5rdcu.cloudfront.net/wp-content/uploads/2026/07/19082510/GOLD-4-scaled.webp",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "global",
+    "central-banks"
+   ],
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "d1033c69a46bcc28",
+   "title": "Silver Prices Fall ₹5,000 Today, Down ₹10,000 This Week",
+   "summary": "Delhi bullion trade saw gold add ₹500 on Thursday to ₹1,49,800 per 10 grams on a weaker rupee — ₹96.31 against the dollar, its softest in over two months — even as silver fell ₹5,000 to ₹2.27 lakh per kg. For the week, gold is down about ₹2,800 and silver about ₹10,000. Bullion markets are closed today for Gandhi Jayanti.",
+   "url": "https://financialnewsindia.com/news/silver-prices-fall-%e2%82%b95000-today-down-%e2%82%b910000-this-week/",
+   "source": "Financial News India",
+   "source_domain": "financialnewsindia.com",
+   "publisher_id": "financial-news-india",
+   "published_at": "2026-10-02T01:00:00Z",
+   "image_url": "https://financialnewsindia.com/news/wp-content/uploads/2026/10/i-1.jpeg",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "silver",
+    "india",
+    "mcx"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "related_urls": [],
+   "rank": 14
+  },
+  {
+   "id": "0ca212f65e716708",
+   "title": "Silver price forecast: bears crowd $60 after six-percent weekly rout",
+   "summary": "Silver retreated about 0.76% on Friday to $60.50 as Treasury yields edged higher and capped the dollar's payroll-driven dip, FXStreet reports. The white metal finished the week with losses of over 6%, trading below the 50- and 100-day SMAs at $64.06-$64.74 and poised to test $60; RSI stays below 50. Support sits at $60, then the August low of $56.57, with the year-to-date low of $54.77 below that.",
+   "url": "https://www.fxstreet.com/news/silver-price-forecast-bears-crowd-60-after-six-percent-weekly-rout-202610022152",
+   "source": "FXStreet",
+   "source_domain": "fxstreet.com",
+   "publisher_id": "fxstreet",
+   "published_at": "2026-10-02T21:52:00Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/0ca212f65e716708.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "silver",
+    "global",
+    "fed"
+   ],
+   "category": "global",
+   "metals": [
+    "silver"
+   ],
+   "breaking": false,
+   "related_urls": [
+    "https://talkmarkets.com/article/silver-price-forecast-bears-crowd-60-after-six-percent-weekly-rout"
+   ],
+   "rank": 15
+  },
+  {
+   "id": "2a4fddc9f3876fe2",
+   "title": "Silver's India Problem Was Policy, Not Demand",
+   "summary": "India's silver imports fell to 46.8 tonnes in May from 534.3 tonnes a year earlier after the duty rose to 15% and licence rules tightened, recovering to about 15.5 million ounces in August as permits arrived, per Heraeus. MCX silver stood 17% above the world price on September 30, and demand from jewellery, coins, ETFs and industry stays intact, the analysis says. Silver was collateral damage...",
+   "url": "https://www.investing.com/analysis/silvers-india-problem-was-policy-not-demand-200688867",
+   "source": "Investing.com",
+   "source_domain": "investing.com",
+   "publisher_id": "investing",
+   "published_at": "2026-10-02T16:35:00Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "silver",
+    "india",
+    "import-duty",
+    "mcx"
+   ],
+   "category": "policy",
+   "metals": [
+    "silver"
+   ],
+   "breaking": false,
+   "related_urls": [],
+   "rank": 16
+  },
+  {
+   "id": "997d1234fb634c54",
+   "title": "India's Forex Reserves Plunge by $18.34 Billion",
+   "summary": "India's foreign exchange reserves fell $18.34 billion to $747.56 billion in the week ended September 25, RBI data released on Friday showed — the third straight weekly decline, pulling the kitty further from its September 4 record of $785.71 billion. Foreign currency assets dropped $15.57 billion to $615.41 billion as the RBI sold dollars to steady the rupee, while gold reserves fell $2.59...",
+   "url": "https://www.rediff.com/business/report/indias-forex-reserves-drop-significantly-to-74756-billion-rbi-data/20261002.htm",
+   "source": "Rediff",
+   "source_domain": "rediff.com",
+   "publisher_id": "rediff",
+   "published_at": "2026-10-02T16:50:00Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/997d1234fb634c54.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "india",
+    "rbi",
+    "rupee"
+   ],
+   "category": "policy",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "related_urls": [],
+   "rank": 17
+  },
+  {
+   "id": "da9f5b736ac346b7",
+   "rank": 18,
+   "title": "Gold Demand Remains Strong Despite High Prices, Buyers Adjust Purchases",
+   "summary": "The World Gold Council expects Indian gold demand to improve through the festive and wedding season on steady investment demand and resilient wedding buying despite near-record prices. With 24-carat gold around ₹1.48 lakh per 10 grams, Guwahati jewellers expect robust but smaller purchases — lighter jewellery, coins or digital gold — while old-gold exchange has widened domestic discounts.",
+   "url": "https://www.guwahatiplus.com/exclusive-news/gold-demand-remains-strong-despite-high-prices-buyers-adjust-purchases",
+   "source": "Guwahati Plus",
+   "source_domain": "guwahatiplus.com",
+   "publisher_id": "guwahati-plus",
+   "published_at": "2026-10-03T08:44:56Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/da9f5b736ac346b7.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "india",
+    "jewellery"
+   ],
+   "category": "festive",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "74e5a925aee82db7",
+   "title": "Gold gets its festive shine back as lower prices lure Asian buyers",
+   "summary": "Lower gold prices are pulling physical buyers back across Asia ahead of the festive season, the Times of India reports: Indian dealer discounts narrowed from up to $43/oz to $14/oz as demand improved, Singapore dealers saw stronger buying as they rebuilt inventories, and China is watching price moves closely with premiums running high.",
+   "url": "https://timesofindia.indiatimes.com/business/international-business/gold-gets-its-festive-shine-back-as-lower-prices-lure-asian-buyers/articleshow/134634015.cms",
+   "source": "Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "publisher_id": "times-of-india",
+   "published_at": "2026-10-02T08:15:00Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/74e5a925aee82db7.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "india",
+    "jewellery"
+   ],
+   "category": "festive",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "related_urls": [],
+   "rank": 19
+  },
+  {
+   "id": "bb4481231e12d27f",
+   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats As Treasury Yields Rebound",
+   "summary": "Gold slid back below $4,160 after failing to hold $4,200, as 10-year Treasury yields climbed toward 5.30% despite the weak September payrolls report. FXEmpire flags $4,000–$4,020 as the next support if $4,160 breaks.",
+   "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-retreats-as-treasury-yields-rebound-1634862",
+   "source": "FXEmpire",
+   "source_domain": "fxempire.com",
+   "publisher_id": "fxempire",
+   "published_at": "2026-10-03T00:04:00Z",
+   "image_url": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/gold-precious-metal-price-chart-05.jpg?func=cover&q=70&width=1201",
+   "image_kind": "photo",
+   "category": "global",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "tags": [
+    "gold",
+    "silver",
+    "comex",
+    "global"
+   ],
+   "breaking": false,
+   "related_urls": [],
+   "rank": 20
+  },
+  {
+   "id": "de6f10ac82d42484",
+   "title": "'50% of silver rally was just bubble': experts pick gold and platinum",
+   "summary": "Four Indian market experts argue about half of silver's early-2026 rally was a speculative bubble — the metal has fallen from a January peak of Rs 3.86 lakh/kg to about Rs 2.22 lakh — and they now favour gold and platinum, Bhaskar English reports. They see silver possibly recovering toward Rs 3-4 lakh/kg by 2027, though small investors may wait until end-2027 to recoup older holdings.",
+   "url": "https://www.bhaskarenglish.in/business/news/gold-platinum-investment-tips-silver-price-crash-india-market-2027-139218141.html",
+   "source": "Bhaskar English",
+   "source_domain": "bhaskarenglish.in",
+   "publisher_id": "bhaskar-english",
+   "published_at": "2026-10-02T02:01:00Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/de6f10ac82d42484.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "silver",
+    "gold",
+    "india",
+    "global"
+   ],
+   "category": "mcx",
+   "metals": [
+    "silver",
+    "gold"
+   ],
+   "breaking": false,
+   "related_urls": [],
+   "rank": 21
+  }
+ ]
 }
