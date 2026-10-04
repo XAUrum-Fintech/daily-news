@@ -1,0 +1,287 @@
+{
+  "schema": "macro-events.v1",
+  "generated_at": "2026-10-04T17:59:13Z",
+  "event_count": 13,
+  "events": [
+    {
+      "id": "us-jobs-2026-09-04",
+      "kind": "us_jobs",
+      "title": "US jobs report",
+      "status": "released",
+      "scheduled_at": "2026-09-04T08:30:00-04:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [
+        {
+          "key": "nonfarm_payrolls",
+          "label": "Payrolls",
+          "unit": "thousand_jobs",
+          "actual": 162,
+          "forecast": null,
+          "previous": 21,
+          "previous_first_print": -23
+        },
+        {
+          "key": "unemployment_rate",
+          "label": "Unemployment",
+          "unit": "percent",
+          "actual": 4.1,
+          "forecast": null,
+          "previous": 4.1,
+          "previous_first_print": null
+        }
+      ],
+      "revisions": [
+        {
+          "label": "June",
+          "from": 20,
+          "to": 31
+        },
+        {
+          "label": "July",
+          "from": -23,
+          "to": 21
+        }
+      ],
+      "summary": "August payrolls rose 162,000; unemployment held at 4.1 percent.",
+      "forecast_source": null,
+      "source_url": "https://www.bls.gov/news.release/archives/empsit_09042026.htm",
+      "published_at": "2026-10-04T17:59:13Z"
+    },
+    {
+      "id": "us-jobs-2026-10-02",
+      "kind": "us_jobs",
+      "title": "US jobs report",
+      "status": "released",
+      "scheduled_at": "2026-10-02T08:30:00-04:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [
+        {
+          "key": "nonfarm_payrolls",
+          "label": "Payrolls",
+          "unit": "thousand_jobs",
+          "actual": 29,
+          "forecast": null,
+          "previous": 133,
+          "previous_first_print": 162
+        },
+        {
+          "key": "unemployment_rate",
+          "label": "Unemployment",
+          "unit": "percent",
+          "actual": 4.2,
+          "forecast": null,
+          "previous": 4.1,
+          "previous_first_print": null
+        }
+      ],
+      "revisions": [
+        {
+          "label": "July",
+          "from": 21,
+          "to": -10
+        },
+        {
+          "label": "August",
+          "from": 162,
+          "to": 133
+        }
+      ],
+      "summary": "September payrolls rose 29,000; unemployment was 4.2 percent.",
+      "forecast_source": null,
+      "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "published_at": "2026-10-04T17:59:13Z"
+    },
+    {
+      "id": "us-cpi-2026-09-11",
+      "kind": "us_cpi",
+      "title": "US inflation (CPI)",
+      "status": "released",
+      "scheduled_at": "2026-09-11T08:30:00-04:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [
+        {
+          "key": "cpi_yoy",
+          "label": "Inflation, year on year",
+          "unit": "percent",
+          "actual": 3.4,
+          "forecast": null,
+          "previous": 3.4,
+          "previous_first_print": null
+        },
+        {
+          "key": "core_cpi_yoy",
+          "label": "Core inflation, year on year",
+          "unit": "percent",
+          "actual": 2.4,
+          "forecast": null,
+          "previous": 2.5,
+          "previous_first_print": null
+        }
+      ],
+      "revisions": [],
+      "summary": "Consumer prices rose 3.4 percent in the year to August; core inflation was 2.4 percent.",
+      "forecast_source": null,
+      "source_url": "https://www.bls.gov/news.release/archives/cpi_09112026.htm",
+      "published_at": "2026-10-04T17:59:13Z"
+    },
+    {
+      "id": "fed-2026-09-16",
+      "kind": "fed_rate",
+      "title": "Fed rate decision",
+      "status": "released",
+      "scheduled_at": "2026-09-16T14:00:00-04:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [
+        {
+          "key": "fed_funds_upper",
+          "label": "Fed funds, upper",
+          "unit": "percent",
+          "actual": 4.0,
+          "forecast": null,
+          "previous": 3.75,
+          "previous_first_print": null
+        },
+        {
+          "key": "fed_funds_lower",
+          "label": "Fed funds, lower",
+          "unit": "percent",
+          "actual": 3.75,
+          "forecast": null,
+          "previous": 3.5,
+          "previous_first_print": null
+        }
+      ],
+      "revisions": [],
+      "summary": "The Fed raised its target range by a quarter point to 3.75 to 4 percent.",
+      "forecast_source": null,
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+      "published_at": "2026-10-04T17:59:13Z"
+    },
+    {
+      "id": "us-jobs-2026-11-06",
+      "kind": "us_jobs",
+      "title": "US jobs report",
+      "status": "scheduled",
+      "scheduled_at": "2026-11-06T08:30:00-05:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [],
+      "revisions": [],
+      "summary": "Monthly count of US jobs added, and the unemployment rate.",
+      "forecast_source": null,
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "published_at": null
+    },
+    {
+      "id": "us-jobs-2026-12-04",
+      "kind": "us_jobs",
+      "title": "US jobs report",
+      "status": "scheduled",
+      "scheduled_at": "2026-12-04T08:30:00-05:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [],
+      "revisions": [],
+      "summary": "Monthly count of US jobs added, and the unemployment rate.",
+      "forecast_source": null,
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "published_at": null
+    },
+    {
+      "id": "us-cpi-2026-10-14",
+      "kind": "us_cpi",
+      "title": "US inflation (CPI)",
+      "status": "scheduled",
+      "scheduled_at": "2026-10-14T08:30:00-04:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [],
+      "revisions": [],
+      "summary": "How much US consumer prices rose over the past year.",
+      "forecast_source": null,
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "published_at": null
+    },
+    {
+      "id": "us-cpi-2026-11-10",
+      "kind": "us_cpi",
+      "title": "US inflation (CPI)",
+      "status": "scheduled",
+      "scheduled_at": "2026-11-10T08:30:00-05:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [],
+      "revisions": [],
+      "summary": "How much US consumer prices rose over the past year.",
+      "forecast_source": null,
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "published_at": null
+    },
+    {
+      "id": "us-cpi-2026-12-10",
+      "kind": "us_cpi",
+      "title": "US inflation (CPI)",
+      "status": "scheduled",
+      "scheduled_at": "2026-12-10T08:30:00-05:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [],
+      "revisions": [],
+      "summary": "How much US consumer prices rose over the past year.",
+      "forecast_source": null,
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "published_at": null
+    },
+    {
+      "id": "fed-2026-10-28",
+      "kind": "fed_rate",
+      "title": "Fed rate decision",
+      "status": "scheduled",
+      "scheduled_at": "2026-10-28T14:00:00-04:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [],
+      "revisions": [],
+      "summary": "The US central bank announces its policy interest rate.",
+      "forecast_source": null,
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "published_at": null
+    },
+    {
+      "id": "fed-2026-12-09",
+      "kind": "fed_rate",
+      "title": "Fed rate decision",
+      "status": "scheduled",
+      "scheduled_at": "2026-12-09T14:00:00-05:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [],
+      "revisions": [],
+      "summary": "The US central bank announces its policy interest rate.",
+      "forecast_source": null,
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "published_at": null
+    },
+    {
+      "id": "rbi-2026-10-07",
+      "kind": "rbi_policy",
+      "title": "RBI policy decision",
+      "status": "scheduled",
+      "scheduled_at": "2026-10-07T10:00:00+05:30",
+      "scheduled_tz": "Asia/Kolkata",
+      "metrics": [],
+      "revisions": [],
+      "summary": "India's central bank announces the repo rate.",
+      "forecast_source": null,
+      "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62422",
+      "published_at": null
+    },
+    {
+      "id": "rbi-2026-12-04",
+      "kind": "rbi_policy",
+      "title": "RBI policy decision",
+      "status": "scheduled",
+      "scheduled_at": "2026-12-04T10:00:00+05:30",
+      "scheduled_tz": "Asia/Kolkata",
+      "metrics": [],
+      "revisions": [],
+      "summary": "India's central bank announces the repo rate.",
+      "forecast_source": null,
+      "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62422",
+      "published_at": null
+    }
+  ]
+}
