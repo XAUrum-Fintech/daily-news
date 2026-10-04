@@ -1,53 +1,57 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-04T10:00Z",
-  "generated_at": "2026-10-04T10:02:55Z",
+  "edition_id": "2026-10-04T11:00Z",
+  "generated_at": "2026-10-04T11:01:47Z",
   "window": {
-    "from": "2026-10-04T09:00:00Z",
-    "to": "2026-10-04T10:00:00Z"
+    "from": "2026-10-04T10:00:00Z",
+    "to": "2026-10-04T11:00:00Z"
   },
   "insights": {
-    "headline": "The first 15%-duty Dhanteras looms with gold near ₹1.50 lakh as markets brace for RBI's rate call.",
-    "summary": "Gold sits near ₹1.50 lakh per 10 grams ahead of Dhanteras on 6 November, the costliest festive season on record and the first under the 15% import duty. Weak US payrolls cut October Fed-hike bets, but gold still ended the week lower as Treasury yields climbed, while silver held above $60 and Indian import demand rebounded once licences started flowing. The RBI meets 5-7 October with a first repo hike since 2023 on the table, which could support the rupee and soften domestic prices.",
+    "headline": "Silver closes the week at $60.71 as China adds 20.2 tons of gold and India braces for RBI's rate call.",
+    "summary": "COMEX silver settled Friday at $60.71 after a 6.2% weekly slide, while refiners run 3-4 months behind schedule. Gold held $4,144 with China's central bank adding 20.2 tons in August — its biggest monthly buy since October 2023 — as CFTC net longs fell to a July low and gold ETFs bled 1.6 tons. India's costliest Dhanteras looms with gold near ₹1.49 lakh/10g; the RBI meets 5-7 October on its first repo hike since 2023.",
     "points": [
-      "Dhanteras is on 6 November: 24-carat gold quoted around ₹1.49 lakh/10g; silver is ~60% higher than last Dhanteras.",
-      "US added just 29,000 jobs in September; October Fed-hike odds fell below 20%, yet gold failed to hold $4,200.",
-      "India's silver imports sank to ~1.5m oz in May and recovered to ~15.5m oz in August after licences opened up.",
-      "RBI MPC meets 5-7 October; most economists expect a 25 bps hike, the first since February 2023.",
-      "Forex reserves fell $18.34bn to $747.56bn as the RBI defended the rupee near 96."
+      "Silver closed at $60.71 on COMEX Friday, down 6.2% on the week and under its 50-day average of $65.51; 337.58m oz sits in warehouses.",
+      "PBoC added 20.2 tons of gold in August — largest since Oct 2023 — lifting holdings to 2,387 tons; ICICI Bank sees $4,200-4,600 into year-end.",
+      "CFTC net longs fell to their lowest since late July while gold ETFs lost 1.6 tons; Ghana suspended gold exports to rebuild reserves.",
+      "US added just 29,000 jobs in September; unemployment hit 4.2%, but yields stayed elevated and gold could not hold $4,200.",
+      "Forex reserves fell $18.34bn to $747.56bn as RBI defended the rupee; gold sits near ₹1.49 lakh/10g ahead of Nov 6 Dhanteras."
     ]
   },
   "trending": [
     {
-      "title": "The ₹1.5 lakh Dhanteras — India's most expensive festive season",
-      "summary": "First festive season under 15% import duty sees gold at record rupee levels, pushing buyers toward lightweight jewellery, old-gold exchanges and coins.",
+      "title": "Silver's $60 line holds after a bruising week",
+      "summary": "COMEX silver closed the week at $60.71, down 6.2%, as elevated yields overpowered a soft payrolls print; smelters run 3-4 months behind while Indian silver imports recovered once licences flowed.",
+      "item_ids": [
+        "64b448e09eb212b3",
+        "ba636dd3aa345555",
+        "8603749672dcd6fb"
+      ]
+    },
+    {
+      "title": "Central banks keep the floor under gold",
+      "summary": "The PBoC added 20.2 tons in August — its largest monthly buy since October 2023 — and Ghana suspended exports to rebuild reserves, keeping gold above $4,000 even as futures speculators retreat.",
+      "item_ids": [
+        "52c170cd26cce7b1",
+        "ce51a3c4fc273b95"
+      ]
+    },
+    {
+      "title": "The ₹1.5 lakh Dhanteras — India's costliest festive season",
+      "summary": "Gold near ₹1.49 lakh/10g makes this the most expensive Dhanteras on record and the first under the 15% import duty; buyers shift to lightweight pieces, old-gold exchanges and coins.",
       "item_ids": [
         "9eae140cd6da4208",
+        "447cf541c6add410",
         "126134b533431fe4",
-        "c48eb21a01beb8a9"
+        "3aafeea0ac67921e",
+        "da9f5b736ac346b7"
       ]
     },
     {
       "title": "RBI's rate call is the rupee's — and gold's — next mover",
-      "summary": "A repo hike on 7 October could strengthen the rupee and trim domestic gold prices even if dollar prices hold.",
+      "summary": "The October 5-7 MPC could deliver the first repo hike since February 2023, while forex reserves fell $18.34bn as the RBI defended the rupee near 96 — the two forces setting domestic gold prices.",
       "item_ids": [
-        "8f3938580b481d11",
-        "561887370291277f"
-      ]
-    },
-    {
-      "title": "Silver's $60 line holds as Indian licences unclog imports",
-      "summary": "Silver ended the week near $60.71 after a ~6% weekly drop; India's August imports rebounded tenfold from May once licences flowed.",
-      "item_ids": [
-        "447cf541c6add410",
-        "60244a2d6603c886"
-      ]
-    },
-    {
-      "title": "Weak payrolls cut Fed-hike bets, but yields keep gold pinned",
-      "summary": "The September jobs miss slashed October hike odds, yet elevated Treasury yields and a firm dollar left gold with a second straight weekly loss.",
-      "item_ids": [
-        "c0b2c0fd958bc15b"
+        "c0b2c0fd958bc15b",
+        "b2d66b668bab0bf3"
       ]
     }
   ],
@@ -77,28 +81,55 @@
       "breaking": false
     },
     {
-      "id": "8f3938580b481d11",
-      "title": "Wall Street Trims Gold Targets as Holiday Buyers Fail to Offset the Yield Squeeze",
-      "summary": "Wells Fargo cut its end-2027 gold range to $5,200-$5,400 and HSBC lowered its 2026 average forecast to $4,490 (2027: $4,825), citing likely Fed hikes, a firm dollar and rising oil. Gold ended the week at $4,144, down 3.4% and 26% below its peak, with CFTC data showing asset managers at their least bullish since July. Weak payrolls briefly lifted gold before firm yields reasserted themselves.",
-      "url": "https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/wall-street-trims-gold-targets-as-holiday-buyers-fail-to-offset-the-yield/70223183",
+      "id": "64b448e09eb212b3",
+      "title": "Silver Ends the Week at $60.71 as Refining Backlogs Meet a Soft Payroll Print",
+      "summary": "COMEX front-month silver settled Friday at $60.71, down 6.2% over seven days and below its 50-day average of $65.51. A soft September payrolls print — 29,000 jobs added versus 90,000 expected, unemployment up to 4.2% — gave only brief relief as Treasury yields stayed elevated. Smelter processing runs 3-4 months behind, though COMEX warehouses hold 337.58m ounces (101.10m registered).",
+      "url": "https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/silver-ends-the-week-at-60-71-as-refining-backlogs-meet-a-soft-payroll/70223709",
       "source": "AD HOC NEWS",
       "source_domain": "ad-hoc-news.de",
       "publisher_id": "ad-hoc-news",
-      "published_at": "2026-10-04T01:00:00Z",
-      "image_url": "https://mdb.ad-hoc-news.de/bild/bild-2810389_1920_1080.webp",
+      "published_at": "2026-10-04T07:50:48Z",
+      "image_url": "https://mdb.ad-hoc-news.de/bild/bild-2810468_1920_1080.webp",
+      "image_kind": "photo",
+      "tags": [
+        "silver",
+        "comex",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/silver-s-60-line-holds-the-market-s-gaze-as-yields-and-jobs-data-pull-in/70223147"
+      ],
+      "rank": 2
+    },
+    {
+      "id": "52c170cd26cce7b1",
+      "title": "Gold Digs In Above $4,000 as China's Central Bank Adds 20.2 Tons",
+      "summary": "Gold ended Friday at $4,144.04, holding above $4,000 despite a 3.4% weekly fall as rising Treasury yields and a firm dollar drove futures selling. The floor comes from official buying: the PBoC added 20.2 tons in August — its biggest monthly buy since October 2023 — lifting holdings to 2,387 tons. CFTC net longs fell to their lowest since late July while gold ETFs shed 1.6 tons to 4,249 tons.",
+      "url": "https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/gold-digs-in-above-4-000-as-china-s-central-bank-adds-20-2-tons/70219425",
+      "source": "AD HOC NEWS",
+      "source_domain": "ad-hoc-news.de",
+      "publisher_id": "ad-hoc-news",
+      "published_at": "2026-10-03T08:00:00Z",
+      "image_url": "https://mdb.ad-hoc-news.de/bild/bild-2809656_1920_1080.webp",
       "image_kind": "photo",
       "tags": [
         "gold",
+        "central-banks",
         "global",
-        "fed",
-        "central-banks"
+        "fed"
       ],
       "category": "global",
       "metals": [
         "gold"
       ],
       "breaking": false,
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "c0b2c0fd958bc15b",
@@ -122,11 +153,11 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "447cf541c6add410",
-      "rank": 4,
+      "rank": 5,
       "title": "₹1.50 lakh gold tests Indian consumers: Lightweight jewellery gains traction",
       "summary": "Gold's pullback from record highs may give Indian consumers a buying window ahead of Diwali and the wedding season. Buyers are shifting to lightweight jewellery to stay within budgets at the ₹1.50 lakh per 10-gram level, and Sky Gold & Diamonds' Mangesh Chauhan expects festive and wedding demand to hold steady.",
       "url": "https://www.businesstoday.in/india/story/rs1-50-lakh-gold-tests-indian-consumers-lightweight-jewellery-gains-traction-559261-2026-10-03",
@@ -148,167 +179,31 @@
       "breaking": false
     },
     {
-      "id": "60244a2d6603c886",
-      "title": "Silver's $60 Line Holds the Market's Gaze as Yields and Jobs Data Pull in Opposite Directions",
-      "summary": "COMEX silver settled Friday at $60.71 an ounce, capping a 6.2% weekly slide that left the metal about 50% below its peak, with $60 now the key technical floor. The 10-year US yield spiked to its highest since June 2007 on inflation worries and firming oil after US-Iran talks stalled. Tame August PCE data and the NY Fed president's remark against rushing further hikes offered only partial relief.",
-      "url": "https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/silver-s-60-line-holds-the-market-s-gaze-as-yields-and-jobs-data-pull-in/70223147",
-      "source": "AD HOC NEWS",
-      "source_domain": "ad-hoc-news.de",
-      "publisher_id": "ad-hoc-news",
-      "published_at": "2026-10-04T04:50:57Z",
-      "image_url": "https://mdb.ad-hoc-news.de/bild/bild-2810387_1920_1080.webp",
-      "image_kind": "photo",
-      "tags": [
-        "silver",
-        "global",
-        "fed",
-        "comex"
-      ],
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 5
-    },
-    {
-      "id": "aa85133c297b476a",
-      "title": "From gold consumer to global powerhouse: How India refines, designs, and dominates",
-      "summary": "India imports 700-800 tonnes of physical gold a year - nearly 15% of global demand - yet owns almost no gold mines; its edge is refining, designing and manufacturing, argues jeweller Nitin Gilara. Jewellery exports hit roughly $27.71 billion in FY2026 against a $59 billion import bill.",
-      "url": "https://www.thehindubusinessline.com/markets/gold/from-gold-consumer-to-global-powerhouse-how-india-refines-designs-and-dominates/article71539575.ece",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "publisher_id": "hindu-businessline",
-      "published_at": "2026-10-04T03:30:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/aa85133c297b476a.jpg",
+      "id": "b2d66b668bab0bf3",
+      "rank": 6,
+      "title": "India's forex reserves fall $18.3 bn as RBI steps in to defend rupee",
+      "summary": "India's forex reserves fell $18.34 billion in the week to September 25, the third straight weekly decline, RBI data showed. The kitty dropped to $747.56 billion from its September 4 record of $785.71 billion as the central bank sold dollars to steady the rupee; foreign currency assets fell $15.57 billion to $615.41 billion and gold reserves depleted $2.59 billion to $108.70 billion.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/indias-forex-reserves-fall-18-3-bn-as-rbi-steps-in-to-defend-rupee/articleshow/134650624.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-10-02T18:42:38Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/b2d66b668bab0bf3.jpg",
       "image_kind": "photo",
       "tags": [
         "gold",
         "india",
-        "jewellery"
+        "rbi",
+        "rupee"
       ],
       "category": "mcx",
       "metals": [
         "gold"
       ],
       "breaking": false,
-      "rank": 6
-    },
-    {
-      "id": "561887370291277f",
-      "title": "Gold Rates Vs Indian Festive Season: Why Do Prices Surge During Festivals and How to Identify Real Gold?",
-      "summary": "Dhanteras and Diwali buying is the main reason Indian gold prices surge during festivals, as heavy retail demand strains jewellers' supply. Retail 24K gold is near Rs 1,49,180 per 10 grams; MCX shut Sunday at Rs 1,47,724, the 'real' price reference before 3% GST and making charges.",
-      "url": "https://www.jagranjosh.com/general-knowledge/gold-prices-today-vs-indian-festive-season-why-do-prices-surge-during-festivals-and-how-to-identify-real-gold-price-on-mcx-1820012752-1",
-      "source": "Jagran Josh",
-      "source_domain": "jagranjosh.com",
-      "publisher_id": "jagran-josh",
-      "published_at": "2026-10-04T02:17:00Z",
-      "image_url": "https://img.jagranjosh.com/images/2026/10/04/template/image/Gold-prices-today--1791079561979.webp",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "india",
-        "jewellery"
-      ],
-      "category": "festive",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 7
-    },
-    {
-      "id": "0e17fac068bc54be",
-      "rank": 8,
-      "title": "Tanvi Exports files for IPO: 5 key highlights from gold jewellery maker's DRHP",
-      "summary": "Tanvi Exports, a gold jewellery manufacturer, has filed its draft red herring prospectus, with five highlights from the DRHP covering its business, financials and the IPO plan. The listing would add another gold jewellery maker to India's listed market just ahead of the peak festive and wedding buying season.",
-      "url": "https://www.livemint.com/market/tanvi-exports-files-for-ipo-5-key-highlights-from-gold-jewellery-maker-s-drhp-11791050208188.html",
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "publisher_id": "livemint",
-      "published_at": "2026-10-03T18:28:47Z",
-      "image_url": "https://www.livemint.com/lm-img/img/2026/10/03/1600x900/logo/goldjewellery_1791052014901_bHmn_1791052065695_fD6W_aa3bd6a1-f1cb-4ed5-9a6d-43b57c01344d_zY5e.jpg",
-      "image_kind": "photo",
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "india",
-        "jewellery",
-        "mcx"
-      ],
-      "breaking": false
-    },
-    {
-      "id": "126134b533431fe4",
-      "rank": 9,
-      "title": "Festive Gold Jewellery Demand Amid Elevated Prices: Changing Buying Trends",
-      "summary": "Indian shoppers are adapting to elevated gold prices ahead of the festive season: choosing lighter-weight jewellery, exchanging old pieces, and insisting on hallmarked purchases rather than sitting out festive buying.",
-      "url": "https://www.kalkine.co.in/article/consumer/will-the-festive-season-revive-gold-jewellery-demand-as-prices-stay-elevated-what-shoppers-are-doing-differently",
-      "source": "Kalkine India",
-      "source_domain": "kalkine.co.in",
-      "publisher_id": "kalkine-india",
-      "published_at": "2026-10-03T14:04:00Z",
-      "image_url": "https://www.kalkine.co.in/uploads/articles/featured_image/93e725dc-2e6a-4c57-bf06-c49e0fbbf944-27550.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "india",
-        "jewellery"
-      ],
-      "category": "festive",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false
-    },
-    {
-      "id": "da9f5b736ac346b7",
-      "rank": 10,
-      "title": "Gold Demand Remains Strong Despite High Prices, Buyers Adjust Purchases",
-      "summary": "The World Gold Council expects Indian gold demand to improve through the festive and wedding season on steady investment demand and resilient wedding buying despite near-record prices. With 24-carat gold around ₹1.48 lakh per 10 grams, Guwahati jewellers expect robust but smaller purchases — lighter jewellery, coins or digital gold — while old-gold exchange has widened domestic discounts.",
-      "url": "https://www.guwahatiplus.com/exclusive-news/gold-demand-remains-strong-despite-high-prices-buyers-adjust-purchases",
-      "source": "Guwahati Plus",
-      "source_domain": "guwahatiplus.com",
-      "publisher_id": "guwahati-plus",
-      "published_at": "2026-10-03T08:44:56Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/da9f5b736ac346b7.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "india",
-        "jewellery"
-      ],
-      "category": "festive",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false
-    },
-    {
-      "id": "8603749672dcd6fb",
-      "rank": 11,
-      "title": "Cyber manipulation in commodity market: Silver option price jumped from ₹174 to ₹2,300 in 5 minutes",
-      "summary": "Cybercriminals breached a Noida risk-management firm's servers and used its static IP to place 1,238 unauthorized orders across 5,559 illiquid MCX silver option contracts. The contract spiked from ₹174 to ₹2,300 in five minutes; about ₹12 crore in premiums created false liquidity while counterparties siphoned roughly ₹11 crore. CERT-In confirmed deliberate distortion; one arrest made.",
-      "url": "https://the420.in/noida-mcx-cyber-manipulation-silver-option/",
-      "source": "The420.in",
-      "source_domain": "the420.in",
-      "publisher_id": "the420",
-      "published_at": "2026-10-03T08:00:31Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/8603749672dcd6fb.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "silver",
-        "mcx",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "silver"
-      ],
-      "breaking": false
+      "related_urls": [
+        "https://www.rediff.com/business/report/indias-forex-reserves-drop-significantly-to-74756-billion-rbi-data/20261002.htm"
+      ]
     },
     {
       "id": "ce51a3c4fc273b95",
@@ -334,11 +229,11 @@
       "related_urls": [
         "https://www.livemint.com/market/us-yields-rise-reversing-initial-reaction-to-weak-jobs-report-11790969678755.html"
       ],
-      "rank": 12
+      "rank": 7
     },
     {
       "id": "33b9a9609871559e",
-      "rank": 13,
+      "rank": 8,
       "title": "Comex Gold Ends the Week 3.59% Lower at $4133.70",
       "summary": "Comex gold for October delivery lost $154.10, or 3.59%, to $4,133.70 this week — the largest one-week decline since early June, the second straight weekly loss, and the lowest settlement since August 4. Silver fared worse, down 6.68% to $59.977, its lowest settlement since August 3. Year-to-date, gold is down 4.44% and silver 14.48%, per Dow Jones Market Data.",
       "url": "https://www.wsj.com/finance/commodities-futures/gold-falls-u-s-dollar-yields-key-obstacles-for-price-gain-a4f001e3",
@@ -360,33 +255,6 @@
         "silver"
       ],
       "breaking": false
-    },
-    {
-      "id": "b2d66b668bab0bf3",
-      "rank": 14,
-      "title": "India's forex reserves fall $18.3 bn as RBI steps in to defend rupee",
-      "summary": "India's forex reserves fell $18.34 billion in the week to September 25, the third straight weekly decline, RBI data showed. The kitty dropped to $747.56 billion from its September 4 record of $785.71 billion as the central bank sold dollars to steady the rupee; foreign currency assets fell $15.57 billion to $615.41 billion and gold reserves depleted $2.59 billion to $108.70 billion.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/indias-forex-reserves-fall-18-3-bn-as-rbi-steps-in-to-defend-rupee/articleshow/134650624.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "publisher_id": "economic-times",
-      "published_at": "2026-10-02T18:42:38Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/b2d66b668bab0bf3.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "india",
-        "rbi",
-        "rupee"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://www.rediff.com/business/report/indias-forex-reserves-drop-significantly-to-74756-billion-rbi-data/20261002.htm"
-      ]
     },
     {
       "id": "ba636dd3aa345555",
@@ -413,11 +281,57 @@
       "related_urls": [
         "https://www.investing.com/analysis/silvers-india-problem-was-policy-not-demand-200688867"
       ],
-      "rank": 15
+      "rank": 9
+    },
+    {
+      "id": "aa85133c297b476a",
+      "title": "From gold consumer to global powerhouse: How India refines, designs, and dominates",
+      "summary": "India imports 700-800 tonnes of physical gold a year - nearly 15% of global demand - yet owns almost no gold mines; its edge is refining, designing and manufacturing, argues jeweller Nitin Gilara. Jewellery exports hit roughly $27.71 billion in FY2026 against a $59 billion import bill.",
+      "url": "https://www.thehindubusinessline.com/markets/gold/from-gold-consumer-to-global-powerhouse-how-india-refines-designs-and-dominates/article71539575.ece",
+      "source": "The Hindu BusinessLine",
+      "source_domain": "thehindubusinessline.com",
+      "publisher_id": "hindu-businessline",
+      "published_at": "2026-10-04T03:30:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/aa85133c297b476a.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 10
+    },
+    {
+      "id": "126134b533431fe4",
+      "rank": 11,
+      "title": "Festive Gold Jewellery Demand Amid Elevated Prices: Changing Buying Trends",
+      "summary": "Indian shoppers are adapting to elevated gold prices ahead of the festive season: choosing lighter-weight jewellery, exchanging old pieces, and insisting on hallmarked purchases rather than sitting out festive buying.",
+      "url": "https://www.kalkine.co.in/article/consumer/will-the-festive-season-revive-gold-jewellery-demand-as-prices-stay-elevated-what-shoppers-are-doing-differently",
+      "source": "Kalkine India",
+      "source_domain": "kalkine.co.in",
+      "publisher_id": "kalkine-india",
+      "published_at": "2026-10-03T14:04:00Z",
+      "image_url": "https://www.kalkine.co.in/uploads/articles/featured_image/93e725dc-2e6a-4c57-bf06-c49e0fbbf944-27550.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
+      ],
+      "category": "festive",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false
     },
     {
       "id": "fe1511b508d187ad",
-      "rank": 16,
+      "rank": 12,
       "title": "SEBI examining position limits for non-agri contracts to boost liquidity",
       "summary": "SEBI chairman Tuhin Kanta Pandey said on Saturday the regulator is reviewing position limits for non-agricultural commodity derivatives — which include bullion contracts — to deepen liquidity and market depth without weakening risk controls. Consultations are complete and guidelines will follow; SEBI is also tackling GST frictions for exchange participants.",
       "url": "https://www.thehindubusinessline.com/markets/sebi-examining-position-limits-for-non-agri-contracts-to-boost-liquidity/article71540251.ece",
@@ -461,7 +375,77 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 17
+      "rank": 13
+    },
+    {
+      "id": "8603749672dcd6fb",
+      "rank": 14,
+      "title": "Cyber manipulation in commodity market: Silver option price jumped from ₹174 to ₹2,300 in 5 minutes",
+      "summary": "Cybercriminals breached a Noida risk-management firm's servers and used its static IP to place 1,238 unauthorized orders across 5,559 illiquid MCX silver option contracts. The contract spiked from ₹174 to ₹2,300 in five minutes; about ₹12 crore in premiums created false liquidity while counterparties siphoned roughly ₹11 crore. CERT-In confirmed deliberate distortion; one arrest made.",
+      "url": "https://the420.in/noida-mcx-cyber-manipulation-silver-option/",
+      "source": "The420.in",
+      "source_domain": "the420.in",
+      "publisher_id": "the420",
+      "published_at": "2026-10-03T08:00:31Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/8603749672dcd6fb.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "silver",
+        "mcx",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "0e17fac068bc54be",
+      "rank": 15,
+      "title": "Tanvi Exports files for IPO: 5 key highlights from gold jewellery maker's DRHP",
+      "summary": "Tanvi Exports, a gold jewellery manufacturer, has filed its draft red herring prospectus, with five highlights from the DRHP covering its business, financials and the IPO plan. The listing would add another gold jewellery maker to India's listed market just ahead of the peak festive and wedding buying season.",
+      "url": "https://www.livemint.com/market/tanvi-exports-files-for-ipo-5-key-highlights-from-gold-jewellery-maker-s-drhp-11791050208188.html",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "publisher_id": "livemint",
+      "published_at": "2026-10-03T18:28:47Z",
+      "image_url": "https://www.livemint.com/lm-img/img/2026/10/03/1600x900/logo/goldjewellery_1791052014901_bHmn_1791052065695_fD6W_aa3bd6a1-f1cb-4ed5-9a6d-43b57c01344d_zY5e.jpg",
+      "image_kind": "photo",
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "india",
+        "jewellery",
+        "mcx"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "da9f5b736ac346b7",
+      "rank": 16,
+      "title": "Gold Demand Remains Strong Despite High Prices, Buyers Adjust Purchases",
+      "summary": "The World Gold Council expects Indian gold demand to improve through the festive and wedding season on steady investment demand and resilient wedding buying despite near-record prices. With 24-carat gold around ₹1.48 lakh per 10 grams, Guwahati jewellers expect robust but smaller purchases — lighter jewellery, coins or digital gold — while old-gold exchange has widened domestic discounts.",
+      "url": "https://www.guwahatiplus.com/exclusive-news/gold-demand-remains-strong-despite-high-prices-buyers-adjust-purchases",
+      "source": "Guwahati Plus",
+      "source_domain": "guwahatiplus.com",
+      "publisher_id": "guwahati-plus",
+      "published_at": "2026-10-03T08:44:56Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/da9f5b736ac346b7.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
+      ],
+      "category": "festive",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false
     },
     {
       "id": "3aafeea0ac67921e",
@@ -479,6 +463,29 @@
         "india",
         "jewellery",
         "rbi"
+      ],
+      "category": "festive",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 17
+    },
+    {
+      "id": "561887370291277f",
+      "title": "Gold Rates Vs Indian Festive Season: Why Do Prices Surge During Festivals and How to Identify Real Gold?",
+      "summary": "Dhanteras and Diwali buying is the main reason Indian gold prices surge during festivals, as heavy retail demand strains jewellers' supply. Retail 24K gold is near Rs 1,49,180 per 10 grams; MCX shut Sunday at Rs 1,47,724, the 'real' price reference before 3% GST and making charges.",
+      "url": "https://www.jagranjosh.com/general-knowledge/gold-prices-today-vs-indian-festive-season-why-do-prices-surge-during-festivals-and-how-to-identify-real-gold-price-on-mcx-1820012752-1",
+      "source": "Jagran Josh",
+      "source_domain": "jagranjosh.com",
+      "publisher_id": "jagran-josh",
+      "published_at": "2026-10-04T02:17:00Z",
+      "image_url": "https://img.jagranjosh.com/images/2026/10/04/template/image/Gold-prices-today--1791079561979.webp",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
       ],
       "category": "festive",
       "metals": [
