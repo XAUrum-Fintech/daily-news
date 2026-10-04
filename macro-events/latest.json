@@ -1,7 +1,7 @@
 {
   "schema": "macro-events.v1",
-  "generated_at": "2026-10-04T18:03:34Z",
-  "event_count": 13,
+  "generated_at": "2026-10-04T21:11:18Z",
+  "event_count": 14,
   "events": [
     {
       "id": "us-jobs-2026-09-04",
@@ -247,6 +247,20 @@
       "title": "Fed rate decision",
       "status": "scheduled",
       "scheduled_at": "2026-12-09T14:00:00-05:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [],
+      "revisions": [],
+      "summary": "The US central bank announces its policy interest rate.",
+      "forecast_source": null,
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "published_at": null
+    },
+    {
+      "id": "fed-2027-01-27",
+      "kind": "fed_rate",
+      "title": "Fed rate decision",
+      "status": "scheduled",
+      "scheduled_at": "2027-01-27T14:00:00-05:00",
       "scheduled_tz": "America/New_York",
       "metrics": [],
       "revisions": [],
