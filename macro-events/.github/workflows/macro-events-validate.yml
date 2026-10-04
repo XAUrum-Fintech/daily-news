@@ -1,0 +1,14 @@
+name: macro-events validation
+
+on:
+  push:
+    paths:
+      - 'macro-events/**'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate macro-events/latest.json against SPEC sections 3, 4, 11
+        run: python3 macro-events/tools/validate_macro_events.py macro-events/latest.json
