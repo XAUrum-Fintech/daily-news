@@ -96,6 +96,8 @@ VERIFIED_SCHEDULE = [
      "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"),
     ("fed_rate", 2026, 12, 9, 14, 0, "-05:00",
      "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"),
+    ("fed_rate", 2027, 1, 27, 14, 0, "-05:00",
+     "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"),
     ("rbi_policy", 2026, 10, 7, 10, 0, "+05:30",
      "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62422"),
     ("rbi_policy", 2026, 12, 4, 10, 0, "+05:30",
