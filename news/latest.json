@@ -1,416 +1,458 @@
 {
- "schema": "orob-news.v1",
- "edition_id": "2026-10-04T02:00Z",
- "generated_at": "2026-10-04T02:01:49Z",
- "window": {
-  "from": "2026-10-04T00:00:00Z",
-  "to": "2026-10-04T02:00:00Z"
- },
- "insights": {
-  "headline": "Gold tests the $4,000 floor as 10-year yields hit a 2002 high; Bank of America keeps a $5,000 target.",
-  "summary": "Gold closed Friday at $4,144.04 an ounce, down 3.4% on the week, as the 10-year US Treasury yield touched 5.34% — its highest since 2002 — while Bank of America reiterated a $5,000 target with $4,000 as the zone to hold. Central-bank buying by China and Poland plus $18bn of August gold-ETF inflows cushioned the fall. In India, MCX gold and silver futures tracked the global slide, while festive demand builds ahead of Dhanteras and Diwali. Rajkot jewellery maker Tanvi Exports filed its IPO draft prospectus with SEBI.",
-  "points": [
-   "China's central bank bought 20.2 tonnes of gold in August — its biggest monthly addition since October 2023 — lifting reserves to 2,387 tonnes.",
-   "The 10-year US Treasury yield touched 5.34%, its highest since 2002; gold ETFs drew $18bn of August inflows, the second-largest monthly total.",
-   "Bank of America keeps a $5,000 gold target but warns a Middle East escalation could drag it to $3,750; Goldman holds $4,900 for year-end.",
-   "India's silver imports rebounded to 15.5M oz in August from 1.5M oz in May as licences flowed, ahead of the festival season from October 11.",
-   "MCX December gold ended the week at ₹1,50,390 (-1.9%) and silver at ₹2,25,877 (-3.8%), per The Hindu BusinessLine."
+  "schema": "orob-news.v1",
+  "edition_id": "2026-10-04T04:00Z",
+  "generated_at": "2026-10-04T04:08:13Z",
+  "window": {
+    "from": "2026-10-04T02:00Z",
+    "to": "2026-10-04T04:00Z"
+  },
+  "insights": {
+    "headline": "Gold holds $4,000 on central-bank buying as record yields shake out weak hands; Indian buyers adapt to ₹1.50 lakh gold.",
+    "summary": "Gold ended the week near $4,130–4,140 an ounce, its second straight weekly loss, as the 10-year US Treasury yield touched levels not seen since 2002. China's central bank added 20.2 tonnes in August, its largest monthly purchase since October 2023, and $18 billion of ETF inflows helped hold the $4,000 floor. In India, festive demand is adapting rather than fading: with 24-carat gold near ₹1.50 lakh per 10 grams, buyers are shifting to lightweight jewellery, old-gold exchanges and hallmarked pieces ahead of Diwali. MCX gold futures closed the week at ₹1,50,390/10g; silver at ₹2,25,877/kg.",
+    "points": [
+      "Gold's $4,000 floor held on central-bank buying: China added 20.2 tonnes in August, its largest monthly purchase since October 2023.",
+      "Record US bond yields are the pressure point: the 10-year touched 5.34%, its highest since 2002, as traders priced ~80% odds of a Fed hold.",
+      "Indian festive buyers are adapting: lightweight jewellery, old-gold exchanges and hallmarked pieces as 24K gold sits near ₹1.50 lakh/10g.",
+      "India's silver imports rebounded to 15.5 mn ounces in August after licence bottlenecks choked May flows to ~1.5 mn ounces.",
+      "MCX silver options were manipulated via 1,238 unauthorised orders after a cyber breach; SEBI is reviewing position limits."
+    ]
+  },
+  "trending": [
+    {
+      "title": "The $4,000 floor holds — but the buyers have changed",
+      "summary": "Record 10-year yields (5.34%, highest since 2002) drove the weekly slide, yet China added 20.2 tonnes in August and gold funds drew $18bn. Kitco's survey shows Wall Street leaning bearish.",
+      "item_ids": [
+        "bc3a6fe55d87d3e4",
+        "52c170cd26cce7b1",
+        "ce51a3c4fc273b95",
+        "c48eb21a01beb8a9"
+      ]
+    },
+    {
+      "title": "Festive India isn't buying less gold — it's buying differently",
+      "summary": "With 24K gold near ₹1.50 lakh/10g, shoppers pick lightweight jewellery, exchange gold and demand hallmarks. The WGC sees festive and wedding demand improving, with digital gold picking up slack.",
+      "item_ids": [
+        "447cf541c6add410",
+        "126134b533431fe4",
+        "3aafeea0ac67921e",
+        "da9f5b736ac346b7"
+      ]
+    },
+    {
+      "title": "Silver's India plumbing: licences cleared, options rigged",
+      "summary": "Silver imports rebounded to 15.5 mn oz in August from ~1.5 mn in May as licences cleared. A cyber breach enabled 1,238 unauthorised MCX silver options, spiking one from ₹174 to ₹2,300 in five minutes.",
+      "item_ids": [
+        "8603749672dcd6fb",
+        "ba636dd3aa345555",
+        "fe1511b508d187ad"
+      ]
+    },
+    {
+      "title": "Payrolls whipsaw, rupee bleeds",
+      "summary": "September payrolls (29,000 vs 90,000 expected) cooled Fed-hike bets before yields rebounded to 5.28%. The RBI sold dollars to steady the rupee as reserves fell $18.34bn — a third straight weekly drop.",
+      "item_ids": [
+        "33b9a9609871559e",
+        "4bd9076cecd5538b",
+        "b2d66b668bab0bf3"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "bc3a6fe55d87d3e4",
+      "title": "Gold Tests $4,000 Floor as Record Bond Yields Collide With Central-Bank Buying",
+      "summary": "Gold ended the week at $4,144.04 an ounce, down 3.4%, as the 10-year US Treasury yield touched 5.34% — its highest since 2002. Weak September payrolls (29,000 vs 90,000 expected) briefly cooled rate-hike bets, but selling resumed. Central-bank buying in China and Poland plus $18bn of August ETF inflows held the $4,000 floor. Bank of America keeps a $5,000 target, seeing $4,000 as the zone to hold.",
+      "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/gold-tests-4-000-floor-as-record-bond-yields-collide-with-central-bank/70221400",
+      "source": "AD HOC NEWS",
+      "source_domain": "ad-hoc-news.de",
+      "publisher_id": "ad-hoc-news",
+      "published_at": "2026-10-03T17:21:30Z",
+      "image_url": "https://mdb.ad-hoc-news.de/bild/bild-2810062_1920_1080.webp",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "global",
+        "central-banks",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "related_urls": [],
+      "rank": 1
+    },
+    {
+      "id": "52c170cd26cce7b1",
+      "title": "Gold digs in above $4,000 as China's central bank adds 20.2 tons",
+      "summary": "Gold ended Friday at $4,144.04 an ounce, holding above $4,000 despite a 3.4% weekly slide as US Treasury yields hit their highest since 2002. Reuters reports the floor is structural: China's central bank bought 20.2 tonnes in August — its largest monthly addition since October 2023 — extending its streak to 22 months and lifting reserves to 2,387 tonnes. Ghana's reserves also rose, to 25.2 tonnes.",
+      "url": "https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/gold-digs-in-above-4-000-as-china-s-central-bank-adds-20-2-tons/70219425",
+      "source": "AD HOC NEWS",
+      "source_domain": "ad-hoc-news.de",
+      "publisher_id": "ad-hoc-news",
+      "published_at": "2026-10-03T04:40:53Z",
+      "image_url": "https://mdb.ad-hoc-news.de/bild/bild-2809656_1920_1080.webp",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "global",
+        "central-banks"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://www.kitco.com/news/article/2026-09-08/chinas-central-bank-buys-202-tonnes-gold-august-largest-purchase-2023"
+      ],
+      "rank": 2
+    },
+    {
+      "id": "ce51a3c4fc273b95",
+      "title": "Wall Street on the brink of bearish majority after gold's post-payrolls slide",
+      "summary": "Kitco's weekly gold survey after Friday's slide shows Wall Street teetering on a bearish majority while Main Street abandoned the bullish bias it had held since July, after gold failed to hold above $4,200 and finished the week near session lows. Bannockburn's Marc Chandler likes gold higher next week on weak jobs and Fed patience; Adrian Day expects it lower; Adam Button stays neutral.",
+      "url": "https://www.kitco.com/news/article/2026-10-02/wall-street-brink-bearish-majority-after-golds-post-payrolls-slide-main",
+      "source": "Kitco",
+      "source_domain": "kitco.com",
+      "publisher_id": "kitco",
+      "published_at": "2026-10-02T21:48:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/ce51a3c4fc273b95.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "related_urls": [],
+      "rank": 3
+    },
+    {
+      "id": "33b9a9609871559e",
+      "rank": 4,
+      "title": "Comex Gold Ends the Week 3.59% Lower at $4133.70",
+      "summary": "Comex gold for October delivery lost $154.10, or 3.59%, to $4,133.70 this week — the largest one-week decline since early June, the second straight weekly loss, and the lowest settlement since August 4. Silver fared worse, down 6.68% to $59.977, its lowest settlement since August 3. Year-to-date, gold is down 4.44% and silver 14.48%, per Dow Jones Market Data.",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-falls-u-s-dollar-yields-key-obstacles-for-price-gain-a4f001e3",
+      "source": "Wall Street Journal",
+      "source_domain": "wsj.com",
+      "publisher_id": "wsj",
+      "published_at": "2026-10-02T19:00:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "silver",
+        "comex",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "4bd9076cecd5538b",
+      "title": "US yields rise, reversing initial reaction to weak jobs report",
+      "summary": "US Treasury yields reversed an early decline after the weak September jobs report, the 10-year climbing 4.72 bps to 5.281% as traders priced ~80% odds of a Fed hold this month. Gold futures erased their payrolls pop — up 1.4% to $4,259, then down 1.2% to $4,153.80, the biggest blown gain in almost a month, per Dow Jones Market Data.",
+      "url": "https://www.livemint.com/market/us-yields-rise-reversing-initial-reaction-to-weak-jobs-report-11790969678755.html",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "publisher_id": "mint",
+      "published_at": "2026-10-02T19:34:38Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "fed",
+        "global",
+        "gold",
+        "silver"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://www.mitrade.com/au/insights/news/live-news/article-2-2077316-20260911",
+        "https://www.barrons.com/livecoverage/stock-market-news-today-100226/card/gold-futures-erase-jobs-report-gains-sinking-lower-AZVUa6yGhW5IxslzvHQC",
+        "https://www.reuters.com/business/view-soft-september-jobs-report-sends-markets-higher-2026-10-02/"
+      ],
+      "rank": 5
+    },
+    {
+      "id": "447cf541c6add410",
+      "rank": 6,
+      "title": "₹1.50 lakh gold tests Indian consumers: Lightweight jewellery gains traction",
+      "summary": "Gold's pullback from record highs may give Indian consumers a buying window ahead of Diwali and the wedding season. Buyers are shifting to lightweight jewellery to stay within budgets at the ₹1.50 lakh per 10-gram level, and Sky Gold & Diamonds' Mangesh Chauhan expects festive and wedding demand to hold steady.",
+      "url": "https://www.businesstoday.in/india/story/rs1-50-lakh-gold-tests-indian-consumers-lightweight-jewellery-gains-traction-559261-2026-10-03",
+      "source": "Business Today",
+      "source_domain": "businesstoday.in",
+      "publisher_id": "business-today",
+      "published_at": "2026-10-03T01:15:04Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/447cf541c6add410.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
+      ],
+      "category": "festive",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "126134b533431fe4",
+      "rank": 7,
+      "title": "Festive Gold Jewellery Demand Amid Elevated Prices: Changing Buying Trends",
+      "summary": "Indian shoppers are adapting to elevated gold prices ahead of the festive season: choosing lighter-weight jewellery, exchanging old pieces, and insisting on hallmarked purchases rather than sitting out festive buying.",
+      "url": "https://www.kalkine.co.in/article/consumer/will-the-festive-season-revive-gold-jewellery-demand-as-prices-stay-elevated-what-shoppers-are-doing-differently",
+      "source": "Kalkine India",
+      "source_domain": "kalkine.co.in",
+      "publisher_id": "kalkine-india",
+      "published_at": "2026-10-03T14:04:00Z",
+      "image_url": "https://www.kalkine.co.in/uploads/articles/featured_image/93e725dc-2e6a-4c57-bf06-c49e0fbbf944-27550.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
+      ],
+      "category": "festive",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "3aafeea0ac67921e",
+      "title": "Gold Price in India Eases 7% Before Dhanteras: What Next",
+      "summary": "Gold prices in India have eased about 7% ahead of Dhanteras, with the trade guarded and the World Gold Council describing sentiment as cautiously optimistic — wedding buying holding up, discretionary purchases softer. Digital gold is gaining: monthly purchases averaged about ₹25 billion in June–August, and Indian gold ETF assets stand near ₹1,912 billion.",
+      "url": "https://www.thefinancialeconomy.com/gold-price-in-india/",
+      "source": "The Financial Economy",
+      "source_domain": "thefinancialeconomy.com",
+      "publisher_id": "the-financial-economy",
+      "published_at": "2026-10-02T17:24:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "india",
+        "jewellery",
+        "rbi"
+      ],
+      "category": "festive",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 8
+    },
+    {
+      "id": "da9f5b736ac346b7",
+      "rank": 9,
+      "title": "Gold Demand Remains Strong Despite High Prices, Buyers Adjust Purchases",
+      "summary": "The World Gold Council expects Indian gold demand to improve through the festive and wedding season on steady investment demand and resilient wedding buying despite near-record prices. With 24-carat gold around ₹1.48 lakh per 10 grams, Guwahati jewellers expect robust but smaller purchases — lighter jewellery, coins or digital gold — while old-gold exchange has widened domestic discounts.",
+      "url": "https://www.guwahatiplus.com/exclusive-news/gold-demand-remains-strong-despite-high-prices-buyers-adjust-purchases",
+      "source": "Guwahati Plus",
+      "source_domain": "guwahatiplus.com",
+      "publisher_id": "guwahati-plus",
+      "published_at": "2026-10-03T08:44:56Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/da9f5b736ac346b7.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
+      ],
+      "category": "festive",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "e4e27f8ea430c0ea",
+      "title": "Bullion Cues: Support fails",
+      "summary": "MCX gold (December) futures ended the week at ₹1,50,390 per 10 grams, down 1.9%, while silver (December) closed at ₹2,25,877 per kg, down 3.8%, in The Hindu BusinessLine's weekly review. Gold held between ₹1,48,000 and ₹1,51,000 after Monday's gap-down, with a bearish bias below ₹1,52,000 and support at ₹1,44,000; silver's key support is ₹2,19,000.",
+      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-support-fails/article71540115.ece",
+      "source": "The Hindu BusinessLine",
+      "source_domain": "thehindubusinessline.com",
+      "publisher_id": "hindu-businessline",
+      "published_at": "2026-10-03T15:49:22Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 10
+    },
+    {
+      "id": "8603749672dcd6fb",
+      "rank": 11,
+      "title": "Cyber manipulation in commodity market: Silver option price jumped from ₹174 to ₹2,300 in 5 minutes",
+      "summary": "Cybercriminals breached a Noida risk-management firm's servers and used its static IP to place 1,238 unauthorized orders across 5,559 illiquid MCX silver option contracts. The contract spiked from ₹174 to ₹2,300 in five minutes; about ₹12 crore in premiums created false liquidity while counterparties siphoned roughly ₹11 crore. CERT-In confirmed deliberate distortion; one arrest made.",
+      "url": "https://the420.in/noida-mcx-cyber-manipulation-silver-option/",
+      "source": "The420.in",
+      "source_domain": "the420.in",
+      "publisher_id": "the420",
+      "published_at": "2026-10-03T08:00:31Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/8603749672dcd6fb.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "silver",
+        "mcx",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "b2d66b668bab0bf3",
+      "rank": 12,
+      "title": "India's forex reserves fall $18.3 bn as RBI steps in to defend rupee",
+      "summary": "India's forex reserves fell $18.34 billion in the week to September 25, the third straight weekly decline, RBI data showed. The kitty dropped to $747.56 billion from its September 4 record of $785.71 billion as the central bank sold dollars to steady the rupee; foreign currency assets fell $15.57 billion to $615.41 billion and gold reserves depleted $2.59 billion to $108.70 billion.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/indias-forex-reserves-fall-18-3-bn-as-rbi-steps-in-to-defend-rupee/articleshow/134650624.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-10-02T18:42:38Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/b2d66b668bab0bf3.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "india",
+        "rbi",
+        "rupee"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://www.rediff.com/business/report/indias-forex-reserves-drop-significantly-to-74756-billion-rbi-data/20261002.htm"
+      ]
+    },
+    {
+      "id": "ba636dd3aa345555",
+      "title": "Silver demand in India didn't disappear; It was waiting for licences",
+      "summary": "India's silver imports sank to about 1.5 million ounces in May after a duty rise and new licence rules, then rebounded to 15.5 million ounces in August once licences flowed, writes analyst Przemyslaw Radomski. Domestic prices now sit above import cost, keeping metal moving ahead of the festival season starting October 11 — though year-to-date imports are still about a quarter behind 2025.",
+      "url": "https://www.fxstreet.com/analysis/silver-demand-in-india-didnt-disappear-it-was-waiting-for-licences-202610021755",
+      "source": "FXStreet",
+      "source_domain": "fxstreet.com",
+      "publisher_id": "fxstreet",
+      "published_at": "2026-10-02T17:55:57Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "silver",
+        "india",
+        "import-duty",
+        "mcx"
+      ],
+      "category": "policy",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://www.investing.com/analysis/silvers-india-problem-was-policy-not-demand-200688867"
+      ],
+      "rank": 13
+    },
+    {
+      "id": "fe1511b508d187ad",
+      "rank": 14,
+      "title": "SEBI examining position limits for non-agri contracts to boost liquidity",
+      "summary": "SEBI chairman Tuhin Kanta Pandey said on Saturday the regulator is reviewing position limits for non-agricultural commodity derivatives — which include bullion contracts — to deepen liquidity and market depth without weakening risk controls. Consultations are complete and guidelines will follow; SEBI is also tackling GST frictions for exchange participants.",
+      "url": "https://www.thehindubusinessline.com/markets/sebi-examining-position-limits-for-non-agri-contracts-to-boost-liquidity/article71540251.ece",
+      "source": "The Hindu BusinessLine",
+      "source_domain": "thehindubusinessline.com",
+      "publisher_id": "hindu-businessline",
+      "published_at": "2026-10-03T10:00:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/fe1511b508d187ad.jpg",
+      "image_kind": "photo",
+      "category": "policy",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "india"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "0e17fac068bc54be",
+      "title": "Tanvi Exports files for IPO: 5 key highlights from gold jewellery maker's DRHP",
+      "summary": "Tanvi Exports India has filed a draft prospectus with SEBI for an IPO of up to 3.58 million shares plus an equal offer for sale, Mint reports. The Rajkot jewellery maker, 8% of Gujarat’s gold jewellery exports, will use the proceeds to repay debt and fund working capital. Revenue grew 188% CAGR to ₹11,399 million in FY2026; exports rose from ₹43.4 million to ₹2,457.5 million across five countries.",
+      "url": "https://www.livemint.com/market/tanvi-exports-files-for-ipo-5-key-highlights-from-gold-jewellery-maker-s-drhp-11791050208188.html",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "publisher_id": "mint",
+      "published_at": "2026-10-03T18:28:47Z",
+      "image_url": "https://www.livemint.com/lm-img/img/2026/10/03/1600x900/logo/goldjewellery_1791052014901_bHmn_1791052065695_fD6W_aa3bd6a1-f1cb-4ed5-9a6d-43b57c01344d_zY5e.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 15
+    },
+    {
+      "id": "c48eb21a01beb8a9",
+      "title": "Gold Has Lost Its Luster but Here's How It Can Shine to Record Highs Again",
+      "summary": "Goldman Sachs has reiterated its $4,900 year-end gold target despite September's Fed rate hike denting prices, arguing the metal should climb on strong central-bank reserve diversification as markets pare back expectations of further US hikes. Gold sat near $4,250 on Friday, well below its late-January peak above $5,600, pressured by rising yields even as soft jobs data cooled hike bets.",
+      "url": "https://www.barrons.com/articles/gold-price-goldman-bond-yield-haven-899ea1d6",
+      "source": "Barron's",
+      "source_domain": "barrons.com",
+      "publisher_id": "barrons",
+      "published_at": "2026-10-02T14:35:00Z",
+      "image_url": "https://images.barrons.com/im-56270775/social",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "global",
+        "central-banks"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 16
+    }
   ]
- },
- "trending": [
-  {
-   "title": "Record yields test gold's $4,000 floor",
-   "summary": "Record 10-year yields (5.34%, highest since 2002) dragged gold to a 3.4% weekly loss — but steady central-bank buying by China and Poland plus $18bn of August ETF inflows held the $4,000 floor.",
-   "item_ids": [
-    "bc3a6fe55d87d3e4",
-    "52c170cd26cce7b1"
-   ]
-  },
-  {
-   "title": "Wall Street redraws its gold forecasts",
-   "summary": "Goldman Sachs held its $4,900 year-end target and Bank of America kept $5,000 while Kitco's survey shows Wall Street nearing a bearish majority after gold's post-payrolls slide.",
-   "item_ids": [
-    "c48eb21a01beb8a9",
-    "ce51a3c4fc273b95",
-    "bc3a6fe55d87d3e4"
-   ]
-  },
-  {
-   "title": "Festive India buys gold — carefully",
-   "summary": "With prices 7% off ahead of Dhanteras, the WGC sees cautiously optimistic demand: wedding buying holds, discretionary buying softens, and digital gold plus lightweight jewellery take share.",
-   "item_ids": [
-    "3aafeea0ac67921e",
-    "da9f5b736ac346b7"
-   ]
-  },
-  {
-   "title": "Silver's India story turns",
-   "summary": "India's silver imports rebounded to 15.5M oz in August once licences flowed after May's duty shock; a Noida fraud case exposed manipulation in MCX silver options.",
-   "item_ids": [
-    "ba636dd3aa345555",
-    "8603749672dcd6fb"
-   ]
-  },
-  {
-   "title": "Domestic futures track the global pullback",
-   "summary": "MCX December gold and silver ended the week lower at ₹1,50,390 and ₹2,25,877; the rupee stayed under pressure as RBI dollar sales drained $18.34 billion from forex reserves.",
-   "item_ids": [
-    "e4e27f8ea430c0ea",
-    "b2d66b668bab0bf3",
-    "33b9a9609871559e"
-   ]
-  }
- ],
- "items": [
-  {
-   "id": "bc3a6fe55d87d3e4",
-   "title": "Gold Tests $4,000 Floor as Record Bond Yields Collide With Central-Bank Buying",
-   "summary": "Gold ended the week at $4,144.04 an ounce, down 3.4%, as the 10-year US Treasury yield touched 5.34% — its highest since 2002. Weak September payrolls (29,000 vs 90,000 expected) briefly cooled rate-hike bets, but selling resumed. Central-bank buying in China and Poland plus $18bn of August ETF inflows held the $4,000 floor. Bank of America keeps a $5,000 target, seeing $4,000 as the zone to hold.",
-   "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/gold-tests-4-000-floor-as-record-bond-yields-collide-with-central-bank/70221400",
-   "source": "AD HOC NEWS",
-   "source_domain": "ad-hoc-news.de",
-   "publisher_id": "ad-hoc-news",
-   "published_at": "2026-10-03T17:21:30Z",
-   "image_url": "https://mdb.ad-hoc-news.de/bild/bild-2810062_1920_1080.webp",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "global",
-    "central-banks",
-    "fed"
-   ],
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "related_urls": [],
-   "rank": 1
-  },
-  {
-   "id": "52c170cd26cce7b1",
-   "title": "Gold digs in above $4,000 as China's central bank adds 20.2 tons",
-   "summary": "Gold ended Friday at $4,144.04 an ounce, holding above $4,000 despite a 3.4% weekly slide as US Treasury yields hit their highest since 2002. Reuters reports the floor is structural: China's central bank bought 20.2 tonnes in August — its largest monthly addition since October 2023 — extending its streak to 22 months and lifting reserves to 2,387 tonnes. Ghana's reserves also rose, to 25.2 tonnes.",
-   "url": "https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/gold-digs-in-above-4-000-as-china-s-central-bank-adds-20-2-tons/70219425",
-   "source": "AD HOC NEWS",
-   "source_domain": "ad-hoc-news.de",
-   "publisher_id": "ad-hoc-news",
-   "published_at": "2026-10-03T04:40:53Z",
-   "image_url": "https://mdb.ad-hoc-news.de/bild/bild-2809656_1920_1080.webp",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "global",
-    "central-banks"
-   ],
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "related_urls": [
-    "https://www.kitco.com/news/article/2026-09-08/chinas-central-bank-buys-202-tonnes-gold-august-largest-purchase-2023"
-   ],
-   "rank": 2
-  },
-  {
-   "id": "c48eb21a01beb8a9",
-   "title": "Gold Has Lost Its Luster but Here's How It Can Shine to Record Highs Again",
-   "summary": "Goldman Sachs has reiterated its $4,900 year-end gold target despite September's Fed rate hike denting prices, arguing the metal should climb on strong central-bank reserve diversification as markets pare back expectations of further US hikes. Gold sat near $4,250 on Friday, well below its late-January peak above $5,600, pressured by rising yields even as soft jobs data cooled hike bets.",
-   "url": "https://www.barrons.com/articles/gold-price-goldman-bond-yield-haven-899ea1d6",
-   "source": "Barron's",
-   "source_domain": "barrons.com",
-   "publisher_id": "barrons",
-   "published_at": "2026-10-02T14:35:00Z",
-   "image_url": "https://images.barrons.com/im-56270775/social",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "global",
-    "central-banks"
-   ],
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "rank": 3
-  },
-  {
-   "id": "ce51a3c4fc273b95",
-   "title": "Wall Street on the brink of bearish majority after gold's post-payrolls slide",
-   "summary": "Kitco's weekly gold survey after Friday's slide shows Wall Street teetering on a bearish majority while Main Street abandoned the bullish bias it had held since July, after gold failed to hold above $4,200 and finished the week near session lows. Bannockburn's Marc Chandler likes gold higher next week on weak jobs and Fed patience; Adrian Day expects it lower; Adam Button stays neutral.",
-   "url": "https://www.kitco.com/news/article/2026-10-02/wall-street-brink-bearish-majority-after-golds-post-payrolls-slide-main",
-   "source": "Kitco",
-   "source_domain": "kitco.com",
-   "publisher_id": "kitco",
-   "published_at": "2026-10-02T21:48:00Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/ce51a3c4fc273b95.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "global",
-    "fed"
-   ],
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "related_urls": [],
-   "rank": 4
-  },
-  {
-   "id": "e4e27f8ea430c0ea",
-   "title": "Bullion Cues: Support fails",
-   "summary": "MCX gold (December) futures ended the week at ₹1,50,390 per 10 grams, down 1.9%, while silver (December) closed at ₹2,25,877 per kg, down 3.8%, in The Hindu BusinessLine's weekly review. Gold held between ₹1,48,000 and ₹1,51,000 after Monday's gap-down, with a bearish bias below ₹1,52,000 and support at ₹1,44,000; silver's key support is ₹2,19,000.",
-   "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-support-fails/article71540115.ece",
-   "source": "The Hindu BusinessLine",
-   "source_domain": "thehindubusinessline.com",
-   "publisher_id": "hindu-businessline",
-   "published_at": "2026-10-03T15:49:22Z",
-   "image_url": null,
-   "image_kind": "none",
-   "tags": [
-    "gold",
-    "silver",
-    "mcx",
-    "india"
-   ],
-   "category": "mcx",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "breaking": false,
-   "rank": 5
-  },
-  {
-   "id": "ba636dd3aa345555",
-   "title": "Silver demand in India didn't disappear; It was waiting for licences",
-   "summary": "India's silver imports sank to about 1.5 million ounces in May after a duty rise and new licence rules, then rebounded to 15.5 million ounces in August once licences flowed, writes analyst Przemyslaw Radomski. Domestic prices now sit above import cost, keeping metal moving ahead of the festival season starting October 11 — though year-to-date imports are still about a quarter behind 2025.",
-   "url": "https://www.fxstreet.com/analysis/silver-demand-in-india-didnt-disappear-it-was-waiting-for-licences-202610021755",
-   "source": "FXStreet",
-   "source_domain": "fxstreet.com",
-   "publisher_id": "fxstreet",
-   "published_at": "2026-10-02T17:55:57Z",
-   "image_url": null,
-   "image_kind": "none",
-   "tags": [
-    "silver",
-    "india",
-    "import-duty",
-    "mcx"
-   ],
-   "category": "policy",
-   "metals": [
-    "silver"
-   ],
-   "breaking": false,
-   "related_urls": [
-    "https://www.investing.com/analysis/silvers-india-problem-was-policy-not-demand-200688867"
-   ],
-   "rank": 6
-  },
-  {
-   "id": "3aafeea0ac67921e",
-   "title": "Gold Price in India Eases 7% Before Dhanteras: What Next",
-   "summary": "Gold prices in India have eased about 7% ahead of Dhanteras, with the trade guarded and the World Gold Council describing sentiment as cautiously optimistic — wedding buying holding up, discretionary purchases softer. Digital gold is gaining: monthly purchases averaged about ₹25 billion in June–August, and Indian gold ETF assets stand near ₹1,912 billion.",
-   "url": "https://www.thefinancialeconomy.com/gold-price-in-india/",
-   "source": "The Financial Economy",
-   "source_domain": "thefinancialeconomy.com",
-   "publisher_id": "the-financial-economy",
-   "published_at": "2026-10-02T17:24:00Z",
-   "image_url": null,
-   "image_kind": "none",
-   "tags": [
-    "gold",
-    "india",
-    "jewellery",
-    "rbi"
-   ],
-   "category": "festive",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "rank": 7
-  },
-  {
-   "id": "0e17fac068bc54be",
-   "title": "Tanvi Exports files for IPO: 5 key highlights from gold jewellery maker's DRHP",
-   "summary": "Tanvi Exports India has filed a draft prospectus with SEBI for an IPO of up to 3.58 million shares plus an equal offer for sale, Mint reports. The Rajkot jewellery maker, 8% of Gujarat’s gold jewellery exports, will use the proceeds to repay debt and fund working capital. Revenue grew 188% CAGR to ₹11,399 million in FY2026; exports rose from ₹43.4 million to ₹2,457.5 million across five countries.",
-   "url": "https://www.livemint.com/market/tanvi-exports-files-for-ipo-5-key-highlights-from-gold-jewellery-maker-s-drhp-11791050208188.html",
-   "source": "Mint",
-   "source_domain": "livemint.com",
-   "publisher_id": "mint",
-   "published_at": "2026-10-03T18:28:47Z",
-   "image_url": "https://www.livemint.com/lm-img/img/2026/10/03/1600x900/logo/goldjewellery_1791052014901_bHmn_1791052065695_fD6W_aa3bd6a1-f1cb-4ed5-9a6d-43b57c01344d_zY5e.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "india",
-    "jewellery"
-   ],
-   "category": "mcx",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "rank": 8
-  },
-  {
-   "id": "da9f5b736ac346b7",
-   "rank": 9,
-   "title": "Gold Demand Remains Strong Despite High Prices, Buyers Adjust Purchases",
-   "summary": "The World Gold Council expects Indian gold demand to improve through the festive and wedding season on steady investment demand and resilient wedding buying despite near-record prices. With 24-carat gold around ₹1.48 lakh per 10 grams, Guwahati jewellers expect robust but smaller purchases — lighter jewellery, coins or digital gold — while old-gold exchange has widened domestic discounts.",
-   "url": "https://www.guwahatiplus.com/exclusive-news/gold-demand-remains-strong-despite-high-prices-buyers-adjust-purchases",
-   "source": "Guwahati Plus",
-   "source_domain": "guwahatiplus.com",
-   "publisher_id": "guwahati-plus",
-   "published_at": "2026-10-03T08:44:56Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/da9f5b736ac346b7.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "india",
-    "jewellery"
-   ],
-   "category": "festive",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false
-  },
-  {
-   "id": "b2d66b668bab0bf3",
-   "rank": 10,
-   "title": "India's forex reserves fall $18.3 bn as RBI steps in to defend rupee",
-   "summary": "India's forex reserves fell $18.34 billion in the week to September 25, the third straight weekly decline, RBI data showed. The kitty dropped to $747.56 billion from its September 4 record of $785.71 billion as the central bank sold dollars to steady the rupee; foreign currency assets fell $15.57 billion to $615.41 billion and gold reserves depleted $2.59 billion to $108.70 billion.",
-   "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/indias-forex-reserves-fall-18-3-bn-as-rbi-steps-in-to-defend-rupee/articleshow/134650624.cms",
-   "source": "Economic Times",
-   "source_domain": "economictimes.indiatimes.com",
-   "publisher_id": "economic-times",
-   "published_at": "2026-10-02T18:42:38Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/b2d66b668bab0bf3.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "india",
-    "rbi",
-    "rupee"
-   ],
-   "category": "mcx",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "related_urls": [
-    "https://www.rediff.com/business/report/indias-forex-reserves-drop-significantly-to-74756-billion-rbi-data/20261002.htm"
-   ]
-  },
-  {
-   "id": "8603749672dcd6fb",
-   "rank": 11,
-   "title": "Cyber manipulation in commodity market: Silver option price jumped from ₹174 to ₹2,300 in 5 minutes",
-   "summary": "Cybercriminals breached a Noida risk-management firm's servers and used its static IP to place 1,238 unauthorized orders across 5,559 illiquid MCX silver option contracts. The contract spiked from ₹174 to ₹2,300 in five minutes; about ₹12 crore in premiums created false liquidity while counterparties siphoned roughly ₹11 crore. CERT-In confirmed deliberate distortion; one arrest made.",
-   "url": "https://the420.in/noida-mcx-cyber-manipulation-silver-option/",
-   "source": "The420.in",
-   "source_domain": "the420.in",
-   "publisher_id": "the420",
-   "published_at": "2026-10-03T08:00:31Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/8603749672dcd6fb.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "silver",
-    "mcx",
-    "india"
-   ],
-   "category": "mcx",
-   "metals": [
-    "silver"
-   ],
-   "breaking": false
-  },
-  {
-   "id": "fe1511b508d187ad",
-   "rank": 12,
-   "title": "SEBI examining position limits for non-agri contracts to boost liquidity",
-   "summary": "SEBI chairman Tuhin Kanta Pandey said on Saturday the regulator is reviewing position limits for non-agricultural commodity derivatives — which include bullion contracts — to deepen liquidity and market depth without weakening risk controls. Consultations are complete and guidelines will follow; SEBI is also tackling GST frictions for exchange participants.",
-   "url": "https://www.thehindubusinessline.com/markets/sebi-examining-position-limits-for-non-agri-contracts-to-boost-liquidity/article71540251.ece",
-   "source": "The Hindu BusinessLine",
-   "source_domain": "thehindubusinessline.com",
-   "publisher_id": "hindu-businessline",
-   "published_at": "2026-10-03T10:00:00Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/fe1511b508d187ad.jpg",
-   "image_kind": "photo",
-   "category": "policy",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "tags": [
-    "gold",
-    "silver",
-    "mcx",
-    "india"
-   ],
-   "breaking": false
-  },
-  {
-   "id": "33b9a9609871559e",
-   "rank": 13,
-   "title": "Comex Gold Ends the Week 3.59% Lower at $4133.70",
-   "summary": "Comex gold for October delivery lost $154.10, or 3.59%, to $4,133.70 this week — the largest one-week decline since early June, the second straight weekly loss, and the lowest settlement since August 4. Silver fared worse, down 6.68% to $59.977, its lowest settlement since August 3. Year-to-date, gold is down 4.44% and silver 14.48%, per Dow Jones Market Data.",
-   "url": "https://www.wsj.com/finance/commodities-futures/gold-falls-u-s-dollar-yields-key-obstacles-for-price-gain-a4f001e3",
-   "source": "Wall Street Journal",
-   "source_domain": "wsj.com",
-   "publisher_id": "wsj",
-   "published_at": "2026-10-02T19:00:00Z",
-   "image_url": null,
-   "image_kind": "none",
-   "tags": [
-    "gold",
-    "silver",
-    "comex",
-    "global"
-   ],
-   "category": "global",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "breaking": false
-  },
-  {
-   "id": "4bd9076cecd5538b",
-   "title": "US yields rise, reversing initial reaction to weak jobs report",
-   "summary": "US Treasury yields reversed an early decline after the weak September jobs report, the 10-year climbing 4.72 bps to 5.281% as traders priced ~80% odds of a Fed hold this month. Gold futures erased their payrolls pop — up 1.4% to $4,259, then down 1.2% to $4,153.80, the biggest blown gain in almost a month, per Dow Jones Market Data.",
-   "url": "https://www.livemint.com/market/us-yields-rise-reversing-initial-reaction-to-weak-jobs-report-11790969678755.html",
-   "source": "Mint",
-   "source_domain": "livemint.com",
-   "publisher_id": "mint",
-   "published_at": "2026-10-02T19:34:38Z",
-   "image_url": null,
-   "image_kind": "none",
-   "tags": [
-    "fed",
-    "global",
-    "gold",
-    "silver"
-   ],
-   "category": "global",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "breaking": false,
-   "related_urls": [
-    "https://www.mitrade.com/au/insights/news/live-news/article-2-2077316-20260911",
-    "https://www.barrons.com/livecoverage/stock-market-news-today-100226/card/gold-futures-erase-jobs-report-gains-sinking-lower-AZVUa6yGhW5IxslzvHQC",
-    "https://www.reuters.com/business/view-soft-september-jobs-report-sends-markets-higher-2026-10-02/"
-   ],
-   "rank": 14
-  }
- ]
 }
