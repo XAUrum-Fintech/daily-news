@@ -1,4 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-10-04T16:00Z
+# Gold & Silver for Indian buyers · 2026-10-04T18:00Z
 
 > GST Council may scrap 3% IGST exemption on bank bullion imports; gold held near $4,137 after a 3%-plus weekly loss
 
@@ -11,11 +11,11 @@ A proposal to withdraw the 3% IGST exemption on gold, silver and platinum import
 - MCX cyber probe: silver options were manipulated from ₹174 to ₹2,300 in five minutes for an ₹11 crore gain.
 
 ## Trending
-- **GST Council to weigh ending 3% IGST exemption on bank bullion imports**: The Council's October 7 meeting is expected to take up withdrawal of the 3% IGST exemption on bullion imports by banks and nominated agencies. (stories 1)
-- **Weak data can't rescue gold while yields stay high**: Soft US payrolls briefly revived Fed rate-cut bets but could not lift gold past $4,200; silver lost over 6% and analysts see another choppy week. (stories 2, 9, 4)
-- **MCX integrity in the spotlight after cyber-manipulation probe**: Cybercriminals hijacked a Noida firm's servers to rig thinly traded MCX silver options, pushing one contract from ₹174 to ₹2,300 in five minutes; one arrest made so far. (stories 6)
-- **First 15%-duty Dhanteras approaches with gold near ₹1.5 lakh**: With Dhanteras weeks away and retail gold near ₹1.5 lakh per 10 grams under the new 15% duty, buyers shift to lighter pieces and old-gold exchange; Tanvi Exports filed for an IPO. (stories 5, 10, 11)
-- **RBI poised for first rate hike in over three years**: Economists broadly expect the RBI's Oct 5-7 MPC to raise the repo rate 25 bps to 5.50%, the first hike since Feb 2023, as inflation broadens and the rupee slides. (stories 3, 13)
+- **GST Council to weigh ending 3% IGST exemption on bank bullion imports**: The Council's October 7 meeting is expected to take up withdrawal of the 3% IGST exemption on bullion imports by banks and nominated agencies. (stories acc408a9995c09c0)
+- **Weak data can't rescue gold while yields stay high**: Soft US payrolls briefly revived Fed rate-cut bets but could not lift gold past $4,200; silver lost over 6% and analysts see another choppy week. (stories 41d47e5bc6b63b46, 987ebe8cd387175a, ea74b205078d5d58)
+- **MCX integrity in the spotlight after cyber-manipulation probe**: Cybercriminals hijacked a Noida firm's servers to rig thinly traded MCX silver options, pushing one contract from ₹174 to ₹2,300 in five minutes; one arrest made so far. (stories 8603749672dcd6fb)
+- **First 15%-duty Dhanteras approaches with gold near ₹1.5 lakh**: With Dhanteras weeks away and retail gold near ₹1.5 lakh per 10 grams under the new 15% duty, buyers shift to lighter pieces and old-gold exchange; Tanvi Exports filed for an IPO. (stories 9eae140cd6da4208, 0e17fac068bc54be, ff2e5d127a5d4ffc)
+- **RBI poised for first rate hike in over three years**: Economists broadly expect the RBI's Oct 5-7 MPC to raise the repo rate 25 bps to 5.50%, the first hike since Feb 2023, as inflation broadens and the rupee slides. (stories c0b2c0fd958bc15b, b2d66b668bab0bf3)
 
 ## Stories
 1. [GST Exemption Withdrawal for Gold/Silver Imports by Banks](https://money.rediff.com/news/market/gst-exemption-withdrawal-for-gold-silver-imports-by-banks/55576820261004) — *Rediff*, 2026-10-04T14:44:00Z
@@ -44,9 +44,3 @@ A proposal to withdraw the 3% IGST exemption on gold, silver and platinum import
    MCX gold December futures closed the week at ₹1,50,390, down 1.9%, while silver futures fell 3.8% to ₹2,25,877 per kg, both losing key supports. The Hindu BusinessLine’s technical column sees a bearish bias below ₹1,52,000 for gold with support at ₹1,44,000, and silver weak below ₹2,30,000 with its base at ₹2,19,000.
 13. [India's forex reserves fall $18.3 bn as RBI steps in to defend rupee](https://economictimes.indiatimes.com/markets/forex/forex-news/indias-forex-reserves-fall-18-3-bn-as-rbi-steps-in-to-defend-rupee/articleshow/134650624.cms) — *Economic Times*, 2026-10-02T18:42:38Z
    India's forex reserves fell $18.34 billion in the week to September 25, the third straight weekly decline, RBI data showed. The kitty dropped to $747.56 billion from its September 4 record of $785.71 billion as the central bank sold dollars to steady the rupee; foreign currency assets fell $15.57 billion to $615.41 billion and gold reserves depleted $2.59 billion to $108.70 billion.
-14. [IMF says bond markets are ‘orderly,’ but gold’s resilience says something else](https://www.kitco.com/news/article/2026-10-02/imf-says-bond-markets-are-orderly-golds-resilience-says-something-else) — *Kitco*, 2026-10-02T18:00:00Z
-   The IMF said global bond markets are functioning in an orderly manner even as the US 10-year yield posted its biggest quarterly rise this century in Q3. Kitco argues gold’s hold above $4,000 — despite real yields near 2.24%, tight policy and a strong dollar — shows investors demanding compensation for fiscal and inflation risk.
-15. [Silver demand in India didn't disappear; It was waiting for licences](https://www.fxstreet.com/analysis/silver-demand-in-india-didnt-disappear-it-was-waiting-for-licences-202610021755) — *FXStreet*, 2026-10-02T17:55:57Z
-   India's silver imports sank to about 1.5 million ounces in May after a duty rise and new licence rules, then rebounded to 15.5 million ounces in August once licences flowed, writes analyst Przemyslaw Radomski. Domestic prices now sit above import cost, keeping metal moving ahead of the festival season starting October 11 — though year-to-date imports are still about a quarter behind 2025.
-16. [When Should a Central Bank Sell Its Gold? One Just Did. Most Won’t.](https://goldsilver.com/industry-news/goldsilver-news/central-bank-gold-reserves-when-to-sell/) — *GoldSilver*, 2026-10-02T16:08:00Z
-   OMFIF asked when central banks should sell gold after Turkey’s 130-tonne sale and Russia’s early-2026 sale; but ECB data shows gold’s share of global reserves rose to 27% in 2025, overtaking US Treasuries at 22%, and an OMFIF survey found 82% of central banks hold gold with a net 30% planning to add more.
