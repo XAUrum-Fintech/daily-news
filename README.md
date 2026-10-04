@@ -1,6 +1,7 @@
 # daily-news
 
-A 2-hourly gold & silver news feed for Indian buyers, published as data.
+A gold & silver news feed for Indian buyers, published as data — hourly
+during the day (08:00–18:00 IST), 2-hourly at night on even UTC hours.
 
 ## App contract
 
@@ -29,7 +30,8 @@ A 2-hourly gold & silver news feed for Indian buyers, published as data.
 
 ## How editions run
 
-Every 2 hours at minute 0 UTC (`0 */2 * * *`):
+Hourly during 08:00–18:00 IST, 2-hourly at night on even UTC hours
+(odd UTC night hours stay quiet — see `docs/RUNBOOK.md` for the slot rules):
 
 1. `python3 src/fetch_feeds.py` — Google News RSS (India + global editions)
 2. Agent: targeted searches for primary sources (MCX circulars, SEBI/RBI/IBJA
@@ -40,6 +42,23 @@ Every 2 hours at minute 0 UTC (`0 */2 * * *`):
 5. `python3 src/publish.py news/latest.json news/latest.md` — change-detects,
    then commits with message `news: <generated_at>`
 
-Content rules: 5–20 items per edition, only articles from the last 48h, no
+Content rules: 10–30 items per edition, ranked by impact for Indian buyers, no
 investment advice, publisher-original https links with tracking stripped,
 publisher's own preview image or `null`.
+
+Editions re-host images under `assets/news/` (committed; the reader relies on
+them) instead of hotlinking publisher images.
+
+## Other feeds in this repo
+
+- **`customs-duty-tracker/`** — machine-published event log of customs duty
+  changes (tariff-value notices, exchange-rate circulars, duty-rate changes).
+  Spec: `customs-duty-tracker/SPEC.md`; agent tools in
+  `customs-duty-tracker/tools/`.
+- **`macro-events/`** — machine-published schedule and results of the macro
+  releases that move gold and silver (US jobs, US CPI, Fed rate decisions,
+  RBI policy, Union Budget). Schema `macro-events.v1`; the backend polls
+  `macro-events/latest.json`. Spec: `macro-events/SPEC.md`; agent tools in
+  `macro-events/tools/` (validation, calendar refresh, release-window
+  polling, daily rebuild). A GitHub workflow validates `latest.json` on
+  every push touching `macro-events/`.

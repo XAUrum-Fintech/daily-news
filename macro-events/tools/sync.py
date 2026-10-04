@@ -138,7 +138,7 @@ def gh(method, path, data=None):
 
 
 def fetch_committed(name):
-    r = subprocess.run(["curl", "-s", "--max-time", 30, f"{RAW}/{name}"],
+    r = subprocess.run(["curl", "-s", "--max-time", "30", f"{RAW}/{name}"],
                        capture_output=True, text=True)
     if r.returncode != 0 or not r.stdout.strip().startswith("{"):
         raise RuntimeError(f"could not fetch committed {name}")
