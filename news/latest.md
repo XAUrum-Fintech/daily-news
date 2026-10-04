@@ -1,4 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-10-04T00:00Z
+# Gold & Silver for Indian buyers · 2026-10-04T02:00Z
 
 > Gold tests the $4,000 floor as 10-year yields hit a 2002 high; Bank of America keeps a $5,000 target.
 
@@ -11,11 +11,11 @@ Gold closed Friday at $4,144.04 an ounce, down 3.4% on the week, as the 10-year 
 - MCX December gold ended the week at ₹1,50,390 (-1.9%) and silver at ₹2,25,877 (-3.8%), per The Hindu BusinessLine.
 
 ## Trending
-- **Record yields test gold's $4,000 floor**: Record 10-year yields (5.34%, highest since 2002) dragged gold to a 3.4% weekly loss — but steady central-bank buying by China and Poland plus $18bn of August ETF inflows held the $4,000 floor. (stories bc3a6fe55d87d3e4, 52c170cd26cce7b1)
-- **Wall Street redraws its gold forecasts**: Goldman Sachs held its $4,900 year-end target and Bank of America kept $5,000 while Kitco's survey shows Wall Street nearing a bearish majority after gold's post-payrolls slide. (stories c48eb21a01beb8a9, ce51a3c4fc273b95, bc3a6fe55d87d3e4)
-- **Festive India buys gold — carefully**: With prices 7% off ahead of Dhanteras, the WGC sees cautiously optimistic demand: wedding buying holds, discretionary buying softens, and digital gold plus lightweight jewellery take share. (stories 3aafeea0ac67921e, da9f5b736ac346b7)
-- **Silver's India story turns**: India's silver imports rebounded to 15.5M oz in August once licences flowed after May's duty shock; a Noida fraud case exposed manipulation in MCX silver options. (stories ba636dd3aa345555, 8603749672dcd6fb)
-- **Domestic futures track the global pullback**: MCX December gold and silver ended the week lower at ₹1,50,390 and ₹2,25,877; the rupee stayed under pressure as RBI dollar sales drained $18.34 billion from forex reserves. (stories e4e27f8ea430c0ea, 997d1234fb634c54, 33b9a9609871559e)
+- **Record yields test gold's $4,000 floor**: Record 10-year yields (5.34%, highest since 2002) dragged gold to a 3.4% weekly loss — but steady central-bank buying by China and Poland plus $18bn of August ETF inflows held the $4,000 floor. (stories 1, 2)
+- **Wall Street redraws its gold forecasts**: Goldman Sachs held its $4,900 year-end target and Bank of America kept $5,000 while Kitco's survey shows Wall Street nearing a bearish majority after gold's post-payrolls slide. (stories 3, 4, 1)
+- **Festive India buys gold — carefully**: With prices 7% off ahead of Dhanteras, the WGC sees cautiously optimistic demand: wedding buying holds, discretionary buying softens, and digital gold plus lightweight jewellery take share. (stories 7, 9)
+- **Silver's India story turns**: India's silver imports rebounded to 15.5M oz in August once licences flowed after May's duty shock; a Noida fraud case exposed manipulation in MCX silver options. (stories 6, 11)
+- **Domestic futures track the global pullback**: MCX December gold and silver ended the week lower at ₹1,50,390 and ₹2,25,877; the rupee stayed under pressure as RBI dollar sales drained $18.34 billion from forex reserves. (stories 5, 10, 13)
 
 ## Stories
 1. [Gold Tests $4,000 Floor as Record Bond Yields Collide With Central-Bank Buying](https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/gold-tests-4-000-floor-as-record-bond-yields-collide-with-central-bank/70221400) — *AD HOC NEWS*, 2026-10-03T17:21:30Z
@@ -36,8 +36,8 @@ Gold closed Friday at $4,144.04 an ounce, down 3.4% on the week, as the 10-year 
    Tanvi Exports India has filed a draft prospectus with SEBI for an IPO of up to 3.58 million shares plus an equal offer for sale, Mint reports. The Rajkot jewellery maker, 8% of Gujarat’s gold jewellery exports, will use the proceeds to repay debt and fund working capital. Revenue grew 188% CAGR to ₹11,399 million in FY2026; exports rose from ₹43.4 million to ₹2,457.5 million across five countries.
 9. [Gold Demand Remains Strong Despite High Prices, Buyers Adjust Purchases](https://www.guwahatiplus.com/exclusive-news/gold-demand-remains-strong-despite-high-prices-buyers-adjust-purchases) — *Guwahati Plus*, 2026-10-03T08:44:56Z
    The World Gold Council expects Indian gold demand to improve through the festive and wedding season on steady investment demand and resilient wedding buying despite near-record prices. With 24-carat gold around ₹1.48 lakh per 10 grams, Guwahati jewellers expect robust but smaller purchases — lighter jewellery, coins or digital gold — while old-gold exchange has widened domestic discounts.
-10. [India's Forex Reserves Plunge by $18.34 Billion](https://www.rediff.com/business/report/indias-forex-reserves-drop-significantly-to-74756-billion-rbi-data/20261002.htm) — *Rediff*, 2026-10-02T16:50:00Z
-   India's foreign exchange reserves fell $18.34 billion to $747.56 billion in the week ended September 25, RBI data released on Friday showed — the third straight weekly decline, pulling the kitty further from its September 4 record of $785.71 billion. Foreign currency assets dropped $15.57 billion to $615.41 billion as the RBI sold dollars to steady the rupee, while gold reserves fell $2.59...
+10. [India's forex reserves fall $18.3 bn as RBI steps in to defend rupee](https://economictimes.indiatimes.com/markets/forex/forex-news/indias-forex-reserves-fall-18-3-bn-as-rbi-steps-in-to-defend-rupee/articleshow/134650624.cms) — *Economic Times*, 2026-10-02T18:42:38Z
+   India's forex reserves fell $18.34 billion in the week to September 25, the third straight weekly decline, RBI data showed. The kitty dropped to $747.56 billion from its September 4 record of $785.71 billion as the central bank sold dollars to steady the rupee; foreign currency assets fell $15.57 billion to $615.41 billion and gold reserves depleted $2.59 billion to $108.70 billion.
 11. [Cyber manipulation in commodity market: Silver option price jumped from ₹174 to ₹2,300 in 5 minutes](https://the420.in/noida-mcx-cyber-manipulation-silver-option/) — *The420.in*, 2026-10-03T08:00:31Z
    Cybercriminals breached a Noida risk-management firm's servers and used its static IP to place 1,238 unauthorized orders across 5,559 illiquid MCX silver option contracts. The contract spiked from ₹174 to ₹2,300 in five minutes; about ₹12 crore in premiums created false liquidity while counterparties siphoned roughly ₹11 crore. CERT-In confirmed deliberate distortion; one arrest made.
 12. [SEBI examining position limits for non-agri contracts to boost liquidity](https://www.thehindubusinessline.com/markets/sebi-examining-position-limits-for-non-agri-contracts-to-boost-liquidity/article71540251.ece) — *The Hindu BusinessLine*, 2026-10-03T10:00:00Z

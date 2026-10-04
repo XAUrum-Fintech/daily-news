@@ -1,10 +1,10 @@
 {
  "schema": "orob-news.v1",
- "edition_id": "2026-10-04T00:00Z",
- "generated_at": "2026-10-04T00:02:54Z",
+ "edition_id": "2026-10-04T02:00Z",
+ "generated_at": "2026-10-04T02:01:49Z",
  "window": {
-  "from": "2026-10-03T22:00:00Z",
-  "to": "2026-10-04T00:00:00Z"
+  "from": "2026-10-04T00:00:00Z",
+  "to": "2026-10-04T02:00:00Z"
  },
  "insights": {
   "headline": "Gold tests the $4,000 floor as 10-year yields hit a 2002 high; Bank of America keeps a $5,000 target.",
@@ -56,7 +56,7 @@
    "summary": "MCX December gold and silver ended the week lower at ₹1,50,390 and ₹2,25,877; the rupee stayed under pressure as RBI dollar sales drained $18.34 billion from forex reserves.",
    "item_ids": [
     "e4e27f8ea430c0ea",
-    "997d1234fb634c54",
+    "b2d66b668bab0bf3",
     "33b9a9609871559e"
    ]
   }
@@ -283,15 +283,16 @@
    "breaking": false
   },
   {
-   "id": "997d1234fb634c54",
-   "title": "India's Forex Reserves Plunge by $18.34 Billion",
-   "summary": "India's foreign exchange reserves fell $18.34 billion to $747.56 billion in the week ended September 25, RBI data released on Friday showed — the third straight weekly decline, pulling the kitty further from its September 4 record of $785.71 billion. Foreign currency assets dropped $15.57 billion to $615.41 billion as the RBI sold dollars to steady the rupee, while gold reserves fell $2.59...",
-   "url": "https://www.rediff.com/business/report/indias-forex-reserves-drop-significantly-to-74756-billion-rbi-data/20261002.htm",
-   "source": "Rediff",
-   "source_domain": "rediff.com",
-   "publisher_id": "rediff",
-   "published_at": "2026-10-02T16:50:00Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/997d1234fb634c54.jpg",
+   "id": "b2d66b668bab0bf3",
+   "rank": 10,
+   "title": "India's forex reserves fall $18.3 bn as RBI steps in to defend rupee",
+   "summary": "India's forex reserves fell $18.34 billion in the week to September 25, the third straight weekly decline, RBI data showed. The kitty dropped to $747.56 billion from its September 4 record of $785.71 billion as the central bank sold dollars to steady the rupee; foreign currency assets fell $15.57 billion to $615.41 billion and gold reserves depleted $2.59 billion to $108.70 billion.",
+   "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/indias-forex-reserves-fall-18-3-bn-as-rbi-steps-in-to-defend-rupee/articleshow/134650624.cms",
+   "source": "Economic Times",
+   "source_domain": "economictimes.indiatimes.com",
+   "publisher_id": "economic-times",
+   "published_at": "2026-10-02T18:42:38Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/b2d66b668bab0bf3.jpg",
    "image_kind": "photo",
    "tags": [
     "gold",
@@ -304,8 +305,9 @@
     "gold"
    ],
    "breaking": false,
-   "related_urls": [],
-   "rank": 10
+   "related_urls": [
+    "https://www.rediff.com/business/report/indias-forex-reserves-drop-significantly-to-74756-billion-rbi-data/20261002.htm"
+   ]
   },
   {
    "id": "8603749672dcd6fb",
