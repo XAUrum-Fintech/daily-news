@@ -1,63 +1,83 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-05T18:00Z",
-  "generated_at": "2026-10-05T18:13:12Z",
+  "edition_id": "2026-10-05T20:00Z",
+  "generated_at": "2026-10-05T20:10:57Z",
   "window": {
-    "from": "2026-10-05T16:00:00Z",
-    "to": "2026-10-05T18:00:00Z"
+    "from": "2026-10-05T18:00:00Z",
+    "to": "2026-10-05T20:00:00Z"
   },
   "insights": {
-    "headline": "Weak US jobs report crushes October Fed hike bets; gold steadies as dollar caps gains",
-    "summary": "September’s US jobs report showed just 29,000 new payrolls against 90,000 expected, sending the odds of an October Fed rate hike tumbling from 64% to 22%. Spot gold edged up to about $4,158 an ounce on Monday, though a dollar index at its highest since April 2025 and 10-year yields near 5.29% limited the advance. In India, MCX gold slipped nearly 1% while silver gained, and jewellery stocks rallied up to 4.5% on hopes of strong Dhanteras and Diwali sales despite record prices.",
+    "headline": "Deutsche Bank flags silver surplus by 2027; gold steadies as October Fed hike bets fade",
+    "summary": "Deutsche Bank says silver's years-long physical shortage could flip to a surplus as early as 2027, with London vault stocks ample and solar demand fading; it expects spot silver to average $70/oz by Q2 2027. September's weak US jobs report crushed the odds of an October Fed rate hike from near 70% to about 18%, but gold steadied near $4,135 as a firm dollar and elevated yields capped gains. In India, MCX gold slipped about 1% while silver held firmer, and the GST Council is set to consider withdrawing the IGST exemption on gold and silver imports by banks and nominated agencies on October 7.",
     "points": [
-      "US nonfarm payrolls rose just 29,000 in September against 90,000 expected; unemployment ticked up to 4.2%.",
-      "October Fed hike odds fell to 22% from 64% a week ago; markets still price an 87% chance of a December hike.",
-      "MCX gold fell nearly 1% to ₹1.49 lakh per 10g while silver gained; September was negative for both metals.",
-      "The GST Council may scrap the 3% IGST exemption on gold and silver imports by banks and nominated agencies at its Oct 7 meeting.",
-      "Jewellery stocks rose up to 4.5% ahead of the festive season; jewellers expect strong Dhanteras buying despite record prices."
+      "Deutsche Bank: London's freely available silver stockpile up 70% since Oct 2025; solar silver use per cell down 17% in 2026.",
+      "US payrolls rose just 29,000 in September vs 90,000 expected; October Fed hike odds fell to ~18%, unemployment at 4.2%.",
+      "MCX gold fell ~1% to ₹1,49,150/10g on Monday while silver edged up ₹173 to ₹2,26,050/kg, PL Capital's Ashish Rajodiya notes.",
+      "GST Council may withdraw the 2017 IGST exemption on gold, silver and platinum imports by banks and nominated agencies on Oct 7.",
+      "India's silver imports running 25% below year-ago levels after higher duties; Deutsche says inventories can cover festive buying."
     ]
   },
   "trending": [
     {
-      "title": "Fed expectations flip on weak jobs data",
-      "summary": "Soft payrolls slashed October hike odds from 64% to 22%, giving gold and silver their bid back - but a strong dollar and 5%+ yields cap gains ahead of the RBI decision and US CPI.",
+      "title": "Silver's deficit era may be ending",
+      "summary": "Deutsche Bank says a 2027 silver surplus is possible as London stocks swell and solar demand thrifts. India's silver imports lag 25% behind last year, though inventories should cover festive demand.",
       "item_ids": [
-        "f8bd4c15d6fa4730",
-        "5d9b1126071e59d2",
-        "da946bb2dc154f01",
+        "7957776d819c6b10",
+        "56b288440af74af6",
         "bfb2f01c026e8c9f"
       ]
     },
     {
-      "title": "Central banks anchor gold’s floor",
-      "summary": "At the LBMA conference, Bank of Italy and Bundesbank officials reaffirmed gold’s reserve status despite surging yields - while the LBMA fights a London court battle threatening Good Delivery.",
+      "title": "Fed expectations keep flipping",
+      "summary": "Weak jobs data crushed October hike odds to ~18% from ~70%, lifting gold — yet a firm dollar and elevated yields keep capping the metal's upside.",
       "item_ids": [
-        "40be75c4061758b0",
-        "f671b94bf27c2e07"
-      ]
-    },
-    {
-      "title": "India’s festive season meets record prices",
-      "summary": "With MCX gold near ₹1.49 lakh ahead of the first 15%-duty Dhanteras, buyers shift to lighter pieces and exchange deals - yet jewellers expect strong footfalls and jewellery stocks rally.",
-      "item_ids": [
-        "8691eb466ca0454e",
-        "528d18244795c9b8",
-        "9eae140cd6da4208",
-        "67f27fe64def1351"
+        "f8bd4c15d6fa4730",
+        "5d9b1126071e59d2"
       ]
     },
     {
       "title": "Policy risk on the import channel",
-      "summary": "The GST Council may withdraw the 3% IGST exemption for banks and nominated agencies at its Oct 7 meeting, putting all importers on the same tax footing after May’s duty hike to 15%.",
+      "summary": "The GST Council is expected to weigh withdrawing the IGST exemption on gold, silver and platinum imports by banks and nominated agencies on October 7.",
       "item_ids": [
         "7af2b509837ce33d"
+      ]
+    },
+    {
+      "title": "Festive season meets record prices",
+      "summary": "With gold near ₹1.5 lakh per 10g in India's first 15%-duty festive season, jewellers expect strong buying on lighter designs, while jewellery stocks are glittering.",
+      "item_ids": [
+        "9eae140cd6da4208",
+        "67f27fe64def1351",
+        "528d18244795c9b8"
       ]
     }
   ],
   "items": [
     {
+      "id": "7957776d819c6b10",
+      "title": "Silver shortage could flip to surplus in 2027: Deutsche",
+      "summary": "Deutsche Bank says silver's physical shortage could flip to surplus as early as 2027 on rising inventories and weaker industrial demand. London's freely available vault supply is up 70% since October 2025, while solar makers cut silver use via thinner contacts and cheaper pastes, metals head Daniel Ghali notes. He expects spot silver to average $70/oz by Q2 2027, below first-half 2026 levels.",
+      "url": "https://www.northernminer.com/news/silver-shortage-could-flip-to-surplus-in-2027-deutsche/1003895445/",
+      "source": "The Northern Miner",
+      "source_domain": "northernminer.com",
+      "publisher_id": "northern-miner",
+      "published_at": "2026-10-05T18:00:00Z",
+      "image_url": "https://www.northernminer.com/wp-content/uploads/2026/10/silver-bars.jpeg",
+      "image_kind": "photo",
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "tags": [
+        "silver",
+        "global"
+      ],
+      "breaking": false,
+      "rank": 1
+    },
+    {
       "id": "f8bd4c15d6fa4730",
-      "rank": 1,
+      "rank": 2,
       "title": "Gold gains as October Fed rate hike prospects fade",
       "summary": "Spot gold rose 0.4% to $4,158 an ounce on Monday after September’s weak US jobs report slashed October Fed hike expectations. Payrolls rose just 29,000 against 90,000 expected, with prior months revised down; markets now see a 22% chance of an October hike, down from 64% a week ago. Silver gained 1.7% to $61.40.",
       "url": "https://www.reuters.com/world/india/gold-gains-october-fed-rate-hike-prospects-fade-2026-10-05/",
@@ -105,50 +125,26 @@
         "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-fall-rs-1400/10-grams-but-silver-rises-rs-1025/kg-despite-easing-fed-hike-bets-check-key-levels-to-track/articleshow/134686044.cms",
         "https://marketdotnews.com/business/gold-slips-below-rs-150-lakh-as-silver-holds-firm-amid-global-uncertainty"
       ],
-      "rank": 2
-    },
-    {
-      "id": "5d9b1126071e59d2",
-      "title": "Gold struggles as dovish Fed repricing meets stronger US Dollar, elevated yields",
-      "summary": "Spot gold traded around $4,158, up 0.35%, caught between receding October Fed hike bets — weak September payrolls (29K vs 90K expected) cut October hike odds to about 20% — and a dollar index at 102.53, its highest since April 2025, plus a 10-year US yield near 5.29%. Deutsche Bank still sees two more 25bp hikes; FXStreet's chart view puts resistance at $4,200 and support at $4,100.",
-      "url": "https://www.fxstreet.com/news/gold-struggles-as-dovish-fed-repricing-meets-stronger-us-dollar-elevated-yields-202610051050",
-      "source": "FXStreet",
-      "source_domain": "fxstreet.com",
-      "publisher_id": "fxstreet",
-      "published_at": "2026-10-05T10:50:46Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "global",
-        "fed"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
       "rank": 3
     },
     {
-      "id": "40be75c4061758b0",
-      "title": "Gold retains key reserve status despite surging bond yields, central bankers say",
-      "summary": "Bank of Italy deputy governor Altimari told the LBMA's Sorrento conference gold remains \"probably the safe haven asset\", flagging a structural shift since 2022 from emerging-economy central-bank buying. Bundesbank chief Nagel said the case for gold diversification stands despite rising yields; Metals Focus sees 2026 central-bank demand easing 15% to 720 tonnes, still above pre-2022 levels.",
-      "url": "https://www.reuters.com/business/finance/gold-retains-key-reserve-status-despite-surging-bond-yields-central-bankers-say-2026-10-05/",
-      "source": "Reuters",
-      "source_domain": "reuters.com",
-      "publisher_id": "reuters",
-      "published_at": "2026-10-05T10:34:37Z",
+      "id": "56b288440af74af6",
+      "title": "Silver Price Forecast: XAG/USD builds base above $60, eyes $64",
+      "summary": "Silver (XAG/USD) rose over 1% to $61.13 on Monday despite rising US Treasury yields and a stronger dollar, FXStreet's technical analysis notes. Price action suggests a bottom may be forming above $60, with a likely test of resistance above $64; a move past $62 could bring the 50- and 100-day averages into play. A break below the October 2 low of $59.69 would risk a deeper reversal.",
+      "url": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-builds-base-above-60-eyes-64-202610051923",
+      "source": "FXStreet",
+      "source_domain": "fxstreet.com",
+      "publisher_id": "fxstreet",
+      "published_at": "2026-10-05T19:23:26Z",
       "image_url": null,
       "image_kind": "none",
-      "tags": [
-        "gold",
-        "global",
-        "central-banks"
-      ],
       "category": "global",
       "metals": [
-        "gold"
+        "silver"
+      ],
+      "tags": [
+        "silver",
+        "global"
       ],
       "breaking": false,
       "rank": 4
@@ -182,24 +178,24 @@
       "rank": 5
     },
     {
-      "id": "da946bb2dc154f01",
-      "title": "Silver Price Forecast: XAG/USD jumps to near $61.80 as hawkish Fed bets recede",
-      "summary": "Silver climbed toward $61.80 an ounce as traders scaled back hawkish Fed bets after September's soft US payrolls report — just 29K jobs added versus 90K expected — with October rate-hike odds now near 20%. FXStreet's forecast sees the metal testing the $61.80 area on the dovish repricing, though a strong dollar and elevated Treasury yields remain headwinds for the non-yielding metal.",
-      "url": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-jumps-to-near-6180-as-hawkish-fed-bets-recede-202610051058",
+      "id": "5d9b1126071e59d2",
+      "title": "Gold struggles as dovish Fed repricing meets stronger US Dollar, elevated yields",
+      "summary": "Spot gold traded around $4,158, up 0.35%, caught between receding October Fed hike bets — weak September payrolls (29K vs 90K expected) cut October hike odds to about 20% — and a dollar index at 102.53, its highest since April 2025, plus a 10-year US yield near 5.29%. Deutsche Bank still sees two more 25bp hikes; FXStreet's chart view puts resistance at $4,200 and support at $4,100.",
+      "url": "https://www.fxstreet.com/news/gold-struggles-as-dovish-fed-repricing-meets-stronger-us-dollar-elevated-yields-202610051050",
       "source": "FXStreet",
       "source_domain": "fxstreet.com",
       "publisher_id": "fxstreet",
-      "published_at": "2026-10-05T10:58:24Z",
+      "published_at": "2026-10-05T10:50:46Z",
       "image_url": null,
       "image_kind": "none",
       "tags": [
-        "silver",
+        "gold",
         "global",
         "fed"
       ],
       "category": "global",
       "metals": [
-        "silver"
+        "gold"
       ],
       "breaking": false,
       "rank": 6
@@ -229,6 +225,29 @@
       "image_kind": "photo"
     },
     {
+      "id": "40be75c4061758b0",
+      "title": "Gold retains key reserve status despite surging bond yields, central bankers say",
+      "summary": "Bank of Italy deputy governor Altimari told the LBMA's Sorrento conference gold remains \"probably the safe haven asset\", flagging a structural shift since 2022 from emerging-economy central-bank buying. Bundesbank chief Nagel said the case for gold diversification stands despite rising yields; Metals Focus sees 2026 central-bank demand easing 15% to 720 tonnes, still above pre-2022 levels.",
+      "url": "https://www.reuters.com/business/finance/gold-retains-key-reserve-status-despite-surging-bond-yields-central-bankers-say-2026-10-05/",
+      "source": "Reuters",
+      "source_domain": "reuters.com",
+      "publisher_id": "reuters",
+      "published_at": "2026-10-05T10:34:37Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "global",
+        "central-banks"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 8
+    },
+    {
       "id": "ea74b205078d5d58",
       "title": "Bullion faces choppy week as dollar, US-Iran risks test sentiment: Analysts",
       "summary": "Analysts expect gold and silver to stay turbulent next week as a strong dollar and high Treasury yields clash with unresolved US-Iran tensions; the RBI's rate decision on Wednesday is the other key cue. Last week MCX gold fell about 2% to ₹1.5 lakh per 10 grams and silver about 4% to ₹2.25 lakh per kg; Comex gold dropped 3.7% to $4,162.3 an ounce.",
@@ -254,7 +273,30 @@
       "related_urls": [
         "https://timesofindia.indiatimes.com/business/india-business/gold-silver-outlook-dollar-us-iran-tensions-rbi-policy-among-key-factors-to-drive-prices-this-week/articleshow/134677199.cms"
       ],
-      "rank": 8
+      "rank": 9
+    },
+    {
+      "id": "bfb2f01c026e8c9f",
+      "rank": 10,
+      "title": "Silver Gains as Fed Rate Hike Bets Ease",
+      "summary": "Silver climbed above $61 an ounce on Monday as weak US September jobs data eased pressure on the Fed to raise rates further. Payrolls rose just 29,000 against 90,000 expected, unemployment edged up to 4.2% and wage growth slowed to 3.0%, its weakest since May 2021. Markets now price about a 20% chance of an October hike.",
+      "url": "https://tradingeconomics.com/commodity/silver/news/589347",
+      "source": "Trading Economics",
+      "source_domain": "tradingeconomics.com",
+      "publisher_id": "trading-economics",
+      "published_at": "2026-10-05T01:38:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "silver",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false
     },
     {
       "id": "f671b94bf27c2e07",
@@ -274,13 +316,13 @@
       ],
       "breaking": false,
       "summary": "The LBMA, which sets the rules for London's $1 trillion-a-week gold market, is fighting a London court case that insiders fear could leave it insolvent, investingLive reports. At stake are the Good Delivery List and the responsible-sourcing regime underpinning global bullion trade. The report lands as the market debates the long-term survival of the gold market's key rule-setter.",
-      "rank": 9,
+      "rank": 11,
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/f671b94bf27c2e07.jpg",
       "image_kind": "photo"
     },
     {
       "id": "528d18244795c9b8",
-      "rank": 10,
+      "rank": 12,
       "title": "Titan, Kalyan Jewellers, PC Jeweller shares shine - Why jewellery stocks are glittering? Expert decodes rally",
       "summary": "Shares of Indian jewellery retailers rallied on Monday on hopes of strong festive-season sales. Kalyan Jewellers led with a 4.5% gain while Titan and PC Jeweller rose about 1.5%. Bonanza analyst Abhinav Tiwari said the market is positioning ahead of Dhanteras and Diwali, though the move is largely expectation-driven before September-quarter sales updates.",
       "url": "https://www.livemint.com/market/stock-market-news/titan-kalyan-jewellers-pc-jeweller-shares-shine-why-jewellery-stocks-are-glittering-expert-decodes-rally-11791178354162.html",
@@ -324,7 +366,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 13
     },
     {
       "id": "67f27fe64def1351",
@@ -347,7 +389,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 14
     },
     {
       "id": "64256dd0c79557c9",
@@ -372,30 +414,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 13
-    },
-    {
-      "id": "bfb2f01c026e8c9f",
-      "rank": 14,
-      "title": "Silver Gains as Fed Rate Hike Bets Ease",
-      "summary": "Silver climbed above $61 an ounce on Monday as weak US September jobs data eased pressure on the Fed to raise rates further. Payrolls rose just 29,000 against 90,000 expected, unemployment edged up to 4.2% and wage growth slowed to 3.0%, its weakest since May 2021. Markets now price about a 20% chance of an October hike.",
-      "url": "https://tradingeconomics.com/commodity/silver/news/589347",
-      "source": "Trading Economics",
-      "source_domain": "tradingeconomics.com",
-      "publisher_id": "trading-economics",
-      "published_at": "2026-10-05T01:38:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "silver",
-        "fed",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "breaking": false
+      "rank": 15
     }
   ]
 }
