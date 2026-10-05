@@ -1,373 +1,403 @@
 {
-  "schema": "orob-news.v1",
-  "edition_id": "2026-10-05T02:00Z",
-  "generated_at": "2026-10-05T02:02:26Z",
-  "window": {
-    "from": "2026-10-05T00:00:00Z",
-    "to": "2026-10-05T02:00:00Z"
-  },
-  "insights": {
-    "headline": "Markets fully price RBI rate hike this week as GST Council eyes bank bullion tax tweak",
-    "summary": "Investors have loaded up on bets that the RBI will raise the repo rate by 25 bps to 5.50% at its Oct 5-7 meeting, with swap markets fully pricing the first hike in nearly four years. Separately, the GST Council may withdraw the 3% IGST exemption on gold, silver and platinum imports by banks and nominated agencies at its Oct 7 meeting. Both metals ended September lower on a strong dollar and US rate-hike expectations, and analysts expect a choppy week ahead as the dollar, US-Iran risks and the RBI decision drive sentiment.",
-    "points": [
-      "35 of 61 economists polled by Reuters expect a 25bp RBI hike to 5.50% at the Oct 7 decision; BofA sees a 100bp cycle, Nomura/Barclays a shallow 25-50bp one.",
-      "The 3% IGST relief on bank bullion imports dates to 2017's canalised trade era; withdrawing it would align banks, nominated agencies and bullion exchanges.",
-      "Comex gold fell 6.8% and silver 9.6% in September; on MCX, gold dropped 4.1% and silver 6.8%, with rupee weakness softening the domestic fall.",
-      "Asian producers are hoarding more domestic gold output through refining, export taxes and central-bank buying - a resource-nationalism push, per Nikkei Asia."
-    ]
-  },
-  "trending": [
-    {
-      "title": "RBI rate hike now the base case for bullion markets",
-      "summary": "Markets have moved from debating whether the RBI hikes to how much, with swap pricing implying a full tightening cycle - a backdrop that lifts the opportunity cost of holding gold and silver.",
-      "item_ids": [
-        "371ef8c6989d9443",
-        "ea74b205078d5d58"
-      ]
-    },
-    {
-      "title": "GST Council may redraw the bank bullion import tax map",
-      "summary": "A possible end to the 3% IGST exemption for banks and nominated agencies at the Oct 7 GST Council meeting would reshape import economics for the 15% duty regime that began in May.",
-      "item_ids": [
-        "7af2b509837ce33d"
-      ]
-    },
-    {
-      "title": "September's washout resets expectations before the festive season",
-      "summary": "Dollar strength and US yield pressure dragged both metals lower in September; with Dhanteras nearing, domestic prices near Rs 1.5 lakh per 10 grams are reframing buyer psychology.",
-      "item_ids": [
-        "64256dd0c79557c9",
-        "1b463cff6f245a64",
-        "9eae140cd6da4208"
-      ]
-    },
-    {
-      "title": "Silver's tug-of-war: supply gap vs the strong dollar",
-      "summary": "ETF flows show speculative demand holding up, but FXEmpire's analysis says silver needs lower real yields and a weaker dollar to retake $62.60 - with $50-$55 in focus if $60 breaks.",
-      "item_ids": [
-        "987ebe8cd387175a",
-        "8603749672dcd6fb"
-      ]
-    }
-  ],
-  "items": [
-    {
-      "id": "371ef8c6989d9443",
-      "title": "Markets bet on RBI rate hike as inflation pressure builds",
-      "summary": "Investors have loaded up on bets that the RBI will raise rates at its Oct 5-7 MPC meeting, with swap markets fully pricing an increase; 35 of 61 economists polled by Reuters expect a 25bp rise to 5.50% - the first hike in nearly four years. BofA expects a 100bp cycle while Nomura and Barclays see 25-50bp. The rupee sits about 1% off record lows, and traders warn a hold could draw pushback.",
-      "url": "https://www.reuters.com/world/india/markets-bet-rbi-rate-hike-inflation-pressure-builds-2026-10-05/",
-      "source": "Reuters",
-      "source_domain": "reuters.com",
-      "publisher_id": "reuters",
-      "published_at": "2026-10-04T23:00:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "silver",
-        "rbi",
-        "rupee",
-        "india"
-      ],
-      "category": "policy",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://economictimes.indiatimes.com/markets/stocks/news/rbi-likely-to-hike-repo-rate-by-25-bps-to-5-50-in-october-policy-et-poll/articleshow/134683262.cms"
-      ],
-      "rank": 1
-    },
-    {
-      "id": "7af2b509837ce33d",
-      "rank": 2,
-      "title": "GST exemption for banks, nominated agencies for gold, silver imports may be withdrawn",
-      "summary": "The GST Council is likely to consider withdrawing the 3% IGST exemption on gold, silver and platinum imports by banks and nominated agencies at its Oct 7 meeting, sources said. The relief dates to 2017, when bullion trade was tightly canalised; scrapping it would put banks, nominated agencies and bullion exchanges on the same tax footing, after import duty was hiked to 15% in May.",
-      "url": "https://www.thehindubusinessline.com/economy/gst-exemption-for-banks-nominated-agencies-for-gold-silver-imports-may-be-withdrawn/article71544539.ece",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "publisher_id": "hindu-businessline",
-      "published_at": "2026-10-04T18:01:32Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/7af2b509837ce33d.jpg",
-      "image_kind": "photo",
-      "category": "policy",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "import-duty",
-        "india"
-      ],
-      "related_urls": [
-        "https://money.rediff.com/news/market/gst-exemption-withdrawal-for-gold-silver-imports-by-banks/55576820261004"
-      ],
-      "breaking": false
-    },
-    {
-      "id": "64256dd0c79557c9",
-      "title": "Gold, silver lose lustre in September",
-      "summary": "Both precious metals posted negative September returns as a stronger dollar and US rate-hike expectations dented sentiment: Comex gold fell 6.8% to $4,189.1 an ounce and Comex silver 9.6% to $60.75. On MCX, gold dropped 4.1% to Rs 1,49,092 per 10 grams and silver 6.8% to Rs 2,23,740 per kg - the rupee's weakness against the dollar softening the domestic fall.",
-      "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/gold-silver-lose-lustre-in-september/article71543488.ece",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "publisher_id": "hindu-businessline",
-      "published_at": "2026-10-05T01:21:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/64256dd0c79557c9.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 3
-    },
-    {
-      "id": "0a43b95df8f508e5",
-      "title": "Asian gold producers begin hoarding domestic supplies after price rises",
-      "summary": "Asian governments are moving to keep more of the gold boom's value at home, Nikkei Asia reports: countries are refining more of their own mines' output domestically, discouraging exports through taxes, or buying through central banks. The push, described as resource nationalism, reflects eroding confidence in the US dollar as the reserve currency and sanctions worries.",
-      "url": "https://asia.nikkei.com/business/markets/trading-asia/asian-gold-producers-begin-hoarding-domestic-supplies-after-price-rises",
-      "source": "Nikkei Asia",
-      "source_domain": "asia.nikkei.com",
-      "publisher_id": "nikkei-asia",
-      "published_at": "2026-10-04T21:00:00Z",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F6%2F5%2F1%2F13271560-2-eng-GB%2F83b46aadb0b8-photo_SXM2026092400004827.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
-      "image_kind": "photo",
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "tags": [
-        "gold",
-        "global",
-        "central-banks"
-      ],
-      "rank": 4
-    },
-    {
-      "id": "ea74b205078d5d58",
-      "rank": 5,
-      "title": "Bullion faces choppy week as dollar, US-Iran risks test sentiment: Analysts",
-      "summary": "Analysts expect gold and silver to stay turbulent next week as a strong dollar and high Treasury yields clash with unresolved US-Iran tensions; the RBI's rate decision on Wednesday is the other key cue. Last week MCX gold fell about 2% to ₹1.5 lakh per 10 grams and silver about 4% to ₹2.25 lakh per kg; Comex gold dropped 3.7% to $4,162.3 an ounce.",
-      "url": "https://www.business-standard.com/markets/commodities/bullion-faces-choppy-week-as-dollar-us-iran-risks-test-sentiment-analysts-126100400484_1.html",
-      "source": "Business Standard",
-      "source_domain": "business-standard.com",
-      "publisher_id": "business-standard",
-      "published_at": "2026-10-04T14:43:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/ea74b205078d5d58.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://timesofindia.indiatimes.com/business/india-business/gold-silver-outlook-dollar-us-iran-tensions-rbi-policy-among-key-factors-to-drive-prices-this-week/articleshow/134677199.cms"
-      ]
-    },
-    {
-      "id": "987ebe8cd387175a",
-      "rank": 6,
-      "title": "Silver Price Forecast: Strong Dollar and High Yields Put $50 in Focus",
-      "summary": "Silver lost more than 6% last week and stays under pressure, with high US Treasury yields and a strong dollar capping any recovery, according to FXEmpire's analysis. The piece argues silver needs lower real yields and a weaker dollar to sustain a rebound; a break below the $60 support would put the $50-$55 zone in focus, while a move back above $62.60 could open the way to $67.",
-      "url": "https://www.fxempire.com/forecasts/article/premium-silver-price-forecast-strong-dollar-and-high-yields-put-50-in-focus-1635029",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "publisher_id": "fxempire",
-      "published_at": "2026-10-04T19:30:15Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "tags": [
-        "silver",
-        "global",
-        "fed"
-      ],
-      "breaking": false
-    },
-    {
-      "id": "1b463cff6f245a64",
-      "title": "Predicted to hit Rs 2 lakh, will gold prices fall to Rs 1.25 lakh per 10 grams?",
-      "summary": "International gold is down about 26% from its $5,595 record on January 29, with Indian prices down around 23%; MCX gold slid from about Rs 1,64,773 per 10 grams in late August to about Rs 1,45,991 last week. Praveen Singh of Mirae Asset Sharekhan tells TOI spot support lies in the $3,930-4,000 zone (about Rs 1,34,000); a fall to Rs 1.25 lakh is likely only on a further US yield spike.",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/predicted-to-hit-rs-2-lakh-will-gold-prices-fall-to-rs-1-25-lakh-per-10-grams/articleshow/134673956.cms",
-      "source": "Times of India",
-      "source_domain": "timesofindia.indiatimes.com",
-      "publisher_id": "times-of-india",
-      "published_at": "2026-10-04T13:41:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/1b463cff6f245a64.jpg",
-      "image_kind": "photo",
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "tags": [
-        "gold",
-        "mcx",
-        "india"
-      ],
-      "rank": 7
-    },
-    {
-      "id": "9eae140cd6da4208",
-      "rank": 8,
-      "title": "Gold Nears ₹1.5 Lakh per 10 Grams as India Heads into Its First 15% Duty Dhanteras",
-      "summary": "At ~₹1.49 lakh per 10 grams this is the most expensive Dhanteras on record, and the first under the 15% import duty. The premium decomposes neatly: $4,140/oz at a rupee near 96.3 gives ~₹1.28 lakh landed parity, and 15% duty plus 3% GST add most of the rest. WGC Q2 data: jewellery volumes fell 15.4% while bars and coins rose 8.9%; loans against gold jewellery surged 83% to ₹5.6 lakh crore.",
-      "url": "https://financialnewsindia.com/news/gold-nears-%e2%82%b91-5-lakh-per-10-grams-as-india-heads-into-its-first-15-duty-dhanteras/",
-      "source": "Financial News India",
-      "source_domain": "financialnewsindia.com",
-      "publisher_id": "financial-news-india",
-      "published_at": "2026-10-04T01:00:00Z",
-      "image_url": "https://financialnewsindia.com/news/wp-content/uploads/2026/10/o-3.jpeg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "india",
-        "jewellery",
-        "import-duty"
-      ],
-      "category": "festive",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false
-    },
-    {
-      "id": "0e17fac068bc54be",
-      "rank": 9,
-      "title": "Tanvi Exports files for IPO: 5 key highlights from gold jewellery maker's DRHP",
-      "summary": "Tanvi Exports, a gold jewellery manufacturer, has filed its draft red herring prospectus with SEBI ahead of an initial public offering, Mint reports, flagging five key highlights from the filing. The planned listing adds to a busy pipeline of jewellery-company IPOs as high gold prices and festive demand keep the sector in focus.",
-      "url": "https://www.livemint.com/market/tanvi-exports-files-for-ipo-5-key-highlights-from-gold-jewellery-maker-s-drhp-11791050208188.html",
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "publisher_id": "mint",
-      "published_at": "2026-10-03T18:28:47Z",
-      "image_url": "https://www.livemint.com/lm-img/img/2026/10/03/1600x900/logo/goldjewellery_1791052014901_bHmn_1791052065695_fD6W_aa3bd6a1-f1cb-4ed5-9a6d-43b57c01344d_zY5e.jpg",
-      "image_kind": "photo",
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "mcx",
-        "india",
-        "jewellery"
-      ],
-      "breaking": false
-    },
-    {
-      "breaking": false,
-      "id": "446cd3d55b648e48",
-      "rank": 10,
-      "title": "Investors poured $18B into gold funds in 1 month, even with gold 23% off its record",
-      "summary": "Gold funds absorbed about $18 billion of inflows in a single month even as bullion trades roughly 23% below its January record near $5,590 an ounce, Yahoo Finance reports — a sign investors are using the pullback to add exposure rather than walking away from the metal.",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/investors-poured-18b-gold-funds-101500688.html",
-      "source": "Yahoo Finance",
-      "source_domain": "finance.yahoo.com",
-      "publisher_id": "yahoo-finance",
-      "published_at": "2026-10-03T10:15:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ]
-    },
-    {
-      "breaking": false,
-      "id": "a62eced4a03d409f",
-      "rank": 11,
-      "title": "The Popular Jeweler That Got Caught in a Whirlwind When Gold Went Haywire",
-      "summary": "Canadian jeweller Mejuri has been squeezed as gold ran from $3,000 past $5,000 an ounce, pushing it toward 10-karat gold, vermeil, silver and even stainless steel while slowing store expansion — a vivid example of how record bullion prices are reshaping jewellery retail worldwide.",
-      "url": "https://www.wsj.com/business/mejuri-jewelry-gold-prices-d91a718b",
-      "source": "Wall Street Journal",
-      "source_domain": "wsj.com",
-      "publisher_id": "wsj",
-      "published_at": "2026-10-04T00:00:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "jewellery",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ]
-    },
-    {
-      "id": "8603749672dcd6fb",
-      "rank": 12,
-      "title": "Cyber manipulation in commodity market: Silver option price jumped from ₹174 to ₹2,300 in 5 minutes",
-      "summary": "Cybercriminals breached a Noida risk-management firm's servers on June 17, hijacking its systems to fire 1,238 unauthorized orders across seven MCX client accounts. Thinly traded silver options were targeted, one contract jumping from ₹174 to ₹2,300 in five minutes for an estimated ₹11 crore gain; police arrested one accused in September.",
-      "url": "https://the420.in/noida-mcx-cyber-manipulation-silver-option/",
-      "source": "The420.in",
-      "source_domain": "the420.in",
-      "publisher_id": "the420",
-      "published_at": "2026-10-03T08:00:31Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/8603749672dcd6fb.jpg",
-      "image_kind": "photo",
-      "category": "mcx",
-      "metals": [
-        "silver"
-      ],
-      "tags": [
-        "silver",
-        "mcx",
-        "india"
-      ],
-      "breaking": false
-    },
-    {
-      "breaking": false,
-      "id": "ff2e5d127a5d4ffc",
-      "rank": 13,
-      "title": "Gold buying warning: Don’t buy yellow metal, further fall expected before Dhanteras, Diwali - Will festive demand trigger a bounce back?",
-      "summary": "Analysts quoted by India.com expect gold to fall further in the coming weeks before Dhanteras and Diwali, citing continued pressure on the metal; HSBC has cut its average gold price estimates for 2026. The piece asks whether festive demand will then trigger a rebound.",
-      "url": "https://www.india.com/business/gold-buying-warning-dont-buy-yellow-metal-further-fall-expected-before-dhanteras-diwali-will-festive-demand-trigger-a-bounce-back-8532413/",
-      "source": "India.com",
-      "source_domain": "india.com",
-      "publisher_id": "india-com",
-      "published_at": "2026-10-03T09:33:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "jewellery",
-        "india"
-      ],
-      "category": "festive",
-      "metals": [
-        "gold"
-      ]
-    }
+ "schema": "orob-news.v1",
+ "edition_id": "2026-10-05T03:00Z",
+ "generated_at": "2026-10-05T03:02:06Z",
+ "window": {
+  "from": "2026-10-05T02:00:00Z",
+  "to": "2026-10-05T03:00:00Z"
+ },
+ "insights": {
+  "headline": "Soft US jobs data cuts October Fed hike odds to 22%, lifting gold; RBI tightening expectations persist",
+  "summary": "Spot gold edged up to $4,158 an ounce on Monday after weaker-than-expected US September jobs data sharply lowered the odds of an October Fed rate hike, with traders now pricing a 22% chance versus 64% a week ago; silver gained 1.7% to $61.40. In India, markets continue to bet on an RBI rate hike as inflation pressures build, while the Oct 7 GST Council meet may withdraw the 3% IGST exemption for bank bullion imports. Festive buying interest is building ahead of Navratri and Dhanteras even as gold hovers near ₹1.5 lakh per 10 grams.",
+  "points": [
+   "October Fed hike odds fell to 22% from 64% after soft US jobs data; spot gold $4,158, silver $61.40.",
+   "Markets price an RBI repo hike to 5.50% in the October policy as inflation pressure builds.",
+   "GST Council on Oct 7 may withdraw the 3% IGST exemption for banks and nominated agencies importing bullion.",
+   "Gold and silver lost lustre in September on dollar and yield pressure; analysts see a choppy week ahead.",
+   "Festive demand builds toward Navratri and Dhanteras with gold near ₹1.5 lakh per 10 grams."
   ]
+ },
+ "trending": [
+  {
+   "title": "Fed hike bets unwind on soft jobs data",
+   "summary": "Markets slashed October Fed hike odds from 64% to 22% after weak September payrolls, giving gold and silver room to recover — though December tightening remains priced in.",
+   "item_ids": [
+    "f8bd4c15d6fa4730",
+    "987ebe8cd387175a"
+   ]
+  },
+  {
+   "title": "RBI tightening is now the base case",
+   "summary": "With inflation pressure building, markets expect an RBI hike in October — a backdrop that raises the opportunity cost of holding gold and silver.",
+   "item_ids": [
+    "371ef8c6989d9443",
+    "7af2b509837ce33d"
+   ]
+  },
+  {
+   "title": "Dhanteras demand meets record prices",
+   "summary": "Gold near ₹1.5 lakh per 10 grams and silver up ~60% in a year make this the costliest festive season on record, pushing buyers toward lighter jewellery and old-gold exchanges.",
+   "item_ids": [
+    "9eae140cd6da4208",
+    "ff2e5d127a5d4ffc"
+   ]
+  },
+  {
+   "title": "September's correction lingers",
+   "summary": "Gold and silver ended September weaker on dollar and yield pressure; analysts expect choppy trade as Fed, RBI and Iran-war risks stay in flux.",
+   "item_ids": [
+    "64256dd0c79557c9",
+    "ea74b205078d5d58"
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "f8bd4c15d6fa4730",
+   "rank": 1,
+   "title": "Gold gains as October Fed rate hike prospects fade",
+   "summary": "Spot gold edged up to $4,158 an ounce on Monday after weaker-than-expected US September jobs data cut the market-implied odds of an October Fed rate hike to 22% from 64% a week earlier, per CME FedWatch. Silver gained 1.7% to $61.40. Analysts note December tightening is still largely priced in, capping gains.",
+   "url": "https://www.reuters.com/world/india/gold-gains-october-fed-rate-hike-prospects-fade-2026-10-05/",
+   "source": "Reuters",
+   "source_domain": "reuters.com",
+   "publisher_id": "reuters",
+   "published_at": "2026-10-05T02:00:00Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "gold",
+    "silver",
+    "fed",
+    "global"
+   ],
+   "category": "global",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "related_urls": [
+    "https://www.livemint.com/market/gold-gains-as-october-fed-rate-hike-prospects-fade-11791166334138.html",
+    "https://economictimes.indiatimes.com/markets/commodities/news/gold-inches-up-as-october-fed-rate-hike-prospects-fade/articleshow/134683767.cms"
+   ]
+  },
+  {
+   "id": "371ef8c6989d9443",
+   "title": "Markets bet on RBI rate hike as inflation pressure builds",
+   "summary": "Investors have loaded up on bets that the RBI will raise rates at its Oct 5-7 MPC meeting, with swap markets fully pricing an increase; 35 of 61 economists polled by Reuters expect a 25bp rise to 5.50% - the first hike in nearly four years. BofA expects a 100bp cycle while Nomura and Barclays see 25-50bp. The rupee sits about 1% off record lows, and traders warn a hold could draw pushback.",
+   "url": "https://www.reuters.com/world/india/markets-bet-rbi-rate-hike-inflation-pressure-builds-2026-10-05/",
+   "source": "Reuters",
+   "source_domain": "reuters.com",
+   "publisher_id": "reuters",
+   "published_at": "2026-10-04T23:00:00Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "gold",
+    "silver",
+    "rbi",
+    "rupee",
+    "india"
+   ],
+   "category": "policy",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "related_urls": [
+    "https://economictimes.indiatimes.com/markets/stocks/news/rbi-likely-to-hike-repo-rate-by-25-bps-to-5-50-in-october-policy-et-poll/articleshow/134683262.cms"
+   ],
+   "rank": 2
+  },
+  {
+   "id": "7af2b509837ce33d",
+   "rank": 3,
+   "title": "GST exemption for banks, nominated agencies for gold, silver imports may be withdrawn",
+   "summary": "The GST Council is likely to consider withdrawing the 3% IGST exemption on gold, silver and platinum imports by banks and nominated agencies at its Oct 7 meeting, sources said. The relief dates to 2017, when bullion trade was tightly canalised; scrapping it would put banks, nominated agencies and bullion exchanges on the same tax footing, after import duty was hiked to 15% in May.",
+   "url": "https://www.thehindubusinessline.com/economy/gst-exemption-for-banks-nominated-agencies-for-gold-silver-imports-may-be-withdrawn/article71544539.ece",
+   "source": "The Hindu BusinessLine",
+   "source_domain": "thehindubusinessline.com",
+   "publisher_id": "hindu-businessline",
+   "published_at": "2026-10-04T18:01:32Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/7af2b509837ce33d.jpg",
+   "image_kind": "photo",
+   "category": "policy",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "tags": [
+    "gold",
+    "silver",
+    "import-duty",
+    "india"
+   ],
+   "related_urls": [
+    "https://money.rediff.com/news/market/gst-exemption-withdrawal-for-gold-silver-imports-by-banks/55576820261004"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "64256dd0c79557c9",
+   "title": "Gold, silver lose lustre in September",
+   "summary": "Both precious metals posted negative September returns as a stronger dollar and US rate-hike expectations dented sentiment: Comex gold fell 6.8% to $4,189.1 an ounce and Comex silver 9.6% to $60.75. On MCX, gold dropped 4.1% to Rs 1,49,092 per 10 grams and silver 6.8% to Rs 2,23,740 per kg - the rupee's weakness against the dollar softening the domestic fall.",
+   "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/gold-silver-lose-lustre-in-september/article71543488.ece",
+   "source": "The Hindu BusinessLine",
+   "source_domain": "thehindubusinessline.com",
+   "publisher_id": "hindu-businessline",
+   "published_at": "2026-10-05T01:21:00Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/64256dd0c79557c9.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "silver",
+    "mcx",
+    "india"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "rank": 4
+  },
+  {
+   "id": "ea74b205078d5d58",
+   "rank": 5,
+   "title": "Bullion faces choppy week as dollar, US-Iran risks test sentiment: Analysts",
+   "summary": "Analysts expect gold and silver to stay turbulent next week as a strong dollar and high Treasury yields clash with unresolved US-Iran tensions; the RBI's rate decision on Wednesday is the other key cue. Last week MCX gold fell about 2% to ₹1.5 lakh per 10 grams and silver about 4% to ₹2.25 lakh per kg; Comex gold dropped 3.7% to $4,162.3 an ounce.",
+   "url": "https://www.business-standard.com/markets/commodities/bullion-faces-choppy-week-as-dollar-us-iran-risks-test-sentiment-analysts-126100400484_1.html",
+   "source": "Business Standard",
+   "source_domain": "business-standard.com",
+   "publisher_id": "business-standard",
+   "published_at": "2026-10-04T14:43:00Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/ea74b205078d5d58.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "silver",
+    "mcx",
+    "india"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "related_urls": [
+    "https://timesofindia.indiatimes.com/business/india-business/gold-silver-outlook-dollar-us-iran-tensions-rbi-policy-among-key-factors-to-drive-prices-this-week/articleshow/134677199.cms"
+   ]
+  },
+  {
+   "id": "987ebe8cd387175a",
+   "rank": 6,
+   "title": "Silver Price Forecast: Strong Dollar and High Yields Put $50 in Focus",
+   "summary": "Silver lost more than 6% last week and stays under pressure, with high US Treasury yields and a strong dollar capping any recovery, according to FXEmpire's analysis. The piece argues silver needs lower real yields and a weaker dollar to sustain a rebound; a break below the $60 support would put the $50-$55 zone in focus, while a move back above $62.60 could open the way to $67.",
+   "url": "https://www.fxempire.com/forecasts/article/premium-silver-price-forecast-strong-dollar-and-high-yields-put-50-in-focus-1635029",
+   "source": "FXEmpire",
+   "source_domain": "fxempire.com",
+   "publisher_id": "fxempire",
+   "published_at": "2026-10-04T19:30:15Z",
+   "image_url": null,
+   "image_kind": "none",
+   "category": "global",
+   "metals": [
+    "silver"
+   ],
+   "tags": [
+    "silver",
+    "global",
+    "fed"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "0a43b95df8f508e5",
+   "title": "Asian gold producers begin hoarding domestic supplies after price rises",
+   "summary": "Asian governments are moving to keep more of the gold boom's value at home, Nikkei Asia reports: countries are refining more of their own mines' output domestically, discouraging exports through taxes, or buying through central banks. The push, described as resource nationalism, reflects eroding confidence in the US dollar as the reserve currency and sanctions worries.",
+   "url": "https://asia.nikkei.com/business/markets/trading-asia/asian-gold-producers-begin-hoarding-domestic-supplies-after-price-rises",
+   "source": "Nikkei Asia",
+   "source_domain": "asia.nikkei.com",
+   "publisher_id": "nikkei-asia",
+   "published_at": "2026-10-04T21:00:00Z",
+   "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F6%2F5%2F1%2F13271560-2-eng-GB%2F83b46aadb0b8-photo_SXM2026092400004827.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
+   "image_kind": "photo",
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "tags": [
+    "gold",
+    "global",
+    "central-banks"
+   ],
+   "rank": 7
+  },
+  {
+   "id": "1b463cff6f245a64",
+   "title": "Predicted to hit Rs 2 lakh, will gold prices fall to Rs 1.25 lakh per 10 grams?",
+   "summary": "International gold is down about 26% from its $5,595 record on January 29, with Indian prices down around 23%; MCX gold slid from about Rs 1,64,773 per 10 grams in late August to about Rs 1,45,991 last week. Praveen Singh of Mirae Asset Sharekhan tells TOI spot support lies in the $3,930-4,000 zone (about Rs 1,34,000); a fall to Rs 1.25 lakh is likely only on a further US yield spike.",
+   "url": "https://timesofindia.indiatimes.com/business/india-business/predicted-to-hit-rs-2-lakh-will-gold-prices-fall-to-rs-1-25-lakh-per-10-grams/articleshow/134673956.cms",
+   "source": "Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "publisher_id": "times-of-india",
+   "published_at": "2026-10-04T13:41:00Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/1b463cff6f245a64.jpg",
+   "image_kind": "photo",
+   "category": "mcx",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "tags": [
+    "gold",
+    "mcx",
+    "india"
+   ],
+   "rank": 8
+  },
+  {
+   "id": "9eae140cd6da4208",
+   "rank": 9,
+   "title": "Gold Nears ₹1.5 Lakh per 10 Grams as India Heads into Its First 15% Duty Dhanteras",
+   "summary": "At ~₹1.49 lakh per 10 grams this is the most expensive Dhanteras on record, and the first under the 15% import duty. The premium decomposes neatly: $4,140/oz at a rupee near 96.3 gives ~₹1.28 lakh landed parity, and 15% duty plus 3% GST add most of the rest. WGC Q2 data: jewellery volumes fell 15.4% while bars and coins rose 8.9%; loans against gold jewellery surged 83% to ₹5.6 lakh crore.",
+   "url": "https://financialnewsindia.com/news/gold-nears-%e2%82%b91-5-lakh-per-10-grams-as-india-heads-into-its-first-15-duty-dhanteras/",
+   "source": "Financial News India",
+   "source_domain": "financialnewsindia.com",
+   "publisher_id": "financial-news-india",
+   "published_at": "2026-10-04T01:00:00Z",
+   "image_url": "https://financialnewsindia.com/news/wp-content/uploads/2026/10/o-3.jpeg",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "india",
+    "jewellery",
+    "import-duty"
+   ],
+   "category": "festive",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "0e17fac068bc54be",
+   "rank": 10,
+   "title": "Tanvi Exports files for IPO: 5 key highlights from gold jewellery maker's DRHP",
+   "summary": "Tanvi Exports, a gold jewellery manufacturer, has filed its draft red herring prospectus with SEBI ahead of an initial public offering, Mint reports, flagging five key highlights from the filing. The planned listing adds to a busy pipeline of jewellery-company IPOs as high gold prices and festive demand keep the sector in focus.",
+   "url": "https://www.livemint.com/market/tanvi-exports-files-for-ipo-5-key-highlights-from-gold-jewellery-maker-s-drhp-11791050208188.html",
+   "source": "Mint",
+   "source_domain": "livemint.com",
+   "publisher_id": "mint",
+   "published_at": "2026-10-03T18:28:47Z",
+   "image_url": "https://www.livemint.com/lm-img/img/2026/10/03/1600x900/logo/goldjewellery_1791052014901_bHmn_1791052065695_fD6W_aa3bd6a1-f1cb-4ed5-9a6d-43b57c01344d_zY5e.jpg",
+   "image_kind": "photo",
+   "category": "mcx",
+   "metals": [
+    "gold"
+   ],
+   "tags": [
+    "gold",
+    "mcx",
+    "india",
+    "jewellery"
+   ],
+   "breaking": false
+  },
+  {
+   "breaking": false,
+   "id": "446cd3d55b648e48",
+   "rank": 11,
+   "title": "Investors poured $18B into gold funds in 1 month, even with gold 23% off its record",
+   "summary": "Gold funds absorbed about $18 billion of inflows in a single month even as bullion trades roughly 23% below its January record near $5,590 an ounce, Yahoo Finance reports — a sign investors are using the pullback to add exposure rather than walking away from the metal.",
+   "url": "https://finance.yahoo.com/markets/commodities/articles/investors-poured-18b-gold-funds-101500688.html",
+   "source": "Yahoo Finance",
+   "source_domain": "finance.yahoo.com",
+   "publisher_id": "yahoo-finance",
+   "published_at": "2026-10-03T10:15:00Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "gold",
+    "global"
+   ],
+   "category": "global",
+   "metals": [
+    "gold"
+   ]
+  },
+  {
+   "id": "8603749672dcd6fb",
+   "rank": 12,
+   "title": "Cyber manipulation in commodity market: Silver option price jumped from ₹174 to ₹2,300 in 5 minutes",
+   "summary": "Cybercriminals breached a Noida risk-management firm's servers on June 17, hijacking its systems to fire 1,238 unauthorized orders across seven MCX client accounts. Thinly traded silver options were targeted, one contract jumping from ₹174 to ₹2,300 in five minutes for an estimated ₹11 crore gain; police arrested one accused in September.",
+   "url": "https://the420.in/noida-mcx-cyber-manipulation-silver-option/",
+   "source": "The420.in",
+   "source_domain": "the420.in",
+   "publisher_id": "the420",
+   "published_at": "2026-10-03T08:00:31Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/8603749672dcd6fb.jpg",
+   "image_kind": "photo",
+   "category": "mcx",
+   "metals": [
+    "silver"
+   ],
+   "tags": [
+    "silver",
+    "mcx",
+    "india"
+   ],
+   "breaking": false
+  },
+  {
+   "breaking": false,
+   "id": "a62eced4a03d409f",
+   "rank": 13,
+   "title": "The Popular Jeweler That Got Caught in a Whirlwind When Gold Went Haywire",
+   "summary": "Canadian jeweller Mejuri has been squeezed as gold ran from $3,000 past $5,000 an ounce, pushing it toward 10-karat gold, vermeil, silver and even stainless steel while slowing store expansion — a vivid example of how record bullion prices are reshaping jewellery retail worldwide.",
+   "url": "https://www.wsj.com/business/mejuri-jewelry-gold-prices-d91a718b",
+   "source": "Wall Street Journal",
+   "source_domain": "wsj.com",
+   "publisher_id": "wsj",
+   "published_at": "2026-10-04T00:00:00Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "gold",
+    "jewellery",
+    "global"
+   ],
+   "category": "global",
+   "metals": [
+    "gold"
+   ]
+  },
+  {
+   "breaking": false,
+   "id": "ff2e5d127a5d4ffc",
+   "rank": 14,
+   "title": "Gold buying warning: Don’t buy yellow metal, further fall expected before Dhanteras, Diwali - Will festive demand trigger a bounce back?",
+   "summary": "Analysts quoted by India.com expect gold to fall further in the coming weeks before Dhanteras and Diwali, citing continued pressure on the metal; HSBC has cut its average gold price estimates for 2026. The piece asks whether festive demand will then trigger a rebound.",
+   "url": "https://www.india.com/business/gold-buying-warning-dont-buy-yellow-metal-further-fall-expected-before-dhanteras-diwali-will-festive-demand-trigger-a-bounce-back-8532413/",
+   "source": "India.com",
+   "source_domain": "india.com",
+   "publisher_id": "india-com",
+   "published_at": "2026-10-03T09:33:00Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "gold",
+    "jewellery",
+    "india"
+   ],
+   "category": "festive",
+   "metals": [
+    "gold"
+   ]
+  }
+ ]
 }
