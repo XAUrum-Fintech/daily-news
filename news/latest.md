@@ -1,4 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-10-05T03:00Z
+# Gold & Silver for Indian buyers · 2026-10-05T04:00Z
 
 > Soft US jobs data cuts October Fed hike odds to 22%, lifting gold; RBI tightening expectations persist
 
@@ -13,7 +13,7 @@ Spot gold edged up to $4,158 an ounce on Monday after weaker-than-expected US Se
 ## Trending
 - **Fed hike bets unwind on soft jobs data**: Markets slashed October Fed hike odds from 64% to 22% after weak September payrolls, giving gold and silver room to recover — though December tightening remains priced in. (stories 1, 6)
 - **RBI tightening is now the base case**: With inflation pressure building, markets expect an RBI hike in October — a backdrop that raises the opportunity cost of holding gold and silver. (stories 2, 3)
-- **Dhanteras demand meets record prices**: Gold near ₹1.5 lakh per 10 grams and silver up ~60% in a year make this the costliest festive season on record, pushing buyers toward lighter jewellery and old-gold exchanges. (stories 9, 14)
+- **Dhanteras demand meets record prices**: Gold near ₹1.5 lakh per 10 grams and silver up ~60% in a year make this the costliest festive season on record, pushing buyers toward lighter jewellery and old-gold exchanges. (stories 9)
 - **September's correction lingers**: Gold and silver ended September weaker on dollar and yield pressure; analysts expect choppy trade as Fed, RBI and Iran-war risks stay in flux. (stories 4, 5)
 
 ## Stories
@@ -43,5 +43,3 @@ Spot gold edged up to $4,158 an ounce on Monday after weaker-than-expected US Se
    Cybercriminals breached a Noida risk-management firm's servers on June 17, hijacking its systems to fire 1,238 unauthorized orders across seven MCX client accounts. Thinly traded silver options were targeted, one contract jumping from ₹174 to ₹2,300 in five minutes for an estimated ₹11 crore gain; police arrested one accused in September.
 13. [The Popular Jeweler That Got Caught in a Whirlwind When Gold Went Haywire](https://www.wsj.com/business/mejuri-jewelry-gold-prices-d91a718b) — *Wall Street Journal*, 2026-10-04T00:00:00Z
    Canadian jeweller Mejuri has been squeezed as gold ran from $3,000 past $5,000 an ounce, pushing it toward 10-karat gold, vermeil, silver and even stainless steel while slowing store expansion — a vivid example of how record bullion prices are reshaping jewellery retail worldwide.
-14. [Gold buying warning: Don’t buy yellow metal, further fall expected before Dhanteras, Diwali - Will festive demand trigger a bounce back?](https://www.india.com/business/gold-buying-warning-dont-buy-yellow-metal-further-fall-expected-before-dhanteras-diwali-will-festive-demand-trigger-a-bounce-back-8532413/) — *India.com*, 2026-10-03T09:33:00Z
-   Analysts quoted by India.com expect gold to fall further in the coming weeks before Dhanteras and Diwali, citing continued pressure on the metal; HSBC has cut its average gold price estimates for 2026. The piece asks whether festive demand will then trigger a rebound.
