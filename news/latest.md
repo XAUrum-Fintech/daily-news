@@ -1,4 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-10-04T22:00Z
+# Gold & Silver for Indian buyers · 2026-10-05T00:00Z
 
 > GST Council may end 3% IGST exemption on bank bullion imports; Asian producers hoard gold output
 
@@ -41,5 +41,3 @@ A proposal to withdraw the 3% IGST exemption on bullion imports by banks and nom
    Analysts quoted by India.com expect gold to fall further in the coming weeks before Dhanteras and Diwali, citing continued pressure on the metal; HSBC has cut its average gold price estimates for 2026. The piece asks whether festive demand will then trigger a rebound.
 12. [Cyber manipulation in commodity market: Silver option price jumped from ₹174 to ₹2,300 in 5 minutes](https://the420.in/noida-mcx-cyber-manipulation-silver-option/) — *The420.in*, 2026-10-03T08:00:31Z
    Cybercriminals breached a Noida risk-management firm's servers on June 17, hijacking its systems to fire 1,238 unauthorized orders across seven MCX client accounts. Thinly traded silver options were targeted, one contract jumping from ₹174 to ₹2,300 in five minutes for an estimated ₹11 crore gain; police arrested one accused in September.
-13. [Bullion Cues: Support fails](https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-support-fails/article71540115.ece) — *The Hindu BusinessLine*, 2026-10-03T00:00:00Z
-   MCX gold December futures closed the week at ₹1,50,390, down 1.9%, while silver futures fell 3.8% to ₹2,25,877 per kg, both losing key supports. The Hindu BusinessLine’s technical column sees a bearish bias below ₹1,52,000 for gold with support at ₹1,44,000, and silver weak below ₹2,30,000 with its base at ₹2,19,000.
