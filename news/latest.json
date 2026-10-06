@@ -1,19 +1,26 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-06T16:00Z",
-  "generated_at": "2026-10-06T16:38:26Z",
+  "edition_id": "2026-10-06T18:00Z",
+  "generated_at": "2026-10-06T18:20:56Z",
   "window": {
-    "from": "2026-10-06T14:00:00Z",
-    "to": "2026-10-06T16:00:00Z"
+    "from": "2026-10-06T16:00:00Z",
+    "to": "2026-10-06T18:00:00Z"
   },
   "insights": {
-    "headline": "Gold down 26% from January's record ahead of Diwali; MCX bullion steadies as Fed-hike bets ease",
-    "summary": "Gold is down more than 26% from January's $5,595 record to around $4,100 — a reset arriving just as India's festival season ramps up. Titan's 21% jewellery growth and early NRI buying in Dubai's sub-Dh500 gold market signal demand is waking up. Softer US jobs data eased Fed-hike bets and a pausing dollar lifted bullion off two-month lows on MCX, but elevated Treasury yields capped gains ahead of the Oct 27–28 FOMC meeting. Brokerages expect silver's five-year deficit to narrow into a 2027 surplus, keeping prices consolidating."
+    "headline": "Gold steadies near $4,100 as yields ease; MCX firms ahead of the RBI decision",
+    "summary": "Gold steadied around $4,100-4,200 an ounce — 26% below January's $5,595 record — as soft US payrolls cut October Fed-hike bets, though December hike risk and elevated yields capped gains. YieldMax's Michael Khouw told Kitco the 10-year yield near 5.32% competes with gold, but fiat erosion keeps the long-term case intact. On MCX, bullion edged higher while the rupee slid to a two-month low near 96.42 ahead of Wednesday's RBI decision, where most economists expect a 25bp hike.",
+    "points": [
+      "Gold is 26% below January's $5,595 record; Kotak, Choice and Tata MF analysts say the Diwali season offers a possible entry window.",
+      "Spot gold and silver rose as Treasury yields eased, but December Fed-hike risk remains, Kitco's AM report notes.",
+      "YieldMax's Michael Khouw: 10-year yields near 5.32% compete with gold, yet fiat-currency erosion keeps its long-term case intact.",
+      "MCX: gold near Rs.1.49 lakh/10g and silver near Rs.2.26 lakh/kg edged higher as weak US payrolls eased October Fed-hike bets.",
+      "Rupee closed at 96.42, a two-month low; about 60% of economists polled by Reuters expect a 25bp RBI hike on Wednesday."
+    ]
   },
   "trending": [
     {
-      "title": "Diwali window opens on the dip",
-      "summary": "Gold's 26% slide from January highs coincides with peak festive buying; Titan's 21% jewellery growth and early NRI buying in Dubai point to a demand revival.",
+      "title": "A 26% discount meets Diwali",
+      "summary": "Gold's slide from January's record lands right at peak festive buying. Titan's 21% jewellery growth and early NRI buying in Dubai suggest demand is stirring even at these prices.",
       "item_ids": [
         "ee026638b52a2d2f",
         "0759ffcd55c89908",
@@ -21,30 +28,27 @@
       ]
     },
     {
-      "title": "Fed repricing steadies MCX bullion",
-      "summary": "Weak US jobs data pushed October hike bets off the table, lifting MCX gold toward ₹1.49 lakh and silver toward ₹2.26 lakh/kg; FOMC minutes and the Oct 27–28 meeting set the next test.",
+      "title": "Yields vs the debasement trade",
+      "summary": "Yields near 5.3% are gold's toughest rival in years, yet strategists argue fiat erosion keeps the structural bid alive even as December Fed-hike risk lingers.",
       "item_ids": [
-        "d31389fd38f9975b",
         "0014ba8c17194202",
-        "6fb77c1f47d459a7"
+        "9bd77674e2be3d57"
       ]
     },
     {
-      "title": "Silver supply turns: deficit to 2027 surplus",
-      "summary": "Brokerages see silver's deficit narrowing into surplus by 2027 — a structural turn arguing for price consolidation around current levels; technically silver is building a base above $60.",
+      "title": "The rupee is the local price-maker",
+      "summary": "At a two-month low of 96.42 to the dollar, the rupee cushions global dips for importers. Wednesday's RBI decision — most economists expect a 25bp hike — could steady the currency.",
+      "item_ids": [
+        "5bb1c776d99d67b0",
+        "d31389fd38f9975b"
+      ]
+    },
+    {
+      "title": "Silver's supply story flips",
+      "summary": "Brokerages see silver swinging from deficit to surplus by 2027 even as technicians eye $64 — the white metal is caught between glut fears and momentum.",
       "item_ids": [
         "57e9db811acdcb28",
-        "0014ba8c17194202",
         "56b288440af74af6"
-      ]
-    },
-    {
-      "title": "Yields remain the ceiling",
-      "summary": "Long-dated Treasury yields near multi-decade highs keep a lid on gold's recovery; MCX gold slipped ₹160/10g as rate pressure persisted.",
-      "item_ids": [
-        "0014ba8c17194202",
-        "6fb77c1f47d459a7",
-        "29268262e28b0747"
       ]
     }
   ],
@@ -74,32 +78,61 @@
       "related_urls": []
     },
     {
-      "id": "57e9db811acdcb28",
+      "id": "0014ba8c17194202",
       "rank": 2,
-      "title": "Silver may enter surplus by 2027 from supply deficit; brokerages see prices consolidating",
-      "summary": "Brokerages expect silver's long-running supply deficit to narrow through 2026 and the market to flip into surplus by 2027, which should keep prices consolidating rather than extending the rally; 12-month brokerage targets on MCX sit around ₹3.5–4 lakh per kg, CNBC-TV18 reports.",
-      "url": "https://www.cnbctv18.com/market/commodities/silver-price-outlook-2027-surplus-industrial-solar-demand-brokerage-targets-alpha-article-20005462.htm",
-      "source": "CNBC-TV18",
-      "source_domain": "cnbctv18.com",
-      "publisher_id": "cnbc-tv18",
-      "published_at": "2026-10-06T08:00:41Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/57e9db811acdcb28.jpg",
+      "title": "Gold, silver prices rise as yields ease but December Fed risk remains",
+      "summary": "Spot gold and silver rose in early US trading as long-dated Treasury yields eased; US data was mixed — September payrolls added just 29,000 while the ISM services PMI hit its highest since July 2022 — and Fed-funds pricing now leans toward no change at the December meeting.",
+      "url": "https://www.kitco.com/news/article/2026-10-06/gold-silver-prices-rise-yields-ease-december-fed-risk-remains-kitco-am",
+      "source": "Kitco",
+      "source_domain": "kitco.com",
+      "publisher_id": "kitco",
+      "published_at": "2026-10-06T09:38:00Z",
+      "image_url": "https://image-api.prod.kitco.com/image/8329ee1b-e903-4905-90ce-ccd6fe5d1c38.jpeg?top=0.16333938294011&left=0&width=1024&height=575.67332123412&scale_width=1920&token=3513496a268e71157f21dd883fe3c975a9cc282b0449adced236bdf7cfd2e35c",
       "image_kind": "photo",
       "tags": [
+        "gold",
         "silver",
         "global",
-        "mcx"
+        "fed"
       ],
       "category": "global",
       "metals": [
+        "gold",
         "silver"
       ],
       "breaking": false,
-      "related_urls": []
+      "related_urls": [
+        "https://www.fxstreet.com/news/gold-hits-two-month-low-as-bears-await-break-below-4-100-amid-sustained-usd-strength-202610060506"
+      ]
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-hits-two-month-low-on-outflows-investors-await-rbi-outcome-with-hike-priced-in/articleshow/134737972.cms",
+      "title": "Rupee hits two-month low on outflows, investors await RBI outcome with hike priced in",
+      "summary": "The rupee fell to a two-month low, closing at 96.42 to the dollar on equity outflows, as traders braced for Wednesday's RBI policy decision where about 60% of economists polled by Reuters expect a 25bp hike — a move that could steady the currency and trim local gold prices.",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-10-06T10:50:55Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/5bb1c776d99d67b0.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "rupee",
+        "rbi",
+        "india"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "related_urls": [],
+      "id": "5bb1c776d99d67b0",
+      "rank": 3
     },
     {
       "id": "d31389fd38f9975b",
-      "rank": 3,
+      "rank": 4,
       "title": "Gold, Silver Edge Higher On MCX As Fed Rate-Hike Bets Ease",
       "summary": "Bullion edged higher on MCX after softer US jobs data eased October Fed rate-hike bets; December gold futures traded around ₹1,49,212 per 10 grams and December silver near ₹2,26,322 per kg by mid-afternoon, though elevated Treasury yields capped gains ahead of the Oct 27-28 FOMC meeting.",
       "url": "https://www.businessworld.in/article/gold-silver-edge-higher-on-mcx-as-fed-rate-hike-bets-ease-627151",
@@ -124,8 +157,105 @@
       "related_urls": []
     },
     {
+      "url": "https://www.cnbctv18.com/market/commodities/gold-silver-edge-higher-on-mcx-key-levels-to-watch-20005825.htm",
+      "title": "Gold, silver edge higher on MCX: Key levels to watch",
+      "summary": "Gold and silver traded higher on MCX on Tuesday, extending the recovery from September's correction as soft US payrolls eased October Fed-hike bets; analysts flagged key support and resistance levels to watch ahead of the Oct 27-28 FOMC meeting.",
+      "source": "CNBC-TV18",
+      "source_domain": "cnbctv18.com",
+      "publisher_id": "cnbc-tv18",
+      "published_at": "2026-10-06T10:38:19Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/6d1a71d15b21fcd0.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "fed"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "related_urls": [],
+      "id": "6d1a71d15b21fcd0",
+      "rank": 5
+    },
+    {
+      "url": "https://www.kitco.com/news/article/2026-10-05/53-bond-yields-can-compete-gold-they-cant-stop-fiat-currency-erosion",
+      "title": "5.3% bond yields can compete with gold, but they can't stop fiat currency erosion - YieldMax's Khouw",
+      "summary": "YieldMax chief strategist Michael Khouw told Kitco that 10-year yields near 5.32% make cash and bonds real competition for gold, yet persistent inflation eroding fiat purchasing power keeps the metal's long-term diversification case intact.",
+      "source": "Kitco",
+      "source_domain": "kitco.com",
+      "publisher_id": "kitco",
+      "published_at": "2026-10-05T14:00:00Z",
+      "image_url": "https://image-api.prod.kitco.com/image/fa895cb6-47b8-4b52-83fe-5f5d7cd9e88d.jpeg?top=0.095618206521739&left=0&width=1000&height=562.80876358696&scale_width=1920&token=8d34051b3ce855fe7b85cf92edd646bfcfb5303097e2928d27da36e61ef9f738",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "related_urls": [],
+      "id": "9bd77674e2be3d57",
+      "rank": 6
+    },
+    {
+      "id": "57e9db811acdcb28",
+      "rank": 7,
+      "title": "Silver may enter surplus by 2027 from supply deficit; brokerages see prices consolidating",
+      "summary": "Brokerages expect silver's long-running supply deficit to narrow through 2026 and the market to flip into surplus by 2027, which should keep prices consolidating rather than extending the rally; 12-month brokerage targets on MCX sit around ₹3.5–4 lakh per kg, CNBC-TV18 reports.",
+      "url": "https://www.cnbctv18.com/market/commodities/silver-price-outlook-2027-surplus-industrial-solar-demand-brokerage-targets-alpha-article-20005462.htm",
+      "source": "CNBC-TV18",
+      "source_domain": "cnbctv18.com",
+      "publisher_id": "cnbc-tv18",
+      "published_at": "2026-10-06T08:00:41Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/57e9db811acdcb28.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "silver",
+        "global",
+        "mcx"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "related_urls": []
+    },
+    {
+      "id": "56b288440af74af6",
+      "rank": 8,
+      "title": "Silver Price Forecast: XAG/USD builds base above $60, eyes $64",
+      "summary": "Silver is building a base above $60, up over 1% to $61.13 after bouncing off $60.36 lows, FXStreet's technical desk notes; a break above $62 opens the way toward $64–65 resistance, while a drop below the Oct 2 low of $59.69 would turn the short-term bias bearish.",
+      "url": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-builds-base-above-60-eyes-64-202610051923",
+      "source": "FXStreet",
+      "source_domain": "fxstreet.com",
+      "publisher_id": "fxstreet",
+      "published_at": "2026-10-05T19:23:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/56b288440af74af6.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "silver",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "related_urls": []
+    },
+    {
       "id": "0759ffcd55c89908",
-      "rank": 4,
+      "rank": 9,
       "title": "Titan Q2FY27 update: Consumer businesses grow 25% YoY, jewellery up 21%",
       "summary": "Titan's consumer businesses grew 25% year-on-year in Q2FY27 excluding bullion, with jewellery up 21%, watches 30%, EyeCare 28% and international business 97%; the company added 78 net stores, a strong signal of jewellery demand heading into the festive season.",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/titan-q2fy27-update-consumer-businesses-grow-25-yoy-jewellery-up-21/articleshow/134742481.cms",
@@ -148,81 +278,8 @@
       "related_urls": []
     },
     {
-      "id": "0014ba8c17194202",
-      "rank": 5,
-      "title": "Gold, silver prices rise as yields ease but December Fed risk remains",
-      "summary": "Spot gold and silver rose in early US trading as long-dated Treasury yields eased; US data was mixed — September payrolls added just 29,000 while the ISM services PMI hit its highest since July 2022 — and Fed-funds pricing now leans toward no change at the December meeting.",
-      "url": "https://www.kitco.com/news/article/2026-10-06/gold-silver-prices-rise-yields-ease-december-fed-risk-remains-kitco-am",
-      "source": "Kitco",
-      "source_domain": "kitco.com",
-      "publisher_id": "kitco",
-      "published_at": "2026-10-06T09:38:00Z",
-      "image_url": "https://image-api.prod.kitco.com/image/8329ee1b-e903-4905-90ce-ccd6fe5d1c38.jpeg?top=0.16333938294011&left=0&width=1024&height=575.67332123412&scale_width=1920&token=3513496a268e71157f21dd883fe3c975a9cc282b0449adced236bdf7cfd2e35c",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "global",
-        "fed"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": []
-    },
-    {
-      "id": "6fb77c1f47d459a7",
-      "rank": 6,
-      "title": "Gold rebounds from two-month lows as US Dollar, Treasury yields retreat",
-      "summary": "Gold bounced off a two-month low near $4,100 as the dollar's rally paused, but elevated bond yields and geopolitical risk — including reports of Israel preparing a potential strike on Iran — kept a lid on gains ahead of Wednesday's FOMC minutes.",
-      "url": "https://www.fxstreet.com/news/gold-hits-two-month-low-as-bears-await-break-below-4-100-amid-sustained-usd-strength-202610060506",
-      "source": "FXStreet",
-      "source_domain": "fxstreet.com",
-      "publisher_id": "fxstreet",
-      "published_at": "2026-10-06T08:59:54Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/6fb77c1f47d459a7.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "global",
-        "fed"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "related_urls": []
-    },
-    {
-      "id": "56b288440af74af6",
-      "rank": 7,
-      "title": "Silver Price Forecast: XAG/USD builds base above $60, eyes $64",
-      "summary": "Silver is building a base above $60, up over 1% to $61.13 after bouncing off $60.36 lows, FXStreet's technical desk notes; a break above $62 opens the way toward $64–65 resistance, while a drop below the Oct 2 low of $59.69 would turn the short-term bias bearish.",
-      "url": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-builds-base-above-60-eyes-64-202610051923",
-      "source": "FXStreet",
-      "source_domain": "fxstreet.com",
-      "publisher_id": "fxstreet",
-      "published_at": "2026-10-05T19:23:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/56b288440af74af6.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "silver",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": []
-    },
-    {
       "id": "3e54627c9e9b0ddd",
-      "rank": 8,
+      "rank": 10,
       "title": "Dubai gold prices drop further ahead of Indian festivals Navratri, Diwali",
       "summary": "Dubai gold slipped further on Tuesday, with 24K at Dh496.75 a gram at the open — below Dh500 — prompting early festive buying by NRI families ahead of Navratri and Diwali; Pepperstone's Chris Weston says the short-term investment case for gold remains weak.",
       "url": "https://www.khaleejtimes.com/business/dubai-gold-prices-drop-further-ahead-of-indian-festivals-navratri-diwali",
@@ -238,53 +295,6 @@
         "jewellery"
       ],
       "category": "festive",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "related_urls": []
-    },
-    {
-      "id": "29268262e28b0747",
-      "rank": 9,
-      "title": "Gold price today, October 6, 2026: 24K rate slips ₹160 per 10 gm from Monday",
-      "summary": "Gold edged lower on Tuesday, with 24K (99.9% purity) at ₹14,902 a gram in most cities — down ₹16 a gram, or ₹160 per 10 grams, from Monday — a milder decline than Monday's ₹1,100-per-10-gram drop.",
-      "url": "https://hdfcsky.com/news/gold-rate-today-6-october-2026-check-gold-price-of-24k-22k-18k-in-mumbai-kolkata-delhi-other-indian-cities-as-24k-rate-slips-rs160-per-10-gm",
-      "source": "HDFCSky",
-      "source_domain": "hdfcsky.com",
-      "publisher_id": "hdfc-sky",
-      "published_at": "2026-10-06T05:58:00Z",
-      "image_url": "https://static.hdfcsky.com/wp-content/uploads/2026/10/gold_price_today-3-1.webp",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "mcx",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "related_urls": []
-    },
-    {
-      "id": "cdd962d4953b9ac4",
-      "rank": 10,
-      "title": "World Bank flags oil, El Niño and global market risks to growth",
-      "summary": "The World Bank warned that oil-price swings, El Niño disruptions and financial-market stress are the key risks to global growth — a combination that typically supports gold's safe-haven role even as it dents demand elsewhere.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/world-bank-flags-oil-el-nio-and-global-market-risks-to-growth/articleshow/134736490.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "publisher_id": "economic-times",
-      "published_at": "2026-10-06T10:15:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/cdd962d4953b9ac4.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "global"
-      ],
-      "category": "global",
       "metals": [
         "gold"
       ],
