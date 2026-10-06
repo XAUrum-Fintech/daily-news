@@ -1,46 +1,46 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-06T07:00Z",
-  "generated_at": "2026-10-06T07:03:23Z",
+  "edition_id": "2026-10-06T08:00Z",
+  "generated_at": "2026-10-06T08:01:36Z",
   "window": {
-    "from": "2026-10-06T06:00:00Z",
-    "to": "2026-10-06T07:00:00Z"
+    "from": "2026-10-06T07:00:00Z",
+    "to": "2026-10-06T08:00:00Z"
   },
   "insights": {
-    "headline": "Gold slips ₹1,500 in two days as firm dollar and 24-year-high US yields weigh",
-    "summary": "MCX gold and silver opened lower on Tuesday as a firm US dollar and 24-year-high Treasury yields weighed on the metals, though fading October Fed-hike expectations capped losses. Gold has fallen ₹1,500 per 10g in two days; MCX December futures at ₹1,49,901/10g, spot gold down 0.3% at $4,128.69, silver off 0.6% at $60.67. At home, the RBI's MPC meets Oct 5-7 with the decision due Wednesday; markets widely expect the first repo hike since Feb 2023, to 5.50%. The GST Council meets Oct 8 on taxing gold imports by nominated agencies, while jewellers expect strong festive-season buying.",
+    "headline": "Gold slips to near two-month lows as firm dollar and 24-year-high US yields weigh",
+    "summary": "Spot gold slipped 0.3% to $4,128.69 an ounce and MCX gold has fallen ₹1,500 per 10g in two days as a firm US dollar and 24-year-high Treasury yields weigh on the metals, though fading October Fed-hike expectations capped losses. Silver fell 0.6% to $60.67. At home, the RBI's MPC meets Oct 5-7 with the decision due Wednesday; markets widely expect the first repo hike since Feb 2023, to 5.50%. The GST Council meets Oct 8 on taxing gold imports by nominated agencies, while jewellers expect strong festive-season buying.",
     "points": [
-      "MCX December gold slipped ₹415 to ₹1,49,901/10g; two-day fall of ₹1,500; silver futures up ₹1,000 to ₹2,25,127/kg.",
-      "RBI MPC meets Oct 5-7, decision Wednesday; markets widely expect first repo hike since Feb 2023, to 5.50%.",
+      "Spot gold -0.3% to $4,128.69/oz; MCX December gold slipped ₹415 to ₹1,49,901/10g, down ₹1,500 in two days.",
       "US 10- and 30-year Treasury yields hit 24-year highs on Monday; traders price an 87% chance of a Fed hike in December.",
+      "RBI MPC meets Oct 5-7, decision Wednesday; markets widely expect first repo hike since Feb 2023, to 5.50%.",
       "GST Council to decide October 8 on taxing gold imports by nominated agencies like MMTC.",
       "Jewellers expect strong festive buying despite record prices; lighter, lower-carat pieces in demand."
     ]
   },
   "trending": [
     {
-      "title": "Yields and dollar drag bullion lower",
-      "summary": "Gold's two-day ₹1,500 slide and silver's drop to $60.67 show a firm dollar and 24-year-high Treasury yields calling the shots, with Brent near $100 adding pressure.",
+      "title": "Dollar and yields drag bullion to two-month lows",
+      "summary": "Spot gold slipped to $4,128.69 near two-month lows and MCX gold is down ₹1,500 in two days as a firm dollar and 24-year-high Treasury yields call the shots.",
       "item_ids": [
+        "41e91984e773ff4e",
         "b216ef175ed4bbea",
-        "529a0e536326122d",
         "8691eb466ca0454e"
       ]
     },
     {
       "title": "RBI decision day is Wednesday",
-      "summary": "The MPC meets Oct 5-7 and markets widely expect the first repo hike since Feb 2023, to 5.50% - a rates move that typically headwinds gold, while a stronger rupee could trim domestic premiums.",
+      "summary": "The MPC meets Oct 5-7 and markets widely expect the first repo hike since Feb 2023, to 5.50% - a rates move that typically headwinds gold.",
       "item_ids": [
-        "1e4bf52d91e037b3",
-        "b216ef175ed4bbea"
+        "b216ef175ed4bbea",
+        "1e4bf52d91e037b3"
       ]
     },
     {
       "title": "Silver's supply story flips",
       "summary": "Deutsche Bank sees silver flipping from shortage to surplus in 2027, with spot averaging $70 in Q2 2027; technicians eye $59.69 as the key support level.",
       "item_ids": [
-        "b57c5b14ea14b897",
-        "b0ca1eb8733a7050"
+        "b0ca1eb8733a7050",
+        "b57c5b14ea14b897"
       ]
     },
     {
@@ -60,6 +60,34 @@
     }
   ],
   "items": [
+    {
+      "id": "41e91984e773ff4e",
+      "title": "Gold inches lower as firmer dollar, higher yields weigh",
+      "summary": "Gold eased on Tuesday as a firm US dollar and Treasury yields at 24-year highs weighed on the metal. Spot gold slipped 0.3% to $4,128.69 an ounce and US gold futures were flat at $4,156.00, with losses limited as expectations of an October Fed hike faded after weak September jobs data. Traders still price an 87% chance of a hike in December. Spot silver fell 0.6% to $60.67.",
+      "url": "https://www.reuters.com/world/india/gold-inches-lower-firmer-dollar-higher-yields-weigh-2026-10-06/",
+      "source": "Reuters",
+      "source_domain": "reuters.com",
+      "publisher_id": "reuters",
+      "published_at": "2026-10-06T01:55:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "silver",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://trendkia.com/en/money/gold-and-silver-drop-near-two-month-lows-as-dollar-surges-and-treasury-yields-climb-43644"
+      ],
+      "rank": 1
+    },
     {
       "id": "b216ef175ed4bbea",
       "title": "Gold dips ₹1,500/10g in 2 days; silver off on strong dollar, 24-year-high yields",
@@ -88,7 +116,7 @@
         "https://www.reuters.com/world/india/gold-inches-lower-firmer-dollar-higher-yields-weigh-2026-10-06/",
         "https://www.reuters.com/world/india/gold-gains-october-fed-rate-hike-prospects-fade-2026-10-05/"
       ],
-      "rank": 1
+      "rank": 2
     },
     {
       "id": "1e4bf52d91e037b3",
@@ -122,10 +150,10 @@
       "related_urls": [
         "https://www.capitalchronicle.news/story/rbi-mpc-october-2026-meeting-begins-repo-525-october-5"
       ],
-      "rank": 2
+      "rank": 3
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "LBMA 2026: Gold is sending a message as debt fears fuel the debasement trade",
       "summary": "Market experts at the LBMA's annual Global Precious Metals Conference said gold's resilience despite soaring bond yields is itself a message: investors are pricing in unsustainable government debt and the erosion of fiat currencies.",
       "points": [
@@ -154,7 +182,7 @@
     },
     {
       "id": "984606776502ffc1",
-      "rank": 4,
+      "rank": 5,
       "title": "Gold, silver outlook: Key support, resistance levels; triggers to watch",
       "summary": "Anuj Gupta, research analyst, says gold and silver are consolidating in a range after last week's profit booking. He puts MCX gold supports at ₹1,48,500/₹1,47,700 and resistance at ₹1,50,000/₹1,50,800; MCX silver supports at ₹2,22,000/₹2,18,000 per kg, resistance ₹2,28,000/₹2,32,000. Key triggers: Fed minutes and the Oct 27-28 FOMC meeting, the dollar index, and bond yields.",
       "url": "https://www.businesstoday.in/markets/stocks/story/gold-silver-outlook-key-support-resistance-levels-triggers-to-watch-559750-2026-10-06",
@@ -179,7 +207,7 @@
       "breaking": false
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Silver (XAG/USD) Price Forecast: $59.69 Support Holds Key to Recovery",
       "summary": "Spot silver is at a decision point around $59.69, analyst Bruce Powers wrote: a sustained break below turns the near-term outlook bearish, while a rally above last week's $64.11 high would signal buyers regaining control. A bearish 20/50-day moving-average crossover points to weakening momentum.",
       "points": null,
@@ -202,7 +230,7 @@
       "id": "b0ca1eb8733a7050"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Gold price suffers under oil, yield pressures, Mexico's silver production weakens in July – Heraeus",
       "summary": "Gold broke through $4,250/oz support last week as multi-decade-high bond yields, a stronger dollar and Brent near $100 overwhelmed buying interest, Heraeus analysts wrote, leaving the year-to-date lows near $4,000 as next support. They also flagged weak July silver output in Mexico, the world's largest producer.",
       "points": [
@@ -231,7 +259,7 @@
       "id": "529a0e536326122d"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Gold imports by nominated agencies may come under GST as Council weighs tax parity",
       "summary": "The GST Council will meet on October 8 to consider bringing gold imports by nominated agencies such as MMTC and STC under GST, aligning their tax treatment with imports routed through banks. Currently only banks pay 3% GST on gold imports.",
       "points": null,
@@ -279,10 +307,10 @@
       "related_urls": [
         "https://www.northernminer.com/news/silver-shortage-could-flip-to-surplus-in-2027-deutsche/1003895445/"
       ],
-      "rank": 8
+      "rank": 9
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Festive season outlook: Jewellers expect strong buying despite changing consumer patterns",
       "summary": "CNBC-TV18 reports jewellers expect strong festive and wedding-season buying even as high gold prices change how consumers buy: lighter, lower-carat, versatile pieces within defined budgets, traction for old-gold exchange, and more room for diamonds. CRISIL sees 20-25% revenue growth for organised retailers this fiscal.",
       "points": null,
@@ -327,10 +355,10 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 11
     },
     {
-      "rank": 11,
+      "rank": 12,
       "title": "Gold falls nearly 1%, silver gains on MCX: What is driving bullion prices",
       "summary": "MCX gold futures slipped about 1% — Rs 1,020 per 10g — to Rs 1.49 lakh as the US dollar climbed to an 18-month high of 102.37 and Treasury yields stayed elevated, while silver rose 0.54% (Rs 1,223/kg) to Rs 2.27 lakh per kg; international spot gold held steady near $4,163.50 an ounce.",
       "points": null,
@@ -355,7 +383,7 @@
       "id": "8691eb466ca0454e"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "title": "Titan, Kalyan Jewellers, PC Jeweller shares shine - Why jewellery stocks are glittering? Expert decodes rally",
       "summary": "Shares of Indian jewellery retailers rallied on Monday on hopes of strong festive-season sales. Kalyan Jewellers led with a 4.5% gain while Titan and PC Jeweller rose about 1.5%. Bonanza analyst Abhinav Tiwari said the market is positioning ahead of Dhanteras and Diwali.",
       "points": null,
