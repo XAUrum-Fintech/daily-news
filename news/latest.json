@@ -1,20 +1,20 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-07T10:00Z",
-  "generated_at": "2026-10-07T10:18:42Z",
+  "edition_id": "2026-10-07T11:00Z",
+  "generated_at": "2026-10-07T11:01:29Z",
   "window": {
-    "from": "2026-10-07T09:00:00Z",
-    "to": "2026-10-07T10:00:00Z"
+    "from": "2026-10-07T10:00:00Z",
+    "to": "2026-10-07T11:00:00Z"
   },
   "insights": {
-    "headline": "RBI hikes repo rate to 5.50% in first increase in nearly four years; gold slips globally ahead of Fed minutes",
-    "summary": "The RBI raised the repo rate by 25 basis points to 5.50% and shifted its stance to 'calibrated tightening', its first hike since February 2023, citing inflation pressures from food, fuel and fertilisers. On the MCX, gold and silver fell as rising crude oil prices and elevated interest-rate expectations weighed on bullion. Globally, spot gold eased toward $4,150 ahead of the Fed's September meeting minutes, while China's central bank extended its gold-buying streak to a 23rd straight month in September. The rupee stayed in focus after the RBI governor said it may be undervalued.",
+    "headline": "RBI hikes repo rate to 5.50%; rupee nears record low as reserves slide $50B; Titan's festive-shift quarter",
+    "summary": "The RBI raised the repo rate by 25 basis points to 5.50% and shifted its stance to 'calibrated tightening', its first hike since February 2023. The rupee fell nearly 0.5% to 96.8450, within sight of its 96.96 all-time low, even as forex reserves slid about $50 billion from the September peak on RBI intervention. Globally, spot gold eased toward $4,150 ahead of the Fed's September meeting minutes, while China's central bank extended its gold-buying streak to a 23rd straight month. Titan's Q2 jewellery growth slowed to 21% as the festive calendar shifted purchases into Q3.",
     "points": [
       "RBI raised the repo rate 25 bps to 5.50% -- first hike since Feb 2023 -- with stance now 'calibrated tightening'; FY27 GDP seen at 7.1%, inflation 5.2%.",
+      "Rupee fell nearly 0.5% to 96.8450, near the 96.96 all-time low; reserves down ~$50B from Sept 4 peak as RBI sells dollars and FX swaps.",
       "Spot gold eased 0.3% to $4,150.23 ahead of Fed minutes; traders price an 85% chance of a December US rate hike.",
       "China's central bank bought gold for a 23rd straight month in September; forex reserves fell to $3.400 trillion.",
-      "MCX gold and silver fell as crude near $100+ stoked inflation fears; the RBI governor said the rupee may be undervalued.",
-      "Kotak sees gold caught between central-bank demand and real-yield pressure; Hong Kong and Singapore pitch rival gold hubs."
+      "Titan Q2 jewellery grew 21% as festive buying shifted to Q3; brokerages call it deferment, not a demand break."
     ]
   },
   "trending": [
@@ -29,7 +29,7 @@
     },
     {
       "title": "Central banks still the steadiest bid for gold",
-      "summary": "China's 23rd straight month of buying and Kotak's read on official demand versus real yields agree: official-sector demand remains the market’s steadiest support even as higher yields cap prices.",
+      "summary": "China's 23rd straight month of buying and Kotak's read on official demand versus real yields agree: official-sector demand remains the market's steadiest support even as higher yields cap prices.",
       "item_ids": [
         "3b9e4a72a5032cb1",
         "cd514a8a372e61d2"
@@ -45,11 +45,19 @@
       ]
     },
     {
-      "title": "Rupee in focus after the hike",
-      "summary": "From 'may be undervalued' to fresh four-month lows, the rupee's path after the RBI hike matters for Indian buyers: a weaker rupee cushions global price falls in local terms.",
+      "title": "Rupee defence costs $50 billion",
+      "summary": "Reserves are down ~$50B since early September as the RBI defends the rupee near its record low. Malhotra says it may be undervalued; a weak rupee cushions global price falls for Indian buyers.",
       "item_ids": [
-        "60f80f0b9dabec02",
-        "86604a2400887b25"
+        "60f80f0b9dabec02"
+      ]
+    },
+    {
+      "title": "Festive demand watch: Titan's softer quarter",
+      "summary": "Titan's jewellery growth slowed to 21% as the festive shift pushed purchases into Q3. Brokerages see deferment, not a break; buyers stay cautious ahead of Diwali despite the 26% correction.",
+      "item_ids": [
+        "e64b0aa9def4e6dd",
+        "ee026638b52a2d2f",
+        "f9bbc54ae3cc3646"
       ]
     }
   ],
@@ -190,7 +198,7 @@
     {
       "id": "60f80f0b9dabec02",
       "title": "India RBI chief says markets can be irrational in the short term; rupee may be undervalued",
-      "summary": "RBI chief Sanjay Malhotra said financial markets can be irrational in the short run and that several measures of currency value — including the real effective exchange rate — suggest the rupee may be undervalued. He spoke at the post-policy press conference with the rupee trading near record lows against the dollar.",
+      "summary": "RBI chief Sanjay Malhotra said financial markets can be irrational in the short run and that measures like the real effective exchange rate suggest the rupee may be undervalued. The rupee fell nearly 0.5% to 96.8450 on Wednesday, within sight of its 96.96 all-time low, even as forex reserves slid about $50 billion from the September 4 peak to $734.6 billion on RBI dollar sales and FX swaps.",
       "url": "https://www.reuters.com/world/india/india-rbi-chief-says-markets-can-be-irrational-short-term-rupee-may-be-2026-10-07/",
       "source": "Reuters",
       "source_domain": "reuters.com",
@@ -211,7 +219,8 @@
       "related_urls": [
         "https://www.business-standard.com/markets/news/markets-can-be-irrational-in-short-term-rupee-may-be-undervalued-rbi-guv-126100700511_1.html",
         "https://www.livemint.com/market/commodities/rbi-governor-on-rupee-vs-dollar-exchange-rate-11791362751173.html",
-        "https://hiindia.com/rupee-may-be-undervalued-despite-market-depreciation-bias-rbi-governor/"
+        "https://hiindia.com/rupee-may-be-undervalued-despite-market-depreciation-bias-rbi-governor/",
+        "https://www.reuters.com/world/india/indias-fx-reserves-fall-fourth-week-down-50-billion-september-peak-2026-10-07/"
       ],
       "rank": 6
     },
@@ -417,33 +426,8 @@
       "rank": 14
     },
     {
-      "id": "86604a2400887b25",
-      "title": "Rupee loses 13 paise to close at 96.42 per US dollar",
-      "summary": "The rupee closed 13 paise lower at 96.42 against the US dollar as foreign fund outflows weighed on the currency. Traders are watching the RBI's policy decision, with markets pricing in a 25-basis-point rate hike amid mounting inflation risks.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-loses-13-paise-to-close-at-96-42-per-us-dollar/articleshow/134744262.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "publisher_id": "economic-times",
-      "published_at": "2026-10-06T20:46:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/86604a2400887b25.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "rupee",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 15
-    },
-    {
       "id": "bd6a24080cf787bf",
-      "rank": 16,
+      "rank": 15,
       "title": "Gold-silver ratio at 68: Gold looks expensive, but should investors stay invested?",
       "summary": "The gold-silver ratio has risen to about 68:1, leaving gold looking expensive relative to silver, Moneycontrol reports; analysts quoted in the piece suggest long-term investors keep gold as the core holding and consider adding silver if the ratio starts declining with improving silver demand.",
       "url": "https://www.moneycontrol.com/news/business/personal-finance/gold-silver-ratio-at-68-gold-looks-expensive-but-should-investors-stay-invested-14045890.html",
@@ -468,7 +452,7 @@
     },
     {
       "id": "e276b8d341cfedf0",
-      "rank": 17,
+      "rank": 16,
       "title": "Silver's Supply Deficit Is Getting Harder to Fix as Copper Ore Tightens",
       "summary": "An Investing.com analysis argues silver's supply deficit is becoming harder to close as tightening copper ore supply constrains new output, with most silver mined as a by-product of copper and other base metals. The piece says the structural shortfall continues to underpin silver even as prices consolidate.",
       "url": "https://www.investing.com/analysis/silvers-supply-deficit-is-getting-harder-to-fix-as-copper-ore-tightens-200689058",
@@ -487,6 +471,29 @@
         "silver"
       ],
       "breaking": false
+    },
+    {
+      "id": "e64b0aa9def4e6dd",
+      "rank": 17,
+      "title": "Titan shares fall 5% after Q2 update, Citi, CLSA, HSBC retain positive view",
+      "summary": "Titan's jewellery business grew 21% y-o-y in Q2FY27, below some brokerage estimates, as the festive calendar shift to Q3FY27 deferred purchases and investment-led coin demand weakened; the stock fell nearly 5%. Citi, CLSA, HSBC and JPMorgan kept positive ratings, calling it deferment rather than a demand break, with studded jewellery up in the early thirties.",
+      "url": "https://www.thehindubusinessline.com/markets/titan-shares-fall-5-after-q2-update-citi-clsa-hsbc-retain-positive-view/article71554302.ece",
+      "source": "The Hindu BusinessLine",
+      "source_domain": "thehindubusinessline.com",
+      "publisher_id": "hindu-businessline",
+      "published_at": "2026-10-07T05:30:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "breaking": false,
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
+      ],
+      "category": "festive",
+      "metals": [
+        "gold"
+      ]
     },
     {
       "id": "ee026638b52a2d2f",
