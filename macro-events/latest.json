@@ -1,6 +1,6 @@
 {
   "schema": "macro-events.v1",
-  "generated_at": "2026-10-07T05:24:06Z",
+  "generated_at": "2026-10-07T06:05:05Z",
   "event_count": 14,
   "events": [
     {
@@ -158,6 +158,30 @@
       "published_at": "2026-10-04T17:59:13Z"
     },
     {
+      "id": "rbi-2026-10-07",
+      "kind": "rbi_policy",
+      "title": "RBI policy decision",
+      "status": "released",
+      "scheduled_at": "2026-10-07T10:00:00+05:30",
+      "scheduled_tz": "Asia/Kolkata",
+      "metrics": [
+        {
+          "actual": 5.5,
+          "forecast": null,
+          "key": "repo_rate",
+          "label": "Repo rate",
+          "previous": 5.25,
+          "previous_first_print": null,
+          "unit": "percent"
+        }
+      ],
+      "revisions": [],
+      "summary": "The RBI MPC raised the repo rate by 25 basis points to 5.50 per cent, unanimously, and shifted the stance to calibrated tightening.",
+      "forecast_source": null,
+      "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62422",
+      "published_at": "2026-10-07T05:24:06Z"
+    },
+    {
       "id": "us-jobs-2026-11-06",
       "kind": "us_jobs",
       "title": "US jobs report",
@@ -268,30 +292,6 @@
       "forecast_source": null,
       "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
       "published_at": null
-    },
-    {
-      "id": "rbi-2026-10-07",
-      "kind": "rbi_policy",
-      "title": "RBI policy decision",
-      "status": "released",
-      "scheduled_at": "2026-10-07T10:00:00+05:30",
-      "scheduled_tz": "Asia/Kolkata",
-      "metrics": [
-        {
-          "actual": 5.5,
-          "forecast": null,
-          "key": "repo_rate",
-          "label": "Repo rate",
-          "previous": 5.25,
-          "previous_first_print": null,
-          "unit": "percent"
-        }
-      ],
-      "revisions": [],
-      "summary": "The RBI MPC raised the repo rate by 25 basis points to 5.50 per cent, unanimously, and shifted the stance to calibrated tightening.",
-      "forecast_source": null,
-      "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62422",
-      "published_at": "2026-10-07T05:24:06Z"
     },
     {
       "id": "rbi-2026-12-04",
