@@ -1,7 +1,7 @@
 {
   "schema": "macro-events.v1",
-  "generated_at": "2026-10-08T00:27:51Z",
-  "event_count": 14,
+  "generated_at": "2026-10-08T05:05:08Z",
+  "event_count": 15,
   "events": [
     {
       "id": "us-jobs-2026-09-04",
@@ -299,6 +299,20 @@
       "title": "RBI policy decision",
       "status": "scheduled",
       "scheduled_at": "2026-12-04T10:00:00+05:30",
+      "scheduled_tz": "Asia/Kolkata",
+      "metrics": [],
+      "revisions": [],
+      "summary": "India's central bank announces the repo rate.",
+      "forecast_source": null,
+      "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62422",
+      "published_at": null
+    },
+    {
+      "id": "rbi-2027-02-05",
+      "kind": "rbi_policy",
+      "title": "RBI policy decision",
+      "status": "scheduled",
+      "scheduled_at": "2027-02-05T10:00:00+05:30",
       "scheduled_tz": "Asia/Kolkata",
       "metrics": [],
       "revisions": [],
