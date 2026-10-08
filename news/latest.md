@@ -1,27 +1,27 @@
-# Gold & Silver for Indian buyers · 2026-10-08T16:00Z
+# Gold & Silver for Indian buyers · 2026-10-08T18:00Z
 
-> India ends IGST relief for bullion banks as gold holds near $4,122; silver at $60
+> Fed-minutes repricing keeps gold near $4,100; silver slides to August lows
 
-Revenue Secretary Arvind Shrivastava confirmed banks have paid 3% IGST on gold and precious-metal imports since April 1, 2026, ending the 2017 exemption and putting banks on the same tax footing as bullion exchanges. Spot gold held around $4,122 an ounce as firm US jobless claims of 197,000 kept December Fed-hike bets near 80%, while Brent stayed above $100 and the 10-year yield near 5.3%. China's central bank bought a three-year-high 21 tonnes in September; silver swung around $60, its weakest since August.
+Spot gold drifted lower through Thursday, from about $4,128 in the US morning to $4,107 by late afternoon, as the September Fed minutes kept rate-hike expectations alive — markets put 86.3% odds on at least one increase by December 9. A firm dollar near 102.3 and 10-year Treasury yields around 5.30% capped every recovery attempt. Silver fell harder, slipping toward $59, its weakest since August, while in India the IGST decision on bank bullion imports stayed the key domestic story: banks have paid 3% since April 2026.
 
-- Banks pay 3% IGST on bullion imports since April 2026 after the 2017 exemption lapsed; the move aligns banks with exchanges.
-- Gold pinned near $4,122/oz: 197k jobless claims keep December Fed-hike odds near 80%; $4,100 then $4,000 are the floors.
-- PBoC bought 21 tonnes in September — its biggest monthly addition since 2023 and 23rd straight month of buying.
-- Silver whipsawed around $60, sliding to August lows on Fed hawkishness; the gold-silver ratio sits at 70.
-- Jewellers' Q2 stays strong — PC Jeweller +28% revenue, Senco +31% — and Nityas Gems listed at a 9% premium.
+- Fed minutes: officials still see inflation too high; Waller said more hikes likely needed. FedWatch: 86.3% odds of at least one hike by December 9.
+- Spot gold eased from ~$4,128 to ~$4,107 during Thursday; the 10-year yield held near 5.30% and the dollar index near 102.3.
+- Silver slid toward $59 — its weakest since August — as the gold-silver ratio climbed to 70.
+- India: banks have paid 3% IGST on gold imports since April 1, 2026, after the 2017 exemption lapsed.
+- PBoC bought 21 tonnes of gold in September, its largest monthly purchase since 2023.
 
 ## Trending
 - **Tax relief ends for bullion banks**: India's 2017 IGST exemption for bank bullion imports is over: banks have paid 3% since April 2026, and the GST Council was notified this week. The levy is creditable, but upfront tax costs rise. (stories 1)
-- **Fed pressure keeps gold near two-month lows**: Firm US data — 197,000 jobless claims — and divided Fed minutes keep a December hike near 80% odds. Gold holds around $4,122 with $4,100 as the first floor. (stories 2, 3, 6)
+- **Fed-minutes repricing caps gold's recovery**: September Fed minutes plus Waller's comments pushed December hike odds to 86.3%. Gold drifted from $4,128 to $4,107 as the dollar and yields stayed firm. (stories 2, 3)
 - **PBoC buys the dip: 21 tonnes in September**: China's central bank made its largest monthly gold purchase since September 2023, taking reserves to 2,196 tonnes — a 23rd straight month of buying while prices correct. (stories 4)
 - **Silver lags as the ratio sits at 70**: Silver slid to its lowest since August near $59 on Fed hawkishness, with the gold-silver ratio at 70; it steadied around $60 on Thursday as the dollar eased. (stories 5, 6)
-- **Jewellery Q2 sets up the festive season**: PC Jeweller (+28% revenue, debt-free), Senco Gold (+31% revenue) and Kalyan all posted strong September quarters, and Nityas Gems listed at a 9% premium — demand looks set for the festivals. (stories 7, 8, 9, 11)
+- **Jewellery Q2 sets up the festive season**: PC Jeweller (+28% revenue, debt-free), Senco Gold (+31% revenue) and Kalyan all posted strong September quarters, and Nityas Gems listed at a 9% premium — demand looks set for the festive season. (stories 7, 8, 9, 11)
 
 ## Stories
 1. [India ends IGST relief on bank bullion imports; 3% tax applies since April](https://inshorts.com/en/amp_news/banks-paying-3--igst-on-gold-imports-since-april-2026--revenue-secretary-1791466168412) — *Inshorts*, 2026-10-08T01:00:00Z
    Revenue Secretary Arvind Shrivastava said banks have paid 3% IGST on gold and precious-metal imports since April 1, 2026, after the 2017 exemption was not extended. The decision, placed before the GST Council this week, puts banks and nominated agencies on the same tax footing as bullion exchanges. The levy is paid upfront and claimed as input tax credit, raising working-capital costs.
-2. [Gold struggles as oil rebounds: yields, Fed policy and geopolitics](https://capital.com/en-int/analysis/gold-struggles-as-oil-rebounds-yields-fed-policy-and-geopolitics) — *Capital.com*, 2026-10-08T11:56:44Z
-   Gold stayed under pressure near $4,130 an ounce as rebounding oil rebuilt the case for higher rates: Brent climbed back above $100, near $103, on renewed attacks on Gulf shipping, while the 10-year yield hovered around 5.3% and the Fed's September hike to 3.75–4.00% kept bullion's opportunity cost high. Safe-haven demand offers a floor — $4,100, then $4,000 — but yields and the dollar are winning.
+2. [Gold News: Firm Dollar and High Yields Cap XAUUSD's Early Recovery](https://www.fxempire.com/forecasts/article/gold-news-firm-dollar-and-high-yields-cap-xauusds-early-recovery-1636855) — *FXEmpire*, 2026-10-08T17:03:02Z
+   Gold's early rebound faded Thursday as a firm dollar and elevated Treasury yields kept pressure on. The September Fed minutes showed officials still view inflation as too high, and Governor Waller said more hikes will likely be needed; FedWatch priced 86.3% odds of at least one increase by December 9. Spot gold traded around $4,107 at 16:05 GMT, slightly lower on the day.
 3. [Gold holds near $4,122/oz as US jobless claims beat forecasts](https://www.kitco.com/news/article/2026-10-08/gold-price-4122oz-after-us-weekly-jobless-claims-fall-197k) — *Kitco*, 2026-10-08T12:44:00Z
    Initial claims for US unemployment benefits fell to 197,000 in the week ended October 3, below the 200,000 consensus, the Labor Department said. Spot gold held near $4,122 an ounce, up 0.27%, trading mid-range after the data release. The four-week average eased to 198,000 while continuing claims stood at 1.716 million.
 4. [China's central bank buys 21 tonnes of gold in September, most in three years](https://www.kitco.com/news/article/2026-10-07/chinas-central-bank-buys-21-tonnes-gold-september-largest-monthly-purchase) — *Kitco*, 2026-10-07T16:00:00Z
