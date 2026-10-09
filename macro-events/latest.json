@@ -1,7 +1,7 @@
 {
   "schema": "macro-events.v1",
-  "generated_at": "2026-10-09T00:27:52Z",
-  "event_count": 15,
+  "generated_at": "2026-10-09T21:06:30Z",
+  "event_count": 18,
   "events": [
     {
       "id": "us-jobs-2026-09-04",
@@ -210,6 +210,34 @@
       "published_at": null
     },
     {
+      "id": "us-jobs-2027-01-08",
+      "kind": "us_jobs",
+      "title": "US jobs report",
+      "status": "scheduled",
+      "scheduled_at": "2027-01-08T08:30:00-05:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [],
+      "revisions": [],
+      "summary": "Monthly count of US jobs added, and the unemployment rate.",
+      "forecast_source": null,
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "published_at": null
+    },
+    {
+      "id": "us-jobs-2027-02-05",
+      "kind": "us_jobs",
+      "title": "US jobs report",
+      "status": "scheduled",
+      "scheduled_at": "2027-02-05T08:30:00-05:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [],
+      "revisions": [],
+      "summary": "Monthly count of US jobs added, and the unemployment rate.",
+      "forecast_source": null,
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "published_at": null
+    },
+    {
       "id": "us-cpi-2026-10-14",
       "kind": "us_cpi",
       "title": "US inflation (CPI)",
@@ -243,6 +271,20 @@
       "title": "US inflation (CPI)",
       "status": "scheduled",
       "scheduled_at": "2026-12-10T08:30:00-05:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [],
+      "revisions": [],
+      "summary": "How much US consumer prices rose over the past year.",
+      "forecast_source": null,
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "published_at": null
+    },
+    {
+      "id": "us-cpi-2027-01-13",
+      "kind": "us_cpi",
+      "title": "US inflation (CPI)",
+      "status": "scheduled",
+      "scheduled_at": "2027-01-13T08:30:00-05:00",
       "scheduled_tz": "America/New_York",
       "metrics": [],
       "revisions": [],
