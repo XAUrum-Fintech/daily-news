@@ -1,30 +1,39 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-09T11:00Z",
-  "generated_at": "2026-10-09T11:07:53Z",
+  "edition_id": "2026-10-09T12:00Z",
+  "generated_at": "2026-10-09T12:04:02Z",
   "window": {
-    "from": "2026-10-09T10:00:00Z",
-    "to": "2026-10-09T11:00:00Z"
+    "from": "2026-10-09T11:00:00Z",
+    "to": "2026-10-09T12:00:00Z"
   },
   "insights": {
-    "headline": "Gold holds above $4,200 and silver tops $60 as a softer dollar and easing US yields extend the rebound",
-    "summary": "Gold futures pushed back above $4,200 an ounce and silver broke through $60 on Friday as the dollar's rally paused and US Treasury yields retreated, extending the recovery from this week's two-month lows. On MCX, December gold rose to Rs 1,51,300 per 10 grams and silver to Rs 2,24,859 per kg on fresh buying. The rebound came even as India scrapped a key tax relief on bullion imports by banks, adding a 3% IGST levy that raises costs for the main supply channels. Physical demand stayed soft as Indian buyers paused and Chinese traders slowly returned from the Golden Week holiday.",
+    "headline": "Gold climbs 1%+ to $4,190 and silver retakes $60 as a softer dollar and cooling oil fuel Friday's rally",
+    "summary": "Gold advanced more than 1% on Friday as cooling oil prices and a softer US dollar opened room for a recovery, with spot gold up 1.4% to $4,189.99 an ounce and heading for a weekly gain. On MCX, December silver futures rose 1.64% to ₹2,24,859 per kg as participants built fresh positions on the firm global trend. The rally came even as Fed officials kept the door open to more hikes, though traders priced only a 19% chance of an October move. India scrapped the IGST exemption on bullion imports by banks, adding a 3% levy that raises costs for a key supply channel ahead of the festive season.",
     "points": [
-      "Gold futures topped $4,200 and silver broke $60 as a weaker dollar and falling US yields supported bullion.",
-      "MCX December gold rose 1.13% to Rs 1,51,300/10g; silver gained 1.64% to Rs 2,24,859/kg on fresh positions.",
+      "Spot gold rose 1.4% to $4,189.99/oz and US December futures added 1.4% to $4,215.30 as a softer dollar and falling oil prices supported bullion.",
+      "MCX December silver gained 1.64% to ₹2,24,859/kg (+₹3,626) on fresh long positions; overseas silver futures rose 2.16% to $60.44/oz.",
       "India withdrew the IGST exemption on bullion imports by banks, imposing a 3% levy and raising supply costs.",
-      "Indian physical demand stayed sluggish as rebounding prices kept buyers on the sidelines; China premiums held at $10 as markets reopened.",
-      "Mirae Asset sees October Fed-hike odds down to 20% from 72%, with global gold ETF holdings at a four-year high."
+      "Fed outlook mixed: 19% odds of an October hike, 84% for at least one 25bp rise by December; Musalem wants more hikes to hit 2% inflation.",
+      "Mirae Asset sees October Fed-hike odds down to 20% from 72% two weeks ago, with global gold ETF holdings at a four-year high."
     ]
   },
   "trending": [
     {
-      "title": "The $4,200/$60 rebound trade",
-      "summary": "Bullion is climbing back from two-month lows on a softer dollar and retreating yields, with MCX following global cues and analysts watching whether October Fed-hike bets keep fading.",
+      "title": "The 1%+ Friday rebound",
+      "summary": "Gold and silver extended Friday's recovery as a softer dollar and cooling oil offset lingering Fed-hike risk, with markets watching whether October hike bets keep fading.",
       "item_ids": [
+        "f6c33e1edae87111",
         "d4ccdb56581697d9",
-        "13b5d4675d40ce33",
         "761ab48a2d638f18"
+      ]
+    },
+    {
+      "title": "Silver's ₹2.25 lakh run",
+      "summary": "MCX silver futures neared ₹2.25 lakh per kg on fresh longs as global silver held above $60, with analysts split between near-term yield pressure and a bullish long-term industrial case.",
+      "item_ids": [
+        "88782ad0551b2570",
+        "873ab1cab0a682eb",
+        "2822ed3e61ef51ff"
       ]
     },
     {
@@ -35,27 +44,43 @@
       ]
     },
     {
-      "title": "Festive demand meets price resistance",
-      "summary": "Dussehra and Diwali are near, but Indian buyers are pausing as prices rebound, while jewellers lean on lighter pieces and old-gold exchanges.",
+      "title": "Festive demand at record prices",
+      "summary": "With Dussehra and Diwali near, gold rebounded to ₹1.52 lakh per 10g on MCX as jewellers restocked, even as record prices keep many buyers cautious.",
       "item_ids": [
-        "191011c05dd32b92",
         "cca5598a84506888",
         "3f77426fbf27f37d"
-      ]
-    },
-    {
-      "title": "Silver's two-track story",
-      "summary": "Silver is back above $60 with analysts split between near-term pressure from yields and a bullish long-term industrial case.",
-      "item_ids": [
-        "873ab1cab0a682eb",
-        "2822ed3e61ef51ff"
       ]
     }
   ],
   "items": [
     {
-      "id": "d4ccdb56581697d9",
+      "id": "f6c33e1edae87111",
       "rank": 1,
+      "title": "Gold adds over 1% on easing oil prices, softer dollar",
+      "summary": "Gold advanced over 1% on Friday as cooling oil prices and a softer dollar aided a recovery, with spot gold up 1.4% to $4,189.99 and heading for a weekly gain. US December futures added 1.4% to $4,215.30. St. Louis Fed's Musalem said rates must rise again; traders priced a 19% chance of an October hike and an 84% chance of at least one 25bp rise by December. Spot silver gained 1.7% to $60.36.",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-adds-over-1-on-easing-oil-prices-softer-dollar/article71563480.ece",
+      "source": "The Hindu BusinessLine",
+      "source_domain": "thehindubusinessline.com",
+      "publisher_id": "hindu-businessline",
+      "published_at": "2026-10-09T10:20:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/f6c33e1edae87111.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "d4ccdb56581697d9",
+      "rank": 2,
       "title": "Gold Futures Top $4,200 as Silver Breaks $60 - What Comes Next?",
       "summary": "Gold futures pushed back above $4,200 an ounce and silver broke through $60, extending Friday's rebound as a pause in the dollar's rally and retreating US Treasury yields gave bullion room to recover. The move carries both metals further from this week's two-month lows while markets weigh the fading odds of another Fed rate hike.",
       "url": "https://www.investing.com/analysis/gold-futures-top-4200-as-silver-breaks-60--what-comes-next-200689262",
@@ -81,7 +106,7 @@
     },
     {
       "id": "e35b12949e211058",
-      "rank": 2,
+      "rank": 3,
       "title": "India Scraps Key Tax Relief on Gold Imports, Raising Costs",
       "summary": "India has withdrawn the IGST exemption on gold, silver and platinum imported by banks and state-nominated agencies, subjecting those shipments to a 3% levy. Revenue Secretary Arvind Shrivastava said the exemption was not extended beyond March 31, putting every import route on an equal tax footing and raising costs for the main channels supplying the bullion market.",
       "url": "https://news.bloombergtax.com/daily-tax-report-international/india-scraps-key-tax-relief-for-gold-imports-raising-costs",
@@ -108,53 +133,25 @@
       ]
     },
     {
-      "id": "13b5d4675d40ce33",
-      "rank": 3,
-      "title": "Gold, silver futures rise on MCX on firm spot demand, fresh buying",
-      "summary": "December gold futures on MCX rose Rs 1,690, or 1.13%, to Rs 1,51,300 per 10 grams on fresh positions and firm spot demand, while December silver gained 1.64% to Rs 2,24,859 per kg. Overseas, gold futures added 1.43% to $4,191.51 an ounce in New York and silver rose 2.16% to $60.44.",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-futures-rise-to-151-lakh10-gm-on-firm-spot-demand/article71563226.ece",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "publisher_id": "hindu-businessline",
-      "published_at": "2026-10-09T09:18:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/13b5d4675d40ce33.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "mcx",
-        "gold",
-        "silver",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://www.thehindubusinessline.com/markets/gold/silver-price-rises-to-224-lakh-per-kg-in-futures-trade/article71563228.ece"
-      ]
-    },
-    {
-      "id": "191011c05dd32b92",
+      "id": "88782ad0551b2570",
       "rank": 4,
-      "title": "Gold demand drops in India as prices rebound",
-      "summary": "Indian gold demand stayed sluggish this week as rebounding prices made buyers pause, with domestic gold around Rs 150,900 per 10 grams after touching a near two-month low of Rs 145,538 last week. Dealer discounts narrowed to $6 an ounce from $14 as imports fell. In China, bullion traded at a $10 premium as markets reopened after the Golden Week holiday.",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-demand-drops-in-india-as-prices-rebound/article71563050.ece",
+      "title": "Silver price rises to ₹2.24 lakh per kg in futures trade",
+      "summary": "Silver futures rose 1.64% to ₹2.24 lakh per kg in futures trade on Friday amid a firm global trend. On the MCX, December silver rose ₹3,626 to ₹2,24,859 per kilogram in a turnover of 3,125 lots as participants built fresh positions. In the overseas market, silver futures climbed 2.16% to $60.44 an ounce.",
+      "url": "https://www.thehindubusinessline.com/markets/gold/silver-price-rises-to-224-lakh-per-kg-in-futures-trade/article71563228.ece",
       "source": "The Hindu BusinessLine",
       "source_domain": "thehindubusinessline.com",
       "publisher_id": "hindu-businessline",
-      "published_at": "2026-10-09T07:38:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/191011c05dd32b92.jpg",
+      "published_at": "2026-10-09T09:20:00Z",
+      "image_url": "https://bl-i.thgim.com/public/incoming/mvph8e/article71563386.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_UBJ7OGQ6U_R1599746586_2_5de0a712-7801-46e-80ec-c243728af5c8.jpg",
       "image_kind": "photo",
       "tags": [
-        "gold",
-        "india",
-        "jewellery",
+        "silver",
+        "mcx",
         "global"
       ],
       "category": "mcx",
       "metals": [
+        "silver",
         "gold"
       ],
       "breaking": false
