@@ -1,75 +1,75 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-08T22:00Z",
-  "generated_at": "2026-10-08T22:21:04Z",
+  "edition_id": "2026-10-09T00:00Z",
+  "generated_at": "2026-10-09T00:07:51Z",
   "window": {
-    "from": "2026-10-08T20:00:00Z",
-    "to": "2026-10-08T22:00:00Z"
+    "from": "2026-10-08T22:00:00Z",
+    "to": "2026-10-09T00:00:00Z"
   },
   "insights": {
-    "headline": "Gold steadies near $4,132 as a strong US bond auction cools yields; silver sinks toward $59",
-    "summary": "Spot gold held near $4,132 an ounce in late US trade on Thursday after a strong $22 billion 30-year Treasury auction pulled yields off their highs, while silver fell about 1% to roughly $59. On MCX, December gold hovered near ₹1.49 lakh per 10 grams with silver under pressure. Beneath the price weakness, institutional demand stayed firm: global gold ETFs drew a record $31 billion in Q3 with holdings at an all-time high of 4,256 tonnes, and China's central bank bought about 23 tonnes in September.",
+    "headline": "Gold recovers to $4,150 after two-month low as Fed minutes reframe hike bets",
+    "summary": "Comex gold settled 0.44% higher at $4,131.80 on October 8 as traders digested September FOMC minutes showing most policymakers expect another rate hike by year-end; December futures reached $4,161.10 while silver slipped to $59.62. Markets priced an 18% chance of an October hike and about 80% for December. On MCX, gold held near ₹1.49 lakh per 10 grams with December silver around ₹2.2 lakh per kg, while China added 23 tonnes of gold in September — its largest monthly buy in three years.",
     "points": [
-      "US jobless claims fell to 197,000; Fed minutes keep a December hike on the table, pinning gold in a $4,100–4,150 range.",
-      "Brent crude held above $100 a barrel after Iranian strikes on tankers in the Strait of Hormuz, feeding inflation worries.",
-      "The rupee closed at 96.78 per dollar, just off its record low, despite likely RBI intervention.",
-      "Banks have paid 3% IGST on bullion imports since April after a 2017 exemption lapsed, raising working-capital costs.",
-      "Senco Gold (+31% revenue) and PC Jeweller (+28%, now debt-free) posted strong Q2 updates ahead of the festive season."
+      "Fed minutes: most policymakers judged another rate increase likely by year-end; CME FedWatch shows 18% odds for October, ~80% for December.",
+      "Comex gold settled +0.44% at $4,131.80 (Dec $4,161.10); front-month silver settled -1.39% at $59.06 — still 22% below its January record.",
+      "MCX gold steady near ₹1.49 lakh/10g; December silver near ₹2.20 lakh/kg, down 1.24%, pressured by a firm dollar and elevated crude.",
+      "China added ~23 tonnes of gold in September, the 23rd straight month of buying; global gold ETFs drew a record $31 billion in Q3.",
+      "India: 3% IGST now applies on bank bullion imports since April; the rupee held at 96.78 after likely RBI intervention near record lows."
     ]
   },
   "trending": [
     {
-      "title": "Yields vs. bullion: the Fed repricing trade",
-      "summary": "A strong 30-year Treasury auction steadied gold near $4,132, but a December Fed hike is still on the table and oil tops $100 — upside capped, silver lagging near $59.",
+      "title": "The Fed repricing trade",
+      "summary": "Thursday's rebound from a two-month low ran on Fed-minute digestion: most officials want another hike by year-end, but October looks unlikely, so gold reclaimed $4,150 while yields paused.",
       "item_ids": [
-        "e3434bbda109792b",
-        "a18abf45eecda55f",
-        "d6bbb8e5cc3072fb"
+        "1531bd2c77f065b7",
+        "a18abf45eecda55f"
       ]
     },
     {
       "title": "Institutions keep buying the dip",
-      "summary": "Record $31bn of Q3 gold-ETF inflows and a 23rd straight month of Chinese central-bank buying show long-horizon demand accumulating into price weakness, even as futures traders cut exposure.",
+      "summary": "China posted its biggest monthly gold buy in three years and gold ETFs logged a record $31 billion Q3 even as September prices fell 8.5%.",
       "item_ids": [
-        "824df5a1322fd2dd",
-        "1dc29477b7d4bbbd"
+        "1dc29477b7d4bbbd",
+        "824df5a1322fd2dd"
       ]
     },
     {
       "title": "Silver's split screen",
-      "summary": "Silver sank toward $59 while gold steadied, but bulls cite solar and industrial demand plus new income-generating ETF products as reasons the long-term uptrend is intact.",
+      "summary": "Silver fell to $59.62 and MCX silver slid 1.24% to ₹2.20 lakh/kg, but analysts still see the long-term uptrend intact on industrial demand.",
       "item_ids": [
         "2822ed3e61ef51ff",
-        "e3434bbda109792b"
+        "a08eb55292269783"
       ]
     },
     {
       "title": "India: tax, rupee and festive demand",
-      "summary": "A 3% IGST on bank bullion imports since April, a rupee near record lows despite RBI action, and strong Q2 updates from Senco and PC Jeweller set the stage for Dhanteras buying.",
+      "summary": "Banks now pay 3% IGST on bullion imports, the RBI held the rupee off its record low, and jewellers posted strong Q2 updates ahead of Diwali.",
       "item_ids": [
         "c170413e62fa5192",
         "902ddfa85f058d01",
-        "669e3f79791afa38",
-        "2326e63246368505"
+        "669e3f79791afa38"
       ]
     }
   ],
   "items": [
     {
-      "id": "e3434bbda109792b",
-      "title": "Gold rises, silver falls as strong bond auction tempers yield pressure — Kitco PM Report",
-      "summary": "Spot gold rose about 0.5% to roughly $4,132 an ounce in late US trade after a strong $22 billion 30-year Treasury auction, clearing at 5.618%, pulled yields off their morning highs. Silver fell about 1% to near $59 an ounce. US weekly jobless claims dropped to 197,000, while Fed minutes kept a December rate hike on the table.",
-      "url": "https://www.kitco.com/news/article/2026-10-08/gold-rises-silver-falls-strong-bond-auction-tempers-yield-pressure-kitco-pm",
-      "source": "Kitco",
-      "source_domain": "kitco.com",
-      "publisher_id": "kitco",
-      "published_at": "2026-10-08T21:08:19Z",
-      "image_url": "https://image-api.prod.kitco.com/image/5768df25-c265-4c2d-a489-e51917a45667.jpeg?top=0.064631956912029&left=0&width=1024&height=575.87073608618&scale_width=1920&token=2b9aed07545feb0be48c38c9d1120669a61d2c7db0b49da3069840aaaa8f3f56",
-      "image_kind": "photo",
+      "id": "1531bd2c77f065b7",
+      "rank": 1,
+      "title": "Comex gold settles 0.44% higher at $4,131.80 as traders digest Fed minutes",
+      "summary": "Gold futures recovered from a two-month low on October 8 as traders digested September FOMC minutes showing most policymakers expect another rate hike by year-end. December gold rose 0.5% to $4,161.10 while the front-month contract settled 0.44% higher at $4,131.80; silver fell 1.1% to $59.62. Markets priced an 18% chance of an October hike and about 80% for December, per the CME FedWatch tool.",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-higher-yields-stronger-dollar-weigh-0759a7e8",
+      "source": "Wall Street Journal",
+      "source_domain": "wsj.com",
+      "publisher_id": "wsj",
+      "published_at": "2026-10-08T15:15:00Z",
+      "image_url": null,
+      "image_kind": "none",
       "tags": [
         "gold",
         "silver",
         "fed",
+        "comex",
         "global"
       ],
       "category": "global",
@@ -77,23 +77,23 @@
         "gold",
         "silver"
       ],
-      "breaking": false,
-      "rank": 1
+      "breaking": false
     },
     {
-      "id": "824df5a1322fd2dd",
-      "title": "Gold ETFs drew a record $31 billion in Q3; holdings hit an all-time high",
-      "summary": "World Gold Council data shows global physically-backed gold ETFs attracted $10 billion in September, capping a record $31 billion third quarter. Holdings rose 67 tonnes to a record 4,256 tonnes even as gold fell 8.5% in September; assets under management slipped 7% month-on-month to $574 billion on the lower price. The US led inflows; UK funds had their strongest quarter on record.",
-      "url": "https://www.gold.org/goldhub/data/global-gold-backed-etf-holdings-and-flows",
-      "source": "World Gold Council",
-      "source_domain": "gold.org",
-      "publisher_id": "world-gold-council",
-      "published_at": "2026-10-07T06:00:00Z",
-      "image_url": null,
-      "image_kind": "none",
+      "id": "1dc29477b7d4bbbd",
+      "title": "China ramps up gold buying as prices fall",
+      "summary": "The People's Bank of China added about 740,000 ounces (roughly 23 tonnes) of gold in September, its largest monthly increase in three years and the 23rd straight month of buying, taking advantage of September's roughly 6% price decline. World Gold Council data shows central banks bought about 5.5 million ounces in the first eight months of 2026, led by China and Poland.",
+      "url": "https://mining.com.au/china-ramps-up-gold-buying-as-prices-fall/",
+      "source": "Mining.com.au",
+      "source_domain": "mining.com.au",
+      "publisher_id": "mining-com-au",
+      "published_at": "2026-10-08T21:22:30Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/1dc29477b7d4bbbd.jpg",
+      "image_kind": "photo",
       "tags": [
         "gold",
-        "global"
+        "global",
+        "central-banks"
       ],
       "category": "global",
       "metals": [
@@ -153,66 +153,66 @@
       "breaking": false
     },
     {
-      "id": "c170413e62fa5192",
+      "id": "68742155a406f02f",
       "rank": 5,
-      "title": "India ends IGST relief on bank bullion imports; 3% tax applies since April",
-      "summary": "Revenue Secretary Arvind Shrivastava said banks have paid 3% IGST on gold and precious-metal imports since April 1, 2026, after the 2017 exemption was not extended. The decision, placed before the GST Council this week, puts banks and nominated agencies on the same tax footing as bullion exchanges. The levy is paid upfront and claimed as input tax credit, raising working-capital costs.",
-      "url": "https://inshorts.com/en/amp_news/banks-paying-3--igst-on-gold-imports-since-april-2026--revenue-secretary-1791466168412",
-      "source": "Inshorts",
-      "source_domain": "inshorts.com",
-      "publisher_id": "inshorts",
-      "published_at": "2026-10-08T01:00:00Z",
-      "image_url": "https://media.inshorts.com/inshorts/images/v1/variants/jpg/m/2026/10_oct/08_thu/img_1791465047568_715.jpg",
+      "title": "Gold, silver futures: Vandana Bharti on what’s capping upside on precious metals, range to watch",
+      "summary": "SMC Global Securities' Vandana Bharti said elevated crude prices, bond yields and a firmer dollar are capping gold's upside, with support near $4,090 and resistance at $4,200; she expects the broader uptrend to resume once the rise in bond yields pauses. She sees MCX gold in a ₹1,45,000–₹1,52,000 range and MCX silver between ₹2,20,000 and ₹2,30,000 per kg.",
+      "url": "https://www.businesstoday.in/markets/stocks/story/gold-silver-futures-vandana-bharti-on-whats-capping-upside-on-precious-metals-range-to-watch-560340-2026-10-08",
+      "source": "Business Today",
+      "source_domain": "businesstoday.in",
+      "publisher_id": "business-today",
+      "published_at": "2026-10-08T06:16:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/68742155a406f02f.jpg",
       "image_kind": "photo",
       "tags": [
-        "import-duty",
-        "india",
-        "gold"
+        "mcx",
+        "gold",
+        "silver"
       ],
-      "category": "policy",
+      "category": "mcx",
       "metals": [
-        "gold"
+        "gold",
+        "silver"
       ],
       "breaking": false
     },
     {
-      "id": "902ddfa85f058d01",
+      "id": "37a4f31ddf06776f",
       "rank": 6,
-      "title": "RBI intervention halts rupee's slide to record low, risks linger",
-      "summary": "The rupee closed nearly flat at 96.78 per dollar on Thursday, just off its all-time low of 96.96, as likely RBI intervention kept it from testing record lows. Brent crude jumped more than 4% to $104.30 on Middle East supply worries while the dollar hovered near 18-month highs. Traders say the RBI's first rate hike in nearly four years is unlikely to slow record capital outflows.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rbi-intervention-halts-rupees-slide-to-record-low-risks-linger/articleshow/134788012.cms",
+      "title": "ET Alpha Wealth Summit 2.0: Equities aren’t enough? Praveena Rai makes a case for commodities",
+      "summary": "MCX MD and CEO Praveena Rai told the ET Alpha Wealth Summit that commodities deserve a place in Indian portfolios since their fundamentals differ from equities, noting India is the world's second-largest gold consumer. She said investors need not hold physical metal: multi-asset and hybrid funds plus commodity derivatives offer exposure, and MCX's gold product allows delivery from one gram.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-equities-arent-enough-praveena-rai-makes-a-case-for-commodities/articleshow/134785142.cms",
       "source": "Economic Times",
       "source_domain": "economictimes.indiatimes.com",
       "publisher_id": "economic-times",
-      "published_at": "2026-10-08T10:53:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/902ddfa85f058d01.jpg",
+      "published_at": "2026-10-08T09:12:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/37a4f31ddf06776f.jpg",
       "image_kind": "photo",
       "tags": [
-        "rbi",
-        "rupee",
+        "mcx",
+        "gold",
         "india"
       ],
-      "category": "policy",
+      "category": "mcx",
       "metals": [
         "gold"
       ],
       "breaking": false
     },
     {
-      "id": "1dc29477b7d4bbbd",
-      "title": "China ramps up gold buying as prices fall",
-      "summary": "The People's Bank of China added about 740,000 ounces (roughly 23 tonnes) of gold in September, its largest monthly increase in three years and the 23rd straight month of buying, taking advantage of September's roughly 6% price decline. World Gold Council data shows central banks bought about 5.5 million ounces in the first eight months of 2026, led by China and Poland.",
-      "url": "https://mining.com.au/china-ramps-up-gold-buying-as-prices-fall/",
-      "source": "Mining.com.au",
-      "source_domain": "mining.com.au",
-      "publisher_id": "mining-com-au",
-      "published_at": "2026-10-08T21:22:30Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/1dc29477b7d4bbbd.jpg",
-      "image_kind": "photo",
+      "id": "824df5a1322fd2dd",
+      "title": "Gold ETFs drew a record $31 billion in Q3; holdings hit an all-time high",
+      "summary": "World Gold Council data shows global physically-backed gold ETFs attracted $10 billion in September, capping a record $31 billion third quarter. Holdings rose 67 tonnes to a record 4,256 tonnes even as gold fell 8.5% in September; assets under management slipped 7% month-on-month to $574 billion on the lower price. The US led inflows; UK funds had their strongest quarter on record.",
+      "url": "https://www.gold.org/goldhub/data/global-gold-backed-etf-holdings-and-flows",
+      "source": "World Gold Council",
+      "source_domain": "gold.org",
+      "publisher_id": "world-gold-council",
+      "published_at": "2026-10-07T06:00:00Z",
+      "image_url": null,
+      "image_kind": "none",
       "tags": [
         "gold",
-        "global",
-        "central-banks"
+        "global"
       ],
       "category": "global",
       "metals": [
@@ -220,6 +220,28 @@
       ],
       "breaking": false,
       "rank": 7
+    },
+    {
+      "id": "2822ed3e61ef51ff",
+      "title": "Silver's long-term outlook remains bullish as new investment products offer income opportunities",
+      "summary": "Amplify ETFs' Nate Miller says silver's long-term uptrend is intact: spot near $59 an ounce is down on the day but well above last year's roughly $50, supported by solar and industrial demand. New covered-call ETF products let investors earn income from the non-yielding metal, broadening its buyer base.",
+      "url": "https://www.kitco.com/news/article/2026-10-08/silvers-long-term-outlook-remains-bullish-new-investment-products-offer",
+      "source": "Kitco",
+      "source_domain": "kitco.com",
+      "publisher_id": "kitco",
+      "published_at": "2026-10-08T16:08:00Z",
+      "image_url": "https://image-api.prod.kitco.com/image/6b1afd94-c45d-4176-b689-9b7c43c0c58e.jpeg?top=0.15965290381125&left=0&width=1000&height=562.68069419238&scale_width=1920&token=5f44bbf1e0f507875367d82b5ad82bd0d6021e94960d773565878bb8ebf76305",
+      "image_kind": "photo",
+      "tags": [
+        "silver",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 8
     },
     {
       "id": "a18abf45eecda55f",
@@ -244,72 +266,49 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 8
-    },
-    {
-      "id": "2822ed3e61ef51ff",
-      "title": "Silver's long-term outlook remains bullish as new investment products offer income opportunities",
-      "summary": "Amplify ETFs' Nate Miller says silver's long-term uptrend is intact: spot near $59 an ounce is down on the day but well above last year's roughly $50, supported by solar and industrial demand. New covered-call ETF products let investors earn income from the non-yielding metal, broadening its buyer base.",
-      "url": "https://www.kitco.com/news/article/2026-10-08/silvers-long-term-outlook-remains-bullish-new-investment-products-offer",
-      "source": "Kitco",
-      "source_domain": "kitco.com",
-      "publisher_id": "kitco",
-      "published_at": "2026-10-08T16:08:00Z",
-      "image_url": "https://image-api.prod.kitco.com/image/6b1afd94-c45d-4176-b689-9b7c43c0c58e.jpeg?top=0.15965290381125&left=0&width=1000&height=562.68069419238&scale_width=1920&token=5f44bbf1e0f507875367d82b5ad82bd0d6021e94960d773565878bb8ebf76305",
-      "image_kind": "photo",
-      "tags": [
-        "silver",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "breaking": false,
       "rank": 9
     },
     {
-      "id": "68742155a406f02f",
+      "id": "902ddfa85f058d01",
       "rank": 10,
-      "title": "Gold, silver futures: Vandana Bharti on what’s capping upside on precious metals, range to watch",
-      "summary": "SMC Global Securities' Vandana Bharti said elevated crude prices, bond yields and a firmer dollar are capping gold's upside, with support near $4,090 and resistance at $4,200; she expects the broader uptrend to resume once the rise in bond yields pauses. She sees MCX gold in a ₹1,45,000–₹1,52,000 range and MCX silver between ₹2,20,000 and ₹2,30,000 per kg.",
-      "url": "https://www.businesstoday.in/markets/stocks/story/gold-silver-futures-vandana-bharti-on-whats-capping-upside-on-precious-metals-range-to-watch-560340-2026-10-08",
-      "source": "Business Today",
-      "source_domain": "businesstoday.in",
-      "publisher_id": "business-today",
-      "published_at": "2026-10-08T06:16:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/68742155a406f02f.jpg",
+      "title": "RBI intervention halts rupee's slide to record low, risks linger",
+      "summary": "The rupee closed nearly flat at 96.78 per dollar on Thursday, just off its all-time low of 96.96, as likely RBI intervention kept it from testing record lows. Brent crude jumped more than 4% to $104.30 on Middle East supply worries while the dollar hovered near 18-month highs. Traders say the RBI's first rate hike in nearly four years is unlikely to slow record capital outflows.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rbi-intervention-halts-rupees-slide-to-record-low-risks-linger/articleshow/134788012.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-10-08T10:53:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/902ddfa85f058d01.jpg",
       "image_kind": "photo",
       "tags": [
-        "mcx",
-        "gold",
-        "silver"
+        "rbi",
+        "rupee",
+        "india"
       ],
-      "category": "mcx",
+      "category": "policy",
       "metals": [
-        "gold",
-        "silver"
+        "gold"
       ],
       "breaking": false
     },
     {
-      "id": "37a4f31ddf06776f",
+      "id": "c170413e62fa5192",
       "rank": 11,
-      "title": "ET Alpha Wealth Summit 2.0: Equities aren’t enough? Praveena Rai makes a case for commodities",
-      "summary": "MCX MD and CEO Praveena Rai told the ET Alpha Wealth Summit that commodities deserve a place in Indian portfolios since their fundamentals differ from equities, noting India is the world's second-largest gold consumer. She said investors need not hold physical metal: multi-asset and hybrid funds plus commodity derivatives offer exposure, and MCX's gold product allows delivery from one gram.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-equities-arent-enough-praveena-rai-makes-a-case-for-commodities/articleshow/134785142.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "publisher_id": "economic-times",
-      "published_at": "2026-10-08T09:12:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/37a4f31ddf06776f.jpg",
+      "title": "India ends IGST relief on bank bullion imports; 3% tax applies since April",
+      "summary": "Revenue Secretary Arvind Shrivastava said banks have paid 3% IGST on gold and precious-metal imports since April 1, 2026, after the 2017 exemption was not extended. The decision, placed before the GST Council this week, puts banks and nominated agencies on the same tax footing as bullion exchanges. The levy is paid upfront and claimed as input tax credit, raising working-capital costs.",
+      "url": "https://inshorts.com/en/amp_news/banks-paying-3--igst-on-gold-imports-since-april-2026--revenue-secretary-1791466168412",
+      "source": "Inshorts",
+      "source_domain": "inshorts.com",
+      "publisher_id": "inshorts",
+      "published_at": "2026-10-08T01:00:00Z",
+      "image_url": "https://media.inshorts.com/inshorts/images/v1/variants/jpg/m/2026/10_oct/08_thu/img_1791465047568_715.jpg",
       "image_kind": "photo",
       "tags": [
-        "mcx",
-        "gold",
-        "india"
+        "import-duty",
+        "india",
+        "gold"
       ],
-      "category": "mcx",
+      "category": "policy",
       "metals": [
         "gold"
       ],
