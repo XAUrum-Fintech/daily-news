@@ -1,61 +1,88 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-09T12:00Z",
-  "generated_at": "2026-10-09T12:04:02Z",
+  "edition_id": "2026-10-09T14:00Z",
+  "generated_at": "2026-10-09T14:20:37Z",
   "window": {
-    "from": "2026-10-09T11:00:00Z",
-    "to": "2026-10-09T12:00:00Z"
+    "from": "2026-10-09T12:00:00Z",
+    "to": "2026-10-09T14:00:00Z"
   },
   "insights": {
-    "headline": "Gold climbs 1%+ to $4,190 and silver retakes $60 as a softer dollar and cooling oil fuel Friday's rally",
-    "summary": "Gold advanced more than 1% on Friday as cooling oil prices and a softer US dollar opened room for a recovery, with spot gold up 1.4% to $4,189.99 an ounce and heading for a weekly gain. On MCX, December silver futures rose 1.64% to ₹2,24,859 per kg as participants built fresh positions on the firm global trend. The rally came even as Fed officials kept the door open to more hikes, though traders priced only a 19% chance of an October move. India scrapped the IGST exemption on bullion imports by banks, adding a 3% levy that raises costs for a key supply channel ahead of the festive season.",
+    "headline": "Delhi gold climbs ₹1,900 to ₹1,54,400/10g and silver jumps ₹4,500 as a softer dollar extends Friday's rally",
+    "summary": "Delhi bullion tracked the global rebound on Friday: 99.9-purity gold rose ₹1,900 to ₹1,54,400 per 10 grams, a second straight gain, while silver jumped ₹4,500 to ₹2,28,500 per kg, ending its losing streak, the All India Sarafa Association reported. Spot gold added about 1.4% to $4,190 an ounce and silver traded near $60.44 as a pause in the dollar's rally and easing oil prices gave bullion room to recover from two-month lows. The RBI said forex reserves fell $12.95 billion to $734.61 billion in the week ended October 2, with gold reserves down $2.29 billion to $106.41 billion.",
     "points": [
-      "Spot gold rose 1.4% to $4,189.99/oz and US December futures added 1.4% to $4,215.30 as a softer dollar and falling oil prices supported bullion.",
-      "MCX December silver gained 1.64% to ₹2,24,859/kg (+₹3,626) on fresh long positions; overseas silver futures rose 2.16% to $60.44/oz.",
-      "India withdrew the IGST exemption on bullion imports by banks, imposing a 3% levy and raising supply costs.",
-      "Fed outlook mixed: 19% odds of an October hike, 84% for at least one 25bp rise by December; Musalem wants more hikes to hit 2% inflation.",
-      "Mirae Asset sees October Fed-hike odds down to 20% from 72% two weeks ago, with global gold ETF holdings at a four-year high."
+      "Delhi retail: gold 99.9 +₹1,900 to ₹1,54,400/10g; silver +₹4,500 to ₹2,28,500/kg — second straight gain for gold (All India Sarafa Association).",
+      "Global: spot gold ~$4,190 (+1.4%), December futures ~$4,215; silver ~$60.44 (+2.2%) as the dollar, yields and oil ease.",
+      "RBI: forex reserves -$12.95B to $734.61B (week ended Oct 2); gold reserves -$2.29B to $106.41B.",
+      "UBS's Staunovo: ~$4,000 is where dip buyers emerge; forecasts $4,600 by Dec 2026, $5,400 by Sep 2027.",
+      "Silver: FXEmpire's Lewis sees $60 as the crucial floor, $62.50 as the next barrier; India's gold discounts narrowed to $6/oz from $14."
     ]
   },
   "trending": [
     {
-      "title": "The 1%+ Friday rebound",
-      "summary": "Gold and silver extended Friday's recovery as a softer dollar and cooling oil offset lingering Fed-hike risk, with markets watching whether October hike bets keep fading.",
+      "title": "Friday's rebound reaches Delhi's counters",
+      "summary": "Softer dollar, retreating yields and easing oil powered Friday's global rally into Delhi retail: gold +₹1,900, silver +₹4,500. Dealer discounts narrowed to $6/oz from $14 as domestic prices recovered.",
       "item_ids": [
+        "eeb69698608498b2",
         "f6c33e1edae87111",
-        "d4ccdb56581697d9",
-        "761ab48a2d638f18"
+        "ec3e635b9b210ad0"
       ]
     },
     {
-      "title": "Silver's ₹2.25 lakh run",
-      "summary": "MCX silver futures neared ₹2.25 lakh per kg on fresh longs as global silver held above $60, with analysts split between near-term yield pressure and a bullish long-term industrial case.",
+      "title": "Silver defends $60 — for now",
+      "summary": "Silver reclaimed $60 (futures $60.44, +2.16%; MCX Dec ₹2,24,859). FXEmpire's Lewis calls $60 the crucial floor with $62.50 next; Mirae Asset sees a $58–61 range.",
       "item_ids": [
+        "57ec43d7a7211bb6",
         "88782ad0551b2570",
-        "873ab1cab0a682eb",
-        "2822ed3e61ef51ff"
+        "873ab1cab0a682eb"
       ]
     },
     {
-      "title": "Import costs rise as tax relief ends",
-      "summary": "With the IGST exemption for bank bullion imports gone, all import routes now face the same tax, lifting costs for the channels that feed India's festive-season supply.",
+      "title": "Policy watch: tax relief ends, RBI steadies the rupee",
+      "summary": "India scrapped the IGST exemption on bank gold imports (3% levy). RBI swaps slowed the rupee's slide but pushed forward premiums to 8.65%; reserves fell $12.95B, gold reserves -$2.29B.",
       "item_ids": [
-        "e35b12949e211058"
+        "e35b12949e211058",
+        "7058b1c28ac15fcc",
+        "a250ad946dde1628"
       ]
     },
     {
-      "title": "Festive demand at record prices",
-      "summary": "With Dussehra and Diwali near, gold rebounded to ₹1.52 lakh per 10g on MCX as jewellers restocked, even as record prices keep many buyers cautious.",
+      "title": "Wall Street's gold playbook: $4,000 floor, $5,400 target",
+      "summary": "UBS's Staunovo sees dip buyers flooring gold near $4,000 on resilient ETF and central-bank demand; UBS forecasts $4,600 by Dec 2026, $5,400 by Sep 2027. Mirae sees support as Oct Fed-hike bets fade.",
       "item_ids": [
-        "cca5598a84506888",
-        "3f77426fbf27f37d"
+        "b01fbdfc29e52c6e",
+        "761ab48a2d638f18"
       ]
     }
   ],
   "items": [
     {
-      "id": "f6c33e1edae87111",
+      "id": "eeb69698608498b2",
       "rank": 1,
+      "title": "Gold climbs ₹1,900 per 10 gram; silver rebounds by ₹4,500 per kg in Delhi",
+      "summary": "Gold rose ₹1,900 to ₹1,54,400 per 10 grams in Delhi for 99.9 purity, a second straight session of gains, while silver rebounded ₹4,500 to ₹2,28,500 per kg, ending its losing streak, the All India Sarafa Association reported. Prices are inclusive of all taxes. Lemonn's Gaurav Garg cited a weaker US dollar and recovering international prices.",
+      "url": "https://www.moneycontrol.com/news/business/personal-finance/gold-prices-climb-rs-1-900-per-10-gram-silver-rebounds-by-rs-4-500-per-kg-in-delhi-14048706.html",
+      "source": "Moneycontrol",
+      "source_domain": "moneycontrol.com",
+      "publisher_id": "moneycontrol",
+      "published_at": "2026-10-09T12:44:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/eeb69698608498b2.jpg",
+      "image_kind": "photo",
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "india"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "f6c33e1edae87111",
+      "rank": 2,
       "title": "Gold adds over 1% on easing oil prices, softer dollar",
       "summary": "Gold advanced over 1% on Friday as cooling oil prices and a softer dollar aided a recovery, with spot gold up 1.4% to $4,189.99 and heading for a weekly gain. US December futures added 1.4% to $4,215.30. St. Louis Fed's Musalem said rates must rise again; traders priced a 19% chance of an October hike and an 84% chance of at least one 25bp rise by December. Spot silver gained 1.7% to $60.36.",
       "url": "https://www.thehindubusinessline.com/markets/gold/gold-adds-over-1-on-easing-oil-prices-softer-dollar/article71563480.ece",
@@ -76,11 +103,15 @@
         "gold",
         "silver"
       ],
-      "breaking": false
+      "breaking": false,
+      "related_urls": [
+        "https://www.investing.com/analysis/gold-and-silver-bounce-after-trump-rules-out-preelection-strikes-200689270",
+        "https://www.investing.com/analysis/gold-breaks-out-as-us-dollar-rally-cracks-and-treasury-futures-find-buyers-200689277"
+      ]
     },
     {
       "id": "d4ccdb56581697d9",
-      "rank": 2,
+      "rank": 3,
       "title": "Gold Futures Top $4,200 as Silver Breaks $60 - What Comes Next?",
       "summary": "Gold futures pushed back above $4,200 an ounce and silver broke through $60, extending Friday's rebound as a pause in the dollar's rally and retreating US Treasury yields gave bullion room to recover. The move carries both metals further from this week's two-month lows while markets weigh the fading odds of another Fed rate hike.",
       "url": "https://www.investing.com/analysis/gold-futures-top-4200-as-silver-breaks-60--what-comes-next-200689262",
@@ -106,7 +137,7 @@
     },
     {
       "id": "e35b12949e211058",
-      "rank": 3,
+      "rank": 4,
       "title": "India Scraps Key Tax Relief on Gold Imports, Raising Costs",
       "summary": "India has withdrawn the IGST exemption on gold, silver and platinum imported by banks and state-nominated agencies, subjecting those shipments to a 3% levy. Revenue Secretary Arvind Shrivastava said the exemption was not extended beyond March 31, putting every import route on an equal tax footing and raising costs for the main channels supplying the bullion market.",
       "url": "https://news.bloombergtax.com/daily-tax-report-international/india-scraps-key-tax-relief-for-gold-imports-raising-costs",
@@ -133,8 +164,56 @@
       ]
     },
     {
+      "id": "ec3e635b9b210ad0",
+      "rank": 5,
+      "title": "Gold becomes cheaper for non-dollar buyers as the dollar rally pauses; India discounts narrow",
+      "summary": "A pause in the US dollar's rally made greenback-priced bullion more affordable for holders of other currencies on Friday, even as spot gold rose 1.4% to $4,190.57 an ounce and silver gained 1.5% to $60.22. In India, domestic gold recovered to about ₹1,50,900 per 10 grams from a near-two-month low of ₹1,45,538 last week, and dealer discounts narrowed to $6 an ounce from $14.",
+      "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-today-gold-rate-becomes-cheaper-for-certain-buyers-heres-how/articleshow/134829422.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-10-09T09:38:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/ec3e635b9b210ad0.jpg",
+      "image_kind": "photo",
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "mcx",
+        "rupee",
+        "india"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "a250ad946dde1628",
+      "rank": 6,
+      "title": "India's forex reserves fall by $12.95 billion to $734.61 billion in week ended Oct 2: RBI",
+      "summary": "India's foreign exchange reserves fell $12.95 billion to $734.61 billion in the week ended October 2, RBI data showed. Foreign currency assets dropped $10.66 billion to $604.75 billion, while gold reserves fell $2.29 billion to $106.41 billion. Despite the weekly fall, reserves remained $43.50 billion higher than end-March 2026 levels.",
+      "url": "https://www.tribuneindia.com/news/business/indias-forex-reserves-fall-by-12-95-billion-to-734-61-billion-in-week-ended-oct-2-rbi/",
+      "source": "The Tribune",
+      "source_domain": "tribuneindia.com",
+      "publisher_id": "tribune",
+      "published_at": "2026-10-09T13:06:00Z",
+      "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTNiYTQzYjAwLWMzZTItMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
+      "image_kind": "photo",
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "rbi",
+        "gold",
+        "india",
+        "mcx"
+      ],
+      "breaking": false
+    },
+    {
       "id": "88782ad0551b2570",
-      "rank": 4,
+      "rank": 7,
       "title": "Silver price rises to ₹2.24 lakh per kg in futures trade",
       "summary": "Silver futures rose 1.64% to ₹2.24 lakh per kg in futures trade on Friday amid a firm global trend. On the MCX, December silver rose ₹3,626 to ₹2,24,859 per kilogram in a turnover of 3,125 lots as participants built fresh positions. In the overseas market, silver futures climbed 2.16% to $60.44 an ounce.",
       "url": "https://www.thehindubusinessline.com/markets/gold/silver-price-rises-to-224-lakh-per-kg-in-futures-trade/article71563228.ece",
@@ -157,8 +236,57 @@
       "breaking": false
     },
     {
+      "id": "b01fbdfc29e52c6e",
+      "rank": 8,
+      "title": "UBS flags level in gold prices where dip buyers will likely emerge",
+      "summary": "UBS strategist Giovanni Staunovo expects gold to retest about $4,000 an ounce in the near term, where he sees structural dip buyers establishing a floor; pullbacks there 'offer opportunities to add exposure'. UBS cites high real yields and a firm dollar as near-term headwinds but points to resilient ETF inflows and central-bank buying as support. UBS forecasts gold at $5,400 by September 2027.",
+      "url": "https://www.investing.com/news/commodities-news/ubs-flags-level-in-gold-prices-where-dip-buyers-will-likely-emerge-4940414",
+      "source": "Investing.com",
+      "source_domain": "investing.com",
+      "publisher_id": "investing",
+      "published_at": "2026-10-09T09:16:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "global",
+        "central-banks"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://finance.yahoo.com/markets/commodities/articles/ubs-flags-level-gold-prices-091651885.html"
+      ]
+    },
+    {
+      "id": "57ec43d7a7211bb6",
+      "rank": 9,
+      "title": "Silver Price Forecast – Silver Bounces from Crucial Level",
+      "summary": "FXEmpire senior analyst Christopher Lewis says silver is bouncing off the crucial $60 level, with spot around $60.92, up about 2.2%. He names $60 — a large round figure and the top of a prior support area — as the key floor, with $62.50 as the next barrier and possible demand down to $55 if support breaks.",
+      "url": "https://www.fxempire.com/forecasts/article/silver-price-forecast-silver-bounces-from-crucial-level-1637037",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "published_at": "2026-10-09T13:01:00Z",
+      "image_url": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/silver-precious-metal-price-chart-06-1.jpg?func=cover&q=70&width=1201",
+      "image_kind": "photo",
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "tags": [
+        "silver",
+        "global",
+        "comex"
+      ],
+      "breaking": false
+    },
+    {
       "id": "761ab48a2d638f18",
-      "rank": 5,
+      "rank": 10,
       "title": "Gold may draw support from decline in Oct Fed rate hike bet: Mirae Asset",
       "summary": "Mirae Asset Sharekhan's Praveen Singh says gold may draw support as October Fed-hike odds fall to 20% from 72% two weeks ago, seeing $4,030-$4,225 as a strong dollar and high yields cap gains. Global gold ETF holdings hit a four-year high of 101.24 Moz; China's central bank bought 21 tonnes in September, its 23rd straight month. LBMA delegates expect gold near $5,013 an ounce in a year.",
       "url": "https://www.business-standard.com/markets/news/gold-may-draw-support-from-decline-in-oct-fed-rate-hike-bet-mirae-asset-126100900485_1.html",
@@ -183,7 +311,7 @@
     },
     {
       "id": "873ab1cab0a682eb",
-      "rank": 6,
+      "rank": 11,
       "title": "Silver may trade at $58-$61 as dollar, yields weigh, says Mirae Asset",
       "summary": "Mirae Asset Sharekhan's Praveen Singh expects silver to range between $58 and $61 after slumping to a two-month low near $58.50, with a strong dollar, elevated bond yields and subdued ETF inflows keeping pressure on. Silver ETF holdings stand at 801.92 million ounces, down 7.7% this year, while COMEX inventories hit an eight-month high. LBMA delegates see silver rising to $94.70 in a year.",
       "url": "https://www.business-standard.com/markets/news/silver-may-trade-at-58-61-as-dollar-yields-weigh-says-mirae-asset-126100900471_1.html",
@@ -208,7 +336,7 @@
     },
     {
       "id": "7058b1c28ac15fcc",
-      "rank": 7,
+      "rank": 12,
       "title": "RBI's sell-buy swaps slow rupee's fall but push up forward premiums, making hedging costlier for foreign investors",
       "summary": "The RBI's sell-buy swaps — selling dollars spot with a promise to buy back later — slowed the rupee's slide but pushed the one-year dollar-rupee forward premium to 8.65% from 7.40% under a month ago, raising hedging costs for foreign investors and potentially discouraging debt and portfolio inflows. The rupee closed at 96.79 per dollar, near its 96.96 record low, as Brent jumped to $104 a barrel.",
       "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbis-sell-buy-swaps-slow-rupees-fall-but-push-up-forward-premiums-making-hedging-costlier-for-foreign-investors/articleshow/134803233.cms",
@@ -233,31 +361,6 @@
       ]
     },
     {
-      "id": "cca5598a84506888",
-      "rank": 8,
-      "title": "Gold rebounds Rs 3,600 to Rs 1.52 lakh per 10g ahead of festive season",
-      "summary": "Gold jumped Rs 3,600 to Rs 1.52 lakh per 10 grams in Delhi on Thursday as jewellers restocked ahead of the festive season, rebounding from a two-session slide. Silver fell Rs 3,000 to Rs 2.24 lakh per kg, its weakest in over three months. Spot gold was around $4,112 globally while silver slipped over 2% to $58.50.",
-      "url": "https://thesentimes.com/gold-rebounds-rs-3600-to-rs-1-52-lakh-per-10g-ahead-of-festive-season/",
-      "source": "The Sen Times",
-      "source_domain": "thesentimes.com",
-      "publisher_id": "sen-times",
-      "published_at": "2026-10-08T12:00:00Z",
-      "image_url": "https://thesentimes.com/storage/2026/06/Gold-bangles-Delhi-India.webp",
-      "image_kind": "photo",
-      "tags": [
-        "mcx",
-        "gold",
-        "silver",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false
-    },
-    {
       "id": "2822ed3e61ef51ff",
       "title": "Silver's long-term outlook remains bullish as new investment products offer income opportunities",
       "summary": "Amplify ETFs' Nate Miller says silver's long-term uptrend is intact: spot near $59 an ounce is down on the day but well above last year's roughly $50, supported by solar and industrial demand. New covered-call ETF products let investors earn income from the non-yielding metal, broadening its buyer base.",
@@ -277,11 +380,11 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 13
     },
     {
       "id": "3f77426fbf27f37d",
-      "rank": 10,
+      "rank": 14,
       "title": "PC Jeweller shares glitter with 55% returns in YTD! Further price rally today | What's boosting the stock?",
       "summary": "PC Jeweller shares extended their 2026 run — up about 55% year-to-date — after a provisional Q2 FY27 update showed consolidated revenue up roughly 28% year-on-year on strong festive demand. The stock climbed over 7% on Thursday to Rs 14.15; the company completed a Rs 500 crore fundraise on September 24 and is targeting debt-free status by end-FY27 after returning to profitability in FY25.",
       "url": "https://www.livemint.com/market/stock-market-news/pc-jeweller-shares-glitter-with-55-returns-in-ytd-further-price-rally-today-whats-boosting-the-stock-11791520124450.html",
