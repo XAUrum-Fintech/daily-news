@@ -1,20 +1,21 @@
-# Gold & Silver for Indian buyers · 2026-10-10T00:00Z
+# Gold & Silver for Indian buyers · 2026-10-10T02:00Z
 
-> Gold reclaims $4,200 as softer yields and a weaker dollar power a broad precious-metals rebound
+> Gold holds near $4,200 after Friday's broad metals rebound; US banks set for record $5B metals-trading year
 
-Spot gold climbed 1.5% to $4,194.36 on Friday, touching a one-week high and heading for a weekly gain of about 1.3% as bargain buying followed Wednesday's two-month low; US December futures settled at $4,216.3 while COMEX silver rose above $60.60. Analysts put near-term resistance at $4,200, with next week's US CPI the likely catalyst; the PBOC extended gold buying to a 23rd month and global gold ETFs drew record Q3 inflows of $31B. In India, the end of banks' bullion import tax benefit and rebounding prices kept festive demand on pause.
+Spot gold rose 1.5% to $4,194.36 on Friday, touching a one-week high and heading for a weekly gain of about 1.3% as bargain buying followed Wednesday's two-month low; December futures settled at $4,216.3 while COMEX silver rose above $60.60. The rally's scale showed up on Wall Street too, where analysts expect banks to earn a record $5 billion from precious-metals trading in 2026. In India, the end of banks' bullion import tax benefit and rebounding prices kept festive demand on pause.
 
-- Spot gold +1.5% to $4,194.36 Friday for a second straight session; weekly gain ~1.3%; Dec futures settled at $4,216.3.
-- Silver +2.4% to $60.77; platinum +3.1% to $1,685.64; palladium +2.1%. COMEX silver touched $60.62 (+2.01%).
-- PBOC gold buying ran to a 23rd month; Russia to quintuple FX and gold purchases from Oct 7 to Nov 6.
-- WGC: global gold ETFs drew a record $31B in Q3; holdings hit a record 4,256 tonnes.
-- India: bank bullion-import tax benefit withdrawn; festive buying paused as prices rebounded; reserves fell $12.95B.
+- Spot gold +1.5% to $4,194.36 Friday; weekly gain ~1.3%; Dec futures settled at $4,216.3.
+- Silver +2.4% to $60.77; platinum +3.1% to $1,685.64. COMEX silver touched $60.62 (+2.01%).
+- US banks on track for record $5B in 2026 metals-trading revenue; JPMorgan made ~$700M in H1.
+- PBOC gold buying ran to a 23rd month; WGC: record $31B Q3 ETF inflows, 4,256 tonnes holdings.
+- India: bank bullion-import tax benefit withdrawn; festive buying paused as prices rebounded.
 
 ## Trending
-- **Rally stalls near $4,200 ahead of CPI**: Gold's rebound from a two-month low hit $4,200 resistance as elevated yields and December hike bets capped the move; next week's US inflation data decides whether it breaks higher or re-tests $4,000. (stories 1, 3)
+- **Rally stalls near $4,200 ahead of CPI**: Gold's rebound from a two-month low hit $4,200 resistance as elevated yields and December hike bets capped the move; next week's US inflation data decides whether it breaks higher or re-tests $4,000. (stories 1,3)
 - **Asia rides the metals rebound**: COMEX and Shanghai futures rose in tandem, China's precious-metals stocks surged over 5%, and spot silver trading stayed active after the holiday on central-bank buying and record ETF inflows. (stories 4)
-- **India's festive demand stays on pause**: With the bank import tax benefit gone and prices rebounding, dealers quoted discounts of up to $60/oz and jewellers avoided fresh stocking ahead of Dussehra and Diwali. (stories 2, 5)
-- **Fed-hike risk still caps the rebound**: Fed officials see another hike coming and minutes showed unanimous September support with a split on more; traders price a 19% chance of an October move and 84% by December. (stories 6)
+- **India's festive demand stays on pause**: With the bank import tax benefit gone and prices rebounding, dealers narrowed discounts to up to $6 an ounce and jewellers avoided fresh stocking ahead of Dussehra and Diwali. (stories 2,5)
+- **Banks cash in on the metals boom**: Wall Street's precious-metals desks are on track for a record $5 billion revenue year, with JPMorgan earning about $700 million in the first half and Deutsche Bank back in bullion trading. (stories 10)
+- **Fed-hike risk still caps the rebound**: Most FOMC policymakers expect another rate hike by year-end, and a December move remains on the table — the main cap on gold's rebound into the weekend. (stories 6)
 
 ## Stories
 1. [Gold hits one-week high, heads for weekly gain on bargain-hunting](https://www.kitco.com/news/off-the-wire/2026-10-09/gold-hits-one-week-high-heads-weekly-gain-bargain-hunting) — *Kitco*, 2026-10-09T19:29:00Z
@@ -35,7 +36,9 @@ Spot gold climbed 1.5% to $4,194.36 on Friday, touching a one-week high and head
    MCX gold futures opened higher at Rs 1,49,689 per 10 grams but swung between Rs 1,48,965 and Rs 1,49,900, last trading near Rs 1,49,160; February 2026 gold held at Rs 1,51,188. December silver opened at Rs 2,23,806, touched Rs 2,24,652, then fell to Rs 2,21,367. Enrich Money's Ponmudi R flagged gold resistance at Rs 1,50,000-1,50,700 and support at Rs 1,48,000-1,47,300.
 9. [Gold steady near ₹1.49 lakh per 10 grams on MCX; silver under pressur: Key levels to watch](https://www.cnbctv18.com/market/commodities/gold-steady-mcx-india-silver-under-pressur-key-levels-to-watch-20007707.htm) — *CNBC-TV18*, 2026-10-08T10:41:00Z
    MCX December gold held near Rs 1.49 lakh per 10 grams while December silver fell 1.24% to Rs 2.20 lakh a kg, pressured by a stronger dollar, US rate-hike expectations and high oil prices. Analysts cited spot gold support near $4,000 an ounce (about Rs 1.44 lakh on MCX) and silver support at Rs 2.22-2.23 lakh a kg, with the rupee at Rs 96.77 to the dollar.
-10. [India's forex reserves fall by $12.95 billion to $734.61 billion in week ended Oct 2: RBI](https://www.devdiscourse.com/article/business/3989801-indias-forex-reserves-fall-by-1295-billion-to-73461-billion-in-week-ended-oct-2-rbi) — *Devdiscourse*, 2026-10-09T13:05:00Z
+10. [Gold, silver boom puts US bank trading revenues on track for record $5 billion](https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-silver-boom-puts-us-bank-trading-revenues-on-track-for-record-5-billion/articleshow/134841433.cms) — *Economic Times*, 2026-10-09T18:48:00Z
+   US banks are on track to earn a record $5 billion from precious-metals trading in 2026, per Crisil Coalition Greenwich data cited by the Economic Times. JPMorgan, the dominant player, made roughly $700 million in the first half, while Deutsche Bank's return to bullion trading brought in more than $200 million; Citigroup became the first new London bullion clearing member in a decade.
+11. [India's forex reserves fall by $12.95 billion to $734.61 billion in week ended Oct 2: RBI](https://www.devdiscourse.com/article/business/3989801-indias-forex-reserves-fall-by-1295-billion-to-73461-billion-in-week-ended-oct-2-rbi) — *Devdiscourse*, 2026-10-09T13:05:00Z
    India's foreign exchange reserves fell $12.95 billion to $734.61 billion in the week ended October 2, driven by a $10.66 billion drop in foreign currency assets and a $2.29 billion fall in gold reserves to $106.41 billion, RBI data showed. Reserves remained $43.5 billion above end-March 2026 levels.
-11. [Frank Talk: Gold miners beat every S&P 500 sector in Q3 despite September selloff](https://www.proactiveinvestors.com/companies/news/1099919/frank-talk-gold-miners-beat-every-s-p-500-sector-in-q3-despite-september-selloff-1099919.html) — *Proactive Investors*, 2026-10-09T17:14:00Z
+12. [Frank Talk: Gold miners beat every S&P 500 sector in Q3 despite September selloff](https://www.proactiveinvestors.com/companies/news/1099919/frank-talk-gold-miners-beat-every-s-p-500-sector-in-q3-despite-september-selloff-1099919.html) — *Proactive Investors*, 2026-10-09T17:14:00Z
    Gold mining stocks, measured by the NYSE Arca Gold Miners Index, returned 17.4% in the third quarter, beating every S&P 500 sector including energy at 17.2%, while the S&P 500 itself returned 2.3%. September was rough as gold fell 6.3% on Fed rate hikes and rising real yields, though Frank Holmes cited central-bank buying, $3.8B of September ETF inflows and resilient China and India demand.
