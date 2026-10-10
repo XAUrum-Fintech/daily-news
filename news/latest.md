@@ -1,20 +1,20 @@
-# Gold & Silver for Indian buyers · 2026-10-10T09:00Z
+# Gold & Silver for Indian buyers · 2026-10-10T11:00Z
 
 > Gold retests $4,200 as softer dollar and yields fuel Friday rebound; festive buying picks up in India
 
-Spot gold climbed 1.5% to about $4,194 on Friday, testing the $4,200 level as a softer US dollar, retreating Treasury yields and bargain buying reversed a midweek selloff, with silver up 2.77% near $60.70. In India, retailers report gold buying picking up after the price correction, with shoppers prioritising affordability ahead of the festival season. Policy stays in focus: India has not extended the 3% IGST exemption on bullion imports by banks, and the RBI tightened forex derivative rules; next week's US CPI is the key catalyst for the Fed's rate path.
+Spot gold climbed 1.5% to about $4,194 on Friday, testing the $4,200 level as a softer US dollar, retreating Treasury yields and bargain buying reversed a midweek selloff, with silver up 2.77% near $60.70. In India, retailers report gold buying picking up after the price correction, with shoppers prioritising affordability ahead of the festival season. Policy stays in focus: India has not extended the 3% IGST exemption on bullion imports by banks, and the RBI tightened forex derivative rules; September CPI on October 14 is the next key test for the Fed's rate path.
 
-- Spot gold rose 1.5% to ~$4,194 on Friday, testing $4,200 as dollar softness, easing 10-year yields (~5.24%) and bargain buying reversed the midweek selloff.
-- Silver gained 2.77% to ~$60.70; analysts cite steady industrial demand outside solar alongside investment flows.
+- Spot gold rose 1.5% to ~$4,194 on Friday, testing $4,200 as dollar softness, easing Treasury yields and bargain buying reversed the midweek selloff.
+- Silver gained 2.77% to ~$60.70 on Friday alongside gold; MCX December silver rose 1.64% to Rs 2.24 lakh/kg.
 - Gold buying is picking up after the price correction but shoppers prioritise affordability, retailers say; PN Gadgil's Q2 revenue rose 22.4% on festive demand.
 - India has not extended the 3% IGST exemption on gold, silver and platinum imports by banks since April 1, 2026, per the Revenue Secretary.
 - Traders price a 19% chance of an October Fed hike and 84% for at least one by December; September CPI on October 14 is the next key data point.
 
 ## Trending
-- **The $4,200 test**: Gold's Friday rebound reversed the midweek selloff as softer yields and a weaker dollar overpowered rate-hike fears; whether it holds above $4,180-$4,200 into next week's CPI will set the tone. (stories 796bb8fa16d53ae8, 5a82e8d64c1dd8ea, b98c19a2f0e97844)
-- **Festival demand vs high prices**: Indian retailers report footfall recovering after the price correction but wallets staying tight, while jewellers post strong festive-season numbers ahead of Diwali. (stories d88e80963a088aa9, a9a909c2f6914b3f)
-- **Policy tightening at the margins**: The lapsed IGST exemption for bank bullion imports and tighter RBI forex-derivative rules add friction for Indian market participants. (stories 42b46ac4e1f5442e, 3586f16aa5e98996)
-- **Silver's quiet strength**: Silver near $60.70 draws support from both investment flows and industrial demand outside solar, though Thursday's sharp intraday swings warn of volatility. (stories ac3b8af9fb9b0625, 796bb8fa16d53ae8, b9d788c5eb2f4ab1)
+- **The $4,200 test**: Gold's Friday rebound reversed the midweek selloff as softer yields and a weaker dollar overpowered rate-hike fears; whether it holds above $4,180-$4,200 into next week's CPI will set the tone. (stories 2, 4, 5)
+- **Festival demand vs high prices**: Indian retailers report footfall recovering after the price correction but wallets staying tight, while jewellers post strong festive-season numbers ahead of Diwali. (stories 1, 9)
+- **Policy tightening at the margins**: The lapsed IGST exemption for bank bullion imports and tighter RBI forex-derivative rules add friction for Indian market participants. (stories 3, 8)
+- **Record ETF demand meets a softer dollar**: Gold-backed ETFs added 67.3 tonnes in September to a record 4,256 tonnes, with Q3 inflows of a record $31 billion — investors bought the dip even as prices fell. (stories 6)
 
 ## Stories
 1. [Gold buying picks up after price correction, but shoppers prioritise affordability](https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/gold-buying-picks-up-after-price-correction-but-shoppers-prioritise-affordability/articleshow/134847565.cms) — *Economic Times*, 2026-10-10T04:59:03Z
@@ -33,9 +33,7 @@ Spot gold climbed 1.5% to about $4,194 on Friday, testing the $4,200 level as a 
    MCX December gold futures rose Rs 1,690 (1.13%) to Rs 1.51 lakh/10g on Friday; December silver gained Rs 3,626 (1.64%) to Rs 2.24 lakh/kg, tracking global gains as US yields eased and the dollar weakened, CNBC TV18 reports. A strong 30-year Treasury auction and softer oil after the US postponed a potential Iran strike helped. Gold ETF holdings may be rising for a 12th straight week.
 8. [RBI tightens forex derivative rules: What changes for hedging, cancelled trades](https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-tightens-forex-derivative-rules-what-changes-for-hedging-cancelled-trades/articleshow/134847351.cms) — *Economic Times*, 2026-10-10T04:35:00Z
    The RBI has tightened rupee-linked forex derivative rules: dealers may no longer allow rebooking of cancelled INR contracts, and the threshold for deals without underlying exposure drops from $100m to $5m, including on exchanges. Dealers must take undertakings against double-hedging and keep a 20% cash Foreign Exchange Risk Reserve with the RBI for covered contracts above $2m notional.
-9. [Silver demand is quietly growing outside solar](https://www.fxstreet.com/analysis/silver-demand-is-quietly-growing-outside-solar-202610081041) — *FXStreet*, 2026-10-08T10:41:00Z
-   Silver used in electrical and electronic goods other than solar panels is forecast to grow about 3.4% this year - roughly 9 million more ounces - led by AI infrastructure, EVs and power-grid investment, per Metals Focus and the Silver Institute data. That growth does not offset this year's sharp fall in solar silver use.
-10. [PN Gadgil Jewellers Q2 revenue jumps 22.4% on festive demand](https://www.tradingview.com/news/cnbctv:5629a4945094b:0/) — *TradingView*, 2026-10-09T10:00:00Z
+9. [PN Gadgil Jewellers Q2 revenue jumps 22.4% on festive demand](https://www.tradingview.com/news/cnbctv:5629a4945094b:0/) — *TradingView*, 2026-10-09T10:00:00Z
    PN Gadgil Jewellers reported a 22.4% year-on-year rise in Q2 revenue, led by 31.1% retail growth and 25.5% same-store sales growth, crediting strong retail performance and festive demand, CNBC TV18 reports. Raksha Bandhan sales jumped 114% in pieces and 142% in value versus last year. Gold revenue grew 23.5%, diamond 21% and silver 12%. The jeweller has 80 stores, targeting 103 by end-FY27.
-11. [India's forex reserves fall $12.95 billion to $734.61 billion in week ended Oct 2](https://www.devdiscourse.com/article/business/3989801-indias-forex-reserves-fall-by-1295-billion-to-73461-billion-in-week-ended-oct-2-rbi) — *Devdiscourse*, 2026-10-09T13:30:00Z
+10. [India's forex reserves fall $12.95 billion to $734.61 billion in week ended Oct 2](https://www.devdiscourse.com/article/business/3989801-indias-forex-reserves-fall-by-1295-billion-to-73461-billion-in-week-ended-oct-2-rbi) — *Devdiscourse*, 2026-10-09T13:30:00Z
    India's forex reserves fell $12.95bn to $734.61bn in the week ended October 2, RBI data released Friday showed, per ANI. Foreign currency assets dropped $10.66bn to $604.75bn, while gold reserves declined $2.29bn to $106.41bn. Reserves remain $43.5bn above end-March 2026 levels and $34.6bn higher year-on-year, as the RBI keeps managing rupee volatility.
