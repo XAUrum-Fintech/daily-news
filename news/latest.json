@@ -1,54 +1,53 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-10T04:00Z",
-  "generated_at": "2026-10-10T04:03:52Z",
+  "edition_id": "2026-10-10T05:00Z",
+  "generated_at": "2026-10-10T05:02:09Z",
   "window": {
-    "from": "2026-10-10T02:00:00Z",
-    "to": "2026-10-10T04:00:00Z"
+    "from": "2026-10-10T04:00:00Z",
+    "to": "2026-10-10T05:00:00Z"
   },
   "insights": {
-    "headline": "Gold ends the week near $4,200 as MCX futures top ₹1.51 lakh; India's bank bullion tax break withdrawn",
-    "summary": "Spot gold climbed about 1.5% to $4,194 on Friday, touching a one-week high and closing the week higher as a softer dollar and easing Treasury yields drew bargain buyers back after Wednesday's two-month low. On MCX, December gold futures rose 1.13% to ₹1,51,300 per 10 grams. The rally came as odds of an October Fed rate hike collapsed from 72% to 20%, while India withdrew the tax benefit banks enjoyed on bullion imports, raising import costs weeks before Dhanteras. Physical demand stayed on pause: dealers quoted discounts of up to $6 an ounce as consumers waited for a correction.",
+    "headline": "RBI tightens forex hedging rules as gold holds near $4,200 and MCX tops ₹1.51 lakh",
+    "summary": "The RBI barred rebooking of cancelled rupee forex derivative contracts, cut the no-underlying-exposure threshold to $5 million and imposed a 20% cash reserve on covered contracts — the second RBI tightening to hit bullion importers after the withdrawn bank tax benefit. Gold ended the week near $4,200 on bargain buying, lifting MCX December futures above ₹1.51 lakh per 10 grams. Indian physical demand stayed sluggish as prices rebounded, with dealers narrowing discounts ahead of Dussehra and Diwali. Silver held in the $58-61 range while the rupee steadied at 96.73 after RBI intervention.",
     "points": [
-      "Spot gold +1.5% to $4,194 Friday, a one-week high; weekly gain ~1.3%; NY Dec futures near $4,191.5.",
-      "MCX Dec gold +1.13% to ₹1,51,300/10g on fresh positions; silver futures +1.64% to ₹2.24 lakh/kg.",
-      "India withdrew banks' tax benefit on gold, silver, platinum imports, raising supply-chain funding pressure.",
-      "Oct Fed hike odds fell to 20% from 72%; China's central bank bought gold a 23rd straight month (+21t).",
-      "India physical demand paused: discounts narrowed to $6/oz; jewellers await a correction before Dhanteras."
+      "RBI forex derivatives: no rebooking of cancelled INR contracts; threshold cut to $5M; 20% cash reserve (FERR) above $2M notional.",
+      "Gold near $4,200, up about 1.3% on the week, after bargain buying off a two-month low; MCX gold above ₹1.51 lakh.",
+      "India did not extend the 3% IGST exemption for bank/agency bullion imports — import costs up since April.",
+      "Physical demand sluggish as domestic gold rebounds toward ₹1.51 lakh/10g; dealer discounts narrowed to $6/oz from $14.",
+      "Silver in the $58-61 range per Mirae; rupee at 96.73 after RBI intervention; next week's US CPI is the next trigger."
     ]
   },
   "trending": [
     {
-      "title": "Friday's rebound runs into the $4,200 ceiling",
-      "summary": "Gold recovered from its $4,066 two-month low to test $4,200 as yields eased and Fed hike bets faded; Mirae Asset sees $4,160-$4,185 resistance capping the move and a $4,030-$4,225 range near term.",
-      "item_ids": [
-        "6294dda4ef1cae21",
-        "761ab48a2d638f18"
-      ]
-    },
-    {
-      "title": "India's priciest festive season takes shape",
-      "summary": "With Dhanteras on November 6, MCX gold near ₹1.51 lakh, discounts down to $6/oz and the bank import tax benefit gone, Indian buyers are pausing for a correction rather than stocking up.",
+      "title": "RBI stacks two tightenings on bullion importers",
+      "summary": "Within days, banks lost their 3% IGST exemption on bullion imports and forex hedging got costlier: no rebooking of cancelled rupee contracts, 20% cash reserve on larger hedges. Both raise landed cost.",
       "item_ids": [
         "42b46ac4e1f5442e",
-        "191011c05dd32b92",
+        "3586f16aa5e98996"
+      ]
+    },
+    {
+      "title": "Gold finds a floor near $4,200 after the washout",
+      "summary": "Bargain buying off a two-month low lifted gold 1.5% to a one-week high, with MCX futures reclaiming ₹1.51 lakh. Fading October Fed-hike bets did the work; next week's US CPI decides the floor.",
+      "item_ids": [
+        "6294dda4ef1cae21",
+        "761ab48a2d638f18",
         "13b5d4675d40ce33"
       ]
     },
     {
-      "title": "Central banks keep buying the dip",
-      "summary": "China's central bank added 21 tonnes in September, its 23rd straight month of purchases; LBMA delegates see gold near $5,013 within a year and US banks head for a record $5B metals-trading year.",
+      "title": "India's festive buyers sit out the rebound",
+      "summary": "Demand was sluggish as prices bounced to about ₹1.51 lakh per 10g; dealers narrowed discounts from $14 to $6/oz, betting festive investment demand could flip the market to a premium.",
       "item_ids": [
-        "761ab48a2d638f18",
-        "c030a8d4941b09d3"
+        "191011c05dd32b92"
       ]
     },
     {
-      "title": "Silver rides gold's coattails",
-      "summary": "Silver climbed about 2.4% to near $60.77 alongside gold's rebound, with MCX silver futures up 1.64% to ₹2.24 lakh per kg; Mirae Asset puts the near-term range at $58-$61.",
+      "title": "Silver the laggard, holding $58-61",
+      "summary": "Silver slipped to a near two-month low of $58.50 before recovering; Mirae sees $58-61 near term — a wider band than gold's for buyers watching MCX silver near ₹2.21 lakh/kg.",
       "item_ids": [
         "873ab1cab0a682eb",
-        "13b5d4675d40ce33"
+        "2af50f3c1c87a8ac"
       ]
     }
   ],
@@ -84,6 +83,30 @@
       ]
     },
     {
+      "id": "3586f16aa5e98996",
+      "rank": 2,
+      "title": "RBI tightens forex derivative rules: What changes for hedging, cancelled trades",
+      "summary": "The RBI has tightened rules for rupee-linked forex derivatives: cancelled contracts can no longer be rebooked with any dealer, the limit for trades without establishing underlying exposure drops to $5 million from $100 million, dealers must collect hedging undertakings from users, and a 20% cash reserve (FERR) now applies to covered contracts above $2 million notional.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-tightens-forex-derivative-rules-what-changes-for-hedging-cancelled-trades/articleshow/134847351.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-10-10T04:35:34Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/3586f16aa5e98996.jpg",
+      "image_kind": "photo",
+      "category": "policy",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "rupee",
+        "rbi",
+        "india"
+      ],
+      "breaking": false
+    },
+    {
       "id": "13b5d4675d40ce33",
       "title": "Gold futures rise to ₹1.51 lakh/10 gm on firm spot demand",
       "summary": "MCX December gold futures climbed ₹1,690 (1.13%) to ₹1,51,300 per 10 grams on Friday as speculators built fresh positions on firm spot demand. The domestic rally tracked New York gold futures, up 1.43% to $4,191.51 an ounce on a softer dollar and easing Treasury yields.",
@@ -104,11 +127,11 @@
         "india"
       ],
       "breaking": false,
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "6294dda4ef1cae21",
-      "rank": 3,
+      "rank": 4,
       "title": "Gold hits one-week high, heads for weekly gain on bargain-hunting",
       "summary": "Gold rose 1.5% to $4,194.36 on Friday, a second straight gain that took it to a one-week high and put it on course for a weekly rise of about 1.3%, as bargain buying followed Wednesday's two-month low. December US futures settled at $4,216.3. Reuters reports analysts see a floor near $4,000 with next week's US CPI the next catalyst; India demand stayed sluggish; silver +2.4%, platinum +3.1%.",
       "url": "https://www.kitco.com/news/off-the-wire/2026-10-09/gold-hits-one-week-high-heads-weekly-gain-bargain-hunting",
@@ -134,12 +157,16 @@
       "breaking": false,
       "related_urls": [
         "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-gold-tests-4200-amid-broad-rally-in-precious-metals-markets-1637122",
-        "https://www.kitco.com/news/article/2026-10-09/gold-price-holds-critical-4100-support-can-it-break-4200-inflation-risks"
+        "https://www.kitco.com/news/article/2026-10-09/gold-price-holds-critical-4100-support-can-it-break-4200-inflation-risks",
+        "https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-one-week-high-heads-for-weekly-gain-on-bargain-hunting/articleshow/134847226.cms",
+        "https://www.livemint.com/market/gold-hits-one-week-high-heads-for-weekly-gain-on-bargainhunting-11791575483915.html",
+        "https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-one-week-high-heads-for-weekly-gain-on-bargain-hunting/articleshow/134847226.cms",
+        "https://www.livemint.com/market/gold-hits-one-week-high-heads-for-weekly-gain-on-bargainhunting-11791575483915.html"
       ]
     },
     {
       "id": "191011c05dd32b92",
-      "rank": 4,
+      "rank": 5,
       "category": "festive",
       "metals": [
         "gold"
@@ -182,11 +209,11 @@
         "global"
       ],
       "breaking": false,
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "b98c19a2f0e97844",
-      "rank": 6,
+      "rank": 7,
       "title": "Wall Street nears bullish majority after gold's late-week rally, Main Street stays cautious",
       "summary": "Gold climbed to a weekly high of $4,207.48 and closed near $4,195, up 1.28% on the week, as softer yields, a weaker dollar and dip-buying near $4,100 overcame early rate-hike fears, Kitco reports. Its weekly survey found 50% of Wall Street analysts bullish, while only 45% of retail investors expect gains. Next week's US CPI and PPI data and Fed chair comments are the next test.",
       "url": "https://www.kitco.com/news/article/2026-10-09/wall-street-nears-bullish-majority-after-golds-late-week-rally-main-street",
@@ -206,31 +233,6 @@
         "comex"
       ],
       "breaking": false
-    },
-    {
-      "id": "c030a8d4941b09d3",
-      "rank": 7,
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "title": "Gold, silver boom puts US bank trading revenues on track for record $5 billion",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-silver-boom-puts-us-bank-trading-revenues-on-track-for-record-5-billion/articleshow/134841433.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "publisher_id": "economic-times",
-      "published_at": "2026-10-09T18:48:00Z",
-      "summary": "US banks are on track to earn a record $5 billion from precious-metals trading in 2026, per Crisil Coalition Greenwich data cited by the Economic Times. JPMorgan, the dominant player, made roughly $700 million in the first half, while Deutsche Bank's return to bullion trading brought in more than $200 million; Citigroup became the first new London bullion clearing member in a decade.",
-      "tags": [
-        "gold",
-        "silver",
-        "global"
-      ],
-      "breaking": false,
-      "related_urls": [],
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/c030a8d4941b09d3.jpg",
-      "image_kind": "photo"
     },
     {
       "id": "e67eda0677e8db27",
@@ -255,7 +257,11 @@
         "india",
         "mcx"
       ],
-      "breaking": false
+      "breaking": false,
+      "related_urls": [
+        "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-to-intra-day-high-then-slips-on-dollar-demand/articleshow/134847163.cms",
+        "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-to-intra-day-high-then-slips-on-dollar-demand/articleshow/134847163.cms"
+      ]
     },
     {
       "id": "873ab1cab0a682eb",
