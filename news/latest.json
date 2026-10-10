@@ -1,316 +1,418 @@
 {
-  "schema": "orob-news.v1",
-  "edition_id": "2026-10-10T11:00Z",
-  "generated_at": "2026-10-10T11:02:27Z",
-  "window": {
-    "from": "2026-10-10T09:00:00Z",
-    "to": "2026-10-10T11:00:00Z"
-  },
-  "insights": {
-    "headline": "Gold retests $4,200 as softer dollar and yields fuel Friday rebound; festive buying picks up in India",
-    "summary": "Spot gold climbed 1.5% to about $4,194 on Friday, testing the $4,200 level as a softer US dollar, retreating Treasury yields and bargain buying reversed a midweek selloff, with silver up 2.77% near $60.70. In India, retailers report gold buying picking up after the price correction, with shoppers prioritising affordability ahead of the festival season. Policy stays in focus: India has not extended the 3% IGST exemption on bullion imports by banks, and the RBI tightened forex derivative rules; September CPI on October 14 is the next key test for the Fed's rate path.",
-    "points": [
-      "Spot gold rose 1.5% to ~$4,194 on Friday, testing $4,200 as dollar softness, easing Treasury yields and bargain buying reversed the midweek selloff.",
-      "Silver gained 2.77% to ~$60.70 on Friday alongside gold; MCX December silver rose 1.64% to Rs 2.24 lakh/kg.",
-      "Gold buying is picking up after the price correction but shoppers prioritise affordability, retailers say; PN Gadgil's Q2 revenue rose 22.4% on festive demand.",
-      "India has not extended the 3% IGST exemption on gold, silver and platinum imports by banks since April 1, 2026, per the Revenue Secretary.",
-      "Traders price a 19% chance of an October Fed hike and 84% for at least one by December; September CPI on October 14 is the next key data point."
-    ]
-  },
-  "trending": [
-    {
-      "title": "The $4,200 test",
-      "summary": "Gold's Friday rebound reversed the midweek selloff as softer yields and a weaker dollar overpowered rate-hike fears; whether it holds above $4,180-$4,200 into next week's CPI will set the tone.",
-      "item_ids": [
-        "796bb8fa16d53ae8",
-        "5a82e8d64c1dd8ea",
-        "b98c19a2f0e97844"
-      ]
-    },
-    {
-      "title": "Festival demand vs high prices",
-      "summary": "Indian retailers report footfall recovering after the price correction but wallets staying tight, while jewellers post strong festive-season numbers ahead of Diwali.",
-      "item_ids": [
-        "d88e80963a088aa9",
-        "a9a909c2f6914b3f"
-      ]
-    },
-    {
-      "title": "Policy tightening at the margins",
-      "summary": "The lapsed IGST exemption for bank bullion imports and tighter RBI forex-derivative rules add friction for Indian market participants.",
-      "item_ids": [
-        "42b46ac4e1f5442e",
-        "3586f16aa5e98996"
-      ]
-    },
-    {
-      "title": "Record ETF demand meets a softer dollar",
-      "summary": "Gold-backed ETFs added 67.3 tonnes in September to a record 4,256 tonnes, with Q3 inflows of a record $31 billion — investors bought the dip even as prices fell.",
-      "item_ids": [
-        "7f740dccc375065a"
-      ]
-    }
-  ],
-  "items": [
-    {
-      "id": "d88e80963a088aa9",
-      "rank": 1,
-      "title": "Gold buying picks up after price correction, but shoppers prioritise affordability",
-      "summary": "Indian gold retailers report customer footfall picking up after the price correction from the highs, but shoppers are prioritising affordability and staying within budgets, ET Bureau reports.",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/gold-buying-picks-up-after-price-correction-but-shoppers-prioritise-affordability/articleshow/134847565.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "publisher_id": "economic-times",
-      "published_at": "2026-10-10T04:59:03Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/d88e80963a088aa9.jpg",
-      "image_kind": "photo",
-      "category": "festive",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "india",
-        "jewellery"
-      ],
-      "breaking": false,
-      "related_urls": []
-    },
-    {
-      "id": "796bb8fa16d53ae8",
-      "rank": 2,
-      "title": "Gold tests $4,200 as weak sentiment offsets sticky inflation expectations",
-      "summary": "Spot gold traded near $4,194.50 an ounce, up 1.5%, in late US trading Friday as a softer dollar, retreating Treasury yields and bargain buying reversed the midweek selloff. Silver traded near $60.70, up 2.77%. Traders priced a 19% chance of an October Fed hike and 84% for at least one by December, with September CPI on October 14 the next key test.",
-      "url": "https://www.kitco.com/news/article/2026-10-09/gold-tests-4200-weak-sentiment-offsets-sticky-inflation-expectations-kitco",
-      "source": "Kitco",
-      "source_domain": "kitco.com",
-      "publisher_id": "kitco",
-      "published_at": "2026-10-09T21:00:00Z",
-      "image_url": "https://image-api.prod.kitco.com/image/5768df25-c265-4c2d-a489-e51917a45667.jpeg?top=0&left=0.11827211827215&width=1023.7634557635&height=576&scale_width=1920&token=8a33ae11a06211700df645bd5a23476dbd7e4a750609ea997bf49d32f4638e66",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "global",
-        "fed"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-gold-tests-4200-amid-broad-rally-in-precious-metals-markets-1637122"
-      ]
-    },
-    {
-      "breaking": false,
-      "category": "policy",
-      "id": "42b46ac4e1f5442e",
-      "image_kind": "none",
-      "image_url": null,
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "published_at": "2026-10-09T12:00:00Z",
-      "publisher_id": "reuters",
-      "rank": 3,
-      "related_urls": [
-        "https://www.outlookmoney.com/invest/gold-silver-platinum-imports-banks-3-percent-igst-exemption-april-2026",
-        "https://www.thehindubusinessline.com/economy/gst-exemption-for-banks-nominated-agencies-for-gold-silver-imports-may-be-withdrawn/article71544539.ece",
-        "https://www.indianjeweller.in/Indian-Jewellery-News/16547/india-withdraws-igst-exemption-on-gold-silver-and-platinum-imports-by-banks"
-      ],
-      "source": "Reuters",
-      "source_domain": "reuters.com",
-      "summary": "India has not extended the IGST exemption on gold, silver and platinum imports by banks and nominated agencies, and banks have paid 3% IGST since April 1, 2026, Revenue Secretary Arvind Shrivastava confirmed. The government informed the GST Council at its 57th meeting, citing tax parity across import routes. The exemption dated to 2017, when gold imports were tightly canalised.",
-      "tags": [
-        "gold",
-        "silver",
-        "import-duty",
-        "india"
-      ],
-      "title": "India withdraws bank tax benefit on gold, silver, platinum imports",
-      "url": "https://www.reuters.com/world/india/india-withdraws-bank-tax-benefit-gold-silver-platinum-imports-2026-10-09/"
-    },
-    {
-      "breaking": false,
-      "category": "global",
-      "id": "5a82e8d64c1dd8ea",
-      "image_kind": "photo",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/5a82e8d64c1dd8ea.jpg",
-      "metals": [
-        "gold"
-      ],
-      "published_at": "2026-10-10T01:00:00Z",
-      "publisher_id": "mint",
-      "rank": 4,
-      "related_urls": [
-        "https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-one-week-high-heads-for-weekly-gain-on-bargain-hunting/articleshow/134847226.cms"
-      ],
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "summary": "Spot gold rose 1.5% to $4,194.36 on Friday, touching a one-week high and heading for a ~1.3% weekly gain as bargain buying emerged after Wednesday's two-month low. US December futures settled at $4,216.3. Analysts see a floor near $4,000; traders price a 19% chance of an October Fed hike and 84% for at least one by December, with next week's US CPI the catalyst.",
-      "tags": [
-        "gold",
-        "global",
-        "fed"
-      ],
-      "title": "Gold hits one-week high, heads for weekly gain on bargain-hunting",
-      "url": "https://www.livemint.com/market/gold-hits-one-week-high-heads-for-weekly-gain-on-bargainhunting-11791575483915.html"
-    },
-    {
-      "breaking": false,
-      "category": "global",
-      "id": "b98c19a2f0e97844",
-      "image_kind": "photo",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/b98c19a2f0e97844.jpg",
-      "metals": [
-        "gold"
-      ],
-      "published_at": "2026-10-09T22:00:00Z",
-      "publisher_id": "kitco",
-      "rank": 5,
-      "source": "Kitco",
-      "source_domain": "kitco.com",
-      "summary": "Spot gold hit a weekly high of $4,207.48 early Friday before closing just short of $4,200 resistance, Kitco's weekly survey reports. Wall Street analysts are back near a bullish majority while fewer than half of Main Street respondents expect gains next week. Weak US consumer sentiment (46.3) and rising inflation expectations reinforced gold's hedge appeal, with next week's CPI and PPI in focus.",
-      "tags": [
-        "gold",
-        "global"
-      ],
-      "title": "Wall Street nears bullish majority after gold's late-week rally",
-      "url": "https://www.kitco.com/news/article/2026-10-09/wall-street-nears-bullish-majority-after-golds-late-week-rally-main-street"
-    },
-    {
-      "id": "7f740dccc375065a",
-      "rank": 6,
-      "title": "Positive ETF Gold flows pushed holdings to a new record in September",
-      "summary": "World Gold Council data shows gold-backed ETFs added 67.3 tonnes in September to a record 4,256 tonnes, with Q3 inflows of 211 tonnes valued at a record US$31 billion despite falling prices. North American funds led September with US$4 billion of inflows, suggesting investors treated the price pullback as a chance to build positions.",
-      "url": "https://www.fxstreet.com/analysis/positive-etf-gold-flows-pushed-holdings-to-a-new-record-in-september-202610082045",
-      "source": "FXStreet",
-      "source_domain": "fxstreet.com",
-      "publisher_id": "fxstreet",
-      "published_at": "2026-10-08T20:45:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "global"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://www.gold.org/goldhub/research/gold-etfs-holdings-and-flows/2026/10"
-      ]
-    },
-    {
-      "breaking": false,
-      "category": "mcx",
-      "id": "b9d788c5eb2f4ab1",
-      "image_kind": "none",
-      "image_url": null,
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "published_at": "2026-10-09T12:00:00Z",
-      "publisher_id": "tradingview",
-      "rank": 7,
-      "source": "TradingView",
-      "source_domain": "tradingview.com",
-      "summary": "MCX December gold futures rose Rs 1,690 (1.13%) to Rs 1.51 lakh/10g on Friday; December silver gained Rs 3,626 (1.64%) to Rs 2.24 lakh/kg, tracking global gains as US yields eased and the dollar weakened, CNBC TV18 reports. A strong 30-year Treasury auction and softer oil after the US postponed a potential Iran strike helped. Gold ETF holdings may be rising for a 12th straight week.",
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "india",
-        "fed"
-      ],
-      "title": "Gold, silver prices rebound on MCX: Key factors to watch next",
-      "url": "https://www.tradingview.com/news/cnbctv:2cbf432c1094b:0/",
-      "related_urls": [
-        "https://ianslive.in/gold-silver-prices-rise-on-mcx-as-weaker-us-dollar-boosts-demand--20251010095904",
-        "https://upstox.com/news/market-news/commodities/mcx-gold-futures-soar-to-1-21-lakh-10-grams-silver-futures-advance-on-oct-10/article-182812/"
-      ]
-    },
-    {
-      "breaking": false,
-      "category": "policy",
-      "id": "3586f16aa5e98996",
-      "image_kind": "photo",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/3586f16aa5e98996.jpg",
-      "metals": [
-        "gold"
-      ],
-      "published_at": "2026-10-10T04:35:00Z",
-      "publisher_id": "economic-times",
-      "rank": 8,
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "summary": "The RBI has tightened rupee-linked forex derivative rules: dealers may no longer allow rebooking of cancelled INR contracts, and the threshold for deals without underlying exposure drops from $100m to $5m, including on exchanges. Dealers must take undertakings against double-hedging and keep a 20% cash Foreign Exchange Risk Reserve with the RBI for covered contracts above $2m notional.",
-      "tags": [
-        "gold",
-        "rupee",
-        "rbi",
-        "india"
-      ],
-      "title": "RBI tightens forex derivative rules: What changes for hedging, cancelled trades",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-tightens-forex-derivative-rules-what-changes-for-hedging-cancelled-trades/articleshow/134847351.cms"
-    },
-    {
-      "breaking": false,
-      "category": "festive",
-      "id": "a9a909c2f6914b3f",
-      "image_kind": "none",
-      "image_url": null,
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "published_at": "2026-10-09T10:00:00Z",
-      "publisher_id": "tradingview",
-      "rank": 9,
-      "source": "TradingView",
-      "source_domain": "tradingview.com",
-      "summary": "PN Gadgil Jewellers reported a 22.4% year-on-year rise in Q2 revenue, led by 31.1% retail growth and 25.5% same-store sales growth, crediting strong retail performance and festive demand, CNBC TV18 reports. Raksha Bandhan sales jumped 114% in pieces and 142% in value versus last year. Gold revenue grew 23.5%, diamond 21% and silver 12%. The jeweller has 80 stores, targeting 103 by end-FY27.",
-      "tags": [
-        "gold",
-        "silver",
-        "india",
-        "jewellery"
-      ],
-      "title": "PN Gadgil Jewellers Q2 revenue jumps 22.4% on festive demand",
-      "url": "https://www.tradingview.com/news/cnbctv:5629a4945094b:0/"
-    },
-    {
-      "breaking": false,
-      "category": "mcx",
-      "id": "4ee6bb189e021348",
-      "image_kind": "photo",
-      "image_url": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/09_10_2026_18_35_25_7687947.jpg&width=920&format=jpeg",
-      "metals": [
-        "gold"
-      ],
-      "published_at": "2026-10-09T13:30:00Z",
-      "publisher_id": "devdiscourse",
-      "rank": 10,
-      "source": "Devdiscourse",
-      "source_domain": "devdiscourse.com",
-      "summary": "India's forex reserves fell $12.95bn to $734.61bn in the week ended October 2, RBI data released Friday showed, per ANI. Foreign currency assets dropped $10.66bn to $604.75bn, while gold reserves declined $2.29bn to $106.41bn. Reserves remain $43.5bn above end-March 2026 levels and $34.6bn higher year-on-year, as the RBI keeps managing rupee volatility.",
-      "tags": [
-        "gold",
-        "rupee",
-        "rbi",
-        "india"
-      ],
-      "title": "India's forex reserves fall $12.95 billion to $734.61 billion in week ended Oct 2",
-      "url": "https://www.devdiscourse.com/article/business/3989801-indias-forex-reserves-fall-by-1295-billion-to-73461-billion-in-week-ended-oct-2-rbi"
-    }
+ "schema": "orob-news.v1",
+ "edition_id": "2026-10-10T12:00Z",
+ "generated_at": "2026-10-10T12:04:46Z",
+ "window": {
+  "from": "2026-10-10T11:00:00Z",
+  "to": "2026-10-10T12:00:00Z"
+ },
+ "insights": {
+  "headline": "RBI moves to shield the rupee as gold holds above $4,180 and festive demand builds",
+  "summary": "The RBI announced a special dollar window for oil companies from October 12 and a Rs 25,000 crore bond sale on October 13, with daily CRR maintenance rising to 99%, to drain liquidity and support the rupee after the repo hike to 5.50%. Spot gold held near $4,185-$4,192 as a softer dollar and easing yields offset December Fed-hike bets, silver near $60.4; MCX December gold rose to Rs 1,51,300 per 10 grams. Festive buying picks up after the price correction but shoppers prioritise affordability, while banks have paid 3% IGST on bullion imports since April under the lapsed exemption.",
+  "points": [
+   "RBI will sell dollars directly to IOC, HPCL and BPCL from Oct 12, moving a major source of forex demand off the spot market to support the rupee.",
+   "RBI to sell Rs 25,000 crore of bonds on Oct 13 and raise daily CRR maintenance to 99% from Oct 16, draining liquidity after the 5.50% repo hike.",
+   "Spot gold held near $4,185-$4,192 Friday as a softer dollar and easing yields offset December Fed-hike bets; silver held near $60.4.",
+   "MCX December gold rose Rs 1,690 to Rs 1,51,300/10g on firm spot demand; festive buying picks up but shoppers prioritise affordability.",
+   "Banks have paid 3% IGST on gold, silver and platinum imports since April 1 as the 2017 exemption lapsed, per the Revenue Secretary."
   ]
+ },
+ "trending": [
+  {
+   "title": "RBI defends the rupee",
+   "summary": "A special dollar window for oil companies, a Rs 25,000 crore bond sale, and tighter CRR and derivative rules show the RBI layering defences for the rupee as reserves fall.",
+   "item_ids": [
+    "96abd6d4f4f7ba8a",
+    "f22fba988cb9f8a5",
+    "3586f16aa5e98996",
+    "4ee6bb189e021348"
+   ]
+  },
+  {
+   "title": "The $4,200 test",
+   "summary": "Gold's Friday rebound put $4,180-$4,200 back in play as softer yields and a weaker dollar overpowered hike fears; next week's US CPI decides the next leg.",
+   "item_ids": [
+    "3c4d14d3239fd709",
+    "1cd317d66949f55a",
+    "e479e374dae4f879",
+    "5a82e8d64c1dd8ea"
+   ]
+  },
+  {
+   "title": "Festival demand vs high prices",
+   "summary": "Footfall is recovering after the price correction but wallets stay tight, while jewellers post strong festive-season numbers ahead of Diwali.",
+   "item_ids": [
+    "d88e80963a088aa9",
+    "a9a909c2f6914b3f"
+   ]
+  },
+  {
+   "title": "Bullion tax parity",
+   "summary": "The lapsed 3% IGST exemption for bank bullion imports equalises tax treatment across import routes; banks can claim input tax credit but fund the tax upfront.",
+   "item_ids": [
+    "c653cf5ee6b39def"
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "96abd6d4f4f7ba8a",
+   "title": "RBI Opens Special Dollar Window for PSU OMCs to Support Rupee",
+   "summary": "The RBI will meet the entire daily dollar demand of Indian Oil, HPCL and BPCL through designated banks from October 12, moving a major source of forex demand off the spot market to support the rupee. The central bank also tightened FX-derivative documentation and barred rebooking of cancelled rupee contracts.",
+   "url": "https://www.btin.co.in/rbi-opens-special-dollar-window-psu-omcs-support-rupee-120754",
+   "source": "Business Times India",
+   "source_domain": "btin.co.in",
+   "publisher_id": "business-times-india",
+   "published_at": "2026-10-10T08:25:46Z",
+   "image_url": "https://data.btin.co.in/data/images/full/9820/rbi-opens-special-dollar-window-for-psu-omcs-to-support-rupee.jpg",
+   "image_kind": "photo",
+   "category": "policy",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "tags": [
+    "gold",
+    "silver",
+    "rupee",
+    "rbi",
+    "india"
+   ],
+   "breaking": false,
+   "related_urls": [
+    "https://www.newkerala.com/news/a/rbi-launches-special-dollar-window-psu-omcs-support-451.htm"
+   ],
+   "rank": 1
+  },
+  {
+   "id": "f22fba988cb9f8a5",
+   "title": "India central bank to sell $2.6 bln of bonds, tighten bank reserve need to squeeze cash",
+   "summary": "The RBI will sell Rs 25,000 crore ($2.58 billion) of government bonds on October 13 and raise the minimum daily CRR maintenance for banks to 99% from October 16, draining rupee liquidity after hiking the repo rate to 5.50% - its first hike in nearly four years.",
+   "url": "https://www.reuters.com/world/india/india-central-bank-sell-26-bln-bonds-tighten-bank-reserve-need-squeeze-cash-2026-10-09/",
+   "source": "Reuters",
+   "source_domain": "reuters.com",
+   "publisher_id": "reuters",
+   "published_at": "2026-10-09T08:15:00Z",
+   "image_url": null,
+   "image_kind": "none",
+   "category": "policy",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "tags": [
+    "gold",
+    "silver",
+    "rupee",
+    "rbi",
+    "india"
+   ],
+   "breaking": false,
+   "related_urls": [
+    "https://flashfinance.news/article/2909-rbi-to-sell-rs-25-000-crore-of-bonds-and-tighten-daily-crr",
+    "https://www.tradingview.com/news/moodys:daae19a6b66ee:0-rbi-raises-minimum-crr-maintenance-requirement-to-99/"
+   ],
+   "rank": 2
+  },
+  {
+   "id": "c653cf5ee6b39def",
+   "title": "Gold, Silver, Platinum Imports Face 3% IGST Across Routes As Government Seeks Tax Parity",
+   "summary": "Banks have been paying 3% IGST on gold, silver and platinum imports since April 1 after the government did not extend the 2017 exemption, the Revenue Secretary confirmed; the move puts bank and exchange import routes on equal tax footing. Banks can claim input tax credit but must fund the tax upfront.",
+   "url": "https://www.outlookmoney.com/invest/gold-silver-platinum-imports-banks-3-percent-igst-exemption-april-2026",
+   "source": "Outlook Money",
+   "source_domain": "outlookmoney.com",
+   "publisher_id": "outlook-money",
+   "published_at": "2026-10-09T05:30:00Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/c653cf5ee6b39def.jpg",
+   "image_kind": "photo",
+   "category": "policy",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "tags": [
+    "gold",
+    "silver",
+    "import-duty",
+    "india"
+   ],
+   "breaking": false,
+   "related_urls": [
+    "https://www.reuters.com/world/india/india-withdraws-bank-tax-benefit-gold-silver-platinum-imports-2026-10-09/"
+   ],
+   "rank": 3
+  },
+  {
+   "id": "13b5d4675d40ce33",
+   "title": "Gold futures rise to Rs 1.51 lakh/10 gm on firm spot demand",
+   "summary": "December gold futures on the MCX rose Rs 1,690, or 1.13%, to Rs 1,51,300 per 10 grams on fresh positions and firm spot demand, PTI reports. Gold futures in New York gained 1.43% to $4,191.51 an ounce.",
+   "url": "https://www.thehindubusinessline.com/markets/gold/gold-futures-rise-to-151-lakh10-gm-on-firm-spot-demand/article71563226.ece",
+   "source": "The Hindu BusinessLine",
+   "source_domain": "thehindubusinessline.com",
+   "publisher_id": "hindu-businessline",
+   "published_at": "2026-10-09T09:18:00Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/13b5d4675d40ce33.jpg",
+   "image_kind": "photo",
+   "category": "mcx",
+   "metals": [
+    "gold"
+   ],
+   "tags": [
+    "gold",
+    "mcx",
+    "india"
+   ],
+   "breaking": false,
+   "related_urls": [],
+   "rank": 4
+  },
+  {
+   "id": "d88e80963a088aa9",
+   "rank": 5,
+   "title": "Gold buying picks up after price correction, but shoppers prioritise affordability",
+   "summary": "Indian gold retailers report customer footfall picking up after the price correction from the highs, but shoppers are prioritising affordability and staying within budgets, ET Bureau reports.",
+   "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/gold-buying-picks-up-after-price-correction-but-shoppers-prioritise-affordability/articleshow/134847565.cms",
+   "source": "Economic Times",
+   "source_domain": "economictimes.indiatimes.com",
+   "publisher_id": "economic-times",
+   "published_at": "2026-10-10T04:59:03Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/d88e80963a088aa9.jpg",
+   "image_kind": "photo",
+   "category": "festive",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "tags": [
+    "gold",
+    "silver",
+    "india",
+    "jewellery"
+   ],
+   "breaking": false,
+   "related_urls": []
+  },
+  {
+   "id": "3c4d14d3239fd709",
+   "title": "London market open: Stocks rise as miners gain and oil retreats",
+   "summary": "Gold was quoted at $4,192.29 an ounce early Friday, up from $4,116.87 on Thursday, as oil retreated after the US president ruled out strikes on Iran before the November midterms; miners led London shares higher.",
+   "url": "https://www.morningstar.com/news/alliance-news/1791533627465759500/london-market-open-stocks-rise-as-miners-gain-and-oil-retreats",
+   "source": "Morningstar",
+   "source_domain": "morningstar.com",
+   "publisher_id": "morningstar",
+   "published_at": "2026-10-09T08:00:00Z",
+   "image_url": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+   "image_kind": "photo",
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "tags": [
+    "gold",
+    "global",
+    "central-banks"
+   ],
+   "breaking": false,
+   "related_urls": [],
+   "rank": 6
+  },
+  {
+   "id": "1cd317d66949f55a",
+   "title": "Gold, silver rebound as dollar, yields and oil ease - Kitco AM Report",
+   "summary": "Spot gold traded near $4,184.80, up 1.27%, and silver near $60.44, up 2.32%, in early US trading Friday as a softer dollar, easing Treasury yields and lower oil reversed the midweek selloff. December Fed hike odds held near 82-83%.",
+   "url": "https://www.kitco.com/news/article/2026-10-09/gold-silver-rebound-dollar-yields-and-oil-ease-kitco-am-report",
+   "source": "Kitco",
+   "source_domain": "kitco.com",
+   "publisher_id": "kitco",
+   "published_at": "2026-10-09T13:00:00Z",
+   "image_url": "https://image-api.prod.kitco.com/image/8329ee1b-e903-4905-90ce-ccd6fe5d1c38.jpeg?top=0.064631956912029&left=0&width=1024&height=575.87073608618&scale_width=1920&token=a0a0e9768f55570f6b24c5ca7f1f4271cfea520ee3dae0c5a24c55e36350a762",
+   "image_kind": "photo",
+   "category": "global",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "tags": [
+    "gold",
+    "silver",
+    "global",
+    "fed"
+   ],
+   "breaking": false,
+   "related_urls": [],
+   "rank": 7
+  },
+  {
+   "id": "e479e374dae4f879",
+   "title": "Gold (XAUUSD), Silver, Platinum - Gold Tests $4200 Amid Broad Rally In Precious Metals Markets",
+   "summary": "Gold pressed toward the $4,160-$4,180 resistance zone while silver and platinum gained ahead of the weekend, as central-bank buying continued despite a stronger dollar and 10-year Treasury yields near 5.25%, per FXEmpire.",
+   "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-gold-tests-4200-amid-broad-rally-in-precious-metals-markets-1637122",
+   "source": "FXEmpire",
+   "source_domain": "fxempire.com",
+   "publisher_id": "fxempire",
+   "published_at": "2026-10-10T00:42:00Z",
+   "image_url": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/gold-precious-metal-price-chart-05-1.jpg?func=cover&q=70&width=1201",
+   "image_kind": "photo",
+   "category": "global",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "tags": [
+    "gold",
+    "silver",
+    "global",
+    "central-banks"
+   ],
+   "breaking": false,
+   "related_urls": [],
+   "rank": 8
+  },
+  {
+   "breaking": false,
+   "category": "global",
+   "id": "5a82e8d64c1dd8ea",
+   "image_kind": "photo",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/5a82e8d64c1dd8ea.jpg",
+   "metals": [
+    "gold"
+   ],
+   "published_at": "2026-10-10T01:00:00Z",
+   "publisher_id": "mint",
+   "rank": 9,
+   "related_urls": [
+    "https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-one-week-high-heads-for-weekly-gain-on-bargain-hunting/articleshow/134847226.cms"
+   ],
+   "source": "Mint",
+   "source_domain": "livemint.com",
+   "summary": "Spot gold rose 1.5% to $4,194.36 on Friday, touching a one-week high and heading for a ~1.3% weekly gain as bargain buying emerged after Wednesday's two-month low. US December futures settled at $4,216.3. Analysts see a floor near $4,000; traders price a 19% chance of an October Fed hike and 84% for at least one by December, with next week's US CPI the catalyst.",
+   "tags": [
+    "gold",
+    "global",
+    "fed"
+   ],
+   "title": "Gold hits one-week high, heads for weekly gain on bargain-hunting",
+   "url": "https://www.livemint.com/market/gold-hits-one-week-high-heads-for-weekly-gain-on-bargainhunting-11791575483915.html"
+  },
+  {
+   "breaking": false,
+   "category": "global",
+   "id": "b98c19a2f0e97844",
+   "image_kind": "photo",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/b98c19a2f0e97844.jpg",
+   "metals": [
+    "gold"
+   ],
+   "published_at": "2026-10-09T22:00:00Z",
+   "publisher_id": "kitco",
+   "rank": 10,
+   "source": "Kitco",
+   "source_domain": "kitco.com",
+   "summary": "Spot gold hit a weekly high of $4,207.48 early Friday before closing just short of $4,200 resistance, Kitco's weekly survey reports. Wall Street analysts are back near a bullish majority while fewer than half of Main Street respondents expect gains next week. Weak US consumer sentiment (46.3) and rising inflation expectations reinforced gold's hedge appeal, with next week's CPI and PPI in focus.",
+   "tags": [
+    "gold",
+    "global"
+   ],
+   "title": "Wall Street nears bullish majority after gold's late-week rally",
+   "url": "https://www.kitco.com/news/article/2026-10-09/wall-street-nears-bullish-majority-after-golds-late-week-rally-main-street"
+  },
+  {
+   "id": "7f740dccc375065a",
+   "rank": 11,
+   "title": "Positive ETF Gold flows pushed holdings to a new record in September",
+   "summary": "World Gold Council data shows gold-backed ETFs added 67.3 tonnes in September to a record 4,256 tonnes, with Q3 inflows of 211 tonnes valued at a record US$31 billion despite falling prices. North American funds led September with US$4 billion of inflows, suggesting investors treated the price pullback as a chance to build positions.",
+   "url": "https://www.fxstreet.com/analysis/positive-etf-gold-flows-pushed-holdings-to-a-new-record-in-september-202610082045",
+   "source": "FXStreet",
+   "source_domain": "fxstreet.com",
+   "publisher_id": "fxstreet",
+   "published_at": "2026-10-08T20:45:00Z",
+   "image_url": null,
+   "image_kind": "none",
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "tags": [
+    "gold",
+    "global"
+   ],
+   "breaking": false,
+   "related_urls": [
+    "https://www.gold.org/goldhub/research/gold-etfs-holdings-and-flows/2026/10"
+   ]
+  },
+  {
+   "breaking": false,
+   "category": "policy",
+   "id": "3586f16aa5e98996",
+   "image_kind": "photo",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/3586f16aa5e98996.jpg",
+   "metals": [
+    "gold"
+   ],
+   "published_at": "2026-10-10T04:35:00Z",
+   "publisher_id": "economic-times",
+   "rank": 12,
+   "source": "Economic Times",
+   "source_domain": "economictimes.indiatimes.com",
+   "summary": "The RBI has tightened rupee-linked forex derivative rules: dealers may no longer allow rebooking of cancelled INR contracts, and the threshold for deals without underlying exposure drops from $100m to $5m, including on exchanges. Dealers must take undertakings against double-hedging and keep a 20% cash Foreign Exchange Risk Reserve with the RBI for covered contracts above $2m notional.",
+   "tags": [
+    "gold",
+    "rupee",
+    "rbi",
+    "india"
+   ],
+   "title": "RBI tightens forex derivative rules: What changes for hedging, cancelled trades",
+   "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-tightens-forex-derivative-rules-what-changes-for-hedging-cancelled-trades/articleshow/134847351.cms"
+  },
+  {
+   "breaking": false,
+   "category": "festive",
+   "id": "a9a909c2f6914b3f",
+   "image_kind": "none",
+   "image_url": null,
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "published_at": "2026-10-09T10:00:00Z",
+   "publisher_id": "tradingview",
+   "rank": 13,
+   "source": "TradingView",
+   "source_domain": "tradingview.com",
+   "summary": "PN Gadgil Jewellers reported a 22.4% year-on-year rise in Q2 revenue, led by 31.1% retail growth and 25.5% same-store sales growth, crediting strong retail performance and festive demand, CNBC TV18 reports. Raksha Bandhan sales jumped 114% in pieces and 142% in value versus last year. Gold revenue grew 23.5%, diamond 21% and silver 12%. The jeweller has 80 stores, targeting 103 by end-FY27.",
+   "tags": [
+    "gold",
+    "silver",
+    "india",
+    "jewellery"
+   ],
+   "title": "PN Gadgil Jewellers Q2 revenue jumps 22.4% on festive demand",
+   "url": "https://www.tradingview.com/news/cnbctv:5629a4945094b:0/"
+  },
+  {
+   "breaking": false,
+   "category": "mcx",
+   "id": "4ee6bb189e021348",
+   "image_kind": "photo",
+   "image_url": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/09_10_2026_18_35_25_7687947.jpg&width=920&format=jpeg",
+   "metals": [
+    "gold"
+   ],
+   "published_at": "2026-10-09T13:30:00Z",
+   "publisher_id": "devdiscourse",
+   "rank": 14,
+   "source": "Devdiscourse",
+   "source_domain": "devdiscourse.com",
+   "summary": "India's forex reserves fell $12.95bn to $734.61bn in the week ended October 2, RBI data released Friday showed, per ANI. Foreign currency assets dropped $10.66bn to $604.75bn, while gold reserves declined $2.29bn to $106.41bn. Reserves remain $43.5bn above end-March 2026 levels and $34.6bn higher year-on-year, as the RBI keeps managing rupee volatility.",
+   "tags": [
+    "gold",
+    "rupee",
+    "rbi",
+    "india"
+   ],
+   "title": "India's forex reserves fall $12.95 billion to $734.61 billion in week ended Oct 2",
+   "url": "https://www.devdiscourse.com/article/business/3989801-indias-forex-reserves-fall-by-1295-billion-to-73461-billion-in-week-ended-oct-2-rbi"
+  }
+ ]
 }
