@@ -1,35 +1,41 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-11T20:00Z",
-  "generated_at": "2026-10-11T20:12:00Z",
+  "edition_id": "2026-10-11T22:00Z",
+  "generated_at": "2026-10-11T22:05:56Z",
   "window": {
-    "from": "2026-10-11T18:00:00Z",
-    "to": "2026-10-11T20:00:00Z"
+    "from": "2026-10-11T20:00:00Z",
+    "to": "2026-10-11T22:00:00Z"
   },
   "insights": {
-    "headline": "Range-bound week ahead for bullion as weak rupee cushions MCX; US CPI and Fed cues in focus",
-    "summary": "Analysts see gold and silver trading in a range with a mildly positive bias next week, with rupee weakness cushioning domestic bullion against global swings. MCX December gold settled at Rs 1.51 lakh per 10 grams for a weekly gain of Rs 1,109, while silver slipped to Rs 2.25 lakh per kg; Sunday retail trade had 24k gold at Rs 1,51,570 and silver at Rs 2.4 lakh per kg in Delhi. Spot gold held near $4,195 and silver near $61 after Friday's rebound. The week ahead hinges on US CPI on Wednesday, with PPI, retail sales and Fed Chair Warsh's speech Thursday.",
+    "headline": "Record $31bn ETF haul underpins gold's rebound; US CPI is the next test",
+    "summary": "Global gold ETFs drew a record $31 billion in Q3, lifting holdings to an all-time high of 4,256 tonnes even as gold fell 8.5% in September, per the World Gold Council. Spot gold closed Friday at $4,196, up 1.5%, as a softer dollar and falling yields aided a rebound from a two-month low. MCX December gold settled at Rs 1.51 lakh/10g for a weekly gain of Rs 1,109; Sunday retail trade had 24k gold at Rs 1,51,570 and silver at Rs 2.4 lakh/kg in Delhi. Analysts see a range-bound week; Wednesday's US CPI and the Oct 27-28 FOMC are the next tests.",
     "points": [
-      "MCX Dec gold +Rs 1,109 on the week to Rs 1.51 lakh/10g; silver -Rs 122 to Rs 2.25 lakh/kg; Comex Dec gold $4,216.3, silver $61.05.",
-      "Sunday Delhi bullion: 24k gold Rs 1,51,570/10g (+Rs 640-700); silver Rs 2,40,000/kg (+Rs 5,100 after 4 flat days).",
-      "Silver closed Friday at $61.11 (+2.8%) but is 13% down YTD; Deutsche Bank flags a possible 2027 market surplus.",
-      "Kitco survey: 50% of Wall Street analysts bullish for next week; only 45% of Main Street agrees.",
-      "India's gold reserves crossed $100bn for the first time; banks have paid 3% IGST on bullion imports since April."
+      "Gold ETFs: record $31bn Q3 inflows ($10bn in Sept); holdings up 67 tonnes to 4,256 tonnes, an all-time high (WGC).",
+      "Spot gold closed Friday at $4,196 (+1.5%); Comex Dec gold $4,216.3, silver $61.05 — off two-month lows.",
+      "PBoC gold buying ran to a 23rd straight month in Sept (+740k oz to 77.47M oz); Morgan Stanley sees $4,000 support.",
+      "MCX Dec gold +Rs 1,109/week to Rs 1.51 lakh/10g; silver -Rs 122 to Rs 2.25 lakh/kg; Delhi: gold Rs 1,51,570/10g.",
+      "Silver -13% YTD with Deutsche Bank flagging a possible 2027 surplus; banks paid 3% IGST on imports since April."
     ]
   },
   "trending": [
     {
+      "title": "ETF buyers vs futures sellers: the Q3 divergence",
+      "summary": "A record $31bn flowed into gold ETFs in Q3 even as futures traders sold and gold fell 8.5% in September — structural demand held while tactical money stepped back.",
+      "item_ids": [
+        "0165ebedfe907565"
+      ]
+    },
+    {
       "title": "The week ahead belongs to inflation data",
-      "summary": "With MCX and COMEX recovering from their lows, this week's pieces all point to Wednesday's US CPI and Thursday's PPI, retail sales and Warsh speech as deciders of an October vs December Fed hike.",
+      "summary": "With bullion recovering from two-month lows, Wednesday's US CPI, Thursday's PPI and retail sales, and the Oct 27-28 FOMC set the tone for Fed-hike bets.",
       "item_ids": [
         "f65dbf436d2ab09d",
-        "70157b4f8ab98a25",
-        "b98c19a2f0e97844"
+        "70157b4f8ab98a25"
       ]
     },
     {
       "title": "The rupee remains domestic bullion's shock absorber",
-      "summary": "A weak rupee keeps lifting the landed cost of imports, cushioning MCX prices when global benchmarks wobble - a dynamic the analyst outlook and Sunday retail quotes both underline.",
+      "summary": "A weak rupee keeps lifting the landed cost of imports, cushioning MCX prices when global benchmarks wobble — a dynamic both the analyst outlook and Sunday retail quotes underline.",
       "item_ids": [
         "f65dbf436d2ab09d",
         "9c7d9c1512ac1c63"
@@ -37,25 +43,41 @@
     },
     {
       "title": "Silver's two-way pull: Friday's bounce vs a 2027 surplus risk",
-      "summary": "Silver rebounded 2.8% to $61.11 on Friday, yet it trades at half its January peak, is down 13% this year, and Deutsche Bank sees solar demand falling over 20% with a possible market surplus in 2027.",
+      "summary": "Silver rebounded 2.8% to $61.11 on Friday but is down 13% this year; Deutsche Bank sees solar demand falling over 20% with a possible market surplus in 2027.",
       "item_ids": [
         "70157b4f8ab98a25",
-        "9c7d9c1512ac1c63"
-      ]
-    },
-    {
-      "title": "Policy overhang: the 3% IGST era for bank imports",
-      "summary": "With the upfront IGST exemption gone since April, bank-channel bullion imports sit on par with other routes; the GST Council was informed on October 8, as gold reserves cross $100 billion.",
-      "item_ids": [
-        "eb594dcb79726d8e",
-        "cdf70d44e6d2116a"
+        "c4002c7a20c8b1ae"
       ]
     }
   ],
   "items": [
     {
-      "id": "f65dbf436d2ab09d",
+      "id": "0165ebedfe907565",
       "rank": 1,
+      "title": "Gold's record ETF haul meets a shifting Fed calculus",
+      "summary": "Global gold ETFs drew a record $31 billion in Q3, lifting holdings to an all-time high of 4,256 tonnes even as gold fell 8.5% in September — ETF buyers and futures sellers moved in opposite directions, per the World Gold Council. Spot gold closed Friday at $4,196, up 1.5%, rebounding from a two-month low on a softer dollar and falling yields. China's central bank bought for a 23rd straight month.",
+      "url": "https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/gold-s-record-etf-haul-meets-a-shifting-fed-calculus/70288580",
+      "source": "ad-hoc-news",
+      "source_domain": "ad-hoc-news.de",
+      "publisher_id": "ad-hoc-news",
+      "published_at": "2026-10-10T12:00:00Z",
+      "image_url": "https://mdb.ad-hoc-news.de/bild/bild-2816757_1920_1080.webp",
+      "image_kind": "photo",
+      "breaking": false,
+      "tags": [
+        "gold",
+        "global",
+        "fed",
+        "central-banks"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ]
+    },
+    {
+      "id": "f65dbf436d2ab09d",
+      "rank": 2,
       "title": "Gold, silver prices likely range-bound with slightly positive bias next week",
       "summary": "Analysts expect gold and silver to trade in a range with a mildly positive bias next week, with rupee weakness cushioning domestic bullion against global swings. MCX December gold gained Rs 1,109 last week to Rs 1.51 lakh per 10 grams; silver ended at Rs 2.25 lakh per kg. Traders watch inflation data from India, China and the US, plus Fed speeches, for clues on an October vs December US rate hike.",
       "url": "https://www.tradingview.com/news/cnbctv:44e989524094b:0/",
@@ -103,11 +125,11 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "70157b4f8ab98a25",
-      "rank": 3,
+      "rank": 4,
       "title": "Silver holds near $60 as traders brace for inflation data and a possible 2027 supply surplus",
       "summary": "COMEX silver closed Friday at $61.11 an ounce, up 2.8% on the day and off a two-month low, helped by softer US yields, a weaker dollar and retreating crude. Still, the metal is down 13% year-to-date and trades at half its 52-week peak of $121.78. Traders eye Wednesday's US CPI and the Oct 27-28 FOMC meeting, while Deutsche Bank warns the market could flip from deficit to surplus as early as 2027.",
       "url": "https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/silver-holds-near-60-as-traders-brace-for-inflation-data-and-a-looming/70292507",
@@ -126,30 +148,6 @@
       "category": "global",
       "metals": [
         "silver"
-      ],
-      "breaking": false
-    },
-    {
-      "id": "b98c19a2f0e97844",
-      "rank": 4,
-      "title": "Wall Street nears bullish majority after gold's late-week rally; Main Street stays cautious",
-      "summary": "Kitco's weekly gold survey shows Wall Street back near a bullish majority after gold's late-week rebound: 50% of 14 analysts expect gains next week, 14% see declines. Main Street stays skeptical - 45% of 206 retail voters are bullish, 37% bearish. Spot gold ended the week near $4,195, with September CPI on Wednesday and Fed Chair Warsh's IMF-event speech Thursday the next big tests.",
-      "url": "https://www.kitco.com/news/article/2026-10-09/wall-street-nears-bullish-majority-after-golds-late-week-rally-main-street",
-      "source": "Kitco",
-      "source_domain": "kitco.com",
-      "publisher_id": "kitco",
-      "published_at": "2026-10-09T21:27:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/b98c19a2f0e97844.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "comex",
-        "fed",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
       ],
       "breaking": false
     },
