@@ -1,21 +1,21 @@
-# Gold & Silver for Indian buyers · 2026-10-11T10:00Z
+# Gold & Silver for Indian buyers · 2026-10-11T11:00Z
 
-> IGST edge on bank gold imports ends as LBMA delegates project $5,013 gold in 12 months
+> 3% IGST now applies to bank gold imports; festive buyers stay price-sensitive
 
-India withdrew the upfront IGST exemption on bullion imports by banks and nominated agencies, confirming the 3% levy since April 1. Globally, LBMA conference delegates projected gold near $5,013/oz and silver near $97.40 within 12 months, after September's 8.5% drop — gold's worst month of 2026 — even as gold ETFs drew a record $31B in Q3. COMEX gold closed the week up 1.39% with spot near $4,195; the RBI defends the rupee with a dollar window for oil firms from Oct 12. US September CPI lands October 14.
+Banks and nominated agencies now pay 3% IGST on gold, silver and platinum imports, effective April 1, 2026, on top of the 15% import duty. With Dussehra and Diwali approaching, Indian buyers are price-sensitive: buying picked up after the recent correction but shoppers prioritise affordability. LBMA delegates still project $5,013/oz gold within a year, though Fed rate warnings keep the rebound capped.
 
-- IGST parity: banks now pay 3% IGST upfront on bullion imports, same as other routes, since April 1 (Revenue Secretary).
-- LBMA poll: delegates project gold $5,013/oz and silver $97.40/oz in 12 months (~19.5% and ~60% upside); Metals Focus sees a $5,330 gold average in 2027.
-- Weekly rebound: COMEX gold +1.39% and silver +1.15% on the week, spot gold near $4,195; silver's 2.8% Friday bounce clashes with fading solar demand.
-- Institutional bid: gold ETFs drew $31B in Q3, holdings at a record 4,256t (WGC); China added gold for a 23rd straight month, Poland nears its 700t target.
-- RBI's rupee defence: dollar window for state oil firms from Oct 12; forex reserves fell $12.95B to $734.61B in the week ended Oct 2.
+- IGST exemption on bank bullion imports ends: 3% tax applies from April 1, 2026, per the Revenue Secretary.
+- LBMA conference delegates project gold at $5,013/oz and silver at $97.40 within 12 months.
+- Spot gold held near $4,196/oz; Waller's rate-hike warnings and 18%/82% Oct/Dec hike bets cap the rebound.
+- RBI opens a dollar window for oil firms from Oct 12 and tightens forex hedging rules.
+- Gold buying picked up after the correction, but festive shoppers favour affordability; jewellers stay selective.
 
 ## Trending
-- **The tax edge on bank gold imports is gone**: Banks and nominated agencies have paid 3% IGST on bullion imports since April 1 — the 2017 exemption is over, levelling the field with routes like the IIBX and adding a cost layer to bank shipments. (stories 1)
-- **Industry bets big: $5,013 gold in 12 months**: LBMA delegates see ~19.5% upside for gold and ~60% for silver over the next year, backed by record $31B Q3 ETF inflows and relentless central-bank buying — even after September's 8.5% sell-off. (stories 2, 6, 3)
-- **Silver's bounce masks a fading industrial engine**: Silver settled near $61 on Friday but sits 50% below its January peak; solar silver demand seen falling 186.6 to 151 Moz in 2026, with SHFE silver down three weeks straight. (stories 4, 7)
-- **RBI's rupee defence goes into overdrive**: A dollar window for oil firms from Oct 12 and tighter hedging rules fight to steady the rupee — a direct cost driver for bullion imports; reserves fell $12.95B in a week. (stories 5, 12)
-- **Festive season, delayed — and price-sensitive**: Jewellers report Q2 growth cooling ahead of a delayed festive season; shoppers await price stability, and in Lucknow record silver prices threaten the famed bridal nagra craft. (stories 9, 10, 11)
+- **Tax layer stacks up on bank bullion**: The 3% IGST on bank and nominated-agency imports lands on top of the 15% duty from May, raising landed costs for the formal import channel. (stories 1)
+- **Festive season's price-sensitive buyer**: ET reports buying picked up after the correction, but shoppers prioritise affordability; jewellers brace for a cooler Q3, and Lucknow's nagra craft strains under high silver prices. (stories 9, 8, 10)
+- **Sorrento bulls vs rate-hawk reality**: LBMA delegates call for $5,013 gold in 12 months and record ETF inflows keep coming, yet Waller's rate-hike warnings and an RBI at 5.50% keep the rebound capped. (stories 2, 6, 3, 7)
+- **Silver's two stories**: Silver bounced 2.8% on Friday but faces fading solar demand and thin London vaults, even as Indian bridal crafts feel the pinch of high prices. (stories 4, 10)
+- **Rupee defences line up**: The RBI's dollar window for oil firms from Oct 12 and tighter hedging rules come as forex reserves dipped $12.95 billion — relevant for rupee-priced bullion. (stories 5, 11)
 
 ## Stories
 1. [India ends IGST exemption on gold, silver and platinum imports by banks](https://www.livemint.com/money/no-more-tax-relief-for-importing-gold-silver-and-platinum-what-does-it-mean-will-buyers-pay-more-11791647986746.html) — *Mint*, 2026-10-10T12:00:00Z
@@ -30,15 +30,13 @@ India withdrew the upfront IGST exemption on bullion imports by banks and nomina
    The RBI will meet the daily dollar needs of Indian Oil, HPCL and BPCL through designated banks from October 12, shifting a major source of dollar demand off the spot market as the rupee hovers near record lows. It also barred rebooking of cancelled forex derivative contracts, cut the no-proof position limit to $5 million, and imposed a 20% cash reserve on rupee-linked derivatives above $2 million.
 6. [UK overtakes China as biggest source of gold ETF inflows in 2026: What is driving the surge?](https://www.businesstoday.in/world/story/uk-overtakes-china-as-biggest-source-of-gold-etf-inflows-in-2026-what-is-driving-the-surge-560782-2026-10-11) — *Business Today*, 2026-10-10T21:00:00Z
    UK-listed gold ETFs drew $9.5bn in net inflows in Jan–Sep 2026, overtaking China's $9.46bn as the largest country-level source of gold ETF demand, World Gold Council data shows. The UK's $7.5bn Q3 haul — its strongest quarter on record — helped Europe beat North America for the quarter. The WGC cites UK fiscal worries, a weak pound and a high gilt term premium as possible drivers.
-7. [Metals broadly rise overnight as COMEX gold and silver post weekly gains](https://news.metal.com/newscontent/104149285-metals-broadly-rose-lme-tin-led-the-gains-lme-copper-lme-zinc-lme-lead-and-shfe-silver-strengthened-comex-gold-and-silver-posted-weekly-gains-overnight-market) — *Shanghai Metals Market*, 2026-10-10T00:07:00Z
-   COMEX gold rose 1.52% overnight and closed the week up 1.39%, while COMEX silver gained 2.84% overnight and 1.15% on the week, Shanghai Metals Market's October 10 recap says. SHFE gold edged up 0.4% while SHFE silver fell a third straight week, down 1.41%. The dollar index held at 102.23; US September CPI and PPI land next week.
-8. [Will gold prices fall further? The forces pulling both ways](https://www.livemint.com/money/will-gold-prices-fall-further-check-reasons-behind-the-recent-dip-forecasts-and-more-11791656627754.html) — *Mint*, 2026-10-10T18:32:52Z
+7. [Will gold prices fall further? The forces pulling both ways](https://www.livemint.com/money/will-gold-prices-fall-further-check-reasons-behind-the-recent-dip-forecasts-and-more-11791656627754.html) — *Mint*, 2026-10-10T18:32:52Z
    Spot gold stood near $4,195 on October 10, down about 5% in 2026 and roughly 26% from January's $5,595 peak, with Indian prices down nearly 23%. The drags: US 10-year near 5.27%, a dollar index up over 3% this year, rate-hike fears, oil-linked inflation worries and profit-taking. The bull case: central-bank buying near 700 tonnes in 2026 (Mirae Asset MF) plus India's festive and wedding demand.
-9. [Gold jewellers brace for Q3 after growth cools in Q2](https://www.tradingview.com/news/moodys:6ed97e04ecd79:0-gold-jewellers-brace-for-q3-after-growth-cools-in-q2/) — *TradingView*, 2026-10-11T04:33:00Z
+8. [Gold jewellers brace for Q3 after growth cools in Q2](https://www.tradingview.com/news/moodys:6ed97e04ecd79:0-gold-jewellers-brace-for-q3-after-growth-cools-in-q2/) — *TradingView*, 2026-10-11T04:33:00Z
    Gold retailers posted strong but moderating September-quarter growth as the festive and wedding season slipped into the December quarter, an Equirus analyst said. Titan's jewellery-led revenue grew 25% in Q2 FY27 versus 40%+ in the prior three quarters; Kalyan Jewellers grew over 26%. With gold still above Rs 1.5 lakh per 10 grams, shoppers are waiting for price stability before buying.
-10. [Gold buying picks up after price correction, but shoppers prioritise affordability](https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/gold-buying-picks-up-after-price-correction-but-shoppers-prioritise-affordability/articleshow/134847565.cms) — *Economic Times*, 2026-10-10T04:59:03Z
+9. [Gold buying picks up after price correction, but shoppers prioritise affordability](https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/gold-buying-picks-up-after-price-correction-but-shoppers-prioritise-affordability/articleshow/134847565.cms) — *Economic Times*, 2026-10-10T04:59:03Z
    Indian gold retailers report customer footfall picking up after the price correction from the highs, but shoppers are prioritising affordability and staying within budgets, ET Bureau reports.
-11. [High silver prices threaten Lucknow's famed bridal nagra craft](https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft) — *Al Jazeera*, 2026-10-10T13:30:00Z
+10. [High silver prices threaten Lucknow's famed bridal nagra craft](https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft) — *Al Jazeera*, 2026-10-10T13:30:00Z
    Al Jazeera profiles Lucknow's silver nagra bridal-shoe makers, a craft collapsing as Indian silver hit about ₹250,000/kg — over three times 2023 levels. Pairs that once sold for ₹12,000 now cost ₹60,000–75,000, pricing out brides, and most of the ~30 craftsmen have quit. India more than doubled effective gold/silver import taxes in May; silver imports then plunged 87%.
-12. [India's forex reserves fall $12.95 billion to $734.61 billion in week ended Oct 2](https://www.devdiscourse.com/article/business/3989801-indias-forex-reserves-fall-by-1295-billion-to-73461-billion-in-week-ended-oct-2-rbi) — *Devdiscourse*, 2026-10-09T13:30:00Z
+11. [India's forex reserves fall $12.95 billion to $734.61 billion in week ended Oct 2](https://www.devdiscourse.com/article/business/3989801-indias-forex-reserves-fall-by-1295-billion-to-73461-billion-in-week-ended-oct-2-rbi) — *Devdiscourse*, 2026-10-09T13:30:00Z
    India's forex reserves fell $12.95bn to $734.61bn in the week ended October 2, RBI data released Friday showed, per ANI. Foreign currency assets dropped $10.66bn to $604.75bn, while gold reserves declined $2.29bn to $106.41bn. Reserves remain $43.5bn above end-March 2026 levels and $34.6bn higher year-on-year, as the RBI keeps managing rupee volatility.
