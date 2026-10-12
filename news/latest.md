@@ -1,91 +1,49 @@
-# Gold & Silver News — 2026-10-11T22:00Z
+# Gold & Silver for Indian buyers · 2026-10-12T02:00Z
 
-## Record $31bn ETF haul underpins gold's rebound; US CPI is the next test
+> China's record gold buying meets an inflation-data week; rupee defence steadies MCX
 
-Global gold ETFs drew a record $31 billion in Q3, lifting holdings to an all-time high of 4,256 tonnes even as gold fell 8.5% in September, per the World Gold Council. Spot gold closed Friday at $4,196, up 1.5%, as a softer dollar and falling yields aided a rebound from a two-month low. MCX December gold settled at Rs 1.51 lakh/10g for a weekly gain of Rs 1,109; Sunday retail trade had 24k gold at Rs 1,51,570 and silver at Rs 2.4 lakh/kg in Delhi. Analysts see a range-bound week; Wednesday's US CPI and the Oct 27-28 FOMC are the next tests.
+China imported a record $158.8bn of gold in the first eight months of 2026 and its central bank bought for a 23rd straight month, adding structural demand as gold held near $4,200 ahead of this week's US inflation data. Spot silver steadied at $61.08 with UBS holding a $70 December target. In India, the RBI moved to supply dollars directly to state oil companies from October 12 to defend a rupee that closed at 96.73 — near its record low — while weak-rupee support kept MCX December gold near Rs 1.51 lakh. Banks now pay 3% IGST on bullion imports after the exemption's withdrawal.
 
-- Gold ETFs: record $31bn Q3 inflows ($10bn in Sept); holdings up 67 tonnes to 4,256 tonnes, an all-time high (WGC).
-- Spot gold closed Friday at $4,196 (+1.5%); Comex Dec gold $4,216.3, silver $61.05 — off two-month lows.
-- PBoC gold buying ran to a 23rd straight month in Sept (+740k oz to 77.47M oz); Morgan Stanley sees $4,000 support.
-- MCX Dec gold +Rs 1,109/week to Rs 1.51 lakh/10g; silver -Rs 122 to Rs 2.25 lakh/kg; Delhi: gold Rs 1,51,570/10g.
-- Silver -13% YTD with Deutsche Bank flagging a possible 2027 surplus; banks paid 3% IGST on imports since April.
+- China: PBoC bought ~23t of gold in September (23rd straight month); Jan–Aug imports topped 1,000t / $158.8bn, a record.
+- US inflation data this week (CPI Wed, PPI and retail sales Thu) will reset Fed-hike bets; 84% chance priced for a December hike.
+- Spot gold steadied at $4,200.23; silver rose to $61.08. Q3 gold ETFs drew a record $31bn, holdings hit 4,256 tonnes.
+- Rupee: RBI supplies dollars directly to IOC, HPCL, BPCL from Oct 12; rupee closed at 96.73, near its 96.96 record low.
+- MCX Dec gold gained Rs 1,109 last week to Rs 1.51 lakh/10g; analysts see a range-bound, mildly positive week ahead.
 
 ## Trending
+- **China's record gold bid underpins the market**: The PBoC bought ~23 tonnes in September — a 23rd straight month — while China imported a record $158.8bn of gold in Jan–Aug; State Street's Doshi sees $4,750-$5,500 by end-Q1 2027 on sustained demand. (stories 1)
+- **Inflation-data week sets the near-term tone**: With gold at $4,200 and silver at $61, Wednesday's US CPI and Thursday's PPI/retail sales will reset October-vs-December hike bets (84% priced for December); UBS holds $70 silver by December. (stories 3, 5)
+- **The rupee stays domestic bullion's shock absorber**: The RBI's direct dollar window for oil companies from October 12 may lift the rupee ~1% on Monday, but depreciation pressure persists — and a weak rupee keeps cushioning MCX prices near Rs 1.51 lakh. (stories 6, 7, 8)
+- **Festive demand meets record prices**: Footfall is picking up after the price correction, but shoppers buy light and budget-first; in Lucknow, silver near Rs 2.5 lakh/kg is hollowing out the bridal nagra craft. (stories 10, 14, 15)
 
-### ETF buyers vs futures sellers: the Q3 divergence
-
-A record $31bn flowed into gold ETFs in Q3 even as futures traders sold and gold fell 8.5% in September — structural demand held while tactical money stepped back.
-
-### The week ahead belongs to inflation data
-
-With bullion recovering from two-month lows, Wednesday's US CPI, Thursday's PPI and retail sales, and the Oct 27-28 FOMC set the tone for Fed-hike bets.
-
-### The rupee remains domestic bullion's shock absorber
-
-A weak rupee keeps lifting the landed cost of imports, cushioning MCX prices when global benchmarks wobble — a dynamic both the analyst outlook and Sunday retail quotes underline.
-
-### Silver's two-way pull: Friday's bounce vs a 2027 surplus risk
-
-Silver rebounded 2.8% to $61.11 on Friday but is down 13% this year; Deutsche Bank sees solar demand falling over 20% with a possible market surplus in 2027.
-
-## Items
-
-### 1. Gold's record ETF haul meets a shifting Fed calculus
-
-Global gold ETFs drew a record $31 billion in Q3, lifting holdings to an all-time high of 4,256 tonnes even as gold fell 8.5% in September — ETF buyers and futures sellers moved in opposite directions, per the World Gold Council. Spot gold closed Friday at $4,196, up 1.5%, rebounding from a two-month low on a softer dollar and falling yields. China's central bank bought for a 23rd straight month.
-
-[ad-hoc-news](https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/gold-s-record-etf-haul-meets-a-shifting-fed-calculus/70288580) — 2026-10-10T12:00:00Z
-
-### 2. Gold, silver prices likely range-bound with slightly positive bias next week
-
-Analysts expect gold and silver to trade in a range with a mildly positive bias next week, with rupee weakness cushioning domestic bullion against global swings. MCX December gold gained Rs 1,109 last week to Rs 1.51 lakh per 10 grams; silver ended at Rs 2.25 lakh per kg. Traders watch inflation data from India, China and the US, plus Fed speeches, for clues on an October vs December US rate hike.
-
-[TradingView](https://www.tradingview.com/news/cnbctv:44e989524094b:0/) — 2026-10-11T14:00:00Z
-
-### 3. India ends IGST exemption on gold, silver and platinum imports by banks
-
-The government has withdrawn the upfront IGST exemption banks and nominated agencies enjoyed on bullion imports since 2017. Revenue Secretary Arvind Shrivastava says banks have paid the 3% IGST since April 1, 2026; the GST Council was informed on October 8. Bank-channel imports now sit on par with routes like the India International Bullion Exchange, removing a tax edge that favoured one channel.
-
-[Mint](https://www.livemint.com/money/no-more-tax-relief-for-importing-gold-silver-and-platinum-what-does-it-mean-will-buyers-pay-more-11791647986746.html) — 2026-10-10T12:00:00Z
-
-### 4. Silver holds near $60 as traders brace for inflation data and a possible 2027 supply surplus
-
-COMEX silver closed Friday at $61.11 an ounce, up 2.8% on the day and off a two-month low, helped by softer US yields, a weaker dollar and retreating crude. Still, the metal is down 13% year-to-date and trades at half its 52-week peak of $121.78. Traders eye Wednesday's US CPI and the Oct 27-28 FOMC meeting, while Deutsche Bank warns the market could flip from deficit to surplus as early as 2027.
-
-[ad-hoc-news](https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/silver-holds-near-60-as-traders-brace-for-inflation-data-and-a-looming/70292507) — 2026-10-11T01:00:00Z
-
-### 5. Gold up Rs 640-700 per 10g in Sunday bullion trade; silver jumps Rs 5,100 to Rs 2.4 lakh/kg
-
-Domestic bullion markets extended gains on Sunday: 24-carat gold rose Rs 640-700 per 10 grams to Rs 1,51,420-1,51,570, tracking international strength, while silver surged Rs 5,100 a kg to Rs 2,40,000 in Delhi after four flat days. Over the week, 24k gold climbed up to Rs 2,240 per 10 grams and silver added Rs 5,100 a kg.
-
-[Hindusthan Samachar](https://english.hindusthansamachar.in/Encyc/2026/10/11/Bullion-Market-Gold-Silver.php) — 2026-10-11T06:00:00Z
-
-### 6. Gold Price Forecast: UBS Sees $5,200 By June 2027 On ETF Buying
-
-UBS forecasts gold at $4,600 by end-2026 and $5,200 by June 2027; Crédit Agricole targets $5,000 by December 2026. ETF holdings stayed resilient (67 tonnes of September inflows per WGC) while futures investors cut net-long positions. Near-term risk: a retreat toward $4,000 on rising real yields; UBS expects one more Fed hike this year and two cuts in 2027.
-
-[Exchange Rates UK](https://www.exchangerates.org.uk/news/47413/2026-10-11-gold-price-forecast-ubs-sees-5-200-by-june-2027-on-etf-buying.html) — 2026-10-11T17:15:00Z
-
-### 7. Gold jewellers brace for Q3 after growth cools in Q2
-
-Gold retailers posted strong but moderating September-quarter growth as the festive and wedding season slipped into the December quarter, an Equirus analyst said. Titan's jewellery-led revenue grew 25% in Q2 FY27 versus 40%+ in the prior three quarters; Kalyan Jewellers grew over 26%. With gold still above Rs 1.5 lakh per 10 grams, shoppers are waiting for price stability before buying.
-
-[TradingView](https://www.tradingview.com/news/moodys:6ed97e04ecd79:0-gold-jewellers-brace-for-q3-after-growth-cools-in-q2/) — 2026-10-11T04:33:00Z
-
-### 8. RBI gold reserves cross $100 billion mark for first time amid price rally
-
-India's gold reserves crossed $100bn for the first time, rising $3.6bn to $102.37bn in the week ended October 10, RBI data showed Friday. Gold's 14.7% share of total reserves is the highest since 1996-97. Overall reserves dipped $2.18bn to $697.78bn as foreign currency assets fell $5.61bn to $572.10bn, reflecting continued rupee defence.
-
-[Capital Market](https://www.capitalmarket.com/markets/news/newsdetails.aspx?sectionname=economy-news&heading=forex-reserves-slide-marginally-gold-reserves-hit-above-%24100-billion-for-first-time-amid-escalating-prices&sno=1643985) — 2026-10-10T10:00:00Z
-
-### 9. Gold buying picks up after price correction, but shoppers prioritise affordability
-
-Indian gold retailers report customer footfall picking up after the price correction from the highs, but shoppers are prioritising affordability and staying within budgets, ET Bureau reports.
-
-[Economic Times](https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/gold-buying-picks-up-after-price-correction-but-shoppers-prioritise-affordability/articleshow/134847565.cms) — 2026-10-10T04:59:03Z
-
-### 10. High silver prices threaten Lucknow's famed bridal nagra craft
-
-Al Jazeera profiles Lucknow's silver nagra bridal-shoe makers, a craft collapsing as Indian silver hit about ₹250,000/kg — over three times 2023 levels. Pairs that once sold for ₹12,000 now cost ₹60,000–75,000, pricing out brides, and most of the ~30 craftsmen have quit. India more than doubled effective gold/silver import taxes in May; silver imports then plunged 87%.
-
-[Al Jazeera](https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft) — 2026-10-10T13:30:00Z
+## Stories
+1. [Why China is importing a record amount of gold — and what it means for prices](https://www.cnbc.com/2026/10/12/china-gold-buying-interest-rate-.html) — *CNBC*, 2026-10-12T00:51:00Z
+   China's central bank bought about 23 tonnes of gold in September, its biggest monthly purchase in almost three years and a 23rd straight month. The country imported over 1,000 tonnes worth a record $158.8bn in Jan–Aug 2026 (vs $96.5bn / 886t in all of 2025). Beijing is cutting dollar/Treasury dependence while households seek safe havens; State Street's Doshi forecasts $4,750-$5,500 by end-Q1 2027.
+2. [Gold's record ETF haul meets a shifting Fed calculus](https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/gold-s-record-etf-haul-meets-a-shifting-fed-calculus/70288580) — *ad-hoc-news*, 2026-10-10T12:00:00Z
+   Global gold ETFs drew a record $31 billion in Q3, lifting holdings to an all-time high of 4,256 tonnes even as gold fell 8.5% in September — ETF buyers and futures sellers moved in opposite directions, per the World Gold Council. Spot gold closed Friday at $4,196, up 1.5%, rebounding from a two-month low on a softer dollar and falling yields. China's central bank bought for a 23rd straight month.
+3. [Gold steady as markets strap in for inflation data](https://theedgemalaysia.com/node/821410) — *The Edge Malaysia*, 2026-10-12T01:32:00Z
+   Gold held flat in early Asian trading Monday after a one-week high on Friday, as investors braced for US inflation data that could reset Fed rate-hike bets. Spot gold steadied at $4,200.23, December futures at $4,225.50; CPI lands Wednesday, PPI and retail sales Thursday. Markets price an 84% chance of a hike by December; spot silver rose 0.5% to $61.08. Indian gold demand was sluggish last week.
+4. [India ends IGST exemption on gold, silver and platinum imports by banks](https://www.livemint.com/money/no-more-tax-relief-for-importing-gold-silver-and-platinum-what-does-it-mean-will-buyers-pay-more-11791647986746.html) — *Mint*, 2026-10-10T12:00:00Z
+   The government has withdrawn the upfront IGST exemption banks and nominated agencies enjoyed on bullion imports since 2017. Revenue Secretary Arvind Shrivastava says banks have paid the 3% IGST since April 1, 2026; the GST Council was informed on October 8. Bank-channel imports now sit on par with routes like the India International Bullion Exchange, removing a tax edge that favoured one channel.
+5. [Silver Price Forecast, Prediction: $70 December Target Faces Demand Test](https://www.exchangerates.org.uk/news/47414/2026-10-11-silver-price-forecast-prediction-70-december-target-faces-demand-test.html) — *Exchange Rates UK*, 2026-10-11T17:30:00Z
+   Spot silver closed around $60.83, up about 2.2% on the day, as the market tests whether the rebound can reach $70 by December. UBS holds forecasts of $70/oz for December 2026 and $80 for September 2027; Goldman Sachs estimated roughly $1.6bn of speculative silver selling during September 22-29, framing the December target as a test of real demand.
+6. [RBI to meet daily dollar needs of 3 state-run oil firms to ease rupee pressure](https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-to-meet-daily-dollar-needs-of-3-state-run-oil-firms-to-ease-rupee-pressure/articleshow/134880069.cms) — *Economic Times*, 2026-10-11T18:30:00Z
+   The RBI will supply dollars directly to Indian Oil, HPCL and BPCL from October 12, taking oil firms' purchases out of the spot market, and tightened currency-derivative rules to curb speculation. The rupee closed Friday at 96.73 per dollar, near its 96.96 record low; Emkay expects ~1% bounce Monday, but economists warn relief may be short-lived. A weaker rupee keeps lifting bullion's landed cost.
+7. [Gold, silver prices likely range-bound with slightly positive bias next week](https://www.tradingview.com/news/cnbctv:44e989524094b:0/) — *TradingView*, 2026-10-11T14:00:00Z
+   Analysts expect gold and silver to trade in a range with a mildly positive bias next week, with rupee weakness cushioning domestic bullion against global swings. MCX December gold gained Rs 1,109 last week to Rs 1.51 lakh per 10 grams; silver ended at Rs 2.25 lakh per kg. Traders watch inflation data from India, China and the US, plus Fed speeches, for clues on an October vs December US rate hike.
+8. [Gold & Silver Price Outlook: Market Volatility Hits Bullion as Global Pressures and Dollar Index Sway Rates](https://www.mfnewsdaily.in/gold-silver-price-outlook-market-volatility-hits-bullion-as-global-pressures-and-dollar-index-sway-rates/) — *MF News Daily*, 2026-10-10T12:00:00Z
+   Domestic bullion stayed volatile over the past week, tracking global markets: MCX gold futures moved near Rs 1.49-1.50 lakh/10g while silver swung between Rs 2.20 lakh and Rs 2.25 lakh/kg. Outlook: range-bound to slightly bullish: spot gold near $4,100-4,150 with MCX support at Rs 1,47,500 and resistance at Rs 1,51,000-1,52,500; silver support near Rs 2,21,000, upside Rs 2,30,000-2,34,000.
+9. [Gold Price Forecast: UBS Sees $5,200 By June 2027 On ETF Buying](https://www.exchangerates.org.uk/news/47413/2026-10-11-gold-price-forecast-ubs-sees-5-200-by-june-2027-on-etf-buying.html) — *Exchange Rates UK*, 2026-10-11T17:15:00Z
+   UBS forecasts gold at $4,600 by end-2026 and $5,200 by June 2027; Crédit Agricole targets $5,000 by December 2026. ETF holdings stayed resilient (67 tonnes of September inflows per WGC) while futures investors cut net-long positions. Near-term risk: a retreat toward $4,000 on rising real yields; UBS expects one more Fed hike this year and two cuts in 2027.
+10. [Should investors buy or sell gold and silver this Navratri week? Commodity Outlook for precious metal traders](https://www.livemint.com/market/stock-market-news/should-investors-buy-or-sell-gold-and-silver-this-navratri-week-commodity-outlook-for-precious-metal-traders-11791717184316.html) — *Mint*, 2026-10-11T12:00:00Z
+   Mint's Navratri-week commodity outlook for precious-metal traders: gold and silver recovered late in the week as the dollar and US Treasury yields eased, with a weak rupee offering domestic support. With festive buying under way, traders weigh technical levels against rate signals from the Fed and inflation data due this week.
+11. [Gold up Rs 640-700 per 10g in Sunday bullion trade; silver jumps Rs 5,100 to Rs 2.4 lakh/kg](https://english.hindusthansamachar.in/Encyc/2026/10/11/Bullion-Market-Gold-Silver.php) — *Hindusthan Samachar*, 2026-10-11T06:00:00Z
+   Domestic bullion markets extended gains on Sunday: 24-carat gold rose Rs 640-700 per 10 grams to Rs 1,51,420-1,51,570, tracking international strength, while silver surged Rs 5,100 a kg to Rs 2,40,000 in Delhi after four flat days. Over the week, 24k gold climbed up to Rs 2,240 per 10 grams and silver added Rs 5,100 a kg.
+12. [RBI gold reserves cross $100 billion mark for first time amid price rally](https://www.capitalmarket.com/markets/news/newsdetails.aspx?sectionname=economy-news&heading=forex-reserves-slide-marginally-gold-reserves-hit-above-%24100-billion-for-first-time-amid-escalating-prices&sno=1643985) — *Capital Market*, 2026-10-10T10:00:00Z
+   India's gold reserves crossed $100bn for the first time, rising $3.6bn to $102.37bn in the week ended October 10, RBI data showed Friday. Gold's 14.7% share of total reserves is the highest since 1996-97. Overall reserves dipped $2.18bn to $697.78bn as foreign currency assets fell $5.61bn to $572.10bn, reflecting continued rupee defence.
+13. [Gold jewellers brace for Q3 after growth cools in Q2](https://www.tradingview.com/news/moodys:6ed97e04ecd79:0-gold-jewellers-brace-for-q3-after-growth-cools-in-q2/) — *TradingView*, 2026-10-11T04:33:00Z
+   Gold retailers posted strong but moderating September-quarter growth as the festive and wedding season slipped into the December quarter, an Equirus analyst said. Titan's jewellery-led revenue grew 25% in Q2 FY27 versus 40%+ in the prior three quarters; Kalyan Jewellers grew over 26%. With gold still above Rs 1.5 lakh per 10 grams, shoppers are waiting for price stability before buying.
+14. [Gold buying picks up after price correction, but shoppers prioritise affordability](https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/gold-buying-picks-up-after-price-correction-but-shoppers-prioritise-affordability/articleshow/134847565.cms) — *Economic Times*, 2026-10-10T04:59:03Z
+   Indian gold retailers report customer footfall picking up after the price correction from the highs, but shoppers are prioritising affordability and staying within budgets, ET Bureau reports.
+15. [High silver prices threaten Lucknow's famed bridal nagra craft](https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft) — *Al Jazeera*, 2026-10-10T13:30:00Z
+   Al Jazeera profiles Lucknow's silver nagra bridal-shoe makers, a craft collapsing as Indian silver hit about ₹250,000/kg — over three times 2023 levels. Pairs that once sold for ₹12,000 now cost ₹60,000–75,000, pricing out brides, and most of the ~30 craftsmen have quit. India more than doubled effective gold/silver import taxes in May; silver imports then plunged 87%.
