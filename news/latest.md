@@ -1,28 +1,28 @@
-# Gold & Silver for Indian buyers · 2026-10-12T02:00Z
+# Gold & Silver for Indian buyers · 2026-10-12T03:00Z
 
-> China's record gold buying meets an inflation-data week; rupee defence steadies MCX
+> Gold holds near $4,200 as Monday's Asia session opens; China buying and ETF records frame the inflation-data week
 
-China imported a record $158.8bn of gold in the first eight months of 2026 and its central bank bought for a 23rd straight month, adding structural demand as gold held near $4,200 ahead of this week's US inflation data. Spot silver steadied at $61.08 with UBS holding a $70 December target. In India, the RBI moved to supply dollars directly to state oil companies from October 12 to defend a rupee that closed at 96.73 — near its record low — while weak-rupee support kept MCX December gold near Rs 1.51 lakh. Banks now pay 3% IGST on bullion imports after the exemption's withdrawal.
+Gold held around $4,200 an ounce and silver near $61 in early Asian trade on Monday, steady after Friday's rebound, as traders await Wednesday's US CPI and Thursday's PPI and retail sales. China's record gold imports and a record $31bn Q3 ETF inflow keep structural support under the market even as traders price an 84% chance of a December Fed rate hike. In India, the RBI's dollar support for oil companies and the end of the IGST exemption on bank bullion imports are the big domestic policy shifts, with MCX December gold near Rs 1.51 lakh/10g heading into the Navratri buying week.
 
-- China: PBoC bought ~23t of gold in September (23rd straight month); Jan–Aug imports topped 1,000t / $158.8bn, a record.
-- US inflation data this week (CPI Wed, PPI and retail sales Thu) will reset Fed-hike bets; 84% chance priced for a December hike.
-- Spot gold steadied at $4,200.23; silver rose to $61.08. Q3 gold ETFs drew a record $31bn, holdings hit 4,256 tonnes.
-- Rupee: RBI supplies dollars directly to IOC, HPCL, BPCL from Oct 12; rupee closed at 96.73, near its 96.96 record low.
-- MCX Dec gold gained Rs 1,109 last week to Rs 1.51 lakh/10g; analysts see a range-bound, mildly positive week ahead.
+- Spot gold $4,200.23, December COMEX around $4,230 (+0.3%); silver near $61.1-$61.5 on Monday morning.
+- China imported a record $158.8bn of gold in Jan-Aug; the PBoC bought a 23rd straight month.
+- Q3 gold ETFs drew a record $31bn; holdings hit a record 4,256 tonnes, says the World Gold Council.
+- The RBI will supply dollars directly to state oil companies from Oct 12 to defend a rupee near record lows.
+- India's IGST exemption on gold, silver and platinum imports by banks ended; imports now carry 3%.
 
 ## Trending
-- **China's record gold bid underpins the market**: The PBoC bought ~23 tonnes in September — a 23rd straight month — while China imported a record $158.8bn of gold in Jan–Aug; State Street's Doshi sees $4,750-$5,500 by end-Q1 2027 on sustained demand. (stories 1)
-- **Inflation-data week sets the near-term tone**: With gold at $4,200 and silver at $61, Wednesday's US CPI and Thursday's PPI/retail sales will reset October-vs-December hike bets (84% priced for December); UBS holds $70 silver by December. (stories 3, 5)
-- **The rupee stays domestic bullion's shock absorber**: The RBI's direct dollar window for oil companies from October 12 may lift the rupee ~1% on Monday, but depreciation pressure persists — and a weak rupee keeps cushioning MCX prices near Rs 1.51 lakh. (stories 6, 7, 8)
-- **Festive demand meets record prices**: Footfall is picking up after the price correction, but shoppers buy light and budget-first; in Lucknow, silver near Rs 2.5 lakh/kg is hollowing out the bridal nagra craft. (stories 10, 14, 15)
+- **Inflation-data week sets the near-term tone**: Wednesday's US CPI, Thursday's PPI and retail sales, plus Fed speeches will decide whether December's 84%-priced rate hike moves nearer or fades — and with it gold's direction. (stories 1, 3)
+- **China's structural bid underpins bullion**: Record imports and 23 months of central-bank buying, on top of a record $31bn Q3 ETF haul, keep a floor under prices even as hawkish Fed bets cap upside. (stories 2, 9)
+- **The rupee stays domestic bullion's shock absorber**: Direct RBI dollar supply to oil firms and record FX reserves cushion MCX prices, but a rupee near its record low keeps imported gold expensive for Indian buyers. (stories 6, 7, 12)
+- **Silver rides gold's coattails toward $70**: Silver's bounce to $61 draws forecast support at $70 by December, though high prices are squeezing traditional buyers like Lucknow's bridal craft makers. (stories 5, 14)
 
 ## Stories
-1. [Why China is importing a record amount of gold — and what it means for prices](https://www.cnbc.com/2026/10/12/china-gold-buying-interest-rate-.html) — *CNBC*, 2026-10-12T00:51:00Z
+1. [Gold steady as markets strap in for inflation data](https://economictimes.indiatimes.com/markets/commodities/news/gold-steady-as-markets-strap-in-for-inflation-data/articleshow/134880669.cms) — *Economic Times*, 2026-10-12T00:10:00Z
+   Spot gold steadied at $4,200.23 in early Asian trade Monday after a one-week high on Friday, with December COMEX futures near $4,230, as markets brace for Wednesday's US CPI and Thursday's PPI and retail sales. Silver rose to about $61.1-61.5 an ounce. Traders price an 18% chance of an October Fed hike and 84% by December; India gold demand was sluggish last week.
+2. [Why China is importing a record amount of gold — and what it means for prices](https://www.cnbc.com/2026/10/12/china-gold-buying-interest-rate-.html) — *CNBC*, 2026-10-12T00:51:00Z
    China's central bank bought about 23 tonnes of gold in September, its biggest monthly purchase in almost three years and a 23rd straight month. The country imported over 1,000 tonnes worth a record $158.8bn in Jan–Aug 2026 (vs $96.5bn / 886t in all of 2025). Beijing is cutting dollar/Treasury dependence while households seek safe havens; State Street's Doshi forecasts $4,750-$5,500 by end-Q1 2027.
-2. [Gold's record ETF haul meets a shifting Fed calculus](https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/gold-s-record-etf-haul-meets-a-shifting-fed-calculus/70288580) — *ad-hoc-news*, 2026-10-10T12:00:00Z
+3. [Gold's record ETF haul meets a shifting Fed calculus](https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/gold-s-record-etf-haul-meets-a-shifting-fed-calculus/70288580) — *ad-hoc-news*, 2026-10-10T12:00:00Z
    Global gold ETFs drew a record $31 billion in Q3, lifting holdings to an all-time high of 4,256 tonnes even as gold fell 8.5% in September — ETF buyers and futures sellers moved in opposite directions, per the World Gold Council. Spot gold closed Friday at $4,196, up 1.5%, rebounding from a two-month low on a softer dollar and falling yields. China's central bank bought for a 23rd straight month.
-3. [Gold steady as markets strap in for inflation data](https://theedgemalaysia.com/node/821410) — *The Edge Malaysia*, 2026-10-12T01:32:00Z
-   Gold held flat in early Asian trading Monday after a one-week high on Friday, as investors braced for US inflation data that could reset Fed rate-hike bets. Spot gold steadied at $4,200.23, December futures at $4,225.50; CPI lands Wednesday, PPI and retail sales Thursday. Markets price an 84% chance of a hike by December; spot silver rose 0.5% to $61.08. Indian gold demand was sluggish last week.
 4. [India ends IGST exemption on gold, silver and platinum imports by banks](https://www.livemint.com/money/no-more-tax-relief-for-importing-gold-silver-and-platinum-what-does-it-mean-will-buyers-pay-more-11791647986746.html) — *Mint*, 2026-10-10T12:00:00Z
    The government has withdrawn the upfront IGST exemption banks and nominated agencies enjoyed on bullion imports since 2017. Revenue Secretary Arvind Shrivastava says banks have paid the 3% IGST since April 1, 2026; the GST Council was informed on October 8. Bank-channel imports now sit on par with routes like the India International Bullion Exchange, removing a tax edge that favoured one channel.
 5. [Silver Price Forecast, Prediction: $70 December Target Faces Demand Test](https://www.exchangerates.org.uk/news/47414/2026-10-11-silver-price-forecast-prediction-70-december-target-faces-demand-test.html) — *Exchange Rates UK*, 2026-10-11T17:30:00Z
@@ -43,7 +43,5 @@ China imported a record $158.8bn of gold in the first eight months of 2026 and i
    India's gold reserves crossed $100bn for the first time, rising $3.6bn to $102.37bn in the week ended October 10, RBI data showed Friday. Gold's 14.7% share of total reserves is the highest since 1996-97. Overall reserves dipped $2.18bn to $697.78bn as foreign currency assets fell $5.61bn to $572.10bn, reflecting continued rupee defence.
 13. [Gold jewellers brace for Q3 after growth cools in Q2](https://www.tradingview.com/news/moodys:6ed97e04ecd79:0-gold-jewellers-brace-for-q3-after-growth-cools-in-q2/) — *TradingView*, 2026-10-11T04:33:00Z
    Gold retailers posted strong but moderating September-quarter growth as the festive and wedding season slipped into the December quarter, an Equirus analyst said. Titan's jewellery-led revenue grew 25% in Q2 FY27 versus 40%+ in the prior three quarters; Kalyan Jewellers grew over 26%. With gold still above Rs 1.5 lakh per 10 grams, shoppers are waiting for price stability before buying.
-14. [Gold buying picks up after price correction, but shoppers prioritise affordability](https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/gold-buying-picks-up-after-price-correction-but-shoppers-prioritise-affordability/articleshow/134847565.cms) — *Economic Times*, 2026-10-10T04:59:03Z
-   Indian gold retailers report customer footfall picking up after the price correction from the highs, but shoppers are prioritising affordability and staying within budgets, ET Bureau reports.
-15. [High silver prices threaten Lucknow's famed bridal nagra craft](https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft) — *Al Jazeera*, 2026-10-10T13:30:00Z
+14. [High silver prices threaten Lucknow's famed bridal nagra craft](https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft) — *Al Jazeera*, 2026-10-10T13:30:00Z
    Al Jazeera profiles Lucknow's silver nagra bridal-shoe makers, a craft collapsing as Indian silver hit about ₹250,000/kg — over three times 2023 levels. Pairs that once sold for ₹12,000 now cost ₹60,000–75,000, pricing out brides, and most of the ~30 craftsmen have quit. India more than doubled effective gold/silver import taxes in May; silver imports then plunged 87%.
