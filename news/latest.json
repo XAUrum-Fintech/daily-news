@@ -1,431 +1,364 @@
 {
-  "schema": "orob-news.v1",
-  "edition_id": "2026-10-12T04:00Z",
-  "generated_at": "2026-10-12T04:01:23Z",
-  "window": {
-    "from": "2026-10-12T03:00:00Z",
-    "to": "2026-10-12T04:00:00Z"
-  },
-  "insights": {
-    "headline": "Gold edges up to $4,206 on weaker oil and dollar as inflation-data week begins",
-    "summary": "Bullion started the week on the front foot after Donald Trump announced a Russia-Ukraine energy ceasefire, dragging oil about 2% lower and taking some inflation and rate-hike anxiety out of the market. Spot gold added 0.3% to $4,206.01 and silver 0.5% to $61.12, with traders now watching Wednesday's US CPI and Thursday's PPI and retail sales. Fed funds futures price only a 17% chance of a hike in October but 86% by December.",
-    "points": [
-      "Spot gold +0.3% at $4,206.01; December COMEX $4,230.40; silver +0.5% at $61.12 on Monday morning.",
-      "Oil fell on Trump's announced Russia-Ukraine energy ceasefire, easing inflation and rate-hike fears.",
-      "US CPI lands Wednesday, PPI and retail sales Thursday; FedWatch sees 17% October, 86% December hike odds.",
-      "China's record gold imports and Q3 ETF demand underpin prices; RBI starts dollar supply to oil firms today.",
-      "India's IGST exemption on bank bullion imports ended, adding 3% to imported gold and silver costs."
-    ]
-  },
-  "trending": [
-    {
-      "title": "Inflation-data week sets the near-term tone",
-      "summary": "Wednesday's US CPI, Thursday's PPI and retail sales will decide whether December's 86%-priced rate hike moves nearer or fades — and with it, gold's direction.",
-      "item_ids": [
-        "1973c295cb18a073",
-        "0165ebedfe907565"
-      ]
-    },
-    {
-      "title": "China's structural bid underpins bullion",
-      "summary": "Record imports and 23 months of central-bank buying, on top of a record $31bn Q3 ETF haul, keep a floor under prices even as hawkish Fed bets cap upside.",
-      "item_ids": [
-        "9fff8b1fe39a0b81",
-        "0165ebedfe907565"
-      ]
-    },
-    {
-      "title": "The rupee stays domestic bullion's shock absorber",
-      "summary": "The RBI's direct dollar supply to oil firms starts today to cushion a rupee near record lows, but the IGST exemption's end adds 3% to bank bullion imports.",
-      "item_ids": [
-        "5e1585e9273f02ea",
-        "eb594dcb79726d8e"
-      ]
-    },
-    {
-      "title": "Silver rides gold's coattails toward $70",
-      "summary": "Silver holds above $61 on softer yields and the oil slide; forecasters still eye $70 by December, though high prices are squeezing craft buyers like Lucknow's bridal makers.",
-      "item_ids": [
-        "7aee34c7f0cac262",
-        "f158621a17e5b5bf",
-        "c4002c7a20c8b1ae"
-      ]
-    }
-  ],
-  "items": [
-    {
-      "id": "1973c295cb18a073",
-      "title": "Gold gains on weaker oil, dollar; US inflation data in focus",
-      "summary": "Gold rose 0.3% to $4,206.01 on Monday as falling oil and a softer dollar lifted bullion into the week's US inflation data. Oil slid after Trump's announced Russia-Ukraine energy ceasefire; silver added 0.5% to $61.12. Traders await Wednesday's CPI and Thursday's PPI and retail sales, pricing a 17% Fed-hike chance in October and 86% by December.",
-      "url": "https://www.reuters.com/world/india/gold-gains-weaker-oil-dollar-us-inflation-data-focus-2026-10-12/",
-      "source": "Reuters",
-      "source_domain": "reuters.com",
-      "publisher_id": "reuters",
-      "published_at": "2026-10-12T03:13:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "fed",
-        "global"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://economictimes.indiatimes.com/markets/commodities/news/gold-steady-as-markets-strap-in-for-inflation-data/articleshow/134880669.cms"
-      ],
-      "rank": 1
-    },
-    {
-      "id": "9fff8b1fe39a0b81",
-      "title": "Why China is importing a record amount of gold — and what it means for prices",
-      "summary": "China's central bank bought about 23 tonnes of gold in September, its biggest monthly purchase in almost three years and a 23rd straight month. The country imported over 1,000 tonnes worth a record $158.8bn in Jan–Aug 2026 (vs $96.5bn / 886t in all of 2025). Beijing is cutting dollar/Treasury dependence while households seek safe havens; State Street's Doshi forecasts $4,750-$5,500 by end-Q1 2027.",
-      "url": "https://www.cnbc.com/2026/10/12/china-gold-buying-interest-rate-.html",
-      "source": "CNBC",
-      "source_domain": "cnbc.com",
-      "publisher_id": "cnbc",
-      "published_at": "2026-10-12T00:51:00Z",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108375012-1791434896477-gettyimages-2179215252-vcg111524625398.jpeg?v=1791434922&w=1920&h=1080",
-      "image_kind": "photo",
-      "breaking": false,
-      "tags": [
-        "gold",
-        "central-banks",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "related_urls": [
-        "https://www.goldinvestors.news/2026/10/russian-gold-floods-hong-kong-as-china-gateway-smashes-records/"
-      ],
-      "rank": 2
-    },
-    {
-      "id": "0165ebedfe907565",
-      "rank": 3,
-      "title": "Gold's record ETF haul meets a shifting Fed calculus",
-      "summary": "Global gold ETFs drew a record $31 billion in Q3, lifting holdings to an all-time high of 4,256 tonnes even as gold fell 8.5% in September — ETF buyers and futures sellers moved in opposite directions, per the World Gold Council. Spot gold closed Friday at $4,196, up 1.5%, rebounding from a two-month low on a softer dollar and falling yields. China's central bank bought for a 23rd straight month.",
-      "url": "https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/gold-s-record-etf-haul-meets-a-shifting-fed-calculus/70288580",
-      "source": "ad-hoc-news",
-      "source_domain": "ad-hoc-news.de",
-      "publisher_id": "ad-hoc-news",
-      "published_at": "2026-10-10T12:00:00Z",
-      "image_url": "https://mdb.ad-hoc-news.de/bild/bild-2816757_1920_1080.webp",
-      "image_kind": "photo",
-      "breaking": false,
-      "tags": [
-        "gold",
-        "global",
-        "fed",
-        "central-banks"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ]
-    },
-    {
-      "id": "eb594dcb79726d8e",
-      "title": "India ends IGST exemption on gold, silver and platinum imports by banks",
-      "summary": "The government has withdrawn the upfront IGST exemption banks and nominated agencies enjoyed on bullion imports since 2017. Revenue Secretary Arvind Shrivastava says banks have paid the 3% IGST since April 1, 2026; the GST Council was informed on October 8. Bank-channel imports now sit on par with routes like the India International Bullion Exchange, removing a tax edge that favoured one channel.",
-      "url": "https://www.livemint.com/money/no-more-tax-relief-for-importing-gold-silver-and-platinum-what-does-it-mean-will-buyers-pay-more-11791647986746.html",
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "publisher_id": "mint",
-      "published_at": "2026-10-10T12:00:00Z",
-      "image_url": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/pexels-photo-8442328_1791648405977_CwLN_1791648421917_wFgQ_00e94762-2d50-4cad-b36e-e27e504129ff_icil.jpeg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "import-duty",
-        "india"
-      ],
-      "category": "policy",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 4
-    },
-    {
-      "id": "7aee34c7f0cac262",
-      "title": "Silver Price Forecast, Prediction: $70 December Target Faces Demand Test",
-      "summary": "Spot silver closed around $60.83, up about 2.2% on the day, as the market tests whether the rebound can reach $70 by December. UBS holds forecasts of $70/oz for December 2026 and $80 for September 2027; Goldman Sachs estimated roughly $1.6bn of speculative silver selling during September 22-29, framing the December target as a test of real demand.",
-      "url": "https://www.exchangerates.org.uk/news/47414/2026-10-11-silver-price-forecast-prediction-70-december-target-faces-demand-test.html",
-      "source": "Exchange Rates UK",
-      "source_domain": "exchangerates.org.uk",
-      "publisher_id": "exchange-rates-uk",
-      "published_at": "2026-10-11T17:30:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "breaking": false,
-      "tags": [
-        "silver",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "rank": 5
-    },
-    {
-      "id": "f158621a17e5b5bf",
-      "title": "Silver Price Forecast: XAG/USD holds gains near $61 amid Russia-Ukraine ceasefire",
-      "summary": "Silver held near $61.10 in Asian trading on Monday, keeping Friday's gains as lower oil prices weighed on 10-year Treasury yields near 5.24%, easing pressure on non-yielding metals. The move followed US President Donald Trump's announcement of an energy ceasefire between Russia and Ukraine, with WTI crude down about 2% near $89. Investors now look to Wednesday's US CPI.",
-      "url": "https://www.tradingkey.com/news/commodities/262210684-fxstr",
-      "source": "TradingKey",
-      "source_domain": "tradingkey.com",
-      "publisher_id": "tradingkey",
-      "published_at": "2026-10-12T03:26:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "tags": [
-        "silver",
-        "fed",
-        "global"
-      ],
-      "breaking": false,
-      "rank": 6
-    },
-    {
-      "id": "5e1585e9273f02ea",
-      "title": "RBI to meet daily dollar needs of 3 state-run oil firms to ease rupee pressure",
-      "summary": "The RBI will supply dollars directly to Indian Oil, HPCL and BPCL from October 12, taking oil firms' purchases out of the spot market, and tightened currency-derivative rules to curb speculation. The rupee closed Friday at 96.73 per dollar, near its 96.96 record low; Emkay expects ~1% bounce Monday, but economists warn relief may be short-lived. A weaker rupee keeps lifting bullion's landed cost.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-to-meet-daily-dollar-needs-of-3-state-run-oil-firms-to-ease-rupee-pressure/articleshow/134880069.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "publisher_id": "economic-times",
-      "published_at": "2026-10-11T18:30:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "breaking": false,
-      "tags": [
-        "gold",
-        "rupee",
-        "rbi",
-        "india"
-      ],
-      "category": "policy",
-      "metals": [
-        "gold"
-      ],
-      "related_urls": [
-        "https://www.livemint.com/market/rbi-rupee-support-measures-versus-dollar-11791712027213.html",
-        "https://economictimes.indiatimes.com/markets/forex/pressure-on-rupee-may-continue-after-temporary-gains-on-rbi-actions-say-economists/articleshow/134880027.cms"
-      ],
-      "rank": 7
-    },
-    {
-      "id": "f65dbf436d2ab09d",
-      "rank": 8,
-      "title": "Gold, silver prices likely range-bound with slightly positive bias next week",
-      "summary": "Analysts expect gold and silver to trade in a range with a mildly positive bias next week, with rupee weakness cushioning domestic bullion against global swings. MCX December gold gained Rs 1,109 last week to Rs 1.51 lakh per 10 grams; silver ended at Rs 2.25 lakh per kg. Traders watch inflation data from India, China and the US, plus Fed speeches, for clues on an October vs December US rate hike.",
-      "url": "https://www.tradingview.com/news/cnbctv:44e989524094b:0/",
-      "source": "TradingView",
-      "source_domain": "tradingview.com",
-      "publisher_id": "tradingview",
-      "published_at": "2026-10-11T14:00:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "mcx",
-        "gold",
-        "silver",
-        "rupee",
-        "fed",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false
-    },
-    {
-      "id": "bfaa6818fd4ccfca",
-      "title": "Gold & Silver Price Outlook: Market Volatility Hits Bullion as Global Pressures and Dollar Index Sway Rates",
-      "summary": "Domestic bullion stayed volatile over the past week, tracking global markets: MCX gold futures moved near Rs 1.49-1.50 lakh/10g while silver swung between Rs 2.20 lakh and Rs 2.25 lakh/kg. Outlook: range-bound to slightly bullish: spot gold near $4,100-4,150 with MCX support at Rs 1,47,500 and resistance at Rs 1,51,000-1,52,500; silver support near Rs 2,21,000, upside Rs 2,30,000-2,34,000.",
-      "url": "https://www.mfnewsdaily.in/gold-silver-price-outlook-market-volatility-hits-bullion-as-global-pressures-and-dollar-index-sway-rates/",
-      "source": "MF News Daily",
-      "source_domain": "mfnewsdaily.in",
-      "publisher_id": "mf-news-daily",
-      "published_at": "2026-10-10T12:00:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "breaking": false,
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "rank": 9
-    },
-    {
-      "id": "f5c454bf9ff2eb88",
-      "rank": 10,
-      "title": "Gold Price Forecast: UBS Sees $5,200 By June 2027 On ETF Buying",
-      "summary": "UBS forecasts gold at $4,600 by end-2026 and $5,200 by June 2027; Crédit Agricole targets $5,000 by December 2026. ETF holdings stayed resilient (67 tonnes of September inflows per WGC) while futures investors cut net-long positions. Near-term risk: a retreat toward $4,000 on rising real yields; UBS expects one more Fed hike this year and two cuts in 2027.",
-      "url": "https://www.exchangerates.org.uk/news/47413/2026-10-11-gold-price-forecast-ubs-sees-5-200-by-june-2027-on-etf-buying.html",
-      "source": "Exchange Rates UK",
-      "source_domain": "exchangerates.org.uk",
-      "publisher_id": "exchange-rates-uk",
-      "published_at": "2026-10-11T17:15:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "fed",
-        "central-banks",
-        "global",
-        "india"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false
-    },
-    {
-      "id": "350c46dffd255bc3",
-      "title": "Should investors buy or sell gold and silver this Navratri week? Commodity Outlook for precious metal traders",
-      "summary": "Mint's Navratri-week commodity outlook for precious-metal traders: gold and silver recovered late in the week as the dollar and US Treasury yields eased, with a weak rupee offering domestic support. With festive buying under way, traders weigh technical levels against rate signals from the Fed and inflation data due this week.",
-      "url": "https://www.livemint.com/market/stock-market-news/should-investors-buy-or-sell-gold-and-silver-this-navratri-week-commodity-outlook-for-precious-metal-traders-11791717184316.html",
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "publisher_id": "mint",
-      "published_at": "2026-10-11T12:00:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "breaking": false,
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "india"
-      ],
-      "category": "festive",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "rank": 11
-    },
-    {
-      "id": "9c7d9c1512ac1c63",
-      "rank": 12,
-      "title": "Gold up Rs 640-700 per 10g in Sunday bullion trade; silver jumps Rs 5,100 to Rs 2.4 lakh/kg",
-      "summary": "Domestic bullion markets extended gains on Sunday: 24-carat gold rose Rs 640-700 per 10 grams to Rs 1,51,420-1,51,570, tracking international strength, while silver surged Rs 5,100 a kg to Rs 2,40,000 in Delhi after four flat days. Over the week, 24k gold climbed up to Rs 2,240 per 10 grams and silver added Rs 5,100 a kg.",
-      "url": "https://english.hindusthansamachar.in/Encyc/2026/10/11/Bullion-Market-Gold-Silver.php",
-      "source": "Hindusthan Samachar",
-      "source_domain": "english.hindusthansamachar.in",
-      "publisher_id": "hindusthan-samachar",
-      "published_at": "2026-10-11T06:00:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/9c7d9c1512ac1c63.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "mcx",
-        "gold",
-        "silver",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false
-    },
-    {
-      "id": "cdf70d44e6d2116a",
-      "title": "RBI gold reserves cross $100 billion mark for first time amid price rally",
-      "summary": "India's gold reserves crossed $100bn for the first time, rising $3.6bn to $102.37bn in the week ended October 10, RBI data showed Friday. Gold's 14.7% share of total reserves is the highest since 1996-97. Overall reserves dipped $2.18bn to $697.78bn as foreign currency assets fell $5.61bn to $572.10bn, reflecting continued rupee defence.",
-      "url": "https://www.capitalmarket.com/markets/news/newsdetails.aspx?sectionname=economy-news&heading=forex-reserves-slide-marginally-gold-reserves-hit-above-%24100-billion-for-first-time-amid-escalating-prices&sno=1643985",
-      "source": "Capital Market",
-      "source_domain": "capitalmarket.com",
-      "publisher_id": "capital-market",
-      "published_at": "2026-10-10T10:00:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "rupee",
-        "rbi",
-        "india"
-      ],
-      "breaking": false,
-      "rank": 13
-    },
-    {
-      "id": "9d10051fb3d2a49c",
-      "title": "Gold jewellers brace for Q3 after growth cools in Q2",
-      "summary": "Gold retailers posted strong but moderating September-quarter growth as the festive and wedding season slipped into the December quarter, an Equirus analyst said. Titan's jewellery-led revenue grew 25% in Q2 FY27 versus 40%+ in the prior three quarters; Kalyan Jewellers grew over 26%. With gold still above Rs 1.5 lakh per 10 grams, shoppers are waiting for price stability before buying.",
-      "url": "https://www.tradingview.com/news/moodys:6ed97e04ecd79:0-gold-jewellers-brace-for-q3-after-growth-cools-in-q2/",
-      "source": "TradingView",
-      "source_domain": "tradingview.com",
-      "publisher_id": "tradingview",
-      "published_at": "2026-10-11T04:33:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "india",
-        "jewellery",
-        "mcx"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 14
-    },
-    {
-      "id": "c4002c7a20c8b1ae",
-      "rank": 15,
-      "title": "High silver prices threaten Lucknow's famed bridal nagra craft",
-      "summary": "Al Jazeera profiles Lucknow's silver nagra bridal-shoe makers, a craft collapsing as Indian silver hit about ₹250,000/kg — over three times 2023 levels. Pairs that once sold for ₹12,000 now cost ₹60,000–75,000, pricing out brides, and most of the ~30 craftsmen have quit. India more than doubled effective gold/silver import taxes in May; silver imports then plunged 87%.",
-      "url": "https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft",
-      "source": "Al Jazeera",
-      "source_domain": "aljazeera.com",
-      "publisher_id": "al-jazeera",
-      "published_at": "2026-10-10T13:30:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "festive",
-      "metals": [
-        "silver"
-      ],
-      "tags": [
-        "silver",
-        "india",
-        "jewellery"
-      ],
-      "breaking": false
-    }
+ "schema": "orob-news.v1",
+ "edition_id": "2026-10-12T05:00Z",
+ "generated_at": "2026-10-12T05:02:21Z",
+ "window": {
+  "from": "2026-10-12T04:00:00Z",
+  "to": "2026-10-12T05:00:00Z"
+ },
+ "insights": {
+  "headline": "Gold holds $4,206 as oil slides on ceasefire proposal; rupee jumps 1% on RBI's FX package",
+  "summary": "Bullion held its Monday gains as crude fell about 2% on Donald Trump's proposed Russia-Ukraine energy ceasefire, taking inflation and rate-hike anxiety out of the market. Spot gold stayed at $4,206.01 and silver at $61.12, with traders watching Wednesday's US CPI and Thursday's PPI and retail sales. The rupee opened 1% higher at 95.76 after the RBI's Saturday package diverted oil firms' dollar demand and made FX hedging costlier, softening imported bullion's landed cost.",
+  "points": [
+   "Spot gold +0.3% at $4,206.01; December COMEX $4,230.40; silver +0.5% at $61.12 on Monday.",
+   "Brent fell about 2% after Trump proposed an immediate Russia-Ukraine energy ceasefire; Zelenskiy said details were still awaited.",
+   "The rupee opened 1% higher at 95.76 after the RBI's Saturday FX package: oil firms buy dollars from the RBI and banks hold 20% cash against some FX contracts.",
+   "US CPI lands Wednesday, PPI and retail sales Thursday; FedWatch prices a 17% October and 86% December hike chance.",
+   "China's 23rd month of gold buying and a record $31bn Q3 ETF haul underpin prices; India's IGST exemption on bank bullion imports ended."
   ]
+ },
+ "trending": [
+  {
+   "title": "Inflation-data week sets the near-term tone",
+   "summary": "Wednesday's US CPI, Thursday's PPI and retail sales will decide whether December's 86%-priced rate hike moves nearer or fades — and with it, gold's direction.",
+   "item_ids": [
+    "1973c295cb18a073",
+    "f158621a17e5b5bf"
+   ]
+  },
+  {
+   "title": "Ceasefire diplomacy sets the energy tone",
+   "summary": "Trump's proposed Russia-Ukraine energy ceasefire dragged oil about 2% lower, easing the inflation pressure that had weighed on bullion — and on rupee import costs.",
+   "item_ids": [
+    "d9a0b5471de6cfd8",
+    "1973c295cb18a073"
+   ]
+  },
+  {
+   "title": "The rupee stays domestic bullion's shock absorber",
+   "summary": "The RBI's direct dollar supply to oil firms starts today to cushion a rupee near record lows, but the IGST exemption's end adds 3% to bank bullion imports.",
+   "item_ids": [
+    "deebdb1300ff765e",
+    "eb594dcb79726d8e"
+   ]
+  },
+  {
+   "title": "Silver rides gold's coattails",
+   "summary": "Silver holds above $61 on softer yields and the oil slide; forecasters still eye $70 by December, though high prices are squeezing craft buyers like Lucknow's bridal makers.",
+   "item_ids": [
+    "f158621a17e5b5bf",
+    "7aee34c7f0cac262",
+    "c4002c7a20c8b1ae"
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "1973c295cb18a073",
+   "title": "Gold gains on weaker oil, dollar; US inflation data in focus",
+   "summary": "Gold rose 0.3% to $4,206.01 on Monday as falling oil and a softer dollar lifted bullion into the week's US inflation data. Oil slid after Trump's announced Russia-Ukraine energy ceasefire; silver added 0.5% to $61.12. Traders await Wednesday's CPI and Thursday's PPI and retail sales, pricing a 17% Fed-hike chance in October and 86% by December.",
+   "url": "https://www.reuters.com/world/india/gold-gains-weaker-oil-dollar-us-inflation-data-focus-2026-10-12/",
+   "source": "Reuters",
+   "source_domain": "reuters.com",
+   "publisher_id": "reuters",
+   "published_at": "2026-10-12T03:13:00Z",
+   "image_url": null,
+   "image_kind": "none",
+   "category": "global",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "tags": [
+    "gold",
+    "silver",
+    "fed",
+    "global"
+   ],
+   "breaking": false,
+   "related_urls": [
+    "https://economictimes.indiatimes.com/markets/commodities/news/gold-steady-as-markets-strap-in-for-inflation-data/articleshow/134880669.cms"
+   ],
+   "rank": 1
+  },
+  {
+   "id": "deebdb1300ff765e",
+   "rank": 2,
+   "title": "Rupee jumps 1% after RBI redirects oil dollar demand, raises cost of some FX hedges",
+   "summary": "The rupee opened 1% higher at 95.76 per dollar on Monday as the RBI's Saturday package took effect: state oil firms now buy dollars directly from the central bank, rebooking of cancelled rupee derivatives is barred, and banks must hold 20% cash against certain FX contracts. The measures temper speculative dollar demand; a firmer rupee trims imported bullion's landed cost for Indian buyers.",
+   "url": "https://www.reuters.com/world/india/rupee-jumps-1-after-rbi-redirects-oil-dollar-demand-raises-cost-some-fx-hedges-2026-10-12/",
+   "source": "Reuters",
+   "source_domain": "reuters.com",
+   "publisher_id": "reuters",
+   "published_at": "2026-10-12T03:45:00Z",
+   "image_url": null,
+   "image_kind": "none",
+   "category": "policy",
+   "metals": [
+    "gold"
+   ],
+   "tags": [
+    "rupee",
+    "rbi",
+    "india",
+    "gold"
+   ],
+   "breaking": false,
+   "related_urls": [
+    "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-to-meet-daily-dollar-needs-of-3-state-run-oil-firms-to-ease-rupee-pressure/articleshow/134880069.cms",
+    "https://economictimes.indiatimes.com/markets/forex/explained-how-rbi-is-trying-to-arrest-the-rupees-slide/articleshow/134882074.cms"
+   ]
+  },
+  {
+   "id": "d9a0b5471de6cfd8",
+   "rank": 3,
+   "title": "Crude oil price falls as Trump proposes Russia-Ukraine 'energy ceasefire'",
+   "summary": "Brent crude slid about 2% on Monday after Donald Trump said he had proposed a Russia-Ukraine energy ceasefire that was effective immediately, raising expectations of more Russian supplies. Ukraine's Volodymyr Zelenskiy said he was still awaiting details. Cheaper oil eases the inflation and rate-hike anxiety that has capped bullion.",
+   "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-fall-as-trump-proposes-russia-ukraine-energy-ceasefire/article71573728.ece",
+   "source": "The Hindu BusinessLine",
+   "source_domain": "thehindubusinessline.com",
+   "publisher_id": "hindu-businessline",
+   "published_at": "2026-10-12T04:51:03Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/d9a0b5471de6cfd8.jpg",
+   "image_kind": "photo",
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "tags": [
+    "global",
+    "gold",
+    "india"
+   ],
+   "breaking": false,
+   "related_urls": []
+  },
+  {
+   "id": "f158621a17e5b5bf",
+   "title": "Silver Price Forecast: XAG/USD holds gains near $61 amid Russia-Ukraine ceasefire",
+   "summary": "Silver held near $61.10 in Asian trading on Monday, keeping Friday's gains as lower oil prices weighed on 10-year Treasury yields near 5.24%, easing pressure on non-yielding metals. The move followed US President Donald Trump's announcement of an energy ceasefire between Russia and Ukraine, with WTI crude down about 2% near $89. Investors now look to Wednesday's US CPI.",
+   "url": "https://www.tradingkey.com/news/commodities/262210684-fxstr",
+   "source": "TradingKey",
+   "source_domain": "tradingkey.com",
+   "publisher_id": "tradingkey",
+   "published_at": "2026-10-12T03:26:00Z",
+   "image_url": null,
+   "image_kind": "none",
+   "category": "global",
+   "metals": [
+    "silver"
+   ],
+   "tags": [
+    "silver",
+    "fed",
+    "global"
+   ],
+   "breaking": false,
+   "rank": 4,
+   "related_urls": []
+  },
+  {
+   "id": "eb594dcb79726d8e",
+   "title": "India ends IGST exemption on gold, silver and platinum imports by banks",
+   "summary": "The government has withdrawn the upfront IGST exemption banks and nominated agencies enjoyed on bullion imports since 2017. Revenue Secretary Arvind Shrivastava says banks have paid the 3% IGST since April 1, 2026; the GST Council was informed on October 8. Bank-channel imports now sit on par with routes like the India International Bullion Exchange, removing a tax edge that favoured one channel.",
+   "url": "https://www.livemint.com/money/no-more-tax-relief-for-importing-gold-silver-and-platinum-what-does-it-mean-will-buyers-pay-more-11791647986746.html",
+   "source": "Mint",
+   "source_domain": "livemint.com",
+   "publisher_id": "mint",
+   "published_at": "2026-10-10T12:00:00Z",
+   "image_url": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/pexels-photo-8442328_1791648405977_CwLN_1791648421917_wFgQ_00e94762-2d50-4cad-b36e-e27e504129ff_icil.jpeg",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "silver",
+    "import-duty",
+    "india"
+   ],
+   "category": "policy",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "rank": 5,
+   "related_urls": []
+  },
+  {
+   "id": "9fff8b1fe39a0b81",
+   "title": "Why China is importing a record amount of gold — and what it means for prices",
+   "summary": "China's central bank bought about 23 tonnes of gold in September, its biggest monthly purchase in almost three years and a 23rd straight month. The country imported over 1,000 tonnes worth a record $158.8bn in Jan–Aug 2026 (vs $96.5bn / 886t in all of 2025). Beijing is cutting dollar/Treasury dependence while households seek safe havens; State Street's Doshi forecasts $4,750-$5,500 by end-Q1 2027.",
+   "url": "https://www.cnbc.com/2026/10/12/china-gold-buying-interest-rate-.html",
+   "source": "CNBC",
+   "source_domain": "cnbc.com",
+   "publisher_id": "cnbc",
+   "published_at": "2026-10-12T00:51:00Z",
+   "image_url": "https://image.cnbcfm.com/api/v1/image/108375012-1791434896477-gettyimages-2179215252-vcg111524625398.jpeg?v=1791434922&w=1920&h=1080",
+   "image_kind": "photo",
+   "breaking": false,
+   "tags": [
+    "gold",
+    "central-banks",
+    "global"
+   ],
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "related_urls": [
+    "https://www.goldinvestors.news/2026/10/russian-gold-floods-hong-kong-as-china-gateway-smashes-records/"
+   ],
+   "rank": 6
+  },
+  {
+   "id": "0165ebedfe907565",
+   "rank": 7,
+   "title": "Gold's record ETF haul meets a shifting Fed calculus",
+   "summary": "Global gold ETFs drew a record $31 billion in Q3, lifting holdings to an all-time high of 4,256 tonnes even as gold fell 8.5% in September — ETF buyers and futures sellers moved in opposite directions, per the World Gold Council. Spot gold closed Friday at $4,196, up 1.5%, rebounding from a two-month low on a softer dollar and falling yields. China's central bank bought for a 23rd straight month.",
+   "url": "https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/gold-s-record-etf-haul-meets-a-shifting-fed-calculus/70288580",
+   "source": "ad-hoc-news",
+   "source_domain": "ad-hoc-news.de",
+   "publisher_id": "ad-hoc-news",
+   "published_at": "2026-10-10T12:00:00Z",
+   "image_url": "https://mdb.ad-hoc-news.de/bild/bild-2816757_1920_1080.webp",
+   "image_kind": "photo",
+   "breaking": false,
+   "tags": [
+    "gold",
+    "global",
+    "fed",
+    "central-banks"
+   ],
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "related_urls": []
+  },
+  {
+   "id": "7aee34c7f0cac262",
+   "title": "Silver Price Forecast, Prediction: $70 December Target Faces Demand Test",
+   "summary": "Spot silver closed around $60.83, up about 2.2% on the day, as the market tests whether the rebound can reach $70 by December. UBS holds forecasts of $70/oz for December 2026 and $80 for September 2027; Goldman Sachs estimated roughly $1.6bn of speculative silver selling during September 22-29, framing the December target as a test of real demand.",
+   "url": "https://www.exchangerates.org.uk/news/47414/2026-10-11-silver-price-forecast-prediction-70-december-target-faces-demand-test.html",
+   "source": "Exchange Rates UK",
+   "source_domain": "exchangerates.org.uk",
+   "publisher_id": "exchange-rates-uk",
+   "published_at": "2026-10-11T17:30:00Z",
+   "image_url": null,
+   "image_kind": "none",
+   "breaking": false,
+   "tags": [
+    "silver",
+    "global"
+   ],
+   "category": "global",
+   "metals": [
+    "silver"
+   ],
+   "rank": 8,
+   "related_urls": []
+  },
+  {
+   "id": "f65dbf436d2ab09d",
+   "rank": 9,
+   "title": "Gold, silver prices likely range-bound with slightly positive bias next week",
+   "summary": "Analysts expect gold and silver to trade in a range with a mildly positive bias next week, with rupee weakness cushioning domestic bullion against global swings. MCX December gold gained Rs 1,109 last week to Rs 1.51 lakh per 10 grams; silver ended at Rs 2.25 lakh per kg. Traders watch inflation data from India, China and the US, plus Fed speeches, for clues on an October vs December US rate hike.",
+   "url": "https://www.tradingview.com/news/cnbctv:44e989524094b:0/",
+   "source": "TradingView",
+   "source_domain": "tradingview.com",
+   "publisher_id": "tradingview",
+   "published_at": "2026-10-11T14:00:00Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "mcx",
+    "gold",
+    "silver",
+    "rupee",
+    "fed",
+    "india"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "related_urls": []
+  },
+  {
+   "id": "9c7d9c1512ac1c63",
+   "rank": 10,
+   "title": "Gold up Rs 640-700 per 10g in Sunday bullion trade; silver jumps Rs 5,100 to Rs 2.4 lakh/kg",
+   "summary": "Domestic bullion markets extended gains on Sunday: 24-carat gold rose Rs 640-700 per 10 grams to Rs 1,51,420-1,51,570, tracking international strength, while silver surged Rs 5,100 a kg to Rs 2,40,000 in Delhi after four flat days. Over the week, 24k gold climbed up to Rs 2,240 per 10 grams and silver added Rs 5,100 a kg.",
+   "url": "https://english.hindusthansamachar.in/Encyc/2026/10/11/Bullion-Market-Gold-Silver.php",
+   "source": "Hindusthan Samachar",
+   "source_domain": "english.hindusthansamachar.in",
+   "publisher_id": "hindusthan-samachar",
+   "published_at": "2026-10-11T06:00:00Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/9c7d9c1512ac1c63.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "mcx",
+    "gold",
+    "silver",
+    "india"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "related_urls": []
+  },
+  {
+   "id": "cdf70d44e6d2116a",
+   "title": "RBI gold reserves cross $100 billion mark for first time amid price rally",
+   "summary": "India's gold reserves crossed $100bn for the first time, rising $3.6bn to $102.37bn in the week ended October 10, RBI data showed Friday. Gold's 14.7% share of total reserves is the highest since 1996-97. Overall reserves dipped $2.18bn to $697.78bn as foreign currency assets fell $5.61bn to $572.10bn, reflecting continued rupee defence.",
+   "url": "https://www.capitalmarket.com/markets/news/newsdetails.aspx?sectionname=economy-news&heading=forex-reserves-slide-marginally-gold-reserves-hit-above-%24100-billion-for-first-time-amid-escalating-prices&sno=1643985",
+   "source": "Capital Market",
+   "source_domain": "capitalmarket.com",
+   "publisher_id": "capital-market",
+   "published_at": "2026-10-10T10:00:00Z",
+   "image_url": null,
+   "image_kind": "none",
+   "category": "mcx",
+   "metals": [
+    "gold"
+   ],
+   "tags": [
+    "gold",
+    "rupee",
+    "rbi",
+    "india"
+   ],
+   "breaking": false,
+   "rank": 11,
+   "related_urls": []
+  },
+  {
+   "id": "c4002c7a20c8b1ae",
+   "rank": 12,
+   "title": "High silver prices threaten Lucknow's famed bridal nagra craft",
+   "summary": "Al Jazeera profiles Lucknow's silver nagra bridal-shoe makers, a craft collapsing as Indian silver hit about ₹250,000/kg — over three times 2023 levels. Pairs that once sold for ₹12,000 now cost ₹60,000–75,000, pricing out brides, and most of the ~30 craftsmen have quit. India more than doubled effective gold/silver import taxes in May; silver imports then plunged 87%.",
+   "url": "https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft",
+   "source": "Al Jazeera",
+   "source_domain": "aljazeera.com",
+   "publisher_id": "al-jazeera",
+   "published_at": "2026-10-10T13:30:00Z",
+   "image_url": null,
+   "image_kind": "none",
+   "category": "festive",
+   "metals": [
+    "silver"
+   ],
+   "tags": [
+    "silver",
+    "india",
+    "jewellery"
+   ],
+   "breaking": false,
+   "related_urls": []
+  }
+ ]
 }
