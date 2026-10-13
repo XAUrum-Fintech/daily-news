@@ -98,6 +98,8 @@ VERIFIED_SCHEDULE = [
      "https://www.bls.gov/schedule/news_release/cpi.htm"),
     ("us_cpi", 2027, 1, 13, 8, 30, "-05:00",
      "https://www.bls.gov/schedule/news_release/cpi.htm"),
+    ("us_cpi", 2027, 2, 11, 8, 30, "-05:00",
+     "https://www.bls.gov/schedule/news_release/cpi.htm"),
     ("fed_rate", 2026, 10, 28, 14, 0, "-04:00",
      "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"),
     ("fed_rate", 2026, 12, 9, 14, 0, "-05:00",
