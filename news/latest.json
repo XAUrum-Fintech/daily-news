@@ -1,399 +1,355 @@
 {
- "schema": "orob-news.v1",
- "edition_id": "2026-10-13T10:00Z",
- "generated_at": "2026-10-13T10:07:18Z",
- "window": {
-  "from": "2026-10-13T09:00:00Z",
-  "to": "2026-10-13T10:00:00Z"
- },
- "insights": {
-  "headline": "Gold slipped under a firm dollar ahead of Wednesday's US CPI as Kazakhstan flipped from top buyer to seller",
-  "summary": "Spot gold eased to about $4,164 an ounce as the dollar held near an 18-month high, with Wednesday's US CPI and Thursday's PPI set to steer Fed-hike bets priced at 21% for October and 88% by December. Kazakhstan's central bank began selling gold to trim its 78% reserve share, even as Uzbekistan added 7 tonnes and global gold ETFs posted a record $31 billion third quarter. In India, the RBI's dollar window for oil firms steadied the rupee, MCX gold held near ₹1.5 lakh/10g, and festive shoppers leaned toward diamond-studded pieces as gold ran about 54% above last year's levels.",
-  "points": [
-   "Spot gold ~$4,164/oz and silver $60.01 as a firm dollar capped gains; US CPI Wednesday and PPI Thursday are the next triggers.",
-   "Kazakhstan flips from top buyer to seller, cutting gold's 78% reserve share; Uzbekistan added 7 tonnes to 446.",
-   "Global gold ETFs drew a record $31bn in Q3; Indian gold ETFs added ₹4,451cr in September, up 71%.",
-   "Bank of America sees Q4 gold averaging $4,000 with downside toward $3,750 if oil stays elevated.",
-   "MCX gold ₹1,49,930/10g and silver ₹2,23,640/kg; Delhi 24K retail about ₹1,51,640/10g."
+  "schema": "orob-news.v1",
+  "edition_id": "2026-10-13T11:00Z",
+  "generated_at": "2026-10-13T11:11:18Z",
+  "window": {
+    "from": "2026-10-13T10:00:00Z",
+    "to": "2026-10-13T11:00:00Z"
+  },
+  "insights": {
+    "headline": "Rupee's sharp rebound steals the spotlight as gold holds under $4,200 ahead of US CPI",
+    "summary": "The rupee staged its strongest two-day rally in months, gaining 177 paise to 94.06 as the RBI rolled out FX curbs and a dollar window for oil firms, with markets treating Rs 97 as the defended line. Gold hovered near $4,185–$4,200 and silver near $61 as traders awaited US inflation data that will decide whether the Fed pauses or hikes again. China's central bank extended its gold-buying streak to 23 months, and record ETF holdings underscored steady investment demand even as Treasury yields near 5.2% kept pressure on bullion.",
+    "points": [
+      "USD/INR fell from 96.73 to 94.06 in two sessions on the RBI's weekend FX package and Monday's NDF curbs.",
+      "Spot gold traded around $4,185–$4,200; a break above $4,217 opens $4,273–$4,316, per FXEmpire.",
+      "Silver consolidated between $59.97 and $61.72 ahead of US inflation data.",
+      "MCX December gold held near ₹1.49 lakh/10g and silver near ₹2.22 lakh/kg.",
+      "The PBoC added 740,000 oz in September; global gold ETF holdings hit a record 4,256 tonnes."
+    ]
+  },
+  "trending": [
+    {
+      "title": "RBI draws a line at 97 as rupee snaps back",
+      "summary": "Rupee up 177 paise in two days to 94.06 after RBI FX curbs: dollar window for oil firms, NDF curbs, reserve rules. Markets treat 97 as defended; it hinges on FII flows and crude.",
+      "item_ids": [
+        "0e3244bf0f757b57"
+      ]
+    },
+    {
+      "title": "Gold's $4,200 ceiling meets the CPI verdict",
+      "summary": "Bullion is pinned below $4,200 with silver near $61 as US CPI decides the Fed's next move: an in-line 3.6% print supports a pause, a hot one revives hike bets. Yields near 5.2% cap the upside.",
+      "item_ids": [
+        "2250e2ce523cb356",
+        "42058598d6c08674",
+        "41f9e30b082b9aa2"
+      ]
+    },
+    {
+      "title": "Central banks and ETFs keep buying the dip",
+      "summary": "China's central bank bought gold for a 23rd straight month while global ETF holdings hit a record 4,256 tonnes. Steady institutional demand cushions a market down about 23% from its record.",
+      "item_ids": [
+        "1ca2c34b3c84726a",
+        "42058598d6c08674",
+        "4637849d3d660526"
+      ]
+    },
+    {
+      "title": "Festive demand faces the pullback test",
+      "summary": "With Dhanteras on November 6, jewellers are pushing lighter 9–18 carat designs as gold sits about 54% above last festive season. Analysts see MCX gold in a ₹1.50–1.65 lakh range into Diwali.",
+      "item_ids": [
+        "7c0ed30b7172ed9d",
+        "4574174f5d8a5d14",
+        "4637849d3d660526"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "0e3244bf0f757b57",
+      "rank": 1,
+      "title": "Rupee jumps 177 paise in 2 days against dollar after RBI's strong defence before Rs 97 goal post. What lies ahead?",
+      "summary": "The rupee gained nearly 177 paise in two sessions — from Friday's 96.73 close to 94.06 on Tuesday — after the RBI's weekend package: a dollar window for oil firms, tighter FX-derivative rules and new reserve requirements. Monday added curbs on rupee NDF contracts. Markets now read Rs 97 as the defended line; analysts say the rebound hinges on FII flows, crude and the dollar.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-jumps-177-paise-in-2-days-against-dollar-after-rbis-strong-defence-before-rs-97-goal-post-what-lies-ahead/articleshow/134910145.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-10-13T06:29:19Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/0e3244bf0f757b57.jpg",
+      "image_kind": "photo",
+      "category": "policy",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "rupee",
+        "rbi",
+        "india",
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://economictimes.indiatimes.com/markets/forex/rupee-outpaces-asian-peers-on-fresh-fx-curbs-rbi-intervention/articleshow/134915016.cms",
+        "https://economictimes.indiatimes.com/markets/stocks/news/rupee-makes-stunning-comeback-what-is-rbis-4-step-plan/videoshow/134911117.cms"
+      ]
+    },
+    {
+      "id": "2250e2ce523cb356",
+      "rank": 2,
+      "title": "Gold price battles to break $4,200: US inflation to determine Fed rate pause",
+      "summary": "Gold is pressing toward $4,200 with silver near $61 as traders await the US CPI report, which Shanghai Metals Market says will decide whether the Fed pauses after its latest hike or keeps tightening. Natixis expects September CPI in line with consensus, supporting a pause; a hot print would revive hike bets and hit silver hardest. A weaker dollar and softer oil have eased pressure on bullion.",
+      "url": "https://news.metal.com/newscontent/104155094-gold-price-battles-to-break-4200-us-inflation-to-determine-fed-rate-pause",
+      "source": "Shanghai Metals Market",
+      "source_domain": "news.metal.com",
+      "publisher_id": "shanghai-metals-market",
+      "published_at": "2026-10-13T08:56:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "fed",
+        "comex",
+        "global"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "42058598d6c08674",
+      "rank": 3,
+      "title": "Gold (XAUUSD) & Silver Price Forecast: Can Gold Break $4,217 as Silver Eyes $61.72?",
+      "summary": "FXEmpire notes gold holding above $4,155, with a break of $4,217 opening $4,273–$4,316, while silver consolidates between $59.97 and $61.72 — breakout target $63.06, breakdown risk $57.64. The 10-year yield eased to 5.19% on Asian tech selling; markets price a 19% chance of an October Fed hike, 85% by December. Gold ETF holdings hit a record 4,256 tonnes in September on $10 billion of inflows.",
+      "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-can-gold-break-4217-as-silver-eyes-61-72-1637534",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "published_at": "2026-10-13T06:44:00Z",
+      "image_url": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/Main-Images-8-1.jpg?width=1201",
+      "image_kind": "photo",
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "fed",
+        "comex",
+        "global"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "4637849d3d660526",
+      "rank": 4,
+      "title": "Gold, silver prices explained: Key factors shaping the outlook",
+      "summary": "MCX December gold futures traded near ₹1.49 lakh per 10 grams and December silver near ₹2.22 lakh per kg, little changed as investors awaited US inflation data. A firm dollar and elevated bond yields cap gains even as Fed-hike fears ease. Festive Dhanteras–Diwali jewellery demand could support prices, with gold seen in a ₹1.50–1.65 lakh range into Diwali and weekly ETF inflows showing dip-buying.",
+      "url": "https://www.cnbctv18.com/market/commodities/gold-silver-prices-explained-key-factors-shaping-outlook-20010853.htm",
+      "source": "CNBC-TV18",
+      "source_domain": "cnbctv18.com",
+      "publisher_id": "cnbc-tv18",
+      "published_at": "2026-10-13T10:30:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/4637849d3d660526.jpg",
+      "image_kind": "photo",
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "india",
+        "fed"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "1ca2c34b3c84726a",
+      "rank": 5,
+      "title": "China steps up gold buying despite slump in prices",
+      "summary": "China's central bank added 740,000 troy ounces of gold in September, a 23rd straight month of net buying, taking holdings to about 2,387 tonnes; the country spent $158.8 billion on gold in January–August. Spot gold rose 0.4% to $4,185.69 on Tuesday as the dollar softened. Analysts say Chinese buying cushions the downside, but a strong dollar and hawkish Fed outlook remain the key risks.",
+      "url": "https://ilkha.com/english/economy/china-steps-up-gold-buying-despite-slump-in-prices-568505",
+      "source": "İlke Haber Ajansı",
+      "source_domain": "ilkha.com",
+      "publisher_id": "ilke-haber-ajansi",
+      "published_at": "2026-10-13T06:45:53Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "central-banks",
+        "global"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "41f9e30b082b9aa2",
+      "rank": 6,
+      "title": "Gold Price and Treasuries: Are Investors Underrating Inflation?",
+      "summary": "Gold has fallen from ~$4,700 August highs to below $4,200 and is down about 3.5% this year, while the real US 10-year yield rose from 2.34% to 2.87% since late August. September CPI, due Wednesday, is forecast at 3.6% versus 3.4% in August; markets expect the Fed funds rate capped at 4%, but a 3.7% print could force an earlier move. Retail traders stay strongly bullish; institutions lean bearish.",
+      "url": "https://www.share-talk.com/gold-price-and-treasuries-are-investors-underrating-inflation/",
+      "source": "Share Talk",
+      "source_domain": "share-talk.com",
+      "publisher_id": "share-talk",
+      "published_at": "2026-10-13T09:42:56Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/41f9e30b082b9aa2.jpg",
+      "image_kind": "photo",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "fed",
+        "global"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "7c7cd8e4a172ae8d",
+      "rank": 7,
+      "title": "Gold: Geopolitical Tensions and Anticipated Fed Rate Hike May Prompt Selling Spree",
+      "summary": "Gold traded near $4,160 after a 0.5% drop as the US–Iran conflict entered its 228th day; Houthi attacks on Saudi airports pushed Brent toward $106, feeding inflation fears and keeping Fed hikes on the table. The metal has lost about a fifth since the war began in late February. Futures face resistance at $4,238.21 with support at $4,128.05. A break could trigger fresh selling, the analysis says.",
+      "url": "https://www.investing.com/analysis/gold-geopolitical-tensions-and-anticipated-fed-rate-hike-may-prompt-selling-spree-200689463",
+      "source": "Investing.com",
+      "source_domain": "investing.com",
+      "publisher_id": "investing",
+      "published_at": "2026-10-13T06:45:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "fed",
+        "global"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "b14b30fcd774e305",
+      "rank": 8,
+      "title": "Global Market: Eurozone bond yields fall as tech stock selloff boosts safe-haven demand",
+      "summary": "Eurozone bond yields fell on Tuesday as a tech-stock selloff — South Korea's KOSPI down more than 5%, Nasdaq 100 futures off 0.7% — pushed investors toward safe havens. Germany's 10-year yield dropped 5 basis points to 3.43% and the US 10-year fell 6 basis points to 5.18%, its lowest in weeks. The bond rally eases one of bullion's key headwinds, though fiscal worries keep markets fragile.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-yields-fall-as-tech-stock-selloff-boosts-safe-haven-demand/articleshow/134915060.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-10-13T10:28:40Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/b14b30fcd774e305.jpg",
+      "image_kind": "photo",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "global"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "14018a77dd40defc",
+      "rank": 9,
+      "title": "Gold-Silver Price Outlook: Dollar, Oil & US Inflation Data; Key Levels To Watch Today",
+      "summary": "Business Today's market video frames Tuesday's gold-silver outlook around three drivers — the US dollar, crude oil and US inflation data — with key levels to watch, captioned 'Gold And Silver Under Pressure'. The segment covers the forces shaping domestic bullion prices ahead of the inflation prints.",
+      "url": "https://www.businesstoday.in/bt-tv/market-today/short-video/gold-silver-price-outlook-dollar-oil-us-inflation-data-key-levels-to-watch-today-561216-2026-10-13",
+      "source": "Business Today",
+      "source_domain": "businesstoday.in",
+      "publisher_id": "business-today",
+      "published_at": "2026-10-13T07:41:20Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/14018a77dd40defc.jpg",
+      "image_kind": "photo",
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "fed",
+        "india"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "7c0ed30b7172ed9d",
+      "title": "Gold jewellery gets costlier as prices surge 54%; shoppers turn to Rs 10,000-Rs 1 lakh diamond pieces",
+      "summary": "Gold is up about 54% since last year’s festive season, and Indian shoppers are shifting toward diamond-studded pieces in the Rs 10,000–Rs 1 lakh range, with retailers expecting 15–20% diamond sales growth. Jewellers are using 18-, 14- and 9-carat gold and lighter designs to keep pieces affordable — the festive-season trade-off between high prices and budget-conscious buying.",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-jewellery-gets-costlier-as-prices-surge-54-shoppers-turn-to-rs-10000-rs-1-lakh-diamond-pieces-as-jewellers-use-18-carat-14-carat-and-9-carat-gold-to-make-it-more-accessible/articleshow/134910710.cms",
+      "source": "Times of India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "publisher_id": "times-of-india",
+      "published_at": "2026-10-13T08:38:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/7c0ed30b7172ed9d.jpg",
+      "image_kind": "photo",
+      "category": "festive",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "jewellery",
+        "india",
+        "gold"
+      ],
+      "breaking": false,
+      "related_urls": [],
+      "rank": 10
+    },
+    {
+      "id": "a07ce8c41ee31f45",
+      "rank": 11,
+      "title": "Gold, Silver Prices: Should You Buy During This Festive Season? Expert Shares Outlook",
+      "summary": "With gold near ₹1.5 lakh/10g and silver above ₹2 lakh/kg heading into Navratri and Dhanteras, ETV Bharat quotes Kedia Advisory's Ajay Suresh Kedia, who puts gold support near ₹1,45,000–1,46,000 and silver near ₹2,10,000, with year-end upside scenarios of ₹1,75,000–1,80,000 for gold and ₹2,90,000–3,00,000 for silver. Spot gold eased toward $4,150/oz as the dollar touched an 18-month high.",
+      "url": "https://www.etvbharat.com/en/business/gold-silver-prices-should-you-buy-during-this-festive-season-expert-shares-outlook-enn26101302100",
+      "source": "ETV Bharat",
+      "source_domain": "etvbharat.com",
+      "publisher_id": "etv-bharat",
+      "published_at": "2026-10-13T07:28:00Z",
+      "image_url": "https://imgs.etvbharat.com/etvbharat/prod-images/13-10-2026/1200-675-27858086-thumbnail-16x9-goldandsilverrates-aspera.jpg",
+      "image_kind": "photo",
+      "category": "festive",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "jewellery",
+        "india"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "4574174f5d8a5d14",
+      "rank": 12,
+      "title": "Festive Buying Meets Global Pullback: How To Read Gold's 23% Correction From Record Highs Ahead Of Dhanteras",
+      "summary": "With Dhanteras on November 6, Outlook Money breaks down gold's ~23% slide from its record to ~$4,185 on October 12. MCX December-4 futures traded at Rs 1,50,001/10g, 16% below their Rs 1,77,590 peak. Surging US Treasury yields drove the correction, the piece notes, citing Mirae Asset's 'Why Gold ETF Now?' thesis — leaving festive buyers weighing whether the pullback is a buying window.",
+      "url": "https://www.outlookmoney.com/invest/festive-buying-meets-global-pullback-how-to-read-golds-23-correction-from-record-highs-ahead-of-dhanteras",
+      "source": "Outlook Money",
+      "source_domain": "outlookmoney.com",
+      "publisher_id": "outlook-money",
+      "published_at": "2026-10-12T08:37:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/4574174f5d8a5d14.jpg",
+      "image_kind": "photo",
+      "category": "festive",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "jewellery",
+        "india"
+      ],
+      "breaking": false
+    }
   ]
- },
- "trending": [
-  {
-   "title": "Fed-hike risk pins gold ahead of US CPI",
-   "summary": "Gold eased to about $4,164 with the dollar near an 18-month high; Wednesday's CPI decides whether hike bets harden. BofA warns of $3,750 downside risk; Barclays calls the weakness a positioning reset.",
-   "item_ids": [
-    "003257e7459b93cd",
-    "7c7cb4a629e8e39f",
-    "6cb462e86ac0f6af"
-   ]
-  },
-  {
-   "title": "Central banks split: Kazakhstan sells, others keep buying",
-   "summary": "Kazakhstan began selling gold to cut its 78% reserve share as Treasury yields hit a 24-year high, while Uzbekistan added 7 tonnes and global gold ETF holdings hit a record $31 billion quarter.",
-   "item_ids": [
-    "66ec63e4e56e23a8",
-    "078a4e5949c1d762",
-    "4cf531cc305ecea2"
-   ]
-  },
-  {
-   "title": "Rupee steadies on RBI's dollar window",
-   "summary": "The rupee extended its rebound after the RBI opened a dollar window for oil marketers and tightened FX-hedging rules; the currency has still fallen over 7% this year.",
-   "item_ids": [
-    "27db951958f97201"
-   ]
-  },
-  {
-   "title": "Festive demand adapts to record prices",
-   "summary": "With gold about 54% above last year and MCX near ₹1.5 lakh/10g, shoppers are choosing diamond-studded pieces and lighter caratages ahead of Dhanteras, while ETF investors bought the September dip.",
-   "item_ids": [
-    "7c0ed30b7172ed9d",
-    "a07ce8c41ee31f45",
-    "4574174f5d8a5d14",
-    "bff1a7cd64dc22a9",
-    "75be90ea0b5214cd",
-    "ba28d6048a696537"
-   ]
-  }
- ],
- "items": [
-  {
-   "id": "66ec63e4e56e23a8",
-   "rank": 1,
-   "title": "Kazakhstan starts gold sales as treasuries burnish dollar appeal",
-   "summary": "Kazakhstan's central bank is turning from one of the world's biggest gold buyers into a seller, as 10-year US Treasury yields hit a 24-year high. Deputy Governor Aliya Moldabekova said the bank wants to cut gold's share of FX reserves by about 3 percentage points by year-end; gold is 78% of reserves (386 tons). The World Gold Council says overall central-bank buying continues.",
-   "url": "https://www.mining.com/web/kazakhstan-starts-gold-sales-as-treasuries-burnish-dollar-appeal/",
-   "source": "MINING.COM",
-   "source_domain": "mining.com",
-   "publisher_id": "mining-com",
-   "published_at": "2026-10-12T21:47:00Z",
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "tags": [
-    "gold",
-    "global",
-    "central-banks"
-   ],
-   "image_url": "https://www.mining.com/wp-content/uploads/2026/10/AdobeStock_2218746974-1024x683.jpeg",
-   "image_kind": "photo",
-   "breaking": false,
-   "related_urls": [
-    "https://www.azernews.az/region/265454.html"
-   ]
-  },
-  {
-   "id": "003257e7459b93cd",
-   "rank": 2,
-   "title": "Gold eases on firm dollar; spotlight on US inflation data",
-   "summary": "Spot gold fell 0.2% to $4,164.45 an ounce as the US dollar held near an 18-month high, while traders looked to Wednesday's US CPI and Thursday's PPI for the Fed's next move. Traders price a 21% chance of a Fed hike this month and 88% by December. Spot silver eased 0.5% to $60.01; Riyadh airport stayed shut after a Houthi missile strike days earlier.",
-   "url": "https://www.reuters.com/world/india/gold-eases-firm-dollar-spotlight-us-inflation-data-2026-10-13/",
-   "source": "Reuters",
-   "source_domain": "reuters.com",
-   "publisher_id": "reuters",
-   "published_at": "2026-10-13T02:01:00Z",
-   "category": "global",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "tags": [
-    "gold",
-    "silver",
-    "fed",
-    "global"
-   ],
-   "image_url": null,
-   "image_kind": "none",
-   "breaking": false,
-   "related_urls": [
-    "https://www.thehindubusinessline.com/markets/gold/gold-eases-on-firm-dollar-spotlight-on-us-inflation-data/article71577810.ece"
-   ]
-  },
-  {
-   "id": "4cf531cc305ecea2",
-   "rank": 3,
-   "title": "Gold ETF demand defies rising bond yields as investors pour $31 billion into record third quarter",
-   "summary": "Global gold ETFs drew 67.3 tonnes (nearly $10 billion) in September, lifting third-quarter inflows to a record $31 billion with holdings up 211 tonnes and total assets 9% higher. The US led with $11.7 billion, while UK-listed funds posted their strongest quarter on record. North American ETFs logged their first quarterly inflows of 2026, reversing first-half outflows.",
-   "url": "https://www.kitco.com/news/article/2026-10-12/gold-etf-demand-defies-rising-bond-yields-investors-pour-31-billion-record",
-   "source": "Kitco",
-   "source_domain": "kitco.com",
-   "publisher_id": "kitco",
-   "published_at": "2026-10-12T10:33:00Z",
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "tags": [
-    "gold",
-    "global"
-   ],
-   "image_url": "https://image-api.prod.kitco.com/image/ecc1a39a-b927-497e-9c7a-d63baa3d7960.jpeg?top=0.29322916666667&left=0&width=1000&height=562.41354166667&scale_width=1920&token=b90e168e182f80a55ffd2142e410f73764ee914b5dab23e5b20ddbb2fda09b25",
-   "image_kind": "photo",
-   "breaking": false
-  },
-  {
-   "id": "7c7cb4a629e8e39f",
-   "rank": 4,
-   "title": "Gold price needs a dovish Fed or renewed debasement fears to reverse its downtrend – Bank of America",
-   "summary": "Bank of America says gold's downtrend only reverses with a dovish Fed or renewed US fiscal-debasement fears, warning central-bank demand could weaken into year-end. In its September 30 outlook the bank forecast Q4 gold averaging $4,000 with downside risk toward $3,750 if oil stays elevated, keeping a 2027 average near $4,800 — but an oil spike to $150 could drag 2027 to about $3,500.",
-   "url": "https://www.kitco.com/news/article/2026-10-12/gold-price-needs-dovish-fed-or-renewed-debasement-fears-reverse-its",
-   "source": "Kitco",
-   "source_domain": "kitco.com",
-   "publisher_id": "kitco",
-   "published_at": "2026-10-12T15:36:00Z",
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "tags": [
-    "gold",
-    "global",
-    "fed"
-   ],
-   "image_url": "https://image-api.prod.kitco.com/image/67136bfb-ab1d-4328-b94a-b2ad650d8a12.jpeg?top=0.29322916666667&left=0&width=1000&height=562.41354166667&scale_width=1920&token=fbcea3de9943680ecefa203f6e4c66db7d95e6233e6a96d9043b912b8be110ca",
-   "image_kind": "photo",
-   "breaking": false
-  },
-  {
-   "id": "27db951958f97201",
-   "rank": 5,
-   "title": "How India has sought to defend the slumping rupee",
-   "summary": "Reuters details India's rupee-defence playbook: a special RBI dollar window for oil marketers from October 12, and tighter hedging rules announced October 10 — a 20% FX-risk reserve on derivative contracts, a lower $5 million no-proof threshold, and a ban on rebooking cancelled contracts. The rupee has fallen over 7% this year and touched 96.96 in May.",
-   "url": "https://www.reuters.com/world/india/what-steps-india-has-taken-stem-pressure-its-external-balance-payments-2026-10-12/",
-   "source": "Reuters",
-   "source_domain": "reuters.com",
-   "publisher_id": "reuters",
-   "published_at": "2026-10-12T12:00:00Z",
-   "category": "policy",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "tags": [
-    "rupee",
-    "rbi",
-    "india"
-   ],
-   "image_url": null,
-   "image_kind": "none",
-   "breaking": false
-  },
-  {
-   "id": "078a4e5949c1d762",
-   "rank": 6,
-   "title": "Uzbekistan Gold Reserves Rise to 446 Tons Despite Price Drop",
-   "summary": "Uzbekistan added about 7 tonnes of gold in September, taking reserves to roughly 446 tons — the World Gold Council ranks it the third-largest central-bank buyer this year behind Poland and China. Falling prices cut the value of its gold holdings by $4.83 billion to $60.08 billion; gold is about 90% of its international reserves.",
-   "url": "https://timesca.com/uzbekistan-gold-reserves-rise-446-tons/",
-   "source": "The Times of Central Asia",
-   "source_domain": "timesca.com",
-   "publisher_id": "times-of-central-asia",
-   "published_at": "2026-10-12T10:09:00Z",
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "tags": [
-    "gold",
-    "global",
-    "central-banks"
-   ],
-   "image_url": "https://timesca.com/wp-content/uploads/2026/10/photo_5359836418106138145_y.jpg",
-   "image_kind": "photo",
-   "breaking": false
-  },
-  {
-   "id": "75be90ea0b5214cd",
-   "rank": 7,
-   "title": "Gold, silver prices today, 13 October: Rates flat as investors await US inflation data for Fed rate clues",
-   "summary": "MCX gold edged up 0.11% to ₹1,49,930 per 10 grams and silver rose 0.16% to ₹2,23,640 per kg around 11:13 am IST, with investors awaiting US CPI for Fed rate clues. Delhi 24K retail gold was about ₹1,51,640 per 10 grams. The piece tracks retail rates for 24K, 22K gold and 999 silver across Delhi, Mumbai and Kolkata.",
-   "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-13-october-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11791854359608.html",
-   "source": "Mint",
-   "source_domain": "livemint.com",
-   "publisher_id": "mint",
-   "published_at": "2026-10-13T05:43:00Z",
-   "category": "mcx",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "tags": [
-    "gold",
-    "silver",
-    "mcx",
-    "india"
-   ],
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/75be90ea0b5214cd.jpg",
-   "image_kind": "photo",
-   "breaking": false
-  },
-  {
-   "id": "ba28d6048a696537",
-   "rank": 8,
-   "title": "AMFI September 2026 data: gold ETFs draw ₹4,451 crore as equity inflows jump 31%",
-   "summary": "Gold ETFs in India drew net inflows of ₹4,450.61 crore in September, up from ₹2,597 crore in August, while silver ETFs attracted ₹1,974.32 crore, per AMFI data. Equity ETFs took in ₹9,959.96 crore. Debt funds saw ₹1.83 lakh crore of outflows on quarter-end redemptions, and industry AUM slipped to ₹82.64 lakh crore.",
-   "url": "https://upstox.com/news/personal-finance/mutual-funds/amfi-september-2026-data-equity-inflows-jump-31-small-mid-caps-lead-gold-and-silver-et-fs-gain/article-201686/",
-   "source": "Upstox",
-   "source_domain": "upstox.com",
-   "publisher_id": "upstox",
-   "published_at": "2026-10-12T10:00:00Z",
-   "category": "mcx",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "tags": [
-    "gold",
-    "silver",
-    "mcx",
-    "india"
-   ],
-   "image_url": "https://assets.upstox.com/content/assets/images/news/amfi-sep-2026-data.webp",
-   "image_kind": "photo",
-   "breaking": false
-  },
-  {
-   "id": "6cb462e86ac0f6af",
-   "rank": 9,
-   "title": "Gold price slides under pressure, but Barclays sees upside ahead",
-   "summary": "Gold held just below $4,200/oz on Tuesday, pressured by elevated bond yields and a strong dollar ahead of US CPI (Oct 14) and PPI; markets price roughly 80% odds the Fed holds. Barclays’ Amos Fletcher calls the weakness a positioning reset, not a structural break, and sees a recovery likely — inflation, policy uncertainty and central-bank reserve buying intact.",
-   "url": "https://mining.com.au/gold-price-slides-under-pressure-but-barclays-sees-upside-ahead/",
-   "source": "Mining.com.au",
-   "source_domain": "mining.com.au",
-   "publisher_id": "mining-com-au",
-   "published_at": "2026-10-13T05:38:58Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/6cb462e86ac0f6af.jpg",
-   "image_kind": "photo",
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "tags": [
-    "gold",
-    "fed",
-    "global",
-    "central-banks"
-   ],
-   "breaking": false
-  },
-  {
-   "id": "2ad7cab32d0bf980",
-   "rank": 10,
-   "title": "Why silver's market floor has changed",
-   "summary": "In a Q&A, Silver Institute CEO Michael DiRienzo says a cumulative 762-million-ounce supply deficit over the past five years has reset silver's price floor, with the metal trading near $60/oz. Only about 30% of supply comes from primary silver mines — the rest is a base-metal by-product — so output cannot respond quickly to price; 2026 demand is put at 640Moz industrial and 258Moz investment.",
-   "url": "https://mining.com.au/why-silvers-market-floor-has-changed/",
-   "source": "Mining.com.au",
-   "source_domain": "mining.com.au",
-   "publisher_id": "mining-com-au",
-   "published_at": "2026-10-13T05:08:34Z",
-   "image_url": "https://mining.com.au/wp-content/uploads/2026/10/Video-1.png",
-   "image_kind": "photo",
-   "category": "global",
-   "metals": [
-    "silver"
-   ],
-   "tags": [
-    "silver",
-    "global"
-   ],
-   "breaking": false
-  },
-  {
-   "id": "7c0ed30b7172ed9d",
-   "title": "Gold jewellery gets costlier as prices surge 54%; shoppers turn to Rs 10,000-Rs 1 lakh diamond pieces",
-   "summary": "Gold is up about 54% since last year’s festive season, and Indian shoppers are shifting toward diamond-studded pieces in the Rs 10,000–Rs 1 lakh range, with retailers expecting 15–20% diamond sales growth. Jewellers are using 18-, 14- and 9-carat gold and lighter designs to keep pieces affordable — the festive-season trade-off between high prices and budget-conscious buying.",
-   "url": "https://timesofindia.indiatimes.com/business/india-business/gold-jewellery-gets-costlier-as-prices-surge-54-shoppers-turn-to-rs-10000-rs-1-lakh-diamond-pieces-as-jewellers-use-18-carat-14-carat-and-9-carat-gold-to-make-it-more-accessible/articleshow/134910710.cms",
-   "source": "Times of India",
-   "source_domain": "timesofindia.indiatimes.com",
-   "publisher_id": "times-of-india",
-   "published_at": "2026-10-13T08:38:00Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/7c0ed30b7172ed9d.jpg",
-   "image_kind": "photo",
-   "category": "festive",
-   "metals": [
-    "gold"
-   ],
-   "tags": [
-    "jewellery",
-    "india",
-    "gold"
-   ],
-   "breaking": false,
-   "related_urls": [],
-   "rank": 11
-  },
-  {
-   "id": "bff1a7cd64dc22a9",
-   "title": "Gold below Rs 1.5 lakh: Should you buy now or wait for a bigger fall?",
-   "summary": "With MCX gold near Rs 1,49,621 per 10 grams, the piece weighs US rate expectations, geopolitics and this week’s US CPI as the next price drivers. It advises buyers who need gold soon not to wait for a large correction, while investors may watch the CPI print and MCX levels before entering — the festive-season calculus at the Rs 1.5-lakh mark.",
-   "url": "https://www.indiatoday.in/business/commodities/story/gold-below-rs-15-lakh-should-you-buy-now-or-wait-for-a-bigger-fall-3016244-2026-10-13",
-   "source": "India Today",
-   "source_domain": "indiatoday.in",
-   "publisher_id": "india-today",
-   "published_at": "2026-10-13T08:18:00Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/bff1a7cd64dc22a9.jpg",
-   "image_kind": "photo",
-   "category": "mcx",
-   "metals": [
-    "gold"
-   ],
-   "tags": [
-    "mcx",
-    "india",
-    "gold"
-   ],
-   "breaking": false,
-   "related_urls": [],
-   "rank": 12
-  },
-  {
-   "id": "a07ce8c41ee31f45",
-   "rank": 13,
-   "title": "Gold, Silver Prices: Should You Buy During This Festive Season? Expert Shares Outlook",
-   "summary": "With gold near ₹1.5 lakh/10g and silver above ₹2 lakh/kg heading into Navratri and Dhanteras, ETV Bharat quotes Kedia Advisory's Ajay Suresh Kedia, who puts gold support near ₹1,45,000–1,46,000 and silver near ₹2,10,000, with year-end upside scenarios of ₹1,75,000–1,80,000 for gold and ₹2,90,000–3,00,000 for silver. Spot gold eased toward $4,150/oz as the dollar touched an 18-month high.",
-   "url": "https://www.etvbharat.com/en/business/gold-silver-prices-should-you-buy-during-this-festive-season-expert-shares-outlook-enn26101302100",
-   "source": "ETV Bharat",
-   "source_domain": "etvbharat.com",
-   "publisher_id": "etv-bharat",
-   "published_at": "2026-10-13T07:28:00Z",
-   "image_url": "https://imgs.etvbharat.com/etvbharat/prod-images/13-10-2026/1200-675-27858086-thumbnail-16x9-goldandsilverrates-aspera.jpg",
-   "image_kind": "photo",
-   "category": "festive",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "tags": [
-    "gold",
-    "silver",
-    "jewellery",
-    "india"
-   ],
-   "breaking": false
-  },
-  {
-   "id": "4574174f5d8a5d14",
-   "rank": 14,
-   "title": "Festive Buying Meets Global Pullback: How To Read Gold's 23% Correction From Record Highs Ahead Of Dhanteras",
-   "summary": "With Dhanteras on November 6, Outlook Money breaks down gold's ~23% slide from its record to ~$4,185 on October 12. MCX December-4 futures traded at Rs 1,50,001/10g, 16% below their Rs 1,77,590 peak. Surging US Treasury yields drove the correction, the piece notes, citing Mirae Asset's 'Why Gold ETF Now?' thesis — leaving festive buyers weighing whether the pullback is a buying window.",
-   "url": "https://www.outlookmoney.com/invest/festive-buying-meets-global-pullback-how-to-read-golds-23-correction-from-record-highs-ahead-of-dhanteras",
-   "source": "Outlook Money",
-   "source_domain": "outlookmoney.com",
-   "publisher_id": "outlook-money",
-   "published_at": "2026-10-12T08:37:00Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/4574174f5d8a5d14.jpg",
-   "image_kind": "photo",
-   "category": "festive",
-   "metals": [
-    "gold"
-   ],
-   "tags": [
-    "gold",
-    "jewellery",
-    "india"
-   ],
-   "breaking": false
-  }
- ]
 }
