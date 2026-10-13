@@ -1,65 +1,90 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-13T14:00Z",
-  "generated_at": "2026-10-13T14:15:27Z",
+  "edition_id": "2026-10-13T16:00Z",
+  "generated_at": "2026-10-13T16:11:55Z",
   "window": {
-    "from": "2026-10-13T12:00:00Z",
-    "to": "2026-10-13T14:00:00Z"
+    "from": "2026-10-13T14:00:00Z",
+    "to": "2026-10-13T16:00:00Z"
   },
   "insights": {
-    "headline": "Gold steadies near $4,187 into Wednesday's US CPI as MCX chops around Rs 1.50 lakh and silver holds $60",
-    "summary": "Spot gold recovered to $4,186.90 an ounce in US trading as a softer dollar, lower Treasury yields and retreating oil offset the morning's firm-dollar pressure, with Wednesday's US CPI and Thursday's PPI set to decide whether the Fed holds in October and hikes in December. On MCX, December gold dipped below Rs 1.50 lakh per 10 grams before recovering toward Rs 1,49,876, while silver held near Rs 2.23 lakh per kg. Russia struck Ukrainian energy sites hours after Trump's declared energy ceasefire, lifting Brent 2.2% to $106.94 and keeping energy-driven inflation risk alive for bullion.",
+    "headline": "Gold steadies near $4,180 after its longest weekly slide in a decade as gold ETF money rotates from the US to Asia",
+    "summary": "Spot gold held around $4,160–$4,187 on Tuesday after a sixth straight weekly decline — the longest in a decade — as the dollar index broke out to an 18-month high of 102.59. US-listed gold ETFs fell to a record-low 49.6% share of global holdings while Asia drove nearly half of the past year’s 402-tonne growth, per WGC data. On MCX, December gold futures chopped around ₹1,49,500–1,49,900 per 10 grams and silver near ₹2.23 lakh per kg, with the rupee in the mid-90s after RBI FX curbs. Festive demand builds ahead of Dhanteras and Diwali; Kanpur police are probing a fake-hallmarking racket.",
     "points": [
-      "US CPI Wednesday and PPI Thursday decide the Fed path: ~21% odds of an October hike vs ~88% for December.",
-      "MCX December gold: Rs 1,49,535 early low, Rs 1,49,876 by 10:40 AM; silver Rs 2,22,400 to Rs 2,23,113.",
-      "Silver sits on a $55-$60 demand zone near $60.67; a CPI surprise either way moves the non-yielding metal.",
-      "IBJA gold fell ~Rs 1,750 in two days to Rs 1.48 lakh/10g; Ajay Kedia sees Rs 1.55 lakh by Diwali.",
-      "RBI's FX curbs lifted the rupee ~1%; the FM says the central bank will keep curbing excessive volatility."
+      "US gold ETF share of global holdings hit a record-low 49.6%; Asia drove 48.5% of 402t growth to September (WGC).",
+      "Dollar index at 102.59, highest since April 2025; December Fed hike odds near 85%, per one analyst.",
+      "MCX gold Dec futures ~₹1,49,500–1,49,900/10g; silver ~₹2.22–2.24 lakh/kg; rupee in mid-90s on RBI curbs.",
+      "Kanpur police probe 25–30 machines suspected of printing fake BIS hallmarks ahead of Dhanteras/Diwali.",
+      "Kazakhstan to trim gold to 75% of reserves; China keeps buying despite the price slump."
     ]
   },
   "trending": [
     {
-      "title": "CPI week decides the Fed path",
-      "summary": "Wednesday's CPI and Thursday's PPI settle whether markets keep pricing an October hold with a December hike. A hot core print is the main near-term risk for gold and silver.",
+      "title": "ETF money rotates east as gold slides",
+      "summary": "US-listed gold ETFs fell to a record-low 49.6% of global holdings while Asia drove nearly half of the past year’s 402-tonne growth — the bid has moved east even as prices fell six straight weeks.",
+      "item_ids": [
+        "4bad60dd0c10ae3e",
+        "e23c07ee2dd48420"
+      ]
+    },
+    {
+      "title": "Dollar breakout pins gold; hike bets linger",
+      "summary": "The dollar index hit an 18-month high of 102.59 and December hike odds sit near 85%, keeping gold’s rebound capped below $4,251. One read: gold’s reaction is delayed, not cancelled.",
       "item_ids": [
         "00e81648803282e8",
-        "d8ab43d9257c06aa"
+        "e23c07ee2dd48420"
       ]
     },
     {
-      "title": "MCX chops around Rs 1.50 lakh",
-      "summary": "December gold dipped below Rs 1.50 lakh in early trade then recovered toward Rs 1,49,876; silver held near Rs 2.23 lakh/kg. Retail 24K sat near Rs 1.49-1.50 lakh per 10 grams.",
+      "title": "MCX gold hugs ₹1.50 lakh; firm rupee helps",
+      "summary": "December gold futures chopped around ₹1,49,500–1,49,900 per 10g with silver near ₹2.23 lakh/kg; the rupee’s rebound to the mid-90s on RBI FX curbs is cushioning import costs.",
       "item_ids": [
-        "496ac7214d6a9f3a",
         "e289492cd33359f8",
-        "025f1589e227b351"
-      ]
-    },
-    {
-      "title": "Energy ceasefire breaks within hours",
-      "summary": "Trump's declared Russia-Ukraine energy ceasefire unraveled as Russian strikes hit energy sites; Brent jumped 2.2% to $106.94, keeping energy-driven inflation risk alive for bullion.",
-      "item_ids": [
-        "9e57fc99e4cb2f2d"
-      ]
-    },
-    {
-      "title": "RBI draws a line under the rupee",
-      "summary": "A special dollar window for oil importers and curbs on derivative bets lifted the rupee ~1%; the FM says the RBI will keep acting against excessive volatility.",
-      "item_ids": [
-        "6fe61f0a6fbc66e1",
+        "496ac7214d6a9f3a",
         "28a50addde455842"
       ]
     },
     {
-      "title": "Festive demand meets the dip",
-      "summary": "IBJA gold slid ~Rs 1,750 in two days to Rs 1.48 lakh/10g into Navratri; shoppers are adapting with lighter pieces and diamonds as Dhanteras approaches.",
+      "title": "Festive demand builds — verify before you buy",
+      "summary": "With Dhanteras and Diwali approaching, hopes are pinned on festive buying; Kanpur’s fake-hallmarking probe is a reminder to verify HUID details on the BIS Care app before purchasing.",
       "item_ids": [
-        "d2d169f37d5bef3b",
-        "7c0ed30b7172ed9d"
+        "e7af455ea9d20e98",
+        "a07ce8c41ee31f45",
+        "d2d169f37d5bef3b"
+      ]
+    },
+    {
+      "title": "Central banks split: Kazakhstan trims, China adds",
+      "summary": "Kazakhstan plans to cut gold from 78% to 75% of reserves by year-end as Treasury yields burnish the dollar’s appeal, while China keeps buying through the slump.",
+      "item_ids": [
+        "7d6b8060b23cdf0a",
+        "1ca2c34b3c84726a"
       ]
     }
   ],
   "items": [
+    {
+      "url": "https://www.bullionvault.co.uk/gold-news/gold-price-news/gold-etfs-us-asia-101320261",
+      "source": "BullionVault",
+      "source_domain": "bullionvault.co.uk",
+      "publisher_id": "bullionvault",
+      "title": "US Gold ETFs Hit Record-Low Market Share as Asia Expands on Falling Price",
+      "published_at": "2026-10-13T14:21:42Z",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "global"
+      ],
+      "image_url": null,
+      "image_kind": "none",
+      "breaking": false,
+      "related_urls": [],
+      "summary": "Gold fell on Tuesday as US bond markets reopened, extending its losing streak to six weeks — the longest in a decade. US-listed gold ETFs now hold a record-low 49.6% of global gold ETF assets (51.9% at the start of the year), per WGC data. Asia drove 48.5% of the 402-tonne growth in global gold ETF holdings over the year to September, while Comex speculative net longs shrank by almost a quarter.",
+      "id": "4bad60dd0c10ae3e",
+      "rank": 1
+    },
     {
       "id": "00e81648803282e8",
       "title": "Gold firms as dollar, yields and oil retreat before CPI",
@@ -84,53 +109,32 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 1
+      "rank": 2
     },
     {
-      "id": "496ac7214d6a9f3a",
-      "title": "Gold Slips Below Rs 1.50 Lakh Mark On October 13",
-      "summary": "MCX December gold fell over Rs 150 to Rs 1,49,535 per 10 grams in early trade -- below Rs 1.50 lakh for a second straight session -- while December silver slipped nearly Rs 500 to Rs 2,22,400 per kg. Both recovered after the first hour: by ~10:40 AM gold was Rs 1,49,876 (+0.22%) and silver Rs 2,23,113 (+0.11%). Retail 24K ranged Rs 1,48,340-1,49,620 per 10 grams across cities.",
-      "url": "https://www.thedailyjagran.com/business/news/gold-slips-below-rs-150-lakh-mark-on-october-13-24k-22k-rates-in-chennai-mumbai-and-other-cities-10332505",
-      "source": "Daily Jagran",
-      "source_domain": "thedailyjagran.com",
-      "publisher_id": "daily-jagran",
-      "published_at": "2026-10-13T06:30:00Z",
-      "image_url": "https://images.thedailyjagran.com/images/2026/10/06/template/image/Gold-Buying-Outlook-Ahead-Of-Diwali-1791293930333.webp",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "india"
-      ],
-      "category": "mcx",
+      "url": "https://www.fxempire.com/forecasts/article/gold-ignores-the-dollars-new-high-strength-or-delay-1637736",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "title": "Gold Ignores the Dollar’s New High: Strength or Delay?",
+      "published_at": "2026-10-13T14:20:17Z",
+      "category": "global",
       "metals": [
         "gold",
         "silver"
       ],
-      "breaking": false,
-      "rank": 2
-    },
-    {
-      "id": "9e57fc99e4cb2f2d",
-      "title": "Russia Pounds Ukrainian Energy Despite Trump's Ceasefire Announcement -- Commodities Roundup",
-      "summary": "Russian strikes hit Ukrainian energy infrastructure hours after President Trump declared an \"energy ceasefire\", Dow Jones reports. Gold futures fell 0.6% to $4,191.80 a troy ounce while Brent crude rose 2.2% to $106.94. Trump also moved to allow Russian diesel exports to the US, saying Moscow would release 4.8 million tons -- though Jefferies doubts it will cool prices much.",
-      "url": "https://www.morningstar.com/news/dow-jones/202610124093/russia-pounds-ukrainian-energy-despite-trumps-ceasefire-announcement-commodities-roundup",
-      "source": "Morningstar",
-      "source_domain": "morningstar.com",
-      "publisher_id": "morningstar",
-      "published_at": "2026-10-12T18:00:00Z",
-      "image_url": null,
-      "image_kind": "none",
       "tags": [
         "gold",
-        "global"
+        "silver",
+        "global",
+        "fed"
       ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
+      "image_url": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/gold-precious-metal-price-chart-07-4.jpg?width=1201",
+      "image_kind": "photo",
       "breaking": false,
+      "related_urls": [],
+      "summary": "The dollar index broke out to 102.59, its highest since April 2025, yet gold held above its lows — a divergence the author reads as delayed rather than cancelled selling, citing September’s pattern that ended with gold’s worst one-day fall of 2026. Silver and miners are not confirming strength; record ETF inflows reflect headline hedging, the piece argues, not a new bull market.",
+      "id": "e23c07ee2dd48420",
       "rank": 3
     },
     {
@@ -160,22 +164,21 @@
       "rank": 4
     },
     {
-      "id": "025f1589e227b351",
-      "title": "Gold and silver prices today, October 13: Check 24K, 22K, 20K and 18K rates in your city",
-      "summary": "Indian bullion rates gained modestly on Tuesday: gold at Rs 1,49,920 per 10 grams (up Rs 160) and silver at Rs 2,23,570 per kg (up Rs 290); 24K stood at Rs 14,992 per gram and 22K at Rs 13,743. MCX December gold futures fell Rs 81 to Rs 1,49,462 on weaker spot demand, while international gold futures rose 0.37% to $4,187.66 an ounce in New York.",
-      "url": "https://upstox.com/news/personal-finance/commodities/gold-and-silver-prices-today-october-13-check-24-k-22-k-20-k-and-18-k-rates-in-your-city/article-201764/",
-      "source": "Upstox",
-      "source_domain": "upstox.com",
-      "publisher_id": "upstox",
-      "published_at": "2026-10-13T09:30:09Z",
-      "image_url": "https://assets.upstox.com/content/assets/images/news/gold-silver-prices-oct-13.webp",
+      "id": "496ac7214d6a9f3a",
+      "title": "Gold Slips Below Rs 1.50 Lakh Mark On October 13",
+      "summary": "MCX December gold fell over Rs 150 to Rs 1,49,535 per 10 grams in early trade -- below Rs 1.50 lakh for a second straight session -- while December silver slipped nearly Rs 500 to Rs 2,22,400 per kg. Both recovered after the first hour: by ~10:40 AM gold was Rs 1,49,876 (+0.22%) and silver Rs 2,23,113 (+0.11%). Retail 24K ranged Rs 1,48,340-1,49,620 per 10 grams across cities.",
+      "url": "https://www.thedailyjagran.com/business/news/gold-slips-below-rs-150-lakh-mark-on-october-13-24k-22k-rates-in-chennai-mumbai-and-other-cities-10332505",
+      "source": "Daily Jagran",
+      "source_domain": "thedailyjagran.com",
+      "publisher_id": "daily-jagran",
+      "published_at": "2026-10-13T06:30:00Z",
+      "image_url": "https://images.thedailyjagran.com/images/2026/10/06/template/image/Gold-Buying-Outlook-Ahead-Of-Diwali-1791293930333.webp",
       "image_kind": "photo",
       "tags": [
         "gold",
         "silver",
         "mcx",
-        "india",
-        "jewellery"
+        "india"
       ],
       "category": "mcx",
       "metals": [
@@ -184,82 +187,6 @@
       ],
       "breaking": false,
       "rank": 5
-    },
-    {
-      "id": "d8ab43d9257c06aa",
-      "title": "Silver Price Forecast – Silver Continues to Sit on Demand Zone",
-      "summary": "Silver futures hovered near $60.67, sitting atop a $55-$60 demand zone that buyers are defending, with moving averages at $63.62 and $65.11. Softer US yields gave slight relief early Tuesday, but energy-inflation worries keep trade noisy -- \"silver will be noisy until we get energy under control.\" Wednesday's US CPI is the next trigger for the non-yielding metal.",
-      "url": "https://www.fxempire.com/forecasts/article/silver-price-forecast-silver-continues-to-sit-on-demand-zone-1637707",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "publisher_id": "fxempire",
-      "published_at": "2026-10-13T13:34:16Z",
-      "image_url": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/silver-precious-metal-price-chart-03-3.jpg?width=1201",
-      "image_kind": "photo",
-      "tags": [
-        "silver",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 6
-    },
-    {
-      "id": "d2d169f37d5bef3b",
-      "title": "Gold cheaper by ₹1,750 in two days to ₹1.48 lakh/10g; experts see ₹1.55 lakh by Diwali",
-      "summary": "IBJA data shows 10 grams of 24K gold fell Rs 399 to about Rs 1.48 lakh on October 13 -- roughly Rs 1,750 cheaper over two days -- while 1 kg of silver fell Rs 923 to about Rs 2.20 lakh. Commodity expert Ajay Kedia expects festival-season demand in India and China plus continued central-bank buying to lift gold toward Rs 1.55 lakh and silver toward Rs 2.40 lakh by Diwali.",
-      "url": "https://dainiknewslive.in/gold-became-cheaper-by-%E2%82%B9-1750-in-two-days-the-price-of-10-grams-became-%E2%82%B9-1-48-lakh-experts-said-further-the-price-can-go-up-to-%E2%82%B9-1-55-lakh/",
-      "source": "Dainik News Live",
-      "source_domain": "dainiknewslive.in",
-      "publisher_id": "dainik-news-live",
-      "published_at": "2026-10-13T08:00:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "silver",
-        "india",
-        "jewellery"
-      ],
-      "category": "festive",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 7,
-      "related_urls": [
-        "https://bullions.co.in/news/2026/10/gold-dips-as-strong-dollar-pressures-ahead-of-key-inflation-data/"
-      ]
-    },
-    {
-      "id": "6fe61f0a6fbc66e1",
-      "title": "RBI to continue efforts to curb rupee volatility; external factors driving currency fall: FM",
-      "summary": "At the Bloomberg New Economy Forum 2026, FM Nirmala Sitharaman said the RBI will keep acting to curb excessive rupee volatility, stressing it is not 'fixing' the rupee. The 18-month fall stems mainly from external challenges, she said. The RBI's weekend package -- a special dollar window for oil companies and tighter forex-derivative rules -- lifted the rupee about 1% on Monday.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-to-continue-efforts-to-curb-rupee-volatility-external-factors-driving-currency-fall-fm/articleshow/134915932.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "publisher_id": "economic-times",
-      "published_at": "2026-10-13T11:01:08Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/6fe61f0a6fbc66e1.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "rupee",
-        "rbi",
-        "gold",
-        "silver",
-        "india"
-      ],
-      "category": "policy",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 8
     },
     {
       "id": "28a50addde455842",
@@ -289,7 +216,55 @@
         "https://economictimes.indiatimes.com/markets/forex/new-fx-curbs-sow-confusion-bankers-await-clarity-on-dealing-rupee-derivatives/articleshow/134908150.cms",
         "https://economictimes.indiatimes.com/markets/stocks/news/rupee-makes-stunning-comeback-what-is-rbis-4-step-plan/videoshow/134911117.cms"
       ],
-      "rank": 9
+      "rank": 6
+    },
+    {
+      "id": "6fe61f0a6fbc66e1",
+      "title": "RBI to continue efforts to curb rupee volatility; external factors driving currency fall: FM",
+      "summary": "At the Bloomberg New Economy Forum 2026, FM Nirmala Sitharaman said the RBI will keep acting to curb excessive rupee volatility, stressing it is not 'fixing' the rupee. The 18-month fall stems mainly from external challenges, she said. The RBI's weekend package -- a special dollar window for oil companies and tighter forex-derivative rules -- lifted the rupee about 1% on Monday.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-to-continue-efforts-to-curb-rupee-volatility-external-factors-driving-currency-fall-fm/articleshow/134915932.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-10-13T11:01:08Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/6fe61f0a6fbc66e1.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "rupee",
+        "rbi",
+        "gold",
+        "silver",
+        "india"
+      ],
+      "category": "policy",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 7
+    },
+    {
+      "id": "d8ab43d9257c06aa",
+      "title": "Silver Price Forecast – Silver Continues to Sit on Demand Zone",
+      "summary": "Silver futures hovered near $60.67, sitting atop a $55-$60 demand zone that buyers are defending, with moving averages at $63.62 and $65.11. Softer US yields gave slight relief early Tuesday, but energy-inflation worries keep trade noisy -- \"silver will be noisy until we get energy under control.\" Wednesday's US CPI is the next trigger for the non-yielding metal.",
+      "url": "https://www.fxempire.com/forecasts/article/silver-price-forecast-silver-continues-to-sit-on-demand-zone-1637707",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "published_at": "2026-10-13T13:34:16Z",
+      "image_url": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/silver-precious-metal-price-chart-03-3.jpg?width=1201",
+      "image_kind": "photo",
+      "tags": [
+        "silver",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 8
     },
     {
       "id": "7d6b8060b23cdf0a",
@@ -315,7 +290,7 @@
       "related_urls": [
         "https://www.mining.com/web/kazakhstan-starts-gold-sales-as-treasuries-burnish-dollar-appeal/"
       ],
-      "rank": 10
+      "rank": 9
     },
     {
       "id": "1ca2c34b3c84726a",
@@ -338,7 +313,81 @@
         "global"
       ],
       "breaking": false,
+      "rank": 10
+    },
+    {
+      "id": "9e57fc99e4cb2f2d",
+      "title": "Russia Pounds Ukrainian Energy Despite Trump's Ceasefire Announcement -- Commodities Roundup",
+      "summary": "Russian strikes hit Ukrainian energy infrastructure hours after President Trump declared an \"energy ceasefire\", Dow Jones reports. Gold futures fell 0.6% to $4,191.80 a troy ounce while Brent crude rose 2.2% to $106.94. Trump also moved to allow Russian diesel exports to the US, saying Moscow would release 4.8 million tons -- though Jefferies doubts it will cool prices much.",
+      "url": "https://www.morningstar.com/news/dow-jones/202610124093/russia-pounds-ukrainian-energy-despite-trumps-ceasefire-announcement-commodities-roundup",
+      "source": "Morningstar",
+      "source_domain": "morningstar.com",
+      "publisher_id": "morningstar",
+      "published_at": "2026-10-12T18:00:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
       "rank": 11
+    },
+    {
+      "url": "https://the420.in/kanpur-fake-gold-hallmarking-bis-laser-machine-racket/",
+      "source": "The420.in",
+      "source_domain": "the420.in",
+      "publisher_id": "the420",
+      "title": "Kanpur Police Probe Fake Gold Hallmarking Racket Involving 25–30 Machines",
+      "published_at": "2026-10-13T14:29:03Z",
+      "category": "festive",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "jewellery",
+        "india"
+      ],
+      "image_url": null,
+      "image_kind": "none",
+      "breaking": false,
+      "related_urls": [],
+      "summary": "Kanpur police are probing a fake-hallmarking racket ahead of Dhanteras and Diwali: 25–30 laser engraving machines allegedly misused to print counterfeit BIS hallmarks on jewellery. The probe began after a woman was caught selling a chain with an 18-carat hallmark holding only about 10% gold. BIS now shows jewellery photographs alongside HUID numbers in its BIS Care app for verification.",
+      "id": "e7af455ea9d20e98",
+      "rank": 12
+    },
+    {
+      "id": "d2d169f37d5bef3b",
+      "title": "Gold cheaper by ₹1,750 in two days to ₹1.48 lakh/10g; experts see ₹1.55 lakh by Diwali",
+      "summary": "IBJA data shows 10 grams of 24K gold fell Rs 399 to about Rs 1.48 lakh on October 13 -- roughly Rs 1,750 cheaper over two days -- while 1 kg of silver fell Rs 923 to about Rs 2.20 lakh. Commodity expert Ajay Kedia expects festival-season demand in India and China plus continued central-bank buying to lift gold toward Rs 1.55 lakh and silver toward Rs 2.40 lakh by Diwali.",
+      "url": "https://dainiknewslive.in/gold-became-cheaper-by-%E2%82%B9-1750-in-two-days-the-price-of-10-grams-became-%E2%82%B9-1-48-lakh-experts-said-further-the-price-can-go-up-to-%E2%82%B9-1-55-lakh/",
+      "source": "Dainik News Live",
+      "source_domain": "dainiknewslive.in",
+      "publisher_id": "dainik-news-live",
+      "published_at": "2026-10-13T08:00:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "silver",
+        "india",
+        "jewellery"
+      ],
+      "category": "festive",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 13,
+      "related_urls": [
+        "https://bullions.co.in/news/2026/10/gold-dips-as-strong-dollar-pressures-ahead-of-key-inflation-data/"
+      ]
     },
     {
       "id": "7c0ed30b7172ed9d",
@@ -362,7 +411,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 12
+      "rank": 14
     },
     {
       "id": "a07ce8c41ee31f45",
@@ -387,7 +436,7 @@
         "india"
       ],
       "breaking": false,
-      "rank": 13
+      "rank": 15
     },
     {
       "id": "4574174f5d8a5d14",
@@ -410,7 +459,7 @@
         "india"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 16
     }
   ]
 }
