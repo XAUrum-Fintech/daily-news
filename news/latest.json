@@ -1,20 +1,20 @@
 {
  "schema": "orob-news.v1",
- "edition_id": "2026-10-14T07:00Z",
- "generated_at": "2026-10-14T07:02:53Z",
+ "edition_id": "2026-10-14T08:00Z",
+ "generated_at": "2026-10-14T08:03:12Z",
  "window": {
-  "from": "2026-10-14T05:00:00Z",
-  "to": "2026-10-14T07:00:00Z"
+  "from": "2026-10-14T07:00:00Z",
+  "to": "2026-10-14T08:00:00Z"
  },
  "insights": {
-  "headline": "Gold holds near $4,160 ahead of US CPI as recycled gold eats into imports",
-  "summary": "Spot gold held near $4,159 an ounce on Wednesday as traders awaited US inflation data that could shape Fed rate expectations. Kazakhstan's central bank plans to cut gold to 75% of reserves from 78%, while global gold ETF inflows hit a record $31 billion in Q3. In India, recycled old gold is meeting a growing share of festive demand as imports slump, and COMEX silver settled at $59.16.",
+  "headline": "Gold holds near $4,159 ahead of US CPI as a stronger rupee pulls Delhi prices lower",
+  "summary": "Spot gold held near $4,159 an ounce on Wednesday as traders awaited US inflation data that could shape Fed rate expectations. In Delhi, gold fell Rs 400 to Rs 1,52,600 per 10 grams as a stronger rupee cut import costs, while Indian gold ETF inflows jumped 71% in September. Kazakhstan plans to cut gold to 75% of reserves, and global gold ETF inflows hit a record $31 billion in Q3.",
   "points": [
    "US CPI due Wednesday, PPI Thursday; markets price an 88% chance of a December Fed rate rise.",
+   "Delhi gold fell Rs 400 to Rs 1,52,600/10g on Tuesday; rupee up over 1.5% in two sessions on RBI measures.",
+   "Indian gold ETF inflows rose 71% to ₹4,451 crore in September; silver ETFs took in ₹1,974 crore.",
    "Kazakhstan holds 386 tonnes of gold, 78% of reserves; half its planned cut via physical sales.",
-   "Global gold ETF inflows hit $10 billion in September and a record $31 billion in Q3, WGC data show.",
-   "India's gold imports fell to $2.3 billion in August, down 58% on year, as old-gold exchange supplied over 40% of top jewellers' revenue.",
-   "COMEX silver settled 1.63% lower at $59.16; MCX gold futures rose while silver futures eased."
+   "Global gold ETF inflows hit $10 billion in September and a record $31 billion in Q3, WGC data show."
   ]
  },
  "trending": [
@@ -45,16 +45,18 @@
   },
   {
    "title": "Silver's outlook splits analysts",
-   "summary": "Spot silver near $59 has one strategist warning of a fall to $50, even as COMEX silver settled 1.63% lower at $59.16.",
+   "summary": "Silver near $59 has one strategist warning of $50, COMEX settled 1.63% lower at $59.16, yet Indian silver ETF inflows rose 55% in September.",
    "item_ids": [
     "964d445f50a683de",
-    "4d08c6cddc7037ce"
+    "4d08c6cddc7037ce",
+    "e8d8856cc12c9a55"
    ]
   },
   {
-   "title": "Rupee defence and hallmarking fraud in focus",
-   "summary": "The RBI's forex measures aim to curb speculation in the rupee, while police probe a fake-hallmarking racket ahead of the festive season.",
+   "title": "Rupee strength trims domestic gold prices",
+   "summary": "The RBI's forex measures lifted the rupee, and a stronger rupee pulled Delhi gold Rs 400 lower, while police probe a fake-hallmarking racket ahead of the festive season.",
    "item_ids": [
+    "00b6138896b178fd",
     "e6e43828ec97c14f",
     "e7af455ea9d20e98"
    ]
@@ -139,6 +141,32 @@
    "rank": 3
   },
   {
+   "id": "00b6138896b178fd",
+   "title": "Gold falls Rs 400 to Rs 1.52 lakh/10g as stronger rupee drags domestic price",
+   "summary": "Delhi gold fell Rs 400 to Rs 1,52,600 per 10 grams on Tuesday, its second straight decline, while silver eased Rs 500 to Rs 2,26,000 per kg, per the All India Sarafa Association. A stronger rupee — up more than 1.5% in two sessions on RBI measures — is lowering the cost of imported bullion, HDFC Securities' Saumil Gandhi said.",
+   "url": "https://nagalandpost.com/gold-falls-rs-400-to-rs-1-52-lakh-10g-as-stronger-rupee-drags-domestic-price/",
+   "source": "Nagaland Post",
+   "source_domain": "nagalandpost.com",
+   "publisher_id": "nagaland-post",
+   "published_at": "2026-10-14T07:23:33Z",
+   "image_url": "https://nagalandpost.com/wp-content/uploads/2026/10/Gold-falls-Rs-400-to-Rs-1.52-lakh_result.webp",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "silver",
+    "india",
+    "rupee",
+    "rbi"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "rank": 4
+  },
+  {
    "id": "38d7bd5f91f26e6a",
    "title": "Gold futures rise, silver futures fall in domestic, global markets",
    "summary": "Gold futures traded higher while silver eased on Wednesday in both domestic and global markets. On MCX, December gold traded near ₹1,48,480 per 10 grams and silver near ₹2,18,991 per kg; on Comex, gold was near $4,188 an ounce and silver near $59.49.",
@@ -162,7 +190,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 4
+   "rank": 5
   },
   {
    "id": "7a14b45f9fc9077f",
@@ -185,7 +213,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 5
+   "rank": 6
   },
   {
    "id": "964d445f50a683de",
@@ -207,7 +235,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 6
+   "rank": 7
   },
   {
    "id": "4d08c6cddc7037ce",
@@ -230,7 +258,32 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 7
+   "rank": 8
+  },
+  {
+   "id": "e8d8856cc12c9a55",
+   "title": "Gold ETF inflows jump 71% to ₹4,451 crore in September; silver ETFs also record higher investments",
+   "summary": "Indian gold ETFs drew net inflows of ₹4,450.61 crore in September, up 71.4% from ₹2,596.70 crore in August, AMFI data show. Silver ETFs took in ₹1,974.32 crore, up about 55.4%, taking combined precious-metal ETF inflows to ₹6,424.93 crore. The money flowed in even as the wider mutual fund industry saw net outflows.",
+   "url": "https://www.5paisa.com/blog/gold-etf-inflows-4451-crore-september-silver-etfs",
+   "source": "5paisa",
+   "source_domain": "5paisa.com",
+   "publisher_id": "5paisa",
+   "published_at": "2026-10-13T08:28:12Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "gold",
+    "silver",
+    "india",
+    "mcx"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "rank": 9
   },
   {
    "id": "d2d169f37d5bef3b",
@@ -255,7 +308,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 8,
+   "rank": 10,
    "related_urls": [
     "https://bullions.co.in/news/2026/10/gold-dips-as-strong-dollar-pressures-ahead-of-key-inflation-data/"
    ]
@@ -281,11 +334,11 @@
    ],
    "category": "festive",
    "breaking": false,
-   "rank": 9
+   "rank": 11
   },
   {
    "id": "e6e43828ec97c14f",
-   "rank": 10,
+   "rank": 12,
    "title": "Can RBI’s six forex measures help stabilise the rupee?",
    "summary": "The RBI's forex package — 20% FERR reserve on big derivative deals over $2M, speculation cap cut $100M to $5M, no rebooking of cancelled deals, dollar window for state oil retailers, stricter checks — lifted the rupee ~150 paise to 95.28/$. Hedging costs rise ~150bps; forward premiums softening. Economists call it tactical, not structural. A steadier rupee trims landed gold costs for buyers.",
    "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbis-rupee-defence-curbs-speculation-raises-hedging-costs/articleshow/134929407.cms",
@@ -309,7 +362,7 @@
   },
   {
    "id": "3be135f93c792f42",
-   "rank": 11,
+   "rank": 13,
    "title": "Houthi missile hits Aramco's Dhahran HQ; Brent tops $106 on supply risk",
    "summary": "The Houthis struck an Aramco building in Dhahran, causing a limited fire — the first campus hit in a week-long barrage; Riyadh airport was hit four times, 13 killed Saturday. Brent rose 0.8% to $106.58, WTI 0.9% to $94.94. Iran plans new Hormuz ship tactics; Russian diesel may cap gains. The escalation lifts gold's haven bid.",
    "url": "https://www.reuters.com/business/energy/oil-prices-climb-traders-weigh-saudi-supply-risk-russian-diesel-flow-2026-10-14/",
@@ -353,7 +406,7 @@
    "related_urls": [],
    "summary": "Kanpur police are probing a fake-hallmarking racket ahead of Dhanteras and Diwali: 25–30 laser engraving machines allegedly misused to print counterfeit BIS hallmarks on jewellery. The probe began after a woman was caught selling a chain with an 18-carat hallmark holding only about 10% gold. BIS now shows jewellery photographs alongside HUID numbers in its BIS Care app for verification.",
    "id": "e7af455ea9d20e98",
-   "rank": 12
+   "rank": 14
   }
  ]
 }
