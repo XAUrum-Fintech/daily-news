@@ -1,20 +1,20 @@
-# Gold & Silver for Indian buyers · 2026-10-14T06:00Z
+# Gold & Silver for Indian buyers · 2026-10-14T07:00Z
 
-> Gold holds near $4,160 ahead of US CPI as a big central-bank seller emerges
+> Gold holds near $4,160 ahead of US CPI as recycled gold eats into imports
 
-Spot gold held near $4,159 an ounce on Wednesday with traders awaiting US inflation data that could shape Fed rate expectations. Kazakhstan's central bank plans to cut gold to 75% of reserves from 78%, turning a top buyer into a seller, while global gold ETF inflows hit a record $31 billion in Q3. On MCX, gold futures rose while silver futures eased on Wednesday, after IBJA data put 24K gold near ₹1.48 lakh per 10 grams.
+Spot gold held near $4,159 an ounce on Wednesday as traders awaited US inflation data that could shape Fed rate expectations. Kazakhstan's central bank plans to cut gold to 75% of reserves from 78%, while global gold ETF inflows hit a record $31 billion in Q3. In India, recycled old gold is meeting a growing share of festive demand as imports slump, and COMEX silver settled at $59.16.
 
 - US CPI due Wednesday, PPI Thursday; markets price an 88% chance of a December Fed rate rise.
 - Kazakhstan holds 386 tonnes of gold, 78% of reserves; half its planned cut via physical sales.
 - Global gold ETF inflows hit $10 billion in September and a record $31 billion in Q3, WGC data show.
-- MCX: gold futures rose, silver futures eased; IBJA 24K gold near ₹1.48 lakh/10g.
-- RBI's forex package curbs speculation and raises hedging costs as the rupee steadies.
+- India's gold imports fell to $2.3 billion in August, down 58% on year, as old-gold exchange supplied over 40% of top jewellers' revenue.
+- COMEX silver settled 1.63% lower at $59.16; MCX gold futures rose while silver futures eased.
 
 ## Trending
-- **CPI week sets the tone for gold**: With US inflation data due Wednesday and PPI Thursday, gold is range-bound near $4,159 as traders weigh Fed rate-hike odds against geopolitical risk. (stories 1, 5)
+- **CPI week sets the tone for gold**: With US inflation data due Wednesday and PPI Thursday, gold is range-bound near $4,159 as traders weigh Fed rate-hike odds against geopolitical risk. (stories 1, 7)
 - **A top central-bank buyer turns seller**: Kazakhstan's plan to cut gold from 78% to 75% of reserves flips a leading buyer into a seller, even as ETF inflows and central-bank buying underpin demand. (stories 2, 3)
-- **Festive demand stays selective at record prices**: With gold near ₹1.48 lakh per 10 grams, Indian buyers are cautious and selective, favouring lighter and lower-carat jewellery as Dhanteras and Diwali approach. (stories 7, 8, 9)
-- **Silver's outlook splits analysts**: Spot silver near $59 has one strategist warning of a fall to $50, even as gold's steadiness keeps both metals in focus ahead of the US data. (stories 6)
+- **Recycled gold meets festive demand**: India's vast household gold stock is doing more festive-season work as imports slump, with old-gold exchange supplying over 40% of leading jewellers' revenue. (stories 5, 9, 8)
+- **Silver's outlook splits analysts**: Spot silver near $59 has one strategist warning of a fall to $50, even as COMEX silver settled 1.63% lower at $59.16. (stories 6, 7)
 - **Rupee defence and hallmarking fraud in focus**: The RBI's forex measures aim to curb speculation in the rupee, while police probe a fake-hallmarking racket ahead of the festive season. (stories 10, 12)
 
 ## Stories
@@ -26,16 +26,16 @@ Spot gold held near $4,159 an ounce on Wednesday with traders awaiting US inflat
    World Gold Council data show global gold ETFs pulled in $10 billion in September, taking Q3 inflows to a record $31 billion and holdings to a record 4,256 tonnes — even as gold fell 6.6% in September, its worst month since June, and the Fed raised rates to 3.75–4.00%. The US alone added $3.8 billion last month.
 4. [Gold futures rise, silver futures fall in domestic, global markets](https://www.business-standard.com/markets/commodities/gold-futures-rise-silver-futures-fall-in-domestic-global-markets-126101400323_1.html) — *Business Standard*, 2026-10-14T05:04:51Z
    Gold futures traded higher while silver eased on Wednesday in both domestic and global markets. On MCX, December gold traded near ₹1,48,480 per 10 grams and silver near ₹2,18,991 per kg; on Comex, gold was near $4,188 an ounce and silver near $59.49.
-5. [Gold and Silver Price Forecast: Fed Hike Risks Loom Ahead of CPI](https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-fed-hike-risks-loom-ahead-of-cpi-1637861) — *FXEmpire*, 2026-10-14T03:53:32Z
-   Ahead of Wednesday's US inflation report, FXEmpire says gold must clear $4,205 to push toward $4,250, while hot CPI could lift the dollar and Treasury yields and pressure both metals. Silver needs to break above $61.20 before $62.60 comes into view. A gold break below $4,100 could bring $4,000 into focus; silver could fall toward $50 if $55 support fails.
+5. [India’s hidden gold chest is giving imported bullion a run for its money](https://economictimes.indiatimes.com/industry/cons-products/fashion-%20/-cosmetics-%20/-jewellery/indias-hidden-gold-chest-is-giving-imported-bullion-a-run-for-its-money/articleshow/134931849.cms) — *Economic Times*, 2026-10-14T06:28:00Z
+   Indian households hold an estimated 25,000–50,000 tonnes of gold, and high prices are pushing buyers to exchange old jewellery for new designs instead of buying fresh metal. Gold imports fell to $2.3 billion in August, down 58% year-on-year, with volumes of just 15–20 tonnes. Recycled gold supplied over 40% of jewellery revenue for leading organised retailers in Q1 FY27.
 6. [Silver prices could be headed back to $50 - Bloomberg’s McGlone](https://www.kitco.com/news/article/2026-10-13/silver-prices-could-be-headed-back-50-bloombergs-mcglone) — *Kitco*, 2026-10-13T17:59:00Z
    Bloomberg Intelligence strategist Mike McGlone warned silver could fall back to $50 an ounce and stay between $50 and $84 for years, with spot silver near $59. He said silver's volatility is at its highest relative to the S&P 500 since 1980 and its 10-year mean-reversion price is around $31.
-7. [Gold cheaper by ₹1,750 in two days to ₹1.48 lakh/10g; experts see ₹1.55 lakh by Diwali](https://dainiknewslive.in/gold-became-cheaper-by-%E2%82%B9-1750-in-two-days-the-price-of-10-grams-became-%E2%82%B9-1-48-lakh-experts-said-further-the-price-can-go-up-to-%E2%82%B9-1-55-lakh/) — *Dainik News Live*, 2026-10-13T08:00:00Z
+7. [Comex Silver Settles 1.63% Lower at $59.161 — Data Talk](https://www.morningstar.com/news/dow-jones/202610137046/comex-silver-settles-163-lower-at-59161-data-talk) — *Morningstar*, 2026-10-13T17:49:00Z
+   COMEX silver for October delivery settled 1.63% lower at $59.161 an ounce on Tuesday, its largest one-day dollar and percentage drop since October 7. The metal has fallen for two straight sessions and is down 1.56% so far in October, though it remains up about 17.6% from a year ago.
+8. [Gold cheaper by ₹1,750 in two days to ₹1.48 lakh/10g; experts see ₹1.55 lakh by Diwali](https://dainiknewslive.in/gold-became-cheaper-by-%E2%82%B9-1750-in-two-days-the-price-of-10-grams-became-%E2%82%B9-1-48-lakh-experts-said-further-the-price-can-go-up-to-%E2%82%B9-1-55-lakh/) — *Dainik News Live*, 2026-10-13T08:00:00Z
    IBJA data shows 10 grams of 24K gold fell Rs 399 to about Rs 1.48 lakh on October 13 -- roughly Rs 1,750 cheaper over two days -- while 1 kg of silver fell Rs 923 to about Rs 2.20 lakh. Commodity expert Ajay Kedia expects festival-season demand in India and China plus continued central-bank buying to lift gold toward Rs 1.55 lakh and silver toward Rs 2.40 lakh by Diwali.
-8. [Will festive season revive gold jewellery demand as prices remain 9% above last year?](https://www.moneycontrol.com/news/consumer/jewellery/will-festive-season-revive-gold-jewellery-demand-as-prices-remain-9-above-last-year-14041725.html) — *Moneycontrol*, 2026-10-13T15:38:08Z
+9. [Will festive season revive gold jewellery demand as prices remain 9% above last year?](https://www.moneycontrol.com/news/consumer/jewellery/will-festive-season-revive-gold-jewellery-demand-as-prices-remain-9-above-last-year-14041725.html) — *Moneycontrol*, 2026-10-13T15:38:08Z
    Gold jewellery demand may still rise during India's festive and wedding season, but with prices 9% higher than last year's festive peak, Moneycontrol reports buyers are turning cautious and selective. Jewellery sales volumes are expected to come in below last year, with shoppers favouring lighter designs, old-gold exchange and value-focused purchases. By Dipen Pradhan, Moneycontrol.
-9. [Jewellery stocks ahead of festive season: Can Q2 deliver sustained growth amid rising rates, bond yields?](https://economictimes.indiatimes.com/markets/stocks/news/jewellery-stocks-ahead-of-festive-season-can-q2-deliver-sustained-growth-amid-rising-rates-bond-yields/articleshow/134931062.cms) — *Economic Times*, 2026-10-14T03:25:00Z
-   The Economic Times reports Indian jewellery stocks present a mixed picture ahead of the festive season: despite rising gold prices and macro headwinds, Q2 business updates show robust revenue growth, with the festive calendar shifting demand into Q3.
 10. [Can RBI’s six forex measures help stabilise the rupee?](https://economictimes.indiatimes.com/markets/forex/forex-news/rbis-rupee-defence-curbs-speculation-raises-hedging-costs/articleshow/134929407.cms) — *Economic Times*, 2026-10-14T00:23:00Z
    The RBI's forex package — 20% FERR reserve on big derivative deals over $2M, speculation cap cut $100M to $5M, no rebooking of cancelled deals, dollar window for state oil retailers, stricter checks — lifted the rupee ~150 paise to 95.28/$. Hedging costs rise ~150bps; forward premiums softening. Economists call it tactical, not structural. A steadier rupee trims landed gold costs for buyers.
 11. [Houthi missile hits Aramco's Dhahran HQ; Brent tops $106 on supply risk](https://www.reuters.com/business/energy/oil-prices-climb-traders-weigh-saudi-supply-risk-russian-diesel-flow-2026-10-14/) — *Reuters*, 2026-10-14T00:30:00Z
