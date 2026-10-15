@@ -1,66 +1,55 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-15T20:00Z",
-  "generated_at": "2026-10-15T20:05:42Z",
+  "edition_id": "2026-10-15T22:00Z",
+  "generated_at": "2026-10-15T22:03:56Z",
   "window": {
-    "from": "2026-10-15T18:00Z",
-    "to": "2026-10-15T20:00Z"
+    "from": "2026-10-15T20:00:00Z",
+    "to": "2026-10-15T22:00:00Z"
   },
   "insights": {
-    "headline": "Gold ETFs curb bulk inflows as gold rebounds to $4,150 and silver steadies near $55",
-    "summary": "Gold recovered above $4,150 on Thursday as a tech-led equity selloff drove safe-haven flows and the dollar eased from 18-month highs, while silver steadied near $55 after a 6% plunge on hot September CPI and PPI data. In India, several large mutual funds halted bulk subscriptions to gold ETFs following a SEBI nudge, just ahead of Diwali demand. MCX gold rebounded toward Rs 1.47 lakh per 10 grams and silver toward Rs 2.09 lakh per kg, with a firmer rupee capping gains.",
+    "headline": "Gold holds above $4,150 and silver snaps its losing streak as falling yields blunt the Fed-hike scare",
+    "summary": "Gold extended Thursday's rebound into the US session, holding above $4,150 as an AI-led equity selloff pulled the 10-year Treasury yield to a three-week low and the dollar off an 18-month peak. COMEX silver snapped a three-day losing streak with a 2.3% gain to settle at $56.84. Hot September inflation data — CPI at 3.7% and PPI up 6.3% on the year — kept October Fed-hike bets near 30%, capping the rally. In India, MCX gold traded near ₹1.47 lakh per 10 grams and silver near ₹2.09 lakh per kg, while mutual funds halted bulk gold-ETF subscriptions ahead of the festive season.",
     "points": [
-      "Gold rebounded above $4,150 as Treasury yields fell to a three-week low and the dollar retreated from an 18-month high.",
-      "Silver steadied near $55 after a 6% plunge as hot September CPI (3.7%) and PPI revived bets on an October Fed rate hike.",
-      "Indian mutual funds halted bulk subscriptions to gold ETFs after a SEBI nudge, a precautionary step ahead of festive-season demand.",
-      "MCX gold traded near Rs 1.47 lakh per 10 grams and silver near Rs 2.09 lakh per kg; a firmer rupee capped the rebound.",
-      "India's September gold imports fell to $1.8 billion from $2.3 billion in August as buyers awaited Dussehra and Diwali."
+      "Gold's rebound ran through the US session as the AI equity selloff deepened and haven demand offset hot-inflation pressure.",
+      "Silver settled 2.3% higher at $56.84, its biggest one-day gain since October 9, after a 6% plunge on the CPI shock.",
+      "September CPI of 3.7% and PPI up 6.3% kept October Fed-hike odds near 30%, with officials split on further tightening.",
+      "MCX gold held near ₹1.47 lakh and silver near ₹2.09 lakh; mutual funds paused bulk gold-ETF subscriptions before the festive rush.",
+      "India's gold imports fell 27% after the customs duty hike to 15%, while festive jewellery demand showed early recovery."
     ]
   },
   "trending": [
     {
-      "title": "ETF gates shut ahead of Diwali demand",
-      "summary": "Fund houses halted bulk subscriptions to gold ETFs after a SEBI nudge, fearing a festive import surge - even though redemptions stay open and September saw Rs 4,451 crore of net ETF inflows.",
+      "title": "Haven bid back as the AI selloff spreads",
+      "summary": "Gold held above $4,150 and silver posted its best day in a week as sliding Treasury yields and a weaker dollar pulled investors toward havens while tech stocks sank.",
       "item_ids": [
-        "205af351dbab78a1",
-        "c7578f883d599280"
+        "4f0f1894c2805bed",
+        "9eb219172f08a787"
       ]
     },
     {
-      "title": "Hot US data revives Fed rate-hike bets",
-      "summary": "September CPI at 3.7% and a hot PPI spiked odds of an October hike, whipsawing gold above $4,150 while silver plunged 6% to an 11-month low near $55.55.",
+      "title": "Hot inflation keeps the Fed-hike debate alive",
+      "summary": "September CPI at 3.7% and PPI up 6.3% on the year kept October hike odds near 30%, leaving bullion's rebound fragile as traders await the next Fed signals.",
       "item_ids": [
-        "4f0f1894c2805bed",
         "39b8b486aee7f492",
-        "2d6808f96898162b",
         "a061ead49b1c323f"
       ]
     },
     {
-      "title": "Silver's wilder ride against gold",
-      "summary": "Silver fell twice as hard as gold on the inflation shock, then rebounded less; mine outages such as San Dimas add a supply-side floor under prices.",
+      "title": "India's festive demand meets supply caution",
+      "summary": "Mutual funds halted bulk gold-ETF subscriptions and imports fell 27% after the duty hike, even as jewellery demand showed early signs of recovery.",
       "item_ids": [
-        "a061ead49b1c323f",
-        "036ba905e5fe68ac",
-        "54c6e1d2cc2d7450"
-      ]
-    },
-    {
-      "title": "Festive demand builds despite swings",
-      "summary": "Jewellery makers' stocks rallied and footfall is returning as prices eased, with shoppers shifting toward lighter, sub-Rs-1-lakh pieces.",
-      "item_ids": [
-        "f11d5c1b122886e6",
-        "7c0ed30b7172ed9d",
+        "205af351dbab78a1",
+        "ff7ce3cc8ac301a1",
         "66f961422fb4e53f"
       ]
     },
     {
-      "title": "Policy watch: duties, imports and SGBs",
-      "summary": "Gold imports dropped 27% after the 15% duty hike, silver imports get a faster IIBX lane, and the RBI fixed SGB 2019-20 Series V redemption at Rs 14,725.",
+      "title": "Silver's whiplash week",
+      "summary": "A 6% CPI-driven plunge gave way to a 2.3% bounce, while a 41% output drop at Mexico's San Dimas mine underscored supply tightness.",
       "item_ids": [
-        "ff7ce3cc8ac301a1",
-        "6780fc7fc1daffdc",
-        "5d060e59597d21bf"
+        "9eb219172f08a787",
+        "a061ead49b1c323f",
+        "036ba905e5fe68ac"
       ]
     }
   ],
@@ -87,7 +76,10 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 1
+      "rank": 1,
+      "related_urls": [
+        "https://www.reuters.com/world/india/gold-rebounds-one-week-low-dollar-slips-2026-10-15/"
+      ]
     },
     {
       "id": "205af351dbab78a1",
@@ -141,6 +133,29 @@
       "rank": 3
     },
     {
+      "id": "9eb219172f08a787",
+      "rank": 4,
+      "title": "Comex Silver Settles 2.32% Higher at $56.837 — Data Talk",
+      "summary": "Front-month COMEX silver for October delivery settled $1.29 (2.3%) higher at $56.84 on Thursday, snapping a three-session losing streak with its biggest one-day gain since October 9. The bounce tracked a softer dollar off an 18-month peak and a slide in Treasury yields to a three-week low, though silver remains down about 19% so far in 2026 and roughly half its January record.",
+      "url": "https://www.morningstar.com/news/dow-jones/202610156763/comex-silver-settles-232-higher-at-56837-data-talk",
+      "source": "Morningstar",
+      "source_domain": "morningstar.com",
+      "publisher_id": "morningstar",
+      "published_at": "2026-10-15T17:50:00Z",
+      "image_url": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+      "image_kind": "photo",
+      "tags": [
+        "silver",
+        "comex",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false
+    },
+    {
       "id": "ff7ce3cc8ac301a1",
       "title": "India’s gold imports drop 27% after customs duty hike to 15%",
       "summary": "Commerce Ministry data shows India’s gold imports fell to $19.27 billion in April–September 2026 from $26.51 billion a year earlier, after customs duty on gold and silver was raised to 15% in May. September saw declines in both gold and silver imports, while the merchandise trade deficit narrowed to $30.21 billion.",
@@ -161,7 +176,7 @@
         "import-duty",
         "india"
       ],
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "2d6808f96898162b",
@@ -186,7 +201,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "a061ead49b1c323f",
@@ -209,7 +224,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "ba4272aaabfdfad7",
@@ -236,7 +251,7 @@
       "related_urls": [
         "https://en.sedaily.com/finance/2026/10/15/central-bank-gold-buying-hits-two-year-high-fueling-record"
       ],
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "c7578f883d599280",
@@ -260,7 +275,7 @@
         "silver",
         "mcx"
       ],
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "cabf6e34743d20b9",
@@ -283,11 +298,11 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "4a9b0d362dbc5a35",
-      "rank": 10,
+      "rank": 11,
       "title": "Gold prices fall 1 percent on MCX as rupee's sharp appreciation weighs on bullion",
       "summary": "Gold traded weak on October 14 as the rupee's sharp appreciation against the dollar pressured domestic bullion ahead of the US CPI release. MCX spot gold slipped 1.03% to Rs 1,45,615 per 10 grams while December futures eased 0.33% to Rs 1,47,956; international spot gold held just above $4,150 an ounce. LKP Securities' Jateen Trivedi said the US inflation reading would set bullion's near-term direc",
       "url": "https://www.moneycontrol.com/news/business/personal-finance/gold-prices-fall-1-percent-on-mcx-as-rupee-s-sharp-appreciation-weighs-on-bullion-14052168.html",
@@ -330,7 +345,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 12
     },
     {
       "id": "036ba905e5fe68ac",
@@ -354,7 +369,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 13
     },
     {
       "id": "6780fc7fc1daffdc",
@@ -377,7 +392,7 @@
         "import-duty"
       ],
       "breaking": false,
-      "rank": 13
+      "rank": 14
     },
     {
       "id": "5d060e59597d21bf",
@@ -400,11 +415,11 @@
         "india"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 15
     },
     {
       "id": "247151cb690ae4e2",
-      "rank": 15,
+      "rank": 16,
       "title": "Pralhad Joshi Launches Silver Refinery Certification Scheme",
       "summary": "Consumer Affairs Minister Pralhad Joshi launched a BIS certification scheme for silver refineries and mints at a World Standards Day event in New Delhi. Under the scheme, BIS will license qualified facilities, bringing silver bullion and coins under hallmarking-style purity and traceability checks; he also announced seven new Indian Standards and a Digital Standard Reader.",
       "url": "https://money.rediff.com/news/market/pralhad-joshi-launches-silver-refinery-certification-scheme/56235520261014",
@@ -426,7 +441,7 @@
     },
     {
       "id": "2afc4b30db0cea48",
-      "rank": 16,
+      "rank": 17,
       "title": "China Is Aggressively Buying Gold As Prices Fall. Should Indian Buyers Be Worried Or Hopeful?",
       "summary": "China is aggressively adding gold to its reserves even as prices fall — a long-term strategic move rather than a short-term trade, News18 reports. The buying could put a floor under prices but guarantees nothing, so Indian buyers may see some relief without a price collapse.",
       "url": "https://www.news18.com/explainers/china-is-aggressively-buying-gold-as-prices-fall-should-indian-buyers-be-worried-or-hopeful-shil-ws-l-10380902.html",
@@ -449,7 +464,7 @@
     },
     {
       "id": "5303f95361fcd169",
-      "rank": 17,
+      "rank": 18,
       "title": "Iran shifting tactics to step up attacks on shipping before US vote, officials say",
       "summary": "Iran is deploying new tactics to target ships in the Strait of Hormuz to keep oil prices high and influence the US midterm elections, two senior Iranian officials told Reuters. Tehran has restricted the strait since US-Israeli strikes on February 28, with attacks stepping up about 10 days ago. Energy-led inflation risk complicates the Fed's path and keeps a defensive bid under gold.",
       "url": "https://www.reuters.com/world/middle-east/iran-shifting-tactics-step-up-attacks-shipping-before-us-vote-officials-say-2026-10-14/",
@@ -490,32 +505,9 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 18,
+      "rank": 19,
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/9a8f216b9ca4e5d0.jpg",
       "image_kind": "photo"
-    },
-    {
-      "id": "1689cf383bb3b28e",
-      "rank": 19,
-      "title": "Gold worth millions seized in three smuggling bids on UAE-Delhi routes",
-      "summary": "Three gold-smuggling attempts on UAE-India air routes were foiled in recent weeks, including 6.5 kg valued at about Dh3.8 million hidden under aircraft seats and two October 10 seizures at Delhi airport — 241 grams concealed in trolley-bag linings and gold paste worth about Dh323,000 hidden in socks. The report notes unofficial gold inflows to India have risen since tariff cuts, even as official n",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/14/india-gold-smuggling-uae-passengers/",
-      "source": "The National",
-      "source_domain": "thenationalnews.com",
-      "publisher_id": "the-national",
-      "published_at": "2026-10-14T03:10:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/1689cf383bb3b28e.jpg",
-      "image_kind": "photo",
-      "category": "policy",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "import-duty",
-        "india"
-      ],
-      "breaking": false
     },
     {
       "id": "7c0ed30b7172ed9d",
@@ -588,31 +580,8 @@
       "breaking": false
     },
     {
-      "id": "54c6e1d2cc2d7450",
-      "title": "Silver Steadies as Oil Prices Retreat",
-      "summary": "Silver steadied above $56 an ounce on Thursday after the previous session's sharp fall, as crude oil ended a five-day rally. US CPI ran at 3.7% in September, a four-month high. Chicago Fed President Austan Goolsbee called the figures discouraging; San Francisco Fed President Mary Daly said further hikes may be needed, but saw no immediate need at this month's meeting.",
-      "url": "https://www.tradingview.com/news/te_news:592106:0-silver-steadies-as-oil-prices-retreat/",
-      "source": "TradingView",
-      "source_domain": "tradingview.com",
-      "publisher_id": "tradingview",
-      "published_at": "2026-10-15T00:00:00Z",
-      "image_url": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "silver",
-        "fed",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 23
-    },
-    {
       "id": "dd17c8297b4793a4",
-      "rank": 24,
+      "rank": 23,
       "title": "Decoding India's inflation: Onions, silver key drivers; more storage capacity will make RBI's task easier",
       "summary": "September CPI inflation of 5.54% was driven by rising onion and silver prices along with related transport costs, ThePrint reports. Building more onion storage capacity would make the RBI's inflation-management task easier — a reminder that silver's rally feeds directly into India's price pressures.",
       "url": "https://theprint.in/economy/decoding-indias-inflation-onions-silver-key-drivers-more-storage-capacity-will-make-rbis-task-easier/3071757/",
