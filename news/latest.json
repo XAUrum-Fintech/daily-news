@@ -1,78 +1,88 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-15T04:00Z",
-  "generated_at": "2026-10-15T04:02:00Z",
+  "edition_id": "2026-10-15T05:00Z",
+  "generated_at": "2026-10-15T05:20:00Z",
   "window": {
-    "from": "2026-10-15T02:00:00Z",
-    "to": "2026-10-15T04:00:00Z"
+    "from": "2026-10-15T04:00:00Z",
+    "to": "2026-10-15T05:00:00Z"
   },
   "insights": {
-    "headline": "Gold rebounds above $4,150 as dollar slips from 18-month peak after hot September CPI",
-    "summary": "Spot gold rose 1.3% to $4,158.63 an ounce on October 15, recovering from its lowest since October 7 as the dollar eased off an 18-month high and Fed officials talked down the chances of an October hike. September CPI ran hot at 3.7% year-on-year, briefly spiking hike bets to 50% before Mary Daly and Michelle Bowman cooled expectations. On MCX, gold fell about 1% on October 14 as the rupee's sharp appreciation weighed on bullion, while silver steadied at $56.26 after a 6.1% COMEX rout. Markets now watch PPI and retail sales for the Fed's next signal.",
-    "points": [
-      "Spot gold up 1.3% to $4,158.63; December futures $4,180; silver up 1.1% to $56.26.",
-      "September CPI 3.7% vs 3.6% expected; core 2.6%. October hike odds near 27% per FedWatch.",
-      "Daly signals no need for October 27-28 hike; Bowman says time to wait and see.",
-      "MCX spot gold fell 1.03% to Rs 1,45,615 per 10 grams on rupee strength.",
-      "SGB 2019-20 Series V redeems today at Rs 14,725 per unit."
-    ]
+    "headline": "Gold climbs ~$40 back above $4,150 as yields retreat on China-Treasuries report",
+    "summary": "Gold's CPI-driven selloff is unwinding: a ~$40 Asian-session rebound took spot gold back above $4,150 as 10-year Treasury yields retreated more than 20bp from their post-CPI high. The catalyst is a Bloomberg report — unconfirmed — suggesting China may hold US debt through non-US custodians. Silver steadied above $56 after Wednesday's 6%+ plunge. Fed officials are split, keeping December hike bets alive. In Delhi, gold eased to ₹1.50 lakh/10g and silver to ₹2.21 lakh/kg as the rupee firmed."
   },
   "trending": [
     {
-      "title": "CPI aftershock gives way to a relief rebound",
-      "summary": "Gold sank to its lowest since October 7 on the hot CPI print, then rebounded 1.3% to $4,158.63 as the dollar slipped and Fed officials downplayed an October hike.",
+      "title": "CPI aftershock unwinds into a relief rebound",
+      "summary": "Hot September CPI (3.7% headline, 2.6% core) sank gold below $4,100 and silver 6%+; by Thursday's Asian session gold had climbed ~$40 back above $4,150 as yields retreated.",
+      "item_ids": [
+        "d66ef61f0a15d349",
+        "0f7486e32842b697",
+        "2d6808f96898162b"
+      ]
+    },
+    {
+      "title": "China's hidden Treasury holdings move markets",
+      "summary": "A Bloomberg report that China may route US debt holdings via non-US custodians is read as steadier foreign demand for Treasuries — the key driver of gold's rebound. Claims unconfirmed.",
+      "item_ids": [
+        "d66ef61f0a15d349",
+        "c6eb12205726c2c5"
+      ]
+    },
+    {
+      "title": "Fed split keeps December hike live",
+      "summary": "Daly sees no need for an October hike; Goolsbee calls inflation discouraging. October hike odds ~27%; December far higher. PPI and retail sales due Thursday are next.",
       "item_ids": [
         "0f7486e32842b697",
-        "42624c120c963795",
-        "2fb3fd6055bbda96",
-        "6b998438bafa8cb2"
+        "54c6e1d2cc2d7450"
       ]
     },
     {
-      "title": "Analysts split: $4,000 floor vs sub-$4,000 fourth quarter",
-      "summary": "TD Securities sees gold holding $4,000 on ETF inflows and central-bank demand; Bank of America sees sub-$4,000 in Q4 before a climb to $5,000 by mid-2027; Jefferies keeps $5,000 for 2027.",
+      "title": "Domestic prices ease as rupee firms",
+      "summary": "Delhi gold fell ₹1,800 to ₹1.50 lakh/10g, silver ₹5,000 to ₹2.21 lakh/kg. COMEX gold +1.39% to $4,165.10, silver +0.78% to $56.315.",
       "item_ids": [
-        "e23e2fd0609fc492",
-        "9cdd8398e1ac32b7",
-        "3e689727f6e10a5a"
+        "5474a0501b0a9197"
       ]
     },
     {
-      "title": "Silver: crash, rebound, and doors opening at home",
-      "summary": "COMEX silver crashed 6.1% to $55.55 after CPI then steadied at $56.26, while DGFT fast-tracked silver imports via IIBX and BIS launched a silver refinery certification scheme.",
-      "item_ids": [
-        "b09302f3fd5628b6",
-        "0f7486e32842b697",
-        "6780fc7fc1daffdc",
-        "247151cb690ae4e2"
-      ]
-    },
-    {
-      "title": "Festive bets: jewellers over ETFs for Dhanteras",
-      "summary": "Analysts say organised jewellery retailers offer the clearer festive play while ETFs remain a long-term allocation; demand is recovering even as shoppers trade down to lighter pieces.",
-      "item_ids": [
-        "968e01417b19c295",
-        "66f961422fb4e53f",
-        "a3cd08cb291eba03"
-      ]
-    },
-    {
-      "title": "Policy day: SGB exit, silver rules, smuggling watch",
-      "summary": "SGB 2019-20 Series V redeems today at Rs 14,725 per unit; DGFT eased silver import authorisations; BIS certified silver refineries; customs foiled three UAE-Delhi smuggling bids.",
+      "title": "Festive demand: recovery but trading down",
+      "summary": "Jewellery demand is recovering as prices ease, but shoppers are choosing lighter and lower-carat pieces; analysts debate ETFs vs jewellery stocks for festive bets.",
       "item_ids": [
         "5d060e59597d21bf",
-        "6780fc7fc1daffdc",
-        "247151cb690ae4e2",
-        "1689cf383bb3b28e"
+        "66f961422fb4e53f",
+        "a3cd08cb291eba03"
       ]
     }
   ],
   "items": [
     {
+      "id": "d66ef61f0a15d349",
+      "title": "Gold jumps around $40 as Treasury yields retreat from post-CPI high",
+      "summary": "Gold climbed about $40 in Asian trading as 10-year Treasury yields fell more than 20 basis points from the spike after Wednesday's hotter-than-expected US inflation data. A Bloomberg report suggesting China may hold US debt through non-US custodians — Canada's reported holdings near $600 billion — eased fears of a major buyer retreating. The claims are unconfirmed.",
+      "url": "https://investinglive.com/commodities/gold-jumps-around-40-as-treasury-yields-retreat-from-post-cpi-high/",
+      "source": "InvestingLive",
+      "source_domain": "investinglive.com",
+      "publisher_id": "investinglive",
+      "published_at": "2026-10-15T01:40:06Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/d66ef61f0a15d349.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://investinglive.com/news/talk-grows-that-china-is-routing-us-treasury-holdings-through-canada-bloomberg/"
+      ],
+      "rank": 1
+    },
+    {
       "id": "0f7486e32842b697",
-      "rank": 1,
       "title": "Gold rebounds from one-week low as dollar slips",
-      "summary": "Spot gold rose 1.3% to $4,158.63 an ounce as the dollar slipped from an 18-month peak, rebounding from its lowest since October 7. December futures climbed 1.8% to $4,180.00 and spot silver added 1.1% to $56.26. Traders put roughly a 27% chance on an October Fed hike after hot September CPI; Fed's Mary Daly signalled no need for a hike at the October 27-28 meeting.",
+      "summary": "Spot gold rose 1.3% to $4,158.63 an ounce, rebounding from its lowest since October 7 as the dollar eased from an 18-month peak. December futures climbed 1.8% to $4,180.00 and spot silver added 1.1% to $56.26. Traders put roughly a 27% chance on an October Fed hike after hot September CPI; Fed's Mary Daly signalled no need for a hike at the October 27-28 meeting.",
       "url": "https://www.reuters.com/world/india/gold-rebounds-one-week-low-dollar-slips-2026-10-15/",
       "source": "Reuters",
       "source_domain": "reuters.com",
@@ -94,22 +104,97 @@
       "breaking": false,
       "related_urls": [
         "https://economictimes.indiatimes.com/markets/commodities/news/gold-steadies-after-hitting-one-week-low/articleshow/134955322.cms"
-      ]
+      ],
+      "rank": 2
     },
     {
-      "id": "2fb3fd6055bbda96",
-      "title": "Dollar retreats from 18-month high despite hot CPI as Fed officials temper hike bets",
-      "summary": "The dollar slipped from an 18-month peak as cautious remarks from Fed officials led traders to pare October rate-hike bets. The dollar index fell 0.1% to 102.06. September CPI rose 3.7% year-on-year versus 3.6% expected, with core at 2.6%; hike pricing briefly hit 50% before easing back. The 10-year Treasury yield fell to a three-week low of 5.13%.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-retreats-from-18-month-high-despite-hot-cpi-as-fed-officials-temper-hike-bets/articleshow/134955362.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "publisher_id": "economic-times",
-      "published_at": "2026-10-15T02:02:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/2fb3fd6055bbda96.jpg",
+      "id": "5474a0501b0a9197",
+      "title": "COMEX gold, silver rates rise up to 1.4%: Key levels to watch",
+      "summary": "COMEX gold futures rose $57.20 (1.39%) to $4,165.10 an ounce and silver futures gained $0.438 (0.78%) to $56.315 as investors weighed the US rate outlook after hotter-than-expected inflation. In New Delhi, gold fell ₹1,800 to ₹1.50 lakh per 10 grams and silver declined ₹5,000 to ₹2.21 lakh per kg, per the All India Sarafa Association; rupee appreciation pressured domestic prices.",
+      "url": "https://www.tradingview.com/news/cnbctv:a24772203094b:0/",
+      "source": "CNBC-TV18",
+      "source_domain": "cnbctv18.com",
+      "publisher_id": "cnbc-tv18",
+      "published_at": "2026-10-15T00:00:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "silver",
+        "comex",
+        "mcx",
+        "india",
+        "rupee"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 3
+    },
+    {
+      "id": "2d6808f96898162b",
+      "title": "Gold falls below $4,100, silver plunges 6% as hot CPI boosts Fed-hike bets - Kitco PM Report",
+      "summary": "Gold and silver fell sharply in late US trading on Wednesday after hotter-than-expected US inflation lifted Treasury yields and the dollar. Spot gold traded near $4,098.80, down $61.30 (1.47%); spot silver near $55.41, down $3.64 (6.16%), with selling accelerating across precious metals. The S&P 500 fell 1.1% in its worst day since July.",
+      "url": "https://www.kitco.com/news/article/2026-10-14/gold-falls-below-4100-silver-plunges-6-hot-cpi-boosts-fed-hike-bets-kitco",
+      "source": "Kitco",
+      "source_domain": "kitco.com",
+      "publisher_id": "kitco",
+      "published_at": "2026-10-15T01:27:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "silver",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 4
+    },
+    {
+      "id": "54c6e1d2cc2d7450",
+      "title": "Silver Steadies as Oil Prices Retreat",
+      "summary": "Silver steadied above $56 an ounce on Thursday after the previous session's sharp fall, as crude oil ended a five-day rally. US CPI ran at 3.7% in September, a four-month high. Chicago Fed President Austan Goolsbee called the figures discouraging; San Francisco Fed President Mary Daly said further hikes may be needed, but saw no immediate need at this month's meeting.",
+      "url": "https://www.tradingview.com/news/te_news:592106:0-silver-steadies-as-oil-prices-retreat/",
+      "source": "TradingView",
+      "source_domain": "tradingview.com",
+      "publisher_id": "tradingview",
+      "published_at": "2026-10-15T00:00:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "silver",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 5
+    },
+    {
+      "id": "c6eb12205726c2c5",
+      "title": "Treasury rally sinks dollar, lifts gold",
+      "summary": "US Treasuries extended their Asian-session recovery, pushing 10-year yields 21 basis points below the post-CPI high; the dollar weakened and gold climbed around $40. The bond rally drew support from a Bloomberg report — unconfirmed — that China may hold more US debt than official figures show. Oil edged lower on possible US sanctions easing for shadow-fleet tankers.",
+      "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-treasury-rally-sinks-dollar-lifts-gold/",
+      "source": "InvestingLive",
+      "source_domain": "investinglive.com",
+      "publisher_id": "investinglive",
+      "published_at": "2026-10-15T00:00:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/c6eb12205726c2c5.jpg",
       "image_kind": "photo",
       "tags": [
         "gold",
-        "fed",
         "global"
       ],
       "category": "global",
@@ -117,11 +202,11 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 2
+      "rank": 6
     },
     {
       "id": "4a9b0d362dbc5a35",
-      "rank": 3,
+      "rank": 7,
       "title": "Gold prices fall 1 percent on MCX as rupee's sharp appreciation weighs on bullion",
       "summary": "Gold traded weak on October 14 as the rupee's sharp appreciation against the dollar pressured domestic bullion ahead of the US CPI release. MCX spot gold slipped 1.03% to Rs 1,45,615 per 10 grams while December futures eased 0.33% to Rs 1,47,956; international spot gold held just above $4,150 an ounce. LKP Securities' Jateen Trivedi said the US inflation reading would set bullion's near-term direc",
       "url": "https://www.moneycontrol.com/news/business/personal-finance/gold-prices-fall-1-percent-on-mcx-as-rupee-s-sharp-appreciation-weighs-on-bullion-14052168.html",
@@ -144,56 +229,6 @@
       "breaking": false
     },
     {
-      "id": "42624c120c963795",
-      "title": "Hot September CPI sends rate-hike bets soaring",
-      "summary": "September US CPI came in hotter than forecast — headline 3.7% and core 2.6% year on year, with gasoline up 7.1% — reviving bets on another Fed hike as early as this month. Rate futures now show about a 49% chance the Fed holds at 3.75%-4% in October, up from 19% before the report. Gold fell 1.6% to $4,088 an ounce as the dollar index touched an 18-month high and 10-year yields jumped to 5.314%.",
-      "url": "https://www.reuters.com/business/view-hot-september-cpi-sends-rate-hike-bets-soaring-2026-10-14/",
-      "source": "Reuters",
-      "source_domain": "reuters.com",
-      "publisher_id": "reuters",
-      "published_at": "2026-10-14T14:00:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "fed",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 4
-    },
-    {
-      "id": "6b998438bafa8cb2",
-      "title": "Precious Metals Sink As U.S. CPI Numbers Give Dollar A Lift",
-      "summary": "Gold and silver futures settled sharply lower after September US consumer prices rose 3.7% year-on-year, above the 3.6% forecast, reviving bets on a Fed rate hike as soon as October and lifting the dollar. COMEX gold lost 1.6% to settle at $4,084.80 an ounce — its lowest since August 3 — while silver crashed 6.1% to $55.55, its weakest close in almost 11 months.",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-steady-ahead-of-u-s-inflation-data-5b71987b",
-      "source": "Wall Street Journal",
-      "source_domain": "wsj.com",
-      "publisher_id": "wsj",
-      "published_at": "2026-10-14T18:07:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "comex",
-        "fed",
-        "global"
-      ],
-      "breaking": false,
-      "rank": 5
-    },
-    {
       "id": "5d060e59597d21bf",
       "title": "RBI sets ₹14,725 premature redemption price for SGB 2019-20 Series V",
       "summary": "The Reserve Bank of India has fixed the premature redemption price of Sovereign Gold Bond 2019-20 Series V at ₹14,725 per unit for the redemption due on October 15, 2026. The price is the simple average of IBJA's 999-purity gold closing prices over the three business days before redemption. The tranche was issued in October 2019; the request window for this cycle closed on October 5.",
@@ -214,105 +249,11 @@
         "india"
       ],
       "breaking": false,
-      "rank": 6
-    },
-    {
-      "id": "e23e2fd0609fc492",
-      "title": "Can gold hold $4,000 with an October rate hike still in play?",
-      "summary": "TD Securities' Ryan McKay said gold should hold the $4,000 pivot even with an October Fed hike in play, on robust ETF inflows, central-bank demand and macro positions in the $4,000–4,100 region. Hotter-than-expected CPI lifted real yields and dragged gold below near-term support as funds cut longs after the failed $4,200 break. The Fed traditionally avoids moving rates just before elections.",
-      "url": "https://www.kitco.com/news/article/2026-10-14/can-gold-hold-4000-october-rate-hike-still-play",
-      "source": "Kitco",
-      "source_domain": "kitco.com",
-      "publisher_id": "kitco",
-      "published_at": "2026-10-14T13:19:17Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/e23e2fd0609fc492.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "fed",
-        "global",
-        "central-banks"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 7
-    },
-    {
-      "id": "9cdd8398e1ac32b7",
-      "title": "Bank of America sees gold below $4,000 in Q4 as demand softens",
-      "summary": "Bank of America's October 12 note expects gold below $4,000 over the next three months and a $4,000 fourth-quarter average, rising to $4,750 in Q1 2027 and $5,000 in Q2–Q3 2027. Key-buyer purchases fell 16.6% year-on-year — Indian imports plunged 77.8% while China’s rose 39.3% — and record ETF holdings could add selling pressure. Gold may bottom only once the Fed exits its tightening cycle.",
-      "url": "https://beincrypto.com/bank-of-america-gold-price-target-end-of-2026/",
-      "source": "BeInCrypto",
-      "source_domain": "beincrypto.com",
-      "publisher_id": "beincrypto",
-      "published_at": "2026-10-14T21:19:48Z",
-      "image_url": "https://assets.beincrypto.com/img/OdkLagfWRnjMX-_uzMZdJUK2Cx8=/1200x630/smart/filters:format(jpeg):quality(82)/7f3be3f9391246c988ae2eca64bbf5db",
-      "image_kind": "photo",
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "global",
-        "fed",
-        "india",
-        "central-banks"
-      ],
-      "breaking": false,
       "rank": 8
     },
     {
-      "id": "3e689727f6e10a5a",
-      "title": "Gold's weakness is a buying opportunity as Jefferies sees $5,000 price in 2027, healthy mining margins",
-      "summary": "Jefferies reiterated its $5,000/oz gold forecast for 2027, calling the post-CPI pullback a buying opportunity for quality miners. The bank cut Q4 2026 to $4,400 and full-year 2026 to $4,511 on higher real yields, but argued the US cannot tolerate elevated yields for long with a ~$2 trillion deficit. It raised its 2029 forecast to $4,600, with mining margins well above historical averages.",
-      "url": "https://www.kitco.com/news/article/2026-10-14/golds-weakness-buying-opportunity-jefferies-sees-5000-price-2027-healthy",
-      "source": "Kitco",
-      "source_domain": "kitco.com",
-      "publisher_id": "kitco",
-      "published_at": "2026-10-14T15:07:58Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/3e689727f6e10a5a.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 9
-    },
-    {
-      "id": "b09302f3fd5628b6",
-      "title": "Silver analysis: XAG/USD falls back to annual lows",
-      "summary": "FOREX.com’s StoneX analysis says selling pressure on silver has intensified, with three consecutive losing sessions pushing the metal down nearly 8.5% and back toward its annual lows. The hot September US inflation print revived expectations of further Fed rate hikes, lifting the dollar and weighing hardest on silver among the precious metals.",
-      "url": "https://www.forex.com/en/news-and-analysis/",
-      "source": "FOREX.com",
-      "source_domain": "forex.com",
-      "publisher_id": "forex",
-      "published_at": "2026-10-14T20:22:09Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "tags": [
-        "silver",
-        "global",
-        "fed"
-      ],
-      "breaking": false,
-      "rank": 10
-    },
-    {
       "id": "968e01417b19c295",
-      "rank": 11,
+      "rank": 9,
       "title": "Gold ETFs or jewellery stocks: Where should investors place festive bets?",
       "summary": "Analysts see the clearer festive opportunity in organised jewellery retailers rather than the metal itself, recommending jewellers ahead of Dhanteras on November 6 while keeping gold ETFs as a long-term 10-15% allocation. Named stocks include Titan, Kalyan, Senco Gold, PC Jeweller, Sky Gold, TBZ and Thangamayil. AMFI data show 2026 gold ETF inflows of Rs 45,923 crore with outflows only in May.",
       "url": "https://www.business-standard.com/markets/news/gold-etfs-or-jewellery-stocks-where-should-investors-place-festive-bets-126101400661_1.html",
@@ -354,7 +295,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 10
     },
     {
       "id": "a3cd08cb291eba03",
@@ -377,7 +318,7 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/a3cd08cb291eba03.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 13
+      "rank": 11
     },
     {
       "id": "6780fc7fc1daffdc",
@@ -400,11 +341,11 @@
         "import-duty"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 12
     },
     {
       "id": "247151cb690ae4e2",
-      "rank": 15,
+      "rank": 13,
       "title": "Pralhad Joshi Launches Silver Refinery Certification Scheme",
       "summary": "Consumer Affairs Minister Pralhad Joshi launched a BIS certification scheme for silver refineries and mints at a World Standards Day event in New Delhi. Under the scheme, BIS will license qualified facilities, bringing silver bullion and coins under hallmarking-style purity and traceability checks; he also announced seven new Indian Standards and a Digital Standard Reader.",
       "url": "https://money.rediff.com/news/market/pralhad-joshi-launches-silver-refinery-certification-scheme/56235520261014",
@@ -447,11 +388,11 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 16
+      "rank": 14
     },
     {
       "id": "1689cf383bb3b28e",
-      "rank": 17,
+      "rank": 15,
       "title": "Gold worth millions seized in three smuggling bids on UAE-Delhi routes",
       "summary": "Three gold-smuggling attempts on UAE-India air routes were foiled in recent weeks, including 6.5 kg valued at about Dh3.8 million hidden under aircraft seats and two October 10 seizures at Delhi airport — 241 grams concealed in trolley-bag linings and gold paste worth about Dh323,000 hidden in socks. The report notes unofficial gold inflows to India have risen since tariff cuts, even as official n",
       "url": "https://www.thenationalnews.com/news/uae/2026/10/14/india-gold-smuggling-uae-passengers/",
