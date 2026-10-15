@@ -1,59 +1,61 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-14T22:00Z",
-  "generated_at": "2026-10-14T22:33:19Z",
+  "edition_id": "2026-10-15T00:00Z",
+  "generated_at": "2026-10-15T00:08:30Z",
   "window": {
-    "from": "2026-10-14T20:00:00Z",
-    "to": "2026-10-14T22:00:00Z"
+    "from": "2026-10-14T22:00:00Z",
+    "to": "2026-10-15T00:00:00Z"
   },
   "insights": {
-    "headline": "BofA sees gold below $4,000 near-term on soft demand; hot US CPI sank gold under $4,100 and silver to an 11-month low.",
-    "summary": "Bank of America expects gold below $4,000 over the next three months and a $4,000 Q4 average on weak physical demand — Indian imports plunged 77.8% year-on-year — before recovering to $5,000 by mid-2027. September US inflation came in hotter than expected at 3.7%, lifting December Fed-hike bets to 93%; COMEX gold settled at $4,084.80, its lowest since early August, while silver crashed 6.1% to $55.55, its weakest close in almost 11 months. In India, DGFT simplified silver import authorisations via IIBX, and the RBI fixed the SGB 2019-20 Series V premature redemption price at ₹14,725 per unit.",
+    "headline": "Hot US inflation sank gold below $4,100 and silver 6% as traders priced Fed hikes; banks still see $5,000 gold in 2027.",
+    "summary": "September US CPI came in hot, reviving bets on an October or December Fed rate hike and sending spot gold below $4,100 and silver down about 6%. On MCX, gold fell 1% as a sharply stronger rupee weighed, while silver futures plunged 4% ahead of the data. Offsetting the gloom, Jefferies reiterated a $5,000/oz 2027 gold target and TD Securities said $4,000 should hold on ETF and central-bank buying; NY Fed President Williams signalled one more 2026 hike but no tightening in 2027. In India, Lemonn launched commodity derivatives on MCX and DGFT sped up silver imports via IIBX.",
     "points": [
-      "Bank of America (Oct 12 note): gold below $4,000 for the next three months, Q4 average $4,000; $4,750 in Q1 2027, $5,000 in Q2–Q3 2027.",
-      "COMEX gold settled down 1.6% at $4,084.80, its lowest settlement since August 3; silver fell 6.1% to $55.55, its weakest close in almost 11 months.",
-      "September US CPI rose 3.7% versus 3.6% expected; core inflation was 2.6%. The US 10-year yield touched 5.3% as December Fed-hike odds hit 93%.",
-      "DGFT Trade Notice 30/2026-27 (Oct 13): expedited silver import authorisations valid six months, conditional on buying via IIBX or nominated banks/agencies.",
-      "MCX gold fell about 1% as a stronger rupee amplified the global decline; silver futures dropped nearly 4%."
+      "US September CPI beat forecasts, lifting December Fed-hike odds to ~88%; spot gold fell below $4,100, silver slid ~6%.",
+      "MCX gold fell 1% on rupee strength; silver futures dropped 4% ahead of the CPI print.",
+      "Jefferies kept its $5,000/oz 2027 gold call; TD Securities sees firm support at $4,000–4,100.",
+      "NY Fed's Williams: one more 2026 hike may fit, but no tightening needed in 2027.",
+      "Lemonn launched MCX commodity F&O; DGFT accelerated silver imports via IIBX and nominated agencies."
     ]
   },
   "trending": [
     {
-      "title": "BofA turns near-term cautious",
-      "summary": "Bank of America expects gold below $4,000 over the next three months and a $4,000 Q4 average on weak demand — India’s imports fell 77.8% — but still sees $5,000 by mid-2027.",
-      "item_ids": [
-        "9cdd8398e1ac32b7",
-        "6b998438bafa8cb2"
-      ]
-    },
-    {
-      "title": "Selloff deepens after hot CPI",
-      "summary": "Gold settled at $4,084.80 and silver crashed 6.1% to $55.55, back at annual lows, as the hot September CPI print lifted December Fed-hike bets to 93% and pushed Treasury yields higher.",
+      "title": "CPI shock resets the Fed rate path",
+      "summary": "Hot September CPI revived hike bets — ~23% for October, ~88% for December — sinking gold below $4,100 and silver ~6%, while NY Fed chief Williams capped the outlook by ruling out 2027 tightening.",
       "item_ids": [
         "6b998438bafa8cb2",
-        "b09302f3fd5628b6",
+        "7b0f3c66466776e5",
         "427eec7b53138c3f"
       ]
     },
     {
-      "title": "India formalises silver's path in",
-      "summary": "DGFT’s expedited silver import authorisations via IIBX and nominated agencies landed alongside a new silver refinery certification scheme — a policy push to formalise silver supply and traceability.",
+      "title": "Banks stay bullish on gold's floor",
+      "summary": "Jefferies reiterated $5,000/oz for 2027 and TD Securities flagged $4,000–4,100 as a demand zone on ETF and central-bank buying, even as BofA sees sub-$4,000 gold in Q4 on softer demand.",
       "item_ids": [
-        "6780fc7fc1daffdc",
-        "247151cb690ae4e2"
+        "3e689727f6e10a5a",
+        "e23e2fd0609fc492",
+        "9cdd8398e1ac32b7"
       ]
     },
     {
-      "title": "Rupee strength deepens domestic losses",
-      "summary": "A sharply stronger rupee amplified the global decline for Indian buyers, pulling MCX gold down about 1% while silver futures dropped nearly 4%.",
+      "title": "Rupee strength hits MCX bullion",
+      "summary": "A sharply stronger rupee pushed MCX gold 1% lower and silver futures 4% down ahead of the US data — domestic prices moving on currency as much as global cues.",
       "item_ids": [
         "4a9b0d362dbc5a35",
         "1ad49b2f84031aed"
       ]
     },
     {
-      "title": "Festive demand at a crossroads",
-      "summary": "Jewellers report demand recovering as prices eased, but analysts warn high prices are pushing buyers toward diamonds and lighter designs this season.",
+      "title": "India's market plumbing keeps expanding",
+      "summary": "Lemonn launched MCX commodity derivatives, DGFT sped silver imports through IIBX and nominated agencies, and a silver refinery certification scheme launched — institutional depth keeps building.",
+      "item_ids": [
+        "00b8bda630589a56",
+        "6780fc7fc1daffdc",
+        "247151cb690ae4e2"
+      ]
+    },
+    {
+      "title": "Festive demand faces a price test",
+      "summary": "Jewellers report demand recovering as prices ease, but with gold sharply higher this year, buyers are shifting to lighter designs and diamonds this festive season.",
       "item_ids": [
         "66f961422fb4e53f",
         "a3cd08cb291eba03"
@@ -61,31 +63,6 @@
     }
   ],
   "items": [
-    {
-      "id": "9cdd8398e1ac32b7",
-      "title": "Bank of America sees gold below $4,000 in Q4 as demand softens",
-      "summary": "Bank of America's October 12 note expects gold below $4,000 over the next three months and a $4,000 fourth-quarter average, rising to $4,750 in Q1 2027 and $5,000 in Q2–Q3 2027. Key-buyer purchases fell 16.6% year-on-year — Indian imports plunged 77.8% while China’s rose 39.3% — and record ETF holdings could add selling pressure. Gold may bottom only once the Fed exits its tightening cycle.",
-      "url": "https://beincrypto.com/bank-of-america-gold-price-target-end-of-2026/",
-      "source": "BeInCrypto",
-      "source_domain": "beincrypto.com",
-      "publisher_id": "beincrypto",
-      "published_at": "2026-10-14T21:19:48Z",
-      "image_url": "https://assets.beincrypto.com/img/OdkLagfWRnjMX-_uzMZdJUK2Cx8=/1200x630/smart/filters:format(jpeg):quality(82)/7f3be3f9391246c988ae2eca64bbf5db",
-      "image_kind": "photo",
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "global",
-        "fed",
-        "india",
-        "central-banks"
-      ],
-      "breaking": false,
-      "rank": 1
-    },
     {
       "id": "6b998438bafa8cb2",
       "title": "Precious Metals Sink As U.S. CPI Numbers Give Dollar A Lift",
@@ -110,7 +87,101 @@
         "global"
       ],
       "breaking": false,
+      "rank": 1
+    },
+    {
+      "id": "3e689727f6e10a5a",
+      "title": "Gold's weakness is a buying opportunity as Jefferies sees $5,000 price in 2027, healthy mining margins",
+      "summary": "Jefferies reiterated its $5,000/oz gold forecast for 2027, calling the post-CPI pullback a buying opportunity for quality miners. The bank cut Q4 2026 to $4,400 and full-year 2026 to $4,511 on higher real yields, but argued the US cannot tolerate elevated yields for long with a ~$2 trillion deficit. It raised its 2029 forecast to $4,600, with mining margins well above historical averages.",
+      "url": "https://www.kitco.com/news/article/2026-10-14/golds-weakness-buying-opportunity-jefferies-sees-5000-price-2027-healthy",
+      "source": "Kitco",
+      "source_domain": "kitco.com",
+      "publisher_id": "kitco",
+      "published_at": "2026-10-14T15:07:58Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/3e689727f6e10a5a.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
       "rank": 2
+    },
+    {
+      "id": "7b0f3c66466776e5",
+      "title": "Gold prices hold firm ahead of US inflation data",
+      "summary": "Gold held near $4,159 an ounce ahead of US September CPI as investors weighed NY Fed President John Williams' remarks: one more 2026 hike may be appropriate, but no further tightening should be needed in 2027. Markets priced a ~23% chance of an October hike and ~88% for December. Fed Governor Christopher Waller said rising yields reflected stronger growth, not higher inflation expectations.",
+      "url": "https://www.reuters.com/world/india/gold-prices-hold-firm-ahead-us-inflation-data-2026-10-14/",
+      "source": "Reuters",
+      "source_domain": "reuters.com",
+      "publisher_id": "reuters",
+      "published_at": "2026-10-14T04:00:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 3
+    },
+    {
+      "id": "e23e2fd0609fc492",
+      "title": "Can gold hold $4,000 with an October rate hike still in play?",
+      "summary": "TD Securities' Ryan McKay said gold should hold the $4,000 pivot even with an October Fed hike in play, on robust ETF inflows, central-bank demand and macro positions in the $4,000–4,100 region. Hotter-than-expected CPI lifted real yields and dragged gold below near-term support as funds cut longs after the failed $4,200 break. The Fed traditionally avoids moving rates just before elections.",
+      "url": "https://www.kitco.com/news/article/2026-10-14/can-gold-hold-4000-october-rate-hike-still-play",
+      "source": "Kitco",
+      "source_domain": "kitco.com",
+      "publisher_id": "kitco",
+      "published_at": "2026-10-14T13:19:17Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/e23e2fd0609fc492.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "fed",
+        "global",
+        "central-banks"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 4
+    },
+    {
+      "id": "9cdd8398e1ac32b7",
+      "title": "Bank of America sees gold below $4,000 in Q4 as demand softens",
+      "summary": "Bank of America's October 12 note expects gold below $4,000 over the next three months and a $4,000 fourth-quarter average, rising to $4,750 in Q1 2027 and $5,000 in Q2–Q3 2027. Key-buyer purchases fell 16.6% year-on-year — Indian imports plunged 77.8% while China’s rose 39.3% — and record ETF holdings could add selling pressure. Gold may bottom only once the Fed exits its tightening cycle.",
+      "url": "https://beincrypto.com/bank-of-america-gold-price-target-end-of-2026/",
+      "source": "BeInCrypto",
+      "source_domain": "beincrypto.com",
+      "publisher_id": "beincrypto",
+      "published_at": "2026-10-14T21:19:48Z",
+      "image_url": "https://assets.beincrypto.com/img/OdkLagfWRnjMX-_uzMZdJUK2Cx8=/1200x630/smart/filters:format(jpeg):quality(82)/7f3be3f9391246c988ae2eca64bbf5db",
+      "image_kind": "photo",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "global",
+        "fed",
+        "india",
+        "central-banks"
+      ],
+      "breaking": false,
+      "rank": 5
     },
     {
       "id": "427eec7b53138c3f",
@@ -132,7 +203,7 @@
         "global"
       ],
       "breaking": false,
-      "rank": 3
+      "rank": 6
     },
     {
       "id": "b09302f3fd5628b6",
@@ -155,34 +226,11 @@
         "fed"
       ],
       "breaking": false,
-      "rank": 4
-    },
-    {
-      "id": "6780fc7fc1daffdc",
-      "title": "DGFT Speeds Up Silver Imports Through IIBX & Nominated Agencies",
-      "summary": "DGFT’s Trade Notice No. 30/2026-27 (13 October 2026) introduced a simplified, expedited procedure for silver import authorisations covering specified ITC(HS) codes, excluding silver dore. Applicants must declare imports at the generally applicable duty rate and justify quantities; each authorisation is valid for six months. Silver must be procured only through IIBX or nominated banks and agencies.",
-      "url": "https://gjepc.org/news_detail.php?news=dgft-speeds-up-silver-imports-through-iibx-nominated-agencies-1",
-      "source": "GJEPC",
-      "source_domain": "gjepc.org",
-      "publisher_id": "gjepc",
-      "published_at": "2026-10-14T15:17:00Z",
-      "image_url": "https://gjepc.org/admin/images/news_images/1022620056_DGFT.jpg",
-      "image_kind": "photo",
-      "category": "policy",
-      "metals": [
-        "silver"
-      ],
-      "tags": [
-        "silver",
-        "india",
-        "import-duty"
-      ],
-      "breaking": false,
-      "rank": 5
+      "rank": 7
     },
     {
       "id": "1ad49b2f84031aed",
-      "rank": 6,
+      "rank": 8,
       "title": "Silver futures plunge 4% on MCX ahead of US CPI; rising oil adds pressure",
       "summary": "December silver futures on the MCX fell 3.68% to Rs 2,11,143 per kg, touching an intraday low of Rs 2,10,817, as a stronger dollar, rising crude and caution around US inflation data weighed on sentiment. Spot silver slid 4.16% to $56.97 an ounce, while Brent crude held near $105.81 a barrel.",
       "url": "https://economictimes.indiatimes.com/markets/commodities/silver-futures-plunge-4-on-mcx-ahead-of-us-cpi-rising-oil-adds-pressure/articleshow/134946048.cms",
@@ -205,7 +253,7 @@
     },
     {
       "id": "4a9b0d362dbc5a35",
-      "rank": 7,
+      "rank": 9,
       "title": "Gold prices fall 1 percent on MCX as rupee's sharp appreciation weighs on bullion",
       "summary": "Gold traded weak on October 14 as the rupee's sharp appreciation against the dollar pressured domestic bullion ahead of the US CPI release. MCX spot gold slipped 1.03% to Rs 1,45,615 per 10 grams while December futures eased 0.33% to Rs 1,47,956; international spot gold held just above $4,150 an ounce. LKP Securities' Jateen Trivedi said the US inflation reading would set bullion's near-term direc",
       "url": "https://www.moneycontrol.com/news/business/personal-finance/gold-prices-fall-1-percent-on-mcx-as-rupee-s-sharp-appreciation-weighs-on-bullion-14052168.html",
@@ -228,49 +276,29 @@
       "breaking": false
     },
     {
-      "id": "5d060e59597d21bf",
-      "title": "RBI sets ₹14,725 premature redemption price for SGB 2019-20 Series V",
-      "summary": "The Reserve Bank of India has fixed the premature redemption price of Sovereign Gold Bond 2019-20 Series V at ₹14,725 per unit for the redemption due on October 15, 2026. The price is the simple average of IBJA's 999-purity gold closing prices over the three business days before redemption. The tranche was issued in October 2019; the request window for this cycle closed on October 5.",
-      "url": "https://rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63807",
-      "source": "RBI",
-      "source_domain": "rbi.org.in",
-      "publisher_id": "rbi",
-      "published_at": "2026-10-14T06:00:00Z",
+      "id": "00b8bda630589a56",
+      "title": "Lemonn adds commodity derivatives, enters MCX with six metals and energy contracts",
+      "summary": "Lemonn (Nu Investors Technologies) launched commodity futures and options on MCX covering gold and silver, copper, zinc, aluminium, crude oil and natural gas. Co-founder Ashish Singhal said it brings exchange-traded derivatives onto one platform. India's commodity-derivatives turnover hit ₹183.3 lakh crore in FY26, per SEBI; agri and electricity contracts are planned pending approvals.",
+      "url": "https://www.thehindubusinessline.com/markets/lemonn-adds-commodity-derivatives-enters-mcx-with-six-metals-and-energy-contracts/article71583703.ece",
+      "source": "The Hindu BusinessLine",
+      "source_domain": "thehindubusinessline.com",
+      "publisher_id": "hindu-businessline",
+      "published_at": "2026-10-14T13:03:22Z",
       "image_url": null,
       "image_kind": "none",
-      "category": "policy",
-      "metals": [
-        "gold"
-      ],
       "tags": [
         "gold",
-        "rbi",
+        "silver",
+        "mcx",
         "india"
       ],
-      "breaking": false,
-      "rank": 8
-    },
-    {
-      "id": "247151cb690ae4e2",
-      "rank": 9,
-      "title": "Pralhad Joshi Launches Silver Refinery Certification Scheme",
-      "summary": "Consumer Affairs Minister Pralhad Joshi launched a BIS certification scheme for silver refineries and mints at a World Standards Day event in New Delhi. Under the scheme, BIS will license qualified facilities, bringing silver bullion and coins under hallmarking-style purity and traceability checks; he also announced seven new Indian Standards and a Digital Standard Reader.",
-      "url": "https://money.rediff.com/news/market/pralhad-joshi-launches-silver-refinery-certification-scheme/56235520261014",
-      "source": "Rediff",
-      "source_domain": "rediff.com",
-      "publisher_id": "rediff",
-      "published_at": "2026-10-14T14:52:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/247151cb690ae4e2.jpg",
-      "image_kind": "photo",
-      "category": "policy",
+      "category": "mcx",
       "metals": [
+        "gold",
         "silver"
       ],
-      "tags": [
-        "silver",
-        "india"
-      ],
-      "breaking": false
+      "breaking": false,
+      "rank": 10
     },
     {
       "id": "e8d8856cc12c9a55",
@@ -295,57 +323,79 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 10
-    },
-    {
-      "id": "66f961422fb4e53f",
-      "title": "Gold Jewellery Demand Recovers as Prices Ease",
-      "summary": "Gold jewellery demand is recovering as prices ease from record highs, with buyers resuming purchases they had postponed. Sales at Delhi's Dariba Kalan market rose nearly 20%. In the June quarter, Kalyan Jewellers' India revenue grew over 38% with same-store sales up 28%, while Titan and Senco Gold also reported strong growth.",
-      "url": "https://www.indianjeweller.in/Indian-Jewellery-News/16560/gold-jewellery-demand-recovers-as-prices-ease",
-      "source": "Indian Jeweller",
-      "source_domain": "indianjeweller.in",
-      "publisher_id": "indian-jeweller",
-      "published_at": "2026-10-14T08:00:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "jewellery",
-        "india"
-      ],
-      "category": "festive",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
       "rank": 11
     },
     {
-      "id": "a3cd08cb291eba03",
-      "title": "Gold jewellery demand may weaken this festive season as buyers turn to diamonds, lighter designs",
-      "summary": "High gold prices and soft rural demand may dampen gold jewellery buying this festive season, CNBC-TV18 reports, with shoppers leaning toward diamonds and lighter, lower-weight designs instead of heavy gold pieces.",
-      "url": "https://www.cnbctv18.com/market/commodities/gold-jewellery-demand-may-weaken-this-festive-season-as-buyers-turn-to-diamonds-lighter-designs-20011811.htm",
-      "source": "CNBC-TV18",
-      "source_domain": "cnbctv18.com",
-      "publisher_id": "cnbc-tv18",
-      "published_at": "2026-10-14T11:11:00Z",
-      "category": "festive",
+      "id": "6780fc7fc1daffdc",
+      "title": "DGFT Speeds Up Silver Imports Through IIBX & Nominated Agencies",
+      "summary": "DGFT’s Trade Notice No. 30/2026-27 (13 October 2026) introduced a simplified, expedited procedure for silver import authorisations covering specified ITC(HS) codes, excluding silver dore. Applicants must declare imports at the generally applicable duty rate and justify quantities; each authorisation is valid for six months. Silver must be procured only through IIBX or nominated banks and agencies.",
+      "url": "https://gjepc.org/news_detail.php?news=dgft-speeds-up-silver-imports-through-iibx-nominated-agencies-1",
+      "source": "GJEPC",
+      "source_domain": "gjepc.org",
+      "publisher_id": "gjepc",
+      "published_at": "2026-10-14T15:17:00Z",
+      "image_url": "https://gjepc.org/admin/images/news_images/1022620056_DGFT.jpg",
+      "image_kind": "photo",
+      "category": "policy",
       "metals": [
-        "gold"
+        "silver"
       ],
       "tags": [
-        "gold",
+        "silver",
         "india",
-        "jewellery"
+        "import-duty"
       ],
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/a3cd08cb291eba03.jpg",
-      "image_kind": "photo",
       "breaking": false,
       "rank": 12
     },
     {
+      "id": "5d060e59597d21bf",
+      "title": "RBI sets ₹14,725 premature redemption price for SGB 2019-20 Series V",
+      "summary": "The Reserve Bank of India has fixed the premature redemption price of Sovereign Gold Bond 2019-20 Series V at ₹14,725 per unit for the redemption due on October 15, 2026. The price is the simple average of IBJA's 999-purity gold closing prices over the three business days before redemption. The tranche was issued in October 2019; the request window for this cycle closed on October 5.",
+      "url": "https://rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63807",
+      "source": "RBI",
+      "source_domain": "rbi.org.in",
+      "publisher_id": "rbi",
+      "published_at": "2026-10-14T06:00:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "policy",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "rbi",
+        "india"
+      ],
+      "breaking": false,
+      "rank": 13
+    },
+    {
+      "id": "247151cb690ae4e2",
+      "rank": 14,
+      "title": "Pralhad Joshi Launches Silver Refinery Certification Scheme",
+      "summary": "Consumer Affairs Minister Pralhad Joshi launched a BIS certification scheme for silver refineries and mints at a World Standards Day event in New Delhi. Under the scheme, BIS will license qualified facilities, bringing silver bullion and coins under hallmarking-style purity and traceability checks; he also announced seven new Indian Standards and a Digital Standard Reader.",
+      "url": "https://money.rediff.com/news/market/pralhad-joshi-launches-silver-refinery-certification-scheme/56235520261014",
+      "source": "Rediff",
+      "source_domain": "rediff.com",
+      "publisher_id": "rediff",
+      "published_at": "2026-10-14T14:52:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/247151cb690ae4e2.jpg",
+      "image_kind": "photo",
+      "category": "policy",
+      "metals": [
+        "silver"
+      ],
+      "tags": [
+        "silver",
+        "india"
+      ],
+      "breaking": false
+    },
+    {
       "id": "1689cf383bb3b28e",
-      "rank": 13,
+      "rank": 15,
       "title": "Gold worth millions seized in three smuggling bids on UAE-Delhi routes",
       "summary": "Three gold-smuggling attempts on UAE-India air routes were foiled in recent weeks, including 6.5 kg valued at about Dh3.8 million hidden under aircraft seats and two October 10 seizures at Delhi airport — 241 grams concealed in trolley-bag linings and gold paste worth about Dh323,000 hidden in socks. The report notes unofficial gold inflows to India have risen since tariff cuts, even as official n",
       "url": "https://www.thenationalnews.com/news/uae/2026/10/14/india-gold-smuggling-uae-passengers/",
@@ -387,7 +437,53 @@
       "breaking": false,
       "summary": "Kanpur police are probing a fake-hallmarking racket ahead of Dhanteras and Diwali: 25–30 laser engraving machines allegedly misused to print counterfeit BIS hallmarks on jewellery. The probe began after a woman was caught selling a chain with an 18-carat hallmark holding only about 10% gold. BIS now shows jewellery photographs alongside HUID numbers in its BIS Care app for verification.",
       "id": "e7af455ea9d20e98",
-      "rank": 14
+      "rank": 16
+    },
+    {
+      "id": "66f961422fb4e53f",
+      "title": "Gold Jewellery Demand Recovers as Prices Ease",
+      "summary": "Gold jewellery demand is recovering as prices ease from record highs, with buyers resuming purchases they had postponed. Sales at Delhi's Dariba Kalan market rose nearly 20%. In the June quarter, Kalyan Jewellers' India revenue grew over 38% with same-store sales up 28%, while Titan and Senco Gold also reported strong growth.",
+      "url": "https://www.indianjeweller.in/Indian-Jewellery-News/16560/gold-jewellery-demand-recovers-as-prices-ease",
+      "source": "Indian Jeweller",
+      "source_domain": "indianjeweller.in",
+      "publisher_id": "indian-jeweller",
+      "published_at": "2026-10-14T08:00:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "jewellery",
+        "india"
+      ],
+      "category": "festive",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 17
+    },
+    {
+      "id": "a3cd08cb291eba03",
+      "title": "Gold jewellery demand may weaken this festive season as buyers turn to diamonds, lighter designs",
+      "summary": "High gold prices and soft rural demand may dampen gold jewellery buying this festive season, CNBC-TV18 reports, with shoppers leaning toward diamonds and lighter, lower-weight designs instead of heavy gold pieces.",
+      "url": "https://www.cnbctv18.com/market/commodities/gold-jewellery-demand-may-weaken-this-festive-season-as-buyers-turn-to-diamonds-lighter-designs-20011811.htm",
+      "source": "CNBC-TV18",
+      "source_domain": "cnbctv18.com",
+      "publisher_id": "cnbc-tv18",
+      "published_at": "2026-10-14T11:11:00Z",
+      "category": "festive",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
+      ],
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/a3cd08cb291eba03.jpg",
+      "image_kind": "photo",
+      "breaking": false,
+      "rank": 18
     }
   ]
 }
