@@ -1,63 +1,94 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-16T11:00Z",
-  "generated_at": "2026-10-16T11:04:20Z",
+  "edition_id": "2026-10-16T12:00Z",
+  "generated_at": "2026-10-16T12:06:21Z",
   "window": {
-    "from": "2026-10-16T10:00:00Z",
-    "to": "2026-10-16T11:00:00Z"
+    "from": "2026-10-16T11:00:00Z",
+    "to": "2026-10-16T12:00:00Z"
   },
   "insights": {
-    "headline": "Gold holds near $4,200 as softer dollar and falling yields outweigh hot US inflation data",
-    "summary": "Spot gold traded near $4,186 on Friday as a weaker dollar and retreating Treasury yields kept the rebound alive despite September's hot CPI (3.7% YoY) and PPI (6.3% YoY). Fed Chair Warsh gave no signal on the October 27-28 meeting in Bangkok, leaving traders pricing only a 15% chance of an October hike. In India, the rupee posted its best week in seven months at 94.96 per dollar, capping MCX gains -- gold near Rs.1,47,700 and silver near Rs.2,11,600 -- while SEBI-directed curbs halted fresh gold and silver fund-of-funds subscriptions.",
+    "headline": "Gold nears $4,200 on soft dollar as fund houses freeze fresh gold FoF inflows",
+    "summary": "Gold pushed toward $4,200 on Friday as a softer dollar and falling Treasury yields outweighed hot US inflation, with New York futures up 0.7% to $4,200.80 after Fed Chair Warsh gave no signal on the October 27-28 meeting. In India, 17 mutual fund houses halted fresh investments in gold ETF fund-of-funds from October 16 on SEBI's nudge, while the rupee posted its best week in seven months and capped domestic gains. Silver outperformed, and India's gold market flipped back to a premium as festive demand met thinning supply.",
     "points": [
-      "Warsh declined to prejudge the October 27-28 meeting after September's hike to 3.75-4%, the first in three years. (Reuters)",
-      "Rupee gained 2% this week, its best in seven months, closing at 94.96/USD on RBI measures. (Economic Times)",
-      "Mutual funds halted fresh gold and silver FoF investments from Friday on SEBI's direction; ETFs stay open. (Business Standard)",
-      "Silver is the standout since last Dussehra: about +47% in rupee terms versus gold's ~26% and platinum's ~10.5%. (Mint)",
-      "India's gold market flipped back to a premium, signalling firmer domestic demand. (Finimize)"
+      "NY gold futures rose ~0.7% to $4,200.80; spot near $4,186 as hot CPI (3.7%) and PPI (6.3%) failed to trigger selling.",
+      "Warsh gave no October signal at the IMF meetings; traders price 15% for October, ~90% for a December hike.",
+      "17 fund houses halted fresh gold FoF inflows from Oct 16 on verbal SEBI instructions via AMFI; existing SIPs and redemptions unaffected.",
+      "Rupee gained ~2% for its best week in seven months (94.96/$), limiting MCX gains; MCX gold near Rs 147,700, silver Rs 211,600.",
+      "Silver outperformed: COMEX silver ~$57.85, gold-silver ratio ~73; India back to a ~$7/oz premium as festive buying met thin supply."
     ]
   },
   "trending": [
     {
-      "title": "Hot inflation, soft dollar: gold's tug of war",
-      "summary": "Hot US inflation would normally crush gold, but falling yields and a weaker dollar are winning for now -- though Warsh's silence keeps rate risk alive.",
+      "title": "SEBI's nudge freezes fresh gold FoF money",
+      "summary": "SEBI's verbal nudge via AMFI pushed 17 fund houses to halt fresh lump-sum, SIP and STP inflows into gold ETF fund-of-funds from Oct 16; existing SIPs, redemptions and exchange trading stay open.",
+      "item_ids": [
+        "b3f5b226c6071848"
+      ]
+    },
+    {
+      "title": "Gold's $4,200 test: soft dollar beats hot inflation",
+      "summary": "Soft dollar and a three-week low in 10-year yields lifted gold toward $4,200 and silver past $57.80 despite hot CPI (3.7%) and PPI (6.3%); Warsh silence kept December-hike bets near 90%.",
       "item_ids": [
         "92bac9d54f7ede63",
-        "a2af55756d0f990f",
-        "5b6ef69eef91c5f9"
+        "80aa88894c5f80ba"
       ]
     },
     {
-      "title": "Rupee relief caps domestic gold",
-      "summary": "The rupee's 2% weekly gain is cushioning Indian buyers from the global rally, muting MCX gains even as India's market flips to a premium.",
+      "title": "Rupee strength caps the domestic rebound",
+      "summary": "The rupee's ~2% weekly gain - its best in seven months, aided by RBI dollar sales - muted MCX gains versus COMEX; a strong rupee cheapens dollar-denominated imports, limiting Indian price upside.",
       "item_ids": [
         "e63c3f5fe487b052",
-        "80fab02634ff1d06",
-        "5704676e2e9c2cc0"
+        "80fab02634ff1d06"
       ]
     },
     {
-      "title": "Regulators lean on gold demand",
-      "summary": "SEBI-directed FoF curbs aim to restrain import demand and ease rupee pressure -- a policy brake on investment flows ahead of the festive peak.",
-      "item_ids": [
-        "b3f5b226c6071848",
-        "5704676e2e9c2cc0"
-      ]
-    },
-    {
-      "title": "Festive scorecard: silver leads since Dussehra",
-      "summary": "Silver's 47% rupee rally since last Dussehra tops gold and platinum, but its wild swing from the January peak is a reminder of its volatility.",
+      "title": "Silver's festive outperformance",
+      "summary": "Silver is the standout since last Dussehra (+47% in rupee terms vs gold's ~26%), reclaiming $57.50 resistance on a sixth straight annual supply deficit; volatility stays extreme.",
       "item_ids": [
         "0625dfd1454527c7",
-        "b5c7af6655ab2f76",
         "a4aa7210568e38f7"
+      ]
+    },
+    {
+      "title": "Analysts split: buy the dip or sell the rally?",
+      "summary": "Sharekhan advises selling into rallies ($4,100/$4,066 support, $4,245/$4,280 resistance) while haven flows from the AI-stock selloff keep dips bid - range-bound until the Fed path clears.",
+      "item_ids": [
+        "5b6ef69eef91c5f9",
+        "092f9196070c1caa"
       ]
     }
   ],
   "items": [
     {
-      "id": "92bac9d54f7ede63",
+      "id": "b3f5b226c6071848",
       "rank": 1,
+      "title": "Mutual funds halt fresh gold FoF investments on SEBI nudge; 17 fund houses pause new inflows",
+      "summary": "Seventeen fund houses - ICICI Prudential, HDFC, Kotak, UTI, Tata, DSP and others - halted fresh lump-sum investments, new SIP/STP registrations and top-ups in gold ETF fund-of-funds from October 16 on verbal SEBI instructions via AMFI. Existing SIPs continue, redemptions stay open, and ETFs remain tradable on exchanges. September gold-ETF inflows: Rs 4,450.61 crore, up 71% from August (AMFI).",
+      "url": "https://www.business-standard.com/markets/mutual-fund/mutual-funds-halt-fresh-investments-gold-funds-of-funds-126101600333_1.html",
+      "source": "Business Standard",
+      "source_domain": "business-standard.com",
+      "publisher_id": "business-standard",
+      "published_at": "2026-10-16T05:30:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/b3f5b226c6071848.jpg",
+      "image_kind": "photo",
+      "category": "policy",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "india"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://www.reuters.com/world/india/indian-mutual-funds-stop-bulk-subscriptions-gold-etfs-ahead-festive-season-2026-10-15/"
+      ]
+    },
+    {
+      "id": "92bac9d54f7ede63",
+      "rank": 2,
       "title": "Gold Rises on Softer U.S. Dollar",
       "summary": "Gold pushed toward $4,200 on Friday as a softer dollar and falling Treasury yields outweighed hot US inflation: New York futures rose about 0.7% to $4,200.80 while spot traded near $4,186. The hot CPI and PPI failed to trigger fresh selling after Fed Chair Warsh gave no signal on the October 27-28 meeting; traders now price a 15% chance of an October hike and about 90% for December.",
       "url": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-investors-await-fed-chairmans-remarks-f12f0c32",
@@ -80,31 +111,35 @@
       "breaking": false
     },
     {
-      "id": "a2af55756d0f990f",
-      "rank": 2,
-      "title": "Fed's Warsh gives no hint on October policy decision",
-      "summary": "At the IMF-World Bank annual meetings in Bangkok, Fed Chair Kevin Warsh said he does not 'prejudge' meetings and gave no preview of the October 27-28 rate decision, after September's quarter-point hike to 3.75-4% -- the first increase in three years. With September CPI running hot at 3.7% year-on-year, markets remain on edge over the timing of the next hike, a key swing factor for gold.",
-      "url": "https://www.reuters.com/markets/asia/feds-warsh-gives-no-hint-october-policy-decision-2026-10-16/",
-      "source": "Reuters",
-      "source_domain": "reuters.com",
-      "publisher_id": "reuters",
-      "published_at": "2026-10-16T04:30:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "global",
+      "rank": 3,
+      "id": "80fab02634ff1d06",
+      "category": "mcx",
       "metals": [
-        "gold"
+        "gold",
+        "silver"
       ],
+      "title": "Gold, Silver rebound on softer Dollar and falling yields; domestic gains capped by Rupee strength",
+      "summary": "COMEX gold held just below $4,200 (+0.57%) after dipping under $4,100 this week; silver outperformed, up 1.23% at ~$57.85, gold-silver ratio easing to ~73. On MCX, gold held near Rs 147,700 (+0.13%) and silver at Rs 211,600 (+0.45%) as a firmer rupee (USD/INR ~94.76) capped domestic gains; a three-week low in 10-year yields powered the rebound while 3.7% CPI kept hike bets alive.",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-silver-rebound-on-softer-dollar-and-falling-yields-domestic-gains-capped-by-rupee-strength/article71591618.ece",
+      "source": "The Hindu BusinessLine",
+      "source_domain": "thehindubusinessline.com",
+      "publisher_id": "hindu-businessline",
+      "published_at": "2026-10-16T08:48:00Z",
       "tags": [
         "gold",
-        "global",
+        "silver",
+        "mcx",
+        "comex",
+        "rupee",
         "fed"
       ],
-      "breaking": false
+      "breaking": false,
+      "image_url": null,
+      "image_kind": "none"
     },
     {
       "id": "e63c3f5fe487b052",
-      "rank": 3,
+      "rank": 4,
       "title": "Rupee posts best week in seven months, fundamentals key for lasting turnaround",
       "summary": "The rupee gained 2% this week -- its biggest weekly rise in seven months -- closing at 94.96 per dollar, helped by RBI measures including redirecting oil dollar demand and capping undocumented dollar purchases at $5 million. HSBC expects the pair capped in the near term but still sees 96 by year-end, and India's September merchandise trade deficit widened to $30.21 billion.",
       "url": "https://economictimes.indiatimes.com/markets/forex/rupee-posts-best-week-in-seven-months-fundamentals-key-for-lasting-turnaround/articleshow/134991672.cms",
@@ -128,58 +163,27 @@
       "breaking": false
     },
     {
-      "rank": 4,
-      "id": "80fab02634ff1d06",
-      "category": "mcx",
+      "id": "a2af55756d0f990f",
+      "rank": 5,
+      "title": "Fed's Warsh gives no hint on October policy decision",
+      "summary": "At the IMF-World Bank annual meetings in Bangkok, Fed Chair Kevin Warsh said he does not 'prejudge' meetings and gave no preview of the October 27-28 rate decision, after September's quarter-point hike to 3.75-4% -- the first increase in three years. With September CPI running hot at 3.7% year-on-year, markets remain on edge over the timing of the next hike, a key swing factor for gold.",
+      "url": "https://www.reuters.com/markets/asia/feds-warsh-gives-no-hint-october-policy-decision-2026-10-16/",
+      "source": "Reuters",
+      "source_domain": "reuters.com",
+      "publisher_id": "reuters",
+      "published_at": "2026-10-16T04:30:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "global",
       "metals": [
-        "gold",
-        "silver"
+        "gold"
       ],
-      "title": "Gold, Silver rebound on softer Dollar and falling yields; domestic gains capped by Rupee strength",
-      "summary": "COMEX gold traded just below $4,200 (+0.57%) after dipping under $4,100 earlier in the week for the first time since early August; silver outperformed, up 1.23% at about $57.85, with the gold-silver ratio easing to around 73. Thursday's 10-year Treasury yield drop to a three-week low powered the rebound, though September CPI at 3.7% kept hike bets alive ahead of Warsh's IMF remarks and the",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-silver-rebound-on-softer-dollar-and-falling-yields-domestic-gains-capped-by-rupee-strength/article71591618.ece",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "publisher_id": "hindu-businessline",
-      "published_at": "2026-10-16T08:48:00Z",
       "tags": [
         "gold",
-        "silver",
-        "mcx",
-        "comex",
-        "rupee",
+        "global",
         "fed"
       ],
-      "breaking": false,
-      "image_url": null,
-      "image_kind": "none"
-    },
-    {
-      "id": "b3f5b226c6071848",
-      "rank": 5,
-      "title": "Mutual funds halt fresh investments in gold FoFs amid rupee pressure",
-      "summary": "Mutual funds have stopped fresh investments in gold fund-of-funds from Friday on SEBI's direction, amid current-account and rupee concerns; new SIP, lump-sum and switch registrations are suspended while existing SIPs continue. Some houses extended curbs to silver FoFs, but ETFs stay open. Officials said the curbs aim to restrain gold-import demand, not signal a bearish view.",
-      "url": "https://www.business-standard.com/markets/mutual-fund/mutual-funds-halt-fresh-investments-gold-funds-of-funds-126101600333_1.html",
-      "source": "Business Standard",
-      "source_domain": "business-standard.com",
-      "publisher_id": "business-standard",
-      "published_at": "2026-10-16T05:30:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/b3f5b226c6071848.jpg",
-      "image_kind": "photo",
-      "category": "policy",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "india"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://www.business-standard.com/markets/news/gold-etfs-hold-firm-gain-up-to-1-despite-mutual-fund-investment-curbs-126101600295_1.html"
-      ]
+      "breaking": false
     },
     {
       "rank": 6,
@@ -304,29 +308,6 @@
     },
     {
       "rank": 11,
-      "id": "092f9196070c1caa",
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "title": "Gold price rallies as lower yields, AI stock selloff fuel haven demand",
-      "summary": "Gold rose as much as 1.8% to near $4,180 as a tech-led equity selloff drove investors into bonds, pushing Treasury yields to multi-week lows; silver also gained. The advance was partly pared after hot September PPI and retail sales. Forex.com's Fawad Razaqzada said he'd be reluctant to call the correction over, keeping a modestly bearish near-term view ahead of Warsh's remarks.",
-      "url": "https://www.mining.com/web/gold-price-rallies-as-lower-yields-ai-stock-selloff-fuel-haven-demand/",
-      "source": "MINING.COM",
-      "source_domain": "mining.com",
-      "publisher_id": "mining-com",
-      "published_at": "2026-10-15T15:00:00Z",
-      "tags": [
-        "gold",
-        "global",
-        "fed"
-      ],
-      "breaking": false,
-      "image_url": "https://www.mining.com/wp-content/uploads/2026/09/Gold-bars-Adobe-Couperfield-1-1.jpeg",
-      "image_kind": "photo"
-    },
-    {
-      "rank": 12,
       "id": "b5c7af6655ab2f76",
       "category": "festive",
       "metals": [
@@ -346,6 +327,29 @@
       ],
       "breaking": false,
       "image_url": "https://assets.upstox.com/content/assets/images/news/gold-festive-season-stocks.webp",
+      "image_kind": "photo"
+    },
+    {
+      "rank": 12,
+      "id": "092f9196070c1caa",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "title": "Gold price rallies as lower yields, AI stock selloff fuel haven demand",
+      "summary": "Gold rose as much as 1.8% to near $4,180 as a tech-led equity selloff drove investors into bonds, pushing Treasury yields to multi-week lows; silver also gained. The advance was partly pared after hot September PPI and retail sales. Forex.com's Fawad Razaqzada said he'd be reluctant to call the correction over, keeping a modestly bearish near-term view ahead of Warsh's remarks.",
+      "url": "https://www.mining.com/web/gold-price-rallies-as-lower-yields-ai-stock-selloff-fuel-haven-demand/",
+      "source": "MINING.COM",
+      "source_domain": "mining.com",
+      "publisher_id": "mining-com",
+      "published_at": "2026-10-15T15:00:00Z",
+      "tags": [
+        "gold",
+        "global",
+        "fed"
+      ],
+      "breaking": false,
+      "image_url": "https://www.mining.com/wp-content/uploads/2026/09/Gold-bars-Adobe-Couperfield-1-1.jpeg",
       "image_kind": "photo"
     }
   ]
