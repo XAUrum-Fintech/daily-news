@@ -1,21 +1,21 @@
-# Gold & Silver for Indian buyers · 2026-10-17T03:00Z
+# Gold & Silver for Indian buyers · 2026-10-17T04:00Z
 
-> Brent tops $110 for first time since May; RBI gold reserves dip as MCX bullion rebounds.
+> Brent tops $110 for first time since May; MCX bullion rebounds as Fed-pause bets firm.
 
-Brent crude climbed 3.7% to $110 a barrel, its first print there since May, as Houthi strikes on Saudi Arabia and Russia-Ukraine energy attacks kept supply risks high, feeding the inflation expectations that support bullion. The RBI's weekly data showed India's forex reserves fell $8.58 billion to $726.03 billion, with gold reserves down $1.32 billion to $105.09 billion. On MCX, gold futures reclaimed ₹1.48 lakh per 10 grams and silver crossed ₹2.13 lakh per kilogram as a softer dollar and lower US yields steadied prices, while TD Securities flagged CTA short-covering across precious metals.
+Spot gold held near $4,168 on Friday as a weaker dollar and falling Treasury yields offset a $110 Brent crude shock from Houthi strikes on Aramco; silver recovered toward $57-$58. In India, MCX gold futures reclaimed Rs 1.48 lakh per 10 grams and silver crossed Rs 2.13 lakh per kilogram, while the RBI fixed the SGB 2020-21 Series VII premature redemption price at Rs 14,614 ahead of the Oct 19 window. FXEmpire's weekly read flags $4,226 as the decisive level for a bullish gold reversal, with $4,066 as the support to hold.
 
-- Brent +3.7% to $110 — first time since May — as Houthi strikes and Russia–Ukraine energy attacks keep supply risks high.
-- RBI: forex reserves −$8.58B to $726.03B in the week ended Oct 9; gold reserves −$1.32B to $105.09B.
-- MCX: gold futures above ₹1.48 lakh/10g (+₹1,000); silver past ₹2.13 lakh/kg (+₹2,500); spot gold near $4,170.
-- Silver ~$57.80; TD Securities notes CTA short-covering in silver, platinum and palladium, easing systematic pressure.
-- Markets price a 72% chance of an October Fed hold and 92% odds of a December hike after hot US CPI.
+- Brent +3.7% to $110 - first time since May - as Houthi strikes on Aramco and Russia-Ukraine energy attacks keep supply risks high.
+- MCX gold above Rs 1.48 lakh/10g (+Rs 1,000); silver past Rs 2.13 lakh/kg (+Rs 2,500); hot US CPI keeps December Fed hike odds priced.
+- FXEmpire's weekly read: higher weekly high/low hints at reversal; a decisive break above $4,226 confirms it; $4,066 support is key.
+- Gold FoF fresh subscriptions halted on SEBI's direction before Diwali; existing SIPs and direct ETF buying continue.
+- India flipped to a gold premium up to $7/oz as lower prices revived jewellery demand.
 
 ## Trending
-- **Oil's supply shock reframes the bullion trade**: Brent's first $110 print since May — on Houthi strikes and Russia–Ukraine energy attacks — is feeding the inflation expectations that underpin gold, even as Fed-hike pricing caps the rebound. (stories 1, 7)
-- **The rupee decides what India pays**: India's reserves fell for a second straight week as MCX gold and silver bounced with the softer dollar — the exchange rate remains the bridge between global rallies and Indian prices. (stories 2, 3)
+- **Oil's supply shock reframes the bullion trade**: Brent's first $110 print since May - on Houthi strikes and Russia-Ukraine energy attacks - is feeding the inflation expectations that underpin gold, even as Fed-hike pricing caps the rebound. (stories 1, 7)
+- **The rupee decides what India pays**: India's reserves fell for a second straight week as MCX gold and silver bounced with the softer dollar - the exchange rate remains the bridge between global rallies and Indian prices. (stories 2, 3)
 - **Silver finds a positioning floor**: CTA short-covering is easing systematic pressure on silver near $57.80, though analysts say $58.80 and $62.50 remain the key resistance hurdles. (stories 4, 9)
-- **Festive demand, throttled fund flows**: Jewellery demand is picking up as India swings to a gold premium, even as curbs push fresh gold FoF subscriptions out past Diwali. (stories 5, 8, 12)
-- **Fed-pause hopes wrestle with crude**: Hopes of a Fed pause on a softer dollar and lower yields are colliding with surging crude — the divergence now defining gold and silver's next move. (stories 7, 10)
+- **Festive demand, throttled fund flows**: Jewellery demand is picking up as India swings to a gold premium, even as curbs push fresh gold FoF subscriptions out past Diwali. (stories 5, 8, 13)
+- **Fed-pause hopes wrestle with crude**: Hopes of a Fed pause on a softer dollar and lower yields are colliding with surging crude - and FXEmpire now sees a decisive break above $4,226 as the trigger for a bullish gold reversal. (stories 7, 11, 10)
 
 ## Stories
 1. [Brent crude hits $110 a barrel for first time since May as supply concerns mount](https://www.thehindubusinessline.com/markets/commodities/brent-crude-hits-110-a-barrel-for-first-time-since-may-as-supply-concerns-mount/article71594804.ece) — *The Hindu BusinessLine*, Oct 16, 2026 23:41Z
@@ -36,9 +36,11 @@ Brent crude climbed 3.7% to $110 a barrel, its first print there since May, as H
    Dealers quoted premiums of up to $7 an ounce over official domestic prices this week — India's first premium in over three months — against discounts of up to $6 last week, as lower prices revived jewellery buying. Domestic gold sat near ₹148,200 per 10 grams Friday after a two-week low of ₹145,627. September imports collapsed to $1.8 billion from $9.6 billion a year earlier.
 9. [Why silver is falling faster than gold: What it means for the next surge](https://www.kitco.com/opinion/2026-10-16/why-silver-falling-faster-gold-what-it-means-next-surge) — *Kitco*, Oct 16, 2026 20:49Z
    CPM Group's Jeffrey Christian notes gold consolidating in a $4,050-$4,200 range while silver has broken below $60 to trade near $55.77, arguing silver's larger industrial-demand share and substitution pressure at high prices explain its steeper fall. He flags the risk of a sharper selloff being followed by strong investment demand and a decisive break above $4,200 for gold.
-10. [Gold stuck near $4,160–$4,180 resistance as rising oil and yields cap the rebound](https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-pulls-back-amid-rising-oil-prices-1638697) — *FXEmpire*, Oct 16, 2026 20:31Z
+10. [Gold (XAU/USD) Price Forecast: Bulls Face Crucial $4,226 Resistance](https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-bulls-face-crucial-4226-resistance-1638730) — *FXEmpire*, Oct 16, 2026 21:04Z
+   FXEmpire's weekly technical read: gold formed a higher weekly high and higher low, hinting at an attempted reversal of the bearish correction. A decisive move above $4,226 would confirm a bullish daily reversal; until then, holding support above $4,066 stays central. A breakout would project an ABCD measured move toward $4,821.
+11. [Gold stuck near $4,160–$4,180 resistance as rising oil and yields cap the rebound](https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-pulls-back-amid-rising-oil-prices-1638697) — *FXEmpire*, Oct 16, 2026 20:31Z
    FXEmpire's Vladimir Zernov: gold pulled back as traders focused on the oil rally (+3.5%) and rebounding yields — the 10-year topped 5.10% while the dollar weakened. Futures imply 17.2% October hike odds, but traders still price December/January hikes. Gold tests $4,160–$4,180 resistance (above $4,180 opens $4,300–$4,320); silver tests $56–$57; platinum flat near $1,600–$1,620.
-11. [Gold vs silver vs platinum: Which metal saw biggest rally since last Dussehra? Experts explain outlook](https://www.livemint.com/market/commodities/gold-vs-silver-vs-platinum-which-metal-saw-biggest-rally-since-last-dussehra-experts-explain-outlook-11792142307625.html) — *Mint*, Oct 16, 2026 10:40Z
+12. [Gold vs silver vs platinum: Which metal saw biggest rally since last Dussehra? Experts explain outlook](https://www.livemint.com/market/commodities/gold-vs-silver-vs-platinum-which-metal-saw-biggest-rally-since-last-dussehra-experts-explain-outlook-11792142307625.html) — *Mint*, Oct 16, 2026 10:40Z
    Silver is the standout since last Dussehra, up about 47% in rupee terms versus gold's ~26% and platinum's ~10.5%; the rupee's slide and the May duty rise to 15% lifted domestic returns. Silver swung wildly, up 155% by January and now 53% off its peak, so buyers near the top stay at a loss. Mint cites experts who see gold backed by central-bank buying, silver with higher upside but more volatility.
-12. [Titan, Senco Gold, Kalyan Jewellers, PC Jeweller: What makes this festive season different?](https://upstox.com/news/market-news/stocks/titan-senco-gold-kalyan-jewellers-pc-jeweller-what-makes-this-festive-season-different/article-201885/) — *Upstox*, Oct 15, 2026 21:00Z
+13. [Titan, Senco Gold, Kalyan Jewellers, PC Jeweller: What makes this festive season different?](https://upstox.com/news/market-news/stocks/titan-senco-gold-kalyan-jewellers-pc-jeweller-what-makes-this-festive-season-different/article-201885/) — *Upstox*, Oct 15, 2026 21:00Z
    Listed jewellers posted healthy Q2 FY27 growth — Titan jewellery +21% YoY, Kalyan India revenue +27%, Senco +31%, PC Jeweller consolidated +28% — though demand cooled late in the quarter as the festive calendar shifted into Q3. Jewellers remain upbeat on Diwali, Dhanteras and weddings, even as PM Modi's May 2026 appeal to defer gold buying and volatile prices keep volumes the key watch.
