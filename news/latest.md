@@ -1,20 +1,20 @@
-# Gold & Silver for Indian buyers · 2026-10-17T12:00Z
+# Gold & Silver for Indian buyers · 2026-10-17T14:00Z
 
 > Gold ends the week 0.7% lower near $4,165 as hot US inflation prices a 90% December Fed hike; India's premiums return.
 
-September's hot US CPI and a 1.3% PPI jump have convinced traders the Fed will hike in December, with CME FedWatch odds near 90%. Spot gold closed Friday around $4,165, down 0.7% on the week, while silver's 5.3% weekly slide was softened by a Friday rebound. In India, the price pullback pulled gold to a premium for the first time in over three months, though MCX gold still settled near Rs 1.48 lakh.
+September's hot US CPI and hot September PPI data have convinced traders the Fed will hike in December, with CME FedWatch odds near 90%. Spot gold closed Friday around $4,165, down 0.7% on the week, while silver's 5.3% weekly slide was softened by a Friday rebound. In India, the price pullback pulled gold to a premium for the first time in over three months, though MCX gold still settled near Rs 1.48 lakh.
 
-- CME FedWatch puts a December Fed hike near 90% after CPI hit 3.7% and PPI jumped 1.3%; an October move is largely ruled out.
+- CME FedWatch puts a December Fed hike near 90% after CPI hit 3.7% and PPI came in hot; an October move is largely ruled out.
 - Spot gold fell 0.7% on the week to $4,165; December COMEX futures settled at $4,181.10 as the dollar headed for its first weekly fall in five.
 - Silver was the week's most volatile metal, down 5.3% before rebounding to about $57 on Friday.
 - Indian gold traded at a premium for the first time in over three months as the pullback revived jewellery buying; MCX gold settled near Rs 1.48 lakh.
 - Policy watch: jewellery-export drawback rates cut, several gold FoFs halted fresh inflows before Diwali, RBI set an SGB redemption price.
 
 ## Trending
-- **The week's verdict: hot inflation repriced Fed risk**: September CPI at 3.7% and a 4.5-year-high PPI jump triggered the sharpest selloff of the week; Friday brought a partial rebound on a softer dollar and falling yields. (stories 1, 2, 11)
+- **The week's verdict: hot inflation repriced Fed risk**: September CPI at 3.7% and a 4.5-year-high PPI jump triggered the sharpest selloff of the week; Friday brought a partial rebound on a softer dollar and falling yields. (stories 1, 2)
 - **90% December: traders bet the Fed hikes by year-end**: Warsh stayed mum in Bangkok while colleagues Goolsbee and Hammack sounded hawkish; October-hold odds sit near 85% but December-hike odds are at ~90% on CME FedWatch. (stories 2, 4, 5)
 - **India: premiums return, demand softens on rebound**: Gold moved to a premium in India for the first time in three months, yet domestic demand slipped as prices bounced back; the RBI's $60bn six-week rupee defence also featured. (stories 2, 10, 7)
-- **Policy corner: drawback cuts, FoF halts, SGB price**: The government cut duty drawback rates on gold and silver jewellery exports, several gold FoFs stopped fresh subscriptions before Diwali, and the RBI fixed an SGB redemption price. (stories 9, 12, 13)
+- **Policy corner: drawback cuts, FoF halts, SGB price**: The government cut duty drawback rates on gold and silver jewellery exports, several gold FoFs stopped fresh subscriptions before Diwali, and the RBI fixed an SGB redemption price. (stories 9, 11, 12)
 
 ## Stories
 1. [Gold slips 0.5% on the week as hot US CPI revives hike bets; MCX gold settles near ₹1.48 lakh](https://hdfcsky.com/news/gold-falls-0-5percent-to-4177-82-as-hot-us-cpi-revives-fed-rate-hike-bets-silver-tumbles-5-3percent-before-friday-rebound) — *HDFCSky*, 2026-10-17T07:58:23Z
@@ -37,11 +37,9 @@ September's hot US CPI and a 1.3% PPI jump have convinced traders the Fed will h
    The Finance Ministry has cut duty drawback rates for jewellery exports: the rate for gold jewellery falls to Rs 1,794.11 per gram from Rs 1,851.99, and for silver jewellery to Rs 26,859.02 per kg from Rs 29,501.09, under a schedule notified on October 15, 2026. IBJA secretary Surendra Mehta attributed the adjustment to changes in precious-metal prices, since the rates are fixed in absolute terms.
 10. [Gold demand drops in India as prices rebound](https://www.thehindubusinessline.com/markets/gold/gold-demand-drops-in-india-as-prices-rebound/article71563050.ece) — *The Hindu BusinessLine*, 2026-10-17T00:02:00Z
    India's physical gold demand weakened as prices rebounded, with buyers pausing after the week's sharp moves. The pattern of demand cooling on price strength and returning on dips continues to shape domestic jewellery and investment buying.
-11. [Silver faces fresh inflation test after September PPI jumps 1.3%](https://www.fxempire.com/forecasts/article/silver-faces-fresh-inflation-test-after-september-ppi-jumps-1-3-1638420) — *FXEmpire*, 2026-10-15T14:00:00Z
-   Silver attempted to stabilize near $55-56 after September US producer prices rose 1.3% month-on-month, or 6.3% year-on-year. Persistent inflation could keep financing costs elevated, a headwind for non-yielding silver, while the metal's industrial use leaves it exposed to demand concerns.
-12. [Gold FoFs halt fresh investments before Diwali: what investors can do](https://www.business-standard.com/markets/news/gold-fofs-halt-fresh-investments-before-diwali-what-investors-can-do-126101601215_1.html) — *Business Standard*, 2026-10-16T14:01:17Z
+11. [Gold FoFs halt fresh investments before Diwali: what investors can do](https://www.business-standard.com/markets/news/gold-fofs-halt-fresh-investments-before-diwali-what-investors-can-do-126101601215_1.html) — *Business Standard*, 2026-10-16T14:01:17Z
    Gold fund-of-funds have halted fresh investments ahead of Diwali following SEBI's direction, pausing a popular route for retail gold exposure. The piece lays out what existing and prospective investors can do while subscriptions are frozen.
-13. [RBI sets premature redemption price for Sovereign Gold Bond 2020-21 Series VII at Rs 14,614](https://tradersunion.com/news/central-banks/show/3848473-sovereign-gold-bond-2020-series-vii-redemption-value/) — *Traders Union*, 2026-10-16T14:20:00Z
+12. [RBI sets premature redemption price for Sovereign Gold Bond 2020-21 Series VII at Rs 14,614](https://tradersunion.com/news/central-banks/show/3848473-sovereign-gold-bond-2020-series-vii-redemption-value/) — *Traders Union*, 2026-10-16T14:20:00Z
    The RBI has fixed the premature redemption price for the Sovereign Gold Bond 2020-21 Series VII at Rs 14,614 per gram. The price is based on the simple average of closing gold prices of 999 purity and applies to investors redeeming after the lock-in.
-14. [Gold vs silver vs platinum: which metal saw biggest rally since last Dussehra? Experts explain outlook](https://www.livemint.com/market/commodities/gold-vs-silver-vs-platinum-which-metal-saw-biggest-rally-since-last-dussehra-experts-explain-outlook-11792142307625.html) — *Mint*, 2026-10-16T10:40:00Z
+13. [Gold vs silver vs platinum: which metal saw biggest rally since last Dussehra? Experts explain outlook](https://www.livemint.com/market/commodities/gold-vs-silver-vs-platinum-which-metal-saw-biggest-rally-since-last-dussehra-experts-explain-outlook-11792142307625.html) — *Mint*, 2026-10-16T10:40:00Z
    Since last Dussehra, silver and platinum have outpaced gold's rally in percentage terms, with experts pointing to silver's industrial demand and tighter supply. With Diwali and the wedding season ahead, analysts expect festive buying to support all three metals, with gold remaining the anchor for jewellery demand.
