@@ -1,88 +1,60 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-17T18:00Z",
-  "generated_at": "2026-10-17T18:15:12Z",
+  "edition_id": "2026-10-17T20:00Z",
+  "generated_at": "2026-10-17T20:13:23Z",
   "window": {
-    "from": "2026-10-17T16:00:00Z",
-    "to": "2026-10-17T18:00:00Z"
+    "from": "2026-10-17T18:00:00Z",
+    "to": "2026-10-17T20:00:00Z"
   },
   "insights": {
-    "headline": "Gold imports plunge 81% to a 30-month low as policy rationing bites; Fed-hike bets pin bullion",
-    "summary": "Commerce Ministry data showed September gold imports down 81.3% year-on-year to $1.8 billion — a 30-month low — as the May duty hike and SEBI's gold fund-of-funds freeze ration demand ahead of Diwali. Hot US inflation (CPI 3.7%, PPI +6.3%) kept Fed-hike expectations elevated and capped gold near $4,145–4,195; silver, down more than half from January's $121.79 record, flashed slowdown warnings even as solar-cell makers barely passed on its slide since August.",
+    "headline": "Hot US inflation revives Fed hike bets; gold slips to ~$4,170, silver halves from January peak",
+    "summary": "September US inflation came in hotter than expected at 3.7%, reviving Fed rate-hike expectations and pushing gold down 0.5% on the week to about $4,178; on MCX, December gold settled near Rs 1.48 lakh per 10 grams. Silver was far weaker, tumbling more than 50% from its January record of $121.79 to about $57 as traders weighed recession signals. Back home, mutual funds halted fresh investments into gold fund-of-funds on SEBI's nudge before the festive season, while India's gold demand stayed sluggish.",
     "points": [
-      "September gold imports fell 81.3% YoY to $1.8B, a 30-month low; the $7.8B drop in the gold bill narrowed the trade deficit to $30.2B.",
-      "US September CPI 3.7% YoY (vs 3.6% forecast), PPI +6.3% YoY; experts see gold at ₹1.60 lakh/10g and silver at ₹2.40 lakh/kg by end-2026.",
-      "Silver fell from its $121.79 January record to $57.31, down more than half; gold is off over 25% from its $5,626.80 January record.",
-      "SEBI barred fresh lump-sum, SIP and STP flows into gold fund-of-funds from October 16; gold ETFs are untouched and existing SIPs continue.",
-      "RHB stays short COMEX gold from $4,284.80 (stop-loss $4,400) and warns of $4,000, then $3,800, if $4,200 resistance fails."
+      "US September CPI of 3.7% (vs 3.6% expected) revived Fed hike bets; gold slipped 0.5% on the week to ~$4,178, MCX Dec gold ~Rs 1.48 lakh/10g.",
+      "Silver has lost over half its value since January's $121.79 record, settling near $57; dealers see it as a slowdown signal.",
+      "SEBI-nudged fund houses halted fresh gold FoF investments; gold ETF inflows had jumped 71% in September to Rs 4,450.61 crore.",
+      "India's September gold imports plunged 81% YoY to $1.8 billion, a 30-month low, narrowing the trade deficit.",
+      "Domestic gold demand stayed sluggish pre-Diwali; discounts narrowed to $6/oz from $14 as imports fell."
     ]
   },
   "trending": [
     {
-      "title": "Policy is rationing gold before Diwali",
-      "summary": "SEBI froze gold fund-of-funds investments from October 16 while leaving gold ETFs open — a gap experts say investors can bypass — and September imports hit a 30-month low after the May duty hike.",
+      "title": "Fed hike bets whipsaw bullion",
+      "summary": "Hot September CPI (3.7%) briefly revived October hike bets, then Fed officials' remarks and a soft dollar walked them back; gold churned around $4,170 while MCX tracked the swings.",
       "item_ids": [
-        "867e35fc31e22824",
-        "4cf11b8d0d0e92cb"
+        "733aebc6b78ee08d",
+        "cb0981b0d8ccd137",
+        "bac55dd7dc5f388f"
       ]
     },
     {
-      "title": "Hot US inflation keeps the Fed-hike trade alive",
-      "summary": "September CPI at 3.7% and PPI up 6.3% year-on-year revived rate-hike bets; gold held near $4,145–4,195 while RHB warned a failed $4,200 breakout could drag COMEX gold toward $4,000.",
-      "item_ids": [
-        "9522a9fbbd3baa2c",
-        "9a016b9c81d9b6a1",
-        "cb0981b0d8ccd137"
-      ]
-    },
-    {
-      "title": "Silver's slide is macro and industrial at once",
-      "summary": "Silver has lost more than half its value since January's $121.79 record, flashing slowdown warnings; SMM notes a separate ~20% slide since late August that solar cell prices have barely followed.",
+      "title": "Silver's 50% unwind from January record",
+      "summary": "Silver halved from $121.79 in January to ~$57 on rate fears and a stronger dollar, even as the Silver Institute still expects a sixth straight annual supply deficit.",
       "item_ids": [
         "2b60e50198a7893a",
         "d7113ecbc80714b4"
+      ]
+    },
+    {
+      "title": "India's festive season starts muted",
+      "summary": "Pre-Diwali demand was sluggish as prices rebounded, funds gated gold FoFs, and September gold imports hit a 30-month low of $1.8 billion.",
+      "item_ids": [
+        "191011c05dd32b92",
+        "2dc4051106d22341",
+        "4cf11b8d0d0e92cb"
       ]
     }
   ],
   "items": [
     {
-      "id": "4cf11b8d0d0e92cb",
-      "rank": 1,
-      "title": "Gold imports plunge 81% to 30-month low; ICRA sees CAD widening to 0.9% of GDP",
-      "summary": "India's gold imports plunged 81.3% year-on-year to $1.8 billion in September — the lowest in 30 months — helping narrow the merchandise trade deficit to $30.2 billion from $33 billion, Commerce Ministry data showed. The $7.8 billion drop in the gold bill more than offset higher oil and electronics imports. ICRA said the easing was non-oil driven and forecast the CAD at 0.9% of GDP in FY27.",
-      "url": "https://upstox.com/news/business-news/economy/gold-imports-plunge-81-to-30-month-low-icra-sees-cad-widening-to-0-9-of-gdp/article-202004/",
-      "source": "Upstox",
-      "source_domain": "upstox.com",
-      "publisher_id": "upstox",
-      "published_at": "2026-10-16T10:29:47Z",
-      "image_url": "https://assets.upstox.com/content/assets/images/news/india-trade-deficit.webp",
-      "image_kind": "photo",
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "mcx",
-        "india",
-        "import-duty"
-      ],
-      "breaking": false,
-      "related_urls": []
-    },
-    {
-      "id": "9522a9fbbd3baa2c",
-      "rank": 2,
-      "title": "US Fed rate hike buzz: American inflation highest since COVID — what does it mean for Nifty, Sensex, gold rates?",
-      "summary": "US producer prices rose the most in 4-1/2 years in September and CPI accelerated to 3.7% year-on-year — the hottest American inflation since COVID — fueling rate-hike buzz ahead of the Fed's October 27-28 meeting. Market experts told Mint that Dalal Street has already discounted hikes through December, and they predict gold at ₹1.60 lakh per 10 grams and silver at ₹2.40 lakh per kg by end-2026.",
-      "url": "https://www.livemint.com/market/stock-market-news/us-fed-rate-hike-buzz-american-inflation-highest-since-covid-what-does-it-mean-for-nifty-sensex-gold-rates-decoded-11792135225649.html",
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "publisher_id": "mint",
-      "published_at": "2026-10-16T08:38:48Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "mcx",
+      "url": "https://hdfcsky.com/news/gold-falls-0-5percent-to-4177-82-as-hot-us-cpi-revives-fed-rate-hike-bets-silver-tumbles-5-3percent-before-friday-rebound",
+      "title": "Weekly Bullion Review: Gold Falls 0.5% to $4,177.82 as Hot US CPI Revives Fed Rate Hike Bets; Silver Tumbles 5.3% Before Friday Rebound",
+      "summary": "Gold slipped 0.5% on the week to $4,177.82 after September US CPI came in hot at 3.7% year-on-year, reviving bets on a Fed rate hike. Silver fared worse, plunging 5.3% over the week before a Friday rebound to $57.86. On MCX, December gold settled near Rs 1.48 lakh per 10 grams and December silver near Rs 2.13 lakh per kg.",
+      "source": "HDFCSky",
+      "source_domain": "hdfcsky.com",
+      "publisher_id": "hdfc-sky",
+      "published_at": "2026-10-17T07:58:00Z",
+      "category": "global",
       "metals": [
         "gold",
         "silver"
@@ -90,16 +62,23 @@
       "tags": [
         "gold",
         "silver",
+        "fed",
         "mcx",
-        "india",
-        "fed"
+        "global"
       ],
+      "related_urls": [
+        "https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/gold-s-split-screen-sticky-inflation-on-one-side-central-bank-buying-on/70350888",
+        "https://www.livemint.com/market/stock-market-news/us-fed-rate-hike-buzz-american-inflation-highest-since-covid-what-does-it-mean-for-nifty-sensex-gold-rates-decoded-11792135225649.html"
+      ],
+      "rank": 1,
       "breaking": false,
-      "related_urls": []
+      "image_url": "https://static.hdfcsky.com/wp-content/uploads/2026/07/gold-silver-weekly-price-review.jpg",
+      "image_kind": "photo",
+      "id": "733aebc6b78ee08d"
     },
     {
       "id": "2b60e50198a7893a",
-      "rank": 3,
+      "rank": 2,
       "title": "Silver's recent 50% drop from a record high hints that an economic slowdown looms",
       "summary": "Silver futures touched a record intraday $121.79 an ounce in late January, per Dow Jones Market Data, and have since lost more than half, settling at $57.31 on Friday. Dealers told MarketWatch that silver's dual monetary-industrial role makes its weakness a leading indicator of economic trouble as high energy prices bite. Gold has fallen more than 25% from its own January record of $5,626.80.",
       "url": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1",
@@ -121,62 +100,39 @@
         "fed"
       ],
       "breaking": false,
-      "related_urls": []
+      "related_urls": [
+        "https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/silver-ends-choppy-week-near-57-as-traders-weigh-inflation-shock-against/70348150"
+      ]
     },
     {
-      "id": "867e35fc31e22824",
-      "rank": 4,
-      "title": "Sebi's gold fund curbs may have limited impact as ETF route remains open",
-      "summary": "SEBI has asked mutual funds to stop fresh lump-sum, SIP and STP investments into gold ETF fund-of-funds from October 16, aiming to curb gold demand and ease rupee pressure — but the curbs don't touch gold ETFs themselves. Mint reports experts warning that investors can simply buy ETFs directly on exchanges with a demat account, which could defeat the purpose. Existing SIPs continue as usual.",
-      "url": "https://www.livemint.com/market/sebi-gold-price-fund-curbs-may-have-limited-impact-as-etf-route-remains-open-11792144976335.html",
+      "url": "https://www.livemint.com/money/personal-finance/gold-fofs-halt-fresh-investments-but-silver-mutual-funds-remain-open-experts-decode-the-reasons-and-explain-what-to-do-11792231444616.html",
+      "title": "Gold FoFs halt fresh investments, but silver mutual funds remain open: Experts decode the reasons and explain what to do",
+      "summary": "Fresh investments into gold fund-of-funds and gold-silver FoFs have been restricted by several fund houses following a nudge from SEBI, while gold and silver ETFs stay open; existing SIPs and redemptions continue. The halt protects new investors from buying at steep premiums; Reuters said it aims to curb investment-driven gold imports and ease rupee pressure.",
       "source": "Mint",
       "source_domain": "livemint.com",
       "publisher_id": "mint",
-      "published_at": "2026-10-16T13:27:40Z",
-      "image_url": "https://www.livemint.com/lm-img/img/2026/10/16/1600x900/logo/pexels-photo-8442328_1_1792156850321_1FrR_1792156850572_sMVn_add3e271-f1c5-4a53-a972-a579221c6652_QelT.jpeg",
-      "image_kind": "photo",
+      "published_at": "2026-10-17T00:00:00Z",
       "category": "policy",
       "metals": [
         "gold"
       ],
       "tags": [
         "gold",
-        "india",
-        "rbi"
+        "india"
       ],
+      "related_urls": [
+        "https://www.reuters.com/world/india/indian-mutual-funds-stop-bulk-subscriptions-gold-etfs-ahead-festive-season-2026-10-15/",
+        "https://www.thehindubusinessline.com/markets/gold/ahead-of-festival-season-mfs-halts-fresh-investments-into-gold-fof/article71592958.ece"
+      ],
+      "rank": 3,
       "breaking": false,
-      "related_urls": []
-    },
-    {
-      "id": "cb0981b0d8ccd137",
-      "rank": 5,
-      "title": "India Bullion: Up on weak dollar; market assesses Fed rate outlook",
-      "summary": "MCX December gold rose 0.6% to ₹1,48,320 per 10 grams and December silver gained 1.4% to ₹2,13,570 per kg on Friday as the dollar index fell to a two-week low of 101.57; COMEX gold was up 0.6% at $4,195.3 and silver up 1.5% at $57.99. Kotak Securities cited safe-haven flows from the equity selloff, while Commerzbank said Fed Chair Warsh's comments further dented October hike expectations.",
-      "url": "https://informistmedia.com/CommodityWire/62264/India-Bullion-Up-on-weak-dollar-market-assesses-Fed-rate-outlook",
-      "source": "Informist Media",
-      "source_domain": "informistmedia.com",
-      "publisher_id": "informist-media",
-      "published_at": "2026-10-16T11:17:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "india",
-        "fed"
-      ],
-      "breaking": false,
-      "related_urls": []
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/2dc4051106d22341.jpg",
+      "image_kind": "photo",
+      "id": "2dc4051106d22341"
     },
     {
       "id": "600fe507b96df367",
-      "rank": 6,
+      "rank": 4,
       "title": "Bullion Cues: Weakness may deepen",
       "summary": "Gold ($4,165.40) and silver ($57) lost 0.7% and 6.3% last week; MCX gold futures (₹1,47,918) fell 2.4% and silver (₹2,11,187) 6.5%. The Hindu BusinessLine's research bureau says MCX gold must cross ₹1,51,700 to turn positive, with supports at ₹1,43,500 and ₹1,41,000; silver could slide to the ₹2,00,000–2,00,750 band unless it reclaims ₹2,28,000–2,30,000.",
       "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-weakness-may-deepen/article71596139.ece",
@@ -196,6 +152,56 @@
         "silver",
         "mcx",
         "india"
+      ],
+      "breaking": false,
+      "related_urls": []
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-demand-drops-in-india-as-prices-rebound/article71563050.ece",
+      "title": "Gold demand drops in India as prices rebound",
+      "summary": "India's gold demand was sluggish this week as domestic prices rebounded to around Rs 150,900 per 10 grams from a two-month low of Rs 145,538, with price-sensitive buyers pausing ahead of Dussehra and Diwali. Dealer discounts narrowed to $6 an ounce from $14 last week as imports declined, and bank dealers said a premium could return if festive investment demand picks up.",
+      "source": "The Hindu BusinessLine",
+      "source_domain": "thehindubusinessline.com",
+      "publisher_id": "hindu-businessline",
+      "published_at": "2026-10-16T00:02:00Z",
+      "category": "festive",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "india",
+        "jewellery",
+        "mcx"
+      ],
+      "related_urls": [],
+      "rank": 5,
+      "breaking": false,
+      "image_url": null,
+      "image_kind": "none",
+      "id": "191011c05dd32b92"
+    },
+    {
+      "id": "4cf11b8d0d0e92cb",
+      "rank": 6,
+      "title": "Gold imports plunge 81% to 30-month low; ICRA sees CAD widening to 0.9% of GDP",
+      "summary": "India's gold imports plunged 81.3% year-on-year to $1.8 billion in September — the lowest in 30 months — helping narrow the merchandise trade deficit to $30.2 billion from $33 billion, Commerce Ministry data showed. The $7.8 billion drop in the gold bill more than offset higher oil and electronics imports. ICRA said the easing was non-oil driven and forecast the CAD at 0.9% of GDP in FY27.",
+      "url": "https://upstox.com/news/business-news/economy/gold-imports-plunge-81-to-30-month-low-icra-sees-cad-widening-to-0-9-of-gdp/article-202004/",
+      "source": "Upstox",
+      "source_domain": "upstox.com",
+      "publisher_id": "upstox",
+      "published_at": "2026-10-16T10:29:47Z",
+      "image_url": "https://assets.upstox.com/content/assets/images/news/india-trade-deficit.webp",
+      "image_kind": "photo",
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "mcx",
+        "india",
+        "import-duty"
       ],
       "breaking": false,
       "related_urls": []
@@ -225,8 +231,35 @@
       "related_urls": []
     },
     {
-      "id": "9a016b9c81d9b6a1",
+      "id": "cb0981b0d8ccd137",
       "rank": 8,
+      "title": "India Bullion: Up on weak dollar; market assesses Fed rate outlook",
+      "summary": "MCX December gold rose 0.6% to ₹1,48,320 per 10 grams and December silver gained 1.4% to ₹2,13,570 per kg on Friday as the dollar index fell to a two-week low of 101.57; COMEX gold was up 0.6% at $4,195.3 and silver up 1.5% at $57.99. Kotak Securities cited safe-haven flows from the equity selloff, while Commerzbank said Fed Chair Warsh's comments further dented October hike expectations.",
+      "url": "https://informistmedia.com/CommodityWire/62264/India-Bullion-Up-on-weak-dollar-market-assesses-Fed-rate-outlook",
+      "source": "Informist Media",
+      "source_domain": "informistmedia.com",
+      "publisher_id": "informist-media",
+      "published_at": "2026-10-16T11:17:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "india",
+        "fed"
+      ],
+      "breaking": false,
+      "related_urls": []
+    },
+    {
+      "id": "9a016b9c81d9b6a1",
+      "rank": 9,
       "title": "Selling Pressure Resumption Could Push Gold To US$4,000, Says RHB",
       "summary": "RHB Research kept its bearish call on COMEX gold despite Thursday's rebound to a $4,170.10 close, calling it a countertrend bounce with the RSI still below 50. The house advises holding shorts initiated September 23 at $4,284.80 with a $4,400 stop-loss; a failure to clear $4,200 resistance could renew selling toward $4,000 and then $3,800. RHB stays negative unless gold moves above $4,400.",
       "url": "https://www.businesstoday.com.my/2026/10/17/selling-pressure-resumption-could-push-gold-to-us4000-says-rhb/",
@@ -244,32 +277,6 @@
         "gold",
         "global",
         "comex",
-        "fed"
-      ],
-      "breaking": false,
-      "related_urls": []
-    },
-    {
-      "id": "caa99848051ed989",
-      "rank": 9,
-      "title": "Peter Schiff: Gold Should Have Soared This Week... Traders Just Handed You a Gift",
-      "summary": "Three hot US inflation prints in three days — CPI at 3.7% year-on-year, PPI up 6.3% annually, import prices up 1.1% — pushed gold down about 0.6% on the week as traders priced more Fed hikes. Peter Schiff argued on X on October 17 that the selloff means the Fed has already lost its inflation fight, calling gold at $4,145 ‘a gift’; his podcast put silver near $56.85 as a buying opportunity.",
-      "url": "https://marketsanity.com/peter-schiff-gold-should-have-soared-this-week-traders-just-handed-you-a-gift/",
-      "source": "Market Sanity",
-      "source_domain": "marketsanity.com",
-      "publisher_id": "market-sanity",
-      "published_at": "2026-10-17T11:13:00Z",
-      "image_url": "https://marketsanity.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-085903.png",
-      "image_kind": "photo",
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "global",
         "fed"
       ],
       "breaking": false,
