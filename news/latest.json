@@ -1,29 +1,29 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-18T09:00Z",
-  "generated_at": "2026-10-18T09:01:45Z",
+  "edition_id": "2026-10-18T11:00Z",
+  "generated_at": "2026-10-18T11:01:00Z",
   "window": {
-    "from": "2026-10-18T08:00Z",
-    "to": "2026-10-18T09:00Z"
+    "from": "2026-10-18T10:00:00Z",
+    "to": "2026-10-18T11:00:00Z"
   },
   "insights": {
-    "headline": "Gold imports crash 81% to 30-month low as fund curbs bite",
-    "summary": "India's gold imports plunged 81.3% year-on-year to $1.8 billion in September — a 30-month low and second straight decline — as the 15% duty and the deferral appeal bit; silver imports fell 49.1% to $665 million. The $7.8 billion drop in the gold bill narrowed the trade deficit to $30.2 billion. SEBI barred fresh investments into gold ETF fund-of-funds from October 16, with ETF buying still open. Spot gold steadied near $4,180 as easing October Fed-hike bets offset high oil, while silver hovered near $57; China's central bank bought 23 tonnes, its biggest monthly addition since Oct 2023.",
+    "headline": "SEBI halts fresh gold-fund flows; silver supply risk returns",
+    "summary": "SEBI barred fresh lump-sum, SIP and STP flows into gold ETF fund-of-funds from Oct 16, though direct gold ETF buying stays open. Jewellery stocks jumped up to 17% as dealers flipped to premiums up to $7/oz; PC Jeweller hit a 52-week high of Rs 17.15. The RBI spent $60 billion in six weeks defending the rupee. Spot gold steadied near $4,170 as easing Oct Fed-hike bets offset high oil; silver held near $57 as the San Dimas strike cut First Majestic's Q3 output 41% against a sixth straight 46.3Moz deficit. China's central bank bought 23 tonnes, its biggest monthly addition since Oct 2023.",
     "points": [
-      "Gold imports -81.3% YoY to $1.8B in September, a 30-month low and second straight monthly fall after August's -57.7%.",
-      "Silver imports -49.1% YoY to $665M; April–Sept gold imports down 27.3% to $19.27B.",
       "SEBI barred fresh lump-sum, SIP and STP investments into gold ETF FoFs from Oct 16; direct gold ETF buying stays open.",
-      "Jewellery stocks jumped up to 18% on Friday; PC Jeweller hit a 52-week high of ₹17.15 after a promoter bulk purchase.",
-      "Spot gold near $4,180; silver near $57; PBoC bought ~23 tonnes in September, its biggest monthly addition since Oct 2023."
+      "Jewellery stocks jumped up to 17% Friday; PC Jeweller hit a 52-week high of Rs 17.15 after a promoter bulk purchase.",
+      "The San Dimas strike cut First Majestic's Q3 silver output 41% YoY; the Silver Institute sees a sixth straight deficit of 46.3Moz; Fed meets Oct 27-28.",
+      "RBI spent $60B in six weeks defending the rupee; spot gold near $4,170 as easing Oct hike bets offset high oil; China's central bank bought 23 tonnes.",
+      "GJC fights a 67% hallmarking-charge hike; SGB 2020-21 Series VII holders get a Rs 14,614 early exit on Oct 19."
     ]
   },
   "trending": [
     {
-      "title": "Import bill crashes as demand curbs bite",
-      "summary": "September gold imports fell 81.3% YoY to $1.8B, a 30-month low, as SEBI barred fresh gold-FoF investments. Demand restraint is working: the trade deficit narrowed despite oil.",
+      "title": "Fund curbs reshape the demand picture",
+      "summary": "SEBI barred fresh investments into gold ETF fund-of-funds from Oct 16, though direct ETF buying stays open; jewellery stocks jumped up to 17% as buyers shift to listed retailers.",
       "item_ids": [
-        "4cf11b8d0d0e92cb",
-        "867e35fc31e22824"
+        "867e35fc31e22824",
+        "a82eafee20bddbf2"
       ]
     },
     {
@@ -37,10 +37,11 @@
     },
     {
       "title": "Silver's discount to gold keeps widening",
-      "summary": "Silver is ~50% below its January $121 record as industrial demand wobbles, while gold's central-bank bid holds. CPM Group calls the gap structural, but the washout could set up the next leg.",
+      "summary": "Silver is ~50% below its January $121 record as industrial demand wobbles. Supply-side risk is back: the San Dimas strike cut First Majestic's Q3 output 41% against a sixth straight 46.3Moz deficit.",
       "item_ids": [
         "2b60e50198a7893a",
-        "0758f705efe61d61"
+        "0758f705efe61d61",
+        "d105193e53c2f422"
       ]
     },
     {
@@ -62,38 +63,8 @@
   ],
   "items": [
     {
-      "id": "4cf11b8d0d0e92cb",
-      "rank": 1,
-      "title": "Gold imports plunge 81% to 30-month low; ICRA sees CAD widening to 0.9% of GDP",
-      "summary": "Gold imports fell 81.3% year-on-year to $1.8 billion in September, the lowest in 30 months and a second straight monthly fall after August's 57.7%, as the 15% duty and the deferral appeal curbed inflows. Silver imports fell 49.1% to $665 million. The $7.8 billion fall in the gold bill pulled the trade deficit to $30.2 billion from $33 billion; ICRA sees the CAD at 0.9% of GDP in FY2027.",
-      "url": "https://upstox.com/news/business-news/economy/gold-imports-plunge-81-to-30-month-low-icra-sees-cad-widening-to-0-9-of-gdp/article-202004/",
-      "source": "Upstox",
-      "source_domain": "upstox.com",
-      "publisher_id": "upstox",
-      "published_at": "2026-10-16T10:29:47Z",
-      "image_url": "https://assets.upstox.com/content/assets/images/news/india-trade-deficit.webp",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "india",
-        "import-duty"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "related_urls": [
-        "https://www.thehindubusinessline.com/markets/gold/indias-gold-imports-fall-27-to-1927-billion-in-aprilseptember-2026/article71587627.ece",
-        "https://www.inshorts.com/en/news/gold-imports-fall-81--in-sept-after-pm-modi-s--don-t-buy-gold--call-1792154407258",
-        "https://www.tradingview.com/news/cnbctv:a612ab0d0094b:0/"
-      ]
-    },
-    {
       "id": "867e35fc31e22824",
-      "rank": 2,
+      "rank": 1,
       "title": "Sebi's gold fund curbs may have limited impact as ETF route remains open",
       "summary": "SEBI asked mutual funds to stop fresh lump-sum, SIP and STP investments into gold ETF fund-of-funds from October 16, but left gold ETFs untouched — a gap experts say could blunt the curbs. Gold ETFs hold ~66% of industry gold assets (Value Research) and drew ₹45,951 crore of net inflows in the year to September (AMFI).",
       "url": "https://www.livemint.com/market/sebi-gold-price-fund-curbs-may-have-limited-impact-as-etf-route-remains-open-11792144976335.html",
@@ -139,11 +110,11 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/a82eafee20bddbf2.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 3
+      "rank": 2
     },
     {
       "id": "0cacfa43e49af271",
-      "rank": 4,
+      "rank": 3,
       "title": "India gold swings to premium as lower prices lift jewellery demand",
       "summary": "Indian dealers charged premiums of up to $7 an ounce over official domestic prices this week, the first premium in over three months, as a pullback in gold prices drew festival-season jewellery buyers back into the market. September imports fell sharply year-on-year and supply has thinned; dealers say premiums could widen further if Dhanteras and Diwali buying picks up as expected.",
       "url": "https://www.brecorder.com/news/amp/40444704",
@@ -167,7 +138,7 @@
     },
     {
       "id": "e28fc7615e591b5d",
-      "rank": 5,
+      "rank": 4,
       "title": "Gold Falls ₹3,000 This Week, Silver Slides Over ₹10,000",
       "summary": "IBJA data showed 24-carat gold falling ₹3,004 over the week to ₹1,46,426 per 10 grams and silver sliding ₹10,191 to ₹2,10,918 per kg; spot gold traded near $4,186 and silver near $57 as rising crude lifted the dollar.",
       "url": "https://theworldopinion.com/business/gold-falls-3000-silver-slides-10000",
@@ -212,7 +183,7 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/29bc4bf28ada769e.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 6
+      "rank": 5
     },
     {
       "id": "9857a479c010e106",
@@ -236,7 +207,34 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/9857a479c010e106.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 7
+      "rank": 6
+    },
+    {
+      "id": "d105193e53c2f422",
+      "rank": 7,
+      "title": "Silver miners grapple with strike disruption as macro data steadies prices near $57",
+      "summary": "A formal strike at First Majestic's San Dimas silver mine, halted since Sept 18, cut its Q3 silver output 41% YoY; Endeavour Silver and Guanajuato Silver also flagged quarterly disruptions. The squeeze meets a sixth straight annual market deficit of 46.3Moz (Silver Institute), even as COMEX front-month settled Friday at $57.13, with traders watching the Fed's Oct 27-28 meeting.",
+      "url": "https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/silver-miners-grapple-with-strike-disruption-as-macro-data-steadies-prices/70352835",
+      "source": "ad-hoc-news",
+      "source_domain": "ad-hoc-news.de",
+      "publisher_id": "ad-hoc-news",
+      "published_at": "2026-10-18T09:02:12Z",
+      "image_url": "https://mdb.ad-hoc-news.de/bild/bild-2824056_1920_1080.webp",
+      "image_kind": "photo",
+      "tags": [
+        "silver",
+        "global",
+        "comex",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://www.kitco.com/opinion/2026-10-15/silver-output-mexicos-san-dimas-mine-fell-41-and-now-it-has-stopped"
+      ]
     },
     {
       "id": "600fe507b96df367",
