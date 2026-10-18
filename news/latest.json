@@ -1,17 +1,17 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-18T04:00Z",
-  "generated_at": "2026-10-18T04:04:08Z",
+  "edition_id": "2026-10-18T05:00Z",
+  "generated_at": "2026-10-18T05:11:07Z",
   "window": {
-    "from": "2026-10-18T02:00Z",
-    "to": "2026-10-18T04:00Z"
+    "from": "2026-10-18T04:00Z",
+    "to": "2026-10-18T05:00Z"
   },
   "insights": {
     "headline": "Fund houses extend gold FoF curbs as India's gold market flips to a premium ahead of Diwali",
-    "summary": "Seventeen mutual fund houses halted fresh investments into gold ETF fund-of-funds from October 16 to curb paper-gold demand ahead of the festive season, after September-quarter ETF inflows jumped 49% to Rs 8,606 crore. India's physical market flipped to a premium of up to $7 an ounce for the first time in over three months as lower prices drew jewellery buyers back ahead of Dhanteras and Diwali. Spot gold held near $4,170 an ounce while silver recovered after a 5.3% weekly slide, with Brent crude at $110 keeping inflation pressure in focus.",
+    "summary": "Seventeen mutual fund houses halted fresh investments into gold ETF fund-of-funds from October 16 to curb paper-gold demand ahead of the festive season, after September-quarter ETF inflows jumped 49% to Rs 8,606 crore. India's physical market flipped to a premium of up to $7 an ounce for the first time in over three months as lower prices drew jewellery buyers back ahead of Dhanteras and Diwali. Spot gold held near $4,170 an ounce while silver recovered after a 5.3% weekly slide.",
     "points": [
       "17 AMCs halted fresh gold FoF inflows (lumpsum, new SIP/STP, switch-ins); existing SIPs continue.",
-      "India gold moved from discount to up to $7/oz premium as festive buying revived; imports fell sharply.",
+      "India gold moved from discount to up to $7/oz premium as festive buying revived.",
       "MCX gold settled near Rs 1.48 lakh per 10g and silver near Rs 2.13 lakh per kg after Friday's rebound.",
       "RBI fixed the SGB 2020-21 Series VII premature redemption price at Rs 14,614 per unit, a ~192% return.",
       "Govt cut gold duty-drawback rates by 3.1% and silver by nearly 9% for jewellery exports."
@@ -35,10 +35,9 @@
     },
     {
       "title": "RBI burns reserves defending the rupee",
-      "summary": "$60 billion spent in six weeks propping up the rupee, with gold imports plunging 81% to a 30-month low -- the import bill is the lever regulators keep pulling.",
+      "summary": "$60 billion spent in six weeks propping up the rupee -- the import bill is the lever regulators keep pulling.",
       "item_ids": [
-        "29bc4bf28ada769e",
-        "4cf11b8d0d0e92cb"
+        "29bc4bf28ada769e"
       ]
     },
     {
@@ -188,32 +187,8 @@
       "rank": 5
     },
     {
-      "id": "4cf11b8d0d0e92cb",
-      "rank": 6,
-      "title": "Gold imports plunge 81% to 30-month low; ICRA sees CAD widening to 0.9% of GDP",
-      "summary": "India's gold imports plunged 81.3% year-on-year to $1.8 billion in September — the lowest in 30 months — helping narrow the merchandise trade deficit to $30.2 billion from $33 billion, Commerce Ministry data showed. The $7.8 billion drop in the gold bill more than offset higher oil and electronics imports. ICRA said the easing was non-oil driven and forecast the CAD at 0.9% of GDP in FY27.",
-      "url": "https://upstox.com/news/business-news/economy/gold-imports-plunge-81-to-30-month-low-icra-sees-cad-widening-to-0-9-of-gdp/article-202004/",
-      "source": "Upstox",
-      "source_domain": "upstox.com",
-      "publisher_id": "upstox",
-      "published_at": "2026-10-16T10:29:47Z",
-      "image_url": "https://assets.upstox.com/content/assets/images/news/india-trade-deficit.webp",
-      "image_kind": "photo",
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "mcx",
-        "india",
-        "import-duty"
-      ],
-      "breaking": false
-    },
-    {
       "id": "afce0a0b21f49a01",
-      "rank": 7,
+      "rank": 6,
       "title": "Gold's Split Screen: Sticky Inflation on One Side, Central-Bank Buying on the Other",
       "summary": "Gold closed the session at $4,169.08, holding near weekly support after Thursday's rebound: a softer dollar and falling Treasury yields offset the September CPI shock (3.7% headline, 2.6% core) that firmed October hike bets. Speculators had already trimmed net-long positions before the data landed, while steady central-bank buying continues to cushion the downside.",
       "url": "https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/gold-s-split-screen-sticky-inflation-on-one-side-central-bank-buying-on/70350888",
@@ -234,6 +209,32 @@
         "central-banks"
       ],
       "breaking": false
+    },
+    {
+      "id": "600fe507b96df367",
+      "rank": 7,
+      "title": "Bullion Cues: Weakness may deepen",
+      "summary": "BusinessLine's weekly technical outlook expects further weakness in bullion after spot gold lost 0.7% on the week to $4,165.40 an ounce and silver slid 6.3% to $57. On MCX, December gold fell 2.4% to ₹1,47,918 per 10 grams and silver 6.5% to ₹2,11,187 a kg. The column sees gold sliding toward ₹1,43,500 and silver toward ₹2,00,000 unless gold reclaims ₹1,51,700 and silver breaks ₹2,28,000–2,30,000.",
+      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-weakness-may-deepen/article71596139.ece",
+      "source": "The Hindu BusinessLine",
+      "source_domain": "thehindubusinessline.com",
+      "publisher_id": "hindu-businessline",
+      "published_at": "2026-10-17T16:05:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "india"
+      ],
+      "breaking": false,
+      "related_urls": []
     },
     {
       "id": "5b19e7f36f895395",
@@ -388,32 +389,8 @@
       ]
     },
     {
-      "id": "780145c6098bb5d4",
-      "rank": 14,
-      "title": "Brent crude hits $110 a barrel for first time since May as supply concerns mount",
-      "summary": "Brent crude touched $110 a barrel for the first time since May on October 17 as Iran-related supply fears intensified, before easing back toward $105. Costlier oil lifts inflation expectations and US yields — a headwind for gold — and pressures the rupee, which raises the landed cost of gold in India.",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/brent-crude-hits-110-a-barrel-for-first-time-since-may-as-supply-concerns-mount/article71594804.ece",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "publisher_id": "hindu-businessline",
-      "published_at": "2026-10-17T00:27:54Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "global",
-        "gold",
-        "rupee"
-      ],
-      "breaking": false
-    },
-    {
       "id": "cb0981b0d8ccd137",
-      "rank": 15,
+      "rank": 14,
       "title": "India Bullion: Up on weak dollar; market assesses Fed rate outlook",
       "summary": "MCX December gold rose 0.6% to ₹1,48,320 per 10 grams and December silver gained 1.4% to ₹2,13,570 per kg on Friday as the dollar index fell to a two-week low of 101.57; COMEX gold was up 0.6% at $4,195.3 and silver up 1.5% at $57.99. Kotak Securities cited safe-haven flows from the equity selloff, while Commerzbank said Fed Chair Warsh's comments further dented October hike expectations.",
       "url": "https://informistmedia.com/CommodityWire/62264/India-Bullion-Up-on-weak-dollar-market-assesses-Fed-rate-outlook",
@@ -439,7 +416,7 @@
     },
     {
       "id": "7c19b27c67c2a465",
-      "rank": 16,
+      "rank": 15,
       "title": "Sensex gains 414 points; MCX gold up 0.64% to Rs 1,48,429, silver up 1.33% to Rs 2,13,460 on Friday",
       "summary": "MCX bullion futures rebounded on Friday: December gold rose 0.64% to Rs 1,48,429 per 10 grams and December silver gained 1.33% to Rs 2,13,460 per kg, after a weak week. The bounce tracked softer US bond yields and a weaker dollar, though the rupee's gains capped the domestic move. Brent eased to about $105 after touching $110.",
       "url": "https://www.kotakneo.com/news/market-news/stock-market-closing-bell-16-october-2026-sensex-gains-nifty-above-23100/",
@@ -464,7 +441,7 @@
     },
     {
       "id": "d90101517366ee22",
-      "rank": 17,
+      "rank": 16,
       "title": "Gold on Dhanteras: celebrate the ritual, rethink the investment",
       "summary": "A Mint column argues Dhanteras gold buying should be treated as ritual rather than investing: jewellery's making charges vanish on resale and coins sit in rented lockers, making festive gold consumption rather than a financial plan.",
       "url": "https://www.livemint.com/money/personal-finance/gold-on-dhanteras-celebrate-the-ritual-rethink-the-investment-11792135802308.html",
