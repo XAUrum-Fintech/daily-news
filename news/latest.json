@@ -1,69 +1,99 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-18T02:00Z",
-  "generated_at": "2026-10-18T02:03:36Z",
+  "edition_id": "2026-10-18T03:00Z",
+  "generated_at": "2026-10-18T03:39:10Z",
   "window": {
-    "from": "2026-10-18T00:00:00Z",
-    "to": "2026-10-18T02:00:00Z"
+    "from": "2026-10-18T02:00:00Z",
+    "to": "2026-10-18T03:00:00Z"
   },
   "insights": {
-    "headline": "Weekly wrap: gold and silver fell through the week on hot US CPI and Fed rate-hike bets",
-    "summary": "The week's data shows a broad retreat: IBJA figures put 24-carat gold down ₹3,004 to ₹1,46,426 per 10 grams and silver down ₹10,191 to ₹2,10,918 per kg, with spot gold near $4,186 and silver near $57. September's hot US CPI revived bets on a Fed rate hike, lifting yields and the dollar, while Brent crude held above $110 on supply concerns. Policy stayed active: SEBI's gold-fund subscription curbs and the RBI's ₹14,614 premature redemption price for SGB 2020-21 Series VII. As Dhanteras nears, a Mint column urges buyers to treat festive gold as ritual rather than investment.",
+    "headline": "SEBI-linked gold fund curbs widen ahead of Diwali as RBI burns $60 billion defending the rupee",
+    "summary": "India tightened the screws on gold demand this week: seventeen mutual fund houses halted fresh investments into gold ETF fund-of-funds from October 15-16, days before Diwali, while the Finance Ministry cut duty drawback rates on jewellery exports. The RBI's forex reserves fell roughly $60 billion in six weeks to $726 billion as it sold dollars to prop up the rupee. Globally, spot gold held near $4,170 an ounce, caught between fading bets on an immediate Fed rate hike and Treasury yields lifted by Brent crude at $110 a barrel.",
     "points": [
-      "IBJA weekly: 24K gold ₹1,46,426/10g (-₹3,004), silver ₹2,10,918/kg (-₹10,191); spot gold ~$4,186, silver ~$57",
-      "Hot US CPI revived Fed rate-hike bets; gold fell 0.5% on the week to $4,177.82, silver slid 5.3% before a Friday rebound",
-      "Brent held above $110/bbl, first time since May, on supply concerns",
-      "SEBI's gold FoF curbs may have limited impact with the ETF route open; RBI set SGB Series VII exit price at ₹14,614",
-      "Mint: Dhanteras gold buying is ritual, not investing — making charges and locker costs erode returns"
+      "17 fund houses halted fresh gold ETF FoF inflows from Oct 15-16; existing SIPs, redemptions and direct ETF buying stay open.",
+      "Gold ETF inflows jumped 71% in September to ₹4,450.61 crore — the strongest since January — before the curbs.",
+      "RBI forex reserves fell ~$60 billion in six weeks to $726.03 billion; gold reserves dipped $1.32 billion to $105.09 billion.",
+      "Spot gold held near $4,170/oz; traders cut October Fed-hike odds to ~15% after Chair Warsh's Bangkok remarks.",
+      "Duty drawback on gold jewellery exports cut 3.1% to ₹1,794.11/g; silver cut ~9% to ₹26,859.02/kg."
     ]
   },
   "trending": [
     {
-      "title": "Rate-hike fears cap the metals’ recovery",
-      "summary": "Hot September US CPI revived Fed tightening bets, pressuring gold and silver through the week; a softer dollar and lower yields aided Friday's partial rebound.",
+      "title": "Diwali-season squeeze on gold demand",
+      "summary": "Fund houses halted fresh gold FoF money ahead of Diwali while the bullion import duty sits at 15% since May, squeezing festival demand. Retailers answer with lighter pieces and exchange offers.",
       "item_ids": [
-        "733aebc6b78ee08d",
-        "cb0981b0d8ccd137",
+        "8ccca8b8db1a7f69",
+        "f263024d105ed22b",
+        "d90101517366ee22"
+      ]
+    },
+    {
+      "title": "Rupee defence is getting expensive",
+      "summary": "The RBI burned ~$60 billion of reserves in six weeks against high crude, rising US yields and $26.8 billion of FPI outflows. Gold imports, down 81%, remain a watched dollar drain.",
+      "item_ids": [
+        "29bc4bf28ada769e",
+        "4cf11b8d0d0e92cb",
+        "8ccca8b8db1a7f69"
+      ]
+    },
+    {
+      "title": "Gold stuck in a $4,100-$4,200 corridor",
+      "summary": "Sticky US inflation keeps Fed tightening bets alive to cap rallies, while $110 Brent and safe-haven bids hold the floor. Gold ended near $4,170 with central-bank buying cushioning the downside.",
+      "item_ids": [
+        "9857a479c010e106",
+        "afce0a0b21f49a01",
         "e28fc7615e591b5d"
       ]
     },
     {
-      "title": "Policy acts on gold demand ahead of Diwali",
-      "summary": "Fund houses halted fresh gold FoF subscriptions ahead of the festive season to curb imports, while the ETF route stays open; RBI fixed the SGB Series VII exit price at Rs 14,614.",
-      "item_ids": [
-        "867e35fc31e22824",
-        "1f31456786f2b5c1"
-      ]
-    },
-    {
-      "title": "Silver’s steep slide flashes an economic warning",
-      "summary": "Silver is down more than 50% from its January record high of $121.79 to around $57; its monetary-plus-industrial role makes the slide a possible economic warning.",
+      "title": "Silver's wilder ride",
+      "summary": "down 50% from its January record and ~20% off its August high, with solar demand failing to cushion the fall; domestic silver still slid ₹10,191 this week.",
       "item_ids": [
         "2b60e50198a7893a",
-        "d7113ecbc80714b4"
-      ]
-    },
-    {
-      "title": "Dhanteras: ritual buying meets high prices",
-      "summary": "A Mint column says treat Dhanteras gold as ritual, not investing, since making charges and locker costs eat returns; IBJA's weekly numbers show softer prices ahead of the festival.",
-      "item_ids": [
-        "d90101517366ee22",
+        "d7113ecbc80714b4",
         "e28fc7615e591b5d"
       ]
     },
     {
-      "title": "India’s import picture is shifting",
-      "summary": "Gold imports plunged 81% to a 30-month low on higher duties and weaker demand, while central banks bought a record 288.9 tonnes in Q2; domestic supply pressure is easing.",
+      "title": "Trade policy tightening at the margins",
+      "summary": "The drawback cut trims exporter refunds and GJC is fighting the 67% hallmarking fee hike — two small steps that together raise the cost of moving metal through formal channels.",
       "item_ids": [
-        "4cf11b8d0d0e92cb",
-        "afce0a0b21f49a01"
+        "5b19e7f36f895395",
+        "b9dd755277b6708f"
       ]
     }
   ],
   "items": [
     {
+      "id": "8ccca8b8db1a7f69",
+      "title": "Curbs on gold funds widen as rupee, reserves face pressure",
+      "summary": "Seventeen fund houses stopped fresh investments into gold ETF fund-of-funds from October 15-16 — the second clampdown this year. Lump-sum investments, switch-ins and new SIP/STP registrations are halted; existing SIPs, redemptions and direct ETF buying stay open. The move lands days before Diwali, after September gold ETF inflows jumped 71% to ₹4,450.61 crore.",
+      "url": "https://pressinsider.com/policy/curbs-on-gold-funds-widen-as-rupee-reserves-face-pressure/",
+      "source": "PRESS Insider",
+      "source_domain": "pressinsider.com",
+      "publisher_id": "press-insider",
+      "published_at": "2026-10-17T16:47:11Z",
+      "category": "policy",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "rupee",
+        "india"
+      ],
+      "image_url": "https://pressinsider.com/wp-content/uploads/2024/08/Gold-2.jpg",
+      "image_kind": "photo",
+      "breaking": true,
+      "related_urls": [
+        "https://www.livemint.com/market/sebi-gold-price-fund-curbs-may-have-limited-impact-as-etf-route-remains-open-11792144976335.html",
+        "https://www.business-standard.com/markets/news/gold-fofs-halt-fresh-investments-before-diwali-what-investors-can-do-126101601215_1.html"
+      ],
+      "rank": 1
+    },
+    {
       "id": "e28fc7615e591b5d",
-      "rank": 1,
+      "rank": 2,
       "title": "Gold Falls ₹3,000 This Week, Silver Slides Over ₹10,000",
       "summary": "IBJA data showed 24-carat gold falling ₹3,004 over the week to ₹1,46,426 per 10 grams and silver sliding ₹10,191 to ₹2,10,918 per kg; spot gold traded near $4,186 and silver near $57 as rising crude lifted the dollar.",
       "url": "https://theworldopinion.com/business/gold-falls-3000-silver-slides-10000",
@@ -87,136 +117,80 @@
       "breaking": false
     },
     {
-      "id": "867e35fc31e22824",
-      "rank": 2,
-      "title": "SEBI's gold fund curbs may have limited impact as ETF route remains open",
-      "summary": "SEBI has directed mutual funds to bar fresh lump-sum investments, new SIPs and STPs into gold ETF fund-of-funds from October 16, and about 17 fund houses have complied. Redemptions and existing SIP instalments continue, and direct gold ETFs stay buyable on exchanges — a gap experts say could blunt the curbs. The move aims to ease pressure on the rupee and the gold import bill.",
-      "url": "https://www.livemint.com/market/sebi-gold-price-fund-curbs-may-have-limited-impact-as-etf-route-remains-open-11792144976335.html",
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "publisher_id": "mint",
-      "published_at": "2026-10-16T12:00:00Z",
-      "image_url": "https://www.livemint.com/lm-img/img/2026/10/16/1600x900/logo/pexels-photo-8442328_1_1792156850321_1FrR_1792156850572_sMVn_add3e271-f1c5-4a53-a972-a579221c6652_QelT.jpeg",
-      "image_kind": "photo",
-      "category": "policy",
+      "id": "29bc4bf28ada769e",
+      "title": "$60 billion in 6 weeks: RBI's rupee defence comes at a cost",
+      "summary": "India's forex reserves fell roughly $60 billion in six weeks to $726.03 billion on October 9, down from a record $785.71 billion, as the RBI sold dollars to defend the rupee. The latest week alone saw an $8.58 billion drawdown amid high crude prices, rising US yields and foreign capital outflows. India's gold reserves also slipped $1.32 billion to $105.09 billion in the week to October 8.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/60-billion-in-6-weeks-rbis-rupee-defence-comes-at-a-cost/articleshow/135007403.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-10-17T04:56:00Z",
+      "category": "global",
       "metals": [
         "gold"
       ],
       "tags": [
         "gold",
         "rupee",
-        "india"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://www.livemint.com/money/personal-finance/gold-fofs-halt-fresh-investments-but-silver-mutual-funds-remain-open-experts-decode-the-reasons-and-explain-what-to-do-11792231444616.html"
-      ]
-    },
-    {
-      "id": "733aebc6b78ee08d",
-      "rank": 3,
-      "title": "Weekly Bullion Review: Gold Falls 0.5% to $4,177.82 as Hot US CPI Revives Fed Rate Hike Bets; Silver Tumbles 5.3% Before Friday Rebound",
-      "summary": "Gold slipped 0.5% on the week to $4,177.82 after September US CPI came in hot at 3.7% year-on-year, reviving bets on a Fed rate hike. Silver fared worse, plunging 5.3% over the week before a Friday rebound to $57.86. On MCX, December gold settled near Rs 1.48 lakh per 10 grams and December silver near Rs 2.13 lakh per kg.",
-      "url": "https://hdfcsky.com/news/gold-falls-0-5percent-to-4177-82-as-hot-us-cpi-revives-fed-rate-hike-bets-silver-tumbles-5-3percent-before-friday-rebound",
-      "source": "HDFCSky",
-      "source_domain": "hdfcsky.com",
-      "publisher_id": "hdfc-sky",
-      "published_at": "2026-10-17T07:58:00Z",
-      "image_url": "https://static.hdfcsky.com/wp-content/uploads/2026/07/gold-silver-weekly-price-review.jpg",
-      "image_kind": "photo",
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "fed",
-        "mcx",
+        "rbi",
         "global"
       ],
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/29bc4bf28ada769e.jpg",
+      "image_kind": "photo",
       "breaking": false,
-      "related_urls": [
-        "https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/gold-s-split-screen-sticky-inflation-on-one-side-central-bank-buying-on/70350888",
-        "https://www.livemint.com/market/stock-market-news/us-fed-rate-hike-buzz-american-inflation-highest-since-covid-what-does-it-mean-for-nifty-sensex-gold-rates-decoded-11792135225649.html"
-      ]
+      "rank": 3
     },
     {
-      "id": "1f31456786f2b5c1",
-      "rank": 4,
-      "title": "RBI fixes SGB 2020-21 Series VII premature redemption price at Rs 14,614; exit window on October 19",
-      "summary": "The RBI fixed the premature redemption price of Sovereign Gold Bond 2020-21 Series VII at Rs 14,614 per unit — about a 192% capital gain for digital subscribers who paid Rs 5,001 in October 2020. The exit window was moved to October 19 because October 20 is a Dussehra holiday. Holders can also stay until the October 2028 maturity and keep collecting 2.5% annual interest.",
-      "url": "https://flashfinance.news/article/3162-rbi-fixes-sgb-2020-21-series-vii-premature-redemption-price",
-      "source": "Flash Finance",
-      "source_domain": "flashfinance.news",
-      "publisher_id": "flash-finance",
-      "published_at": "2026-10-17T04:31:00Z",
-      "image_url": "https://storage.googleapis.com/bhanu-flash-finance-images/82580c5989154d20961ac79553f6fff5.jpg",
-      "image_kind": "photo",
-      "category": "policy",
+      "id": "9857a479c010e106",
+      "title": "Gold steady near $4,170 as easing Fed rate-hike bets counter high oil prices and yields",
+      "summary": "Spot gold held near $4,170 an ounce on Friday after Thursday's 1.6% jump — its sharpest gain in over two weeks. Cooling expectations of a Fed hike — Chair Warsh declined in Bangkok to signal tightening — offset a crude rally that lifted Treasury yields, with Brent at $110. Gold ended the week unchanged as mid-week safe-haven gains were countered by hotter US inflation data.",
+      "url": "https://www.cnbctv18.com/market/commodities/gold-steady-as-easing-fed-rate-hike-bets-counter-high-oil-prices-and-yields-20014154.htm",
+      "source": "CNBC-TV18",
+      "source_domain": "cnbctv18.com",
+      "publisher_id": "cnbc-tv18",
+      "published_at": "2026-10-17T09:22:27Z",
+      "category": "global",
       "metals": [
         "gold"
       ],
       "tags": [
         "gold",
-        "rbi",
-        "india"
-      ],
-      "breaking": false
-    },
-    {
-      "id": "780145c6098bb5d4",
-      "rank": 5,
-      "title": "Brent crude hits $110 a barrel for first time since May as supply concerns mount",
-      "summary": "Brent crude touched $110 a barrel for the first time since May on October 17 as Iran-related supply fears intensified, before easing back toward $105. Costlier oil lifts inflation expectations and US yields — a headwind for gold — and pressures the rupee, which raises the landed cost of gold in India.",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/brent-crude-hits-110-a-barrel-for-first-time-since-may-as-supply-concerns-mount/article71594804.ece",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "publisher_id": "hindu-businessline",
-      "published_at": "2026-10-17T00:27:54Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
         "global",
-        "gold",
-        "rupee"
+        "fed",
+        "comex"
       ],
-      "breaking": false
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/9857a479c010e106.jpg",
+      "image_kind": "photo",
+      "breaking": false,
+      "rank": 4
     },
     {
-      "id": "600fe507b96df367",
-      "rank": 6,
-      "title": "Bullion Cues: Weakness may deepen",
-      "summary": "Gold ($4,165.40) and silver ($57) lost 0.7% and 6.3% last week; MCX gold futures (₹1,47,918) fell 2.4% and silver (₹2,11,187) 6.5%. The Hindu BusinessLine's research bureau says MCX gold must cross ₹1,51,700 to turn positive, with supports at ₹1,43,500 and ₹1,41,000; silver could slide to the ₹2,00,000–2,00,750 band unless it reclaims ₹2,28,000–2,30,000.",
-      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-weakness-may-deepen/article71596139.ece",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "publisher_id": "hindu-businessline",
-      "published_at": "2026-10-17T16:05:13Z",
-      "image_url": null,
-      "image_kind": "none",
+      "id": "4cf11b8d0d0e92cb",
+      "rank": 5,
+      "title": "Gold imports plunge 81% to 30-month low; ICRA sees CAD widening to 0.9% of GDP",
+      "summary": "India's gold imports plunged 81.3% year-on-year to $1.8 billion in September — the lowest in 30 months — helping narrow the merchandise trade deficit to $30.2 billion from $33 billion, Commerce Ministry data showed. The $7.8 billion drop in the gold bill more than offset higher oil and electronics imports. ICRA said the easing was non-oil driven and forecast the CAD at 0.9% of GDP in FY27.",
+      "url": "https://upstox.com/news/business-news/economy/gold-imports-plunge-81-to-30-month-low-icra-sees-cad-widening-to-0-9-of-gdp/article-202004/",
+      "source": "Upstox",
+      "source_domain": "upstox.com",
+      "publisher_id": "upstox",
+      "published_at": "2026-10-16T10:29:47Z",
+      "image_url": "https://assets.upstox.com/content/assets/images/news/india-trade-deficit.webp",
+      "image_kind": "photo",
       "category": "mcx",
       "metals": [
-        "gold",
-        "silver"
+        "gold"
       ],
       "tags": [
         "gold",
-        "silver",
         "mcx",
-        "india"
+        "india",
+        "import-duty"
       ],
       "breaking": false
     },
     {
       "id": "afce0a0b21f49a01",
-      "rank": 7,
+      "rank": 6,
       "title": "Gold's Split Screen: Sticky Inflation on One Side, Central-Bank Buying on the Other",
       "summary": "Gold closed the session at $4,169.08, holding near weekly support after Thursday's rebound: a softer dollar and falling Treasury yields offset the September CPI shock (3.7% headline, 2.6% core) that firmed October hike bets. Speculators had already trimmed net-long positions before the data landed, while steady central-bank buying continues to cushion the downside.",
       "url": "https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/gold-s-split-screen-sticky-inflation-on-one-side-central-bank-buying-on/70350888",
@@ -239,8 +213,60 @@
       "breaking": false
     },
     {
+      "id": "5b19e7f36f895395",
+      "title": "Govt cuts gold duty drawback rate by 3.1 pc, silver by nearly 9 pc",
+      "summary": "The Finance Ministry cut duty drawback rates on gold and silver jewellery exports: gold jewellery drops 3.1% from ₹1,851.99 to ₹1,794.11 per gram, silver jewellery falls about 9% from ₹29,501.09 to ₹26,859.02 per kg, under an October 15 notification. The cut trims duty refunds on imported inputs, squeezing exporter margins.",
+      "url": "https://ianslive.in/govt-cuts-gold-duty-drawback-rate-by-31-pc-silver-by-nearly-9-pc--20261016140718",
+      "source": "IANS",
+      "source_domain": "ianslive.in",
+      "publisher_id": "ians",
+      "published_at": "2026-10-16T08:37:18Z",
+      "category": "policy",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "india",
+        "import-duty"
+      ],
+      "image_url": "https://d2lnbwhcsmj8tp.cloudfront.net/ianslive_watermark/202610163980472.jpg",
+      "image_kind": "photo",
+      "breaking": false,
+      "related_urls": [
+        "https://www.indianjeweller.in/Indian-Jewellery-News/16570/government-cuts-duty-drawback-rates-on-gold-and-silver-jewellery-exports",
+        "https://taxguru.in/custom-duty/cbic-reduces-duty-drawback-rates-gold-silver-jewellery-15-october-2026.html"
+      ],
+      "rank": 7
+    },
+    {
+      "id": "b9dd755277b6708f",
+      "title": "GJC urges Govt, BIS to review 67% hike in gold hallmarking charges amid compliance concerns",
+      "summary": "GJC has urged the government and BIS to review the 67% hike in gold hallmarking charges — from ₹45 to ₹75 per article, notified September 14 — calling it unwarranted while fake hallmarking persists. With over 60 crore articles hallmarked since 2021, the council argues scale should have contained costs and wants enforcement prioritised over higher fees.",
+      "url": "https://retailjewellerindia.com/gjc-urges-govt-bis-to-review-67-hike-in-gold-hallmarking-charges-amid-compliance-concerns/",
+      "source": "The Retail Jeweller India",
+      "source_domain": "retailjewellerindia.com",
+      "publisher_id": "retail-jeweller-india",
+      "published_at": "2026-10-17T05:50:44Z",
+      "category": "policy",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
+      ],
+      "image_url": null,
+      "image_kind": "none",
+      "breaking": false,
+      "rank": 8
+    },
+    {
       "id": "2b60e50198a7893a",
-      "rank": 8,
+      "rank": 9,
       "title": "Silver's recent 50% drop from a record high hints that an economic slowdown looms",
       "summary": "Silver futures touched a record intraday $121.79 an ounce in late January, per Dow Jones Market Data, and have since lost more than half, settling at $57.31 on Friday. Dealers told MarketWatch that silver's dual monetary-industrial role makes its weakness a leading indicator of economic trouble as high energy prices bite. Gold has fallen more than 25% from its own January record of $5,626.80.",
       "url": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1",
@@ -267,30 +293,6 @@
       ]
     },
     {
-      "id": "4cf11b8d0d0e92cb",
-      "rank": 9,
-      "title": "Gold imports plunge 81% to 30-month low; ICRA sees CAD widening to 0.9% of GDP",
-      "summary": "India's gold imports plunged 81.3% year-on-year to $1.8 billion in September — the lowest in 30 months — helping narrow the merchandise trade deficit to $30.2 billion from $33 billion, Commerce Ministry data showed. The $7.8 billion drop in the gold bill more than offset higher oil and electronics imports. ICRA said the easing was non-oil driven and forecast the CAD at 0.9% of GDP in FY27.",
-      "url": "https://upstox.com/news/business-news/economy/gold-imports-plunge-81-to-30-month-low-icra-sees-cad-widening-to-0-9-of-gdp/article-202004/",
-      "source": "Upstox",
-      "source_domain": "upstox.com",
-      "publisher_id": "upstox",
-      "published_at": "2026-10-16T10:29:47Z",
-      "image_url": "https://assets.upstox.com/content/assets/images/news/india-trade-deficit.webp",
-      "image_kind": "photo",
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "mcx",
-        "india",
-        "import-duty"
-      ],
-      "breaking": false
-    },
-    {
       "id": "d7113ecbc80714b4",
       "rank": 10,
       "title": "[SMM Analysis] Silver Down Nearly 20% From Stage High: Why Are Solar Cell Prices Not Following?",
@@ -314,17 +316,14 @@
       "breaking": false
     },
     {
-      "id": "d90101517366ee22",
-      "rank": 11,
-      "title": "Gold on Dhanteras: celebrate the ritual, rethink the investment",
-      "summary": "A Mint column argues Dhanteras gold buying should be treated as ritual rather than investing: jewellery's making charges vanish on resale and coins sit in rented lockers, making festive gold consumption rather than a financial plan.",
-      "url": "https://www.livemint.com/money/personal-finance/gold-on-dhanteras-celebrate-the-ritual-rethink-the-investment-11792135802308.html",
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "publisher_id": "mint",
-      "published_at": "2026-10-18T01:31:06Z",
-      "image_url": "https://www.livemint.com/lm-img/img/2026/10/16/1600x900/logo/3-0-81176192-gold2-0_1679795319376_1792139961942_hrhp_58454c28-4eba-4ea1-82e9-eb832bf6ae69_eaTp.jpg",
-      "image_kind": "photo",
+      "id": "f263024d105ed22b",
+      "title": "Lighter pieces, smarter buys: What jewellers are betting on this festive season",
+      "summary": "With gold near ₹1.5 lakh per 10 grams, jewellers are redesigning for the festive season: lighter pieces, wider carat choices and old-gold exchange — now 45-50% of business at Senco Gold and over half of Titan's purchases. Senco's Suvankar Sen says budgets rose ~20% while prices doubled, forcing 30-40% weight cuts; Titan is pushing modular wedding designs and 18-carat pieces.",
+      "url": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/lighter-pieces-smarter-buys-what-jewellers-are-betting-on-this-festive-season/135006830",
+      "source": "ET Retail",
+      "source_domain": "retail.economictimes.indiatimes.com",
+      "publisher_id": "et-retail",
+      "published_at": "2026-10-17T03:49:00Z",
       "category": "festive",
       "metals": [
         "gold"
@@ -334,11 +333,86 @@
         "india",
         "jewellery"
       ],
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/f263024d105ed22b.jpg",
+      "image_kind": "photo",
+      "breaking": false,
+      "rank": 11
+    },
+    {
+      "id": "1f31456786f2b5c1",
+      "rank": 12,
+      "title": "RBI fixes SGB 2020-21 Series VII premature redemption price at Rs 14,614; exit window on October 19",
+      "summary": "The RBI fixed the premature redemption price of Sovereign Gold Bond 2020-21 Series VII at Rs 14,614 per unit — about a 192% capital gain for digital subscribers who paid Rs 5,001 in October 2020. The exit window was moved to October 19 because October 20 is a Dussehra holiday. Holders can also stay until the October 2028 maturity and keep collecting 2.5% annual interest.",
+      "url": "https://flashfinance.news/article/3162-rbi-fixes-sgb-2020-21-series-vii-premature-redemption-price",
+      "source": "Flash Finance",
+      "source_domain": "flashfinance.news",
+      "publisher_id": "flash-finance",
+      "published_at": "2026-10-17T04:31:00Z",
+      "image_url": "https://storage.googleapis.com/bhanu-flash-finance-images/82580c5989154d20961ac79553f6fff5.jpg",
+      "image_kind": "photo",
+      "category": "policy",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "rbi",
+        "india"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "780145c6098bb5d4",
+      "rank": 13,
+      "title": "Brent crude hits $110 a barrel for first time since May as supply concerns mount",
+      "summary": "Brent crude touched $110 a barrel for the first time since May on October 17 as Iran-related supply fears intensified, before easing back toward $105. Costlier oil lifts inflation expectations and US yields — a headwind for gold — and pressures the rupee, which raises the landed cost of gold in India.",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/brent-crude-hits-110-a-barrel-for-first-time-since-may-as-supply-concerns-mount/article71594804.ece",
+      "source": "The Hindu BusinessLine",
+      "source_domain": "thehindubusinessline.com",
+      "publisher_id": "hindu-businessline",
+      "published_at": "2026-10-17T00:27:54Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "global",
+        "gold",
+        "rupee"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "600fe507b96df367",
+      "rank": 14,
+      "title": "Bullion Cues: Weakness may deepen",
+      "summary": "Gold ($4,165.40) and silver ($57) lost 0.7% and 6.3% last week; MCX gold futures (₹1,47,918) fell 2.4% and silver (₹2,11,187) 6.5%. The Hindu BusinessLine's research bureau says MCX gold must cross ₹1,51,700 to turn positive, with supports at ₹1,43,500 and ₹1,41,000; silver could slide to the ₹2,00,000–2,00,750 band unless it reclaims ₹2,28,000–2,30,000.",
+      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-weakness-may-deepen/article71596139.ece",
+      "source": "The Hindu BusinessLine",
+      "source_domain": "thehindubusinessline.com",
+      "publisher_id": "hindu-businessline",
+      "published_at": "2026-10-17T16:05:13Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "india"
+      ],
       "breaking": false
     },
     {
       "id": "cb0981b0d8ccd137",
-      "rank": 12,
+      "rank": 15,
       "title": "India Bullion: Up on weak dollar; market assesses Fed rate outlook",
       "summary": "MCX December gold rose 0.6% to ₹1,48,320 per 10 grams and December silver gained 1.4% to ₹2,13,570 per kg on Friday as the dollar index fell to a two-week low of 101.57; COMEX gold was up 0.6% at $4,195.3 and silver up 1.5% at $57.99. Kotak Securities cited safe-haven flows from the equity selloff, while Commerzbank said Fed Chair Warsh's comments further dented October hike expectations.",
       "url": "https://informistmedia.com/CommodityWire/62264/India-Bullion-Up-on-weak-dollar-market-assesses-Fed-rate-outlook",
@@ -364,7 +438,7 @@
     },
     {
       "id": "7c19b27c67c2a465",
-      "rank": 13,
+      "rank": 16,
       "title": "Sensex gains 414 points; MCX gold up 0.64% to Rs 1,48,429, silver up 1.33% to Rs 2,13,460 on Friday",
       "summary": "MCX bullion futures rebounded on Friday: December gold rose 0.64% to Rs 1,48,429 per 10 grams and December silver gained 1.33% to Rs 2,13,460 per kg, after a weak week. The bounce tracked softer US bond yields and a weaker dollar, though the rupee's gains capped the domestic move. Brent eased to about $105 after touching $110.",
       "url": "https://www.kotakneo.com/news/market-news/stock-market-closing-bell-16-october-2026-sensex-gains-nifty-above-23100/",
@@ -388,26 +462,25 @@
       "breaking": false
     },
     {
-      "id": "9a016b9c81d9b6a1",
-      "rank": 14,
-      "title": "Selling Pressure Resumption Could Push Gold To US$4,000, Says RHB",
-      "summary": "RHB Research kept its bearish call on COMEX gold despite Thursday's rebound to a $4,170.10 close, calling it a countertrend bounce with the RSI still below 50. The house advises holding shorts initiated September 23 at $4,284.80 with a $4,400 stop-loss; a failure to clear $4,200 resistance could renew selling toward $4,000 and then $3,800. RHB stays negative unless gold moves above $4,400.",
-      "url": "https://www.businesstoday.com.my/2026/10/17/selling-pressure-resumption-could-push-gold-to-us4000-says-rhb/",
-      "source": "BusinessToday Malaysia",
-      "source_domain": "businesstoday.com.my",
-      "publisher_id": "businesstoday-malaysia",
-      "published_at": "2026-10-17T13:48:40Z",
-      "image_url": "https://www.businesstoday.com.my/wp-content/uploads/2026/05/Gold.jpg",
+      "id": "d90101517366ee22",
+      "rank": 17,
+      "title": "Gold on Dhanteras: celebrate the ritual, rethink the investment",
+      "summary": "A Mint column argues Dhanteras gold buying should be treated as ritual rather than investing: jewellery's making charges vanish on resale and coins sit in rented lockers, making festive gold consumption rather than a financial plan.",
+      "url": "https://www.livemint.com/money/personal-finance/gold-on-dhanteras-celebrate-the-ritual-rethink-the-investment-11792135802308.html",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "publisher_id": "mint",
+      "published_at": "2026-10-18T01:31:06Z",
+      "image_url": "https://www.livemint.com/lm-img/img/2026/10/16/1600x900/logo/3-0-81176192-gold2-0_1679795319376_1792139961942_hrhp_58454c28-4eba-4ea1-82e9-eb832bf6ae69_eaTp.jpg",
       "image_kind": "photo",
-      "category": "global",
+      "category": "festive",
       "metals": [
         "gold"
       ],
       "tags": [
         "gold",
-        "global",
-        "comex",
-        "fed"
+        "india",
+        "jewellery"
       ],
       "breaking": false
     }
