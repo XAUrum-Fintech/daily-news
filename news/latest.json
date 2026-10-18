@@ -1,97 +1,113 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-18T05:00Z",
-  "generated_at": "2026-10-18T05:11:07Z",
+  "edition_id": "2026-10-18T07:00Z",
+  "generated_at": "2026-10-18T07:13:17Z",
   "window": {
-    "from": "2026-10-18T04:00Z",
-    "to": "2026-10-18T05:00Z"
+    "from": "2026-10-18T06:00:00Z",
+    "to": "2026-10-18T07:00:00Z"
   },
   "insights": {
-    "headline": "Fund houses extend gold FoF curbs as India's gold market flips to a premium ahead of Diwali",
-    "summary": "Seventeen mutual fund houses halted fresh investments into gold ETF fund-of-funds from October 16 to curb paper-gold demand ahead of the festive season, after September-quarter ETF inflows jumped 49% to Rs 8,606 crore. India's physical market flipped to a premium of up to $7 an ounce for the first time in over three months as lower prices drew jewellery buyers back ahead of Dhanteras and Diwali. Spot gold held near $4,170 an ounce while silver recovered after a 5.3% weekly slide.",
+    "headline": "Gold fund curbs widen as imports dry up and silver keeps sliding",
+    "summary": "Indian mutual funds halted bulk gold-ETF subscriptions ahead of the festive season after a SEBI nudge, removing a key seasonal demand prop as the rupee stays under pressure. September gold imports fell to $1.8B from $2.3B in August, helping narrow the trade deficit. Spot gold held near $4,170 as easing October Fed-hike bets offset high oil prices, while silver kept falling faster than gold on industrial-demand worries. China's central bank bought a near-three-year record 23 tonnes in September.",
     "points": [
-      "17 AMCs halted fresh gold FoF inflows (lumpsum, new SIP/STP, switch-ins); existing SIPs continue.",
-      "India gold moved from discount to up to $7/oz premium as festive buying revived.",
-      "MCX gold settled near Rs 1.48 lakh per 10g and silver near Rs 2.13 lakh per kg after Friday's rebound.",
-      "RBI fixed the SGB 2020-21 Series VII premature redemption price at Rs 14,614 per unit, a ~192% return.",
-      "Govt cut gold duty-drawback rates by 3.1% and silver by nearly 9% for jewellery exports."
+      "Kotak, UTI and HDFC MF stopped bulk gold-ETF subscriptions late Thursday; redemptions and existing SIPs are unaffected.",
+      "Gold imports fell to $1.8B in September from $2.3B in August, helping narrow the trade deficit.",
+      "Jewellery stocks jumped up to 18% on Friday; PC Jeweller hit a 52-week high of ₹17.15 after a promoter bulk purchase.",
+      "Spot gold steadied near $4,170; silver slipped toward ~$57 as industrial-demand concerns widened its underperformance.",
+      "PBoC bought ~23 tonnes of gold in September, its biggest monthly addition since October 2023."
     ]
   },
   "trending": [
     {
-      "title": "Paper-gold curbs widen ahead of Diwali",
-      "summary": "Seventeen AMCs have now halted fresh gold FoF inflows to choke off paper-gold demand while the rupee stays under pressure; existing SIPs continue and silver funds remain open.",
+      "title": "Delhi's rupee-defence playbook is working — for now",
+      "summary": "Fund curbs and collapsing imports are pulling the same way: September's $1.8B gold import bill helped narrow the trade deficit despite dearer oil. October's festive buying is the test.",
       "item_ids": [
-        "8bbb7fc6dcc6445d"
-      ]
-    },
-    {
-      "title": "India flips to a premium on reviving festive demand",
-      "summary": "Lower prices pulled jewellery buyers back, flipping domestic gold from discount to a $7/oz premium just as Dhanteras and Diwali approach; jewellers are betting on lighter pieces as prices stay high.",
-      "item_ids": [
-        "0cacfa43e49af271",
-        "f263024d105ed22b"
-      ]
-    },
-    {
-      "title": "RBI burns reserves defending the rupee",
-      "summary": "$60 billion spent in six weeks propping up the rupee -- the import bill is the lever regulators keep pulling.",
-      "item_ids": [
+        "205af351dbab78a1",
         "29bc4bf28ada769e"
       ]
     },
     {
-      "title": "Silver's whiplash week",
-      "summary": "Silver plunged then rebounded on Friday, outpacing gold's weekly moves; industrial demand and a premium on domestic silver ETFs keep the metal's two-sided character on display.",
+      "title": "Festive paradox: imports crash while premiums return",
+      "summary": "Official inflows dried up, but street demand is alive: dealers flipped to premiums on lower prices, jewellers bet on lighter pieces, and jewellery stocks had their best day in months.",
       "item_ids": [
-        "2b60e50198a7893a",
-        "d7113ecbc80714b4"
+        "0cacfa43e49af271",
+        "f263024d105ed22b",
+        "a82eafee20bddbf2"
       ]
     },
     {
-      "title": "SGB holders lock in ~192% gains",
-      "summary": "RBI fixed the 2020-21 Series VII premature redemption price at Rs 14,614 per unit, giving early-exit investors nearly triple their money.",
+      "title": "Silver's structural discount to gold keeps widening",
+      "summary": "Silver is ~50% below its January $121 record as industrial demand wobbles, while gold's central-bank bid holds. Analysts call the washout typical — and a possible setup for the next leg.",
       "item_ids": [
-        "1f31456786f2b5c1"
+        "2b60e50198a7893a",
+        "d7113ecbc80714b4",
+        "0758f705efe61d61"
+      ]
+    },
+    {
+      "title": "Fed repricing caps the rebound",
+      "summary": "Hot US inflation has December hike odds near 90%, keeping real yields and the dollar firm enough to pin gold near $4,170. Easing October-hike bets are the only downside check.",
+      "item_ids": [
+        "9857a479c010e106",
+        "5b19e7f36f895395",
+        "cb0981b0d8ccd137"
       ]
     }
   ],
   "items": [
     {
-      "id": "8bbb7fc6dcc6445d",
-      "rank": 1,
-      "title": "Ahead of festival season, mutual funds halt fresh investments into gold FoF",
-      "summary": "Nearly 17 fund houses, including HDFC, ICICI Prudential, Kotak, DSP and Tata, stopped fresh gold FoF investments -- lumpsum, new SIPs, STPs and switch-ins -- from October 16, while existing SIPs continue. The curbs follow a 49% jump in September-quarter gold ETF inflows to Rs 8,606 crore; IBJA's Prithviraj Kothari said regulators want to slow dollar outflows with gold near $4,185 an ounce.",
-      "url": "https://www.thehindubusinessline.com/markets/gold/ahead-of-festival-season-mfs-halts-fresh-investments-into-gold-fof/article71592958.ece",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "publisher_id": "hindu-businessline",
-      "published_at": "2026-10-16T06:00:00Z",
-      "image_url": null,
-      "image_kind": "none",
+      "id": "205af351dbab78a1",
+      "title": "Indian mutual funds stop bulk subscriptions to gold ETFs ahead of festive season",
+      "url": "https://www.reuters.com/world/india/indian-mutual-funds-stop-bulk-subscriptions-gold-etfs-ahead-festive-season-2026-10-15/",
+      "source": "Reuters",
+      "source_domain": "reuters.com",
+      "publisher_id": "reuters",
+      "published_at": "2026-10-16T07:56:36Z",
       "category": "mcx",
       "metals": [
-        "gold",
-        "silver"
+        "gold"
       ],
       "tags": [
         "gold",
-        "silver",
         "mcx",
-        "rupee",
         "india"
       ],
+      "summary": "Kotak Mahindra, UTI and HDFC mutual funds halted bulk subscriptions to their gold ETFs late Thursday, reportedly after a SEBI nudge, to keep festive paper-gold demand from spilling into physical imports. Redemptions and existing SIPs are unaffected. The halt removes a key seasonal demand prop, with September gold imports already down to $1.8B from $2.3B in August.",
+      "image_url": null,
+      "image_kind": "none",
       "breaking": false,
       "related_urls": [
-        "https://pressinsider.com/policy/curbs-on-gold-funds-widen-as-rupee-reserves-face-pressure/",
-        "https://www.livemint.com/money/personal-finance/gold-fofs-halt-fresh-investments-but-silver-mutual-funds-remain-open-experts-decode-the-reasons-and-explain-what-to-do-11792231444616.html",
-        "https://www.livemint.com/market/sebi-gold-price-fund-curbs-may-have-limited-impact-as-etf-route-remains-open-11792144976335.html",
-        "https://www.business-standard.com/markets/news/gold-fofs-halt-fresh-investments-before-diwali-what-investors-can-do-126101601215_1.html"
-      ]
+        "https://www.thehindubusinessline.com/markets/gold/ahead-of-festival-season-mfs-halts-fresh-investments-into-go"
+      ],
+      "rank": 1
+    },
+    {
+      "id": "a82eafee20bddbf2",
+      "title": "Senco, PC Jeweller zoom up to 17%; why are gold-related stocks dazzling?",
+      "url": "https://www.business-standard.com/markets/news/senco-pc-jeweller-shares-surge-up-to-17-why-are-gold-stocks-rallying-on-friday-126101600417_1.html",
+      "source": "Business Standard",
+      "source_domain": "business-standard.com",
+      "publisher_id": "business-standard",
+      "published_at": "2026-10-16T12:39:13Z",
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "mcx",
+        "india",
+        "jewellery"
+      ],
+      "summary": "Jewellery stocks surged Friday as investors bet festive demand and the gold-fund curbs would push buyers toward listed retailers. PC Jeweller jumped 18.68% to a 52-week high of ₹17.15 after promoter Aditya Kumar Halwasiya bought 5.10 crore shares at ₹14.43, while Senco Gold and TBZ rallied. GJEPC data showed gem and jewellery exports up 9.43% in September.",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/a82eafee20bddbf2.jpg",
+      "image_kind": "photo",
+      "breaking": false,
+      "rank": 2
     },
     {
       "id": "0cacfa43e49af271",
-      "rank": 2,
+      "rank": 3,
       "title": "India gold swings to premium as lower prices lift jewellery demand",
       "summary": "Indian dealers charged premiums of up to $7 an ounce over official domestic prices this week, the first premium in over three months, as a pullback in gold prices drew festival-season jewellery buyers back into the market. September imports fell sharply year-on-year and supply has thinned; dealers say premiums could widen further if Dhanteras and Diwali buying picks up as expected.",
       "url": "https://www.brecorder.com/news/amp/40444704",
@@ -115,7 +131,7 @@
     },
     {
       "id": "e28fc7615e591b5d",
-      "rank": 3,
+      "rank": 4,
       "title": "Gold Falls ₹3,000 This Week, Silver Slides Over ₹10,000",
       "summary": "IBJA data showed 24-carat gold falling ₹3,004 over the week to ₹1,46,426 per 10 grams and silver sliding ₹10,191 to ₹2,10,918 per kg; spot gold traded near $4,186 and silver near $57 as rising crude lifted the dollar.",
       "url": "https://theworldopinion.com/business/gold-falls-3000-silver-slides-10000",
@@ -160,7 +176,7 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/29bc4bf28ada769e.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "9857a479c010e106",
@@ -184,31 +200,7 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/9857a479c010e106.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 5
-    },
-    {
-      "id": "afce0a0b21f49a01",
-      "rank": 6,
-      "title": "Gold's Split Screen: Sticky Inflation on One Side, Central-Bank Buying on the Other",
-      "summary": "Gold closed the session at $4,169.08, holding near weekly support after Thursday's rebound: a softer dollar and falling Treasury yields offset the September CPI shock (3.7% headline, 2.6% core) that firmed October hike bets. Speculators had already trimmed net-long positions before the data landed, while steady central-bank buying continues to cushion the downside.",
-      "url": "https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/gold-s-split-screen-sticky-inflation-on-one-side-central-bank-buying-on/70350888",
-      "source": "ad-hoc-news",
-      "source_domain": "ad-hoc-news.de",
-      "publisher_id": "ad-hoc-news",
-      "published_at": "2026-10-17T19:41:43Z",
-      "image_url": "https://mdb.ad-hoc-news.de/bild/bild-2823619_1920_1080.webp",
-      "image_kind": "photo",
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "global",
-        "gold",
-        "fed",
-        "central-banks"
-      ],
-      "breaking": false
+      "rank": 6
     },
     {
       "id": "600fe507b96df367",
@@ -266,6 +258,29 @@
       "rank": 8
     },
     {
+      "id": "9796f31d0c706b5e",
+      "title": "Why is China buying up gold?",
+      "url": "https://www.aljazeera.com/news-analysis/2026/10/16/why-is-china-buying-up-gold",
+      "source": "Al Jazeera",
+      "source_domain": "aljazeera.com",
+      "publisher_id": "al-jazeera",
+      "published_at": "2026-10-16T11:48:52Z",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "global",
+        "central-banks"
+      ],
+      "summary": "China's central bank bought gold for a 23rd straight month in September — about 23 tonnes, its biggest monthly addition since October 2023 — taking holdings to roughly 2,410 tonnes, the World Gold Council said. Analysts say Beijing is cutting dollar dependence after Western governments froze Russian reserves, while households pile into gold as property and equities disappoint.",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/9796f31d0c706b5e.jpg",
+      "image_kind": "photo",
+      "breaking": false,
+      "rank": 9
+    },
+    {
       "id": "b9dd755277b6708f",
       "title": "GJC urges Govt, BIS to review 67% hike in gold hallmarking charges amid compliance concerns",
       "summary": "GJC has urged the government and BIS to review the 67% hike in gold hallmarking charges — from ₹45 to ₹75 per article, notified September 14 — calling it unwarranted while fake hallmarking persists. With over 60 crore articles hallmarked since 2021, the council argues scale should have contained costs and wants enforcement prioritised over higher fees.",
@@ -286,11 +301,11 @@
       "image_url": null,
       "image_kind": "none",
       "breaking": false,
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "2b60e50198a7893a",
-      "rank": 10,
+      "rank": 11,
       "title": "Silver's recent 50% drop from a record high hints that an economic slowdown looms",
       "summary": "Silver futures touched a record intraday $121.79 an ounce in late January, per Dow Jones Market Data, and have since lost more than half, settling at $57.31 on Friday. Dealers told MarketWatch that silver's dual monetary-industrial role makes its weakness a leading indicator of economic trouble as high energy prices bite. Gold has fallen more than 25% from its own January record of $5,626.80.",
       "url": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1",
@@ -318,7 +333,7 @@
     },
     {
       "id": "d7113ecbc80714b4",
-      "rank": 11,
+      "rank": 12,
       "title": "[SMM Analysis] Silver Down Nearly 20% From Stage High: Why Are Solar Cell Prices Not Following?",
       "summary": "SMM's #1 silver price fell 19.6% from its August 27 high of 16,889 yuan/kg to 13,584 yuan/kg on October 15, edging to 13,842 yuan/kg on the 16th. Yet solar cell prices barely budged: M10 cell costs fell 10.8% to 0.310 yuan/W while G12R prices held flat since September 18. SMM blames hawkish Fed minutes, a dollar index above 102 and multi-year-high yields; COMEX silver broke below $60 on October 8.",
       "url": "https://news.metal.com/newscontent/104162687-smm-analysis-silver-down-nearly-20-from-stage-high-why-are-solar-cell-prices-not-following",
@@ -338,6 +353,28 @@
         "fed"
       ],
       "breaking": false
+    },
+    {
+      "id": "0758f705efe61d61",
+      "title": "Why silver is falling faster than gold: What it means for the next surge",
+      "url": "https://www.kitco.com/opinion/2026-10-16/why-silver-falling-faster-gold-what-it-means-next-surge",
+      "source": "Kitco",
+      "source_domain": "kitco.com",
+      "publisher_id": "kitco",
+      "published_at": "2026-10-17T00:39:00Z",
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "tags": [
+        "silver",
+        "global"
+      ],
+      "summary": "Silver keeps underperforming gold — it slipped toward $56.85 on Friday even as gold held firm — and CPM Group's Jeffrey Christian says the gap is structural: silver's large industrial share means high prices push manufacturers to cut usage or substitute, while gold enjoys central-bank demand. Analysts say the washout could set up silver's next rally.",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/0758f705efe61d61.jpg",
+      "image_kind": "photo",
+      "breaking": false,
+      "rank": 13
     },
     {
       "id": "f263024d105ed22b",
@@ -360,11 +397,11 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/f263024d105ed22b.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 12
+      "rank": 14
     },
     {
       "id": "1f31456786f2b5c1",
-      "rank": 13,
+      "rank": 15,
       "title": "RBI fixes SGB 2020-21 Series VII premature redemption price at Rs 14,614; exit window on October 19",
       "summary": "The RBI fixed the premature redemption price of Sovereign Gold Bond 2020-21 Series VII at Rs 14,614 per unit — about a 192% capital gain for digital subscribers who paid Rs 5,001 in October 2020. The exit window was moved to October 19 because October 20 is a Dussehra holiday. Holders can also stay until the October 2028 maturity and keep collecting 2.5% annual interest.",
       "url": "https://flashfinance.news/article/3162-rbi-fixes-sgb-2020-21-series-vii-premature-redemption-price",
@@ -390,7 +427,7 @@
     },
     {
       "id": "cb0981b0d8ccd137",
-      "rank": 14,
+      "rank": 16,
       "title": "India Bullion: Up on weak dollar; market assesses Fed rate outlook",
       "summary": "MCX December gold rose 0.6% to ₹1,48,320 per 10 grams and December silver gained 1.4% to ₹2,13,570 per kg on Friday as the dollar index fell to a two-week low of 101.57; COMEX gold was up 0.6% at $4,195.3 and silver up 1.5% at $57.99. Kotak Securities cited safe-haven flows from the equity selloff, while Commerzbank said Fed Chair Warsh's comments further dented October hike expectations.",
       "url": "https://informistmedia.com/CommodityWire/62264/India-Bullion-Up-on-weak-dollar-market-assesses-Fed-rate-outlook",
@@ -416,7 +453,7 @@
     },
     {
       "id": "7c19b27c67c2a465",
-      "rank": 15,
+      "rank": 17,
       "title": "Sensex gains 414 points; MCX gold up 0.64% to Rs 1,48,429, silver up 1.33% to Rs 2,13,460 on Friday",
       "summary": "MCX bullion futures rebounded on Friday: December gold rose 0.64% to Rs 1,48,429 per 10 grams and December silver gained 1.33% to Rs 2,13,460 per kg, after a weak week. The bounce tracked softer US bond yields and a weaker dollar, though the rupee's gains capped the domestic move. Brent eased to about $105 after touching $110.",
       "url": "https://www.kotakneo.com/news/market-news/stock-market-closing-bell-16-october-2026-sensex-gains-nifty-above-23100/",
@@ -441,7 +478,7 @@
     },
     {
       "id": "d90101517366ee22",
-      "rank": 16,
+      "rank": 18,
       "title": "Gold on Dhanteras: celebrate the ritual, rethink the investment",
       "summary": "A Mint column argues Dhanteras gold buying should be treated as ritual rather than investing: jewellery's making charges vanish on resale and coins sit in rented lockers, making festive gold consumption rather than a financial plan.",
       "url": "https://www.livemint.com/money/personal-finance/gold-on-dhanteras-celebrate-the-ritual-rethink-the-investment-11792135802308.html",
