@@ -1,61 +1,65 @@
 {
  "schema": "orob-news.v1",
- "edition_id": "2026-10-19T00:00Z",
- "generated_at": "2026-10-19T00:11:46Z",
+ "edition_id": "2026-10-19T02:00Z",
+ "generated_at": "2026-10-19T02:11:28Z",
  "window": {
-  "from": "2026-10-18T22:00:00Z",
-  "to": "2026-10-19T00:00:00Z"
+  "from": "2026-10-19T00:00:00Z",
+  "to": "2026-10-19T02:00:00Z"
  },
  "insights": {
-  "headline": "Gold steadies near $4,170 as fading Fed-hike bets offset oil-driven yields",
-  "summary": "Spot gold held near $4,170 an ounce as traders unwound bets on an imminent Fed rate hike, offsetting a crude spike toward $110 that pushed Treasury yields higher. In India, a price pullback drew festive buyers back: dealers charged premiums up to $7/oz, the first in over three months. MCX gold December futures closed the week at ₹1.47 lakh per 10g and silver at ₹2.11 lakh/kg, with technicals leaning bearish. Fund houses halted fresh investments into gold FoFs after a SEBI nudge, while China's central bank extended its buying streak to a 23rd month.",
+  "headline": "Gold, silver edge up on softer Fed bets; India braces for a volatile week",
+  "summary": "Gold and silver started the week higher as investors pared bets on an October Fed rate hike despite hot US inflation data, with COMEX gold futures near $4,194 an ounce and silver above $57.60. In India, analysts expect a volatile week for MCX bullion as crude prices, West Asia risks, the rupee’s strength and Chinese economic data drive moves. Physical demand is stirring as Indian gold swung to a premium on lower prices, while gold mutual funds have frozen fresh investments and the SGB 2020-21 Series VII redemption window opens on Monday.",
   "points": [
-   "Spot gold near $4,170; easing Fed-hike bets countered oil near $110 and higher yields.",
-   "India swings to $7/oz premium as lower prices pull festive jewellery buyers back.",
-   "MCX gold Dec ₹1.47 lakh/10g, silver Dec ₹2.11 lakh/kg; technical outlook bearish.",
-   "Gold FoFs halt fresh investments after SEBI nudge; silver funds stay open.",
-   "China's central bank bought ~23 tonnes in September, its 23rd straight month."
+   "Gold futures rose to about $4,194/oz and silver to $57.60 on Monday as Fed hike bets eased and yields slipped, though high crude kept some pressure on.",
+   "Indian analysts see a choppy week for MCX bullion, with crude, West Asia risks, Chinese data and a stronger rupee — which cuts import costs — in focus.",
+   "Physical demand is stirring: Indian gold has flipped to a premium as the pullback from record levels drew jewellery buyers back.",
+   "Gold mutual funds have halted fresh investments while silver funds stay open, and today’s SGB 2020-21 Series VII exit window opens at Rs 14,614 per unit.",
+   "Silver stays the volatile leg, having fallen faster than gold on growth worries, with miners also hit by strike disruptions."
   ]
  },
  "trending": [
   {
-   "title": "Fed-hike bets vs oil: the tug-of-war on bullion",
-   "summary": "Gold steadied near $4,170 as markets priced out an imminent Fed hike while Brent near $110 lifted yields. Analysts see a choppy week ahead, with US data and West Asia in focus.",
+   "title": "Rate-hike bets are the whole ballgame",
+   "summary": "Fed expectations are driving prices: easing October-hike bets lifted gold this week, while hot inflation data threatens to revive them — and technical desks still see room for a pull toward $4,000.",
    "item_ids": [
+    "dc72bd75795038ff",
     "a0d7e6921c160230",
     "1504c8191721ac91",
+    "600fe507b96df367",
     "1f22b7244e0b021b"
    ]
   },
   {
-   "title": "India's festive buyers return as prices ease",
-   "summary": "Premiums of up to $7/oz reappeared — the first in over three months — as lower prices drew jewellery buyers back; jewellers are betting on lighter pieces and old-gold exchange this season.",
+   "title": "India's rupee shield against record gold",
+   "summary": "The rupee’s strength is softening domestic prices even as global gold holds near $4,180-plus, flipping India’s physical market back to a premium as Diwali-season buying builds.",
    "item_ids": [
+    "1504c8191721ac91",
     "0cacfa43e49af271",
+    "29bc4bf28ada769e",
     "f263024d105ed22b"
    ]
   },
   {
-   "title": "Silver's sharper pain",
-   "summary": "Silver fell 6.3% last week and sits roughly 50% below its January record; analysts cite industrial exposure and a sixth straight annual supply deficit, with strike-hit miners adding tightness.",
+   "title": "Silver's wilder ride",
+   "summary": "Silver fell roughly twice as fast as gold on growth and rate fears, and miners face their own disruptions — a reminder that silver amplifies gold’s moves in both directions.",
    "item_ids": [
-    "0758f705efe61d61",
     "2b60e50198a7893a",
-    "d105193e53c2f422"
+    "d105193e53c2f422",
+    "1f22b7244e0b021b"
    ]
   },
   {
-   "title": "Fund curbs and policy moves",
-   "summary": "Fresh investments into gold FoFs halted after a SEBI nudge; duty drawback on jewellery exports was cut; and the GJC wants the 67% hallmarking-charge hike reviewed.",
+   "title": "Paper gold under pressure",
+   "summary": "Fund curbs, SGB redemptions and export drawback cuts show Indian savers reshaping how they hold gold: gold funds frozen, but silver funds and physical jewellery demand still open.",
    "item_ids": [
     "2dc4051106d22341",
-    "3992312a425d4097",
-    "b9dd755277b6708f"
+    "1f31456786f2b5c1",
+    "3992312a425d4097"
    ]
   },
   {
-   "title": "Central banks keep buying",
-   "summary": "China's ~23-tonne September purchase extended its gold-buying streak to a 23rd month, reflecting reserve diversification away from the dollar.",
+   "title": "Central banks keep stacking",
+   "summary": "China’s gold buying continues, part of a broader reserve-diversification bid that keeps a steady bid under the market even when speculative money leaves.",
    "item_ids": [
     "2d8724ac0c59450f"
    ]
@@ -63,8 +67,36 @@
  ],
  "items": [
   {
+   "id": "dc72bd75795038ff",
+   "title": "Gold, silver prices today: what could drive bullion rates this week",
+   "summary": "Gold and silver edged higher on Monday, with COMEX gold futures near $4,194 an ounce and silver above $57.60, after a sharp correction in MCX prices last week. Drivers cited: safe-haven demand around West Asia risks, lower Treasury yields and shifting Fed rate bets, plus crude, Chinese data and the rupee, whose strength could cap domestic gains.",
+   "url": "https://www.cnbctv18.com/market/commodities/gold-silver-prices-edge-high-what-could-drive-rates-this-week-20014589.htm",
+   "source": "CNBC-TV18",
+   "source_domain": "cnbctv18.com",
+   "publisher_id": "cnbc-tv18",
+   "published_at": "2026-10-19T01:54:06Z",
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "tags": [
+    "gold",
+    "silver",
+    "mcx",
+    "rupee",
+    "fed",
+    "india",
+    "global"
+   ],
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/dc72bd75795038ff.jpg",
+   "image_kind": "photo",
+   "breaking": false,
+   "rank": 1
+  },
+  {
    "id": "a0d7e6921c160230",
-   "rank": 1,
+   "rank": 2,
    "title": "Gold Steady as Rate-Hike Bets Ease, Oil Pushes Yields Higher",
    "summary": "Spot gold held near $4,170 an ounce after Thursday's 1.6% jump, its sharpest gain in over two weeks, as cooling bets on an imminent Fed hike offset a crude rally pushing Treasury yields higher. Fed Chair Warsh declined in Bangkok to signal tightening. Spot gold eased 0.1% to $4,168.49 while silver also fell; gold has been pressured all year by expectations of rising borrowing costs.",
    "url": "https://www.livemint.com/market/gold-steady-as-rate-hike-bets-ease-oil-pushes-yields-higher-11792367574043.html",
@@ -118,11 +150,11 @@
    "related_urls": [
     "https://theworldopinion.com/business/gold-falls-3000-silver-slides-10000"
    ],
-   "rank": 2
+   "rank": 3
   },
   {
    "id": "0cacfa43e49af271",
-   "rank": 3,
+   "rank": 4,
    "title": "India gold swings to premium as lower prices lift jewellery demand",
    "summary": "Indian dealers charged premiums of up to $7 an ounce over official domestic prices this week, the first premium in over three months, as a pullback in gold prices drew festival-season jewellery buyers back into the market. September imports fell sharply year-on-year and supply has thinned; dealers say premiums could widen further if Dhanteras and Diwali buying picks up as expected.",
    "url": "https://www.brecorder.com/news/amp/40444704",
@@ -146,7 +178,7 @@
   },
   {
    "id": "600fe507b96df367",
-   "rank": 4,
+   "rank": 5,
    "title": "Bullion Cues: Weakness may deepen",
    "summary": "The Hindu BusinessLine's technical column turns bearish: spot gold ($4,165.40/oz) and silver ($57/oz) lost 0.7% and 6.3% last week, with MCX gold December futures at ₹1,47,918/10g and silver December at ₹2,11,187/kg. It cites support at ₹1,43,500 and ₹1,41,000 for gold and a ₹2,00,000-2,00,750 band for silver, with the outlook turning positive only above ₹1,51,700 for gold.",
    "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-weakness-may-deepen/article71596139.ece",
@@ -193,7 +225,7 @@
    "related_urls": [
     "https://www.northernminer.com/news/china-steps-up-gold-buying-as-jewellery-demand-fades/1003895806/"
    ],
-   "rank": 5
+   "rank": 6
   },
   {
    "id": "29bc4bf28ada769e",
@@ -217,7 +249,7 @@
    "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/29bc4bf28ada769e.jpg",
    "image_kind": "photo",
    "breaking": false,
-   "rank": 6
+   "rank": 7
   },
   {
    "id": "2dc4051106d22341",
@@ -241,7 +273,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 7,
+   "rank": 8,
    "related_urls": [
     "https://www.reuters.com/world/india/indian-mutual-funds-stop-bulk-subscriptions-gold-etfs-ahead-festive-season-2026-10-15/"
    ]
@@ -273,7 +305,7 @@
     "https://ianslive.in/govt-cuts-gold-duty-drawback-rate-by-31-pc-silver-by-nearly-9-pc--20261016140718",
     "https://www.nationpress.com/business/govt-trims-gold-silver-export-drawback-rates"
    ],
-   "rank": 8
+   "rank": 9
   },
   {
    "id": "b9dd755277b6708f",
@@ -296,11 +328,11 @@
    "image_url": null,
    "image_kind": "none",
    "breaking": false,
-   "rank": 9
+   "rank": 10
   },
   {
    "id": "1f31456786f2b5c1",
-   "rank": 10,
+   "rank": 11,
    "title": "RBI fixes SGB 2020-21 Series VII premature redemption price at Rs 14,614; exit window on October 19",
    "summary": "The RBI fixed the premature redemption price of Sovereign Gold Bond 2020-21 Series VII at Rs 14,614 per unit — about a 192% capital gain for digital subscribers who paid Rs 5,001 in October 2020. The exit window was moved to October 19 because October 20 is a Dussehra holiday. Holders can also stay until the October 2028 maturity and keep collecting 2.5% annual interest.",
    "url": "https://flashfinance.news/article/3162-rbi-fixes-sgb-2020-21-series-vii-premature-redemption-price",
@@ -323,28 +355,6 @@
    "related_urls": [
     "https://flashfinance.news/article/3162-rbi-fixes-sgb-2020-21-series-vii-premature-redemption-price"
    ]
-  },
-  {
-   "id": "0758f705efe61d61",
-   "title": "Why silver is falling faster than gold: What it means for the next surge",
-   "url": "https://www.kitco.com/opinion/2026-10-16/why-silver-falling-faster-gold-what-it-means-next-surge",
-   "source": "Kitco",
-   "source_domain": "kitco.com",
-   "publisher_id": "kitco",
-   "published_at": "2026-10-17T00:39:00Z",
-   "category": "global",
-   "metals": [
-    "silver"
-   ],
-   "tags": [
-    "silver",
-    "global"
-   ],
-   "summary": "Silver keeps underperforming gold — it slipped toward $56.85 on Friday even as gold held firm — and CPM Group's Jeffrey Christian says the gap is structural: silver's large industrial share means high prices push manufacturers to cut usage or substitute, while gold enjoys central-bank demand. Analysts say the washout could set up silver's next rally.",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/0758f705efe61d61.jpg",
-   "image_kind": "photo",
-   "breaking": false,
-   "rank": 11
   },
   {
    "id": "2b60e50198a7893a",
