@@ -1,56 +1,53 @@
 {
  "schema": "orob-news.v1",
- "edition_id": "2026-10-19T06:00Z",
- "generated_at": "2026-10-19T06:30:24Z",
+ "edition_id": "2026-10-19T07:00Z",
+ "generated_at": "2026-10-19T07:03:39Z",
  "window": {
-  "from": "2026-10-19T05:00:00Z",
-  "to": "2026-10-19T06:00:00Z"
+  "from": "2026-10-19T06:00:00Z",
+  "to": "2026-10-19T07:00:00Z"
  },
  "insights": {
-  "headline": "MCX gold, silver rebound as October Fed-hike bets fade; Brent near $110 keeps the lid on",
-  "summary": "MCX gold and silver bounced on Monday as traders cut the odds of an October Fed hike to about 16% after Chair Warsh's dovish remarks, with December gold near Rs 1.48 lakh per 10 grams and silver near Rs 2.12 lakh per kg. COMEX gold traded around $4,197 and silver near $57.61 as softer crude and lower yields helped. But a December hike is still priced at about 92%, keeping the rally capped, while a firm rupee trims the domestic benefit. India has swung to premiums ahead of Dhanteras and Diwali even as gold fund-of-funds froze fresh inflows.",
+  "headline": "October Fed hike bets fade after Warsh's dovish turn; MCX gold holds near ₹1.48 lakh ahead of Dussehra break",
+  "summary": "Gold and silver edged higher on Monday as remarks by Fed Chair Kevin Warsh cut the implied odds of an October Fed rate hike below 20%, though a December move remains almost fully priced. MCX December gold traded near ₹1,48,400 per 10 grams and silver near ₹2.12 lakh per kg, with a firmer rupee capping domestic gains versus COMEX. Indian dealers charged premiums for the first time in 3 months as lower prices drew festive jewellery buyers, while SEBI-directed curbs halted fresh flows into gold ETF fund-of-funds. MCX will stay shut for the morning session on Tuesday, October 20 for Dussehra.",
   "points": [
-   "MCX December gold opened Rs 479 higher at Rs 1,48,397/10g; silver opened Rs 1,132 higher at Rs 2,12,319/kg.",
-   "October Fed-hike odds fell to ~16% after Warsh's remarks, but December stays near 92% — capping bullion.",
-   "Brent touched $110 before easing to ~$108; oil remains the wild card for inflation and yields.",
-   "India gold swung to premiums of up to $7/oz as festival buyers returned; MCX shuts Tuesday morning for Dussehra.",
-   "SEBI told fund houses to halt fresh flows into gold FoFs from Oct 16; silver funds stay open."
+   "October Fed hike odds fell below 20% after Warsh's remarks; a December hike is still priced near 92%.",
+   "MCX December gold traded near ₹1,48,400 per 10 grams; December silver near ₹2.12 lakh per kg.",
+   "Indian dealers charged premiums up to $7/oz — the first in over three months — as festive buyers returned.",
+   "Gold ETF fund-of-funds halted fresh lump-sum and SIP flows from October 16 on SEBI instructions; silver funds stay open.",
+   "NSE and BSE are closed on October 20 for Dussehra; MCX skips the morning session and resumes in the evening."
   ]
  },
  "trending": [
   {
-   "title": "October hike odds collapse, December stays live",
-   "summary": "Warsh's refusal to pre-commit cut October hike odds to ~16%, but December sits near 92%. Gold and silver bounced on the relief — and stalled where it meets oil near $110 and stubborn 5% yields.",
+   "title": "The October Fed hike is nearly priced out",
+   "summary": "Warsh's dovish remarks cut October hike odds below 20%, but December tightening is still ~92% priced — leaving gold rangebound below $4,200 into the October 27-28 FOMC meeting.",
    "item_ids": [
     "b27af42c072aa9ff",
     "2204f491f7072904",
-    "289dcef418624465",
-    "d1a0edf2d5d2bf8b"
+    "289dcef418624465"
    ]
   },
   {
-   "title": "Silver bounces, but the downtrend still owns it",
-   "summary": "Silver's bounce built on the yield pullback near $57.60, yet the technical read keeps sellers in control below $58.65 — and silver is still down ~50% from January's record, a warning sign for growth.",
-   "item_ids": [
-    "6b865e7259cf980c",
-    "2b60e50198a7893a",
-    "b27af42c072aa9ff"
-   ]
-  },
-  {
-   "title": "A firm rupee caps the MCX bounce",
-   "summary": "International gains keep getting trimmed at home: a firm rupee is cutting landed import costs, which is why last week's 2.4% MCX gold slide ran deeper than the global move.",
-   "item_ids": [
-    "1504c8191721ac91",
-    "dc72bd75795038ff",
-    "b27af42c072aa9ff"
-   ]
-  },
-  {
-   "title": "Festive India pulls back to premiums",
-   "summary": "Lower prices drew festival buyers back — Indian dealers charged premiums up to $7/oz, the first in over three months — even as SEBI froze fresh gold FoF inflows to curb imports.",
+   "title": "India's festive bid is back — at lower prices",
+   "summary": "Dealers moved to premium as the pullback drew jewellery buyers ahead of Dussehra and Diwali; the trade now watches whether investment demand follows the festive bid.",
    "item_ids": [
     "0cacfa43e49af271",
+    "b27af42c072aa9ff",
+    "dc72bd75795038ff"
+   ]
+  },
+  {
+   "title": "Silver's bounce meets the rate trade",
+   "summary": "Silver holds near $57 after a ~6% weekly slide; technicians see $55 as the line in the sand while Fed hike pricing keeps sellers in control.",
+   "item_ids": [
+    "2b60e50198a7893a",
+    "6b865e7259cf980c"
+   ]
+  },
+  {
+   "title": "Gold fund curbs widen in India",
+   "summary": "Fund houses halted fresh lump-sum and new SIP/STP flows into gold ETF fund-of-funds from October 16 after SEBI's verbal instructions, a move linked to curbing gold imports; silver funds remain open.",
+   "item_ids": [
     "2dc4051106d22341"
    ]
   }
@@ -84,28 +81,31 @@
    "rank": 1
   },
   {
-   "id": "2204f491f7072904",
-   "title": "Gold rangebound as softer October Fed bets meet firm December hike",
-   "summary": "Gold lacked conviction at the start of the week, holding below $4,200 as fading bets on an October Fed hike clashed with firm December tightening pricing. Fed Chair Warsh's silence before the blackout cut October hike odds to ~15%, while markets price over 90% for December. Weekend geopolitics - Hormuz tanker damage and a Ukrainian strike on a St. Petersburg oil terminal - kept crude elevated.",
-   "url": "https://www.fxstreet.com/news/gold-rangebound-as-easing-october-fed-bets-clash-with-firm-december-hike-pricing-202610190439",
-   "source": "FXStreet",
-   "source_domain": "fxstreet.com",
-   "publisher_id": "fxstreet",
-   "published_at": "2026-10-19T04:39:03Z",
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "tags": [
-    "fed",
-    "global",
-    "gold"
-   ],
+   "id": "2dc4051106d22341",
+   "title": "Gold FoFs halt fresh investments, but silver mutual funds remain open",
+   "summary": "Fund houses have halted fresh lump-sum, switch-in and new SIP/STP flows into gold ETF fund-of-funds after verbal instructions from SEBI, effective October 16; gold ETFs keep trading on exchanges. Experts say the move aims to curb gold imports and support the rupee in the festive season — silver funds stay open since silver imports are far smaller. Existing SIP instalments and redemptions continue.",
+   "url": "https://www.livemint.com/money/personal-finance/gold-fofs-halt-fresh-investments-but-silver-mutual-funds-remain-open-experts-decode-the-reasons-and-explain-what-to-do-11792231444616.html",
+   "source": "Mint",
+   "source_domain": "livemint.com",
+   "publisher_id": "mint",
+   "published_at": "2026-10-17T11:30:00Z",
    "image_url": null,
    "image_kind": "none",
+   "tags": [
+    "gold",
+    "silver",
+    "india"
+   ],
+   "category": "policy",
+   "metals": [
+    "gold",
+    "silver"
+   ],
    "breaking": false,
-   "related_urls": [],
-   "rank": 2
+   "rank": 2,
+   "related_urls": [
+    "https://www.reuters.com/world/india/indian-mutual-funds-stop-bulk-subscriptions-gold-etfs-ahead-festive-season-2026-10-15/"
+   ]
   },
   {
    "id": "289dcef418624465",
@@ -133,27 +133,25 @@
    "rank": 3
   },
   {
-   "id": "82ed6e3516d51a0a",
-   "title": "Gold and Silver Price Forecast: AI Funding Fears Fuel Rebound",
-   "summary": "Gold rose toward $4,183 in early Asian trade as falling Treasury yields drew haven bids, with FXEmpire attributing the move to investor unease over AI companies' funding needs and Middle East shipping risks pushing money into government bonds. It notes Brent crude stayed above $108 after Trump's partial Russia sanctions waiver, and that December Fed-hike expectations sit near 85%.",
-   "url": "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-ai-funding-fears-fuel-rebound-1638829",
-   "source": "FXEmpire",
-   "source_domain": "fxempire.com",
-   "publisher_id": "fxempire",
-   "published_at": "2026-10-19T03:07:00Z",
+   "id": "2204f491f7072904",
+   "title": "Gold rangebound as softer October Fed bets meet firm December hike",
+   "summary": "Gold lacked conviction at the start of the week, holding below $4,200 as fading bets on an October Fed hike clashed with firm December tightening pricing. Fed Chair Warsh's silence before the blackout cut October hike odds to ~15%, while markets price over 90% for December. Weekend geopolitics - Hormuz tanker damage and a Ukrainian strike on a St. Petersburg oil terminal - kept crude elevated.",
+   "url": "https://www.fxstreet.com/news/gold-rangebound-as-easing-october-fed-bets-clash-with-firm-december-hike-pricing-202610190439",
+   "source": "FXStreet",
+   "source_domain": "fxstreet.com",
+   "publisher_id": "fxstreet",
+   "published_at": "2026-10-19T04:39:03Z",
    "category": "global",
    "metals": [
-    "gold",
-    "silver"
+    "gold"
    ],
    "tags": [
-    "gold",
-    "silver",
     "fed",
-    "global"
+    "global",
+    "gold"
    ],
-   "image_url": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/gold-and-silver-precious-metals-03.jpg?width=1201",
-   "image_kind": "photo",
+   "image_url": null,
+   "image_kind": "none",
    "breaking": false,
    "related_urls": [],
    "rank": 4
@@ -188,14 +186,14 @@
    "related_urls": []
   },
   {
-   "id": "d1a0edf2d5d2bf8b",
-   "title": "Gold Price Forecast: Oil Near $110 Tests Bullion's Rebound as Fed Hike Bets Fade",
-   "summary": "FXLeaders analyst Arslan Ali Butt calls this a relief rally: December gold futures gained 0.4% to $4,196.40 and spot rose 0.3% to $4,175.60, but traders price only a 16% chance of an October Fed hike versus 92% for December. Falling US yields on an AI-growth bond rally are helping gold, though fragile; oil is the wild card after Brent touched $110, and US PPI surged 1.3%.",
-   "url": "https://www.fxleaders.com/news/2026/10/19/gold-price-forecast-oil-110-fed-rate-hike-bets/",
-   "source": "FX Leaders",
-   "source_domain": "fxleaders.com",
-   "publisher_id": "fx-leaders",
-   "published_at": "2026-10-19T05:17:00Z",
+   "id": "82ed6e3516d51a0a",
+   "title": "Gold and Silver Price Forecast: AI Funding Fears Fuel Rebound",
+   "summary": "Gold rose toward $4,183 in early Asian trade as falling Treasury yields drew haven bids, with FXEmpire attributing the move to investor unease over AI companies' funding needs and Middle East shipping risks pushing money into government bonds. It notes Brent crude stayed above $108 after Trump's partial Russia sanctions waiver, and that December Fed-hike expectations sit near 85%.",
+   "url": "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-ai-funding-fears-fuel-rebound-1638829",
+   "source": "FXEmpire",
+   "source_domain": "fxempire.com",
+   "publisher_id": "fxempire",
+   "published_at": "2026-10-19T03:07:00Z",
    "category": "global",
    "metals": [
     "gold",
@@ -207,65 +205,11 @@
     "fed",
     "global"
    ],
-   "image_url": "https://dr46azxe5rdcu.cloudfront.net/wp-content/uploads/2026/09/16075447/GOLD-5-scaled.webp",
+   "image_url": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/gold-and-silver-precious-metals-03.jpg?width=1201",
    "image_kind": "photo",
    "breaking": false,
    "related_urls": [],
    "rank": 6
-  },
-  {
-   "id": "6b865e7259cf980c",
-   "title": "Silver (XAG) Forecast: Bounce Builds but Rate Trade Keeps Sellers in Control",
-   "summary": "Silver's bounce built on the yield pullback and the dollar's retreat, trading near $57.60 as the US Dollar Index slipped toward 101.6. The technical read sees $58.65 as the nearest upside pivot - a sustained move above it opens $61.74-62.45 - while failure there risks a retest of last week's $55.56 low. The trade hinges on whether the 10-year yield keeps falling and the dollar breaks lower.",
-   "url": "https://www.fxempire.com/forecasts/article/silver-xag-forecast-bounce-builds-but-rate-trade-keeps-sellers-in-control-1638841",
-   "source": "FXEmpire",
-   "source_domain": "fxempire.com",
-   "publisher_id": "fxempire",
-   "published_at": "2026-10-19T04:33:32Z",
-   "category": "global",
-   "metals": [
-    "silver"
-   ],
-   "tags": [
-    "fed",
-    "silver",
-    "global"
-   ],
-   "image_url": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/silver-precious-metal-price-chart-05-3.jpg?width=1201",
-   "image_kind": "photo",
-   "breaking": false,
-   "related_urls": [
-    "https://www.fxstreet.com/analysis/silver-price-forecast-xag-usd-gains-above-5750-as-fed-rate-hike-bets-decrease-202610190316"
-   ],
-   "rank": 7
-  },
-  {
-   "id": "2b60e50198a7893a",
-   "rank": 8,
-   "title": "Silver's recent 50% drop from a record high hints that an economic slowdown looms",
-   "summary": "Silver futures touched a record intraday $121.79 an ounce in late January, per Dow Jones Market Data, and have since lost more than half, settling at $57.31 on Friday. Dealers told MarketWatch that silver's dual monetary-industrial role makes its weakness a leading indicator of economic trouble as high energy prices bite. Gold has fallen more than 25% from its own January record of $5,626.80.",
-   "url": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1",
-   "source": "MarketWatch",
-   "source_domain": "marketwatch.com",
-   "publisher_id": "marketwatch",
-   "published_at": "2026-10-17T12:30:00Z",
-   "image_url": null,
-   "image_kind": "none",
-   "category": "global",
-   "metals": [
-    "silver",
-    "gold"
-   ],
-   "tags": [
-    "silver",
-    "gold",
-    "global",
-    "fed"
-   ],
-   "breaking": false,
-   "related_urls": [
-    "https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/silver-ends-choppy-week-near-57-as-traders-weigh-inflation-shock-against/70348150"
-   ]
   },
   {
    "id": "1504c8191721ac91",
@@ -295,11 +239,11 @@
     "https://theworldopinion.com/business/gold-falls-3000-silver-slides-10000",
     "https://www.bizzbuzz.news/market/commodities/west-asia-tensions-110-crude-cloud-bullion-outlook-1410880"
    ],
-   "rank": 9
+   "rank": 7
   },
   {
    "id": "0cacfa43e49af271",
-   "rank": 10,
+   "rank": 8,
    "title": "India gold swings to premium as lower prices lift jewellery demand",
    "summary": "Indian dealers charged premiums of up to $7 an ounce over official domestic prices this week, the first premium in over three months, as a pullback in gold prices drew festival-season jewellery buyers back into the market. September imports fell sharply year-on-year and supply has thinned; dealers say premiums could widen further if Dhanteras and Diwali buying picks up as expected.",
    "url": "https://www.brecorder.com/news/amp/40444704",
@@ -323,31 +267,83 @@
    "related_urls": []
   },
   {
-   "id": "2dc4051106d22341",
-   "title": "Gold FoFs halt fresh investments, but silver mutual funds remain open",
-   "summary": "Fund houses have halted fresh lump-sum, switch-in and new SIP/STP flows into gold ETF fund-of-funds after verbal instructions from SEBI, effective October 16; gold ETFs keep trading on exchanges. Experts say the move aims to curb gold imports and support the rupee in the festive season — silver funds stay open since silver imports are far smaller. Existing SIP instalments and redemptions continue.",
-   "url": "https://www.livemint.com/money/personal-finance/gold-fofs-halt-fresh-investments-but-silver-mutual-funds-remain-open-experts-decode-the-reasons-and-explain-what-to-do-11792231444616.html",
-   "source": "Mint",
-   "source_domain": "livemint.com",
-   "publisher_id": "mint",
-   "published_at": "2026-10-17T11:30:00Z",
+   "id": "2b60e50198a7893a",
+   "rank": 9,
+   "title": "Silver's recent 50% drop from a record high hints that an economic slowdown looms",
+   "summary": "Silver futures touched a record intraday $121.79 an ounce in late January, per Dow Jones Market Data, and have since lost more than half, settling at $57.31 on Friday. Dealers told MarketWatch that silver's dual monetary-industrial role makes its weakness a leading indicator of economic trouble as high energy prices bite. Gold has fallen more than 25% from its own January record of $5,626.80.",
+   "url": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1",
+   "source": "MarketWatch",
+   "source_domain": "marketwatch.com",
+   "publisher_id": "marketwatch",
+   "published_at": "2026-10-17T12:30:00Z",
    "image_url": null,
    "image_kind": "none",
-   "tags": [
-    "gold",
+   "category": "global",
+   "metals": [
     "silver",
-    "india"
+    "gold"
    ],
-   "category": "policy",
+   "tags": [
+    "silver",
+    "gold",
+    "global",
+    "fed"
+   ],
+   "breaking": false,
+   "related_urls": [
+    "https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/silver-ends-choppy-week-near-57-as-traders-weigh-inflation-shock-against/70348150"
+   ]
+  },
+  {
+   "id": "6b865e7259cf980c",
+   "title": "Silver (XAG) Forecast: Bounce Builds but Rate Trade Keeps Sellers in Control",
+   "summary": "Silver's bounce built on the yield pullback and the dollar's retreat, trading near $57.60 as the US Dollar Index slipped toward 101.6. The technical read sees $58.65 as the nearest upside pivot - a sustained move above it opens $61.74-62.45 - while failure there risks a retest of last week's $55.56 low. The trade hinges on whether the 10-year yield keeps falling and the dollar breaks lower.",
+   "url": "https://www.fxempire.com/forecasts/article/silver-xag-forecast-bounce-builds-but-rate-trade-keeps-sellers-in-control-1638841",
+   "source": "FXEmpire",
+   "source_domain": "fxempire.com",
+   "publisher_id": "fxempire",
+   "published_at": "2026-10-19T04:33:32Z",
+   "category": "global",
+   "metals": [
+    "silver"
+   ],
+   "tags": [
+    "fed",
+    "silver",
+    "global"
+   ],
+   "image_url": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/silver-precious-metal-price-chart-05-3.jpg?width=1201",
+   "image_kind": "photo",
+   "breaking": false,
+   "related_urls": [
+    "https://www.fxstreet.com/analysis/silver-price-forecast-xag-usd-gains-above-5750-as-fed-rate-hike-bets-decrease-202610190316"
+   ],
+   "rank": 10
+  },
+  {
+   "id": "ee4dc92761fb090a",
+   "rank": 11,
+   "title": "Stock Market Holiday 2026: Are NSE, BSE closed on October 20 for Dussehra? Check remaining holidays for the year",
+   "summary": "NSE and BSE will stay closed on Tuesday, October 20 for Dussehra, the second exchange holiday this month after Gandhi Jayanti. MCX will be shut for the morning session and resume trading in the evening, while NCDEX stays closed for both sessions. Remaining 2026 market holidays: Diwali-Balipratipada on November 10, Guru Nanak Jayanti on November 24, and Christmas on December 25.",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-2026-are-nse-bse-closed-on-october-20-for-dussehra-check-remaining-holidays-for-the-year/articleshow/135040341.cms",
+   "source": "Economic Times",
+   "source_domain": "economictimes.indiatimes.com",
+   "publisher_id": "economic-times",
+   "published_at": "2026-10-19T05:09:00Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/ee4dc92761fb090a.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "mcx",
+    "india",
+    "gold",
+    "silver"
+   ],
+   "category": "mcx",
    "metals": [
     "gold",
     "silver"
    ],
-   "breaking": false,
-   "rank": 11,
-   "related_urls": [
-    "https://www.reuters.com/world/india/indian-mutual-funds-stop-bulk-subscriptions-gold-etfs-ahead-festive-season-2026-10-15/"
-   ]
+   "breaking": false
   },
   {
    "id": "600fe507b96df367",
