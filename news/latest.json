@@ -1,379 +1,378 @@
 {
-  "schema": "orob-news.v1",
-  "edition_id": "2026-10-19T05:00Z",
-  "generated_at": "2026-10-19T05:04:49Z",
-  "window": {
-    "from": "2026-10-19T03:00:00Z",
-    "to": "2026-10-19T05:00:00Z"
-  },
-  "insights": {
-    "headline": "Gold capped below $4,200 as weekend geopolitical flare-ups collide with Fed hike repricing.",
-    "summary": "Gold started the week rangebound, edging up on softer oil and a weaker dollar but held below $4,200 as traders weighed fading odds of an October Fed hike against near-certain December tightening. Geopolitics - Hormuz tanker damage, a Ukrainian strike on a St. Petersburg oil terminal and Saudi-Houthi clashes - kept energy inflation fears alive. Silver bounced toward $57.60 on the dollar's slide, while analysis warned its 50%-plus drawdown from January's record signals slowdown risk. MCX tracked global cues while India's physical gold swung back to a premium on festival-season jewellery demand.",
-    "points": [
-      "Gold rangebound below $4,200: October Fed hike odds fell to ~15% after Warsh's silence, but December tightening is priced above 90%.",
-      "Weekend geopolitics: Hormuz tanker damage, St. Petersburg oil terminal strikes and Saudi-Houthi clashes kept crude near $108.",
-      "Silver bounced near $57.60 on dollar weakness; $58.65 is the key pivot, a break below $55.56 risks another leg down.",
-      "Silver's 50%+ fall from its $121.79 January peak is being read as an early warning of a broader economic slowdown.",
-      "India: gold swung back to premium on festive jewellery demand; gold FoFs halted fresh investments after SEBI instructions."
-    ]
-  },
-  "trending": [
-    {
-      "title": "Geopolitics caps gold below $4,200",
-      "summary": "Weekend strikes on Hormuz shipping and a Russian oil terminal kept crude high, limiting gold's downside but capping its rebound under $4,220 resistance.",
-      "item_ids": [
-        "2204f491f7072904",
-        "289dcef418624465"
-      ]
-    },
-    {
-      "title": "Fed blackout week: October odds fade, December firm",
-      "summary": "Warsh gave no policy cues ahead of the Oct 27-28 meeting; markets now see ~15% odds of an October hike versus over 90% for December.",
-      "item_ids": [
-        "2204f491f7072904",
-        "6b865e7259cf980c"
-      ]
-    },
-    {
-      "title": "Silver drawdown sparks slowdown warnings",
-      "summary": "Silver sits more than 50% below its January record while gold is down ~25%; dealers say its weakness may foreshadow a broader economic slowdown.",
-      "item_ids": [
-        "2b60e50198a7893a",
-        "6b865e7259cf980c"
-      ]
-    },
-    {
-      "title": "MCX tracks global cues; premiums return on festive demand",
-      "summary": "MCX futures followed overseas markets while India's physical gold market moved back to a premium as lower prices revived festive jewellery buying.",
-      "item_ids": [
-        "dc72bd75795038ff",
-        "1504c8191721ac91",
-        "0cacfa43e49af271"
-      ]
-    },
-    {
-      "title": "Fund flows and regulation in focus",
-      "summary": "Gold ETF fund-of-funds halted fresh investments after verbal SEBI instructions while silver funds stayed open; GJC urged a review of the 67% hallmarking charge hike.",
-      "item_ids": [
-        "2dc4051106d22341",
-        "b9dd755277b6708f"
-      ]
-    }
-  ],
-  "items": [
-    {
-      "id": "2204f491f7072904",
-      "title": "Gold rangebound as softer October Fed bets meet firm December hike",
-      "summary": "Gold lacked conviction at the start of the week, holding below $4,200 as fading bets on an October Fed hike clashed with firm December tightening pricing. Fed Chair Warsh's silence before the blackout cut October hike odds to ~15%, while markets price over 90% for December. Weekend geopolitics - Hormuz tanker damage and a Ukrainian strike on a St. Petersburg oil terminal - kept crude elevated.",
-      "url": "https://www.fxstreet.com/news/gold-rangebound-as-easing-october-fed-bets-clash-with-firm-december-hike-pricing-202610190439",
-      "source": "FXStreet",
-      "source_domain": "fxstreet.com",
-      "publisher_id": "fxstreet",
-      "published_at": "2026-10-19T04:39:03Z",
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "fed",
-        "global",
-        "gold"
-      ],
-      "image_url": null,
-      "image_kind": "none",
-      "breaking": false,
-      "related_urls": [],
-      "rank": 1
-    },
-    {
-      "id": "289dcef418624465",
-      "title": "Gold edges higher on softer oil; Fed rate outlook in focus",
-      "summary": "Spot gold rose 0.3% to $4,175.60 an ounce and December COMEX futures gained 0.4% to $4,196.40 as softer crude - after US President Trump waived sanctions and tariffs on Russia - eased inflation pressure. Investors are sizing up a Fed rate hike later this year: FedWatch prices a 16% chance of an October increase and 92% for December, with FOMC and PCE data due next week.",
-      "url": "https://www.reuters.com/world/india/gold-edges-higher-softer-oil-fed-rate-outlook-focus-2026-10-19/",
-      "source": "Reuters",
-      "source_domain": "reuters.com",
-      "publisher_id": "reuters",
-      "published_at": "2026-10-19T03:09:19Z",
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "fed",
-        "india",
-        "global"
-      ],
-      "image_url": null,
-      "image_kind": "none",
-      "breaking": false,
-      "related_urls": [],
-      "rank": 2
-    },
-    {
-      "id": "dc72bd75795038ff",
-      "title": "Gold, silver prices today: what could drive bullion rates this week",
-      "summary": "Gold and silver edged higher on Monday, with COMEX gold futures near $4,194 an ounce and silver above $57.60, after a sharp correction in MCX prices last week. Drivers cited: safe-haven demand around West Asia risks, lower Treasury yields and shifting Fed rate bets, plus crude, Chinese data and the rupee, whose strength could cap domestic gains.",
-      "url": "https://www.cnbctv18.com/market/commodities/gold-silver-prices-edge-high-what-could-drive-rates-this-week-20014589.htm",
-      "source": "CNBC-TV18",
-      "source_domain": "cnbctv18.com",
-      "publisher_id": "cnbc-tv18",
-      "published_at": "2026-10-19T01:54:06Z",
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "rupee",
-        "fed",
-        "india",
-        "global"
-      ],
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/dc72bd75795038ff.jpg",
-      "image_kind": "photo",
-      "breaking": false,
-      "rank": 3,
-      "related_urls": []
-    },
-    {
-      "id": "82ed6e3516d51a0a",
-      "title": "Gold and Silver Price Forecast: AI Funding Fears Fuel Rebound",
-      "summary": "Gold rose toward $4,183 in early Asian trade as falling Treasury yields drew haven bids, with FXEmpire attributing the move to investor unease over AI companies' funding needs and Middle East shipping risks pushing money into government bonds. It notes Brent crude stayed above $108 after Trump's partial Russia sanctions waiver, and that December Fed-hike expectations sit near 85%.",
-      "url": "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-ai-funding-fears-fuel-rebound-1638829",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "publisher_id": "fxempire",
-      "published_at": "2026-10-19T03:07:00Z",
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "fed",
-        "global"
-      ],
-      "image_url": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/gold-and-silver-precious-metals-03.jpg?width=1201",
-      "image_kind": "photo",
-      "breaking": false,
-      "related_urls": [],
-      "rank": 4
-    },
-    {
-      "id": "2b60e50198a7893a",
-      "rank": 5,
-      "title": "Silver's recent 50% drop from a record high hints that an economic slowdown looms",
-      "summary": "Silver futures touched a record intraday $121.79 an ounce in late January, per Dow Jones Market Data, and have since lost more than half, settling at $57.31 on Friday. Dealers told MarketWatch that silver's dual monetary-industrial role makes its weakness a leading indicator of economic trouble as high energy prices bite. Gold has fallen more than 25% from its own January record of $5,626.80.",
-      "url": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1",
-      "source": "MarketWatch",
-      "source_domain": "marketwatch.com",
-      "publisher_id": "marketwatch",
-      "published_at": "2026-10-17T12:30:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "global",
-      "metals": [
-        "silver",
-        "gold"
-      ],
-      "tags": [
-        "silver",
-        "gold",
-        "global",
-        "fed"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/silver-ends-choppy-week-near-57-as-traders-weigh-inflation-shock-against/70348150"
-      ]
-    },
-    {
-      "id": "6b865e7259cf980c",
-      "title": "Silver (XAG) Forecast: Bounce Builds but Rate Trade Keeps Sellers in Control",
-      "summary": "Silver's bounce built on the yield pullback and the dollar's retreat, trading near $57.60 as the US Dollar Index slipped toward 101.6. The technical read sees $58.65 as the nearest upside pivot - a sustained move above it opens $61.74-62.45 - while failure there risks a retest of last week's $55.56 low. The trade hinges on whether the 10-year yield keeps falling and the dollar breaks lower.",
-      "url": "https://www.fxempire.com/forecasts/article/silver-xag-forecast-bounce-builds-but-rate-trade-keeps-sellers-in-control-1638841",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "publisher_id": "fxempire",
-      "published_at": "2026-10-19T04:33:32Z",
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "tags": [
-        "fed",
-        "silver",
-        "global"
-      ],
-      "image_url": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/silver-precious-metal-price-chart-05-3.jpg?width=1201",
-      "image_kind": "photo",
-      "breaking": false,
-      "related_urls": [
-        "https://www.fxstreet.com/analysis/silver-price-forecast-xag-usd-gains-above-5750-as-fed-rate-hike-bets-decrease-202610190316"
-      ],
-      "rank": 6
-    },
-    {
-      "id": "2d8724ac0c59450f",
-      "title": "China's gold buying reflects push to diversify reserves and household demand",
-      "summary": "China's central bank bought about 23 tonnes of gold in September — its 23rd straight month of buying and its biggest monthly addition in nearly three years. The accumulation reflects reserve diversification away from dollar assets after the freeze of Russian central bank funds. Chinese households are also buying more bars and coins, up 28.4% year on year in the first half.",
-      "url": "https://www.tbsnews.net/explainer/chinas-gold-buying-reflects-push-diversify-reserves-and-household-demand-1576336",
-      "source": "The Business Standard",
-      "source_domain": "tbsnews.net",
-      "publisher_id": "the-business-standard",
-      "published_at": "2026-10-18T08:20:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/2d8724ac0c59450f.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "central-banks",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://www.northernminer.com/news/china-steps-up-gold-buying-as-jewellery-demand-fades/1003895806/"
-      ],
-      "rank": 7
-    },
-    {
-      "id": "1504c8191721ac91",
-      "title": "Gold and silver head for volatile week amid crude oil spike, West Asia worries",
-      "summary": "Analysts expect a choppy week for bullion as West Asia tensions and Brent near $110 keep markets on edge. MCX gold December futures fell ₹3,581 (2.4%) last week to ₹1.47 lakh per 10g and silver slid ₹14,568 (6.4%) to ₹2.11 lakh per kg — mainly on the rupee firming to 94.8, cutting landed import costs. Traders will track Chinese data, US housing and PMIs; MCX shuts Tuesday morning for Dussehra.",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-and-silver-head-for-volatile-week-amid-crude-oil-spike-west-asia-worries/article71599950.ece",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "publisher_id": "hindu-businessline",
-      "published_at": "2026-10-18T13:12:15Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "rupee",
-        "global"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://theworldopinion.com/business/gold-falls-3000-silver-slides-10000"
-      ],
-      "rank": 8
-    },
-    {
-      "id": "0cacfa43e49af271",
-      "rank": 9,
-      "title": "India gold swings to premium as lower prices lift jewellery demand",
-      "summary": "Indian dealers charged premiums of up to $7 an ounce over official domestic prices this week, the first premium in over three months, as a pullback in gold prices drew festival-season jewellery buyers back into the market. September imports fell sharply year-on-year and supply has thinned; dealers say premiums could widen further if Dhanteras and Diwali buying picks up as expected.",
-      "url": "https://www.brecorder.com/news/amp/40444704",
-      "source": "Business Recorder",
-      "source_domain": "brecorder.com",
-      "publisher_id": "business-recorder",
-      "published_at": "2026-10-17T23:53:25Z",
-      "image_url": "https://i.brecorder.com/large/2026/01/291239088f1d613.webp",
-      "image_kind": "photo",
-      "category": "festive",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "mcx",
-        "india",
-        "jewellery"
-      ],
-      "breaking": false,
-      "related_urls": []
-    },
-    {
-      "id": "600fe507b96df367",
-      "rank": 10,
-      "title": "Bullion Cues: Weakness may deepen",
-      "summary": "The Hindu BusinessLine's technical column turns bearish: spot gold ($4,165.40/oz) and silver ($57/oz) lost 0.7% and 6.3% last week, with MCX gold December futures at ₹1,47,918/10g and silver December at ₹2,11,187/kg. It cites support at ₹1,43,500 and ₹1,41,000 for gold and a ₹2,00,000-2,00,750 band for silver, with the outlook turning positive only above ₹1,51,700 for gold.",
-      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-weakness-may-deepen/article71596139.ece",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "publisher_id": "hindu-businessline",
-      "published_at": "2026-10-17T16:05:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": [],
-      "tags": [
-        "gold",
-        "silver",
-        "mcx"
-      ]
-    },
-    {
-      "id": "2dc4051106d22341",
-      "title": "Gold FoFs halt fresh investments, but silver mutual funds remain open",
-      "summary": "Fund houses have halted fresh lump-sum, switch-in and new SIP/STP flows into gold ETF fund-of-funds after verbal instructions from SEBI, effective October 16; gold ETFs keep trading on exchanges. Experts say the move aims to curb gold imports and support the rupee in the festive season — silver funds stay open since silver imports are far smaller. Existing SIP instalments and redemptions continue.",
-      "url": "https://www.livemint.com/money/personal-finance/gold-fofs-halt-fresh-investments-but-silver-mutual-funds-remain-open-experts-decode-the-reasons-and-explain-what-to-do-11792231444616.html",
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "publisher_id": "mint",
-      "published_at": "2026-10-17T11:30:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "silver",
-        "india"
-      ],
-      "category": "policy",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 11,
-      "related_urls": [
-        "https://www.reuters.com/world/india/indian-mutual-funds-stop-bulk-subscriptions-gold-etfs-ahead-festive-season-2026-10-15/"
-      ]
-    },
-    {
-      "id": "b9dd755277b6708f",
-      "title": "GJC urges Govt, BIS to review 67% hike in gold hallmarking charges amid compliance concerns",
-      "summary": "GJC has urged the government and BIS to review the 67% hike in gold hallmarking charges — from ₹45 to ₹75 per article, notified September 14 — calling it unwarranted while fake hallmarking persists. With over 60 crore articles hallmarked since 2021, the council argues scale should have contained costs and wants enforcement prioritised over higher fees.",
-      "url": "https://retailjewellerindia.com/gjc-urges-govt-bis-to-review-67-hike-in-gold-hallmarking-charges-amid-compliance-concerns/",
-      "source": "The Retail Jeweller India",
-      "source_domain": "retailjewellerindia.com",
-      "publisher_id": "retail-jeweller-india",
-      "published_at": "2026-10-17T05:50:44Z",
-      "category": "policy",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "india",
-        "jewellery"
-      ],
-      "image_url": null,
-      "image_kind": "none",
-      "breaking": false,
-      "rank": 12,
-      "related_urls": []
-    }
+ "schema": "orob-news.v1",
+ "edition_id": "2026-10-19T06:00Z",
+ "generated_at": "2026-10-19T06:30:24Z",
+ "window": {
+  "from": "2026-10-19T05:00:00Z",
+  "to": "2026-10-19T06:00:00Z"
+ },
+ "insights": {
+  "headline": "MCX gold, silver rebound as October Fed-hike bets fade; Brent near $110 keeps the lid on",
+  "summary": "MCX gold and silver bounced on Monday as traders cut the odds of an October Fed hike to about 16% after Chair Warsh's dovish remarks, with December gold near Rs 1.48 lakh per 10 grams and silver near Rs 2.12 lakh per kg. COMEX gold traded around $4,197 and silver near $57.61 as softer crude and lower yields helped. But a December hike is still priced at about 92%, keeping the rally capped, while a firm rupee trims the domestic benefit. India has swung to premiums ahead of Dhanteras and Diwali even as gold fund-of-funds froze fresh inflows.",
+  "points": [
+   "MCX December gold opened Rs 479 higher at Rs 1,48,397/10g; silver opened Rs 1,132 higher at Rs 2,12,319/kg.",
+   "October Fed-hike odds fell to ~16% after Warsh's remarks, but December stays near 92% — capping bullion.",
+   "Brent touched $110 before easing to ~$108; oil remains the wild card for inflation and yields.",
+   "India gold swung to premiums of up to $7/oz as festival buyers returned; MCX shuts Tuesday morning for Dussehra.",
+   "SEBI told fund houses to halt fresh flows into gold FoFs from Oct 16; silver funds stay open."
   ]
+ },
+ "trending": [
+  {
+   "title": "October hike odds collapse, December stays live",
+   "summary": "Warsh's refusal to pre-commit cut October hike odds to ~16%, but December sits near 92%. Gold and silver bounced on the relief — and stalled where it meets oil near $110 and stubborn 5% yields.",
+   "item_ids": [
+    "b27af42c072aa9ff",
+    "2204f491f7072904",
+    "289dcef418624465",
+    "d1a0edf2d5d2bf8b"
+   ]
+  },
+  {
+   "title": "Silver bounces, but the downtrend still owns it",
+   "summary": "Silver's bounce built on the yield pullback near $57.60, yet the technical read keeps sellers in control below $58.65 — and silver is still down ~50% from January's record, a warning sign for growth.",
+   "item_ids": [
+    "6b865e7259cf980c",
+    "2b60e50198a7893a",
+    "b27af42c072aa9ff"
+   ]
+  },
+  {
+   "title": "A firm rupee caps the MCX bounce",
+   "summary": "International gains keep getting trimmed at home: a firm rupee is cutting landed import costs, which is why last week's 2.4% MCX gold slide ran deeper than the global move.",
+   "item_ids": [
+    "1504c8191721ac91",
+    "dc72bd75795038ff",
+    "b27af42c072aa9ff"
+   ]
+  },
+  {
+   "title": "Festive India pulls back to premiums",
+   "summary": "Lower prices drew festival buyers back — Indian dealers charged premiums up to $7/oz, the first in over three months — even as SEBI froze fresh gold FoF inflows to curb imports.",
+   "item_ids": [
+    "0cacfa43e49af271",
+    "2dc4051106d22341"
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "b27af42c072aa9ff",
+   "title": "Gold, silver prices rise as traders pare bets on October Fed rate hike",
+   "summary": "MCX December gold opened Rs 479 higher at Rs 1,48,397 per 10 grams and traded about Rs 382 higher at Rs 1,48,300; December silver opened Rs 1,132 higher at Rs 2,12,319 per kg and traded Rs 1,183 higher at Rs 2,12,370. The move followed dovish remarks from Fed Chair Warsh that cut implied October hike odds below 20%, with softer crude also helping.",
+   "url": "https://www.business-standard.com/markets/commodities/gold-silver-prices-rise-as-traders-pare-bets-on-october-fed-rate-hike-126101900270_1.html",
+   "source": "Business Standard",
+   "source_domain": "business-standard.com",
+   "publisher_id": "business-standard",
+   "published_at": "2026-10-19T05:46:00Z",
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "tags": [
+    "gold",
+    "silver",
+    "mcx",
+    "fed",
+    "india"
+   ],
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/b27af42c072aa9ff.jpg",
+   "image_kind": "photo",
+   "breaking": false,
+   "related_urls": [],
+   "rank": 1
+  },
+  {
+   "id": "2204f491f7072904",
+   "title": "Gold rangebound as softer October Fed bets meet firm December hike",
+   "summary": "Gold lacked conviction at the start of the week, holding below $4,200 as fading bets on an October Fed hike clashed with firm December tightening pricing. Fed Chair Warsh's silence before the blackout cut October hike odds to ~15%, while markets price over 90% for December. Weekend geopolitics - Hormuz tanker damage and a Ukrainian strike on a St. Petersburg oil terminal - kept crude elevated.",
+   "url": "https://www.fxstreet.com/news/gold-rangebound-as-easing-october-fed-bets-clash-with-firm-december-hike-pricing-202610190439",
+   "source": "FXStreet",
+   "source_domain": "fxstreet.com",
+   "publisher_id": "fxstreet",
+   "published_at": "2026-10-19T04:39:03Z",
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "tags": [
+    "fed",
+    "global",
+    "gold"
+   ],
+   "image_url": null,
+   "image_kind": "none",
+   "breaking": false,
+   "related_urls": [],
+   "rank": 2
+  },
+  {
+   "id": "289dcef418624465",
+   "title": "Gold edges higher on softer oil; Fed rate outlook in focus",
+   "summary": "Spot gold rose 0.3% to $4,175.60 an ounce and December COMEX futures gained 0.4% to $4,196.40 as softer crude - after US President Trump waived sanctions and tariffs on Russia - eased inflation pressure. Investors are sizing up a Fed rate hike later this year: FedWatch prices a 16% chance of an October increase and 92% for December, with FOMC and PCE data due next week.",
+   "url": "https://www.reuters.com/world/india/gold-edges-higher-softer-oil-fed-rate-outlook-focus-2026-10-19/",
+   "source": "Reuters",
+   "source_domain": "reuters.com",
+   "publisher_id": "reuters",
+   "published_at": "2026-10-19T03:09:19Z",
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "tags": [
+    "gold",
+    "fed",
+    "india",
+    "global"
+   ],
+   "image_url": null,
+   "image_kind": "none",
+   "breaking": false,
+   "related_urls": [],
+   "rank": 3
+  },
+  {
+   "id": "82ed6e3516d51a0a",
+   "title": "Gold and Silver Price Forecast: AI Funding Fears Fuel Rebound",
+   "summary": "Gold rose toward $4,183 in early Asian trade as falling Treasury yields drew haven bids, with FXEmpire attributing the move to investor unease over AI companies' funding needs and Middle East shipping risks pushing money into government bonds. It notes Brent crude stayed above $108 after Trump's partial Russia sanctions waiver, and that December Fed-hike expectations sit near 85%.",
+   "url": "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-ai-funding-fears-fuel-rebound-1638829",
+   "source": "FXEmpire",
+   "source_domain": "fxempire.com",
+   "publisher_id": "fxempire",
+   "published_at": "2026-10-19T03:07:00Z",
+   "category": "global",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "tags": [
+    "gold",
+    "silver",
+    "fed",
+    "global"
+   ],
+   "image_url": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/gold-and-silver-precious-metals-03.jpg?width=1201",
+   "image_kind": "photo",
+   "breaking": false,
+   "related_urls": [],
+   "rank": 4
+  },
+  {
+   "id": "dc72bd75795038ff",
+   "title": "Gold, silver prices today: what could drive bullion rates this week",
+   "summary": "Gold and silver edged higher on Monday, with COMEX gold futures near $4,194 an ounce and silver above $57.60, after a sharp correction in MCX prices last week. Drivers cited: safe-haven demand around West Asia risks, lower Treasury yields and shifting Fed rate bets, plus crude, Chinese data and the rupee, whose strength could cap domestic gains.",
+   "url": "https://www.cnbctv18.com/market/commodities/gold-silver-prices-edge-high-what-could-drive-rates-this-week-20014589.htm",
+   "source": "CNBC-TV18",
+   "source_domain": "cnbctv18.com",
+   "publisher_id": "cnbc-tv18",
+   "published_at": "2026-10-19T01:54:06Z",
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "tags": [
+    "gold",
+    "silver",
+    "mcx",
+    "rupee",
+    "fed",
+    "india",
+    "global"
+   ],
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/dc72bd75795038ff.jpg",
+   "image_kind": "photo",
+   "breaking": false,
+   "rank": 5,
+   "related_urls": []
+  },
+  {
+   "id": "d1a0edf2d5d2bf8b",
+   "title": "Gold Price Forecast: Oil Near $110 Tests Bullion's Rebound as Fed Hike Bets Fade",
+   "summary": "FXLeaders analyst Arslan Ali Butt calls this a relief rally: December gold futures gained 0.4% to $4,196.40 and spot rose 0.3% to $4,175.60, but traders price only a 16% chance of an October Fed hike versus 92% for December. Falling US yields on an AI-growth bond rally are helping gold, though fragile; oil is the wild card after Brent touched $110, and US PPI surged 1.3%.",
+   "url": "https://www.fxleaders.com/news/2026/10/19/gold-price-forecast-oil-110-fed-rate-hike-bets/",
+   "source": "FX Leaders",
+   "source_domain": "fxleaders.com",
+   "publisher_id": "fx-leaders",
+   "published_at": "2026-10-19T05:17:00Z",
+   "category": "global",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "tags": [
+    "gold",
+    "silver",
+    "fed",
+    "global"
+   ],
+   "image_url": "https://dr46azxe5rdcu.cloudfront.net/wp-content/uploads/2026/09/16075447/GOLD-5-scaled.webp",
+   "image_kind": "photo",
+   "breaking": false,
+   "related_urls": [],
+   "rank": 6
+  },
+  {
+   "id": "6b865e7259cf980c",
+   "title": "Silver (XAG) Forecast: Bounce Builds but Rate Trade Keeps Sellers in Control",
+   "summary": "Silver's bounce built on the yield pullback and the dollar's retreat, trading near $57.60 as the US Dollar Index slipped toward 101.6. The technical read sees $58.65 as the nearest upside pivot - a sustained move above it opens $61.74-62.45 - while failure there risks a retest of last week's $55.56 low. The trade hinges on whether the 10-year yield keeps falling and the dollar breaks lower.",
+   "url": "https://www.fxempire.com/forecasts/article/silver-xag-forecast-bounce-builds-but-rate-trade-keeps-sellers-in-control-1638841",
+   "source": "FXEmpire",
+   "source_domain": "fxempire.com",
+   "publisher_id": "fxempire",
+   "published_at": "2026-10-19T04:33:32Z",
+   "category": "global",
+   "metals": [
+    "silver"
+   ],
+   "tags": [
+    "fed",
+    "silver",
+    "global"
+   ],
+   "image_url": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/silver-precious-metal-price-chart-05-3.jpg?width=1201",
+   "image_kind": "photo",
+   "breaking": false,
+   "related_urls": [
+    "https://www.fxstreet.com/analysis/silver-price-forecast-xag-usd-gains-above-5750-as-fed-rate-hike-bets-decrease-202610190316"
+   ],
+   "rank": 7
+  },
+  {
+   "id": "2b60e50198a7893a",
+   "rank": 8,
+   "title": "Silver's recent 50% drop from a record high hints that an economic slowdown looms",
+   "summary": "Silver futures touched a record intraday $121.79 an ounce in late January, per Dow Jones Market Data, and have since lost more than half, settling at $57.31 on Friday. Dealers told MarketWatch that silver's dual monetary-industrial role makes its weakness a leading indicator of economic trouble as high energy prices bite. Gold has fallen more than 25% from its own January record of $5,626.80.",
+   "url": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1",
+   "source": "MarketWatch",
+   "source_domain": "marketwatch.com",
+   "publisher_id": "marketwatch",
+   "published_at": "2026-10-17T12:30:00Z",
+   "image_url": null,
+   "image_kind": "none",
+   "category": "global",
+   "metals": [
+    "silver",
+    "gold"
+   ],
+   "tags": [
+    "silver",
+    "gold",
+    "global",
+    "fed"
+   ],
+   "breaking": false,
+   "related_urls": [
+    "https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/silver-ends-choppy-week-near-57-as-traders-weigh-inflation-shock-against/70348150"
+   ]
+  },
+  {
+   "id": "1504c8191721ac91",
+   "title": "Gold and silver head for volatile week amid crude oil spike, West Asia worries",
+   "summary": "Analysts expect a choppy week for bullion as West Asia tensions and Brent near $110 keep markets on edge. MCX gold December futures fell ₹3,581 (2.4%) last week to ₹1.47 lakh per 10g and silver slid ₹14,568 (6.4%) to ₹2.11 lakh per kg — mainly on the rupee firming to 94.8, cutting landed import costs. Traders will track Chinese data, US housing and PMIs; MCX shuts Tuesday morning for Dussehra.",
+   "url": "https://www.thehindubusinessline.com/markets/gold/gold-and-silver-head-for-volatile-week-amid-crude-oil-spike-west-asia-worries/article71599950.ece",
+   "source": "The Hindu BusinessLine",
+   "source_domain": "thehindubusinessline.com",
+   "publisher_id": "hindu-businessline",
+   "published_at": "2026-10-18T13:12:15Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "gold",
+    "silver",
+    "mcx",
+    "rupee",
+    "global"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "related_urls": [
+    "https://theworldopinion.com/business/gold-falls-3000-silver-slides-10000",
+    "https://www.bizzbuzz.news/market/commodities/west-asia-tensions-110-crude-cloud-bullion-outlook-1410880"
+   ],
+   "rank": 9
+  },
+  {
+   "id": "0cacfa43e49af271",
+   "rank": 10,
+   "title": "India gold swings to premium as lower prices lift jewellery demand",
+   "summary": "Indian dealers charged premiums of up to $7 an ounce over official domestic prices this week, the first premium in over three months, as a pullback in gold prices drew festival-season jewellery buyers back into the market. September imports fell sharply year-on-year and supply has thinned; dealers say premiums could widen further if Dhanteras and Diwali buying picks up as expected.",
+   "url": "https://www.brecorder.com/news/amp/40444704",
+   "source": "Business Recorder",
+   "source_domain": "brecorder.com",
+   "publisher_id": "business-recorder",
+   "published_at": "2026-10-17T23:53:25Z",
+   "image_url": "https://i.brecorder.com/large/2026/01/291239088f1d613.webp",
+   "image_kind": "photo",
+   "category": "festive",
+   "metals": [
+    "gold"
+   ],
+   "tags": [
+    "gold",
+    "mcx",
+    "india",
+    "jewellery"
+   ],
+   "breaking": false,
+   "related_urls": []
+  },
+  {
+   "id": "2dc4051106d22341",
+   "title": "Gold FoFs halt fresh investments, but silver mutual funds remain open",
+   "summary": "Fund houses have halted fresh lump-sum, switch-in and new SIP/STP flows into gold ETF fund-of-funds after verbal instructions from SEBI, effective October 16; gold ETFs keep trading on exchanges. Experts say the move aims to curb gold imports and support the rupee in the festive season — silver funds stay open since silver imports are far smaller. Existing SIP instalments and redemptions continue.",
+   "url": "https://www.livemint.com/money/personal-finance/gold-fofs-halt-fresh-investments-but-silver-mutual-funds-remain-open-experts-decode-the-reasons-and-explain-what-to-do-11792231444616.html",
+   "source": "Mint",
+   "source_domain": "livemint.com",
+   "publisher_id": "mint",
+   "published_at": "2026-10-17T11:30:00Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "gold",
+    "silver",
+    "india"
+   ],
+   "category": "policy",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "rank": 11,
+   "related_urls": [
+    "https://www.reuters.com/world/india/indian-mutual-funds-stop-bulk-subscriptions-gold-etfs-ahead-festive-season-2026-10-15/"
+   ]
+  },
+  {
+   "id": "600fe507b96df367",
+   "rank": 12,
+   "title": "Bullion Cues: Weakness may deepen",
+   "summary": "The Hindu BusinessLine's technical column turns bearish: spot gold ($4,165.40/oz) and silver ($57/oz) lost 0.7% and 6.3% last week, with MCX gold December futures at ₹1,47,918/10g and silver December at ₹2,11,187/kg. It cites support at ₹1,43,500 and ₹1,41,000 for gold and a ₹2,00,000-2,00,750 band for silver, with the outlook turning positive only above ₹1,51,700 for gold.",
+   "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-weakness-may-deepen/article71596139.ece",
+   "source": "The Hindu BusinessLine",
+   "source_domain": "thehindubusinessline.com",
+   "publisher_id": "hindu-businessline",
+   "published_at": "2026-10-17T16:05:00Z",
+   "image_url": null,
+   "image_kind": "none",
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "related_urls": [],
+   "tags": [
+    "gold",
+    "silver",
+    "mcx"
+   ]
+  }
+ ]
 }
