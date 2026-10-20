@@ -1,519 +1,545 @@
 {
- "schema": "orob-news.v1",
- "edition_id": "2026-10-20T09:00Z",
- "generated_at": "2026-10-20T09:02:53Z",
- "window": {
-  "from": "2026-10-20T08:00Z",
-  "to": "2026-10-20T09:00Z"
- },
- "insights": {
-  "headline": "Brent back above $110 on Hormuz tanker attacks; festive demand lifts Indian gold as Fed week nears",
-  "summary": "Brent crude climbed back above $110 a barrel on Tuesday - its highest in five months - after reports of at least 18 tanker attacks in the Strait of Hormuz cut Persian Gulf oil flows to 8.5 million barrels a day, keeping inflation fears alive ahead of the October 27-28 FOMC. In India, the World Gold Council reports seasonal demand gathering pace with discounts narrowing and gold ETF inflows at a seven-month high, while spot gold held near $4,144 an ounce and silver traded around $57.40.",
-  "points": [
-   "Brent topped $110 after Reuters counted at least 18 tanker attacks in two weeks; Gulf flows fell to 8.5 mb/d from over 20 mb/d (Kpler via OilPrice).",
-   "WGC: Indian seasonal demand shows early strength; domestic discounts narrowed, ETF inflows hit a seven-month high and digital gold rose 5% to 1.7t.",
-   "Spot gold held near $4,144/oz on Oct 20, more than 26% below January's ~$5,600 record; silver added a second daily gain to ~$57.40.",
-   "Fed: October hike odds sit below 20%, but markets price ~94% chance of a December hike; the FOMC meets October 27-28.",
-   "India's gold flipped to a premium last week - up to $7/oz over spot, first in three months - as festive demand met tighter supply."
+  "schema": "orob-news.v1",
+  "edition_id": "2026-10-20T10:00Z",
+  "generated_at": "2026-10-20T10:03:43Z",
+  "window": {
+    "from": "2026-10-20T09:00:00Z",
+    "to": "2026-10-20T10:00:00Z"
+  },
+  "insights": {
+    "headline": "Gold slides for third straight session as dollar and yields weigh; India on Dussehra break",
+    "summary": "Spot gold fell to $4,130.80 on October 20, heading for a third straight losing session as the dollar index held near 102 and 10-year Treasury yields stayed above 5%. Brent crude topped $110 after tanker attacks in the Strait of Hormuz, keeping inflation fears alive ahead of the October 27-28 FOMC. India's MCX was closed for the Dussehra morning session and reopens for evening trade, with gold futures settled at Rs 1,47,300 per 10g. Festive demand is gathering pace — the WGC sees early seasonal strength and India's bullion market flipped to a premium for the first time in three months.",
+    "points": [
+      "Spot gold $4,130.80 (−0.3%), spot silver $56.88 (−0.4%) in early trade; bullion heads for a third straight losing session.",
+      "Dollar index near 102 and 10Y Treasury yield above 5% kept opportunity-cost pressure on non-yielding gold.",
+      "Brent topped $110 on Hormuz tanker attacks; October hike odds below 20% but a December Fed hike is priced in.",
+      "MCX shut for Dussehra morning session, reopens 5 pm; gold futures settled Rs 1,47,300/10g, silver Rs 2,09,825/kg.",
+      "WGC: Indian seasonal demand shows early strength; bullion flipped to a premium as festive buying met tighter supply."
+    ]
+  },
+  "trending": [
+    {
+      "title": "Oil back at $110 puts the Fed path in question",
+      "summary": "Tanker attacks in the Strait of Hormuz pushed Brent to a five-month high, rekindling the inflation fears that cap bullion and keep a year-end Fed hike on the table.",
+      "item_ids": [
+        "65d159db53a72d43",
+        "24bb5f1e3e6f60eb",
+        "44d3e2027db5050e"
+      ]
+    },
+    {
+      "title": "Festive demand gathers pace as India flips to premium",
+      "summary": "The World Gold Council sees early seasonal strength, jewellers expect prices to peak on Dhanteras (Nov 6), and bullion moved to a premium for the first time in three months.",
+      "item_ids": [
+        "10054a15eec872ce",
+        "2539a37cd3440c6f",
+        "094b5200c720b5e6",
+        "24ddd6bf9a36362e"
+      ]
+    },
+    {
+      "title": "Silver holds its own",
+      "summary": "Silver traded near $57 despite near-certain December hike odds, while investors rediscover silver equities and Hindustan Zinc's silver output rose 20%.",
+      "item_ids": [
+        "19bf78a1ac14eea7",
+        "fff11a5148f891e4",
+        "36a33d66309611ee",
+        "24bb5f1e3e6f60eb"
+      ]
+    },
+    {
+      "title": "Paper gold: record ETF inflows meet domestic curbs",
+      "summary": "Global gold ETFs drew a record $31 billion in Q3, but Indian fund houses froze fresh gold FoF investments from October 16; SGB Series VII redeemed at Rs 14,614/g.",
+      "item_ids": [
+        "e2b833d2a0bc8f7d",
+        "4c7276e4bc3f6493",
+        "35045376079c14c9"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "65d159db53a72d43",
+      "title": "Brent Tops $110 as Tanker Attacks Threaten Persian Gulf Supply",
+      "summary": "Brent crude climbed back above $110 a barrel - a five-month high - after Reuters reported at least 18 tanker attacks in the Strait of Hormuz over two weeks, with daily Gulf oil flows shrinking to 8.5 million barrels from over 20 million. Houthi strikes on Saudi energy infrastructure deepened supply fears, keeping inflation fears alive and tightening the Fed outlook that has been whipping bullion.",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Tops-110-as-Tanker-Attacks-Threaten-Persian-Gulf-Supply.html",
+      "source": "OilPrice.com",
+      "source_domain": "oilprice.com",
+      "publisher_id": "oilprice",
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "fed",
+        "global"
+      ],
+      "image_url": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-19_hycomp1gl2.jpg",
+      "image_kind": "photo",
+      "related_urls": [
+        "https://www.investing.com/analysis/brent-tops-110-as-tanker-attacks-threaten-persian-gulf-supply-200689878"
+      ],
+      "breaking": false,
+      "published_at": "2026-10-20T04:56:00Z",
+      "rank": 1
+    },
+    {
+      "id": "24bb5f1e3e6f60eb",
+      "rank": 2,
+      "title": "Gold Price Today, October 20: Bullion heads for third straight session of losses as stronger dollar, higher US yields weigh",
+      "summary": "Spot gold slipped to $4,130.80 and silver to $56.88 on October 20 as a stronger dollar (index near 102) and 10-year Treasury yields above 5% weighed on bullion. MCX was closed for the Dussehra morning session and reopens for evening trade from 5 pm; gold and silver futures had settled at Rs 1,47,300 per 10g and Rs 2,09,825 per kg.",
+      "url": "https://www.7globe.in/gold-price-today-october-20-bullion-heads-for-third-straight-session-of-losses-as-stronger-dollar-higher-us-yields-weigh-markets/",
+      "source": "7Globe",
+      "source_domain": "7globe.in",
+      "publisher_id": "7globe",
+      "published_at": "2026-10-20T01:00:07Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "10054a15eec872ce",
+      "title": "India gold market update: Seasonal demand shows early strength",
+      "summary": "The World Gold Council's Kavita Chacko reports seasonal demand gathering pace in India: domestic discounts narrowed, gold ETF inflows hit a seven-month high in September and stayed positive through mid-October, and digital gold buying rose 5% to 1.7 tonnes. September imports dropped sharply while listed jewellers posted healthy Q3 growth; the festive season is a favourable near-term backdrop.",
+      "url": "https://www.gold.org/goldhub/gold-focus/2026/10/india-gold-market-update-seasonal-demand-shows-early-strength",
+      "source": "World Gold Council",
+      "source_domain": "gold.org",
+      "publisher_id": "world-gold-council",
+      "category": "festive",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
+      ],
+      "image_url": "https://www.gold.org/sites/default/files/default_images/WGC-Social-1200x630.jpeg",
+      "image_kind": "photo",
+      "related_urls": null,
+      "breaking": false,
+      "published_at": "2026-10-20T08:09:02Z",
+      "rank": 3
+    },
+    {
+      "id": "094b5200c720b5e6",
+      "rank": 4,
+      "title": "India Gold Market Flips to Premium as Demand Improves and Supplies Tighten",
+      "summary": "Gold traded at a premium in India last week for the first time in three months — dealers quoted up to $7 an ounce over domestic spot versus $5–6 discounts the week before. Festive demand improved after early-October prices fell to a near-two-month low of ₹1,45,538 per 10 grams, while supply tightened as imports plunged 45% in August and slipped again in September after the May duty hike to 15%.",
+      "url": "https://www.moneymetals.com/news/2026/10/19/india-gold-market-flips-to-premium-as-demand-improves-and-supplies-tighten-005302",
+      "source": "Money Metals",
+      "source_domain": "moneymetals.com",
+      "publisher_id": "money-metals",
+      "published_at": "2026-10-19T15:50:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "india",
+        "mcx",
+        "import-duty",
+        "jewellery"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://www.fxstreet.com/analysis/india-gold-market-flips-to-premium-as-demand-improves-and-supplies-tighten-202610192319",
+        "https://talkmarkets.com/article/india-gold-market-flips-to-premium-as-demand-improves-and-supplies-tighten",
+        "https://seekingalpha.com/article/4955224-india-gold-market-flips-premium-demand-improves-supplies-tighten"
+      ]
+    },
+    {
+      "id": "44d3e2027db5050e",
+      "rank": 5,
+      "title": "Gold holds decline as energy-led inflation weighs on rate path",
+      "summary": "Gold held near $4,144/oz in Asian trade after a 0.6% fall, as Brent near a five-month high kept inflation fears alive and clouded the Fed's rate path, Bloomberg reports. Iran threatened the Strait of Hormuz; silver rose 0.6% to $57.44. October hike odds fell below 20% after Warsh's speech, but traders price ~90% chance of a hike by year-end.",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-holds-decline-as-energy-led-inflation-weighs-on-rate-path/article71603354.ece",
+      "source": "The Hindu BusinessLine",
+      "source_domain": "thehindubusinessline.com",
+      "publisher_id": "hindu-businessline",
+      "published_at": "2026-10-20T05:33:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "silver",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "2539a37cd3440c6f",
+      "title": "Trend reversal: Gold and silver prices may peak on Dhanteras",
+      "summary": "Instead of the usual post-Navratri dip, gold and silver may peak on Dhanteras (Nov 6), Hindustan Times reports. Gold was quoted at ₹1,50,700 per 10 grams and silver at ₹2,18,000 per kg over the weekend. Sarafa traders cite heavy central-bank and Chinese gold buying, an all-time-high dollar, and global recession and inflation fears keeping prices elevated.",
+      "url": "https://www.hindustantimes.com/business/trend-reversal-gold-and-silver-prices-may-peak-on-dhanteras-101792470580407.html",
+      "source": "Hindustan Times",
+      "source_domain": "hindustantimes.com",
+      "publisher_id": "hindustan-times",
+      "published_at": "2026-10-20T05:03:21Z",
+      "image_url": "https://www.hindustantimes.com/ht-img/img/2026/10/20/1600x900/logo/photo-1721807644561-9efcabee5c42_1792471211223_OIZq_1792471223954_GwT9_75991d71-ffc0-4f04-b856-56ec3325dc98_p7Rw.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "india",
+        "jewellery"
+      ],
+      "category": "festive",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 6
+    },
+    {
+      "id": "e2b833d2a0bc8f7d",
+      "rank": 7,
+      "title": "Gold ETFs attracted $31 billion: why is bullion still struggling below $4,200",
+      "summary": "Global gold ETFs drew $10B in September and a record $31B in Q3, with holdings at a record 4,256 tonnes, yet prices fell ~8.5% in September, Invezz reports. WGC analyst Johan Palmberg cites rising Treasury yields, a firmer dollar and futures-position cuts. The outlook hinges on dollar and yield pullbacks letting gold break $4,200 resistance, with the Oct 28 Fed decision as the next trigger.",
+      "url": "https://invezz.com/news/2026/10/20/gold-etfs-attracted-31-billion-why-is-bullion-still-struggling-below-4200/",
+      "source": "Invezz",
+      "source_domain": "invezz.com",
+      "publisher_id": "invezz",
+      "published_at": "2026-10-20T01:30:00Z",
+      "image_url": "https://invezz-wp-media.lon1.digitaloceanspaces.com/2026/05/Gold-in-a-treasury-room.png",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "19bf78a1ac14eea7",
+      "title": "Silver Rallies Despite Prospect of Tighter Global Policy",
+      "summary": "Spot silver traded around $57.40 an ounce in Asian hours on Tuesday, a second straight daily gain, even as markets priced roughly a 94% chance of a December Fed rate hike and oil-driven inflation worries reinforced expectations of tighter policy - headwinds that usually weigh on non-yielding metals.",
+      "url": "https://www.tradingpedia.com/2026/10/20/silver-rallies-despite-prospect-of-tighter-global-policy/",
+      "source": "TradingPedia",
+      "source_domain": "tradingpedia.com",
+      "publisher_id": "tradingpedia",
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "tags": [
+        "silver",
+        "fed",
+        "global"
+      ],
+      "image_url": null,
+      "image_kind": "none",
+      "related_urls": null,
+      "breaking": false,
+      "published_at": "2026-10-20T07:54:49Z",
+      "rank": 8
+    },
+    {
+      "id": "b6855cf49790558a",
+      "title": "Goldman Sachs estimates central banks bought 79 tonnes of gold in August, led by China",
+      "summary": "Goldman Sachs estimates central banks bought 79 tonnes of gold in August — over 4x the pre-2022 monthly average of 17 tonnes and up from 44t in July — calling official demand a structural support for gold. China was the largest buyer at ~25t, above the PBOC's reported ~20t. The bank builds its gauge from trade and flow data, not disclosures, and says the numbers can be revised.",
+      "url": "https://investinglive.com/commodities/goldman-sachs-estimates-central-banks-bought-79-tonnes-of-gold-in-august-led-by-china/",
+      "source": "InvestingLive",
+      "source_domain": "investinglive.com",
+      "publisher_id": "investinglive",
+      "published_at": "2026-10-19T21:31:00Z",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "central-banks",
+        "global"
+      ],
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/b6855cf49790558a.jpg",
+      "image_kind": "photo",
+      "breaking": false,
+      "related_urls": [
+        "https://www.investing.com/analysis/gold-holds-above-4073-as-central-bank-buying-supports-the-floor-200689865"
+      ],
+      "rank": 9
+    },
+    {
+      "id": "d2b260ee18b308e8",
+      "title": "IBJA's Surendra Mehta sees gold rallying 10-12% to $4,700 by November 30",
+      "summary": "IBJA national secretary Surendra Mehta told ET Now Swadesh he expects gold to rally 10-12% by November 30, potentially reaching $4,700 an ounce, as bond yields ease below 5.1% and crude stabilises near $105. He put the downside at 4-5% (a move toward $3,850 not ruled out) and said India's festive season could support prices, barring fresh geopolitical escalation.",
+      "url": "https://www.7globe.in/gold-price-outlook-gold-prices-may-rally-10-12-by-november-30-could-hit-4700-per-ounce-ibjas-surendra-mehta-markets/",
+      "source": "7Globe",
+      "source_domain": "7globe.in",
+      "publisher_id": "7globe",
+      "published_at": "2026-10-18T16:13:35Z",
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "india",
+        "mcx"
+      ],
+      "image_url": null,
+      "image_kind": "none",
+      "breaking": false,
+      "related_urls": [],
+      "rank": 10
+    },
+    {
+      "id": "9935ac3e89db5ad2",
+      "title": "Gold, silver rise on MCX as Fed rate hike odds drop below 20%",
+      "summary": "MCX December gold futures traded at ₹1,48,379 per 10 grams, up 0.31%, and December silver at ₹2,12,013 per kg, up 0.39%, in early trade on October 19, tracking firm COMEX cues after Warsh's Bangkok remarks pushed October hike odds below 20%. Experts said a firmer rupee is capping domestic gains; resistance for MCX gold sits at ₹1,48,600.",
+      "url": "https://www.nationpress.com/business/gold-silver-gain-as-fed-hike-odds-ease",
+      "source": "Nation Press",
+      "source_domain": "nationpress.com",
+      "publisher_id": "nation-press",
+      "published_at": "2026-10-19T03:30:00Z",
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "fed",
+        "india"
+      ],
+      "image_url": null,
+      "image_kind": "none",
+      "breaking": false,
+      "related_urls": [
+        "https://www.entrepreneuroutreach.com/markets/gold-silver-prices-today-mcx-rates-rise-as-fed-fears-ease"
+      ],
+      "rank": 11
+    },
+    {
+      "id": "35045376079c14c9",
+      "title": "RBI sets SGB 2020-21 Series VII redemption at Rs 14,614 for October 19",
+      "summary": "The RBI has fixed October 19, 2026 as the premature redemption date for Sovereign Gold Bond 2020-21 Series VII at Rs 14,614 per gram, based on IBJA's average closing prices of October 14-16. Online subscribers gain 192.22% and offline buyers 189.33% in capital gains, alongside 2.5% annual interest; holders must route requests through their receiving offices within the notification window.",
+      "url": "https://www.outlookmoney.com/invest/sgb-2020-21-series-vii-investors-set-to-make-over-192-gains-upon-premature-redemption",
+      "source": "Outlook Money",
+      "source_domain": "outlookmoney.com",
+      "publisher_id": "outlook-money",
+      "published_at": "2026-10-19T04:25:00Z",
+      "category": "policy",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "india",
+        "rbi"
+      ],
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/35045376079c14c9.jpg",
+      "image_kind": "photo",
+      "breaking": false,
+      "related_urls": [
+        "https://www.livemintmoney.com/personal-finance/money/sgb-2019-20-series-v-investors-to-pocket-294-gains-on-premature-redemption-key-dates-and-tax-rules-explained-281792051899092.html",
+        "https://inshorts.com/en/news/gold-bond-investors-to-see-192--returns-on-premature-redemption-1792326518343"
+      ],
+      "rank": 12
+    },
+    {
+      "id": "57f4ed8ec4240fc0",
+      "title": "Digital gold market could reach $160-170 billion by 2031: WGC",
+      "summary": "The WGC-BCG report says digital gold — vaulted accounts plus tokenised gold — is a $45-55 billion market, under 1% of the $13 trillion physical investment market, but may be at an inflection point. In a base case of 27% annual growth it reaches $160-170 billion by 2031, with up to $700 billion in latent demand if trust, access, pricing and utility barriers are fixed.",
+      "url": "https://www.gold.org/goldhub/research/digital-gold-market-report",
+      "source": "World Gold Council",
+      "source_domain": "gold.org",
+      "publisher_id": "world-gold-council",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "global",
+        "india"
+      ],
+      "image_url": null,
+      "image_kind": "none",
+      "related_urls": [
+        "https://www.thehindubusinessline.com/markets/gold/digital-gold-market-could-reach-160-170-billion-by-2031-wgc/article71603271.ece"
+      ],
+      "breaking": false,
+      "published_at": "2026-10-19T00:00:00Z",
+      "rank": 13
+    },
+    {
+      "id": "36a33d66309611ee",
+      "rank": 14,
+      "title": "Hindustan Zinc Q2 profit more than doubles on higher metal prices; silver output up 20%",
+      "summary": "Hindustan Zinc's consolidated net profit more than doubled to Rs 6,412 crore in Q2 FY27 as higher metal prices and record output lifted revenue 76.5% to Rs 15,093 crore, margin widening to 42%. Silver production rose 20% to 173 tonnes and silver sales revenue more than doubled, driving about 45% of profitability; Jefferies said firmer silver prices improved the profit outlook.",
+      "url": "https://www.reuters.com/world/india/hindustan-zincs-quarterly-profit-doubles-higher-metal-prices-output-2026-10-19/",
+      "source": "Reuters",
+      "source_domain": "reuters.com",
+      "publisher_id": "reuters",
+      "published_at": "2026-10-19T10:27:46Z",
+      "category": "mcx",
+      "metals": [
+        "silver"
+      ],
+      "tags": [
+        "silver",
+        "india",
+        "mcx"
+      ],
+      "image_url": null,
+      "image_kind": "none",
+      "breaking": false,
+      "related_urls": [
+        "https://www.multibagg.ai/market-pulse/articles/hindustan-zinc-2qfy27-c7e0d1fb-9901-4e4b-aa30-cfddc9915d1e",
+        "https://tradersunion.com/news/companies/show/3872303-hindustan-zinc-profit-rises-metal-prices/"
+      ]
+    },
+    {
+      "id": "24ddd6bf9a36362e",
+      "title": "Gold climbs Rs 400 to Rs 1.5 lakh per 10 gm as festive buying elevates demand",
+      "summary": "Delhi gold rose Rs 400 to Rs 1,50,300 per 10 grams, inclusive of taxes, on Monday as festive demand picked up ahead of Dussehra; silver held steady at Rs 2.15 lakh per kg. HDFC Securities' Saumil Gandhi said domestic gold traded at a premium last week for the first time in three months and expects retail demand to build toward Diwali. Bullion markets shut Tuesday for Dussehra.",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-climbs-400-to-15-lakh-per-10-gm-as-festive-buying-elevates-demand/article71602834.ece",
+      "source": "The Hindu BusinessLine",
+      "source_domain": "thehindubusinessline.com",
+      "publisher_id": "the-hindu-businessline",
+      "published_at": "2026-10-19T04:30:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "festive",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "india",
+        "jewellery"
+      ],
+      "breaking": false,
+      "rank": 15
+    },
+    {
+      "id": "08885c90a6db4f93",
+      "rank": 16,
+      "title": "Gold price outlook: Yellow metal prices cool 26% from record high: What are Indians buying this Dussehra, Diwali?",
+      "summary": "Gold is more than 26% below its January 2026 record near $5,600/oz, with spot near $4,145 ahead of the Oct 27-28 Fed meeting, Mint reports. Brickwork's Rajeev Sharan says 24-karat gold is near Rs 1.48 lakh/10g, households are holding rupee budgets but buying less by weight, and sees a +/-5% range. August imports fell 45% to $2.3B; gold ETF inflows were Rs 2,596.7 crore, a third straight month.",
+      "url": "https://www.livemint.com/market/commodities/gold-price-outlook-yellow-metal-prices-cool-26-from-record-high-what-indian-buyers-are-doing-this-dussehra-diwali-11792472642371.html",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "publisher_id": "mint",
+      "published_at": "2026-10-20T05:57:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "india",
+        "jewellery",
+        "mcx",
+        "fed",
+        "central-banks"
+      ],
+      "category": "festive",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "4c7276e4bc3f6493",
+      "title": "Did Mutual Funds Stop Gold Investments? What Investors Need to Know",
+      "summary": "ET explains the October 16 freeze on fresh investments into gold ETF fund-of-funds by around 17 fund houses, after a SEBI nudge via AMFI ahead of the festive season. New lump-sum, SIP and STP registrations are paused; existing SIPs and redemptions continue, and gold ETFs still trade on exchanges. The curbs aim to cool paper-gold inflows that feed bullion imports and rupee pressure.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/did-mutual-funds-stop-gold-investments-what-investors-need-to-know/videoshow/135040974.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-10-19T05:41:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/4c7276e4bc3f6493.jpg",
+      "image_kind": "photo",
+      "category": "policy",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "india"
+      ],
+      "breaking": false,
+      "rank": 17
+    },
+    {
+      "id": "215e439792bec714",
+      "title": "India-New Zealand trade pact takes effect on October 20: How it benefits both sides",
+      "summary": "The India-New Zealand FTA took effect on October 20 (Dussehra), giving 100% of Indian exports zero-duty access to New Zealand across all 8,284 tariff lines, with dairy and sensitive farm sectors protected. New Zealand committed to facilitate $20 billion in investment into India over 15 years, and bilateral goods and services trade is targeted at about Rs 35,000 crore by 2030.",
+      "url": "https://www.livemint.com/economy/indianew-zealand-trade-pact-takes-effect-on-october-20-how-it-benefits-both-sides-key-highlights-11792426810108.html",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "publisher_id": "mint",
+      "category": "policy",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
+      ],
+      "image_url": "https://www.livemint.com/lm-img/img/2026/10/20/1600x900/maxresdefault_1792469019235_Caui_1792469025514_WQCX_329e1c87-925a-4fe4-b886-76ecb0e6d0_WS0m.jpg",
+      "image_kind": "photo",
+      "related_urls": null,
+      "breaking": false,
+      "published_at": "2026-10-19T08:15:00Z",
+      "rank": 18
+    },
+    {
+      "id": "fff11a5148f891e4",
+      "title": "Why investors are starting to rediscover silver stocks",
+      "summary": "Silver newsletter editor Peter Krauth told Mining.com.au the metal is well positioned for further gains despite correcting from late-2025 highs, citing a multi-year supply deficit, strong physical and ETF demand, and improving macro conditions. He expects $50 an ounce to become a long-term floor, with silver potentially returning above $80 before challenging triple-digit levels again in 2027.",
+      "url": "https://mining.com.au/why-investors-are-starting-to-rediscover-silver-stocks/",
+      "source": "Mining.com.au",
+      "source_domain": "mining.com.au",
+      "publisher_id": "mining-com-au",
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "tags": [
+        "silver",
+        "global"
+      ],
+      "image_url": "https://mining.com.au/wp-content/uploads/2026/10/Video-2.png",
+      "image_kind": "photo",
+      "related_urls": null,
+      "breaking": false,
+      "published_at": "2026-10-20T00:15:12Z",
+      "rank": 19
+    }
   ]
- },
- "trending": [
-  {
-   "title": "Oil back at $110 puts the Fed path in question",
-   "summary": "Tanker attacks in the Strait of Hormuz pushed Brent to a five-month high, rekindling the inflation fears that cap bullion and keep a year-end Fed hike on the table.",
-   "item_ids": [
-    "65d159db53a72d43",
-    "44d3e2027db5050e",
-    "9935ac3e89db5ad2"
-   ]
-  },
-  {
-   "title": "Festive demand gathers pace as India flips to premium",
-   "summary": "The World Gold Council sees early seasonal strength, jewellers expect prices to peak on Dhanteras (Nov 6), and bullion moved to a premium for the first time in three months.",
-   "item_ids": [
-    "10054a15eec872ce",
-    "2539a37cd3440c6f",
-    "094b5200c720b5e6",
-    "24ddd6bf9a36362e"
-   ]
-  },
-  {
-   "title": "Silver holds its own",
-   "summary": "Silver posted a second straight daily gain near $57.40 despite near-certain December hike odds, while investors rediscover silver equities and Hindustan Zinc's silver output rose 20%.",
-   "item_ids": [
-    "19bf78a1ac14eea7",
-    "fff11a5148f891e4",
-    "36a33d66309611ee"
-   ]
-  },
-  {
-   "title": "Paper gold: record ETF inflows meet domestic curbs",
-   "summary": "Global gold ETFs drew a record $31 billion in Q3, but Indian fund houses froze fresh gold FoF investments from October 16; SGB Series VII redeemed at Rs 14,614/g.",
-   "item_ids": [
-    "e2b833d2a0bc8f7d",
-    "4c7276e4bc3f6493",
-    "35045376079c14c9"
-   ]
-  }
- ],
- "items": [
-  {
-   "id": "65d159db53a72d43",
-   "title": "Brent Tops $110 as Tanker Attacks Threaten Persian Gulf Supply",
-   "summary": "Brent crude climbed back above $110 a barrel - a five-month high - after Reuters reported at least 18 tanker attacks in the Strait of Hormuz over two weeks, with daily Gulf oil flows shrinking to 8.5 million barrels from over 20 million. Houthi strikes on Saudi energy infrastructure deepened supply fears, keeping inflation fears alive and tightening the Fed outlook that has been whipping bullion.",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Tops-110-as-Tanker-Attacks-Threaten-Persian-Gulf-Supply.html",
-   "source": "OilPrice.com",
-   "source_domain": "oilprice.com",
-   "publisher_id": "oilprice",
-   "category": "global",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "tags": [
-    "gold",
-    "silver",
-    "fed",
-    "global"
-   ],
-   "image_url": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-19_hycomp1gl2.jpg",
-   "image_kind": "photo",
-   "related_urls": [
-    "https://www.investing.com/analysis/brent-tops-110-as-tanker-attacks-threaten-persian-gulf-supply-200689878"
-   ],
-   "breaking": false,
-   "published_at": "2026-10-20T04:56:00Z",
-   "rank": 1
-  },
-  {
-   "id": "10054a15eec872ce",
-   "title": "India gold market update: Seasonal demand shows early strength",
-   "summary": "The World Gold Council's Kavita Chacko reports seasonal demand gathering pace in India: domestic discounts narrowed, gold ETF inflows hit a seven-month high in September and stayed positive through mid-October, and digital gold buying rose 5% to 1.7 tonnes. September imports dropped sharply while listed jewellers posted healthy Q3 growth; the festive season is a favourable near-term backdrop.",
-   "url": "https://www.gold.org/goldhub/gold-focus/2026/10/india-gold-market-update-seasonal-demand-shows-early-strength",
-   "source": "World Gold Council",
-   "source_domain": "gold.org",
-   "publisher_id": "world-gold-council",
-   "category": "festive",
-   "metals": [
-    "gold"
-   ],
-   "tags": [
-    "gold",
-    "india",
-    "jewellery"
-   ],
-   "image_url": "https://www.gold.org/sites/default/files/default_images/WGC-Social-1200x630.jpeg",
-   "image_kind": "photo",
-   "related_urls": null,
-   "breaking": false,
-   "published_at": "2026-10-20T08:09:02Z",
-   "rank": 2
-  },
-  {
-   "id": "2539a37cd3440c6f",
-   "title": "Trend reversal: Gold and silver prices may peak on Dhanteras",
-   "summary": "Instead of the usual post-Navratri dip, gold and silver may peak on Dhanteras (Nov 6), Hindustan Times reports. Gold was quoted at ₹1,50,700 per 10 grams and silver at ₹2,18,000 per kg over the weekend. Sarafa traders cite heavy central-bank and Chinese gold buying, an all-time-high dollar, and global recession and inflation fears keeping prices elevated.",
-   "url": "https://www.hindustantimes.com/business/trend-reversal-gold-and-silver-prices-may-peak-on-dhanteras-101792470580407.html",
-   "source": "Hindustan Times",
-   "source_domain": "hindustantimes.com",
-   "publisher_id": "hindustan-times",
-   "published_at": "2026-10-20T05:03:21Z",
-   "image_url": "https://www.hindustantimes.com/ht-img/img/2026/10/20/1600x900/logo/photo-1721807644561-9efcabee5c42_1792471211223_OIZq_1792471223954_GwT9_75991d71-ffc0-4f04-b856-56ec3325dc98_p7Rw.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "silver",
-    "india",
-    "jewellery"
-   ],
-   "category": "festive",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "breaking": false,
-   "rank": 3
-  },
-  {
-   "id": "094b5200c720b5e6",
-   "rank": 4,
-   "title": "India Gold Market Flips to Premium as Demand Improves and Supplies Tighten",
-   "summary": "Gold traded at a premium in India last week for the first time in three months — dealers quoted up to $7 an ounce over domestic spot versus $5–6 discounts the week before. Festive demand improved after early-October prices fell to a near-two-month low of ₹1,45,538 per 10 grams, while supply tightened as imports plunged 45% in August and slipped again in September after the May duty hike to 15%.",
-   "url": "https://www.moneymetals.com/news/2026/10/19/india-gold-market-flips-to-premium-as-demand-improves-and-supplies-tighten-005302",
-   "source": "Money Metals",
-   "source_domain": "moneymetals.com",
-   "publisher_id": "money-metals",
-   "published_at": "2026-10-19T15:50:00Z",
-   "image_url": null,
-   "image_kind": "none",
-   "tags": [
-    "gold",
-    "india",
-    "mcx",
-    "import-duty",
-    "jewellery"
-   ],
-   "category": "mcx",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "related_urls": [
-    "https://www.fxstreet.com/analysis/india-gold-market-flips-to-premium-as-demand-improves-and-supplies-tighten-202610192319",
-    "https://talkmarkets.com/article/india-gold-market-flips-to-premium-as-demand-improves-and-supplies-tighten",
-    "https://seekingalpha.com/article/4955224-india-gold-market-flips-premium-demand-improves-supplies-tighten"
-   ]
-  },
-  {
-   "id": "9935ac3e89db5ad2",
-   "title": "Gold, silver rise on MCX as Fed rate hike odds drop below 20%",
-   "summary": "MCX December gold futures traded at ₹1,48,379 per 10 grams, up 0.31%, and December silver at ₹2,12,013 per kg, up 0.39%, in early trade on October 19, tracking firm COMEX cues after Warsh's Bangkok remarks pushed October hike odds below 20%. Experts said a firmer rupee is capping domestic gains; resistance for MCX gold sits at ₹1,48,600.",
-   "url": "https://www.nationpress.com/business/gold-silver-gain-as-fed-hike-odds-ease",
-   "source": "Nation Press",
-   "source_domain": "nationpress.com",
-   "publisher_id": "nation-press",
-   "published_at": "2026-10-19T03:30:00Z",
-   "category": "mcx",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "tags": [
-    "gold",
-    "silver",
-    "mcx",
-    "fed",
-    "india"
-   ],
-   "image_url": null,
-   "image_kind": "none",
-   "breaking": false,
-   "related_urls": [
-    "https://www.entrepreneuroutreach.com/markets/gold-silver-prices-today-mcx-rates-rise-as-fed-fears-ease"
-   ],
-   "rank": 5
-  },
-  {
-   "id": "44d3e2027db5050e",
-   "rank": 6,
-   "title": "Gold holds decline as energy-led inflation weighs on rate path",
-   "summary": "Gold held near $4,144/oz in Asian trade after a 0.6% fall, as Brent near a five-month high kept inflation fears alive and clouded the Fed's rate path, Bloomberg reports. Iran threatened the Strait of Hormuz; silver rose 0.6% to $57.44. October hike odds fell below 20% after Warsh's speech, but traders price ~90% chance of a hike by year-end.",
-   "url": "https://www.thehindubusinessline.com/markets/gold/gold-holds-decline-as-energy-led-inflation-weighs-on-rate-path/article71603354.ece",
-   "source": "The Hindu BusinessLine",
-   "source_domain": "thehindubusinessline.com",
-   "publisher_id": "hindu-businessline",
-   "published_at": "2026-10-20T05:33:00Z",
-   "image_url": null,
-   "image_kind": "none",
-   "tags": [
-    "gold",
-    "silver",
-    "fed",
-    "global"
-   ],
-   "category": "global",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "breaking": false
-  },
-  {
-   "id": "08885c90a6db4f93",
-   "rank": 7,
-   "title": "Gold price outlook: Yellow metal prices cool 26% from record high: What are Indians buying this Dussehra, Diwali?",
-   "summary": "Gold is more than 26% below its January 2026 record near $5,600/oz, with spot near $4,145 ahead of the Oct 27-28 Fed meeting, Mint reports. Brickwork's Rajeev Sharan says 24-karat gold is near Rs 1.48 lakh/10g, households are holding rupee budgets but buying less by weight, and sees a +/-5% range. August imports fell 45% to $2.3B; gold ETF inflows were Rs 2,596.7 crore, a third straight month.",
-   "url": "https://www.livemint.com/market/commodities/gold-price-outlook-yellow-metal-prices-cool-26-from-record-high-what-indian-buyers-are-doing-this-dussehra-diwali-11792472642371.html",
-   "source": "Mint",
-   "source_domain": "livemint.com",
-   "publisher_id": "mint",
-   "published_at": "2026-10-20T05:57:00Z",
-   "image_url": null,
-   "image_kind": "none",
-   "tags": [
-    "gold",
-    "india",
-    "jewellery",
-    "mcx",
-    "fed",
-    "central-banks"
-   ],
-   "category": "festive",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false
-  },
-  {
-   "id": "19bf78a1ac14eea7",
-   "title": "Silver Rallies Despite Prospect of Tighter Global Policy",
-   "summary": "Spot silver traded around $57.40 an ounce in Asian hours on Tuesday, a second straight daily gain, even as markets priced roughly a 94% chance of a December Fed rate hike and oil-driven inflation worries reinforced expectations of tighter policy - headwinds that usually weigh on non-yielding metals.",
-   "url": "https://www.tradingpedia.com/2026/10/20/silver-rallies-despite-prospect-of-tighter-global-policy/",
-   "source": "TradingPedia",
-   "source_domain": "tradingpedia.com",
-   "publisher_id": "tradingpedia",
-   "category": "global",
-   "metals": [
-    "silver"
-   ],
-   "tags": [
-    "silver",
-    "fed",
-    "global"
-   ],
-   "image_url": null,
-   "image_kind": "none",
-   "related_urls": null,
-   "breaking": false,
-   "published_at": "2026-10-20T07:54:49Z",
-   "rank": 8
-  },
-  {
-   "id": "24ddd6bf9a36362e",
-   "title": "Gold climbs Rs 400 to Rs 1.5 lakh per 10 gm as festive buying elevates demand",
-   "summary": "Delhi gold rose Rs 400 to Rs 1,50,300 per 10 grams, inclusive of taxes, on Monday as festive demand picked up ahead of Dussehra; silver held steady at Rs 2.15 lakh per kg. HDFC Securities' Saumil Gandhi said domestic gold traded at a premium last week for the first time in three months and expects retail demand to build toward Diwali. Bullion markets shut Tuesday for Dussehra.",
-   "url": "https://www.thehindubusinessline.com/markets/gold/gold-climbs-400-to-15-lakh-per-10-gm-as-festive-buying-elevates-demand/article71602834.ece",
-   "source": "The Hindu BusinessLine",
-   "source_domain": "thehindubusinessline.com",
-   "publisher_id": "the-hindu-businessline",
-   "published_at": "2026-10-19T04:30:00Z",
-   "image_url": null,
-   "image_kind": "none",
-   "category": "festive",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "tags": [
-    "gold",
-    "silver",
-    "india",
-    "jewellery"
-   ],
-   "breaking": false,
-   "rank": 9
-  },
-  {
-   "id": "57f4ed8ec4240fc0",
-   "title": "Digital gold market could reach $160-170 billion by 2031: WGC",
-   "summary": "The WGC-BCG report says digital gold — vaulted accounts plus tokenised gold — is a $45-55 billion market, under 1% of the $13 trillion physical investment market, but may be at an inflection point. In a base case of 27% annual growth it reaches $160-170 billion by 2031, with up to $700 billion in latent demand if trust, access, pricing and utility barriers are fixed.",
-   "url": "https://www.gold.org/goldhub/research/digital-gold-market-report",
-   "source": "World Gold Council",
-   "source_domain": "gold.org",
-   "publisher_id": "world-gold-council",
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "tags": [
-    "gold",
-    "global",
-    "india"
-   ],
-   "image_url": null,
-   "image_kind": "none",
-   "related_urls": [
-    "https://www.thehindubusinessline.com/markets/gold/digital-gold-market-could-reach-160-170-billion-by-2031-wgc/article71603271.ece"
-   ],
-   "breaking": false,
-   "published_at": "2026-10-19T00:00:00Z",
-   "rank": 10
-  },
-  {
-   "id": "e2b833d2a0bc8f7d",
-   "rank": 11,
-   "title": "Gold ETFs attracted $31 billion: why is bullion still struggling below $4,200",
-   "summary": "Global gold ETFs drew $10B in September and a record $31B in Q3, with holdings at a record 4,256 tonnes, yet prices fell ~8.5% in September, Invezz reports. WGC analyst Johan Palmberg cites rising Treasury yields, a firmer dollar and futures-position cuts. The outlook hinges on dollar and yield pullbacks letting gold break $4,200 resistance, with the Oct 28 Fed decision as the next trigger.",
-   "url": "https://invezz.com/news/2026/10/20/gold-etfs-attracted-31-billion-why-is-bullion-still-struggling-below-4200/",
-   "source": "Invezz",
-   "source_domain": "invezz.com",
-   "publisher_id": "invezz",
-   "published_at": "2026-10-20T01:30:00Z",
-   "image_url": "https://invezz-wp-media.lon1.digitaloceanspaces.com/2026/05/Gold-in-a-treasury-room.png",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "global",
-    "fed"
-   ],
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false
-  },
-  {
-   "id": "b6855cf49790558a",
-   "title": "Goldman Sachs estimates central banks bought 79 tonnes of gold in August, led by China",
-   "summary": "Goldman Sachs estimates central banks bought 79 tonnes of gold in August — over 4x the pre-2022 monthly average of 17 tonnes and up from 44t in July — calling official demand a structural support for gold. China was the largest buyer at ~25t, above the PBOC's reported ~20t. The bank builds its gauge from trade and flow data, not disclosures, and says the numbers can be revised.",
-   "url": "https://investinglive.com/commodities/goldman-sachs-estimates-central-banks-bought-79-tonnes-of-gold-in-august-led-by-china/",
-   "source": "InvestingLive",
-   "source_domain": "investinglive.com",
-   "publisher_id": "investinglive",
-   "published_at": "2026-10-19T21:31:00Z",
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "tags": [
-    "gold",
-    "central-banks",
-    "global"
-   ],
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/b6855cf49790558a.jpg",
-   "image_kind": "photo",
-   "breaking": false,
-   "related_urls": [
-    "https://www.investing.com/analysis/gold-holds-above-4073-as-central-bank-buying-supports-the-floor-200689865"
-   ],
-   "rank": 12
-  },
-  {
-   "id": "4c7276e4bc3f6493",
-   "title": "Did Mutual Funds Stop Gold Investments? What Investors Need to Know",
-   "summary": "ET explains the October 16 freeze on fresh investments into gold ETF fund-of-funds by around 17 fund houses, after a SEBI nudge via AMFI ahead of the festive season. New lump-sum, SIP and STP registrations are paused; existing SIPs and redemptions continue, and gold ETFs still trade on exchanges. The curbs aim to cool paper-gold inflows that feed bullion imports and rupee pressure.",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/did-mutual-funds-stop-gold-investments-what-investors-need-to-know/videoshow/135040974.cms",
-   "source": "Economic Times",
-   "source_domain": "economictimes.indiatimes.com",
-   "publisher_id": "economic-times",
-   "published_at": "2026-10-19T05:41:00Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/4c7276e4bc3f6493.jpg",
-   "image_kind": "photo",
-   "category": "policy",
-   "metals": [
-    "gold"
-   ],
-   "tags": [
-    "gold",
-    "india"
-   ],
-   "breaking": false,
-   "rank": 13
-  },
-  {
-   "id": "35045376079c14c9",
-   "title": "RBI sets SGB 2020-21 Series VII redemption at Rs 14,614 for October 19",
-   "summary": "The RBI has fixed October 19, 2026 as the premature redemption date for Sovereign Gold Bond 2020-21 Series VII at Rs 14,614 per gram, based on IBJA's average closing prices of October 14-16. Online subscribers gain 192.22% and offline buyers 189.33% in capital gains, alongside 2.5% annual interest; holders must route requests through their receiving offices within the notification window.",
-   "url": "https://www.outlookmoney.com/invest/sgb-2020-21-series-vii-investors-set-to-make-over-192-gains-upon-premature-redemption",
-   "source": "Outlook Money",
-   "source_domain": "outlookmoney.com",
-   "publisher_id": "outlook-money",
-   "published_at": "2026-10-19T04:25:00Z",
-   "category": "policy",
-   "metals": [
-    "gold"
-   ],
-   "tags": [
-    "gold",
-    "india",
-    "rbi"
-   ],
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/35045376079c14c9.jpg",
-   "image_kind": "photo",
-   "breaking": false,
-   "related_urls": [
-    "https://www.livemintmoney.com/personal-finance/money/sgb-2019-20-series-v-investors-to-pocket-294-gains-on-premature-redemption-key-dates-and-tax-rules-explained-281792051899092.html",
-    "https://inshorts.com/en/news/gold-bond-investors-to-see-192--returns-on-premature-redemption-1792326518343"
-   ],
-   "rank": 14
-  },
-  {
-   "id": "215e439792bec714",
-   "title": "India-New Zealand trade pact takes effect on October 20: How it benefits both sides",
-   "summary": "The India-New Zealand FTA took effect on October 20 (Dussehra), giving 100% of Indian exports zero-duty access to New Zealand across all 8,284 tariff lines, with dairy and sensitive farm sectors protected. New Zealand committed to facilitate $20 billion in investment into India over 15 years, and bilateral goods and services trade is targeted at about Rs 35,000 crore by 2030.",
-   "url": "https://www.livemint.com/economy/indianew-zealand-trade-pact-takes-effect-on-october-20-how-it-benefits-both-sides-key-highlights-11792426810108.html",
-   "source": "Mint",
-   "source_domain": "livemint.com",
-   "publisher_id": "mint",
-   "category": "policy",
-   "metals": [
-    "gold"
-   ],
-   "tags": [
-    "gold",
-    "india",
-    "jewellery"
-   ],
-   "image_url": "https://www.livemint.com/lm-img/img/2026/10/20/1600x900/maxresdefault_1792469019235_Caui_1792469025514_WQCX_329e1c87-925a-4fe4-b886-76ecb0e6d0_WS0m.jpg",
-   "image_kind": "photo",
-   "related_urls": null,
-   "breaking": false,
-   "published_at": "2026-10-19T08:15:00Z",
-   "rank": 15
-  },
-  {
-   "id": "fff11a5148f891e4",
-   "title": "Why investors are starting to rediscover silver stocks",
-   "summary": "Silver newsletter editor Peter Krauth told Mining.com.au the metal is well positioned for further gains despite correcting from late-2025 highs, citing a multi-year supply deficit, strong physical and ETF demand, and improving macro conditions. He expects $50 an ounce to become a long-term floor, with silver potentially returning above $80 before challenging triple-digit levels again in 2027.",
-   "url": "https://mining.com.au/why-investors-are-starting-to-rediscover-silver-stocks/",
-   "source": "Mining.com.au",
-   "source_domain": "mining.com.au",
-   "publisher_id": "mining-com-au",
-   "category": "global",
-   "metals": [
-    "silver"
-   ],
-   "tags": [
-    "silver",
-    "global"
-   ],
-   "image_url": "https://mining.com.au/wp-content/uploads/2026/10/Video-2.png",
-   "image_kind": "photo",
-   "related_urls": null,
-   "breaking": false,
-   "published_at": "2026-10-20T00:15:12Z",
-   "rank": 16
-  },
-  {
-   "id": "d2b260ee18b308e8",
-   "title": "IBJA's Surendra Mehta sees gold rallying 10-12% to $4,700 by November 30",
-   "summary": "IBJA national secretary Surendra Mehta told ET Now Swadesh he expects gold to rally 10-12% by November 30, potentially reaching $4,700 an ounce, as bond yields ease below 5.1% and crude stabilises near $105. He put the downside at 4-5% (a move toward $3,850 not ruled out) and said India's festive season could support prices, barring fresh geopolitical escalation.",
-   "url": "https://www.7globe.in/gold-price-outlook-gold-prices-may-rally-10-12-by-november-30-could-hit-4700-per-ounce-ibjas-surendra-mehta-markets/",
-   "source": "7Globe",
-   "source_domain": "7globe.in",
-   "publisher_id": "7globe",
-   "published_at": "2026-10-18T16:13:35Z",
-   "category": "mcx",
-   "metals": [
-    "gold"
-   ],
-   "tags": [
-    "gold",
-    "india",
-    "mcx"
-   ],
-   "image_url": null,
-   "image_kind": "none",
-   "breaking": false,
-   "related_urls": [],
-   "rank": 17
-  },
-  {
-   "id": "36a33d66309611ee",
-   "rank": 18,
-   "title": "Hindustan Zinc Q2 profit more than doubles on higher metal prices; silver output up 20%",
-   "summary": "Hindustan Zinc's consolidated net profit more than doubled to Rs 6,412 crore in Q2 FY27 as higher metal prices and record output lifted revenue 76.5% to Rs 15,093 crore, margin widening to 42%. Silver production rose 20% to 173 tonnes and silver sales revenue more than doubled, driving about 45% of profitability; Jefferies said firmer silver prices improved the profit outlook.",
-   "url": "https://www.reuters.com/world/india/hindustan-zincs-quarterly-profit-doubles-higher-metal-prices-output-2026-10-19/",
-   "source": "Reuters",
-   "source_domain": "reuters.com",
-   "publisher_id": "reuters",
-   "published_at": "2026-10-19T10:27:46Z",
-   "category": "mcx",
-   "metals": [
-    "silver"
-   ],
-   "tags": [
-    "silver",
-    "india",
-    "mcx"
-   ],
-   "image_url": null,
-   "image_kind": "none",
-   "breaking": false,
-   "related_urls": [
-    "https://www.multibagg.ai/market-pulse/articles/hindustan-zinc-2qfy27-c7e0d1fb-9901-4e4b-aa30-cfddc9915d1e",
-    "https://tradersunion.com/news/companies/show/3872303-hindustan-zinc-profit-rises-metal-prices/"
-   ]
-  }
- ]
 }
