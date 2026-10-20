@@ -1,4 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-10-20T03:00Z
+# Gold & Silver for Indian buyers · 2026-10-20T04:00Z
 
 > Gold slips as the October Fed meeting looms; MCX shut for Dussehra morning, reopens in the evening
 
@@ -18,7 +18,7 @@ Spot gold fell 0.3% to $4,126.84 in early Asian trade on Tuesday as traders brac
 
 ## Stories
 1. [Gold slips as investors weigh Fed rate outlook](https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-as-investors-weigh-fed-rate-outlook/articleshow/135059635.cms) — *Economic Times*, 2026-10-20T02:00:00Z
-   Spot gold fell 0.3% to $4,126.84 an ounce in early Asian trade as investors awaited the October 27–28 Fed meeting; December futures eased to $4,146.00. CME FedWatch shows an 83% chance rates stay unchanged next week, with a 94% chance of a hike in December. Spot silver slid 0.7% to $56.69, platinum steadied at $1,639.65 and palladium fell 0.7%. US PCE data is due next week.
+   Spot gold fell 0.3% to $4,126.84 in early Asian trade ahead of the October 27–28 Fed meeting; December futures eased to $4,146.00. CME FedWatch shows an 83% chance of a hold next week and 94% of a December hike. FXStreet's Dhwani Mehta says sellers remain in control below the 21-day SMA near $4,201, with $4,002 as trendline support; spot silver slid 0.7% to $56.69.
 2. [Dussehra 2026: Stock market holiday today or not? NSE, BSE to remain open or closed on 20 Oct Tuesday? Exchange calendar](https://www.livemint.com/market/stock-market-news/dussehra-2026-stock-market-holiday-today-or-not-nse-bse-to-remain-open-or-closed-on-20-oct-tuesday-exchange-calendar-11792456900292.html) — *Mint*, 2026-10-20T00:00:00Z
    NSE and BSE are closed on Tuesday, October 20 for Dussehra; equity, derivatives, currency and SLB segments stay suspended and resume on October 21. The MCX will skip its 9 am–5 pm morning session and reopen for the evening session, so gold and silver futures trade only from 5 pm. Banks are shut in most cities under the RBI holiday calendar.
 3. [India Gold Market Flips to Premium as Demand Improves and Supplies Tighten](https://www.moneymetals.com/news/2026/10/19/india-gold-market-flips-to-premium-as-demand-improves-and-supplies-tighten-005302) — *Money Metals*, 2026-10-19T15:50:00Z
