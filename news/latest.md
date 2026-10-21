@@ -1,36 +1,36 @@
-# Gold & Silver for Indian buyers · 2026-10-20T22:00Z
+# Gold & Silver for Indian buyers · 2026-10-21T00:00Z
 
-> Russia's record gold sell-off and CIBC's forecast cuts top a busy day for India buyers
+> Gold slipped to $4,124 as US-Iran talks stalled and Fed hike bets faded; silver held near $57.80
 
-Russia sold about 62 tonnes of gold since December 2025, its biggest reserve drawdown since 1998, as the Kremlin covers a widening budget deficit. CIBC cut its gold forecasts — $4,500 for Q4 2026 and a $5,200 average for 2027 — blaming a stronger dollar and a more hawkish Fed. In India, the World Gold Council says seasonal demand is gaining strength, with domestic discounts narrowing to $8/oz and gold ETF inflows at a seven-month high, while MCX stayed closed for the Dussehra morning session.
+Spot gold eased 0.4% to $4,123.97 overnight as traders weighed inconclusive US-Iran talks and a Fed rate path that now prices only a 15% chance of an October hike. Silver bucked the move, rising 1.2% to $57.77. In India, 24K gold hovered around Rs 1,47,237 per 10 grams after MCX reopened post-Dussehra, while Russia's 62-tonne reserve gold sell-off remained the week's biggest central-bank story.
 
-- Russia's gold reserves fell to 72.8 million ounces (2,264 tonnes), the lowest since end-2019, after ten straight months of sales.
-- CIBC still sees $5,500 gold in 2028, above consensus, on geopolitical risk, fiscal concerns and central-bank buying.
-- India's September gold imports fell 81% to $1.8bn, while ETF inflows and festive demand strengthened, the World Gold Council says.
-- Spot gold held near $4,130–4,150; traders price a 91% chance of a December Fed hike as Brent hits a five-month high.
-- Hindustan Zinc's Q2 profit more than doubled to Rs 6,412 crore as silver output rose 20% to 173 tonnes.
+- Gold -0.4% to $4,124; a diplomat said reports of a close US-Iran deal were inaccurate.
+- Silver +1.2% to $57.77, outperforming gold as haven flows split between the metals.
+- Fed: 15% odds of an Oct 27-28 hike, down from two-in-three late last month.
+- India: 24K gold ~Rs 1,47,237 per 10g; MCX December gold settled at Rs 1,47,300 on Monday.
+- Russia sold ~62 tonnes of gold reserves since Dec 2025, its largest drawdown since 1998.
 
 ## Trending
-- **Moscow is spending its gold**: Russia's 62-tonne reserve drawdown since December — the largest since 1998 — marks a reversal of its pre-war accumulation strategy as the budget deficit heads for 7.3 trillion roubles. (stories 1)
-- **Banks are rewriting gold's price path**: CIBC's sharp forecast cuts and CPM Group's 'lower first, then breakout' call show the street split between near-term rate pressure and a longer-term recovery story. (stories 2, stories 9)
-- **India's festive demand is stirring early**: Narrowing discounts, record ETF inflows and improving store footfall point to early festival-season strength, though high prices keep buyers cautious and selective. (stories 3, stories 10)
-- **The October 27-28 Fed meeting is the market's focal point**: Warsh's Bangkok remarks eased October hike fears below 20%, but December hike odds near 90% and five-month-high oil keep bullion capped. (stories 4, stories 8)
+- **Fed pause trade firms up ahead of the Oct 27-28 meeting**: Markets now price just a 15% chance of another Fed hike next week, down from two-in-three late last month, and gold is consolidating above $4,100 as traders wait on the blackout-period Fed. (stories 1, 8)
+- **Geopolitics still the swing factor for bullion**: An unconfirmed US-Iran breakthrough report briefly lifted gold before being denied, while Russia's record reserve gold sales show the war economy still shaping bullion flows. (stories 1, 2)
+- **India's festive floor holds under Rs 1.48 lakh**: Dussehra trading left MCX gold near Rs 1,47,300, discounts have narrowed sharply and jewellers report improving footfall as demand builds toward Diwali. (stories 3, 4, 10)
+- **Silver's split screen: surplus calls vs outperformance**: Silver gained 1.2% to $57.77 even as analysts debate whether weaker solar demand could flip the market into surplus in 2027; Hindustan Zinc's record silver output adds to the supply side. (stories 5, 1, 7)
 
 ## Stories
-1. [Russia sells 62 tonnes of gold in biggest reserve drawdown since 1998](https://eutoday.net/russia-gold-reserves-sales-budget-deficit-2026/) — *EU Today*, 2026-10-20T21:31:27Z
+1. [Gold wavers as traders weigh US-Iran talks, Fed rate path](https://www.livemint.com/market/gold-wavers-as-traders-weigh-us-iran-talks-fed-rate-path-11792539436169.html) — *Mint*, 2026-10-20T23:37:15Z
+   Gold slipped 0.4% to $4,123.97 an ounce as traders weighed stalled US-Iran talks — a diplomat said reports of a near deal were inaccurate — and a Fed path that now prices only a 15% chance of another hike at the Oct 27-28 meeting. Silver rose 1.2% to $57.77. Mint's India widgets showed 24K gold at Rs 1,47,237 per 10 grams and silver at Rs 2,09,744 per kg.
+2. [Russia sells 62 tonnes of gold in biggest reserve drawdown since 1998](https://eutoday.net/russia-gold-reserves-sales-budget-deficit-2026/) — *EU Today*, 2026-10-20T21:31:27Z
    Bank of Russia data show gold reserves fell another 200,000 troy ounces (6.2 tonnes) in September, to 72.8 million ounces (2,264 tonnes) — the lowest since end-2019. The central bank has cut holdings for ten straight months, disposing of about 62 tonnes since December 2025, as the Kremlin covers a widening budget deficit; the Finance Ministry expects the 2026 deficit to reach 7.3 trillion roubles.
-2. [CIBC slashes gold price forecasts, still sees $5,500 in 2028](https://investinglive.com/commodities/cibc-cuts-gold-forecasts-but-still-sees-5-500-in-2028/) — *InvestingLive*, 2026-10-19T18:59:59Z
-   In its October outlook, CIBC cut its Q4 2026 gold forecast to $4,500 an ounce from $6,500, its 2027 average to $5,200 from $6,500 and its 2028 estimate to $5,500 from $6,000. The bank cites higher energy prices, a stronger dollar and a more hawkish Fed; it also cut its 2027 silver forecast to $85 an ounce from $120.
-3. [World Gold Council: India's seasonal gold demand shows early strength](https://www.gold.org/goldhub/gold-focus/2026/10/india-gold-market-update-seasonal-demand-shows-early-strength) — *World Gold Council*, 2026-10-20T06:00:00Z
-   The World Gold Council's India market update says domestic gold price discounts narrowed sharply in October, from an average of $66/oz in September to $8/oz as of 16 October, as seasonal demand gathered pace. Gold ETF net inflows hit a seven-month high in September at Rs 44.5 billion, with Rs 17.22 billion more in the first half of October.
-4. [Gold eases as elevated oil prices keep inflation risks in focus](https://943jackfm.com/2026/10/19/gold-slips-as-investors-weigh-fed-rate-outlook/) — *94.3 Jack FM*, 2026-10-20T01:33:08Z
-   Reuters reported spot gold fell 0.4% to $4,123.94 an ounce on Tuesday as firmer oil prices — Brent near a five-month high after Houthi attacks on Saudi targets — heightened inflation concerns. Recent Fed comments have tempered expectations of an October hike, but traders still see a 91% chance of a December increase; spot silver rose 0.2% to $57.20.
-5. [Hindustan Zinc Q2 profit more than doubles on higher metal prices; silver output up 20%](https://www.reuters.com/world/india/hindustan-zincs-quarterly-profit-doubles-higher-metal-prices-output-2026-10-19/) — *Reuters*, 2026-10-19T10:27:46Z
-   Hindustan Zinc's consolidated net profit more than doubled to Rs 6,412 crore in Q2 FY27 as higher metal prices and record output lifted revenue 76.5% to Rs 15,093 crore, margin widening to 42%. Silver production rose 20% to 173 tonnes and silver sales revenue more than doubled, driving about 45% of profitability; Jefferies said firmer silver prices improved the profit outlook.
-6. [Gold above Rs 1,47,000, silver near Rs 2.10 lakh on Dussehra](https://thefreedompress.in/gold-above-rs-147000-silver-near-rs-2-10-lakh-on-dussehra/) — *The Freedom Press*, 2026-10-20T18:46:00Z
+3. [Gold above Rs 1,47,000, silver near Rs 2.10 lakh on Dussehra](https://thefreedompress.in/gold-above-rs-147000-silver-near-rs-2-10-lakh-on-dussehra/) — *The Freedom Press*, 2026-10-20T18:46:00Z
    IANS reports that MCX stayed closed for the morning session on Dussehra, with trading set to resume at 5 pm. In Monday's session, December gold futures settled down Rs 618 at Rs 1,47,300 per 10 grams while December silver futures closed flat at Rs 2,09,825 per kg; 24-karat gold in Mumbai was Rs 1,47,340. Spot gold edged up to $4,144.15 and silver to $57.44.
-7. [Silver Surplus Calls May Overstate the Impact of Weaker Solar Demand](https://www.investing.com/analysis/silver-surplus-calls-may-overstate-the-impact-of-weaker-solar-demand-200689925) — *Investing.com*, 2026-10-20T16:23:00Z
+4. [World Gold Council: India's seasonal gold demand shows early strength](https://www.gold.org/goldhub/gold-focus/2026/10/india-gold-market-update-seasonal-demand-shows-early-strength) — *World Gold Council*, 2026-10-20T06:00:00Z
+   The World Gold Council's India market update says domestic gold price discounts narrowed sharply in October, from an average of $66/oz in September to $8/oz as of 16 October, as seasonal demand gathered pace. Gold ETF net inflows hit a seven-month high in September at Rs 44.5 billion, with Rs 17.22 billion more in the first half of October.
+5. [Silver Surplus Calls May Overstate the Impact of Weaker Solar Demand](https://www.investing.com/analysis/silver-surplus-calls-may-overstate-the-impact-of-weaker-solar-demand-200689925) — *Investing.com*, 2026-10-20T16:23:00Z
    Deutsche Bank and StoneX have shifted to surplus language - a possible physical silver surplus in 2027, or a 2026 surplus of about five weeks of demand (~107 Moz). Przemyslaw Radomski argues the solar decline is largely already counted: Metals Focus and the Silver Institute already assume PV demand falls 19% to 151 Moz inside a 46.3 Moz 2026 shortfall.
+6. [CIBC slashes gold price forecasts, still sees $5,500 in 2028](https://investinglive.com/commodities/cibc-cuts-gold-forecasts-but-still-sees-5-500-in-2028/) — *InvestingLive*, 2026-10-19T18:59:59Z
+   In its October outlook, CIBC cut its Q4 2026 gold forecast to $4,500 an ounce from $6,500, its 2027 average to $5,200 from $6,500 and its 2028 estimate to $5,500 from $6,000. The bank cites higher energy prices, a stronger dollar and a more hawkish Fed; it also cut its 2027 silver forecast to $85 an ounce from $120.
+7. [Hindustan Zinc Q2 profit more than doubles on higher metal prices; silver output up 20%](https://www.reuters.com/world/india/hindustan-zincs-quarterly-profit-doubles-higher-metal-prices-output-2026-10-19/) — *Reuters*, 2026-10-19T10:27:46Z
+   Hindustan Zinc's consolidated net profit more than doubled to Rs 6,412 crore in Q2 FY27 as higher metal prices and record output lifted revenue 76.5% to Rs 15,093 crore, margin widening to 42%. Silver production rose 20% to 173 tonnes and silver sales revenue more than doubled, driving about 45% of profitability; Jefferies said firmer silver prices improved the profit outlook.
 8. [Gold, silver rise on MCX as Fed rate hike odds drop below 20%](https://www.nationpress.com/business/gold-silver-gain-as-fed-hike-odds-ease) — *Nation Press*, 2026-10-19T09:43:46Z
    December MCX gold futures rose 0.31% to Rs 1,48,379 per 10 grams and silver 0.39% to Rs 2,12,013 per kg in early trade on 19 October, after Fed Chair Kevin Warsh's remarks in Bangkok cut the implied chance of an October hike below 20%. December remains in play with hot producer-price data; the 27-28 October FOMC meeting is the next key test, and a firmer rupee is capping domestic gains.
 9. [CPM Group's Jeff Christian: lower first, then a breakout for gold and silver](https://theprospectornews.com/jeff-christian-gold-and-silver-alert-lower-first-then-a-breakout-video/) — *Prospector News*, 2026-10-19T17:45:52Z

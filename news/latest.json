@@ -1,331 +1,336 @@
 {
- "schema": "orob-news.v1",
- "edition_id": "2026-10-20T22:00Z",
- "generated_at": "2026-10-20T22:21:22Z",
- "window": {
-  "from": "2026-10-20T20:00:00Z",
-  "to": "2026-10-20T22:00:00Z"
- },
- "insights": {
-  "headline": "Russia's record gold sell-off and CIBC's forecast cuts top a busy day for India buyers",
-  "summary": "Russia sold about 62 tonnes of gold since December 2025, its biggest reserve drawdown since 1998, as the Kremlin covers a widening budget deficit. CIBC cut its gold forecasts — $4,500 for Q4 2026 and a $5,200 average for 2027 — blaming a stronger dollar and a more hawkish Fed. In India, the World Gold Council says seasonal demand is gaining strength, with domestic discounts narrowing to $8/oz and gold ETF inflows at a seven-month high, while MCX stayed closed for the Dussehra morning session.",
-  "points": [
-   "Russia's gold reserves fell to 72.8 million ounces (2,264 tonnes), the lowest since end-2019, after ten straight months of sales.",
-   "CIBC still sees $5,500 gold in 2028, above consensus, on geopolitical risk, fiscal concerns and central-bank buying.",
-   "India's September gold imports fell 81% to $1.8bn, while ETF inflows and festive demand strengthened, the World Gold Council says.",
-   "Spot gold held near $4,130–4,150; traders price a 91% chance of a December Fed hike as Brent hits a five-month high.",
-   "Hindustan Zinc's Q2 profit more than doubled to Rs 6,412 crore as silver output rose 20% to 173 tonnes."
+  "schema": "orob-news.v1",
+  "edition_id": "2026-10-21T00:00Z",
+  "generated_at": "2026-10-21T00:07:46Z",
+  "window": {
+    "from": "2026-10-20T22:00:00Z",
+    "to": "2026-10-21T00:00:00Z"
+  },
+  "insights": {
+    "headline": "Gold slipped to $4,124 as US-Iran talks stalled and Fed hike bets faded; silver held near $57.80",
+    "summary": "Spot gold eased 0.4% to $4,123.97 overnight as traders weighed inconclusive US-Iran talks and a Fed rate path that now prices only a 15% chance of an October hike. Silver bucked the move, rising 1.2% to $57.77. In India, 24K gold hovered around Rs 1,47,237 per 10 grams after MCX reopened post-Dussehra, while Russia's 62-tonne reserve gold sell-off remained the week's biggest central-bank story.",
+    "points": [
+      "Gold -0.4% to $4,124; a diplomat said reports of a close US-Iran deal were inaccurate.",
+      "Silver +1.2% to $57.77, outperforming gold as haven flows split between the metals.",
+      "Fed: 15% odds of an Oct 27-28 hike, down from two-in-three late last month.",
+      "India: 24K gold ~Rs 1,47,237 per 10g; MCX December gold settled at Rs 1,47,300 on Monday.",
+      "Russia sold ~62 tonnes of gold reserves since Dec 2025, its largest drawdown since 1998."
+    ]
+  },
+  "trending": [
+    {
+      "title": "Fed pause trade firms up ahead of the Oct 27-28 meeting",
+      "summary": "Markets now price just a 15% chance of another Fed hike next week, down from two-in-three late last month, and gold is consolidating above $4,100 as traders wait on the blackout-period Fed.",
+      "item_ids": [
+        "79f73fa12265c383",
+        "9935ac3e89db5ad2"
+      ]
+    },
+    {
+      "title": "Geopolitics still the swing factor for bullion",
+      "summary": "An unconfirmed US-Iran breakthrough report briefly lifted gold before being denied, while Russia's record reserve gold sales show the war economy still shaping bullion flows.",
+      "item_ids": [
+        "79f73fa12265c383",
+        "5ae9694f08df89f2"
+      ]
+    },
+    {
+      "title": "India's festive floor holds under Rs 1.48 lakh",
+      "summary": "Dussehra trading left MCX gold near Rs 1,47,300, discounts have narrowed sharply and jewellers report improving footfall as demand builds toward Diwali.",
+      "item_ids": [
+        "1731c86cb61d7ecd",
+        "10054a15eec872ce",
+        "bb5714fc4c74d33d"
+      ]
+    },
+    {
+      "title": "Silver's split screen: surplus calls vs outperformance",
+      "summary": "Silver gained 1.2% to $57.77 even as analysts debate whether weaker solar demand could flip the market into surplus in 2027; Hindustan Zinc's record silver output adds to the supply side.",
+      "item_ids": [
+        "5d9cb268fbd278fb",
+        "79f73fa12265c383",
+        "36a33d66309611ee"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "79f73fa12265c383",
+      "title": "Gold wavers as traders weigh US-Iran talks, Fed rate path",
+      "summary": "Gold slipped 0.4% to $4,123.97 an ounce as traders weighed stalled US-Iran talks — a diplomat said reports of a near deal were inaccurate — and a Fed path that now prices only a 15% chance of another hike at the Oct 27-28 meeting. Silver rose 1.2% to $57.77. Mint's India widgets showed 24K gold at Rs 1,47,237 per 10 grams and silver at Rs 2,09,744 per kg.",
+      "url": "https://www.livemint.com/market/gold-wavers-as-traders-weigh-us-iran-talks-fed-rate-path-11792539436169.html",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "publisher_id": "mint",
+      "published_at": "2026-10-20T23:37:15Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/79f73fa12265c383.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 1
+    },
+    {
+      "id": "5ae9694f08df89f2",
+      "rank": 2,
+      "title": "Russia sells 62 tonnes of gold in biggest reserve drawdown since 1998",
+      "summary": "Bank of Russia data show gold reserves fell another 200,000 troy ounces (6.2 tonnes) in September, to 72.8 million ounces (2,264 tonnes) — the lowest since end-2019. The central bank has cut holdings for ten straight months, disposing of about 62 tonnes since December 2025, as the Kremlin covers a widening budget deficit; the Finance Ministry expects the 2026 deficit to reach 7.3 trillion roubles.",
+      "url": "https://eutoday.net/russia-gold-reserves-sales-budget-deficit-2026/",
+      "source": "EU Today",
+      "source_domain": "eutoday.net",
+      "publisher_id": "eu-today",
+      "published_at": "2026-10-20T21:31:27Z",
+      "image_url": "https://eutoday.net/wp-content/uploads/2026/10/E10H864J.jpg",
+      "image_kind": "photo",
+      "breaking": false,
+      "tags": [
+        "gold",
+        "global",
+        "central-banks"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ]
+    },
+    {
+      "id": "1731c86cb61d7ecd",
+      "rank": 3,
+      "title": "Gold above Rs 1,47,000, silver near Rs 2.10 lakh on Dussehra",
+      "summary": "IANS reports that MCX stayed closed for the morning session on Dussehra, with trading set to resume at 5 pm. In Monday's session, December gold futures settled down Rs 618 at Rs 1,47,300 per 10 grams while December silver futures closed flat at Rs 2,09,825 per kg; 24-karat gold in Mumbai was Rs 1,47,340. Spot gold edged up to $4,144.15 and silver to $57.44.",
+      "url": "https://thefreedompress.in/gold-above-rs-147000-silver-near-rs-2-10-lakh-on-dussehra/",
+      "source": "The Freedom Press",
+      "source_domain": "thefreedompress.in",
+      "publisher_id": "the-freedom-press",
+      "published_at": "2026-10-20T18:46:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/1731c86cb61d7ecd.jpg",
+      "image_kind": "photo",
+      "breaking": false,
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "related_urls": [
+        "https://www.nationpress.com/business/gold-above-indian-rupee147-lakh-silver-near-indian-rupee210-lakh-on-dussehra"
+      ]
+    },
+    {
+      "id": "10054a15eec872ce",
+      "rank": 4,
+      "title": "World Gold Council: India's seasonal gold demand shows early strength",
+      "summary": "The World Gold Council's India market update says domestic gold price discounts narrowed sharply in October, from an average of $66/oz in September to $8/oz as of 16 October, as seasonal demand gathered pace. Gold ETF net inflows hit a seven-month high in September at Rs 44.5 billion, with Rs 17.22 billion more in the first half of October.",
+      "url": "https://www.gold.org/goldhub/gold-focus/2026/10/india-gold-market-update-seasonal-demand-shows-early-strength",
+      "source": "World Gold Council",
+      "source_domain": "gold.org",
+      "publisher_id": "world-gold-council",
+      "published_at": "2026-10-20T06:00:00Z",
+      "image_url": "https://www.gold.org/sites/default/files/default_images/WGC-Social-1200x630.jpeg",
+      "image_kind": "photo",
+      "breaking": false,
+      "tags": [
+        "gold",
+        "mcx",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "related_urls": [
+        "https://talkmarkets.com/article/india-gold-market-flips-to-premium-as-demand-improves-and-supplies-tighten"
+      ]
+    },
+    {
+      "id": "5d9cb268fbd278fb",
+      "rank": 5,
+      "title": "Silver Surplus Calls May Overstate the Impact of Weaker Solar Demand",
+      "summary": "Deutsche Bank and StoneX have shifted to surplus language - a possible physical silver surplus in 2027, or a 2026 surplus of about five weeks of demand (~107 Moz). Przemyslaw Radomski argues the solar decline is largely already counted: Metals Focus and the Silver Institute already assume PV demand falls 19% to 151 Moz inside a 46.3 Moz 2026 shortfall.",
+      "url": "https://www.investing.com/analysis/silver-surplus-calls-may-overstate-the-impact-of-weaker-solar-demand-200689925",
+      "source": "Investing.com",
+      "source_domain": "investing.com",
+      "publisher_id": "investing-com",
+      "published_at": "2026-10-20T16:23:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/5d9cb268fbd278fb.jpg",
+      "image_kind": "photo",
+      "breaking": false,
+      "tags": [
+        "silver",
+        "global",
+        "comex"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ]
+    },
+    {
+      "id": "58af6f19613bb0b8",
+      "rank": 6,
+      "title": "CIBC slashes gold price forecasts, still sees $5,500 in 2028",
+      "summary": "In its October outlook, CIBC cut its Q4 2026 gold forecast to $4,500 an ounce from $6,500, its 2027 average to $5,200 from $6,500 and its 2028 estimate to $5,500 from $6,000. The bank cites higher energy prices, a stronger dollar and a more hawkish Fed; it also cut its 2027 silver forecast to $85 an ounce from $120.",
+      "url": "https://investinglive.com/commodities/cibc-cuts-gold-forecasts-but-still-sees-5-500-in-2028/",
+      "source": "InvestingLive",
+      "source_domain": "investinglive.com",
+      "publisher_id": "investinglive",
+      "published_at": "2026-10-19T18:59:59Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/58af6f19613bb0b8.jpg",
+      "image_kind": "photo",
+      "breaking": false,
+      "tags": [
+        "gold",
+        "silver",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ]
+    },
+    {
+      "id": "36a33d66309611ee",
+      "rank": 7,
+      "title": "Hindustan Zinc Q2 profit more than doubles on higher metal prices; silver output up 20%",
+      "summary": "Hindustan Zinc's consolidated net profit more than doubled to Rs 6,412 crore in Q2 FY27 as higher metal prices and record output lifted revenue 76.5% to Rs 15,093 crore, margin widening to 42%. Silver production rose 20% to 173 tonnes and silver sales revenue more than doubled, driving about 45% of profitability; Jefferies said firmer silver prices improved the profit outlook.",
+      "url": "https://www.reuters.com/world/india/hindustan-zincs-quarterly-profit-doubles-higher-metal-prices-output-2026-10-19/",
+      "source": "Reuters",
+      "source_domain": "reuters.com",
+      "publisher_id": "reuters",
+      "published_at": "2026-10-19T10:27:46Z",
+      "category": "mcx",
+      "metals": [
+        "silver"
+      ],
+      "tags": [
+        "silver",
+        "india",
+        "mcx"
+      ],
+      "image_url": null,
+      "image_kind": "none",
+      "breaking": false,
+      "related_urls": [
+        "https://www.multibagg.ai/market-pulse/articles/hindustan-zinc-2qfy27-c7e0d1fb-9901-4e4b-aa30-cfddc9915d1e",
+        "https://tradersunion.com/news/companies/show/3872303-hindustan-zinc-profit-rises-metal-prices/"
+      ]
+    },
+    {
+      "id": "9935ac3e89db5ad2",
+      "rank": 8,
+      "title": "Gold, silver rise on MCX as Fed rate hike odds drop below 20%",
+      "summary": "December MCX gold futures rose 0.31% to Rs 1,48,379 per 10 grams and silver 0.39% to Rs 2,12,013 per kg in early trade on 19 October, after Fed Chair Kevin Warsh's remarks in Bangkok cut the implied chance of an October hike below 20%. December remains in play with hot producer-price data; the 27-28 October FOMC meeting is the next key test, and a firmer rupee is capping domestic gains.",
+      "url": "https://www.nationpress.com/business/gold-silver-gain-as-fed-hike-odds-ease",
+      "source": "Nation Press",
+      "source_domain": "nationpress.com",
+      "publisher_id": "nation-press",
+      "published_at": "2026-10-19T09:43:46Z",
+      "image_url": null,
+      "image_kind": "none",
+      "breaking": false,
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "fed",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ]
+    },
+    {
+      "id": "223c7e76b9145b0e",
+      "rank": 9,
+      "title": "CPM Group's Jeff Christian: lower first, then a breakout for gold and silver",
+      "summary": "CPM Group's Jeffrey Christian expects gold and silver prices to rise over the next several months despite near-term pressure, with silver seen breaking out of its range to the upside in two to three months. Gold futures have been testing $4,100 while silver repeatedly tests $60; gold ETFs added about 3 million ounces in August and 2 million in September, and central bank buying continues.",
+      "url": "https://theprospectornews.com/jeff-christian-gold-and-silver-alert-lower-first-then-a-breakout-video/",
+      "source": "Prospector News",
+      "source_domain": "theprospectornews.com",
+      "publisher_id": "prospector-news",
+      "published_at": "2026-10-19T17:45:52Z",
+      "image_url": null,
+      "image_kind": "none",
+      "breaking": false,
+      "tags": [
+        "gold",
+        "silver",
+        "global",
+        "central-banks"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ]
+    },
+    {
+      "id": "bb5714fc4c74d33d",
+      "rank": 10,
+      "title": "India's festive and wedding season demand picks up as prices ease",
+      "summary": "Jewellers report improving footfall as the festive and wedding season begins, with manufacturers seeing strong orders and buyers favouring lighter designs and old-gold exchange deals, which rose over 10%. Gold slipped about 5% in India in September, and listed jewellers posted 20-30% revenue growth in the July-September quarter.",
+      "url": "https://helloentrepreneurs.com/business/gold-demand-festive-wedding-101663/",
+      "source": "Hello Entrepreneurs",
+      "source_domain": "helloentrepreneurs.com",
+      "publisher_id": "hello-entrepreneurs",
+      "published_at": "2026-10-20T08:00:00Z",
+      "image_url": "https://helloentrepreneurs.com/wp-content/uploads/2026/10/PNN-2026-10-20T174601.582.jpg",
+      "image_kind": "photo",
+      "breaking": false,
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
+      ],
+      "category": "festive",
+      "metals": [
+        "gold"
+      ]
+    },
+    {
+      "id": "35045376079c14c9",
+      "title": "RBI sets SGB 2020-21 Series VII redemption at Rs 14,614 for October 19",
+      "summary": "The RBI has fixed October 19, 2026 as the premature redemption date for Sovereign Gold Bond 2020-21 Series VII at Rs 14,614 per gram, based on IBJA's average closing prices of October 14-16. Online subscribers gain 192.22% and offline buyers 189.33% in capital gains, alongside 2.5% annual interest; holders must route requests through their receiving offices within the notification window.",
+      "url": "https://www.outlookmoney.com/invest/sgb-2020-21-series-vii-investors-set-to-make-over-192-gains-upon-premature-redemption",
+      "source": "Outlook Money",
+      "source_domain": "outlookmoney.com",
+      "publisher_id": "outlook-money",
+      "published_at": "2026-10-19T04:25:00Z",
+      "category": "policy",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "india",
+        "rbi"
+      ],
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/35045376079c14c9.jpg",
+      "image_kind": "photo",
+      "breaking": false,
+      "related_urls": [
+        "https://www.livemintmoney.com/personal-finance/money/sgb-2019-20-series-v-investors-to-pocket-294-gains-on-premature-redemption-key-dates-and-tax-rules-explained-281792051899092.html",
+        "https://inshorts.com/en/news/gold-bond-investors-to-see-192--returns-on-premature-redemption-1792326518343"
+      ],
+      "rank": 11
+    }
   ]
- },
- "trending": [
-  {
-   "title": "Moscow is spending its gold",
-   "summary": "Russia's 62-tonne reserve drawdown since December — the largest since 1998 — marks a reversal of its pre-war accumulation strategy as the budget deficit heads for 7.3 trillion roubles.",
-   "item_ids": [
-    "5ae9694f08df89f2"
-   ]
-  },
-  {
-   "title": "Banks are rewriting gold's price path",
-   "summary": "CIBC's sharp forecast cuts and CPM Group's 'lower first, then breakout' call show the street split between near-term rate pressure and a longer-term recovery story.",
-   "item_ids": [
-    "58af6f19613bb0b8",
-    "223c7e76b9145b0e"
-   ]
-  },
-  {
-   "title": "India's festive demand is stirring early",
-   "summary": "Narrowing discounts, record ETF inflows and improving store footfall point to early festival-season strength, though high prices keep buyers cautious and selective.",
-   "item_ids": [
-    "10054a15eec872ce",
-    "bb5714fc4c74d33d"
-   ]
-  },
-  {
-   "title": "The October 27-28 Fed meeting is the market's focal point",
-   "summary": "Warsh's Bangkok remarks eased October hike fears below 20%, but December hike odds near 90% and five-month-high oil keep bullion capped.",
-   "item_ids": [
-    "3cd696d0030e86e3",
-    "9935ac3e89db5ad2"
-   ]
-  }
- ],
- "items": [
-  {
-   "id": "5ae9694f08df89f2",
-   "rank": 1,
-   "title": "Russia sells 62 tonnes of gold in biggest reserve drawdown since 1998",
-   "summary": "Bank of Russia data show gold reserves fell another 200,000 troy ounces (6.2 tonnes) in September, to 72.8 million ounces (2,264 tonnes) — the lowest since end-2019. The central bank has cut holdings for ten straight months, disposing of about 62 tonnes since December 2025, as the Kremlin covers a widening budget deficit; the Finance Ministry expects the 2026 deficit to reach 7.3 trillion roubles.",
-   "url": "https://eutoday.net/russia-gold-reserves-sales-budget-deficit-2026/",
-   "source": "EU Today",
-   "source_domain": "eutoday.net",
-   "publisher_id": "eu-today",
-   "published_at": "2026-10-20T21:31:27Z",
-   "image_url": "https://eutoday.net/wp-content/uploads/2026/10/E10H864J.jpg",
-   "image_kind": "photo",
-   "breaking": false,
-   "tags": [
-    "gold",
-    "global",
-    "central-banks"
-   ],
-   "category": "global",
-   "metals": [
-    "gold"
-   ]
-  },
-  {
-   "id": "58af6f19613bb0b8",
-   "rank": 2,
-   "title": "CIBC slashes gold price forecasts, still sees $5,500 in 2028",
-   "summary": "In its October outlook, CIBC cut its Q4 2026 gold forecast to $4,500 an ounce from $6,500, its 2027 average to $5,200 from $6,500 and its 2028 estimate to $5,500 from $6,000. The bank cites higher energy prices, a stronger dollar and a more hawkish Fed; it also cut its 2027 silver forecast to $85 an ounce from $120.",
-   "url": "https://investinglive.com/commodities/cibc-cuts-gold-forecasts-but-still-sees-5-500-in-2028/",
-   "source": "InvestingLive",
-   "source_domain": "investinglive.com",
-   "publisher_id": "investinglive",
-   "published_at": "2026-10-19T18:59:59Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/58af6f19613bb0b8.jpg",
-   "image_kind": "photo",
-   "breaking": false,
-   "tags": [
-    "gold",
-    "silver",
-    "global",
-    "fed"
-   ],
-   "category": "global",
-   "metals": [
-    "gold",
-    "silver"
-   ]
-  },
-  {
-   "id": "10054a15eec872ce",
-   "rank": 3,
-   "title": "World Gold Council: India's seasonal gold demand shows early strength",
-   "summary": "The World Gold Council's India market update says domestic gold price discounts narrowed sharply in October, from an average of $66/oz in September to $8/oz as of 16 October, as seasonal demand gathered pace. Gold ETF net inflows hit a seven-month high in September at Rs 44.5 billion, with Rs 17.22 billion more in the first half of October.",
-   "url": "https://www.gold.org/goldhub/gold-focus/2026/10/india-gold-market-update-seasonal-demand-shows-early-strength",
-   "source": "World Gold Council",
-   "source_domain": "gold.org",
-   "publisher_id": "world-gold-council",
-   "published_at": "2026-10-20T06:00:00Z",
-   "image_url": "https://www.gold.org/sites/default/files/default_images/WGC-Social-1200x630.jpeg",
-   "image_kind": "photo",
-   "breaking": false,
-   "tags": [
-    "gold",
-    "mcx",
-    "india"
-   ],
-   "category": "mcx",
-   "metals": [
-    "gold"
-   ],
-   "related_urls": [
-    "https://talkmarkets.com/article/india-gold-market-flips-to-premium-as-demand-improves-and-supplies-tighten"
-   ]
-  },
-  {
-   "id": "3cd696d0030e86e3",
-   "rank": 4,
-   "title": "Gold eases as elevated oil prices keep inflation risks in focus",
-   "summary": "Reuters reported spot gold fell 0.4% to $4,123.94 an ounce on Tuesday as firmer oil prices — Brent near a five-month high after Houthi attacks on Saudi targets — heightened inflation concerns. Recent Fed comments have tempered expectations of an October hike, but traders still see a 91% chance of a December increase; spot silver rose 0.2% to $57.20.",
-   "url": "https://943jackfm.com/2026/10/19/gold-slips-as-investors-weigh-fed-rate-outlook/",
-   "source": "94.3 Jack FM",
-   "source_domain": "943jackfm.com",
-   "publisher_id": "94-3-jack-fm",
-   "published_at": "2026-10-20T01:33:08Z",
-   "image_url": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-10/20/2026-10-20T013308Z_1_LYNXMPEM9J032_RTROPTP_3_GOLD-LBMA-COURT.JPG",
-   "image_kind": "photo",
-   "breaking": false,
-   "tags": [
-    "gold",
-    "global",
-    "fed"
-   ],
-   "category": "global",
-   "metals": [
-    "gold"
-   ]
-  },
-  {
-   "id": "36a33d66309611ee",
-   "rank": 5,
-   "title": "Hindustan Zinc Q2 profit more than doubles on higher metal prices; silver output up 20%",
-   "summary": "Hindustan Zinc's consolidated net profit more than doubled to Rs 6,412 crore in Q2 FY27 as higher metal prices and record output lifted revenue 76.5% to Rs 15,093 crore, margin widening to 42%. Silver production rose 20% to 173 tonnes and silver sales revenue more than doubled, driving about 45% of profitability; Jefferies said firmer silver prices improved the profit outlook.",
-   "url": "https://www.reuters.com/world/india/hindustan-zincs-quarterly-profit-doubles-higher-metal-prices-output-2026-10-19/",
-   "source": "Reuters",
-   "source_domain": "reuters.com",
-   "publisher_id": "reuters",
-   "published_at": "2026-10-19T10:27:46Z",
-   "category": "mcx",
-   "metals": [
-    "silver"
-   ],
-   "tags": [
-    "silver",
-    "india",
-    "mcx"
-   ],
-   "image_url": null,
-   "image_kind": "none",
-   "breaking": false,
-   "related_urls": [
-    "https://www.multibagg.ai/market-pulse/articles/hindustan-zinc-2qfy27-c7e0d1fb-9901-4e4b-aa30-cfddc9915d1e",
-    "https://tradersunion.com/news/companies/show/3872303-hindustan-zinc-profit-rises-metal-prices/"
-   ]
-  },
-  {
-   "id": "1731c86cb61d7ecd",
-   "rank": 6,
-   "title": "Gold above Rs 1,47,000, silver near Rs 2.10 lakh on Dussehra",
-   "summary": "IANS reports that MCX stayed closed for the morning session on Dussehra, with trading set to resume at 5 pm. In Monday's session, December gold futures settled down Rs 618 at Rs 1,47,300 per 10 grams while December silver futures closed flat at Rs 2,09,825 per kg; 24-karat gold in Mumbai was Rs 1,47,340. Spot gold edged up to $4,144.15 and silver to $57.44.",
-   "url": "https://thefreedompress.in/gold-above-rs-147000-silver-near-rs-2-10-lakh-on-dussehra/",
-   "source": "The Freedom Press",
-   "source_domain": "thefreedompress.in",
-   "publisher_id": "the-freedom-press",
-   "published_at": "2026-10-20T18:46:00Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/1731c86cb61d7ecd.jpg",
-   "image_kind": "photo",
-   "breaking": false,
-   "tags": [
-    "gold",
-    "silver",
-    "mcx",
-    "india"
-   ],
-   "category": "mcx",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "related_urls": [
-    "https://www.nationpress.com/business/gold-above-indian-rupee147-lakh-silver-near-indian-rupee210-lakh-on-dussehra"
-   ]
-  },
-  {
-   "id": "5d9cb268fbd278fb",
-   "rank": 7,
-   "title": "Silver Surplus Calls May Overstate the Impact of Weaker Solar Demand",
-   "summary": "Deutsche Bank and StoneX have shifted to surplus language - a possible physical silver surplus in 2027, or a 2026 surplus of about five weeks of demand (~107 Moz). Przemyslaw Radomski argues the solar decline is largely already counted: Metals Focus and the Silver Institute already assume PV demand falls 19% to 151 Moz inside a 46.3 Moz 2026 shortfall.",
-   "url": "https://www.investing.com/analysis/silver-surplus-calls-may-overstate-the-impact-of-weaker-solar-demand-200689925",
-   "source": "Investing.com",
-   "source_domain": "investing.com",
-   "publisher_id": "investing-com",
-   "published_at": "2026-10-20T16:23:00Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/5d9cb268fbd278fb.jpg",
-   "image_kind": "photo",
-   "breaking": false,
-   "tags": [
-    "silver",
-    "global",
-    "comex"
-   ],
-   "category": "global",
-   "metals": [
-    "silver"
-   ]
-  },
-  {
-   "id": "9935ac3e89db5ad2",
-   "rank": 8,
-   "title": "Gold, silver rise on MCX as Fed rate hike odds drop below 20%",
-   "summary": "December MCX gold futures rose 0.31% to Rs 1,48,379 per 10 grams and silver 0.39% to Rs 2,12,013 per kg in early trade on 19 October, after Fed Chair Kevin Warsh's remarks in Bangkok cut the implied chance of an October hike below 20%. December remains in play with hot producer-price data; the 27-28 October FOMC meeting is the next key test, and a firmer rupee is capping domestic gains.",
-   "url": "https://www.nationpress.com/business/gold-silver-gain-as-fed-hike-odds-ease",
-   "source": "Nation Press",
-   "source_domain": "nationpress.com",
-   "publisher_id": "nation-press",
-   "published_at": "2026-10-19T09:43:46Z",
-   "image_url": null,
-   "image_kind": "none",
-   "breaking": false,
-   "tags": [
-    "gold",
-    "silver",
-    "mcx",
-    "fed",
-    "india"
-   ],
-   "category": "mcx",
-   "metals": [
-    "gold",
-    "silver"
-   ]
-  },
-  {
-   "id": "223c7e76b9145b0e",
-   "rank": 9,
-   "title": "CPM Group's Jeff Christian: lower first, then a breakout for gold and silver",
-   "summary": "CPM Group's Jeffrey Christian expects gold and silver prices to rise over the next several months despite near-term pressure, with silver seen breaking out of its range to the upside in two to three months. Gold futures have been testing $4,100 while silver repeatedly tests $60; gold ETFs added about 3 million ounces in August and 2 million in September, and central bank buying continues.",
-   "url": "https://theprospectornews.com/jeff-christian-gold-and-silver-alert-lower-first-then-a-breakout-video/",
-   "source": "Prospector News",
-   "source_domain": "theprospectornews.com",
-   "publisher_id": "prospector-news",
-   "published_at": "2026-10-19T17:45:52Z",
-   "image_url": null,
-   "image_kind": "none",
-   "breaking": false,
-   "tags": [
-    "gold",
-    "silver",
-    "global",
-    "central-banks"
-   ],
-   "category": "global",
-   "metals": [
-    "gold",
-    "silver"
-   ]
-  },
-  {
-   "id": "bb5714fc4c74d33d",
-   "rank": 10,
-   "title": "India's festive and wedding season demand picks up as prices ease",
-   "summary": "Jewellers report improving footfall as the festive and wedding season begins, with manufacturers seeing strong orders and buyers favouring lighter designs and old-gold exchange deals, which rose over 10%. Gold slipped about 5% in India in September, and listed jewellers posted 20-30% revenue growth in the July-September quarter.",
-   "url": "https://helloentrepreneurs.com/business/gold-demand-festive-wedding-101663/",
-   "source": "Hello Entrepreneurs",
-   "source_domain": "helloentrepreneurs.com",
-   "publisher_id": "hello-entrepreneurs",
-   "published_at": "2026-10-20T08:00:00Z",
-   "image_url": "https://helloentrepreneurs.com/wp-content/uploads/2026/10/PNN-2026-10-20T174601.582.jpg",
-   "image_kind": "photo",
-   "breaking": false,
-   "tags": [
-    "gold",
-    "india",
-    "jewellery"
-   ],
-   "category": "festive",
-   "metals": [
-    "gold"
-   ]
-  },
-  {
-   "id": "35045376079c14c9",
-   "title": "RBI sets SGB 2020-21 Series VII redemption at Rs 14,614 for October 19",
-   "summary": "The RBI has fixed October 19, 2026 as the premature redemption date for Sovereign Gold Bond 2020-21 Series VII at Rs 14,614 per gram, based on IBJA's average closing prices of October 14-16. Online subscribers gain 192.22% and offline buyers 189.33% in capital gains, alongside 2.5% annual interest; holders must route requests through their receiving offices within the notification window.",
-   "url": "https://www.outlookmoney.com/invest/sgb-2020-21-series-vii-investors-set-to-make-over-192-gains-upon-premature-redemption",
-   "source": "Outlook Money",
-   "source_domain": "outlookmoney.com",
-   "publisher_id": "outlook-money",
-   "published_at": "2026-10-19T04:25:00Z",
-   "category": "policy",
-   "metals": [
-    "gold"
-   ],
-   "tags": [
-    "gold",
-    "india",
-    "rbi"
-   ],
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/35045376079c14c9.jpg",
-   "image_kind": "photo",
-   "breaking": false,
-   "related_urls": [
-    "https://www.livemintmoney.com/personal-finance/money/sgb-2019-20-series-v-investors-to-pocket-294-gains-on-premature-redemption-key-dates-and-tax-rules-explained-281792051899092.html",
-    "https://inshorts.com/en/news/gold-bond-investors-to-see-192--returns-on-premature-redemption-1792326518343"
-   ],
-   "rank": 11
-  }
- ]
 }
