@@ -1,305 +1,378 @@
 {
-  "schema": "orob-news.v1",
-  "edition_id": "2026-10-21T06:00Z",
-  "generated_at": "2026-10-21T06:02:38Z",
-  "window": {
-    "from": "2026-10-21T04:00:00Z",
-    "to": "2026-10-21T06:00:00Z"
-  },
-  "insights": {
-    "headline": "Gold, silver slip as oil rebound stokes US rate-hike fears; gold holds near $4,175",
-    "summary": "Gold and silver eased on Wednesday as Brent crude's rebound revived inflation worries and US rate-hike fears, with MCX gold near Rs 1.46 lakh per 10 grams and silver around Rs 2.10 lakh per kg. A Reuters analysis notes gold is trading around $4,175 an ounce - well below its $5,595 January record - with continued central-bank buying keeping prices above $4,000. In India, the World Gold Council says domestic discounts have nearly vanished as seasonal demand gathers pace.",
-    "points": [
-      "Comex gold traded near $4,139 and silver near $57.57 as elevated crude prices revived inflation and rate-hike worries.",
-      "FXEmpire sees a confirmed break above $4,217 as a bullish signal for gold, with support near $4,066.",
-      "WGC: Indian gold discounts narrowed from $66/oz in September to $8 by October 16 on seasonal demand.",
-      "Bank of Russia cut gold reserves for a 10th straight month, selling about 62 tonnes since December 2025.",
-      "Hindustan Zinc's Q2 profit more than doubled as silver output rose 20% to 173 tonnes."
-    ]
-  },
-  "trending": [
-    {
-      "title": "Oil vs bullion: crude rebound rekindles rate-hike fears",
-      "summary": "Higher crude is reviving inflation worries and US rate-hike bets, pressing gold and silver even as safe-haven demand persists.",
-      "item_ids": [
-        "87886081b265f048",
-        "0282bdb3ac6de5b2"
-      ]
-    },
-    {
-      "title": "Central banks remain gold's anchor bid",
-      "summary": "Q2 central-bank buying of 289 tonnes and record Asian fund inflows underpin $4,200-5,000 forecasts; Russia's reserve sales to cover its budget deficit are the exception, not the rule.",
-      "item_ids": [
-        "4ea292ea7690b144",
-        "0282bdb3ac6de5b2",
-        "5ae9694f08df89f2"
-      ]
-    },
-    {
-      "title": "India's festive demand gathers pace",
-      "summary": "Domestic discounts have nearly vanished and September ETF inflows hit a seven-month high, while jewellers report improving footfall as the festive and wedding season begins.",
-      "item_ids": [
-        "10054a15eec872ce",
-        "bb5714fc4c74d33d"
-      ]
-    },
-    {
-      "title": "Silver's tug of war: surplus debate vs industrial demand",
-      "summary": "Surplus calls for 2026-27 are being challenged as already-priced solar softness, while Hindustan Zinc's 20% jump in silver output shows miners riding the high-price cycle.",
-      "item_ids": [
-        "5d9cb268fbd278fb",
-        "36a33d66309611ee"
-      ]
-    }
-  ],
-  "items": [
-    {
-      "id": "87886081b265f048",
-      "title": "Gold, silver fall as higher crude oil prices revive rate-hike concerns",
-      "summary": "Gold and silver futures slipped in Wednesday's morning session as elevated crude prices revived inflation worries and further US rate-hike fears. MCX December gold fell Rs 389 to Rs 1,46,130 per 10 grams and December silver dropped Rs 1,733 to Rs 2,09,752 per kg; Comex gold traded near $4,139 an ounce and silver near $57.57, with West Asia tensions keeping supply fears in focus.",
-      "url": "https://www.business-standard.com/markets/commodities/gold-silver-fall-as-higher-crude-oil-prices-revive-rate-hike-concerns-126102100241_1.html",
-      "source": "Business Standard",
-      "source_domain": "business-standard.com",
-      "publisher_id": "business-standard",
-      "published_at": "2026-10-21T04:50:36Z",
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "comex",
-        "fed",
-        "india",
-        "global"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/87886081b265f048.jpg",
-      "image_kind": "photo",
-      "rehosted": true,
-      "rank": 1
-    },
-    {
-      "id": "0282bdb3ac6de5b2",
-      "title": "Safe-haven assets under pressure: dollar, Swiss franc, German bonds and gold in focus",
-      "summary": "Gold is trading around $4,175 an ounce after hitting a record $5,595 in January and retreating once the Iran war began, as investors sold holdings to cover losses elsewhere, Reuters reported. Continued central-bank buying has kept prices above $4,000, and Julius Baer's Carsten Menke said gold could benefit from further central-bank purchases and renewed concern over US government debt.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-safe-haven-assets-under-pressure-dollar-swiss-franc-german-bonds-and-gold-in-focus/articleshow/135082673.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "publisher_id": "economic-times",
-      "published_at": "2026-10-21T05:10:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/0282bdb3ac6de5b2.jpg",
-      "image_kind": "photo",
-      "rehosted": true,
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "global",
-        "central-banks"
-      ],
-      "breaking": false,
-      "rank": 2
-    },
-    {
-      "id": "0405087ff56e2738",
-      "title": "Gold (XAU/USD) Price Forecast: $4,217 Breakout Puts Bulls Back in Control",
-      "summary": "FXEmpire’s technical analysis puts gold at a pivotal juncture, with support near $4,066 and resistance at $4,217. A confirmed move above $4,217 on daily and weekly charts would signal a bullish reversal and could open a path toward $4,820; failure at resistance risks a deeper leg of the correction.",
-      "url": "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-4217-breakout-puts-bulls-back-in-control-1639370",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "publisher_id": "fxempire",
-      "published_at": "2026-10-20T21:09:00Z",
-      "tags": [
-        "gold",
-        "global",
-        "fed"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "image_url": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/gold-precious-metal-price-chart-06-8.jpg?width=1201",
-      "image_kind": "photo",
-      "rank": 3
-    },
-    {
-      "id": "4ea292ea7690b144",
-      "rank": 4,
-      "title": "Gold may trade up to USD 5,000/oz over next two years as central banks sustain demand: Report",
-      "summary": "Gold could hold $4,200-5,000 an ounce over the next 12-24 months, NDB Wealth Management said in an ANI-carried report, as central-bank buying and Asian investor demand increasingly set prices rather than US rates. It cites 289 tonnes of central-bank buying in Q2 2026 and record Asian gold-fund inflows of nearly 70 tonnes in H1; the $4,200-5,000 range is its 50%-probability base case.",
-      "url": "https://www.latestly.com/agency-news/business-news-gold-may-trade-up-to-usd-5000oz-over-next-two-years-as-central-banks-sustain-demand-report-7651395.html",
-      "source": "LatestLY",
-      "source_domain": "latestly.com",
-      "publisher_id": "latestly",
-      "published_at": "2026-10-21T03:26:00Z",
-      "tags": [
-        "gold",
-        "global",
-        "central-banks"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://www.dailyprabhat.com/gold-may-trade-up-to-usd-5000-oz-over-next-two-years-as-central-banks-sustain-demand-report/",
-        "https://apnamatvchannel.com/business/gold-may-trade-up-to-usd-5000-oz-over-next-two-years-as-central-banks-sustain-demand-report/"
-      ],
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/4ea292ea7690b144.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "10054a15eec872ce",
-      "rank": 5,
-      "title": "World Gold Council: India's seasonal gold demand shows early strength",
-      "summary": "Domestic discounts narrowed from an average of $66 an ounce in September to $8 as of October 16, the World Gold Council says, as seasonal demand gathered pace. September gold ETF inflows hit a seven-month high of Rs 44.5 billion (about 3 tonnes), with Rs 17.22 billion (1.2 tonnes) more in the first half of October. September imports fell to $1.8 billion, the lowest since March 2024.",
-      "url": "https://www.gold.org/goldhub/gold-focus/2026/10/india-gold-market-update-seasonal-demand-shows-early-strength",
-      "source": "World Gold Council",
-      "source_domain": "gold.org",
-      "publisher_id": "world-gold-council",
-      "published_at": "2026-10-20T08:09:00Z",
-      "image_url": "https://www.gold.org/sites/default/files/default_images/WGC-Social-1200x630.jpeg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "india",
-        "mcx"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://talkmarkets.com/article/india-gold-market-flips-to-premium-as-demand-improves-and-supplies-tighten"
-      ]
-    },
-    {
-      "id": "5d9cb268fbd278fb",
-      "rank": 6,
-      "title": "Silver Surplus Calls May Overstate the Impact of Weaker Solar Demand",
-      "summary": "Deutsche Bank and StoneX have shifted to surplus language - a possible physical silver surplus in 2027, or a 2026 surplus of about five weeks of demand (~107 Moz). Przemyslaw Radomski argues the solar decline is largely already counted: Metals Focus and the Silver Institute already assume PV demand falls 19% to 151 Moz inside a 46.3 Moz 2026 shortfall.",
-      "url": "https://www.investing.com/analysis/silver-surplus-calls-may-overstate-the-impact-of-weaker-solar-demand-200689925",
-      "source": "Investing.com",
-      "source_domain": "investing.com",
-      "publisher_id": "investing-com",
-      "published_at": "2026-10-20T16:23:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/5d9cb268fbd278fb.jpg",
-      "image_kind": "photo",
-      "breaking": false,
-      "tags": [
-        "silver",
-        "global",
-        "comex"
-      ],
-      "category": "global",
-      "metals": [
-        "silver"
-      ]
-    },
-    {
-      "id": "5ae9694f08df89f2",
-      "rank": 7,
-      "title": "Russia sells 62 tonnes of gold in biggest reserve drawdown since 1998",
-      "summary": "Bank of Russia data show gold reserves fell another 200,000 troy ounces (6.2 tonnes) in September, to 72.8 million ounces (2,264 tonnes) — the lowest since end-2019. The central bank has cut holdings for ten straight months, disposing of about 62 tonnes since December 2025, as the Kremlin covers a widening budget deficit; the Finance Ministry expects the 2026 deficit to reach 7.3 trillion roubles.",
-      "url": "https://eutoday.net/russia-gold-reserves-sales-budget-deficit-2026/",
-      "source": "EU Today",
-      "source_domain": "eutoday.net",
-      "publisher_id": "eu-today",
-      "published_at": "2026-10-20T21:31:27Z",
-      "image_url": "https://eutoday.net/wp-content/uploads/2026/10/E10H864J.jpg",
-      "image_kind": "photo",
-      "breaking": false,
-      "tags": [
-        "gold",
-        "global",
-        "central-banks"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ]
-    },
-    {
-      "id": "0b9d32117f68123e",
-      "rank": 8,
-      "title": "Gem, jewellery exporters heave a sigh of relief as the US puts off punitive tax",
-      "summary": "Indian gem and jewellery exporters expect US orders to revive after President Trump waived proposed 100% punitive duties on goods from top Russian oil buyers. The US remains India's largest export market ahead of Christmas demand, and industry exports rose 13% to $14.30 billion in the fiscal first half. IBJA data showed domestic gold fell 5% in the past month to Rs 145,944 per 10 grams.",
-      "url": "https://www.thehindubusinessline.com/economy/gem-jewellery-exporters-heave-a-sigh-of-relief-as-the-us-puts-off-punitive-tax/article71604247.ece",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "publisher_id": "hindu-businessline",
-      "published_at": "2026-10-20T13:21:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "india",
-        "jewellery"
-      ],
-      "category": "policy",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false
-    },
-    {
-      "id": "36a33d66309611ee",
-      "rank": 9,
-      "title": "Hindustan Zinc Q2 profit more than doubles on higher metal prices; silver output up 20%",
-      "summary": "Hindustan Zinc's consolidated net profit more than doubled to Rs 6,412 crore in Q2 FY27 as higher metal prices and record output lifted revenue 76.5% to Rs 15,093 crore, margin widening to 42%. Silver production rose 20% to 173 tonnes and silver sales revenue more than doubled, driving about 45% of profitability; Jefferies said firmer silver prices improved the profit outlook.",
-      "url": "https://www.reuters.com/world/india/hindustan-zincs-quarterly-profit-doubles-higher-metal-prices-output-2026-10-19/",
-      "source": "Reuters",
-      "source_domain": "reuters.com",
-      "publisher_id": "reuters",
-      "published_at": "2026-10-19T10:27:46Z",
-      "category": "mcx",
-      "metals": [
-        "silver"
-      ],
-      "tags": [
-        "silver",
-        "india",
-        "mcx"
-      ],
-      "image_url": null,
-      "image_kind": "none",
-      "breaking": false,
-      "related_urls": [
-        "https://www.multibagg.ai/market-pulse/articles/hindustan-zinc-2qfy27-c7e0d1fb-9901-4e4b-aa30-cfddc9915d1e",
-        "https://tradersunion.com/news/companies/show/3872303-hindustan-zinc-profit-rises-metal-prices/"
-      ]
-    },
-    {
-      "id": "bb5714fc4c74d33d",
-      "rank": 10,
-      "title": "India's festive and wedding season demand picks up as prices ease",
-      "summary": "Jewellers report improving footfall as the festive and wedding season begins, with manufacturers seeing strong orders and buyers favouring lighter designs and old-gold exchange deals, which rose over 10%. Gold slipped about 5% in India in September, and listed jewellers posted 20-30% revenue growth in the July-September quarter.",
-      "url": "https://helloentrepreneurs.com/business/gold-demand-festive-wedding-101663/",
-      "source": "Hello Entrepreneurs",
-      "source_domain": "helloentrepreneurs.com",
-      "publisher_id": "hello-entrepreneurs",
-      "published_at": "2026-10-20T08:00:00Z",
-      "image_url": "https://helloentrepreneurs.com/wp-content/uploads/2026/10/PNN-2026-10-20T174601.582.jpg",
-      "image_kind": "photo",
-      "breaking": false,
-      "tags": [
-        "gold",
-        "india",
-        "jewellery"
-      ],
-      "category": "festive",
-      "metals": [
-        "gold"
-      ]
-    }
+ "schema": "orob-news.v1",
+ "edition_id": "2026-10-21T07:00Z",
+ "generated_at": "2026-10-21T07:08:22Z",
+ "window": {
+  "from": "2026-10-21T06:00:00Z",
+  "to": "2026-10-21T07:00:00Z"
+ },
+ "insights": {
+  "headline": "Oil-driven rate-hike bets pin gold below $4,200 as Dhanteras buyers weigh the dip",
+  "summary": "Gold and silver slipped on Wednesday as rebounding crude revived expectations of a December US rate hike, with spot gold near $4,119 an ounce and MCX silver futures around Rs 2.09-2.10 lakh per kg. The dip lands just ahead of Karwa Chauth, Dhanteras and Diwali, leaving festive buyers to weigh buying now against waiting for a deeper fall. Longer term, central-bank buying and Asian demand continue to anchor forecasts of $4,200-5,000 gold over the next one to two years.",
+  "points": [
+   "Markets price ~84% odds the Fed holds rates on Oct 27-28 and ~90% odds of a December hike (CME FedWatch).",
+   "Brent crude near $112 keeps inflation fears alive - the main drag on bullion this week.",
+   "NDB Wealth sees gold holding $4,200-5,000 over 1-2 years on central-bank and Asian demand.",
+   "WGC: India's gold discounts narrowed to $8/oz from $66 as seasonal demand gathered pace.",
+   "Silver faces extra drag from industrial-demand worries despite long-run solar and EV demand."
   ]
+ },
+ "trending": [
+  {
+   "title": "Oil vs Fed: crude rebound keeps rate-hike bets alive",
+   "summary": "Brent near $112 has revived inflation worries and ~90% December Fed-hike pricing, pressing gold below $4,200 and silver toward $57.",
+   "item_ids": [
+    "5a1fc654f2a89ea0",
+    "a81269fe17144bdc",
+    "9585a7f3219af0e3"
+   ]
+  },
+  {
+   "title": "Dhanteras dip: a fourth down day for festive buyers",
+   "summary": "Gold slipped a fourth straight session just as Karwa Chauth, Dhanteras and Diwali near, turning buy-now-or-wait into the season's big question.",
+   "item_ids": [
+    "461a0bc5d1754f33",
+    "10054a15eec872ce"
+   ]
+  },
+  {
+   "title": "Silver's two-way pull: MCX slide vs industrial faith",
+   "summary": "MCX silver futures fell to about Rs 2.09 lakh/kg on industrial-demand worries, even as analysts argue surplus calls overstate solar's weakness.",
+   "item_ids": [
+    "8d9b52a892d4a69e",
+    "5d9cb268fbd278fb"
+   ]
+  },
+  {
+   "title": "Digital gold's $700-billion pitch vs ETF discipline",
+   "summary": "WGC frames digital gold as a $700bn opportunity while festive investors weigh it against SEBI-regulated gold ETFs.",
+   "item_ids": [
+    "94aef426370d059f"
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "5a1fc654f2a89ea0",
+   "rank": 1,
+   "title": "Gold prices near Rs 1.47 lakh/10 grams, silver falls by Rs 1,144/kg as traders await Fed rate signals",
+   "summary": "MCX December silver futures fell Rs 1,144 to Rs 2,10,341 per kg on Wednesday while gold futures slipped, ET reported, as traders held back ahead of the Fed's October 27-28 policy meeting. Spot gold hovered near $4,118.64; FedWatch priced ~84% odds of an October hold and 90% for a December hike. NDB Wealth told ET gold could hold $4,200-5,000 over 1-2 years - 'gold has stopped trading off the Fed.'",
+   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-near-rs-1-47-lakh/10-grams-silver-falls-by-rs-1144/kg-as-traders-await-fed-rate-signals-what-lies-ahead/articleshow/135083841.cms",
+   "source": "Economic Times",
+   "source_domain": "economictimes.indiatimes.com",
+   "publisher_id": "economic-times",
+   "published_at": "2026-10-21T06:10:30Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/5a1fc654f2a89ea0.jpg",
+   "image_kind": "photo",
+   "rehosted": true,
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "tags": [
+    "gold",
+    "silver",
+    "mcx",
+    "fed"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "8d9b52a892d4a69e",
+   "rank": 2,
+   "title": "Silver Futures Decline to Rs 2.09 Lakh/kg on MCX",
+   "summary": "Silver futures for December delivery dropped Rs 2,124 to Rs 2,09,361 per kg on MCX as participants trimmed bets in a sell-off, PTI reported via Rediff Money. Globally, silver fell 0.96% to $57.38 an ounce in New York.",
+   "url": "https://money.rediff.com/news/market/silver-futures-decline-to-rs-2-09-lakh-kg-on-mcx/56584020261021",
+   "source": "Rediff Money",
+   "source_domain": "money.rediff.com",
+   "publisher_id": "rediff-money",
+   "published_at": "2026-10-21T05:37:00Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/8d9b52a892d4a69e.jpg",
+   "image_kind": "photo",
+   "rehosted": true,
+   "category": "mcx",
+   "metals": [
+    "silver"
+   ],
+   "tags": [
+    "silver",
+    "mcx",
+    "comex"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "461a0bc5d1754f33",
+   "rank": 3,
+   "title": "Gold gets cheaper before Dhanteras: Buy now or wait for a bigger dip?",
+   "summary": "MCX gold traded around Rs 1,45,898 per 10 grams, down 0.42% near 11:30am, as prices eased for a fourth straight session ahead of Karwa Chauth, Dhanteras and Diwali, India Today reported. The pullback, driven by rising crude oil and inflation fears, has left festive buyers weighing a purchase now against waiting for a deeper dip.",
+   "url": "https://www.indiatoday.in/business/commodities/story/gold-gets-cheaper-before-dhanteras-buy-now-or-wait-for-a-bigger-dip-3021785-2026-10-21",
+   "source": "India Today",
+   "source_domain": "indiatoday.in",
+   "publisher_id": "india-today",
+   "published_at": "2026-10-21T06:36:12Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/461a0bc5d1754f33.jpg",
+   "image_kind": "photo",
+   "rehosted": true,
+   "category": "festive",
+   "metals": [
+    "gold"
+   ],
+   "tags": [
+    "gold",
+    "india",
+    "jewellery"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "a81269fe17144bdc",
+   "rank": 4,
+   "title": "Gold, silver prices: 3 factors to watch for the next upmove",
+   "summary": "Gold and silver are struggling to regain momentum as geopolitical tensions ease, Business Today reported, with December MCX gold at Rs 1,46,506 per 10 grams in morning trade. Silver faces an additional drag from industrial-demand concerns, though its long-term demand from solar, electric vehicles and electronics remains intact.",
+   "url": "https://www.businesstoday.in/markets/stocks/story/gold-silver-prices-3-factors-to-watch-for-the-next-upmove-562722-2026-10-21",
+   "source": "Business Today",
+   "source_domain": "businesstoday.in",
+   "publisher_id": "business-today",
+   "published_at": "2026-10-21T06:09:17Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/a81269fe17144bdc.jpg",
+   "image_kind": "photo",
+   "rehosted": true,
+   "category": "global",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "tags": [
+    "gold",
+    "silver",
+    "global"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "9585a7f3219af0e3",
+   "rank": 5,
+   "title": "Gold and Silver Price Forecast: Breakdown Risk Persists as Oil Rebounds",
+   "summary": "Gold consolidated near $4,120, under pressure below the $4,200 level as December Fed rate-hike expectations rose to about 90% on the FedWatch tool, FXEmpire reported. A break below $4,070 could open $4,000 for gold, and silver below $55 could target $50, with Brent crude near $111.80 keeping rate-hike bets in focus.",
+   "url": "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-breakdown-risk-persists-as-oil-rebounds-1639384",
+   "source": "FXEmpire",
+   "source_domain": "fxempire.com",
+   "publisher_id": "fxempire",
+   "published_at": "2026-10-21T04:22:47Z",
+   "image_url": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/gold-and-silver-precious-metals-02-1.jpg?width=1201",
+   "image_kind": "photo",
+   "rehosted": false,
+   "category": "global",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "tags": [
+    "gold",
+    "silver",
+    "fed",
+    "global"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "94aef426370d059f",
+   "rank": 6,
+   "title": "Festive gold investment: Digital Gold vs Gold ETFs - which is the better choice for Diwali and Dhanteras investors",
+   "summary": "For Diwali and Dhanteras, digital gold and gold ETFs both offer price exposure without physical jewellery, coins or bars, but costs, liquidity, redemption rules and investor protection differ, Business Today reported. The World Gold Council's 'Digital Gold: Unlocking a $700-Billion Opportunity' report frames trust, accessibility, utility and pricing as the key drivers of digital gold's growth.",
+   "url": "https://www.businesstoday.in/personal-finance/investment/story/festive-gold-investment-digital-gold-vs-gold-etfs-which-is-the-better-choice-for-diwali-and-dhanteras-investors-562740-2026-10-21",
+   "source": "Business Today",
+   "source_domain": "businesstoday.in",
+   "publisher_id": "business-today",
+   "published_at": "2026-10-21T06:41:12Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/94aef426370d059f.jpg",
+   "image_kind": "photo",
+   "rehosted": true,
+   "category": "festive",
+   "metals": [
+    "gold"
+   ],
+   "tags": [
+    "gold",
+    "india"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "0282bdb3ac6de5b2",
+   "title": "Safe-haven assets under pressure: dollar, Swiss franc, German bonds and gold in focus",
+   "summary": "Gold is trading around $4,175 an ounce after hitting a record $5,595 in January and retreating once the Iran war began, as investors sold holdings to cover losses elsewhere, Reuters reported. Continued central-bank buying has kept prices above $4,000, and Julius Baer's Carsten Menke said gold could benefit from further central-bank purchases and renewed concern over US government debt.",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-safe-haven-assets-under-pressure-dollar-swiss-franc-german-bonds-and-gold-in-focus/articleshow/135082673.cms",
+   "source": "Economic Times",
+   "source_domain": "economictimes.indiatimes.com",
+   "publisher_id": "economic-times",
+   "published_at": "2026-10-21T05:10:00Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/0282bdb3ac6de5b2.jpg",
+   "image_kind": "photo",
+   "rehosted": true,
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "tags": [
+    "gold",
+    "global",
+    "central-banks"
+   ],
+   "breaking": false,
+   "rank": 7
+  },
+  {
+   "id": "4ea292ea7690b144",
+   "rank": 8,
+   "title": "Gold may trade up to USD 5,000/oz over next two years as central banks sustain demand: Report",
+   "summary": "Gold could hold $4,200-5,000 an ounce over the next 12-24 months, NDB Wealth Management said in an ANI-carried report, as central-bank buying and Asian investor demand increasingly set prices rather than US rates. It cites 289 tonnes of central-bank buying in Q2 2026 and record Asian gold-fund inflows of nearly 70 tonnes in H1; the $4,200-5,000 range is its 50%-probability base case.",
+   "url": "https://www.latestly.com/agency-news/business-news-gold-may-trade-up-to-usd-5000oz-over-next-two-years-as-central-banks-sustain-demand-report-7651395.html",
+   "source": "LatestLY",
+   "source_domain": "latestly.com",
+   "publisher_id": "latestly",
+   "published_at": "2026-10-21T03:26:00Z",
+   "tags": [
+    "gold",
+    "global",
+    "central-banks"
+   ],
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "related_urls": [
+    "https://www.dailyprabhat.com/gold-may-trade-up-to-usd-5000-oz-over-next-two-years-as-central-banks-sustain-demand-report/",
+    "https://apnamatvchannel.com/business/gold-may-trade-up-to-usd-5000-oz-over-next-two-years-as-central-banks-sustain-demand-report/"
+   ],
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/4ea292ea7690b144.jpg",
+   "image_kind": "photo"
+  },
+  {
+   "id": "10054a15eec872ce",
+   "rank": 9,
+   "title": "World Gold Council: India's seasonal gold demand shows early strength",
+   "summary": "Domestic discounts narrowed from an average of $66 an ounce in September to $8 as of October 16, the World Gold Council says, as seasonal demand gathered pace. September gold ETF inflows hit a seven-month high of Rs 44.5 billion (about 3 tonnes), with Rs 17.22 billion (1.2 tonnes) more in the first half of October. September imports fell to $1.8 billion, the lowest since March 2024.",
+   "url": "https://www.gold.org/goldhub/gold-focus/2026/10/india-gold-market-update-seasonal-demand-shows-early-strength",
+   "source": "World Gold Council",
+   "source_domain": "gold.org",
+   "publisher_id": "world-gold-council",
+   "published_at": "2026-10-20T08:09:00Z",
+   "image_url": "https://www.gold.org/sites/default/files/default_images/WGC-Social-1200x630.jpeg",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "india",
+    "mcx"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "related_urls": [
+    "https://talkmarkets.com/article/india-gold-market-flips-to-premium-as-demand-improves-and-supplies-tighten",
+    "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/india-s-gold-discount-nearly-vanishes-as-funds-keep-buying-but-the-fed-still-holds-the-reins/70378942"
+   ]
+  },
+  {
+   "id": "5d9cb268fbd278fb",
+   "rank": 10,
+   "title": "Silver Surplus Calls May Overstate the Impact of Weaker Solar Demand",
+   "summary": "Deutsche Bank and StoneX have shifted to surplus language - a possible physical silver surplus in 2027, or a 2026 surplus of about five weeks of demand (~107 Moz). Przemyslaw Radomski argues the solar decline is largely already counted: Metals Focus and the Silver Institute already assume PV demand falls 19% to 151 Moz inside a 46.3 Moz 2026 shortfall.",
+   "url": "https://www.investing.com/analysis/silver-surplus-calls-may-overstate-the-impact-of-weaker-solar-demand-200689925",
+   "source": "Investing.com",
+   "source_domain": "investing.com",
+   "publisher_id": "investing-com",
+   "published_at": "2026-10-20T16:23:00Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/5d9cb268fbd278fb.jpg",
+   "image_kind": "photo",
+   "breaking": false,
+   "tags": [
+    "silver",
+    "global",
+    "comex"
+   ],
+   "category": "global",
+   "metals": [
+    "silver"
+   ]
+  },
+  {
+   "id": "5ae9694f08df89f2",
+   "rank": 11,
+   "title": "Russia sells 62 tonnes of gold in biggest reserve drawdown since 1998",
+   "summary": "Bank of Russia data show gold reserves fell another 200,000 troy ounces (6.2 tonnes) in September, to 72.8 million ounces (2,264 tonnes) — the lowest since end-2019. The central bank has cut holdings for ten straight months, disposing of about 62 tonnes since December 2025, as the Kremlin covers a widening budget deficit; the Finance Ministry expects the 2026 deficit to reach 7.3 trillion roubles.",
+   "url": "https://eutoday.net/russia-gold-reserves-sales-budget-deficit-2026/",
+   "source": "EU Today",
+   "source_domain": "eutoday.net",
+   "publisher_id": "eu-today",
+   "published_at": "2026-10-20T21:31:27Z",
+   "image_url": "https://eutoday.net/wp-content/uploads/2026/10/E10H864J.jpg",
+   "image_kind": "photo",
+   "breaking": false,
+   "tags": [
+    "gold",
+    "global",
+    "central-banks"
+   ],
+   "category": "global",
+   "metals": [
+    "gold"
+   ]
+  },
+  {
+   "id": "0b9d32117f68123e",
+   "rank": 12,
+   "title": "Gem, jewellery exporters heave a sigh of relief as the US puts off punitive tax",
+   "summary": "Indian gem and jewellery exporters expect US orders to revive after President Trump waived proposed 100% punitive duties on goods from top Russian oil buyers. The US remains India's largest export market ahead of Christmas demand, and industry exports rose 13% to $14.30 billion in the fiscal first half. IBJA data showed domestic gold fell 5% in the past month to Rs 145,944 per 10 grams.",
+   "url": "https://www.thehindubusinessline.com/economy/gem-jewellery-exporters-heave-a-sigh-of-relief-as-the-us-puts-off-punitive-tax/article71604247.ece",
+   "source": "The Hindu BusinessLine",
+   "source_domain": "thehindubusinessline.com",
+   "publisher_id": "hindu-businessline",
+   "published_at": "2026-10-20T13:21:00Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "gold",
+    "india",
+    "jewellery"
+   ],
+   "category": "policy",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "36a33d66309611ee",
+   "rank": 13,
+   "title": "Hindustan Zinc Q2 profit more than doubles on higher metal prices; silver output up 20%",
+   "summary": "Hindustan Zinc's consolidated net profit more than doubled to Rs 6,412 crore in Q2 FY27 as higher metal prices and record output lifted revenue 76.5% to Rs 15,093 crore, margin widening to 42%. Silver production rose 20% to 173 tonnes and silver sales revenue more than doubled, driving about 45% of profitability; Jefferies said firmer silver prices improved the profit outlook.",
+   "url": "https://www.reuters.com/world/india/hindustan-zincs-quarterly-profit-doubles-higher-metal-prices-output-2026-10-19/",
+   "source": "Reuters",
+   "source_domain": "reuters.com",
+   "publisher_id": "reuters",
+   "published_at": "2026-10-19T10:27:46Z",
+   "category": "mcx",
+   "metals": [
+    "silver"
+   ],
+   "tags": [
+    "silver",
+    "india",
+    "mcx"
+   ],
+   "image_url": null,
+   "image_kind": "none",
+   "breaking": false,
+   "related_urls": [
+    "https://www.multibagg.ai/market-pulse/articles/hindustan-zinc-2qfy27-c7e0d1fb-9901-4e4b-aa30-cfddc9915d1e",
+    "https://tradersunion.com/news/companies/show/3872303-hindustan-zinc-profit-rises-metal-prices/"
+   ]
+  }
+ ]
 }
