@@ -1,44 +1,79 @@
-# Gold & Silver for Indian buyers · 2026-10-21T09:00Z
+# Gold & Silver News — 2026-10-21T10:00Z
 
-> Gold's fourth-day slide deepens oil-vs-Fed standoff; Kotak Neo flags $4,000 test if crude rallies
+_Generated 2026-10-21T10:05:22Z UTC; window 2026-10-21T09:00:00Z → 2026-10-21T10:00:00Z._
 
-Gold fell for a fourth consecutive session on Wednesday, spot near $4,118 an ounce, as Brent crude near $110 revived inflation fears and kept December Fed rate-hike odds near 90% ahead of the October 27-28 meeting. On MCX, gold futures traded around ₹1,45,939 per 10 grams and silver near ₹2,09,494 per kg. Kotak Neo's commodity research team says gold could test $4,000 if oil's rally extends, while festive buying gathers pace ahead of Dhanteras and domestic discounts have narrowed to $8 an ounce.
+## Fed hike bets and oil keep gold pinned near $4,120
 
-- Spot gold near $4,118/oz (-0.2%), spot silver $57.44 (-0.9%) — the fourth straight down day.
-- FedWatch: ~16% chance of an October 27-28 hike, ~90% for December; PCE inflation data due next week.
-- Kotak Neo: gold could test $4,000/oz if Brent's rally extends; Augmont flags $4,080-$4,200 support.
-- MCX gold around ₹1,45,939/10g, silver near ₹2,09,494/kg in late-morning trade.
-- WGC: India's domestic gold discount narrowed to $8/oz; festive demand shows early strength.
+December Fed hike expectations and energy-driven inflation fears are pinning gold below $4,200 while silver hovers near $57.50. In India, the September price correction has buyers weighing wedding-season purchases, even as NBFC gold loans surge to record levels with early signs of borrower stress.
+
+- Analysts split on gold: $4,000–$4,135 is the make-or-break zone with December hike bets near 90%.
+- 24K gold at ₹1,46,270/10g is 5% below September; analysts suggest staggered wedding-season buying.
+- MCX gold near ₹1,46,130 and silver ₹2,09,752 track global weakness on oil-driven inflation fears.
+- India's NBFC gold-loan book nearly doubled to ~₹1 lakh crore; some lenders flag rising borrower stress.
 
 ## Trending
-- **Oil vs Fed: crude's rebound keeps hike bets alive**: Higher crude cements a ~90% December Fed hike bet, pinning gold below $4,200; Kotak Neo flags a $4,000 test if oil's rally extends, with Hormuz tanker attacks adding risk premium. (stories 1, 2, 3)
-- **Support-zone technicals: $4,080-$4,200 is the line in the sand**: Augmont maps the market's make-or-break levels: gold must hold $4,080 or risk $3,950; silver's $57 support decides between $54 and $62. (stories 3, 6)
-- **Dhanteras dip: festive buyers eye the fourth-day fall**: The fourth straight decline lands just as Karwa Chauth, Dhanteras and Diwali arrive; domestic discounts have vanished as seasonal demand gathers pace. (stories 4, 7)
-- **Silver's two-way pull: $57 support vs surplus chatter**: Silver tests its $57 support while analysts debate whether solar-demand weakness creates a real surplus, and domestic mine output jumps 20%. (stories 8, 9, 3)
-- **$5,000 an ounce: central banks rewrite the price script**: NDB Wealth's $4,200-$5,000 base case rests on central-bank buying and Asian demand, even as Russia sells 62 tonnes from its reserves. (stories 5, 10)
+- **Fed hike bets vs gold: the $4,000–$4,135 line** — December hike expectations and firm oil pin gold below $4,200. Two analysts see more downside toward $4,000, one calls it an asymmetric buy; the weekly close near $4,100 is decisive.
+- **India's gold-credit boom flashes early warnings** — NBFC gold loans nearly doubled to ~₹1 lakh crore in a year, now ~10% of four big lenders' books, but 15–23% of recent disbursements went to already-delinquent borrowers, per Piramal.
+- **Wedding-season dip buying in India** — Gold's 5% September correction has buyers weighing jewellery purchases; retailers push lighter designs and old-gold exchanges while ETFs draw record inflows.
+- **Silver under pressure near $57.40** — Oil-driven inflation fears and hike bets weighed on silver near $57.40; India's Hindustan Zinc still leans on the metal for earnings growth despite broker caution.
 
-## Stories
-1. [Gold dips for fourth session as oil rally fans inflation concerns](https://www.reuters.com/world/india/gold-dips-fourth-session-oil-rally-fans-inflation-concerns-2026-10-21/) — *Reuters*, 2026-10-21T04:05:00Z
-   Spot gold fell 0.2% to $4,118.18 an ounce for a fourth straight session, Reuters reported, as rebounding crude rekindled inflation fears and December Fed hike bets held near 90%. Spot silver fell 0.9% to $57.44. A Reuters poll sees the Fed holding this month and hiking in December; FedWatch puts October odds at 16%. MCX gold traded near ₹1,45,939/10g and silver near ₹2,09,494/kg late morning.
-2. [Gold may test 4,000-mark if oil extends rally; US Fed moves eyed: Kotak Neo](https://www.business-standard.com/markets/news/gold-may-test-4-000-mark-if-oil-extends-rally-us-fed-moves-eyed-kotak-neo-126102100567_1.html) — *Business Standard*, 2026-10-21T08:32:22Z
-   Gold could test the $4,000-an-ounce mark if crude oil's rally extends and feeds hotter inflation data and firmer Fed rate-hike bets, Kotak Neo's commodity research team argues, with the Fed's October 27-28 meeting next in focus. The call lands as spot gold holds near $4,120 for a fourth straight down day, pinned below $4,200 by Brent near $110 and December hike odds near 90%.
-3. [Bullion tests key support amid inflation and Fed uncertainty, says Augmont's Renisha Chainani](https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-21st-october-2026/article71604730.ece) — *The Hindu BusinessLine*, 2026-10-21T07:21:00Z
-   Gold is holding in a key $4,080-$4,200 support zone (about ₹1,45,000-₹1,51,000), Augmont's Renisha Chainani wrote in The Hindu BusinessLine's live blog, as fresh attacks on tankers in the Strait of Hormuz deepened supply fears. Above $4,200 could open $4,400 (~₹1,58,000); a break below risks $3,950. Silver sits near its $57 (₹2,09,000) support, with $54-$55.50 below and $62 above $59.
-4. [Gold gets cheaper before Dhanteras: Buy now or wait for a bigger dip?](https://www.indiatoday.in/business/commodities/story/gold-gets-cheaper-before-dhanteras-buy-now-or-wait-for-a-bigger-dip-3021785-2026-10-21) — *India Today*, 2026-10-21T06:36:12Z
-   MCX gold traded around Rs 1,45,898 per 10 grams, down 0.42% near 11:30am, as prices eased for a fourth straight session ahead of Karwa Chauth, Dhanteras and Diwali, India Today reported. The pullback, driven by rising crude oil and inflation fears, has left festive buyers weighing a purchase now against waiting for a deeper dip.
-5. [Gold may trade up to USD 5,000/oz over next two years as central banks sustain demand: Report](https://www.latestly.com/agency-news/business-news-gold-may-trade-up-to-usd-5000oz-over-next-two-years-as-central-banks-sustain-demand-report-7651395.html) — *LatestLY*, 2026-10-21T03:26:00Z
-   Gold could hold $4,200-5,000 an ounce over the next 12-24 months, NDB Wealth Management said in an ANI-carried report, as central-bank buying and Asian investor demand increasingly set prices rather than US rates. It cites 289 tonnes of central-bank buying in Q2 2026 and record Asian gold-fund inflows of nearly 70 tonnes in H1; the $4,200-5,000 range is its 50%-probability base case.
-6. [Gold, silver prices: 3 factors to watch for the next upmove](https://www.businesstoday.in/markets/stocks/story/gold-silver-prices-3-factors-to-watch-for-the-next-upmove-562722-2026-10-21) — *Business Today*, 2026-10-21T06:09:17Z
-   Gold and silver are struggling to regain momentum as geopolitical tensions ease, Business Today reported, with December MCX gold at Rs 1,46,506 per 10 grams in morning trade. Silver faces an additional drag from industrial-demand concerns, though its long-term demand from solar, electric vehicles and electronics remains intact.
-7. [World Gold Council: India's seasonal gold demand shows early strength](https://www.gold.org/goldhub/gold-focus/2026/10/india-gold-market-update-seasonal-demand-shows-early-strength) — *World Gold Council*, 2026-10-20T08:09:00Z
-   Domestic discounts narrowed from an average of $66 an ounce in September to $8 as of October 16, the World Gold Council says, as seasonal demand gathered pace. September gold ETF inflows hit a seven-month high of Rs 44.5 billion (about 3 tonnes), with Rs 17.22 billion (1.2 tonnes) more in the first half of October. September imports fell to $1.8 billion, the lowest since March 2024.
-8. [Silver Surplus Calls May Overstate the Impact of Weaker Solar Demand](https://www.investing.com/analysis/silver-surplus-calls-may-overstate-the-impact-of-weaker-solar-demand-200689925) — *Investing.com*, 2026-10-20T16:23:00Z
-   Deutsche Bank and StoneX have shifted to surplus language - a possible physical silver surplus in 2027, or a 2026 surplus of about five weeks of demand (~107 Moz). Przemyslaw Radomski argues the solar decline is largely already counted: Metals Focus and the Silver Institute already assume PV demand falls 19% to 151 Moz inside a 46.3 Moz 2026 shortfall.
-9. [Hindustan Zinc Q2 profit more than doubles on higher metal prices; silver output up 20%](https://www.reuters.com/world/india/hindustan-zincs-quarterly-profit-doubles-higher-metal-prices-output-2026-10-19/) — *Reuters*, 2026-10-19T10:27:46Z
-   Hindustan Zinc's consolidated net profit more than doubled to Rs 6,412 crore in Q2 FY27 as higher metal prices and record output lifted revenue 76.5% to Rs 15,093 crore, margin widening to 42%. Silver production rose 20% to 173 tonnes and silver sales revenue more than doubled, driving about 45% of profitability; Jefferies said firmer silver prices improved the profit outlook.
-10. [Russia sells 62 tonnes of gold in biggest reserve drawdown since 1998](https://eutoday.net/russia-gold-reserves-sales-budget-deficit-2026/) — *EU Today*, 2026-10-20T21:31:27Z
-   Bank of Russia data show gold reserves fell another 200,000 troy ounces (6.2 tonnes) in September, to 72.8 million ounces (2,264 tonnes) — the lowest since end-2019. The central bank has cut holdings for ten straight months, disposing of about 62 tonnes since December 2025, as the Kremlin covers a widening budget deficit; the Finance Ministry expects the 2026 deficit to reach 7.3 trillion roubles.
-11. [Gem, jewellery exporters heave a sigh of relief as the US puts off punitive tax](https://www.thehindubusinessline.com/economy/gem-jewellery-exporters-heave-a-sigh-of-relief-as-the-us-puts-off-punitive-tax/article71604247.ece) — *The Hindu BusinessLine*, 2026-10-20T13:21:00Z
-   Indian gem and jewellery exporters expect US orders to revive after President Trump waived proposed 100% punitive duties on goods from top Russian oil buyers. The US remains India's largest export market ahead of Christmas demand, and industry exports rose 13% to $14.30 billion in the fiscal first half. IBJA data showed domestic gold fell 5% in the past month to Rs 145,944 per 10 grams.
-12. [Festive gold investment: Digital Gold vs Gold ETFs - which is the better choice for Diwali and Dhanteras investors](https://www.businesstoday.in/personal-finance/investment/story/festive-gold-investment-digital-gold-vs-gold-etfs-which-is-the-better-choice-for-diwali-and-dhanteras-investors-562740-2026-10-21) — *Business Today*, 2026-10-21T06:41:12Z
-   For Diwali and Dhanteras, digital gold and gold ETFs both offer price exposure without physical jewellery, coins or bars, but costs, liquidity, redemption rules and investor protection differ, Business Today reported. The World Gold Council's 'Digital Gold: Unlocking a $700-Billion Opportunity' report frames trust, accessibility, utility and pricing as the key drivers of digital gold's growth.
+## Items
+### 1. These 3 analysts' Gold forecasts: Two see more pain ahead, one calls it an asymmetric trade
+
+Two of three FXStreet analysts see further downside for gold after a fourth straight losing session near $4,115. Sagar Dua points to 10-year Treasury yields near 5.13% and oil near $99, with $4,000 the key support; Radomska watches the $4,098–$4,135 weekly gap for a decisive bearish turn. Maharrey dissents, calling the dip an asymmetric trade backed by sustained central-bank buying.
+
+Source: [FXStreet](https://www.fxstreet.com/analysis/these-3-analysts-gold-forecasts-two-see-more-pain-ahead-one-calls-it-an-asymmetric-trade-202610210807) · global · gold · 2026-10-21T08:07:19Z
+
+### 2. Gold loans lead NBFC growth; portfolio share touches double digits
+
+Gold loans are the fastest-growing NBFC segment: the combined gold book of Bajaj Finance, HDB Financial, L&T Finance and IIFL nearly doubled YoY to almost ₹1 lakh crore last quarter, about 10% of their combined books. IIFL's gold book hit ₹65,729 crore, 53% of its AUM. Piramal flagged 15–23% of recent industry disbursements going to already-delinquent borrowers.
+
+Source: [The Hindu BusinessLine](https://www.thehindubusinessline.com/money-and-banking/gold-loans-lead-nbfc-growth-portfolio-share-touches-double-digits/article71605139.ece) · policy · gold · 2026-10-20T08:00:00Z
+
+### 3. Wedding Season 2026: Gold prices crashed over 5% in a month — Should you buy jewellery now or wait? Experts suggest
+
+24K gold stood at ₹1,46,270 per 10 grams on October 21, down 5.13% from ₹1,53,780 on September 21. Analysts at Anand Rathi, Motilal Oswal and Trackk describe the correction as a buying window for wedding-season purchases, noting demand typically strengthens through October–November, and suggest staggered buying as festive demand supports prices.
+
+Source: [Mint](https://www.livemint.com/money/personal-finance/wedding-season-2026-gold-prices-crashed-over-5-in-a-month-should-you-buy-jewellery-now-or-wait-experts-suggest-11792571511976.html) · festive · gold · 2026-10-21T09:31:15Z
+
+### 4. MCX Gold Drops to ₹146,130 as Crude Oil Price Rise Fuels Inflation
+
+December gold futures on MCX fell to ₹1,46,130 per 10 grams and silver to ₹2,09,752 per kg as higher crude stoked inflation fears and kept rate expectations elevated. Gold's next supports are pegged at ₹1,45,750 and ₹1,44,980; silver has support near ₹2,08,570 with resistance at ₹2,13,920. COMEX gold hovered near $4,139 with silver around $57.57.
+
+Source: [Whalesbook](https://www.whalesbook.com/news/English/commodities/MCX-Gold-Drops-to-indian-rupee146130-as-Crude-Oil-Price-Rise-Fuels-Inflation/6ad8486e79a16deaeaf849ce) · mcx · gold/silver · 2026-10-21T05:06:54Z
+
+### 5. Silver Price Forecast: XAG/USD declines to near $57.40 as oil price remains broadly firm
+
+Silver slipped about 1.1% to near $57.40 in European trade as firm oil prices fed global inflation fears. Danske Bank analysts cited mounting Middle East supply concerns, with WTI near $98.25 after touching a five-week high of $101.05. Elevated inflation expectations could keep Fed hike bets alive, pressuring non-yielding silver; CME FedWatch still expects the Fed to hold at this month's meeting.
+
+Source: [FXStreet](https://www.fxstreet.com/news/silver-price-forecast-xag-usd-declines-to-near-5740-as-oil-price-remains-broadly-firm-202610210825) · global · silver · 2026-10-21T08:25:42Z
+
+### 6. Gold (XAUUSD) & Silver Price Forecast: December Hike Bets Build, Can Gold Hold $4,119?
+
+An FXEmpire analyst sees rising December Fed hike expectations keeping both metals under pressure, with gold defending the $4,119 triangle support and silver near $57.43 testing trendline resistance. The analyst is neutral to slightly bearish until a move above $4,176 or a break below $4,119 confirms the next direction.
+
+Source: [FXEmpire](https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-december-hike-bets-build-can-gold-hold-4119-1639185) · global · gold/silver · 2026-10-20T12:00:00Z
+
+### 7. Hindustan Zinc's Q2 earnings glow on lower costs, higher metal prices
+
+Hindustan Zinc's Q2FY27 revenue rose 77% to ₹15,100 crore and EBITDA 108% on higher metal prices, lower costs and stronger volumes. LBMA silver averaged $62.6/oz in the quarter, up nearly 60% YoY, with sales volumes up 24%. Brokerages stay divided: Jefferies cut its target to ₹650 on silver volatility, while Citi flagged limited upside from current zinc and silver prices.
+
+Source: [Mint](https://www.livemint.com/market/mark-to-market/hindustan-zinc-q2-earnings-share-price-silver-zinc-prices-profit-growth-11792555389675.html) · mcx · silver · 2026-10-21T05:03:21Z
+
+### 8. US Dollar Is Falling - So Why Isn't Gold Rallying?
+
+Gold has failed to rally even as the dollar eased, with energy-driven inflation fears and firm December Fed hike expectations capping bullion near $4,120. The analysis points to next week's October 27–28 Fed meeting and incoming inflation data as the next directional catalyst.
+
+Source: [Investing.com](https://www.investing.com/analysis/us-dollar-is-falling--so-why-isnt-gold-rallying-200689946) · global · gold · 2026-10-21T09:19:00Z
+
+### 9. Gold Demand Picks Up as India's Festive and Wedding Season Begins
+
+World Gold Council's Oct 20 India update shows manufacturers seeing strong orders as retailers stock up for the festive and wedding season, with foot traffic improving. Old-gold exchanges jumped over 10% YoY, over half of sales at some stores. Gold ETFs drew ₹4,450 crore of net inflows in September, a seven-month high, though bar and coin demand cooled and imports hit their lowest since March.
+
+Source: [Hello Entrepreneurs](https://helloentrepreneurs.com/business/gold-demand-festive-wedding-101663/) · mcx · gold · 2026-10-20T10:00:00Z
+
+### 10. Oil Plunges on Deal Hopes: The Market Is Already Pricing in an Iran Breakthrough
+
+Crude prices pulled back as the market priced in a potential Iran breakthrough, easing the energy-driven inflation fears that have been pressuring gold. With oil's rebound the key force behind this week's Fed hike bets, any sustained de-escalation could change the calculus for bullion.
+
+Source: [Investing.com](https://www.investing.com/analysis/oil-plunges-on-deal-hopes-the-market-is-already-pricing-in-an-iran-breakthrough-200689921) · global · gold · 2026-10-20T15:08:00Z
