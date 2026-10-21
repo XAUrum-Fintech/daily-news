@@ -1,59 +1,188 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-21T18:00Z",
-  "generated_at": "2026-10-21T18:40:18Z",
+  "edition_id": "2026-10-21T20:00Z",
+  "generated_at": "2026-10-21T20:25:32Z",
   "window": {
-    "from": "2026-10-21T16:00:00Z",
-    "to": "2026-10-21T18:00:00Z"
+    "from": "2026-10-21T18:00:00Z",
+    "to": "2026-10-21T20:00:00Z"
   },
   "insights": {
-    "headline": "Gold steadies near a one-week low as oil-driven inflation fears cap bullion; MCX slides into Dhanteras",
-    "summary": "Gold steadied near a one-week low on October 21 as Brent crude above $110 kept inflation fears - and December Fed hike bets - alive ahead of the October 27-28 FOMC meeting, with spot at $4,127. On MCX, December gold futures fell for a fourth straight session to Rs 1.46 lakh per 10 grams and silver to near Rs 2.09 lakh per kg as the festive season approaches. Offsetting the rate pressure, Russia's gold sales stretched to a tenth straight month to fund its budget, while PC Jeweller posted a 58% profit jump on festive demand and the WGC pegged digital gold's latent demand at $700 billion.",
+    "headline": "India gold premiums return as festive demand builds; oil and Fed outlook keep global prices under pressure",
+    "summary": "India's gold market flipped to premiums of up to $7 an ounce for the first time in three months as festive buying picked up and imports stayed tight. Globally, gold hovered near $4,120-4,135 an ounce: elevated oil prices and a 90%+ priced-in December Fed hike kept a lid on gains, while retreating Treasury yields offered some support. The rupee firmed to 94.45 per dollar on India-US trade deal hopes, easing the landed cost of imported gold.",
     "points": [
-      "Spot gold held $4,127/oz after touching its lowest since Oct 15; silver eased 0.7% to $57.6 as oil fanned inflation fears.",
-      "Reuters poll: nearly all economists expect the Fed to hold Oct 27-28; futures fully price a 25bp December hike.",
-      "MCX Dec gold fell Rs 509 to Rs 1,46,010/10g; Dec silver slid 1.16% to Rs 2,09,028/kg; support eyed at Rs 1,45,300-1,46,000.",
-      "Russia sold 6.2t of gold in September; about 62t since December 2025 - the biggest sustained sale since 1998 - to fund a 7.3 trillion-ruble deficit.",
-      "PC Jeweller Q2 profit rose 58% to Rs 331 crore and turned debt-free; WGC sees digital gold reaching $160-170 billion by 2031."
+      "India flipped to gold premiums up to $7/oz for the first time in three months; August imports plunged 45% and September fell to $1.8B.",
+      "Russia sold 62 tonnes of gold in ten months, the biggest drawdown since 1998, to fund a 7.3 trillion-ruble budget deficit.",
+      "Spot gold held near $4,132 with Brent above $110; traders see an 83% chance the Fed holds rates on Oct 27-28.",
+      "Silver's key level is $58.21 per the latest technical read, after a 6%+ slide last week.",
+      "Rupee rose 46 paise to 94.45; WGC-BCG sees digital gold growing ~27% a year to $160-170B by 2031."
     ]
   },
   "trending": [
     {
-      "title": "Oil vs the Fed: gold's tug of war",
-      "summary": "Brent above $110 keeps inflation fears and December hike bets alive even as gold steadies near a one-week low; the October 27-28 FOMC meeting is the next catalyst.",
+      "title": "India's festive bid is back — and premiums prove it",
+      "summary": "Premiums up to $7/oz, the first in three months, show dealers confident of Dhanteras (Nov 6) and Diwali demand as import curbs keep supply tight. WGC notes healthy order flows and improving footfall.",
       "item_ids": [
-        "5baceb4964781ff1",
-        "d7f89428ffce0ded",
-        "62b8737110d12f27"
-      ]
-    },
-    {
-      "title": "Russia's gold sales fund the budget",
-      "summary": "A tenth straight month of sales cut reserves to the lowest since 2019; Nabiullina frames it as National Wealth Fund budget financing - the biggest drawdown since 1998.",
-      "item_ids": [
-        "9fec5434b348f1e4"
-      ]
-    },
-    {
-      "title": "Festive demand meets cheaper gold",
-      "summary": "MCX gold's fourth straight fall lands just ahead of Dhanteras; PC Jeweller's 58% profit jump and debt-free status signal strong jewellery demand.",
-      "item_ids": [
+        "6bd8b38b2f0ea57d",
         "d7f89428ffce0ded",
         "49c055bab247906b"
       ]
     },
     {
-      "title": "Digital gold's $700 billion question",
-      "summary": "WGC and BCG see digital gold tripling by 2031 with India central - over 120 million users - but trust and regulation, flagged by SEBI, remain the hurdles.",
+      "title": "Oil versus the Fed: the ceiling on gold",
+      "summary": "Gold can't break out while crude above $110 feeds inflation fears and the December Fed hike stays 90%+ priced. Yields near 5.08% are near-term support; next week's FOMC guidance decides the next leg.",
       "item_ids": [
-        "77367fa811d8ff75"
+        "7e2c17668ddb2981",
+        "62b8737110d12f27",
+        "5baceb4964781ff1"
+      ]
+    },
+    {
+      "title": "Russia sells, central banks still buy",
+      "summary": "Russia's 62-tonne sell-off, its largest since 1998, is budget financing via the National Wealth Fund — while central banks overall keep accumulating, what Goldman Sachs calls structural price support.",
+      "item_ids": [
+        "9fec5434b348f1e4"
+      ]
+    },
+    {
+      "title": "Silver searches for a floor",
+      "summary": "After losing over 6% last week, silver's fate hangs on $58.21. A weaker silver alongside firmer gold keeps the pair's outlook split into the Fed meeting.",
+      "item_ids": [
+        "f471206878a9682b",
+        "e99915afe0338c9a"
       ]
     }
   ],
   "items": [
     {
+      "id": "6bd8b38b2f0ea57d",
+      "title": "India Gold Flips To Premiums Up To $7 As Festive Demand Returns",
+      "summary": "India's gold market flipped to premiums of up to $7 an ounce over domestic spot prices last week, the first premium in three months, as festive demand improved and import curbs tightened supply. Dealers had offered $5-6 discounts the week before. Gold imports plunged 45% in August and slipped again in September to $1.8B from $2.3B. Demand peaks around Dhanteras (Nov 6) and Diwali (Nov 8).",
+      "url": "https://talkmarkets.com/article/india-gold-market-flips-to-premium-as-demand-improves-and-supplies-tighten",
+      "source": "TalkMarkets",
+      "source_domain": "talkmarkets.com",
+      "publisher_id": "talkmarkets",
+      "published_at": "2026-10-20T05:40:00Z",
+      "image_url": "https://agcoltwfivlzpiwvpapy.supabase.co/storage/v1/object/public/article-images/c70fc518-6d5e-479b-8a63-7b0c70fe7a5d/articles/27c4a687-46c5-47e4-9202-5cec3242e1fe/e8e7d9df-6771-4fe5-a4fd-b09ecdd2f5a9-preferred-thumbnail-fit-v2.png",
+      "image_kind": "photo",
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "india",
+        "mcx",
+        "jewellery"
+      ],
+      "breaking": false,
+      "rank": 1
+    },
+    {
+      "id": "9fec5434b348f1e4",
+      "rank": 2,
+      "title": "Russia is selling off gold reserves. Why, to whom, and does it matter for the market?",
+      "url": "https://www.xtb.com/int/market-analysis/news-and-research/russia-is-selling-off-gold-reserves-why-to-whom-and-does-it-matter-for-the-market",
+      "source": "XTB",
+      "source_domain": "xtb.com",
+      "publisher_id": "xtb",
+      "published_at": "2026-10-21T16:12:00Z",
+      "category": "policy",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "central-banks",
+        "global"
+      ],
+      "breaking": false,
+      "summary": "Russia sold 6.2 tonnes of gold for a 10th straight month, taking reserves to ~2,270 tonnes - the lowest since late 2019. About 62 tonnes have been sold since December 2025, the biggest drawdown since 1998. Governor Nabiullina says the sales fund a 7.3 trillion-ruble budget deficit via the National Wealth Fund, not a currency crisis; the fund's gold shrank from 555 tonnes in May 2022 to 160 tonnes.",
+      "related_urls": [
+        "https://www.europesays.com/russia/78348/",
+        "https://disinfo.md/en/russia-is-selling-its-gold-reserves-at-the-fastest-pace-since-1998-to-finance-the-war-in-ukraine-62-tons-sold-in-10-months/"
+      ],
+      "image_url": "https://xas-new-cdn.xtb.com/branch_configuration_og_image/0104/61/2209dc74-ee4e-4faf-9041-ead995f97acb/og-image-zlatan.png",
+      "image_kind": "photo"
+    },
+    {
+      "id": "7e2c17668ddb2981",
+      "title": "Gold edges up as oil remains elevated, fueling inflation concerns",
+      "summary": "Spot gold edged up 0.22% to about $4,132.70 an ounce in early Wednesday trade as US Treasury yields retreated, while silver slipped 0.58% to around $57.61. The 10-year yield stood near 5.08%. Markets see an 83% chance the Fed holds rates at its October 27-28 meeting, though a December hike is still widely expected. Elevated oil kept inflation worries in focus.",
+      "url": "https://invezz.com/news/2026/10/21/gold-edges-up-as-oil-remains-elevated-fueling-inflation-concerns/",
+      "source": "Invezz",
+      "source_domain": "invezz.com",
+      "publisher_id": "invezz",
+      "published_at": "2026-10-21T10:33:00Z",
+      "image_url": "https://invezz-wp-media.lon1.digitaloceanspaces.com/2026/06/Gold-bars-on-a-crude-oil-barrel.png",
+      "image_kind": "photo",
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "global",
+        "fed",
+        "comex"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://q1019fm.com/2026/10/19/gold-slips-as-investors-weigh-fed-rate-outlook/"
+      ],
+      "rank": 3
+    },
+    {
+      "id": "62b8737110d12f27",
+      "rank": 4,
+      "title": "US Treasury yields slip as AI concerns boost safe haven demand ahead of 20 year auction",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-slip-as-ai-concern-boost-safe-haven-demand-ahead-of-20-year-auction/articleshow/135097932.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-10-21T17:49:00Z",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "fed",
+        "global"
+      ],
+      "breaking": false,
+      "summary": "The 10-year US Treasury yield fell 1.5bps to 5.102% on October 21, a second straight daily decline, as AI-stock volatility pushed investors toward safe havens ahead of a $13 billion 20-year auction. CME FedWatch priced only a 14.9% chance of a hike at the October 28 Fed meeting, down from 33.2% a week ago. The 10-year has fallen 14.6bps this week - its biggest weekly drop in eight months.",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/62b8737110d12f27.jpg",
+      "image_kind": "photo"
+    },
+    {
+      "id": "6d9bde4359b3671a",
+      "rank": 5,
+      "title": "Rupee rises 46 paise to 94.45 on India-US trade deal hopes; oil prices cap gains",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-46-paise-to-94-45-on-india-us-trade-deal-hopes-oil-prices-cap-gains/articleshow/135092741.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-10-21T12:37:00Z",
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "rupee",
+        "india",
+        "mcx"
+      ],
+      "breaking": false,
+      "summary": "The rupee strengthened 46 paise to 94.45 per dollar on hopes of an India-US trade deal after President Trump signaled an announcement could come soon, plus RBI measures including dedicated banking arrangements for oil companies. Brent above $110 remains a headwind; LKP Securities sees resistance at 94.25-94.40. The rupee is down 5% this year. A firmer rupee eases the landed cost of imported gold.",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/6d9bde4359b3671a.jpg",
+      "image_kind": "photo"
+    },
+    {
       "id": "5baceb4964781ff1",
-      "rank": 1,
+      "rank": 6,
       "title": "Gold steadies near one-week low as oil-driven inflation fears grow",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4670QQ:0-gold-steadies-near-one-week-low-as-oil-driven-inflation-fears-grow/",
       "source": "TradingView",
@@ -82,7 +211,7 @@
     },
     {
       "id": "d7f89428ffce0ded",
-      "rank": 2,
+      "rank": 7,
       "title": "Gold Prices Decline Ahead of Dhanteras Festivities",
       "url": "https://thecsrjournal.in/gold-prices-decline-to-rs-145898-per-10-grams-ahead-of-dhanteras-as-inflation-concerns-rise-amid-increasing-crude-oil-costs",
       "source": "The CSR Journal",
@@ -113,61 +242,54 @@
       "image_kind": "photo"
     },
     {
-      "id": "9fec5434b348f1e4",
-      "rank": 3,
-      "title": "Russia is selling off gold reserves. Why, to whom, and does it matter for the market?",
-      "url": "https://www.xtb.com/int/market-analysis/news-and-research/russia-is-selling-off-gold-reserves-why-to-whom-and-does-it-matter-for-the-market",
-      "source": "XTB",
-      "source_domain": "xtb.com",
-      "publisher_id": "xtb",
-      "published_at": "2026-10-21T16:12:00Z",
-      "category": "policy",
+      "id": "f471206878a9682b",
+      "title": "Silver at a Decision Point: $58.21 Holds the Key to Recovery",
+      "summary": "Silver faces a decisive test around $58.21 an ounce, the level the analysis flags as key to any recovery after the metal lost more than 6% last week. The piece frames $58.21 as the pivot: holding it could reopen the upside, while losing it risks deeper losses. Technical read only; levels attributed to the source.",
+      "url": "https://www.investing.com/analysis/silver-at-a-decision-point-5821-holds-the-key-to-recovery-200689943",
+      "source": "Investing.com",
+      "source_domain": "investing.com",
+      "publisher_id": "investing",
+      "published_at": "2026-10-21T06:56:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/f471206878a9682b.jpg",
+      "image_kind": "photo",
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "tags": [
+        "silver",
+        "global",
+        "comex"
+      ],
+      "breaking": false,
+      "rank": 8
+    },
+    {
+      "id": "e99915afe0338c9a",
+      "rank": 9,
+      "title": "Gold ETFs to Watch Amid Fed Rate Hike & Oil Risks",
+      "url": "https://www.zacks.com/stock/news/3012037/gold-etfs-to-watch-amid-fed-rate-hike-oil-risks",
+      "source": "Zacks",
+      "source_domain": "zacks.com",
+      "publisher_id": "zacks",
+      "published_at": "2026-10-21T14:33:00Z",
+      "category": "global",
       "metals": [
         "gold"
       ],
       "tags": [
         "gold",
-        "central-banks",
+        "fed",
         "global"
       ],
       "breaking": false,
-      "summary": "Russia sold 6.2 tonnes of gold for a 10th straight month, taking reserves to ~2,270 tonnes - the lowest since late 2019. About 62 tonnes have been sold since December 2025, the biggest drawdown since 1998. Governor Nabiullina says the sales fund a 7.3 trillion-ruble budget deficit via the National Wealth Fund, not a currency crisis; the fund's gold shrank from 555 tonnes in May 2022 to 160 tonnes.",
-      "related_urls": [
-        "https://www.europesays.com/russia/78348/",
-        "https://disinfo.md/en/russia-is-selling-its-gold-reserves-at-the-fastest-pace-since-1998-to-finance-the-war-in-ukraine-62-tons-sold-in-10-months/"
-      ],
-      "image_url": "https://xas-new-cdn.xtb.com/branch_configuration_og_image/0104/61/2209dc74-ee4e-4faf-9041-ead995f97acb/og-image-zlatan.png",
-      "image_kind": "photo"
-    },
-    {
-      "id": "49c055bab247906b",
-      "rank": 4,
-      "title": "PC Jeweller Q2 results: Net profit soars 58% YoY to Rs 331 crore, EBITDA surges 74%",
-      "url": "https://upstox.com/news/market-news/earnings/pc-jewellers-q2-results-net-profit-soars-58-yo-y-to-331-crore-ebitda-surges-74/article-202179/",
-      "source": "Upstox",
-      "source_domain": "upstox.com",
-      "publisher_id": "upstox",
-      "published_at": "2026-10-21T13:59:00Z",
-      "category": "festive",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "jewellery",
-        "india"
-      ],
-      "breaking": false,
-      "summary": "PC Jeweller's Q2FY27 net profit jumped 58% YoY to Rs 331 crore on revenue of Rs 1,054 crore (+28%), driven by festive and wedding-season demand; operating EBITDA rose 74% with margins at 29.3%. The company repaid all consortium bank dues ahead of schedule and is now debt-free. It plans up to 100 new showrooms in 12-18 months and a new jewellery brand aimed at younger buyers.",
-      "related_urls": [
-        "https://www.livemint.com/market/stock-market-news/pc-jeweller-share-price-to-be-in-focus-as-q2-net-profit-jumps-58-can-the-stock-extend-its-482-rally-in-3-years-11792597628059.html"
-      ],
-      "image_url": "https://assets.upstox.com/content/assets/images/news/pc-jeweller-q2-results-oct-21-2026.webp",
-      "image_kind": "photo"
+      "summary": "Gold ETFs remain sensitive to Fed policy expectations and Middle East developments, Zacks notes: oil-driven inflation could lift rate expectations rather than deliver automatic safe-haven gains. SPDR Gold Shares fell over 4% in the month to October 14 ($142B assets); iShares Gold Trust fell 4.6% ($62.17B); SPDR Gold MiniShares dropped over 4% ($31.08B).",
+      "image_url": null,
+      "image_kind": "none"
     },
     {
       "id": "77367fa811d8ff75",
-      "rank": 5,
+      "rank": 10,
       "title": "Digital Gold Market To Reach $170 Billion By 2031: WGC",
       "url": "https://www.outlookmoney.com/invest/digital-gold-market-growth-160-170-billion-2031-wgc-report",
       "source": "Outlook Money",
@@ -192,118 +314,30 @@
       "image_kind": "photo"
     },
     {
-      "id": "e99915afe0338c9a",
-      "rank": 6,
-      "title": "Gold ETFs to Watch Amid Fed Rate Hike & Oil Risks",
-      "url": "https://www.zacks.com/stock/news/3012037/gold-etfs-to-watch-amid-fed-rate-hike-oil-risks",
-      "source": "Zacks",
-      "source_domain": "zacks.com",
-      "publisher_id": "zacks",
-      "published_at": "2026-10-21T14:33:00Z",
-      "category": "global",
+      "id": "49c055bab247906b",
+      "rank": 11,
+      "title": "PC Jeweller Q2 results: Net profit soars 58% YoY to Rs 331 crore, EBITDA surges 74%",
+      "url": "https://upstox.com/news/market-news/earnings/pc-jewellers-q2-results-net-profit-soars-58-yo-y-to-331-crore-ebitda-surges-74/article-202179/",
+      "source": "Upstox",
+      "source_domain": "upstox.com",
+      "publisher_id": "upstox",
+      "published_at": "2026-10-21T13:59:00Z",
+      "category": "festive",
       "metals": [
         "gold"
       ],
       "tags": [
         "gold",
-        "fed",
-        "global"
+        "jewellery",
+        "india"
       ],
       "breaking": false,
-      "summary": "Gold ETFs remain sensitive to Fed policy expectations and Middle East developments, Zacks notes: oil-driven inflation could lift rate expectations rather than deliver automatic safe-haven gains. SPDR Gold Shares fell over 4% in the month to October 14 ($142B assets); iShares Gold Trust fell 4.6% ($62.17B); SPDR Gold MiniShares dropped over 4% ($31.08B).",
-      "image_url": null,
-      "image_kind": "none"
-    },
-    {
-      "id": "62b8737110d12f27",
-      "rank": 7,
-      "title": "US Treasury yields slip as AI concerns boost safe haven demand ahead of 20 year auction",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-slip-as-ai-concern-boost-safe-haven-demand-ahead-of-20-year-auction/articleshow/135097932.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "publisher_id": "economic-times",
-      "published_at": "2026-10-21T17:49:00Z",
-      "category": "global",
-      "metals": [
-        "gold"
+      "summary": "PC Jeweller's Q2FY27 net profit jumped 58% YoY to Rs 331 crore on revenue of Rs 1,054 crore (+28%), driven by festive and wedding-season demand; operating EBITDA rose 74% with margins at 29.3%. The company repaid all consortium bank dues ahead of schedule and is now debt-free. It plans up to 100 new showrooms in 12-18 months and a new jewellery brand aimed at younger buyers.",
+      "related_urls": [
+        "https://www.livemint.com/market/stock-market-news/pc-jeweller-share-price-to-be-in-focus-as-q2-net-profit-jumps-58-can-the-stock-extend-its-482-rally-in-3-years-11792597628059.html"
       ],
-      "tags": [
-        "gold",
-        "fed",
-        "global"
-      ],
-      "breaking": false,
-      "summary": "The 10-year US Treasury yield fell 1.5bps to 5.102% on October 21, a second straight daily decline, as AI-stock volatility pushed investors toward safe havens ahead of a $13 billion 20-year auction. CME FedWatch priced only a 14.9% chance of a hike at the October 28 Fed meeting, down from 33.2% a week ago. The 10-year has fallen 14.6bps this week - its biggest weekly drop in eight months.",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/62b8737110d12f27.jpg",
+      "image_url": "https://assets.upstox.com/content/assets/images/news/pc-jeweller-q2-results-oct-21-2026.webp",
       "image_kind": "photo"
-    },
-    {
-      "id": "6d9bde4359b3671a",
-      "rank": 8,
-      "title": "Rupee rises 46 paise to 94.45 on India-US trade deal hopes; oil prices cap gains",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-46-paise-to-94-45-on-india-us-trade-deal-hopes-oil-prices-cap-gains/articleshow/135092741.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "publisher_id": "economic-times",
-      "published_at": "2026-10-21T12:37:00Z",
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "rupee",
-        "india",
-        "mcx"
-      ],
-      "breaking": false,
-      "summary": "The rupee strengthened 46 paise to 94.45 per dollar on hopes of an India-US trade deal after President Trump signaled an announcement could come soon, plus RBI measures including dedicated banking arrangements for oil companies. Brent above $110 remains a headwind; LKP Securities sees resistance at 94.25-94.40. The rupee is down 5% this year. A firmer rupee eases the landed cost of imported gold.",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/6d9bde4359b3671a.jpg",
-      "image_kind": "photo"
-    },
-    {
-      "id": "3d49464eb3d4b5ea",
-      "rank": 9,
-      "title": "Silver Range Holds: $55 Support, $60 Resistance and $62 Bullish Trigger",
-      "url": "https://www.fxempire.com/forecasts/article/silver-range-holds-55-support-60-resistance-and-62-bullish-trigger-1639572",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "publisher_id": "fxempire",
-      "published_at": "2026-10-21T14:00:00Z",
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "tags": [
-        "silver",
-        "global"
-      ],
-      "breaking": false,
-      "summary": "Silver stayed range-bound between $55 support and $60 resistance; FXEmpire notes a confirmed break above $62 is needed for renewed bullish momentum. The 10-year real yield eased 3bps to 2.77% on October 20, trimming the opportunity cost of holding metal, while US manufacturing output rose 0.3% in September. Spot silver traded near $57.6, down 0.7%.",
-      "image_url": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/silver-precious-metal-price-chart-03-4.jpg?width=1201",
-      "image_kind": "photo"
-    },
-    {
-      "id": "a72923359cc2ef30",
-      "rank": 10,
-      "title": "JPMorgan Says Bitcoin May Return 10% a Year Over Next Decade, Outpacing US Stocks and Gold",
-      "url": "https://www.tradingview.com/news/bloomingbit:0478c0158094b:0-jpmorgan-says-bitcoin-may-return-10-a-year-over-next-decade-outpacing-us-stocks-and-gold/",
-      "source": "TradingView",
-      "source_domain": "tradingview.com",
-      "publisher_id": "tradingview",
-      "published_at": "2026-10-20T09:30:00Z",
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "global"
-      ],
-      "breaking": false,
-      "summary": "JPMorgan Asset Management included Bitcoin in its long-term capital market assumptions for the first time, projecting about 10% annualized returns over the next decade versus 7.5% for US stocks and 5.5% for gold, Cointelegraph reported October 20. The bank assigned Bitcoin 55% annualized volatility and stopped short of recommending it for core portfolios.",
-      "image_url": null,
-      "image_kind": "none"
     }
   ]
 }
