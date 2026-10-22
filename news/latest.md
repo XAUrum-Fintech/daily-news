@@ -1,112 +1,39 @@
-# Gold & Silver News — India
+# Gold & Silver for Indian buyers · 2026-10-22T05:00Z
 
-Edition 2026-10-22T00:00Z · generated 2026-10-22T00:35:07Z
+> Gold hit a one-week low near $4,120 as Middle East escalation and firm Fed-hike bets weighed; silver fell below $58.
 
-## Russia's record gold sell-off deepens as MCX metals slip ahead of the Fed meeting
+Bullion stayed under pressure as a Middle East flare-up lifted oil and inflation fears while rising Treasury yields weighed on non-yielding metals. The Fed is still expected to hold next week, with a December hike widely priced in. In India, the World Gold Council flagged a possible $160-170 billion digital gold market by 2031 as September digital purchases jumped 83% year-on-year, while MCX gold held near Rs 1.46 lakh and Russia sold 6.2 tonnes of gold in September.
 
-Russia sold another 6.2 tonnes of gold in September, extending its reserve drawdown to ten straight months — the largest sustained sell-off since 1998. Gold held near $4,125–$4,141 as traders priced an 84% chance of a Fed hold next week against December hike bets, while Middle East tensions kept Brent near $110. On MCX, gold futures slipped toward Rs 1.46 lakh and silver toward Rs 2.09 lakh on weak spot demand. CIBC cut its gold forecasts but still sees $5,200 on average in 2027.
+- Spot gold fell 0.4% to ~$4,123/oz and silver 0.7% to $57.54 as Mideast tensions flared: the US ordered non-emergency staff out of Saudi Arabia.
+- The Fed is expected to hold rates next week, but traders widely expect a December hike after Chairman Kevin Warsh's remarks did little to cool bets.
+- The World Gold Council sees the digital gold market reaching $160-170B by 2031; India's September digital gold buys rose 83% year-on-year to 1.7 tonnes.
+- Russia sold 6.2 tonnes of gold in September, taking reserves to the lowest since 2019; MCX gold held near Rs 1.46 lakh per 10 grams.
 
-- Russia's gold reserves are at their lowest since end-2019 after 62 tonnes of sales since December 2025.
-- Spot gold consolidated near $4,125–$4,141 with silver around $57.4–$58.0 as rate and oil crosswinds balanced.
-- MCX gold fell for a fourth straight day to about Rs 1.46 lakh; silver futures slid below Rs 2.10 lakh per kg.
-- CIBC lowered its Q4 gold target to $4,500 but kept a $5,200 average for 2027 on central-bank demand.
+## Trending
+- **Fed path vs Middle East risk is repricing bullion**: Gold hit a one-week low near $4,120 and silver fell to $57.54 as Mideast escalation lifted oil fears and rising yields pressured metals; the Fed holds next week with a December hike priced in. (stories 1, 4, 5)
+- **India's festive season: digital gold surges, WGC flags $170B market**: World Gold Council sees the digital gold market hitting $160-170B by 2031; India's digital buys jumped 83% on festive demand, with SEBI's 2025 warning on unregulated digital gold worth revisiting. (stories 3, 10)
+- **Russia sold 6.2 tonnes of gold in September**: Russia's central bank sold 6.2 tonnes of gold in September, taking reserves to the lowest since 2019 - a notable supply signal against the trend of official-sector buying. (stories 2)
+- **Silver faces dual pressure: macro headwinds and industrial softness**: Silver came under sharp pressure from a firm dollar, resurgent yields, and softer industrial demand expectations; Santacruz Silver's Q3 output rose as its Bolivar mine recovered. (stories 8, 9)
+- **MCX gold holds near Rs 1.46 lakh ahead of Dhanteras**: MCX gold slipped to around Rs 1.46 lakh per 10 grams and silver dipped below Rs 2.10 lakh per kg on weak spot demand, as oil-driven inflation fears kept rate-hike expectations elevated. (stories 6, 7)
 
-### Russia's record reserve sell-off
-
-Ten straight months of Bank of Russia gold sales — 62 tonnes since December — have pushed reserves to a seven-year low as Moscow funds its deficit.
-
-### Gold pinned below $4,150 on Fed bets
-
-US and Asian sessions both stalled near $4,125–$4,141 as an 84% October hold call collided with December hike pricing and Iran tensions.
-
-### MCX metals slide into the Fed meeting
-
-Domestic gold futures eased toward Rs 1.46 lakh and silver toward Rs 2.09 lakh on weak spot demand, with Brent at $110.40 adding inflation risk.
-
-### Banks trim gold targets, keep 2027 hopes
-
-CIBC cut its Q4 forecast to $4,500 but still expects a $5,200 average in 2027, citing central-bank buying and fiscal worries.
-
-### Silver supply: miners ramp back up
-
-Santacruz's Q3 silver output rose on the Bolivar mine's recovery from 2025 flooding, with full recovery guided for Q4 2026.
-
-## 1. Russia sells 6.2 tonnes of gold in September as bullion reserves fall to lowest level since 2019
-
-_Kitco_ · 2026-10-21T21:50:00Z
-
-Russia sold 200,000 troy ounces (6.2 tonnes) of gold in September, cutting sovereign holdings to 72.8 million ounces — the lowest since end-2019. The Bank of Russia has trimmed holdings for ten straight months, liquidating about 62 tonnes since December 2025 in its largest sustained drawdown since 1998, as Moscow taps reserves to fund a widening budget deficit.
-
-https://www.kitco.com/news/article/2026-10-21/russia-sells-62-tonnes-gold-september-bullion-reserves-fall-lowest-level
-
-## 2. MCX gold slips to Rs 1.46 lakh, silver dips below Rs 2.10 lakh on weak spot demand
-
-_Daily Jagran_ · 2026-10-21T11:00:00Z
-
-Gold futures on MCX fell over Rs 500 to Rs 1,46,010 per 10 grams (December 4 contract) on October 21, while silver futures dropped more than Rs 2,000 to Rs 2,09,361 per kg. Analysts blamed weak spot demand and investor caution ahead of next week's US Federal Reserve meeting; Choice Broking sees support at Rs 1,45,861 and resistance at Rs 1,47,415–1,47,900.
-
-https://www.thedailyjagran.com/business/news/gold-rate-on-october-21-slips-to-1-46-lakh-silver-dips-below-rs-2-10-lakh-24k-22k-gold-rates-in-key-cities-10333455
-
-## 3. Gold gains as Treasury yields stabilize, Nasdaq surges despite Fed tightening concerns
-
-_Kitco_ · 2026-10-21T21:48:00Z
-
-Spot gold traded near $4,141 an ounce in late US trading on Wednesday, up 0.66%, while silver recovered to $57.98, up 0.34%, as a softer dollar and easing crude prices supported metals. Strong corporate earnings lifted US stocks even as September housing starts fell 5.2% and traders kept pricing further Fed tightening, with Iran and Strait of Hormuz tensions clouding the energy outlook.
-
-https://www.kitco.com/news/article/2026-10-21/gold-gains-treasury-yields-stabilize-nasdaq-surges-despite-fed-tightening
-
-## 4. Gold flatlines below $4,150 as traders assess Fed rate path amid Middle East risk
-
-_FXStreet_ · 2026-10-21T23:21:00Z
-
-Gold held around $4,125 in early Asian trading on Thursday as investors weighed the Federal Reserve's rate path against Middle East tensions. CME FedWatch put the chance of no change at next week's October meeting at about 84%, though markets still price another hike in December — a tilt toward tightening that caps the non-yielding metal, even as Iran warned it is prepared to defend itself.
-
-https://www.fxstreet.com/news/gold-flatlines-below-4-150-as-traders-assess-fed-rate-path-amid-middle-east-risk-202610212321
-
-## 5. CIBC Revamps Gold Target but Still Sees Major 2027 Snapback
-
-_TradingView_ · 2026-10-21T22:05:00Z
-
-CIBC Capital Markets cut its fourth-quarter gold forecast to $4,500 an ounce from $6,500 and lowered its 2027 average to $5,200 from $6,500, citing persistent inflation and a Fed pushed toward tighter policy by elevated energy prices. Analysts Anita Soni and Cosmos Chiu still expect geopolitical risk, debt concerns and central-bank buying to drive a recovery through 2027–28.
-
-https://www.tradingview.com/news/gurufocus:8ee2e0cea094b:0-cibc-revamps-gold-target-but-still-sees-major-2027-snapback/
-
-## 6. MCX Gold Prices Fall for 4th Day: What Festive Buyers Need to Know
-
-_Whalesbook_ · 2026-10-21T06:57:51Z
-
-MCX gold has slipped for four straight sessions to the Rs 1.45–1.46 lakh band, leaving Dhanteras and Diwali shoppers with a dilemma: lower prices look attractive, but crude-linked inflation and an unclear Fed path keep traders cautious. The piece argues long-term allocators may look past the wobble while short-term traders wait for the Fed meeting and early festive-season buying volumes.
-
-https://www.whalesbook.com/news/English/commodities/MCX-Gold-Prices-Fall-for-4th-Day-What-Festive-Buyers-Need-to-Know/6ad8626f79a16deaeaf877ca
-
-## 7. MCX Gold Falls 0.37% to Rs. 1,45,972 as Oil Prices Remain Elevated, Brent Crude Hovers at USD 110.4
-
-_Analytics Insight_ · 2026-10-21T12:00:00Z
-
-December gold futures on MCX fell 0.37% to Rs 1,45,972 per 10 grams on October 21 as elevated oil prices stoked inflation worries; December silver dropped 1.08% to Rs 2,09,207 per kg. Brent crude rose 1.47% to $110.40 a barrel while WTI slipped to $99.16; globally, spot gold eased 0.2% to $4,118.18 and spot silver fell 0.9% to $57.44.
-
-https://www.analyticsinsight.net/business/mcx-gold-falls-037-to-rs-145972-as-oil-prices-remain-elevated-brent-crude-hovers-at-usd-1104
-
-## 8. Santacruz Silver's Q3 Output Rose As Bolivar Recovered
-
-_Finimize_ · 2026-10-21T21:44:00Z
-
-Santacruz Silver Mining produced 1,500,958 ounces of silver in Q3 2026, with mining operations up 2% quarter-on-quarter and 30% year-on-year. The Bolivar mine's silver output jumped 19% to 408,087 ounces as dewatering continued after the May 2025 flood; management expects full recovery of the affected areas in Q4 2026 and bought a new 500-tonne-per-day mill for San Lucas ore.
-
-https://finimize.com/content/santacruz-silvers-q3-output-rose-as-bolivar-recovered
-
-## 9. Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound As Dollar Pulls Back
-
-_FXEmpire_ · 2026-10-21T18:18:31Z
-
-FXEmpire's technical desk notes gold edging higher as the dollar pulls back, with the gold/silver ratio back above 71.50 weighing on silver. It flags $58.00 as the level silver must clear to target $60.00–$62.00, with support at $56.00–$57.00; platinum is trying to settle below $1,600–$1,620 support toward $1,520–$1,540.
-
-https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-attempts-to-rebound-as-dollar-pulls-back-3-1639679
-
-## 10. Gold and Silver Prices Dip Amid Middle East Tensions and Interest Rate Concerns
-
-_Daily Kiran_ · 2026-10-21T10:00:00Z
-
-Gold and silver came under pressure on October 21 on Middle East tensions, a firm dollar and Fed rate-hike fears. On MCX, December gold fell Rs 519 to Rs 1,46,000 per 10 grams and silver dropped Rs 2,267 to Rs 2,09,218 per kg; globally, COMEX gold traded around $4,133, down 0.23%, with silver at $57.405, down 1.03%.
-
-https://dailykiran.com/gold-and-silver-prices-dip-amid-middle-east-tensions-and-interest-rate-concerns/
+## Stories
+1. [Gold Edges Lower as Traders Weigh Middle East Signals, Fed Rate Path](https://www.livemint.com/market/gold-edges-lower-as-traders-weigh-middle-east-signals-fed-rate-path-11792628633738.html) — *Mint*, 2026-10-22T04:28:00Z
+   Spot gold fell 0.4% to about $4,123 an ounce, near a one-week low, and silver slid 0.7% to $57.54. A Middle East flare-up - the US ordered non-emergency staff out of Saudi Arabia and a drone strike hit a Saudi Aramco field - lifted oil and inflation fears, while higher Treasury yields pressured bullion. The Fed is expected to hold next week, with a December hike widely priced in.
+2. [Russia sells 6.2 tonnes of gold in September as bullion reserves fall to lowest level since 2019](https://www.kitco.com/news/article/2026-10-21/russia-sells-62-tonnes-gold-september-bullion-reserves-fall-lowest-level) — *Kitco*, 2026-10-21T21:50:00Z
+   Russia sold 200,000 troy ounces (6.2 tonnes) of gold in September, cutting sovereign holdings to 72.8 million ounces — the lowest since end-2019. The Bank of Russia has trimmed holdings for ten straight months, liquidating about 62 tonnes since December 2025 in its largest sustained drawdown since 1998, as Moscow taps reserves to fund a widening budget deficit.
+3. [Digital gold may hit $170 billion by 2031: Buying this Dhanteras or Diwali? Why SEBI's 2025 warning is worth revisiting](https://upstox.com/news/personal-finance/commodities/digital-gold-may-hit-170-billion-by-2031-buying-this-dhanteras-or-diwali-why-sebi-s-2025-warning-is-worth-revisiting/article-202194/) — *Upstox*, 2026-10-22T03:45:00Z
+   The World Gold Council sees the global digital gold market growing ~27% a year to $160-170 billion by 2031, from $45-55 billion now. India's digital gold buys rose 5% on-month to 1.7 tonnes in September, worth Rs 25.9 billion - up 83% year-on-year on festive demand. It also revisits SEBI's November 2025 warning that digital gold products are unregulated and lack investor-protection safeguards.
+4. [Gold gains as Treasury yields stabilize, Nasdaq surges despite Fed tightening concerns](https://www.kitco.com/news/article/2026-10-21/gold-gains-treasury-yields-stabilize-nasdaq-surges-despite-fed-tightening) — *Kitco*, 2026-10-21T21:48:00Z
+   Spot gold traded near $4,141 an ounce in late US trading on Wednesday, up 0.66%, while silver recovered to $57.98, up 0.34%, as a softer dollar and easing crude prices supported metals. Strong corporate earnings lifted US stocks even as September housing starts fell 5.2% and traders kept pricing further Fed tightening, with Iran and Strait of Hormuz tensions clouding the energy outlook.
+5. [CIBC Revamps Gold Target but Still Sees Major 2027 Snapback](https://www.tradingview.com/news/gurufocus:8ee2e0cea094b:0-cibc-revamps-gold-target-but-still-sees-major-2027-snapback/) — *TradingView*, 2026-10-21T22:05:00Z
+   CIBC Capital Markets cut its fourth-quarter gold forecast to $4,500 an ounce from $6,500 and lowered its 2027 average to $5,200 from $6,500, citing persistent inflation and a Fed pushed toward tighter policy by elevated energy prices. Analysts Anita Soni and Cosmos Chiu still expect geopolitical risk, debt concerns and central-bank buying to drive a recovery through 2027–28.
+6. [MCX gold slips to Rs 1.46 lakh, silver dips below Rs 2.10 lakh on weak spot demand](https://www.thedailyjagran.com/business/news/gold-rate-on-october-21-slips-to-1-46-lakh-silver-dips-below-rs-2-10-lakh-24k-22k-gold-rates-in-key-cities-10333455) — *Daily Jagran*, 2026-10-21T11:00:00Z
+   Gold futures on MCX fell over Rs 500 to Rs 1,46,010 per 10 grams (December 4 contract) on October 21, while silver futures dropped more than Rs 2,000 to Rs 2,09,361 per kg. Analysts blamed weak spot demand and investor caution ahead of next week's US Federal Reserve meeting; Choice Broking sees support at Rs 1,45,861 and resistance at Rs 1,47,415–1,47,900.
+7. [MCX Gold Falls 0.37% to Rs. 1,45,972 as Oil Prices Remain Elevated, Brent Crude Hovers at USD 110.4](https://www.analyticsinsight.net/business/mcx-gold-falls-037-to-rs-145972-as-oil-prices-remain-elevated-brent-crude-hovers-at-usd-1104) — *Analytics Insight*, 2026-10-21T12:00:00Z
+   December gold futures on MCX fell 0.37% to Rs 1,45,972 per 10 grams on October 21 as elevated oil prices stoked inflation worries; December silver dropped 1.08% to Rs 2,09,207 per kg. Brent crude rose 1.47% to $110.40 a barrel while WTI slipped to $99.16; globally, spot gold eased 0.2% to $4,118.18 and spot silver fell 0.9% to $57.44.
+8. [Micro Silver (XAGUSD-M) Moved Sharply on Oct 22: Inventories, the Dollar, or Geopolitics?](https://www.tradingkey.com/news/market-movers/262231166-market-movers-xagusd-m-20261022) — *TradingKey*, 2026-10-22T02:15:00Z
+   Silver came under sharp pressure as a firm dollar and resurgent Treasury yields raised the opportunity cost of holding the metal, with softer industrial demand expectations - solar and electronics exposure - adding to the drag. Technical selling accelerated as prices broke key supports, with futures net-longs cut and ETF outflows.
+9. [Santacruz Silver's Q3 Output Rose As Bolivar Recovered](https://finimize.com/content/santacruz-silvers-q3-output-rose-as-bolivar-recovered) — *Finimize*, 2026-10-21T21:44:00Z
+   Santacruz Silver Mining produced 1,500,958 ounces of silver in Q3 2026, with mining operations up 2% quarter-on-quarter and 30% year-on-year. The Bolivar mine's silver output jumped 19% to 408,087 ounces as dewatering continued after the May 2025 flood; management expects full recovery of the affected areas in Q4 2026 and bought a new 500-tonne-per-day mill for San Lucas ore.
+10. [MCX Gold Prices Fall for 4th Day: What Festive Buyers Need to Know](https://www.whalesbook.com/news/English/commodities/MCX-Gold-Prices-Fall-for-4th-Day-What-Festive-Buyers-Need-to-Know/6ad8626f79a16deaeaf877ca) — *Whalesbook*, 2026-10-21T06:57:51Z
+   MCX gold has slipped for four straight sessions to the Rs 1.45–1.46 lakh band, leaving Dhanteras and Diwali shoppers with a dilemma: lower prices look attractive, but crude-linked inflation and an unclear Fed path keep traders cautious. The piece argues long-term allocators may look past the wobble while short-term traders wait for the Fed meeting and early festive-season buying volumes.
