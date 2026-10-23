@@ -1,23 +1,33 @@
 {
  "schema": "orob-news.v1",
- "edition_id": "2026-10-23T02:00Z",
- "generated_at": "2026-10-23T02:05:53Z",
+ "edition_id": "2026-10-23T03:00Z",
+ "generated_at": "2026-10-23T03:04:29Z",
  "window": {
-  "from": "2026-10-23T00:00:00Z",
-  "to": "2026-10-23T02:00:00Z"
+  "from": "2026-10-23T02:00:00Z",
+  "to": "2026-10-23T03:00Z"
  },
  "insights": {
-  "headline": "Gold at 2-month low as oil-fuelled inflation fears trump haven bid; India freezes fresh gold fund money",
-  "summary": "Spot gold slid 2.4% to $4,041.39 an ounce and silver futures hit their lowest close of the year as oil above $111 revived inflation fears and higher-for-longer rate bets, outweighing haven demand from the West Asia war. The RBI kept repatriating its reserves, leaving just over 22% of its 880-tonne gold stock abroad. In India, 17 fund houses froze fresh investments into gold fund-of-funds on a SEBI instruction — the eighth rupee-defence step since March — while the government issued permits to import 6,500 tonnes of silver over six months; MCX gold still slipped to about ₹1.46 lakh.",
+  "headline": "Gold at 3-month low, set for worst week in four months as oil-driven Fed hike bets win out",
+  "summary": "Spot gold touched its lowest since August 3 at $4,018.69, on track for a 3.4% weekly fall — the sharpest in more than four months — as Brent crude above $111 on Middle East escalation stoked inflation fears and higher-for-longer rate bets, outweighing haven demand. Silver neared its 2026 low while MCX contracts tracked the global slide. In India, 6,500-tonne silver import permits over six months and the RBI's continued reserve repatriation were the main domestic counterweights.",
   "points": [
-   "Gold funds freeze: 17 fund houses stopped fresh lump sums, switch-ins and new SIPs in gold FoFs from Oct 16; existing SIPs and redemptions continue.",
-   "Silver supply eased: 6,500-tonne import permits for six months cut domestic premiums to 45 cents/oz from $2.50 last week.",
-   "MCX gold around ₹1.46 lakh, silver below ₹2.10 lakh on weak spot demand with Dhanteras on November 6.",
-   "RBI gold kept abroad down to 22% from 40% last fiscal; central-bank buying remains a key support.",
-   "BIS seized 95 gold articles (467.44 g) from an Amritsar outlet for hallmarking violations."
+   "Weekly rout: spot gold $4,018.69, down 3.4% for the week; December futures $4,033.70; silver near 2026 lows at $54.46.",
+   "Oil above $111 after Houthi strikes on Saudi targets is stoking inflation fears and higher-for-longer rate bets.",
+   "US jobless claims near 57-year lows; traders price an 81% chance of a Fed hike in December, ahead of the Oct 27–28 meeting.",
+   "India: permits to import 6,500 tonnes of silver over six months to meet festive demand; domestic demand still weak.",
+   "RBI kept just 22% of its gold abroad, down from 40% last fiscal, as reserve repatriation continued."
   ]
  },
  "trending": [
+  {
+   "title": "Oil-driven rate fears beat the war haven bid",
+   "summary": "Oil above $111 after Houthi attacks on Saudi targets is stoking inflation and December-hike bets, pushing gold toward its worst week in four months and silver near its 2026 low.",
+   "item_ids": [
+    "6828f41e58e9eff5",
+    "808f27d3bf31211a",
+    "effade372230e1fc",
+    "f2723161df618365"
+   ]
+  },
   {
    "title": "Rupee defence returns to the 2013 playbook",
    "summary": "A 15% import duty, silver licensing, the RBI rate hike and now a gold-fund freeze on SEBI instructions mirror India’s 2013 currency defence, squeezing gold as the most controllable import.",
@@ -35,15 +45,6 @@
    ]
   },
   {
-   "title": "Oil-driven rate fears beat the war haven bid",
-   "summary": "Oil above $111 after strikes on Saudi targets is stoking inflation and rate-hold bets, driving gold to a more-than-two-month low and silver to its worst close of the year.",
-   "item_ids": [
-    "808f27d3bf31211a",
-    "effade372230e1fc",
-    "f2723161df618365"
-   ]
-  },
-  {
    "title": "Festive buying at a discount",
    "summary": "MCX gold’s multi-day slide has festive and wedding guides framing the dip as a buying window, with Dhanteras on November 6 and silver set for a rebound in inflows.",
    "item_ids": [
@@ -55,8 +56,34 @@
  ],
  "items": [
   {
-   "id": "808f27d3bf31211a",
+   "id": "6828f41e58e9eff5",
    "rank": 1,
+   "title": "Gold heads for sharpest weekly decline in four months on Fed rate outlook",
+   "summary": "Spot gold eased to $4,018.69 an ounce on Friday, its lowest since August 3, and is down 3.4% for the week — the sharpest weekly fall in more than four months. Oil's surge after Houthi attacks on Saudi targets and resilient US data reinforced bets the Fed keeps rates higher for longer; traders price an 81% chance of a December hike. Spot silver slipped to $54.46, also set for a weekly loss.",
+   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-heads-for-sharpest-weekly-decline-in-four-months-on-fed-rate-outlook/articleshow/135131910.cms",
+   "source": "Economic Times",
+   "source_domain": "economictimes.indiatimes.com",
+   "publisher_id": "economic-times",
+   "published_at": "2026-10-23T02:26:00Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/6828f41e58e9eff5.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "silver",
+    "global",
+    "fed"
+   ],
+   "category": "global",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "related_urls": []
+  },
+  {
+   "id": "808f27d3bf31211a",
+   "rank": 2,
    "title": "Gold falls to more than two-month low as oil-fuelled inflation fears weigh",
    "summary": "Spot gold slid 2.4% to $4,041.39 an ounce on Thursday, its lowest in more than two months, as oil climbed about 3% to a five-month high on escalating Middle East tensions — stoking inflation fears and bets that the Fed will keep rates higher for longer.",
    "url": "https://www.reuters.com/world/india/gold-drops-over-1-oil-rally-reinforces-higher-for-longer-rate-outlook-2026-10-22/",
@@ -102,11 +129,11 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 2
+   "rank": 3
   },
   {
    "id": "effade372230e1fc",
-   "rank": 3,
+   "rank": 4,
    "title": "Silver Futures Fall to Lowest This Year as Oil Prices Fuel Inflation Risks",
    "summary": "Silver futures fell 4.6% in New York to $54.76 an ounce on Thursday — their lowest close in almost a year and 52% below January's record — as Brent crude above $110 revived inflation fears and US rate-hike bets. Front-month gold fell 2.1% to $4,042.80, its weakest close since August 3.",
    "url": "https://www.wsj.com/finance/commodities-futures/silver-futures-fall-to-lowest-this-year-as-oil-prices-fuel-inflation-risks-f013e561",
@@ -132,7 +159,7 @@
   },
   {
    "id": "f35bc31e01fef6c7",
-   "rank": 4,
+   "rank": 5,
    "title": "RBI gold kept abroad dips to 22% from 40% last fiscal",
    "summary": "The RBI's half-yearly reserves report shows just over 22% of its 880-tonne gold stock — about 198 tonnes — was held overseas at end-March 2026, down from 40% (about 349 tonnes) a year earlier, as the central bank kept repatriating bullion from vaults in London to India.",
    "url": "https://timesofindia.indiatimes.com/city/nagpur/rbi-gold-kept-abroad-dips-to-22-from-40-last-fiscal/articleshow/135125962.cms",
@@ -157,7 +184,7 @@
   },
   {
    "id": "1add263b35761f02",
-   "rank": 5,
+   "rank": 6,
    "title": "Silver crashes ₹8,590/kg to a 7-month low; gold hits 2-month low. What's driving the selloff in precious metals",
    "summary": "MCX silver's December contract plunged ₹8,593 a kg to ₹2,00,575 — a seven-month low — while MCX gold fell ₹2,300 per 10 grams to ₹1,43,600, a two-month low. Middle East escalation pushed Brent crude up 3.3% to $112.38, stoking expectations of further US Fed rate hikes; traders price an 86% chance of a December hike. Gold and silver are down 3.3% and 10% so far this month.",
    "url": "https://www.livemint.com/market/stock-market-news/silver-crashes-rs-8-590-per-kilo-to-7-month-low-gold-hits-2-month-low-what-s-driving-the-selloff-in-precious-metals-11792676479559.html",
@@ -206,12 +233,12 @@
    "related_urls": [
     "https://www.business-standard.com/economy/news/silver-inflows-likely-to-rebound-as-import-curbs-eased-for-diwali-126102201737_1.html"
    ],
-   "rank": 6,
+   "rank": 7,
    "breaking": false
   },
   {
    "id": "65b9b16499fd12d8",
-   "rank": 7,
+   "rank": 8,
    "title": "Studded gold jewellery exports jump 31%: How trade agreements are helping Indian exporters",
    "summary": "India's studded gold jewellery exports rose 31.31% year-on-year to $3.69 billion in the first half of FY27, helped by better trade access and lower US tariffs, even as plain gold jewellery exports were weighed down by high prices and weak West Asia demand.",
    "url": "https://www.businesstoday.in/latest/economy/story/studded-gold-jewellery-exports-jump-31-how-trade-agreements-are-helping-indian-exporters-563151-2026-10-23",
@@ -259,11 +286,11 @@
    "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/eceffe1cd9f95228.jpg",
    "image_kind": "photo",
    "related_urls": [],
-   "rank": 8
+   "rank": 9
   },
   {
    "id": "0fbf67e8fd2ee50c",
-   "rank": 9,
+   "rank": 10,
    "title": "Gold Selloff Shows Why Oil-Driven Rate Fears Are Overpowering War Risk",
    "summary": "Spot gold fell $78 to $4,062 an ounce on October 22 — the lowest in over two months and a fifth straight losing session — even as a Houthi drone strike near a Saudi oil field pushed Brent to $111.99. The article argues gold is trading as a rate asset rather than a war hedge: pricier oil lifts inflation expectations, pushing December Fed-hike odds to 90%.",
    "url": "https://www.investing.com/analysis/gold-selloff-shows-why-oildriven-rate-fears-are-overpowering-war-risk-200690104",
@@ -315,7 +342,7 @@
     "https://www.kitco.com/news/article/2026-10-22/gold-silver-pressured-despite-lower-yields-hormuz-attacks-send-crude-higher",
     "https://www.tradingkey.com/analysis/commodities/metal/262228407-oil-rebounds-110-fed-rate-hike-expectations-gold-drops-4100-tradingkey"
    ],
-   "rank": 10
+   "rank": 11
   },
   {
    "title": "Gold prices under pressure as US weekly jobless claims fall to three-month low",
@@ -338,7 +365,7 @@
    "summary": "US initial jobless claims fell to a seasonally adjusted 194,000 for the week ended October 17 — below the 200,000 consensus and the lowest since late July — keeping gold below $4,100 an ounce and adding to selling pressure. Spot gold last traded at $4,076, down 1.5% on the day, as the resilient labour market bolsters the case for the Fed to keep rates elevated.",
    "id": "0881f44b6f5b7040",
    "related_urls": [],
-   "rank": 11,
+   "rank": 12,
    "breaking": false
   },
   {
@@ -363,12 +390,12 @@
    "summary": "Gold set three-month lows, with London settlement as low as $4,058 an ounce overnight, as Asian tech stocks sank again and Brent crude jumped 2.8% toward May's four-year peak of $115 after Tehran threatened US bases over Hormuz tanker traffic. China's CSI300 hit 14-month lows; platinum touched a three-month low of $1,577, even as the US 10-year yield fell to a one-month low of 5.04%.",
    "id": "466aa0c6dceb81ff",
    "related_urls": [],
-   "rank": 12,
+   "rank": 13,
    "breaking": false
   },
   {
    "id": "50488ad4670707c4",
-   "rank": 13,
+   "rank": 14,
    "title": "MCX gold slips to Rs 1.46 lakh, silver dips below Rs 2.10 lakh on weak spot demand",
    "summary": "Gold futures on MCX fell over Rs 500 to Rs 1,46,010 per 10 grams (December 4 contract) on October 21, while silver futures dropped more than Rs 2,000 to Rs 2,09,361 per kg. Analysts blamed weak spot demand and investor caution ahead of next week's US Federal Reserve meeting; Choice Broking sees support at Rs 1,45,861 and resistance at Rs 1,47,415–1,47,900.",
    "url": "https://www.thedailyjagran.com/business/news/gold-rate-on-october-21-slips-to-1-46-lakh-silver-dips-below-rs-2-10-lakh-24k-22k-gold-rates-in-key-cities-10333455",
@@ -415,7 +442,7 @@
     "india"
    ],
    "breaking": false,
-   "rank": 14,
+   "rank": 15,
    "related_urls": []
   },
   {
@@ -440,11 +467,11 @@
    "related_urls": [
     "https://www.barrons.com/articles/newmont-earnings-stock-price-gold-df5279be"
    ],
-   "rank": 15
+   "rank": 16
   },
   {
    "id": "19f1eacfb1682761",
-   "rank": 16,
+   "rank": 17,
    "title": "Gold loan boom brings early stress signals for NBFCs",
    "url": "https://www.tradingview.com/news/moodys:dd6f356d4966b:0-gold-loan-boom-brings-early-stress-signals-for-nbfcs/",
    "source": "TradingView",
@@ -487,11 +514,11 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 17
+   "rank": 18
   },
   {
    "id": "d2689e2c69244b45",
-   "rank": 18,
+   "rank": 19,
    "title": "Gold Sales Projected to Drop 11% in October as Prices Surge",
    "url": "https://www.whalesbook.com/news/English/commodities/Gold-Sales-Projected-to-Drop-11percent-in-October-as-Prices-Surge/6ad9be7d79a16deaeaf9e4ff",
    "source": "Whalesbook",
@@ -515,7 +542,7 @@
   },
   {
    "id": "253de0c92f936a9c",
-   "rank": 19,
+   "rank": 20,
    "title": "Wedding Season 2026: Gold prices crashed over 5% in a month — Should you buy jewellery now or wait? Experts suggest",
    "url": "https://www.livemint.com/money/personal-finance/wedding-season-2026-gold-prices-crashed-over-5-in-a-month-should-you-buy-jewellery-now-or-wait-experts-suggest-11792571511976.html",
    "source": "Mint",
@@ -539,7 +566,7 @@
   },
   {
    "id": "eba8d6d1b8a4d815",
-   "rank": 20,
+   "rank": 21,
    "title": "MCX Gold Prices Fall for 4th Day: What Festive Buyers Need to Know",
    "summary": "MCX gold has slipped for four straight sessions to the Rs 1.45–1.46 lakh band, leaving Dhanteras and Diwali shoppers with a dilemma: lower prices look attractive, but crude-linked inflation and an unclear Fed path keep traders cautious. The piece argues long-term allocators may look past the wobble while short-term traders wait for the Fed meeting and early festive-season buying volumes.",
    "url": "https://www.whalesbook.com/news/English/commodities/MCX-Gold-Prices-Fall-for-4th-Day-What-Festive-Buyers-Need-to-Know/6ad8626f79a16deaeaf877ca",
@@ -583,12 +610,12 @@
     "india"
    ],
    "breaking": false,
-   "rank": 21,
+   "rank": 22,
    "related_urls": []
   },
   {
    "id": "1a51f26b2abbc1b2",
-   "rank": 22,
+   "rank": 23,
    "title": "Digital gold may hit $170 billion by 2031: Buying this Dhanteras or Diwali? Why SEBI's 2025 warning is worth revisiting",
    "summary": "The World Gold Council sees the global digital gold market growing ~27% a year to $160-170 billion by 2031, from $45-55 billion now. India's digital gold buys rose 5% on-month to 1.7 tonnes in September, worth Rs 25.9 billion - up 83% year-on-year on festive demand. It also revisits SEBI's November 2025 warning that digital gold products are unregulated and lack investor-protection safeguards.",
    "url": "https://upstox.com/news/personal-finance/commodities/digital-gold-may-hit-170-billion-by-2031-buying-this-dhanteras-or-diwali-why-sebi-s-2025-warning-is-worth-revisiting/article-202194/",
@@ -611,7 +638,7 @@
   },
   {
    "id": "40ba5157588b44ab",
-   "rank": 23,
+   "rank": 24,
    "title": "CIBC Revamps Gold Target but Still Sees Major 2027 Snapback",
    "summary": "CIBC Capital Markets cut its fourth-quarter gold forecast to $4,500 an ounce from $6,500 and lowered its 2027 average to $5,200 from $6,500, citing persistent inflation and a Fed pushed toward tighter policy by elevated energy prices. Analysts Anita Soni and Cosmos Chiu still expect geopolitical risk, debt concerns and central-bank buying to drive a recovery through 2027–28.",
    "url": "https://www.tradingview.com/news/gurufocus:8ee2e0cea094b:0-cibc-revamps-gold-target-but-still-sees-major-2027-snapback/",
@@ -655,13 +682,13 @@
    "metals": [
     "silver"
    ],
-   "rank": 24,
+   "rank": 25,
    "related_urls": [],
    "breaking": false
   },
   {
    "id": "defba7dbba9b72f0",
-   "rank": 25,
+   "rank": 26,
    "title": "Micro Silver (XAGUSD-M) Moved Sharply on Oct 22: Inventories, the Dollar, or Geopolitics?",
    "summary": "Silver came under sharp pressure as a firm dollar and resurgent Treasury yields raised the opportunity cost of holding the metal, with softer industrial demand expectations - solar and electronics exposure - adding to the drag. Technical selling accelerated as prices broke key supports, with futures net-longs cut and ETF outflows.",
    "url": "https://www.tradingkey.com/news/market-movers/262231166-market-movers-xagusd-m-20261022",
