@@ -1,4 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-10-24T18:00Z
+# Gold & Silver for Indian buyers · 2026-10-24T20:00Z
 
 > Gold holds near $4,000 after its worst week since June as Comex deliveries go quiet
 
@@ -12,7 +12,7 @@ Gold is holding near $4,000 an ounce and silver near $53.90 after a bruising wee
 
 ## Trending
 - **Oil, rates and the $4,000 line**: The selloff traces back to one chain: Hormuz tensions lifted crude above $116, inflation fears revived Fed hike bets, and gold gave up $4,000 while silver slid below ₹2 lakh. (stories 1, 2, 4)
-- **Silver's air pocket**: Silver fell below ₹2 lakh on MCX and to a ten-month low, while Comex delivery volumes went quiet — yet brokers cited in this edition call the selloff overdone. (stories 3, 5, 9)
+- **Silver's air pocket**: Silver fell below ₹2 lakh on MCX and to a ten-month low as oil, margin calls and Fed fears combined; CPM Group sees scope toward $50–$48, yet brokers cited call the selloff overdone. (stories 3, 5, 9, 10)
 - **Festive demand vs weak imports**: Lower prices are coaxing Indian buyers back ahead of Dhanteras, yet import volumes remain soft — a split that will decide whether the festival season absorbs the dip. (stories 8, 7)
 - **Jewellery stocks in the spotlight**: A 1:1 bonus issue at Utssav CZ Gold Jewels and a ₹275 crore IPO from MK Sons Fine Jewels put listed jewellery names in focus during the festive season. (stories 16, 17)
 
@@ -35,8 +35,8 @@ Gold is holding near $4,000 an ounce and silver near $53.90 after a bruising wee
    Gold buying picked up in India this week as lower prices during Dussehra encouraged purchases and lifted dealer premiums to up to $9 an ounce from $7 last week. Jewellers reported packed stores for the festival, though dealers said demand remained well below last year's levels. Spot gold hit its lowest since July 20 during a week set for its steepest loss since June.
 9. [Silver selloff seems overdone, says Mirae Asset Sharekhan; here's why](https://www.business-standard.com/markets/news/silver-selloff-seems-overdone-says-mirae-asset-sharekhan-here-s-why-126102300435_1.html) — *Business Standard*, 2026-10-23T06:55:00Z
    Mirae Asset Sharekhan's Praveen Singh says silver's selloff looks overdone after spot broke support near $58.60 on October 14, though the crude oil/silver ratio falling through support around 58 leaves silver vulnerable to further oil gains. Registered COMEX inventory of 103.33 million ounces is down about 49% from the September 2025 peak of 201 million ounces.
-10. [Silver's Recovery Hinges on Charts, Not Just Scarcity](https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/silver-s-recovery-hinges-on-charts-not-just-scarcity/70404185) — *ad-hoc-news*, 2026-10-24T09:30:50Z
-   COMEX silver settled at $53.96 an ounce, down 1.2%, as a structural supply deficit runs into inflation anxiety and rate-hike expectations that keep capping upside. Kedia Advisory flags $50 as key support and sees a conditional path to $90–100 by next Dhanteras — but only if geopolitical tensions ease; tight supply alone has not engineered a bounce.
+10. [Silver's Sell-Off Isn't One Story: Oil, Margin Calls and the Fed All Pulled the Trigger](https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/silver-s-sell-off-isn-t-one-story-oil-margin-calls-and-the-fed-all/70405779) — *ad-hoc-news*, 2026-10-24T17:02:54Z
+   Silver's 5.6% weekly drop to $53.96 an ounce, its lowest since November, traces to three forces at once: oil-driven inflation fears, liquidity selling as tech shares fell and margin calls hit, and the Fed's October 27-28 meeting. CPM Group's Jeffrey Christian sees scope for a further slide toward $50 or $48 before any recovery, with pressure possibly lasting through the US midterm elections.
 11. [Gold edges back above $4,030 after dipping below $4,000 to a three-month low](https://qazinform.com/news/gold-edges-up-after-tipping-three-month-low-37afdc/) — *Qazinform*, 2026-10-24T02:01:00Z
    Gold recovered to $4,030.67 an ounce on Friday, October 23, after touching $3,986.50 — its lowest in more than three months — but remains on course for a second straight weekly loss as oil-driven inflation fears and hawkish Fed bets kept pressure on bullion. Silver slid another 1.3% to $53.81 an ounce, while platinum slipped to $1,557.03 and palladium to $1,050.50, WAM reported.
 12. [Gold drops below $4,000 as 'haven' asset joins market sell-off](https://www.ft.com/content/5a6e15e9-249d-4d59-a140-c51302930a9f) — *Financial Times*, 2026-10-23T14:37:46Z
