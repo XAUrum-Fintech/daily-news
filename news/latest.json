@@ -1,14 +1,14 @@
 {
  "schema": "orob-news.v1",
- "edition_id": "2026-10-24T20:00Z",
- "generated_at": "2026-10-24T20:08:51Z",
+ "edition_id": "2026-10-24T22:00Z",
+ "generated_at": "2026-10-24T22:05:13Z",
  "window": {
-  "from": "2026-10-24T18:00:00Z",
-  "to": "2026-10-24T20:00:00Z"
+  "from": "2026-10-24T20:00:00Z",
+  "to": "2026-10-24T22:00:00Z"
  },
  "insights": {
   "headline": "Gold holds near $4,000 after its worst week since June as Comex deliveries go quiet",
-  "summary": "Gold is holding near $4,000 an ounce and silver near $53.90 after a bruising week in which oil-driven inflation fears and Fed rate-hike bets knocked both metals lower, with MCX gold at ₹1,42,024 per 10 grams and silver below ₹2 lakh a kg. Comex delivery activity has gone quiet even as physical demand shows signs of life into Dhanteras, while the RBI's record $200 billion in forward dollar sales underlines how hard India is leaning against rupee pressure.",
+  "summary": "Gold is holding near $4,000 an ounce and silver near $53.90 after a bruising week in which oil-driven inflation fears and Fed rate-hike bets knocked both metals lower, with MCX gold at ₹1,42,024 per 10 grams and silver below ₹2 lakh a kg. Comex delivery activity has gone quiet even as physical demand shows signs of life into Dhanteras, while the RBI's record $200 billion in forward dollar sales underlines how hard India is leaning against rupee pressure. Experts cited by USA Today see gold returning above $5,000 in 2027 rather than 2026.",
   "points": [
    "Gold ended the week near $3,996 an ounce and MCX gold at ₹1,42,024 per 10 grams after crude-driven inflation fears revived Fed hike bets.",
    "Silver slipped below ₹2 lakh a kg on MCX and to $53.90 an ounce, with Comex delivery volumes falling to multi-year lows.",
@@ -51,6 +51,14 @@
    "item_ids": [
     "15a41be852620ba1",
     "f781cd7d46b030e8"
+   ]
+  },
+  {
+   "title": "The $5,000 question for 2027",
+   "summary": "Gold has pulled back from its early-year record above $5,000 to the low-$4,000s; experts cited by USA Today see the level returning in 2027, with silver seen volatile into early next year.",
+   "item_ids": [
+    "9a94f594410bc865",
+    "87d5ef1d84e823c2"
    ]
   }
  ],
@@ -418,6 +426,29 @@
    "rank": 15
   },
   {
+   "id": "9a94f594410bc865",
+   "title": "Will gold hit $5,000 again? What experts expect for 2027",
+   "summary": "Gold passed $5,000 an ounce for the first time early this year but has since pulled back to the low-$4,000 range, and experts cited by USA Today see a return above $5,000 as likely in 2027 rather than 2026. A strong dollar, Fed tightening expectations and soft Indian demand cap the near term, while central-bank buying supports the longer view.",
+   "url": "https://www.usatoday.com/story/money/investing/2026/06/24/will-gold-hit-5000/90667077007/",
+   "source": "USA Today",
+   "source_domain": "usatoday.com",
+   "publisher_id": "usa-today",
+   "published_at": "2026-10-24T21:51:28Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "gold",
+    "global",
+    "fed"
+   ],
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "rank": 16
+  },
+  {
    "id": "15a41be852620ba1",
    "title": "Utssav CZ Gold Jewels approves 1:1 bonus issue, to double equity capital",
    "summary": "Utssav CZ Gold Jewels' board has approved a 1:1 bonus issue that will double the company's equity capital, Business Standard reports, putting the jewellery maker in focus during the festive season.",
@@ -441,7 +472,7 @@
    "related_urls": [
     "https://www.livemint.com/market/stock-market-news/413-returns-in-1-year-gold-jewellery-stock-offers-bonus-shares-do-you-own-check-ratio-record-date-11792858197650.html"
    ],
-   "rank": 16
+   "rank": 17
   },
   {
    "id": "f781cd7d46b030e8",
@@ -464,7 +495,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 17
+   "rank": 18
   }
  ]
 }

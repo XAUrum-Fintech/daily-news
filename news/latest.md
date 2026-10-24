@@ -1,8 +1,8 @@
-# Gold & Silver for Indian buyers · 2026-10-24T20:00Z
+# Gold & Silver for Indian buyers · 2026-10-24T22:00Z
 
 > Gold holds near $4,000 after its worst week since June as Comex deliveries go quiet
 
-Gold is holding near $4,000 an ounce and silver near $53.90 after a bruising week in which oil-driven inflation fears and Fed rate-hike bets knocked both metals lower, with MCX gold at ₹1,42,024 per 10 grams and silver below ₹2 lakh a kg. Comex delivery activity has gone quiet even as physical demand shows signs of life into Dhanteras, while the RBI's record $200 billion in forward dollar sales underlines how hard India is leaning against rupee pressure.
+Gold is holding near $4,000 an ounce and silver near $53.90 after a bruising week in which oil-driven inflation fears and Fed rate-hike bets knocked both metals lower, with MCX gold at ₹1,42,024 per 10 grams and silver below ₹2 lakh a kg. Comex delivery activity has gone quiet even as physical demand shows signs of life into Dhanteras, while the RBI's record $200 billion in forward dollar sales underlines how hard India is leaning against rupee pressure. Experts cited by USA Today see gold returning above $5,000 in 2027 rather than 2026.
 
 - Gold ended the week near $3,996 an ounce and MCX gold at ₹1,42,024 per 10 grams after crude-driven inflation fears revived Fed hike bets.
 - Silver slipped below ₹2 lakh a kg on MCX and to $53.90 an ounce, with Comex delivery volumes falling to multi-year lows.
@@ -14,7 +14,8 @@ Gold is holding near $4,000 an ounce and silver near $53.90 after a bruising wee
 - **Oil, rates and the $4,000 line**: The selloff traces back to one chain: Hormuz tensions lifted crude above $116, inflation fears revived Fed hike bets, and gold gave up $4,000 while silver slid below ₹2 lakh. (stories 1, 2, 4)
 - **Silver's air pocket**: Silver fell below ₹2 lakh on MCX and to a ten-month low as oil, margin calls and Fed fears combined; CPM Group sees scope toward $50–$48, yet brokers cited call the selloff overdone. (stories 3, 5, 9, 10)
 - **Festive demand vs weak imports**: Lower prices are coaxing Indian buyers back ahead of Dhanteras, yet import volumes remain soft — a split that will decide whether the festival season absorbs the dip. (stories 8, 7)
-- **Jewellery stocks in the spotlight**: A 1:1 bonus issue at Utssav CZ Gold Jewels and a ₹275 crore IPO from MK Sons Fine Jewels put listed jewellery names in focus during the festive season. (stories 16, 17)
+- **Jewellery stocks in the spotlight**: A 1:1 bonus issue at Utssav CZ Gold Jewels and a ₹275 crore IPO from MK Sons Fine Jewels put listed jewellery names in focus during the festive season. (stories 17, 18)
+- **The $5,000 question for 2027**: Gold has pulled back from its early-year record above $5,000 to the low-$4,000s; experts cited by USA Today see the level returning in 2027, with silver seen volatile into early next year. (stories 16, 15)
 
 ## Stories
 1. [Gold, silver extend weekly losses as Hormuz tensions push crude above $116](https://www.kitco.com/news/article/2026-10-23/gold-silver-extend-weekly-losses-hormuz-tensions-push-crude-above-116-kitco) — *Kitco*, 2026-10-23T21:30:50Z
@@ -47,7 +48,9 @@ Gold is holding near $4,000 an ounce and silver near $53.90 after a bruising wee
    Gold slipped below $4,000 even as the US 10-year Treasury yield fell to 4.96%, breaking the usual pattern in which lower yields support bullion. ActionForex attributes the divergence to liquidity and positioning pressure, possibly including forced selling, as a tech-led equity selloff drove defensive buying of Treasuries instead. Its technical view puts next support at $3,924-$3,942.
 15. [Could silver rebound in 2027? What experts predict will happen next](https://www.usatoday.com/story/money/money-management/investing/will-silver-hit-100-again/90530149007/) — *USA Today*, 2026-10-23T16:33:00Z
    After falling from record highs above $100 an ounce earlier this year, silver is trading in the upper $50s to lower $60s, and experts cited by USA Today expect it to stay volatile in a broad $50 to $70 range into early 2027. Fed rate policy is the main near-term pressure, while industrial demand from electronics, solar panels and data centres supports the longer view.
-16. [Utssav CZ Gold Jewels approves 1:1 bonus issue, to double equity capital](https://www.business-standard.com/markets/news/utssav-cz-gold-jewels-approves-1-1-bonus-issue-to-double-equity-capital-126102400806_1.html) — *Business Standard*, 2026-10-24T17:08:57Z
+16. [Will gold hit $5,000 again? What experts expect for 2027](https://www.usatoday.com/story/money/investing/2026/06/24/will-gold-hit-5000/90667077007/) — *USA Today*, 2026-10-24T21:51:28Z
+   Gold passed $5,000 an ounce for the first time early this year but has since pulled back to the low-$4,000 range, and experts cited by USA Today see a return above $5,000 as likely in 2027 rather than 2026. A strong dollar, Fed tightening expectations and soft Indian demand cap the near term, while central-bank buying supports the longer view.
+17. [Utssav CZ Gold Jewels approves 1:1 bonus issue, to double equity capital](https://www.business-standard.com/markets/news/utssav-cz-gold-jewels-approves-1-1-bonus-issue-to-double-equity-capital-126102400806_1.html) — *Business Standard*, 2026-10-24T17:08:57Z
    Utssav CZ Gold Jewels' board has approved a 1:1 bonus issue that will double the company's equity capital, Business Standard reports, putting the jewellery maker in focus during the festive season.
-17. [Upcoming IPO: MK Sons Fine Jewels' ₹275 cr opening next week](https://www.livemint.com/market/ipo/upcoming-ipo-mk-sons-fine-jewels-rs-275-cr-opening-next-week-company-profile-key-dates-share-price-band-and-more-11792858838153.html) — *Mint*, 2026-10-24T17:15:07Z
+18. [Upcoming IPO: MK Sons Fine Jewels' ₹275 cr opening next week](https://www.livemint.com/market/ipo/upcoming-ipo-mk-sons-fine-jewels-rs-275-cr-opening-next-week-company-profile-key-dates-share-price-band-and-more-11792858838153.html) — *Mint*, 2026-10-24T17:15:07Z
    MK Sons Fine Jewels will open a ₹275 crore IPO next week, Mint reports, with the jewellery company's issue profile, key dates and price band set out ahead of the opening.
