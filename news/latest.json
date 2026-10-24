@@ -1,60 +1,85 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-24T07:00Z",
-  "generated_at": "2026-10-24T07:02:43Z",
+  "edition_id": "2026-10-24T09:00Z",
+  "generated_at": "2026-10-24T09:11:41Z",
   "window": {
-    "from": "2026-10-24T05:00:00Z",
-    "to": "2026-10-24T07:00:00Z"
+    "from": "2026-10-24T07:00:00Z",
+    "to": "2026-10-24T09:00:00Z"
   },
   "insights": {
-    "headline": "Gold holds above $4,000 into the weekend as India asks whether prices rebound before Diwali",
-    "summary": "Bullion ended a bruising week just above $4,000. Gold dipped below the round number on Friday for the first time since late July — settling at $3,997.48 — before recovering toward $4,030, but it remains on course for a second straight weekly loss. India's physical market looks soft: the September gold import bill collapsed to $1.8 billion from $9.61 billion a year earlier, Dussehra purchases ran 7–10% below last year and IBJA expects October sales down 11% YoY. Brent above $110 and hardening expectations that the Fed stays hawkish at its October 27–28 meeting drove the selloff.",
+    "headline": "Gold closes a bruising week near $4,000 as oil-driven rate fears outweigh festive buying",
+    "summary": "Gold and silver ended the week sharply lower after crude oil's surge to multiyear highs revived inflation worries and bets that the Federal Reserve will keep rates higher for longer. Spot gold traded near $4,000 after touching its lowest since July, while silver slid to its lowest in nearly a year on the MCX. In India, lower prices drew festive buyers out for Dussehra, but dealers said demand stayed below last year's levels and imports stayed soft. The RBI, meanwhile, leaned on a record forward book to steady the rupee as oil pressure mounted.",
     "points": [
-      "Spot gold settled Friday at $3,997.48, below $4,000 at the close for the first time since mid-July, after an earlier rebound toward $4,030.",
-      "India's September gold import bill collapsed to $1.8 billion from $9.61 billion a year earlier — higher duties, weak demand and recycled supply.",
-      "IBJA says Dussehra purchases were 7–10% below last year; October retail gold sales are expected to fall 11% YoY despite festive buying.",
-      "MCX December gold lost 0.86% to ₹1.42 lakh per 10g; December silver fell 2.1% to ₹1.95 lakh per kg, holding below ₹2 lakh.",
-      "Brent above $110 revived inflation fears and hawkish Fed bets ahead of the October 27–28 meeting; silver futures hit their lowest close in almost a year."
+      "Spot gold ended the week near $4,000, down more than 3.5% for its steepest weekly fall since June.",
+      "MCX silver fell to ₹1,95,408 per kg, an 11-month low, as crude-fuelled inflation fears hit metals.",
+      "Dussehra buying lifted Indian dealer premiums to up to $9 an ounce, though demand trailed last year.",
+      "The RBI's net forward dollar sales hit a record $200.06 billion in August as it steadied the rupee.",
+      "India permitted large silver imports despite weak domestic demand, Reuters reported."
     ]
   },
   "trending": [
     {
-      "title": "The $4,000 line is a battleground, not a floor",
-      "summary": "Gold fell through $4,000 on Friday for the first time since late July, then recovered toward $4,030 — still set for a second weekly loss, with the Fed's October 27–28 meeting the next catalyst.",
+      "title": "Oil shock drives the metals rout",
+      "summary": "Crude above $116 on Middle East tensions revived inflation fears and higher-for-longer Fed bets, pushing gold and silver to steep weekly losses despite the usual haven bid.",
       "item_ids": [
-        "8b46633a4606601e",
-        "00bc6ea416cfa2e9",
-        "7aa0c225c688798d"
+        "c6554e082f351655",
+        "7aa0c225c688798d",
+        "effade372230e1fc"
       ]
     },
     {
-      "title": "India's import collapse is the festival story now",
-      "summary": "September gold imports fell to $1.8B from $9.61B a year ago and Dussehra buys trailed last year by 7–10% — while India cleared 6,500 tonnes of silver imports into weak demand.",
+      "title": "Festive demand: better, but not back",
+      "summary": "Dussehra buying picked up as prices fell, yet October gold sales are still expected down 11% on last year and imports remain soft into Diwali.",
       "item_ids": [
-        "00bc6ea416cfa2e9",
+        "4d72d2264e1a864f",
         "96a3e33efe37453b",
+        "00bc6ea416cfa2e9"
+      ]
+    },
+    {
+      "title": "Silver's slide outpaces gold",
+      "summary": "Silver fell to an 11-month low on the MCX and its lowest futures levels of the year, a deeper rout than gold's, even as India cleared large silver imports.",
+      "item_ids": [
+        "175c778e577884ae",
+        "1add263b35761f02",
+        "effade372230e1fc",
         "f641fa868150e382"
       ]
     },
     {
-      "title": "Diwali demand vs the price crash",
-      "summary": "Chennai gold rates crashed this week and IBJA expects October sales down 11% YoY — the question for Indian buyers is whether prices steady or rebound before Diwali.",
+      "title": "Rupee defence goes through forwards",
+      "summary": "The RBI absorbed record August dollar inflows with swaps, pushing its net forward dollar sales to a record $200.06 billion rather than spending reserves.",
       "item_ids": [
-        "ade74ce3a0d12f6e",
-        "96a3e33efe37453b"
-      ]
-    },
-    {
-      "title": "Silver is taking the harder fall",
-      "summary": "Silver futures hit their lowest close in almost a year in New York and MCX silver stayed below ₹2 lakh — a deeper rout than gold's, with industrial demand and haven flows pulling both ways.",
-      "item_ids": [
-        "effade372230e1fc",
-        "47dbb28fa3de5ada",
-        "1add263b35761f02"
+        "a05ac18c35be3dfe"
       ]
     }
   ],
   "items": [
+    {
+      "id": "c6554e082f351655",
+      "title": "Gold, silver extend weekly losses as Hormuz tensions push crude above $116",
+      "summary": "Spot gold slipped to about $3,996 an ounce late Friday and silver to about $53.90, extending a week of heavy selling. Gold headed for a weekly fall of more than 3.5% as Middle East tensions pushed crude to multiyear highs, feeding expectations that the Federal Reserve will keep policy restrictive. Strong US business activity and rising inflation expectations added to the pressure on both metals.",
+      "url": "https://www.kitco.com/news/article/2026-10-23/gold-silver-extend-weekly-losses-hormuz-tensions-push-crude-above-116-kitco",
+      "source": "Kitco",
+      "source_domain": "kitco.com",
+      "publisher_id": "kitco",
+      "published_at": "2026-10-23T21:30:50Z",
+      "image_url": "https://image-api.prod.kitco.com/image/5768df25-c265-4c2d-a489-e51917a45667.jpeg?top=0&left=0&width=1024&height=576&scale_width=1920&token=a51c68ac263c91daaa3ab64d911fd1760563231366b3715159ce82243f499495",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 1
+    },
     {
       "id": "8b46633a4606601e",
       "title": "Gold edges back above $4,030 after dipping below $4,000 to a three-month low",
@@ -79,7 +104,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 1
+      "rank": 2
     },
     {
       "id": "00bc6ea416cfa2e9",
@@ -105,89 +130,80 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 2
-    },
-    {
-      "id": "47dbb28fa3de5ada",
-      "title": "Gold declines over ₹1,000 per 10 grams, silver tumbles ₹4,191 per kg on MCX",
-      "summary": "Gold and silver fell in domestic futures trade on Friday, October 23. On the MCX, December silver dropped ₹4,191 (2.1%) to ₹1.95 lakh per kg and December gold lost ₹1,230 (0.86%) to ₹1.42 lakh per 10 grams. PTI reports rising crude on West Asia supply fears and longer-elevated US rate expectations pressured bullion; spot silver fell to $54.01/oz and gold futures to $4,014.23/oz in New York.",
-      "url": "https://www.7globe.in/gold-declines-over-%e2%82%b91000-per-10-grams-silver-tumbles-%e2%82%b94191-per-kg-on-mcx/",
-      "source": "7Globe",
-      "source_domain": "7globe.in",
-      "publisher_id": "7globe",
-      "published_at": "2026-10-23T07:16:35Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "india",
-        "fed"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": [],
       "rank": 3
     },
     {
-      "id": "fe15669a5c8fe6a0",
-      "title": "Crude oil surges, gold and silver plunge on the weekly chart [Overnight Market]",
-      "summary": "SMM's overnight review: COMEX gold fell 1.24% to close a weekly decline of 4.09% — its biggest weekly fall in over four months — while COMEX silver dropped 1.9% for a 5.84% weekly loss. The most-traded Shanghai gold contract lost 0.87% on the week and silver 1.05%, its fifth straight weekly fall. SMM ties the rout to surging crude and strong US data reinforcing higher-for-longer Fed bets.",
-      "url": "https://news.metal.com/newscontent/104176874-crude-oil-surges-base-metals-broadly-rise-lme-zinc-leads-the-gains-lme-copper-shfe-aluminum-and-shfe-tin-post-top-gains-gold-and-silver-plunge-on-the-weekly-chart-overnight-market",
-      "source": "Shanghai Metals Market",
-      "source_domain": "news.metal.com",
-      "publisher_id": "shanghai-metals-market",
-      "published_at": "2026-10-24T01:21:00Z",
-      "image_url": null,
-      "image_kind": "none",
+      "id": "175c778e577884ae",
+      "title": "Silver hits 11-month low of ₹1.95 lakh as crude stokes inflation fears",
+      "summary": "Silver futures on the MCX fell ₹4,191 to ₹1,95,408 per kilogram on Friday, an 11-month low, as participants cut bets. Globally the white metal traded about 1% lower near $54.01 an ounce. Analysts linked the slide to surging crude oil, which has stoked inflation worries and expectations that interest rates stay higher for longer.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-hits-11-month-low-of-1-95-lakh-as-crude-stokes-inflation-fears/articleshow/135161699.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-10-23T18:03:12Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/175c778e577884ae.jpg",
+      "image_kind": "photo",
       "tags": [
-        "gold",
         "silver",
-        "comex",
-        "fed",
-        "global"
+        "mcx",
+        "india"
       ],
-      "category": "global",
+      "category": "mcx",
       "metals": [
-        "gold",
         "silver"
       ],
       "breaking": false,
-      "related_urls": [],
       "rank": 4
     },
     {
-      "id": "ade74ce3a0d12f6e",
-      "title": "Gold rates in Chennai city crash this week: Can yellow metal rebound ahead of Diwali - Key levels to watch in future?",
-      "summary": "Gold prices in Chennai fell sharply this week, Mint reports, and the piece asks whether the yellow metal can rebound ahead of Diwali. It walks through the key price levels to watch in gold futures as the festival season approaches.",
-      "url": "https://www.livemint.com/market/commodities/gold-rates-in-chennai-city-crash-this-week-can-yellow-metal-rebound-ahead-of-diwali-key-levels-to-watch-in-future-11792820547953.html",
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "publisher_id": "mint",
-      "published_at": "2026-10-24T06:37:55Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/ade74ce3a0d12f6e.jpg",
+      "id": "4d72d2264e1a864f",
+      "title": "India gold demand strengthens on lower prices, festive purchases",
+      "summary": "Gold buying picked up in India this week as lower prices during Dussehra encouraged purchases and lifted dealer premiums to up to $9 an ounce from $7 last week. Jewellers reported packed stores for the festival, though dealers said demand remained well below last year's levels. Spot gold hit its lowest since July 20 during a week set for its steepest loss since June.",
+      "url": "https://www.mining.com/web/india-gold-demand-strengthens-on-lower-prices-festive-purchases/",
+      "source": "MINING.COM",
+      "source_domain": "mining.com",
+      "publisher_id": "mining-com",
+      "published_at": "2026-10-23T16:03:51Z",
+      "image_url": "https://www.mining.com/wp-content/uploads/2026/04/AdobeStock_1856532804-scaled-e1776958256136.jpeg",
       "image_kind": "photo",
       "tags": [
         "gold",
         "india",
-        "mcx"
+        "jewellery"
       ],
       "category": "festive",
       "metals": [
         "gold"
       ],
       "breaking": false,
-      "related_urls": [],
       "rank": 5
     },
     {
+      "id": "a05ac18c35be3dfe",
+      "title": "RBI’s forward dollar sales surge to record $200 billion in August",
+      "summary": "The RBI's net forward dollar sales position climbed to a record $200.06 billion at the end of August from $136.77 billion in July, central bank bulletin data showed. The central bank also made record net spot purchases of $43.26 billion in August as it absorbed inflows from deposit schemes, balancing the flows with swaps.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-net-forex-buys-hit-a-record-43-billion-in-august-balances-it-with-swaps/articleshow/135159794.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-10-24T02:20:15Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/a05ac18c35be3dfe.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "rupee",
+        "rbi"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 6
+    },
+    {
       "id": "7aa0c225c688798d",
-      "rank": 6,
+      "rank": 7,
       "title": "Gold drops below $4,000 as 'haven' asset joins market sell-off",
       "summary": "Gold fell below $4,000 an ounce on Friday, its first move beneath that level since late July, as a tech-led equity selloff forced investors to raise cash and swept even the haven asset into the retreat. Spot recovered to about $4,015 but remains on course for its weakest weekly performance since June after a near-3% Thursday slide, with money flowing into Treasuries instead of bullion.",
       "url": "https://www.ft.com/content/5a6e15e9-249d-4d59-a140-c51302930a9f",
@@ -213,7 +229,7 @@
     },
     {
       "id": "effade372230e1fc",
-      "rank": 7,
+      "rank": 8,
       "title": "Silver Futures Fall to Lowest This Year as Oil Prices Fuel Inflation Risks",
       "summary": "Silver futures fell 4.6% in New York to $54.76 an ounce on Thursday — their lowest close in almost a year and 52% below January's record — as Brent crude above $110 revived inflation fears and US rate-hike bets. Front-month gold fell 2.1% to $4,042.80, its weakest close since August 3.",
       "url": "https://www.wsj.com/finance/commodities-futures/silver-futures-fall-to-lowest-this-year-as-oil-prices-fuel-inflation-risks-f013e561",
@@ -238,58 +254,8 @@
       "related_urls": []
     },
     {
-      "id": "f3bf3f22853f4f0a",
-      "rank": 8,
-      "title": "Gold Futures Face Heavy Weekly Losses as Iran War and Fed Decision Loom",
-      "summary": "Gold futures are headed for heavy weekly losses as the US-Iran standoff over the Strait of Hormuz keeps crude near five-month highs, reviving inflation fears and hardening bets that the Fed stays hawkish at its October 27–28 meeting and could tighten further in December. Elevated energy prices are raising the opportunity cost of non-yielding bullion, keeping a lid on any safe-haven bid.",
-      "url": "https://www.investing.com/analysis/gold-futures-face-heavy-weekly-losses-as-iran-war-and-fed-decision-loom-200690163",
-      "source": "Investing.com",
-      "source_domain": "investing.com",
-      "publisher_id": "investing",
-      "published_at": "2026-10-23T15:11:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "global",
-        "fed"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "related_urls": []
-    },
-    {
-      "title": "India permits large silver imports despite weak domestic demand",
-      "url": "https://www.reuters.com/world/india/india-permits-large-silver-imports-despite-weak-domestic-demand-2026-10-22/",
-      "source": "Reuters",
-      "source_domain": "reuters.com",
-      "publisher_id": "reuters",
-      "category": "policy",
-      "metals": [
-        "silver"
-      ],
-      "published_at": "2026-10-22T11:15:40Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "silver",
-        "india",
-        "import-duty"
-      ],
-      "summary": "India has issued permits to import around 6,500 metric tonnes of silver over the next six months for festive-season demand, four bullion dealers told Reuters — the first big allocation since May's curbs. The surprise move comes as domestic demand stays weak amid falling prices. Higher imports could support global silver prices while easing premiums, which fell to $0.45/oz from $2.50 last week.",
-      "id": "f641fa868150e382",
-      "related_urls": [
-        "https://www.business-standard.com/economy/news/silver-inflows-likely-to-rebound-as-import-curbs-eased-for-diwali-126102201737_1.html"
-      ],
-      "rank": 9,
-      "breaking": false
-    },
-    {
       "id": "1add263b35761f02",
-      "rank": 10,
+      "rank": 9,
       "title": "Silver crashes ₹8,590/kg to a 7-month low; gold hits 2-month low. What's driving the selloff in precious metals",
       "summary": "MCX silver's December contract plunged ₹8,593 a kg to ₹2,00,575 — a seven-month low — while MCX gold fell ₹2,300 per 10 grams to ₹1,43,600, a two-month low. Middle East escalation pushed Brent crude up 3.3% to $112.38, stoking expectations of further US Fed rate hikes; traders price an 86% chance of a December hike. Gold and silver are down 3.3% and 10% so far this month.",
       "url": "https://www.livemint.com/market/stock-market-news/silver-crashes-rs-8-590-per-kilo-to-7-month-low-gold-hits-2-month-low-what-s-driving-the-selloff-in-precious-metals-11792676479559.html",
@@ -316,6 +282,32 @@
       ]
     },
     {
+      "title": "India permits large silver imports despite weak domestic demand",
+      "url": "https://www.reuters.com/world/india/india-permits-large-silver-imports-despite-weak-domestic-demand-2026-10-22/",
+      "source": "Reuters",
+      "source_domain": "reuters.com",
+      "publisher_id": "reuters",
+      "category": "policy",
+      "metals": [
+        "silver"
+      ],
+      "published_at": "2026-10-22T11:15:40Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "silver",
+        "india",
+        "import-duty"
+      ],
+      "summary": "India has issued permits to import around 6,500 metric tonnes of silver over the next six months for festive-season demand, four bullion dealers told Reuters — the first big allocation since May's curbs. The surprise move comes as domestic demand stays weak amid falling prices. Higher imports could support global silver prices while easing premiums, which fell to $0.45/oz from $2.50 last week.",
+      "id": "f641fa868150e382",
+      "related_urls": [
+        "https://www.business-standard.com/economy/news/silver-inflows-likely-to-rebound-as-import-curbs-eased-for-diwali-126102201737_1.html"
+      ],
+      "rank": 10,
+      "breaking": false
+    },
+    {
       "id": "96a3e33efe37453b",
       "title": "Gold sales may fall 11% YoY in October despite festive buying",
       "summary": "India's retail gold sales are expected to fall 11% year-on-year in October 2026 despite improved festive and wedding-related buying, the India Bullion and Jewellers Association told Moneycontrol. IBJA's Surendra Mehta said he does not expect a significant demand recovery in the coming weeks. Gold traded at ₹1,43,447 per 10 grams on October 22, above last year's festive-season prices.",
@@ -340,33 +332,8 @@
       "rank": 11
     },
     {
-      "id": "5ec59d59bf6e97d0",
-      "rank": 12,
-      "title": "Rupee little changed this week as oil-fueled declines wipe out early gains",
-      "summary": "The rupee ended the week little changed as early gains were wiped out by oil-fueled declines, with Brent at a five-month peak reviving importer dollar demand. It briefly touched a six-week high of 94.30 per dollar on Thursday after the RBI's latest FX measures unwound dollar-long positions, then slipped back. The RBI also tightened scrutiny of $1-billion-plus overseas investments.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-little-changed-this-week-as-oil-fueled-declines-wipe-out-early-gains/articleshow/135142602.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "publisher_id": "economic-times",
-      "published_at": "2026-10-23T10:17:21Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "mcx",
-        "rupee",
-        "rbi"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "related_urls": []
-    },
-    {
       "id": "357010b378e89f30",
-      "rank": 13,
+      "rank": 12,
       "title": "Central banks pile into gold as China leads buying spree",
       "summary": "Central banks bought an estimated 79 tonnes of gold in August — nearly five times the pre-2022 average — led by China, Goldman Sachs estimates. China's purchases are put at about 25 tonnes versus an official print of roughly 20 tonnes, extending its dollar-diversification buying streak. Goldman says elevated official demand should keep gold supported over the long term.",
       "url": "https://www.mining.com/central-banks-pile-into-gold-as-china-leads-buying-spree/",
@@ -390,7 +357,7 @@
     },
     {
       "id": "65b9b16499fd12d8",
-      "rank": 14,
+      "rank": 13,
       "title": "Studded gold jewellery exports jump 31%: How trade agreements are helping Indian exporters",
       "summary": "India's studded gold jewellery exports rose 31.31% year-on-year to $3.69 billion in the first half of FY27, helped by better trade access and lower US tariffs, even as plain gold jewellery exports were weighed down by high prices and weak West Asia demand.",
       "url": "https://www.businesstoday.in/latest/economy/story/studded-gold-jewellery-exports-jump-31-how-trade-agreements-are-helping-indian-exporters-563151-2026-10-23",
@@ -415,7 +382,7 @@
     },
     {
       "id": "d38f4cebfd7af470",
-      "rank": 15,
+      "rank": 14,
       "title": "BlueStone Jewellery Shares Drop 13% After Q2 Loss Reported",
       "summary": "BlueStone Jewellery posted a consolidated net loss of Rs 4.4 crore for Q2 FY27, back in the red after a Rs 6-crore profit in the previous quarter, though the loss narrowed sharply from Rs 52.1 crore a year ago. Revenue rose 45% to Rs 745 crore, but the miss sent the stock down as much as 12.8% intraday to Rs 663 before a recovery to about Rs 701, down roughly 7.8%, on about two million shares.",
       "url": "https://datastreet.in/bluestone-jewellery-stock-plunges-13-as-firm-swings-back-to-losses-in-q2",
@@ -432,29 +399,6 @@
         "jewellery"
       ],
       "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "related_urls": []
-    },
-    {
-      "id": "4cc277bced7ecf78",
-      "rank": 16,
-      "title": "From mercury to gold? This San Francisco startup claims it can produce yellow metal at will",
-      "summary": "San Francisco startup Marathon Fusion says it has converted mercury into stable gold using fusion-generated neutrons — nuclear transmutation — at ten times the rate of CERN's 2025 record. The company has not disclosed how much gold it produced, so the commercial significance is unclear; the claim revives a debate usually confined to alchemy and accelerator labs.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/from-mercury-to-gold-this-san-francisco-startup-claims-it-can-produce-yellow-metal-at-will/articleshow/135140759.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "publisher_id": "economic-times",
-      "published_at": "2026-10-23T09:05:13Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "global"
-      ],
-      "category": "global",
       "metals": [
         "gold"
       ],
