@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-25T08:00Z",
-  "generated_at": "2026-10-25T08:09:48Z",
+  "edition_id": "2026-10-25T09:00Z",
+  "generated_at": "2026-10-25T09:03:15Z",
   "window": {
-    "from": "2026-10-25T06:00:00Z",
-    "to": "2026-10-25T08:00:00Z"
+    "from": "2026-10-25T08:00:00Z",
+    "to": "2026-10-25T09:00:00Z"
   },
   "insights": {
     "headline": "MCX gold is down over ₹38,600 from its January record as the $4,000 line and the Fed meeting come into focus",
@@ -24,8 +24,7 @@
       "item_ids": [
         "c6554e082f351655",
         "08160660f56323a9",
-        "8b46633a4606601e",
-        "7aa0c225c688798d"
+        "8b46633a4606601e"
       ]
     },
     {
@@ -416,15 +415,14 @@
       "rank": 15
     },
     {
-      "id": "7aa0c225c688798d",
-      "rank": 16,
-      "title": "Gold drops below $4,000 as 'haven' asset joins market sell-off",
-      "summary": "Gold fell below $4,000 an ounce on Friday, its first move beneath that level since late July, as a tech-led equity selloff forced investors to raise cash and swept even the haven asset into the retreat. Spot recovered to about $4,015 but remains on course for its weakest weekly performance since June after a near-3% Thursday slide, with money flowing into Treasuries instead of bullion.",
-      "url": "https://www.ft.com/content/5a6e15e9-249d-4d59-a140-c51302930a9f",
-      "source": "Financial Times",
-      "source_domain": "ft.com",
-      "publisher_id": "financial-times",
-      "published_at": "2026-10-23T14:37:46Z",
+      "id": "9a94f594410bc865",
+      "title": "Will gold hit $5,000 again? What experts expect for 2027",
+      "summary": "Gold passed $5,000 in January but has pulled back to near $4,000, and experts cited by USA Today say a return above $5,000 is unlikely in 2026 while the dollar stays strong and rates stay high. Some expect gold to surpass $5,000 again in 2027, supported by central-bank buying and weakening confidence in the dollar, while India's curbs on gold buying are cited as a drag on global demand.",
+      "url": "https://www.usatoday.com/story/money/investing/2026/06/24/will-gold-hit-5000/90667077007/",
+      "source": "USA Today",
+      "source_domain": "usatoday.com",
+      "publisher_id": "usa-today",
+      "published_at": "2026-10-25T08:21:28Z",
       "image_url": null,
       "image_kind": "none",
       "tags": [
@@ -435,7 +433,8 @@
       "metals": [
         "gold"
       ],
-      "breaking": false
+      "breaking": false,
+      "rank": 16
     },
     {
       "id": "357010b378e89f30",

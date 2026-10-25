@@ -1,4 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-10-25T08:00Z
+# Gold & Silver for Indian buyers · 2026-10-25T09:00Z
 
 > MCX gold is down over ₹38,600 from its January record as the $4,000 line and the Fed meeting come into focus
 
@@ -11,7 +11,7 @@ Spot gold finished Friday near $3,996 and silver near $54 after a week of heavy 
 - UBS keeps a constructive medium-term silver view, with a price path to $80 by September 2027, citing a sixth straight annual deficit.
 
 ## Trending
-- **The $4,000 line under pressure**: Gold slipped below $4,000 during the week and clawed back above $4,030, leaving July's low and the Fed meeting as the next tests. (stories 1, 3, 15, 16)
+- **The $4,000 line under pressure**: Gold slipped below $4,000 during the week and clawed back above $4,030, leaving July's low and the Fed meeting as the next tests. (stories 1, 3, 15)
 - **Diwali meets a correction**: Indian gold is down sharply from its January record, festive buying is picking up on lower prices, but imports into the season have slumped. (stories 2, 11, 13)
 - **Silver's air pocket**: Silver fell below ₹2 lakh in India and near $54 globally; UBS still maps a recovery path, but the near-term trend stays weak. (stories 5, 8, 10, 18)
 - **Central banks split**: China extended its gold buying streak while Russia sold, leaving central-bank demand split even as prices fell. (stories 9, 17)
@@ -47,8 +47,8 @@ Spot gold finished Friday near $3,996 and silver near $54 after a week of heavy 
    Delivery activity on Comex has gone quiet, SchiffGold's update finds: November gold open interest sits near multi-year lows, the exodus of gold from Comex vaults has paused and partly reversed, and silver notional delivery volumes are about half last October's level. The piece links the soft physical bid to gold's continued slide.
 15. [Gold edges back above $4,030 after dipping below $4,000 to a three-month low](https://qazinform.com/news/gold-edges-up-after-tipping-three-month-low-37afdc/) — *Qazinform*, 2026-10-24T02:01:00Z
    Gold recovered to $4,030.67 an ounce on Friday, October 23, after touching $3,986.50 — its lowest in more than three months — but remains on course for a second straight weekly loss as oil-driven inflation fears and hawkish Fed bets kept pressure on bullion. Silver slid another 1.3% to $53.81 an ounce, while platinum slipped to $1,557.03 and palladium to $1,050.50, WAM reported.
-16. [Gold drops below $4,000 as 'haven' asset joins market sell-off](https://www.ft.com/content/5a6e15e9-249d-4d59-a140-c51302930a9f) — *Financial Times*, 2026-10-23T14:37:46Z
-   Gold fell below $4,000 an ounce on Friday, its first move beneath that level since late July, as a tech-led equity selloff forced investors to raise cash and swept even the haven asset into the retreat. Spot recovered to about $4,015 but remains on course for its weakest weekly performance since June after a near-3% Thursday slide, with money flowing into Treasuries instead of bullion.
+16. [Will gold hit $5,000 again? What experts expect for 2027](https://www.usatoday.com/story/money/investing/2026/06/24/will-gold-hit-5000/90667077007/) — *USA Today*, 2026-10-25T08:21:28Z
+   Gold passed $5,000 in January but has pulled back to near $4,000, and experts cited by USA Today say a return above $5,000 is unlikely in 2026 while the dollar stays strong and rates stay high. Some expect gold to surpass $5,000 again in 2027, supported by central-bank buying and weakening confidence in the dollar, while India's curbs on gold buying are cited as a drag on global demand.
 17. [Central banks pile into gold as China leads buying spree](https://www.mining.com/central-banks-pile-into-gold-as-china-leads-buying-spree/) — *MINING.COM*, 2026-10-23T15:22:07Z
    Central banks bought an estimated 79 tonnes of gold in August — nearly five times the pre-2022 average — led by China, Goldman Sachs estimates. China's purchases are put at about 25 tonnes versus an official print of roughly 20 tonnes, extending its dollar-diversification buying streak. Goldman says elevated official demand should keep gold supported over the long term.
 18. [Could silver rebound in 2027? What experts predict will happen next](https://www.usatoday.com/story/money/money-management/investing/will-silver-hit-100-again/90530149007/) — *USA Today*, 2026-10-23T16:33:00Z
