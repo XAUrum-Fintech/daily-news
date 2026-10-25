@@ -1,19 +1,19 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-25T10:00Z",
-  "generated_at": "2026-10-25T10:03:35Z",
+  "edition_id": "2026-10-25T11:00Z",
+  "generated_at": "2026-10-25T11:04:30Z",
   "window": {
-    "from": "2026-10-25T09:00:00Z",
-    "to": "2026-10-25T10:00:00Z"
+    "from": "2026-10-25T10:00:00Z",
+    "to": "2026-10-25T11:00:00Z"
   },
   "insights": {
     "headline": "MCX gold is down over ₹38,600 from its January record as the $4,000 line and the Fed meeting come into focus",
-    "summary": "Spot gold finished Friday near $3,996 and silver near $54 after a week of heavy selling driven by crude above $116, a firm dollar and expectations that the Federal Reserve will stay restrictive. In India, MCX gold has fallen more than ₹38,600 from its 29 January record to ₹1,42,024 per 10 grams, and silver fell to an 11-month low near ₹1.95 lakh per kg. Festive buying picked up on lower prices even as gold imports slumped, while several fund houses’ halt on fresh gold ETF fund-of-fund investments stays in force. Central banks are split: China extended its buying streak while Russia sold.",
+    "summary": "Spot gold finished Friday near $3,996 and silver near $54 after a week of heavy selling driven by crude near $120, a firm dollar and expectations that the Federal Reserve will stay restrictive. In India, MCX gold has fallen more than ₹38,600 from its 29 January record to ₹1,42,024 per 10 grams, and silver hit its weakest finish of 2026 at $53.83. Festive buying picked up on lower prices even as gold imports slumped, while several fund houses' halt on fresh gold ETF fund-of-fund investments stays in force. Central banks are split: China extended its buying streak while Russia sold.",
     "points": [
       "Spot gold traded around $3,996 and silver near $54 after weekly falls of over 3.5% and about 7.8%.",
       "MCX gold is down over ₹38,600 from its January record of ₹1,80,779, settling at ₹1,42,024 per 10 grams.",
-      "Silver hit an 11-month low near ₹1.95 lakh per kg in India; fresh gold ETF fund-of-fund investments stay halted at several fund houses.",
-      "Crude above $116 and firm US business data keep Fed-tightening bets alive ahead of the October 27-28 meeting.",
+      "Silver closed Friday at $53.83, its weakest finish of 2026, after losing nearly 56% from its January record.",
+      "Crude near $120 keeps Fed-tightening bets alive ahead of the October 27-28 meeting; economists see India's growth trimming to 7.0%.",
       "UBS keeps a constructive medium-term silver view, with a price path to $80 by September 2027, citing a sixth straight annual deficit."
     ]
   },
@@ -38,12 +38,13 @@
     },
     {
       "title": "Silver's air pocket",
-      "summary": "Silver fell below ₹2 lakh in India and near $54 globally; UBS still maps a recovery path, but the near-term trend stays weak.",
+      "summary": "Silver fell below ₹2 lakh in India and to a 2026 low near $54 globally, with traders positioned for further falls; UBS still maps a recovery path, but the near-term trend stays weak.",
       "item_ids": [
         "a69aef3613b5e208",
         "175c778e577884ae",
         "cd51361fca8cebc7",
-        "87d5ef1d84e823c2"
+        "87d5ef1d84e823c2",
+        "7c3a146fab9ad9e4"
       ]
     },
     {
@@ -52,6 +53,14 @@
       "item_ids": [
         "6ef0aa1dc1b7ccd0",
         "357010b378e89f30"
+      ]
+    },
+    {
+      "title": "Crude's $120 shadow",
+      "summary": "Brent near $120 is the thread running through the metals sell-off: it feeds inflation worries, keeps Fed-tightening bets alive, and trims India's growth outlook even as fiscal cushions hold.",
+      "item_ids": [
+        "408d5b6156dfa6ce",
+        "c6554e082f351655"
       ]
     }
   ],
@@ -106,6 +115,29 @@
       "rank": 2
     },
     {
+      "id": "7c3a146fab9ad9e4",
+      "title": "Silver Price Hits 2026 Low. Will It Crash Further?",
+      "summary": "Silver closed Friday at $53.83, its weakest finish of 2026 and down nearly 56% from its January record of $121.74, as traders positioned for further falls. Funds sold $2.2 billion of silver futures in the three weeks to October 13. Technical analyst Kev_Capital_TA put $52-$55 as critical support; India authorised about 6,500 tonnes of festive silver imports, but buyers stayed hesitant.",
+      "url": "https://beincrypto.com/silver-price-2026-low-crowded-shorts/",
+      "source": "BeInCrypto",
+      "source_domain": "beincrypto.com",
+      "publisher_id": "beincrypto",
+      "published_at": "2026-10-25T10:31:25Z",
+      "image_url": "https://assets.beincrypto.com/img/NBpGm9V1sF1Py6Y76h7zudQTSLs=/1200x630/smart/filters:format(jpeg):quality(82)/b26f6fc8eef04ec88e86cf3824c22160",
+      "image_kind": "photo",
+      "tags": [
+        "silver",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 3
+    },
+    {
       "id": "08160660f56323a9",
       "title": "Gold prices break $4,000, putting a crucial July low to the test",
       "summary": "Spot gold finished Friday near $3,996 after slipping below $4,000, its worst week since June. Bank of America strategist Paul Ciana flagged July's $3,943 low as the next test, while oil-driven inflation worries and the Federal Reserve's October 27-28 meeting frame the week ahead.",
@@ -126,7 +158,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "20d0afd854dd48dd",
@@ -150,7 +182,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "a69aef3613b5e208",
@@ -173,7 +205,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "b21148aecc1bb80e",
@@ -198,7 +230,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "61a705d06d2afcfd",
@@ -221,11 +253,11 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "16a41bdf8f0b6fd9",
-      "rank": 8,
+      "rank": 9,
       "title": "Gold drops 3.28%, silver plunges 7.83% on weekly basis amid crude surge",
       "summary": "Gold fell 3.28% and silver 7.83% in the week ending October 24 as surging crude stoked inflation fears and hardened expectations of higher-for-longer US rates. MCX December gold closed at ₹1,42,150 per 10 grams and silver at ₹1,96,100 per kg, with gold below $4,000 for the first time since mid-July. Dussehra buying offered some support ahead of the Fed's October 27–28 meeting.",
       "url": "https://www.nationpress.com/business/gold-hits-3-month-low-silver-dives-78percent",
@@ -269,7 +301,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "6ef0aa1dc1b7ccd0",
@@ -292,7 +324,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "cd51361fca8cebc7",
@@ -314,7 +346,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 12
     },
     {
       "id": "4d72d2264e1a864f",
@@ -337,7 +369,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 13
     },
     {
       "id": "a05ac18c35be3dfe",
@@ -360,7 +392,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 13
+      "rank": 14
     },
     {
       "id": "00bc6ea416cfa2e9",
@@ -385,7 +417,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 15
     },
     {
       "id": "fe7c4454126c6cd7",
@@ -410,7 +442,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 15
+      "rank": 16
     },
     {
       "id": "9a94f594410bc865",
@@ -432,11 +464,11 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 16
+      "rank": 17
     },
     {
       "id": "357010b378e89f30",
-      "rank": 17,
+      "rank": 18,
       "title": "Central banks pile into gold as China leads buying spree",
       "summary": "Central banks bought an estimated 79 tonnes of gold in August — nearly five times the pre-2022 average — led by China, Goldman Sachs estimates. China's purchases are put at about 25 tonnes versus an official print of roughly 20 tonnes, extending its dollar-diversification buying streak. Goldman says elevated official demand should keep gold supported over the long term.",
       "url": "https://www.mining.com/central-banks-pile-into-gold-as-china-leads-buying-spree/",
@@ -478,7 +510,32 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 18
+      "rank": 19
+    },
+    {
+      "id": "408d5b6156dfa6ce",
+      "title": "Crude oil near $120, to intensify headwinds for economy, but tailwinds likely to reduce pressure",
+      "summary": "With Brent crude nearing $120 on Middle East tensions, economists flagged headwinds for India's economy but also cushions. EY India's D K Srivastava said crude could stay in a $115-$120 range; $20 above the RBI's $95 baseline would trim 2026-27 growth to 7.0% from 7.1% and lift CPI inflation to 5.7% from 5.2%. A Rs 2.87 lakh crore RBI dividend keeps the 4.3% deficit target within reach.",
+      "url": "https://www.thehindubusinessline.com/economy/crude-oil-near-120-to-intensify-headwinds-for-economy-but-tailwinds-likely-to-reduce-pressure/article71623034.ece",
+      "source": "The Hindu BusinessLine",
+      "source_domain": "thehindubusinessline.com",
+      "publisher_id": "hindu-businessline",
+      "published_at": "2026-10-25T10:46:26Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "silver",
+        "india",
+        "rbi"
+      ],
+      "category": "policy",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 20
     }
   ]
 }
