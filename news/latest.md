@@ -1,21 +1,21 @@
-# Gold & Silver for Indian buyers · 2026-10-25T14:00Z
+# Gold & Silver for Indian buyers · 2026-10-25T16:00Z
 
-> Gold heads into the Fed meeting under pressure as crude stays high
+> Gold below $4,000 heads into the Fed's October 27–28 meeting as crude holds high
 
-Gold and silver head into the Federal Reserve's October 27-28 meeting under pressure after a week of heavy selling, with Brent crude above $117 keeping inflation worries and tighter-policy bets alive. Comex gold futures closed the week at $4,007.90 after briefly slipping to $3,989, and silver futures settled at $53.95, while MCX gold fell nearly 4% to about ₹1.42 lakh per 10 grams. Yet demand signals are broadening: speculators cut gold longs even as China, Indian buyers and ETFs kept buying, and festive demand picked up on lower prices even as gold imports slumped.
+Gold and silver closed the week at multi-month lows, with spot gold near $3,996 an ounce and MCX gold at about ₹1.42 lakh per 10 grams, as surging crude kept expectations of higher-for-longer US rates in play. Silver slipped below ₹2 lakh per kg on MCX for the first time since December 2025. All eyes are now on the Federal Reserve's October 27–28 meeting, while India's festive demand stays soft and Senco Gold moved to buy a majority stake in online jeweller Melorra.
 
-- Comex gold futures fell 4.14% on the week to $4,007.90 after briefly touching $3,989; silver futures fell nearly 6% to $53.95.
-- MCX gold fell ₹5,768 on the week to about ₹1.42 lakh per 10 grams; silver shed 7.14% to ₹1.96 lakh per kg.
-- Brent above $117 keeps Fed-tightening bets alive into the October 27-28 meeting, with ECB and Bank of Japan decisions also due.
-- Speculators cut gold net-longs by 8,014 to 199,865 even as China added 23 tonnes in September and Indian gold ETFs drew ₹17.22 billion in early October.
-- Festive demand picked up on lower prices even as gold imports slumped into the season.
+- Spot gold near $3,996 and silver near $53.90 after gold's steepest weekly loss since June.
+- MCX December gold at ₹1,42,024 per 10 grams; silver at ₹1,95,719 per kg.
+- Crude above $116, nearing $120, keeps inflation and rate-hike fears in play.
+- Fed meets October 27–28; traders largely expect rates on hold, with a December hike still priced.
+- Senco Gold to buy 68% of Melorra's parent for ₹68 crore, targeting younger online buyers.
 
 ## Trending
-- **The Fed meeting is the next test**: Gold and silver head into the October 27-28 Fed meeting under pressure, with Brent above $117 feeding tightening bets and a hawkish tone threatening a deeper correction. (stories 2, 1, 5)
-- **Diwali meets a correction**: Indian gold is down sharply from its January record, festive buying is picking up on lower prices, but imports into the season have slumped. (stories 3, 14, 16)
-- **Silver's air pocket**: Silver fell below ₹2 lakh in India and to a 2026 low near $54 globally, with traders positioned for further falls; the near-term trend stays weak. (stories 8, 12, 4)
-- **Central banks split**: China extended its gold buying streak while Russia sold, leaving central-bank demand split even as prices fell. (stories 13, 19)
-- **Crude's shadow**: Brent above $117 is the thread running through the metals sell-off: it feeds inflation worries, keeps Fed-tightening bets alive, and trims India's growth outlook even as fiscal cushions hold. (stories 20, 2)
+- **Fed week decides the next leg**: With gold below $4,000 and crude high, the October 27–28 meeting and December-hike pricing frame the week ahead for bullion. (stories 2, 5, 10)
+- **Silver's slide runs deeper than gold's**: Silver fell about 7–8% on the week, hit a 2026 low of $53.83 and closed below ₹2 lakh per kg on MCX for the first time since December 2025. (stories 4, 8, 12)
+- **Festive demand stays soft into Diwali**: Gold is down over ₹38,600 from its January record, some gold ETF fund-of-funds have paused fresh inflows, and India's September gold import bill collapsed year on year. (stories 3, 9, 16)
+- **Central banks still split on gold**: China stretched its buying streak to a 23rd month while Russia sold, and broader demand signals point the other way from prices, with central-bank buying still strong. (stories 14, 6)
+- **Jewellers bet on digital**: Senco Gold's ₹68 crore deal for Melorra's parent shows listed jewellers chasing younger, online-first buyers ahead of the festive peak. (stories 13)
 
 ## Stories
 1. [Gold, silver extend weekly losses as Hormuz tensions push crude above $116](https://www.kitco.com/news/article/2026-10-23/gold-silver-extend-weekly-losses-hormuz-tensions-push-crude-above-116-kitco) — *Kitco*, 2026-10-23T21:30:50Z
@@ -42,10 +42,10 @@ Gold and silver head into the Federal Reserve's October 27-28 meeting under pres
    Gold fell 3.28% and silver 7.83% in the week ending October 24 as surging crude stoked inflation fears and hardened expectations of higher-for-longer US rates. MCX December gold closed at ₹1,42,150 per 10 grams and silver at ₹1,96,100 per kg, with gold below $4,000 for the first time since mid-July. Dussehra buying offered some support ahead of the Fed's October 27–28 meeting.
 12. [Silver hits 11-month low of ₹1.95 lakh as crude stokes inflation fears](https://economictimes.indiatimes.com/markets/commodities/news/silver-hits-11-month-low-of-1-95-lakh-as-crude-stokes-inflation-fears/articleshow/135161699.cms) — *Economic Times*, 2026-10-23T18:03:12Z
    Silver fell to an 11-month low near ₹1.95 lakh per kg in India, extending the week’s slide as surging crude revived inflation worries and kept expectations of higher-for-longer rates in play.
-13. [Central banks split over gold: Russia is selling, China is buying](https://www.euronews.com/2026/10/25/gold-market-and-central-banks-russia-kazakhstan-sell-as-poland-china-buy) — *Euronews*, 2026-10-25T06:58:33Z
+13. [Senco Gold to acquire 68% stake in August Jewellery for ₹68 crore](https://www.business-standard.com/companies/news/senco-gold-to-acquire-68-stake-in-august-jewellery-for-68-crore-126102500549_1.html) — *Business Standard*, 2026-10-25T14:16:02Z
+   Senco Gold has signed definitive agreements to buy a 68% stake in August Jewellery, the company behind online jewellery brand Melorra, for ₹68 crore in tranches. With a promoter-group entity also investing, the total holding will reach 79% and August Jewellery will become a Senco subsidiary, with completion targeted by February 2027.
+14. [Central banks split over gold: Russia is selling, China is buying](https://www.euronews.com/2026/10/25/gold-market-and-central-banks-russia-kazakhstan-sell-as-poland-china-buy) — *Euronews*, 2026-10-25T06:58:33Z
    China stretched its gold-buying streak to a 23rd straight month with a 740,000-ounce September purchase, its largest since September 2023, while Russia has sold 56 tonnes this year, World Gold Council data show. Poland, the year's biggest buyer, and Kazakhstan sit on the buying side of a split that shows official demand is far from one-directional even as prices correct.
-14. [India gold demand strengthens on lower prices, festive purchases](https://www.mining.com/web/india-gold-demand-strengthens-on-lower-prices-festive-purchases/) — *MINING.COM*, 2026-10-23T16:03:51Z
-   Gold buying picked up in India this week as lower prices during Dussehra encouraged purchases and lifted dealer premiums to up to $9 an ounce from $7 last week. Jewellers reported packed stores for the festival, though dealers said demand remained well below last year's levels. Spot gold hit its lowest since July 20 during a week set for its steepest loss since June.
 15. [RBI’s forward dollar sales surge to record $200 billion in August](https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-net-forex-buys-hit-a-record-43-billion-in-august-balances-it-with-swaps/articleshow/135159794.cms) — *Economic Times*, 2026-10-24T02:20:15Z
    The RBI's net forward dollar sales position climbed to a record $200.06 billion at the end of August from $136.77 billion in July, central bank bulletin data showed. The central bank also made record net spot purchases of $43.26 billion in August as it absorbed inflows from deposit schemes, balancing the flows with swaps.
 16. [Gold Tests $4,000 as India's Import Slump Clouds the Festival Outlook](https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/gold-tests-4-000-as-india-s-import-slump-clouds-the-festival-outlook/70402287) — *ad-hoc-news*, 2026-10-24T04:40:51Z
@@ -54,7 +54,5 @@ Gold and silver head into the Federal Reserve's October 27-28 meeting under pres
    Delivery activity on Comex has gone quiet, SchiffGold's update finds: November gold open interest sits near multi-year lows, the exodus of gold from Comex vaults has paused and partly reversed, and silver notional delivery volumes are about half last October's level. The piece links the soft physical bid to gold's continued slide.
 18. [Will gold hit $5,000 again? What experts expect for 2027](https://www.usatoday.com/story/money/investing/2026/06/24/will-gold-hit-5000/90667077007/) — *USA Today*, 2026-10-25T08:21:28Z
    Gold passed $5,000 in January but has pulled back to near $4,000, and experts cited by USA Today say a return above $5,000 is unlikely in 2026 while the dollar stays strong and rates stay high. Some expect gold to surpass $5,000 again in 2027, supported by central-bank buying and weakening confidence in the dollar, while India's curbs on gold buying are cited as a drag on global demand.
-19. [Central banks pile into gold as China leads buying spree](https://www.mining.com/central-banks-pile-into-gold-as-china-leads-buying-spree/) — *MINING.COM*, 2026-10-23T15:22:07Z
-   Central banks bought an estimated 79 tonnes of gold in August — nearly five times the pre-2022 average — led by China, Goldman Sachs estimates. China's purchases are put at about 25 tonnes versus an official print of roughly 20 tonnes, extending its dollar-diversification buying streak. Goldman says elevated official demand should keep gold supported over the long term.
-20. [Crude oil near $120, to intensify headwinds for economy, but tailwinds likely to reduce pressure](https://www.thehindubusinessline.com/economy/crude-oil-near-120-to-intensify-headwinds-for-economy-but-tailwinds-likely-to-reduce-pressure/article71623034.ece) — *The Hindu BusinessLine*, 2026-10-25T10:46:26Z
+19. [Crude oil near $120, to intensify headwinds for economy, but tailwinds likely to reduce pressure](https://www.thehindubusinessline.com/economy/crude-oil-near-120-to-intensify-headwinds-for-economy-but-tailwinds-likely-to-reduce-pressure/article71623034.ece) — *The Hindu BusinessLine*, 2026-10-25T10:46:26Z
    With Brent crude nearing $120 on Middle East tensions, economists flagged headwinds for India's economy but also cushions. EY India's D K Srivastava said crude could stay in a $115-$120 range; $20 above the RBI's $95 baseline would trim 2026-27 growth to 7.0% from 7.1% and lift CPI inflation to 5.7% from 5.2%. A Rs 2.87 lakh crore RBI dividend keeps the 4.3% deficit target within reach.
