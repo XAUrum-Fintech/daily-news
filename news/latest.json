@@ -1,68 +1,67 @@
 {
  "schema": "orob-news.v1",
- "edition_id": "2026-10-25T02:00Z",
- "generated_at": "2026-10-25T02:10:44Z",
+ "edition_id": "2026-10-25T03:00Z",
+ "generated_at": "2026-10-25T03:15:33Z",
  "window": {
-  "from": "2026-10-25T00:00:00Z",
-  "to": "2026-10-25T02:00:00Z"
+  "from": "2026-10-25T02:00:00Z",
+  "to": "2026-10-25T03:00:00Z"
  },
  "insights": {
-  "headline": "Gold clings to $4,000 after a bruising week as fund curbs meet the dip",
-  "summary": "Spot gold hovered near $4,000 an ounce and silver near $54 after a week of heavy selling driven by crude above $116, a firm dollar and expectations that the Federal Reserve will stay restrictive. In India, several fund houses' temporary halt on fresh gold ETF fund-of-fund investments remains in force as prices dip, while festive buying picked up on lower prices even as gold imports slumped. Comex delivery activity went quiet, and central banks kept buying gold.",
+  "headline": "Silver sinks to an 11-month low as gold clings to $4,000 after a bruising week",
+  "summary": "Spot gold hovered near $4,000 an ounce and silver near $54 after a week of heavy selling driven by crude above $116, a firm dollar and expectations that the Federal Reserve will stay restrictive. In India, silver fell to an 11-month low near ₹1.95 lakh per kg and silver funds slid, while several fund houses’ temporary halt on fresh gold ETF fund-of-fund investments remains in force. Festive buying picked up on lower prices even as gold imports slumped.",
   "points": [
-   "Spot gold traded around $3,996-$4,030 and silver near $53.90 after weekly falls of over 3.5% and about 7.8%.",
+   "Spot gold traded around $3,996 and silver near $53.90 after weekly falls of over 3.5% and about 7.8%.",
+   "Silver hit an 11-month low near ₹1.95 lakh per kg in India; silver ETFs fell up to 5%.",
    "Crude above $116 and firm US business data keep Fed-tightening bets alive, pressuring bullion.",
    "Fresh gold ETF fund-of-fund investments stay halted at several fund houses; existing SIPs continue.",
-   "Festive demand strengthened on lower prices, but India's gold imports slumped into the season.",
-   "Central banks continued buying gold, led by China, even as prices fell."
+   "Festive demand strengthened on lower prices, but India’s gold imports slumped into the season."
   ]
  },
  "trending": [
   {
    "title": "Oil, rates and the $4,000 line",
-   "summary": "Gold's week was set by crude above $116, a firm dollar and sticky inflation expectations, leaving the metal fighting to hold $4,000 after dipping below it.",
+   "summary": "Gold’s week was set by crude above $116, a firm dollar and sticky inflation expectations, leaving the metal fighting to hold $4,000 after dipping below it.",
    "item_ids": [
     "c6554e082f351655",
+    "16a41bdf8f0b6fd9",
     "8b46633a4606601e",
-    "7aa0c225c688798d",
-    "158dd31c65e3176f"
+    "7aa0c225c688798d"
    ]
   },
   {
-   "title": "Silver's air pocket",
+   "title": "Silver’s air pocket",
    "summary": "Silver fell harder than gold on the week, slipping below Rs 2 lakh per kg in India, with analysts split on whether the selloff has gone too far.",
    "item_ids": [
+    "175c778e577884ae",
+    "b157a5be02322ee7",
     "a69aef3613b5e208",
+    "1f8c5158eb483527",
     "dcf918095f1479db",
-    "b3b98c11257b7a0c",
-    "87d5ef1d84e823c2"
+    "b3b98c11257b7a0c"
    ]
   },
   {
    "title": "Fund curbs meet the dip",
-   "summary": "The halt on fresh gold ETF fund-of-fund investments is still in force as prices fall, changing how Indian buyers can add exposure while existing SIPs run on.",
+   "summary": "Fresh gold ETF fund-of-fund investments stay halted at several fund houses while silver funds slid, even as existing SIPs continue.",
    "item_ids": [
     "b21148aecc1bb80e",
-    "a69aef3613b5e208",
-    "20d0afd854dd48dd"
+    "1f8c5158eb483527"
    ]
   },
   {
    "title": "Festive demand vs weak imports",
-   "summary": "Lower prices drew festive buyers back, but India's import slump clouds the season's outlook and jewellers' counters tell a mixed story.",
+   "summary": "Lower prices lifted festive buying, but India’s gold imports slumped into the season, clouding the outlook for jewellers.",
    "item_ids": [
-    "4d72d2264e1a864f",
     "00bc6ea416cfa2e9",
-    "15a41be852620ba1",
-    "f781cd7d46b030e8"
+    "4d72d2264e1a864f"
    ]
   },
   {
    "title": "The $5,000 question for 2027",
-   "summary": "With gold off its highs and silver well below its peak, experts are split on whether either metal can reclaim old milestones next year.",
+   "summary": "With gold under pressure and silver at multi-month lows, experts are split on whether either metal rebounds toward new highs next year.",
    "item_ids": [
-    "9a94f594410bc865",
-    "87d5ef1d84e823c2"
+    "87d5ef1d84e823c2",
+    "9a94f594410bc865"
    ]
   }
  ],
@@ -90,10 +89,30 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 1,
-   "related_urls": [
-    "https://www.bizzbuzz.news/market/commodities/gold-silver-rates/gold-silver-decline-sharply-on-weekly-basis-as-crude-prices-rise-1411906"
-   ]
+   "rank": 1
+  },
+  {
+   "id": "175c778e577884ae",
+   "title": "Silver hits 11-month low of ₹1.95 lakh as crude stokes inflation fears",
+   "summary": "Silver fell to an 11-month low near ₹1.95 lakh per kg in India, extending the week’s slide as surging crude revived inflation worries and kept expectations of higher-for-longer rates in play.",
+   "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-hits-11-month-low-of-1-95-lakh-as-crude-stokes-inflation-fears/articleshow/135161699.cms",
+   "source": "Economic Times",
+   "source_domain": "economictimes.indiatimes.com",
+   "publisher_id": "economic-times",
+   "published_at": "2026-10-24T18:03:12Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/175c778e577884ae.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "silver",
+    "mcx",
+    "india"
+   ],
+   "category": "mcx",
+   "metals": [
+    "silver"
+   ],
+   "breaking": false,
+   "rank": 2
   },
   {
    "id": "20d0afd854dd48dd",
@@ -117,7 +136,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 2
+   "rank": 3
   },
   {
    "id": "b21148aecc1bb80e",
@@ -142,7 +161,32 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 3
+   "rank": 4
+  },
+  {
+   "id": "b157a5be02322ee7",
+   "title": "Silver crashes ₹56,000/kg from August peak; gold slides ₹23,000/10 grams. What’s driving the selloff in precious metals",
+   "summary": "Silver has crashed about ₹56,000 per kg from its August peak while gold has slid roughly ₹23,000 per 10 grams, as oil-driven inflation fears and margin-call selling deepened the precious-metals selloff.",
+   "url": "https://www.livemint.com/market/stock-market-news/silver-crashes-rs-56000-kg-from-august-peak-gold-slides-23000-10-grams-what-s-driving-the-selloff-in-precious-metals-11792763090890.html",
+   "source": "Mint",
+   "source_domain": "livemint.com",
+   "publisher_id": "mint",
+   "published_at": "2026-10-23T14:29:42Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/b157a5be02322ee7.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "silver",
+    "gold",
+    "mcx",
+    "india"
+   ],
+   "category": "mcx",
+   "metals": [
+    "silver",
+    "gold"
+   ],
+   "breaking": false,
+   "rank": 5
   },
   {
    "id": "a69aef3613b5e208",
@@ -165,11 +209,11 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 4
+   "rank": 6
   },
   {
    "id": "16a41bdf8f0b6fd9",
-   "rank": 5,
+   "rank": 7,
    "title": "Gold drops 3.28%, silver plunges 7.83% on weekly basis amid crude surge",
    "summary": "Gold fell 3.28% and silver 7.83% in the week ending October 24 as surging crude stoked inflation fears and hardened expectations of higher-for-longer US rates. MCX December gold closed at ₹1,42,150 per 10 grams and silver at ₹1,96,100 per kg, with gold below $4,000 for the first time since mid-July. Dussehra buying offered some support ahead of the Fed's October 27–28 meeting.",
    "url": "https://www.nationpress.com/business/gold-hits-3-month-low-silver-dives-78percent",
@@ -191,6 +235,29 @@
     "global"
    ],
    "breaking": false
+  },
+  {
+   "id": "1f8c5158eb483527",
+   "title": "Silver ETFs fall up to 5% as oil surge, inflation fears hit bullion markets",
+   "summary": "Silver exchange-traded funds fell up to 5% as the oil surge and inflation fears hit bullion markets, tracking the sharp slide in the underlying metal.",
+   "url": "https://www.business-standard.com/markets/news/silver-etfs-fall-up-to-5-as-oil-surge-inflation-fears-hit-bullion-markets-126102300376_1.html",
+   "source": "Business Standard",
+   "source_domain": "business-standard.com",
+   "publisher_id": "business-standard",
+   "published_at": "2026-10-23T05:43:52Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/1f8c5158eb483527.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "silver",
+    "mcx",
+    "india"
+   ],
+   "category": "mcx",
+   "metals": [
+    "silver"
+   ],
+   "breaking": false,
+   "rank": 8
   },
   {
    "id": "fe7c4454126c6cd7",
@@ -215,7 +282,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 6
+   "rank": 9
   },
   {
    "id": "a05ac18c35be3dfe",
@@ -238,7 +305,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 7
+   "rank": 10
   },
   {
    "id": "00bc6ea416cfa2e9",
@@ -263,7 +330,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 8
+   "rank": 11
   },
   {
    "id": "4d72d2264e1a864f",
@@ -286,7 +353,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 9
+   "rank": 12
   },
   {
    "id": "dcf918095f1479db",
@@ -309,7 +376,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 10
+   "rank": 13
   },
   {
    "id": "b3b98c11257b7a0c",
@@ -332,7 +399,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 11
+   "rank": 14
   },
   {
    "id": "8b46633a4606601e",
@@ -357,11 +424,11 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 12
+   "rank": 15
   },
   {
    "id": "7aa0c225c688798d",
-   "rank": 13,
+   "rank": 16,
    "title": "Gold drops below $4,000 as 'haven' asset joins market sell-off",
    "summary": "Gold fell below $4,000 an ounce on Friday, its first move beneath that level since late July, as a tech-led equity selloff forced investors to raise cash and swept even the haven asset into the retreat. Spot recovered to about $4,015 but remains on course for its weakest weekly performance since June after a near-3% Thursday slide, with money flowing into Treasuries instead of bullion.",
    "url": "https://www.ft.com/content/5a6e15e9-249d-4d59-a140-c51302930a9f",
@@ -379,15 +446,11 @@
    "metals": [
     "gold"
    ],
-   "breaking": false,
-   "related_urls": [
-    "https://www.fxstreet.com/analysis/gold-price-forecast-xau-usd-hits-fresh-three-month-low-below-4-000-amid-surging-energy-prices-202610230330",
-    "https://www.kitco.com/news/article/2026-10-23/gold-price-trades-near-4000oz-after-final-consumer-sentiment-holds-steady"
-   ]
+   "breaking": false
   },
   {
    "id": "357010b378e89f30",
-   "rank": 14,
+   "rank": 17,
    "title": "Central banks pile into gold as China leads buying spree",
    "summary": "Central banks bought an estimated 79 tonnes of gold in August — nearly five times the pre-2022 average — led by China, Goldman Sachs estimates. China's purchases are put at about 25 tonnes versus an official print of roughly 20 tonnes, extending its dollar-diversification buying streak. Goldman says elevated official demand should keep gold supported over the long term.",
    "url": "https://www.mining.com/central-banks-pile-into-gold-as-china-leads-buying-spree/",
@@ -429,7 +492,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 15
+   "rank": 18
   },
   {
    "id": "87d5ef1d84e823c2",
@@ -452,7 +515,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 16
+   "rank": 19
   },
   {
    "id": "9a94f594410bc865",
@@ -475,56 +538,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 17
-  },
-  {
-   "id": "15a41be852620ba1",
-   "title": "Utssav CZ Gold Jewels approves 1:1 bonus issue, to double equity capital",
-   "summary": "Utssav CZ Gold Jewels' board has approved a 1:1 bonus issue that will double the company's equity capital, Business Standard reports, putting the jewellery maker in focus during the festive season.",
-   "url": "https://www.business-standard.com/markets/news/utssav-cz-gold-jewels-approves-1-1-bonus-issue-to-double-equity-capital-126102400806_1.html",
-   "source": "Business Standard",
-   "source_domain": "business-standard.com",
-   "publisher_id": "business-standard",
-   "published_at": "2026-10-24T17:08:57Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/15a41be852620ba1.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "jewellery",
-    "india"
-   ],
-   "category": "mcx",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "related_urls": [
-    "https://www.livemint.com/market/stock-market-news/413-returns-in-1-year-gold-jewellery-stock-offers-bonus-shares-do-you-own-check-ratio-record-date-11792858197650.html"
-   ],
-   "rank": 18
-  },
-  {
-   "id": "f781cd7d46b030e8",
-   "title": "Upcoming IPO: MK Sons Fine Jewels' ₹275 cr opening next week",
-   "summary": "MK Sons Fine Jewels will open a ₹275 crore IPO next week, Mint reports, with the jewellery company's issue profile, key dates and price band set out ahead of the opening.",
-   "url": "https://www.livemint.com/market/ipo/upcoming-ipo-mk-sons-fine-jewels-rs-275-cr-opening-next-week-company-profile-key-dates-share-price-band-and-more-11792858838153.html",
-   "source": "Mint",
-   "source_domain": "livemint.com",
-   "publisher_id": "mint",
-   "published_at": "2026-10-24T17:15:07Z",
-   "image_url": "https://www.livemint.com/lm-img/img/2026/10/24/1600x900/logo/ipos_1792859248928_Omkl_1792859285623_13FL_a498f213-f519-435a-9514-256410ddf9cf_2J5A.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "jewellery",
-    "india"
-   ],
-   "category": "mcx",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "rank": 19
+   "rank": 20
   }
  ]
 }
