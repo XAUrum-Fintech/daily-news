@@ -1,30 +1,31 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-25T11:00Z",
-  "generated_at": "2026-10-25T11:04:30Z",
+  "edition_id": "2026-10-25T12:00Z",
+  "generated_at": "2026-10-25T12:03:36Z",
   "window": {
-    "from": "2026-10-25T10:00:00Z",
-    "to": "2026-10-25T11:00:00Z"
+    "from": "2026-10-25T11:00:00Z",
+    "to": "2026-10-25T12:00:00Z"
   },
   "insights": {
-    "headline": "MCX gold is down over ₹38,600 from its January record as the $4,000 line and the Fed meeting come into focus",
-    "summary": "Spot gold finished Friday near $3,996 and silver near $54 after a week of heavy selling driven by crude near $120, a firm dollar and expectations that the Federal Reserve will stay restrictive. In India, MCX gold has fallen more than ₹38,600 from its 29 January record to ₹1,42,024 per 10 grams, and silver hit its weakest finish of 2026 at $53.83. Festive buying picked up on lower prices even as gold imports slumped, while several fund houses' halt on fresh gold ETF fund-of-fund investments stays in force. Central banks are split: China extended its buying streak while Russia sold.",
+    "headline": "Gold under $4,000 meets broadening demand as the Fed meeting nears",
+    "summary": "Spot gold finished Friday near $3,996 and silver near $54 after a week of heavy selling driven by crude near $120, a firm dollar and expectations that the Federal Reserve will stay restrictive. In India, MCX gold has fallen more than ₹38,600 from its 29 January record to ₹1,42,024 per 10 grams, and silver hit its weakest finish of 2026 at $53.83. Yet demand signals are broadening: speculators cut gold longs even as China, Indian buyers and ETFs kept buying, and festive demand picked up on lower prices even as gold imports slumped.",
     "points": [
       "Spot gold traded around $3,996 and silver near $54 after weekly falls of over 3.5% and about 7.8%.",
       "MCX gold is down over ₹38,600 from its January record of ₹1,80,779, settling at ₹1,42,024 per 10 grams.",
       "Silver closed Friday at $53.83, its weakest finish of 2026, after losing nearly 56% from its January record.",
-      "Crude near $120 keeps Fed-tightening bets alive ahead of the October 27-28 meeting; economists see India's growth trimming to 7.0%.",
-      "UBS keeps a constructive medium-term silver view, with a price path to $80 by September 2027, citing a sixth straight annual deficit."
+      "Speculators cut gold net-longs by 8,014 to 199,865 even as China added 23 tonnes in September and Indian gold ETFs drew ₹17.22 billion in early October.",
+      "Crude near $120 keeps Fed-tightening bets alive ahead of the October 27-28 meeting; economists see India's growth trimming to 7.0%."
     ]
   },
   "trending": [
     {
       "title": "The $4,000 line under pressure",
-      "summary": "Gold slipped below $4,000 during the week and clawed back above $4,030, leaving July's low and the Fed meeting as the next tests.",
+      "summary": "Gold slipped below $4,000 during the week and finished Friday near $3,996, leaving July's low and the Fed meeting as the next tests — even as broader demand signals held up.",
       "item_ids": [
         "c6554e082f351655",
         "08160660f56323a9",
-        "61a705d06d2afcfd"
+        "61a705d06d2afcfd",
+        "96ddf3810c3af257"
       ]
     },
     {
@@ -38,13 +39,12 @@
     },
     {
       "title": "Silver's air pocket",
-      "summary": "Silver fell below ₹2 lakh in India and to a 2026 low near $54 globally, with traders positioned for further falls; UBS still maps a recovery path, but the near-term trend stays weak.",
+      "summary": "Silver fell below ₹2 lakh in India and to a 2026 low near $54 globally, with traders positioned for further falls; the near-term trend stays weak.",
       "item_ids": [
         "a69aef3613b5e208",
         "175c778e577884ae",
-        "cd51361fca8cebc7",
-        "87d5ef1d84e823c2",
-        "7c3a146fab9ad9e4"
+        "7c3a146fab9ad9e4",
+        "87d5ef1d84e823c2"
       ]
     },
     {
@@ -161,6 +161,30 @@
       "rank": 4
     },
     {
+      "id": "96ddf3810c3af257",
+      "title": "Gold's Demand Base Is Broadening Even as Prices Slip Below $4,000",
+      "summary": "Gold closed Friday at $3,997.48, below $4,000 for the first time since mid-July, in its steepest weekly loss in over four months — yet demand signals point the other way. Speculators cut net-long gold futures by 8,014 to 199,865, while China added 23 tonnes in September, Indian gold ETFs drew ₹17.22 billion in early October, and Goldman Sachs put August central-bank buying at 79 tonnes.",
+      "url": "https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/gold-s-demand-base-is-broadening-even-as-prices-slip-below-4-000/70408521",
+      "source": "ad-hoc-news",
+      "source_domain": "ad-hoc-news.de",
+      "publisher_id": "ad-hoc-news",
+      "published_at": "2026-10-25T11:10:55Z",
+      "image_url": "https://mdb.ad-hoc-news.de/bild/bild-2831000_1920_1080.webp",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "global",
+        "fed",
+        "central-banks"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 5
+    },
+    {
       "id": "20d0afd854dd48dd",
       "title": "Bullion Cues: Bears retain control",
       "summary": "Gold ($3,995.80 an ounce) and silver ($53.90) fell 4.1% and 5.4% on the week, BusinessLine's research bureau notes, with MCX gold December futures down 4% to ₹1,42,024 per 10 grams and silver down 7.3% to ₹1,95,719 a kg after touching a ten-month low. Its technical read keeps the bears in control, with ₹1,41,000–₹1,40,000 the next support zone for gold.",
@@ -182,7 +206,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "a69aef3613b5e208",
@@ -205,7 +229,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "b21148aecc1bb80e",
@@ -230,7 +254,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "61a705d06d2afcfd",
@@ -253,11 +277,11 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "16a41bdf8f0b6fd9",
-      "rank": 9,
+      "rank": 10,
       "title": "Gold drops 3.28%, silver plunges 7.83% on weekly basis amid crude surge",
       "summary": "Gold fell 3.28% and silver 7.83% in the week ending October 24 as surging crude stoked inflation fears and hardened expectations of higher-for-longer US rates. MCX December gold closed at ₹1,42,150 per 10 grams and silver at ₹1,96,100 per kg, with gold below $4,000 for the first time since mid-July. Dussehra buying offered some support ahead of the Fed's October 27–28 meeting.",
       "url": "https://www.nationpress.com/business/gold-hits-3-month-low-silver-dives-78percent",
@@ -301,7 +325,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "6ef0aa1dc1b7ccd0",
@@ -322,28 +346,6 @@
       "category": "global",
       "metals": [
         "gold"
-      ],
-      "breaking": false,
-      "rank": 11
-    },
-    {
-      "id": "cd51361fca8cebc7",
-      "title": "UBS Maps a Three-Stage Silver Recovery While the Market Wrestles With Higher-for-Longer Rates",
-      "summary": "UBS keeps a constructive medium-term view on silver despite the rout, laying out a price path from $70 an ounce in December 2026 to $75 by mid-2027 and $80 by September 2027. COMEX silver settled near $54 after a 5.6% weekly fall, and the bank points to a sixth straight annual supply deficit.",
-      "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/ubs-maps-a-three-stage-silver-recovery-while-the-market-wrestles-with/70407867",
-      "source": "ad-hoc-news",
-      "source_domain": "ad-hoc-news.de",
-      "publisher_id": "ad-hoc-news",
-      "published_at": "2026-10-25T02:50:40Z",
-      "image_url": "https://mdb.ad-hoc-news.de/bild/bild-2830718_1920_1080.webp",
-      "image_kind": "photo",
-      "tags": [
-        "silver",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "silver"
       ],
       "breaking": false,
       "rank": 12
