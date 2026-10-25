@@ -1,4 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-10-25T03:00Z
+# Gold & Silver for Indian buyers · 2026-10-25T04:00Z
 
 > Silver sinks to an 11-month low as gold clings to $4,000 after a bruising week
 
@@ -15,7 +15,7 @@ Spot gold hovered near $4,000 an ounce and silver near $54 after a week of heavy
 - **Silver’s air pocket**: Silver fell harder than gold on the week, slipping below Rs 2 lakh per kg in India, with analysts split on whether the selloff has gone too far. (stories 2, 5, 6, 8, 13, 14)
 - **Fund curbs meet the dip**: Fresh gold ETF fund-of-fund investments stay halted at several fund houses while silver funds slid, even as existing SIPs continue. (stories 4, 8)
 - **Festive demand vs weak imports**: Lower prices lifted festive buying, but India’s gold imports slumped into the season, clouding the outlook for jewellers. (stories 11, 12)
-- **The $5,000 question for 2027**: With gold under pressure and silver at multi-month lows, experts are split on whether either metal rebounds toward new highs next year. (stories 19, 20)
+- **The $5,000 question for 2027**: With gold under pressure and silver at multi-month lows, experts are split on whether either metal rebounds toward new highs next year. (stories 18, 19)
 
 ## Stories
 1. [Gold, silver extend weekly losses as Hormuz tensions push crude above $116](https://www.kitco.com/news/article/2026-10-23/gold-silver-extend-weekly-losses-hormuz-tensions-push-crude-above-116-kitco) — *Kitco*, 2026-10-23T21:30:50Z
@@ -52,9 +52,7 @@ Spot gold hovered near $4,000 an ounce and silver near $54 after a week of heavy
    Gold fell below $4,000 an ounce on Friday, its first move beneath that level since late July, as a tech-led equity selloff forced investors to raise cash and swept even the haven asset into the retreat. Spot recovered to about $4,015 but remains on course for its weakest weekly performance since June after a near-3% Thursday slide, with money flowing into Treasuries instead of bullion.
 17. [Central banks pile into gold as China leads buying spree](https://www.mining.com/central-banks-pile-into-gold-as-china-leads-buying-spree/) — *MINING.COM*, 2026-10-23T15:22:07Z
    Central banks bought an estimated 79 tonnes of gold in August — nearly five times the pre-2022 average — led by China, Goldman Sachs estimates. China's purchases are put at about 25 tonnes versus an official print of roughly 20 tonnes, extending its dollar-diversification buying streak. Goldman says elevated official demand should keep gold supported over the long term.
-18. [Gold's $4,000 Looks Indefensible as Liquidation Fears Overshadow Treasury Rally](https://www.actionforex.com/action-insight/market-overview/658434-golds-4000-looks-indefensible-as-liquidation-fears-overshadow-treasury-rally/) — *ActionForex*, 2026-10-23T03:43:18Z
-   Gold slipped below $4,000 even as the US 10-year Treasury yield fell to 4.96%, breaking the usual pattern in which lower yields support bullion. ActionForex attributes the divergence to liquidity and positioning pressure, possibly including forced selling, as a tech-led equity selloff drove defensive buying of Treasuries instead. Its technical view puts next support at $3,924-$3,942.
-19. [Could silver rebound in 2027? What experts predict will happen next](https://www.usatoday.com/story/money/money-management/investing/will-silver-hit-100-again/90530149007/) — *USA Today*, 2026-10-23T16:33:00Z
+18. [Could silver rebound in 2027? What experts predict will happen next](https://www.usatoday.com/story/money/money-management/investing/will-silver-hit-100-again/90530149007/) — *USA Today*, 2026-10-23T16:33:00Z
    After falling from record highs above $100 an ounce earlier this year, silver is trading in the upper $50s to lower $60s, and experts cited by USA Today expect it to stay volatile in a broad $50 to $70 range into early 2027. Fed rate policy is the main near-term pressure, while industrial demand from electronics, solar panels and data centres supports the longer view.
-20. [Will gold hit $5,000 again? What experts expect for 2027](https://www.usatoday.com/story/money/investing/2026/06/24/will-gold-hit-5000/90667077007/) — *USA Today*, 2026-10-24T21:51:28Z
+19. [Will gold hit $5,000 again? What experts expect for 2027](https://www.usatoday.com/story/money/investing/2026/06/24/will-gold-hit-5000/90667077007/) — *USA Today*, 2026-10-24T21:51:28Z
    Gold passed $5,000 an ounce for the first time early this year but has since pulled back to the low-$4,000 range, and experts cited by USA Today see a return above $5,000 as likely in 2027 rather than 2026. A strong dollar, Fed tightening expectations and soft Indian demand cap the near term, while central-bank buying supports the longer view.
