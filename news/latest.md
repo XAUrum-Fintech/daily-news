@@ -1,4 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-10-25T04:00Z
+# Gold & Silver for Indian buyers · 2026-10-25T05:00Z
 
 > Silver sinks to an 11-month low as gold clings to $4,000 after a bruising week
 
@@ -11,11 +11,11 @@ Spot gold hovered near $4,000 an ounce and silver near $54 after a week of heavy
 - Festive demand strengthened on lower prices, but India’s gold imports slumped into the season.
 
 ## Trending
-- **Oil, rates and the $4,000 line**: Gold’s week was set by crude above $116, a firm dollar and sticky inflation expectations, leaving the metal fighting to hold $4,000 after dipping below it. (stories 1, 7, 15, 16)
-- **Silver’s air pocket**: Silver fell harder than gold on the week, slipping below Rs 2 lakh per kg in India, with analysts split on whether the selloff has gone too far. (stories 2, 5, 6, 8, 13, 14)
+- **Oil, rates and the $4,000 line**: Gold’s week was set by crude above $116, a firm dollar and sticky inflation expectations, leaving the metal fighting to hold $4,000 after dipping below it. (stories 1, 7, 16, 17, 13)
+- **Silver’s air pocket**: Silver fell harder than gold on the week, slipping below Rs 2 lakh per kg in India, with analysts split on whether the selloff has gone too far. (stories 2, 5, 6, 8, 14, 15)
 - **Fund curbs meet the dip**: Fresh gold ETF fund-of-fund investments stay halted at several fund houses while silver funds slid, even as existing SIPs continue. (stories 4, 8)
 - **Festive demand vs weak imports**: Lower prices lifted festive buying, but India’s gold imports slumped into the season, clouding the outlook for jewellers. (stories 11, 12)
-- **The $5,000 question for 2027**: With gold under pressure and silver at multi-month lows, experts are split on whether either metal rebounds toward new highs next year. (stories 18, 19)
+- **The $5,000 question for 2027**: With gold under pressure and silver at multi-month lows, experts are split on whether either metal rebounds toward new highs next year. (stories 19, 20)
 
 ## Stories
 1. [Gold, silver extend weekly losses as Hormuz tensions push crude above $116](https://www.kitco.com/news/article/2026-10-23/gold-silver-extend-weekly-losses-hormuz-tensions-push-crude-above-116-kitco) — *Kitco*, 2026-10-23T21:30:50Z
@@ -42,17 +42,19 @@ Spot gold hovered near $4,000 an ounce and silver near $54 after a week of heavy
    Gold settled Friday at $3,997.48 an ounce — below $4,000 at the close for the first time since mid-July — ahead of the Fed's October 27–28 meeting. India's September gold import bill collapsed to $1.8 billion from $9.61 billion a year earlier on higher duties and soft demand. Dealers report healthy festival restocking, but IBJA put Dussehra buys 7–10% below last year.
 12. [India gold demand strengthens on lower prices, festive purchases](https://www.mining.com/web/india-gold-demand-strengthens-on-lower-prices-festive-purchases/) — *MINING.COM*, 2026-10-23T16:03:51Z
    Gold buying picked up in India this week as lower prices during Dussehra encouraged purchases and lifted dealer premiums to up to $9 an ounce from $7 last week. Jewellers reported packed stores for the festival, though dealers said demand remained well below last year's levels. Spot gold hit its lowest since July 20 during a week set for its steepest loss since June.
-13. [Silver selloff seems overdone, says Mirae Asset Sharekhan; here's why](https://www.business-standard.com/markets/news/silver-selloff-seems-overdone-says-mirae-asset-sharekhan-here-s-why-126102300435_1.html) — *Business Standard*, 2026-10-23T06:55:00Z
+13. [Gold price breaks 4,000 USD/ounce mark, forecast for possibility of rebound](https://news.laodong.vn/the-gioi/gia-vang-thung-moc-4000-usdounce-du-bao-kha-nang-bat-tang-1788883.ldo) — *Lao Dong*, 2026-10-25T03:58:42Z
+   World gold slipped below $4,000 to $3,995.88 an ounce before the weekend, down more than 4% on the week. Saxo Bank's Ole Hansen sees speculative selling near an extreme, with $3,970 as next support and $4,230 to reclaim to signal the correction is over; BCA Research's Roukaya Ibrahim notes gold looks oversold but warns a strong dollar and sticky inflation may keep it sideways near term.
+14. [Silver selloff seems overdone, says Mirae Asset Sharekhan; here's why](https://www.business-standard.com/markets/news/silver-selloff-seems-overdone-says-mirae-asset-sharekhan-here-s-why-126102300435_1.html) — *Business Standard*, 2026-10-23T06:55:00Z
    Mirae Asset Sharekhan's Praveen Singh says silver's selloff looks overdone after spot broke support near $58.60 on October 14, though the crude oil/silver ratio falling through support around 58 leaves silver vulnerable to further oil gains. Registered COMEX inventory of 103.33 million ounces is down about 49% from the September 2025 peak of 201 million ounces.
-14. [Silver's Sell-Off Isn't One Story: Oil, Margin Calls and the Fed All Pulled the Trigger](https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/silver-s-sell-off-isn-t-one-story-oil-margin-calls-and-the-fed-all/70405779) — *ad-hoc-news*, 2026-10-24T17:02:54Z
+15. [Silver's Sell-Off Isn't One Story: Oil, Margin Calls and the Fed All Pulled the Trigger](https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/silver-s-sell-off-isn-t-one-story-oil-margin-calls-and-the-fed-all/70405779) — *ad-hoc-news*, 2026-10-24T17:02:54Z
    Silver's 5.6% weekly drop to $53.96 an ounce, its lowest since November, traces to three forces at once: oil-driven inflation fears, liquidity selling as tech shares fell and margin calls hit, and the Fed's October 27-28 meeting. CPM Group's Jeffrey Christian sees scope for a further slide toward $50 or $48 before any recovery, with pressure possibly lasting through the US midterm elections.
-15. [Gold edges back above $4,030 after dipping below $4,000 to a three-month low](https://qazinform.com/news/gold-edges-up-after-tipping-three-month-low-37afdc/) — *Qazinform*, 2026-10-24T02:01:00Z
+16. [Gold edges back above $4,030 after dipping below $4,000 to a three-month low](https://qazinform.com/news/gold-edges-up-after-tipping-three-month-low-37afdc/) — *Qazinform*, 2026-10-24T02:01:00Z
    Gold recovered to $4,030.67 an ounce on Friday, October 23, after touching $3,986.50 — its lowest in more than three months — but remains on course for a second straight weekly loss as oil-driven inflation fears and hawkish Fed bets kept pressure on bullion. Silver slid another 1.3% to $53.81 an ounce, while platinum slipped to $1,557.03 and palladium to $1,050.50, WAM reported.
-16. [Gold drops below $4,000 as 'haven' asset joins market sell-off](https://www.ft.com/content/5a6e15e9-249d-4d59-a140-c51302930a9f) — *Financial Times*, 2026-10-23T14:37:46Z
+17. [Gold drops below $4,000 as 'haven' asset joins market sell-off](https://www.ft.com/content/5a6e15e9-249d-4d59-a140-c51302930a9f) — *Financial Times*, 2026-10-23T14:37:46Z
    Gold fell below $4,000 an ounce on Friday, its first move beneath that level since late July, as a tech-led equity selloff forced investors to raise cash and swept even the haven asset into the retreat. Spot recovered to about $4,015 but remains on course for its weakest weekly performance since June after a near-3% Thursday slide, with money flowing into Treasuries instead of bullion.
-17. [Central banks pile into gold as China leads buying spree](https://www.mining.com/central-banks-pile-into-gold-as-china-leads-buying-spree/) — *MINING.COM*, 2026-10-23T15:22:07Z
+18. [Central banks pile into gold as China leads buying spree](https://www.mining.com/central-banks-pile-into-gold-as-china-leads-buying-spree/) — *MINING.COM*, 2026-10-23T15:22:07Z
    Central banks bought an estimated 79 tonnes of gold in August — nearly five times the pre-2022 average — led by China, Goldman Sachs estimates. China's purchases are put at about 25 tonnes versus an official print of roughly 20 tonnes, extending its dollar-diversification buying streak. Goldman says elevated official demand should keep gold supported over the long term.
-18. [Could silver rebound in 2027? What experts predict will happen next](https://www.usatoday.com/story/money/money-management/investing/will-silver-hit-100-again/90530149007/) — *USA Today*, 2026-10-23T16:33:00Z
+19. [Could silver rebound in 2027? What experts predict will happen next](https://www.usatoday.com/story/money/money-management/investing/will-silver-hit-100-again/90530149007/) — *USA Today*, 2026-10-23T16:33:00Z
    After falling from record highs above $100 an ounce earlier this year, silver is trading in the upper $50s to lower $60s, and experts cited by USA Today expect it to stay volatile in a broad $50 to $70 range into early 2027. Fed rate policy is the main near-term pressure, while industrial demand from electronics, solar panels and data centres supports the longer view.
-19. [Will gold hit $5,000 again? What experts expect for 2027](https://www.usatoday.com/story/money/investing/2026/06/24/will-gold-hit-5000/90667077007/) — *USA Today*, 2026-10-24T21:51:28Z
+20. [Will gold hit $5,000 again? What experts expect for 2027](https://www.usatoday.com/story/money/investing/2026/06/24/will-gold-hit-5000/90667077007/) — *USA Today*, 2026-10-24T21:51:28Z
    Gold passed $5,000 an ounce for the first time early this year but has since pulled back to the low-$4,000 range, and experts cited by USA Today see a return above $5,000 as likely in 2027 rather than 2026. A strong dollar, Fed tightening expectations and soft Indian demand cap the near term, while central-bank buying supports the longer view.
