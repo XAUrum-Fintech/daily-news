@@ -1,11 +1,11 @@
-# Gold & Silver for Indian buyers · 2026-10-26T08:00Z
+# Gold & Silver for Indian buyers · 2026-10-26T09:00Z
 
-> Gold steadies near $4,000 and MCX rebounds after last week's steep sell-off ahead of Fed meeting
+> Gold steadies near $4,000 into Fed week as silver's slide puts $50 in focus
 
-Spot gold held near $4,000 an ounce on Monday after a more than 4% weekly fall, its steepest since June, while silver traded near $54. MCX gold December futures recovered to about ₹1.42 lakh per 10 grams and silver to about ₹1.96 lakh per kg on low-level buying. Markets now await the Federal Reserve's October 27-28 meeting, with traders pricing about a 75% chance of at least one hike by December, even as festive buyers lock rates for Dhanteras.
+Spot gold held near $4,010 an ounce on Monday after a more than 4% weekly fall, its steepest since June, while silver traded near $54 after breaking below its July low, pushing the gold/silver ratio to 75.11. MCX gold December futures recovered to about ₹1.42 lakh per 10 grams and silver to about ₹1.96 lakh per kg on low-level buying. Markets now await the Federal Reserve's October 27-28 meeting, with traders pricing about a 75% chance of at least one hike by December, even as festive buyers lock rates for Dhanteras.
 
-- Spot gold traded near $4,000 after a 4% weekly fall, its steepest in over four months.
-- Silver held near $54.20 after touching $53.43, while UBS kept its $70 target for December 2026.
+- Spot gold traded near $4,010 after a 4% weekly fall, its steepest in over four months.
+- Silver fell 11.5% since October 9, more than double gold's 4.7% drop, taking the gold/silver ratio to 75.11 and putting $50 in focus after silver broke below its $54.77 July low; UBS kept its $70 target for December 2026.
 - Traders price about a 75% chance of at least one Fed hike by December, per CME FedWatch.
 - On MCX, gold December futures traded near ₹1.42 lakh per 10 grams; silver near ₹1.96 lakh per kg.
 - Festive buyers are locking gold rates for Dhanteras as jewellers push rate-locking schemes.
@@ -13,7 +13,7 @@ Spot gold held near $4,000 an ounce on Monday after a more than 4% weekly fall, 
 ## Trending
 - **Fed week takes centre stage**: The October 27-28 FOMC meeting and Thursday's PCE data dominate bullion, with a December hike now priced near 75%. (stories 3, 1, 4, 2)
 - **Gold steadies after steep weekly fall**: A 4% weekly drop took gold to its lowest since mid-July, but softer oil helped it back above $4,000 on Monday. (stories 3, 1, 2)
-- **Silver holds near $54 after 2026 low**: Silver trades near $54.20 after a sharp correction from January's record, with physical demand quiet into the Fed meeting. (stories 1, 7, 8)
+- **Silver's slide puts $50 in focus**: Silver's slide has more than doubled gold's since October 9, taking the gold/silver ratio to 75.11 and putting $50 in focus after the break below $54.77. (stories 5, 1, 8, 9)
 - **Festive buying meets lower prices**: Dhanteras buyers are locking rates and weighing jewellery purchases as gold sits well below its January record. (stories 11, 12)
 
 ## Stories
@@ -25,16 +25,16 @@ Spot gold held near $4,000 an ounce on Monday after a more than 4% weekly fall, 
    Spot gold rose 0.4% to $4,009.87 an ounce on Monday as softer oil prices eased inflation worries, after bullion hit its lowest since mid-July and fell 4% last week. US December gold futures gained 0.4% to $4,023.50, while spot silver rose 0.6% to $54.19. Markets now await the Federal Reserve's October 28 policy meeting and PCE inflation data due the next day.
 4. [Gold Price Forecast: XAU/USD gains at start of Fed's policy week](https://www.fxstreet.com/analysis/gold-price-forecast-xag-usd-gains-at-start-of-feds-policy-week-202610260326) — *FXStreet*, 2026-10-26T03:26:00Z
    Gold found buyers below $4,000 in Asian trading on Monday as the Federal Reserve's policy week began, though it stayed close to its three-month low of $3,975. Markets widely expect the Fed to hold rates in the 3.75%-4.00% range, making the policy guidance the key near-term catalyst, with recent remarks from Fed officials pointing to more persistent inflation and the possibility of further hikes.
-5. [Gold, silver bounce back after sharp sell-off, but yellow metal near 3-month low](https://ianslive.in/gold-silver-bounce-back-after-sharp-sell-off-yellow-metal-near-3-month-low--20261026121754) — *IANS*, 2026-10-26T04:37:25Z
+5. [Silver's Two-Week Slide More Than Doubles Gold's—Could $50 Hold?](https://www.actionforex.com/action-insight/market-overview/658720-silvers-two-week-slide-more-than-doubles-golds-could-50-hold/) — *ActionForex*, 2026-10-26T08:54:14Z
+   Silver has fallen 11.5% since October 9, more than double gold's 4.7% drop, pushing the gold/silver ratio to 75.11 after silver broke below its July low of $54.77. ActionForex puts $50 in focus, with $52.53 next, and notes silver traded near $54.06 on Monday while gold held near $4,014. India's approval of about 6,500 tonnes of silver imports has coincided with lower premiums and subdued demand.
+6. [Gold, silver bounce back after sharp sell-off, but yellow metal near 3-month low](https://ianslive.in/gold-silver-bounce-back-after-sharp-sell-off-yellow-metal-near-3-month-low--20261026121754) — *IANS*, 2026-10-26T04:37:25Z
    MCX gold December futures opened ₹277 higher at ₹1,42,301 per 10 grams on Monday and traded at ₹1,42,500, up 0.34%, after last week's near-4% slide, while silver December futures traded at ₹1,95,572 per kg after an intraday high of ₹1,97,186. Experts cited by IANS said gold needs to reclaim ₹1,43,000-₹1,43,700 to stabilise, with silver facing resistance at ₹2,00,000-₹2,02,000.
-6. [Bullion outlook hinges on Fed as oil fuels inflation fears](https://www.bizzbuzz.news/market/commodities/gold-silver-rates/bullion-outlook-hinges-on-fed-as-oil-fuels-inflation-fears-1412151) — *BizzBuzz*, 2026-10-26T00:59:10Z
+7. [Bullion outlook hinges on Fed as oil fuels inflation fears](https://www.bizzbuzz.news/market/commodities/gold-silver-rates/bullion-outlook-hinges-on-fed-as-oil-fuels-inflation-fears-1412151) — *BizzBuzz*, 2026-10-26T00:59:10Z
    MCX gold futures for December fell Rs 5,768, or nearly 4%, over the past week to close at Rs 1.42 lakh per 10 grams, while silver slid 7.14% to Rs 1.96 lakh per kg, below Rs 2 lakh. Analysts cited surging crude oil, elevated bond yields and a stronger dollar, with the Fed's October 27-28 meeting, US PCE data and third-quarter GDP now the key cues for bullion.
-7. [Silver Price Forecast: XAG/USD slips below $54.00 amid easing safe-haven demand](https://www.fxstreet.com/news/silver-price-forecast-xag-usd-slips-below-5400-amid-easing-safe-haven-demand-202610260155) — *FXStreet*, 2026-10-26T01:55:00Z
+8. [Silver Price Forecast: XAG/USD slips below $54.00 amid easing safe-haven demand](https://www.fxstreet.com/news/silver-price-forecast-xag-usd-slips-below-5400-amid-easing-safe-haven-demand-202610260155) — *FXStreet*, 2026-10-26T01:55:00Z
    Silver slipped below $54 an ounce in Asian trading, around $53.70, as safe-haven demand eased after US President Donald Trump ruled out an immediate strike on Iran. Elevated energy prices kept expectations of higher-for-longer rates in focus, and traders now await the Fed's October 27-28 meeting, with CME FedWatch pricing a 90.6% chance of a pause.
-8. [Silver's Physical Market Goes Quiet While UBS Keeps Its $70 Bet Alive](https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/silver-s-physical-market-goes-quiet-while-ubs-keeps-its-70-bet-alive/70411672) — *ad-hoc-news*, 2026-10-26T05:20:36Z
+9. [Silver's Physical Market Goes Quiet While UBS Keeps Its $70 Bet Alive](https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/silver-s-physical-market-goes-quiet-while-ubs-keeps-its-70-bet-alive/70411672) — *ad-hoc-news*, 2026-10-26T05:20:36Z
    Silver fell 5.7% over seven days to $53.96 as buyers and sellers held back ahead of the Federal Reserve's October 27-28 meeting, ad-hoc-news reports. Physical trading has gone quiet even as UBS kept its $70 target for December 2026, leaving the metal caught between a soft spot market and a still-constructive bank forecast.
-9. [Gold, silver face fresh test as oil surge puts Fed policy decision in focus](https://www.business-standard.com/markets/news/gold-silver-face-fresh-test-as-oil-surge-puts-fed-policy-decision-in-focus-126102500493_1.html) — *Business Standard*, 2026-10-25T13:39:24Z
-   Gold and silver head into the Federal Reserve's October 27-28 meeting under pressure after a week of heavy selling. MCX gold fell nearly 4% on the week to about ₹1.42 lakh per 10 grams and silver slipped below ₹2 lakh per kg; Comex gold futures closed at $4,007.90 after briefly dipping to $3,989 and silver futures settled at $53.95.
 10. [Gold price crashes over ₹38,600 from record high — What'll happen amid Diwali 2026 fervour? Right time to buy? Decoded](https://www.livemint.com/market/stock-market-news/gold-price-crashes-over-rs-38-600-from-record-high-whatll-happen-amid-diwali-2026-fervour-right-time-to-buy-decoded-11792910366849.html) — *Mint*, 2026-10-25T07:48:58Z
    MCX gold futures have fallen over ₹38,600 from their 29 January record of ₹1,80,779 per 10 grams, settling at ₹1,42,024 on Friday — down 21.4% from the peak and 4.7% in October. Mint blames Middle East tensions, rising crude, persistent US inflation worries and investor selling. Festive demand may support prices into Diwali, with ₹1,40,000 watched as the next support level.
 11. [How can people lock low gold prices now to buy jewellery a week later on Dhanteras?](https://inshorts.com/en/news/how-can-people-lock-low-gold-prices-now-to-buy-jewellery-a-week-later-on-dhanteras--1792978202281) — *Inshorts*, 2026-10-25T13:00:00Z
