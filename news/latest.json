@@ -1,61 +1,84 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-26T06:00Z",
-  "generated_at": "2026-10-26T06:02:19Z",
+  "edition_id": "2026-10-26T07:00Z",
+  "generated_at": "2026-10-26T07:08:25Z",
   "window": {
-    "from": "2026-10-26T04:00:00Z",
-    "to": "2026-10-26T06:00:00Z"
+    "from": "2026-10-26T05:00:00Z",
+    "to": "2026-10-26T07:00:00Z"
   },
   "insights": {
-    "headline": "Gold back above $4,000 as softer oil eases pressure ahead of Fed meeting",
-    "summary": "Spot gold rose 0.4% to $4,009.87 an ounce on Monday after a 4% weekly fall, its steepest since June, while silver edged up to $54.19. Markets await the Federal Reserve's October 27-28 meeting, with traders expecting rates on hold this week and pricing a 75% chance of a December hike. On MCX, gold held near ₹1.42 lakh per 10 grams and silver near ₹1.96 lakh per kg, with festive buyers locking rates for Dhanteras.",
+    "headline": "Gold steadies above $4,000 as softer oil eases pressure ahead of Fed meeting",
     "points": [
-      "Spot gold rose 0.4% to $4,009.87 after a 4% weekly fall, its steepest since June.",
-      "Silver edged up 0.6% to $54.19; MCX silver held near ₹1.96 lakh per kg.",
-      "Silver's physical market has gone quiet into the Fed meeting, yet UBS keeps a $70 target.",
-      "The Fed meets October 27-28; traders expect a hold, with a 75% chance of a December hike.",
-      "Festive buyers can book jewellery now and lock rates for Dhanteras delivery, with IBJA gold at ₹1,41,630 per 10 grams."
-    ]
+      "Spot gold rose 0.4% to $4,009.87 after a 4% weekly fall, its steepest in over four months.",
+      "Silver held near $54.20 after touching $53.43, while UBS kept its $70 target for December 2026.",
+      "Traders price about a 75% chance of at least one Fed hike by December, per CME FedWatch.",
+      "On MCX, gold December futures closed near ₹1.42 lakh per 10 grams; silver near ₹1.96 lakh per kg.",
+      "Festive buyers are locking gold rates for Dhanteras as jewellers push rate-locking schemes."
+    ],
+    "summary": "Spot gold rose 0.4% to $4,009.87 an ounce on Monday after a 4% weekly fall, its steepest in more than four months, while silver held near $54.20. Markets await the Federal Reserve's October 27-28 meeting, with traders expecting rates on hold this week and pricing about a 75% chance of a hike by December. On MCX, gold held near ₹1.42 lakh per 10 grams and silver near ₹1.96 lakh per kg, with festive buyers locking rates for Dhanteras."
   },
   "trending": [
     {
-      "title": "Fed week takes centre stage",
-      "summary": "With the Fed meeting October 27-28, a likely hold, December hike bets at 75% and PCE data due October 29, rate expectations are driving bullion.",
       "item_ids": [
         "16a432ab40ea0fc8",
-        "74ed7a12182584b7",
-        "c839bdd060f732f8"
-      ]
+        "a60e9dcf53ec4f93",
+        "74ed7a12182584b7"
+      ],
+      "summary": "The October 27-28 FOMC meeting and Thursday's PCE data dominate bullion, with a December hike now priced near 75%.",
+      "title": "Fed week takes centre stage"
     },
     {
-      "title": "Gold steadies after steep weekly fall",
-      "summary": "A softer oil price gave gold room to recover above $4,000, but analysts warn the bounce could be capped until the Fed decision lands.",
       "item_ids": [
         "16a432ab40ea0fc8",
-        "55e026ae7e17c9de",
-        "a87f73df960b1cf7"
-      ]
+        "a60e9dcf53ec4f93"
+      ],
+      "summary": "A 4% weekly drop took gold to its lowest since mid-July, but softer oil helped it back above $4,000 on Monday.",
+      "title": "Gold steadies after steep weekly fall"
     },
     {
-      "title": "Silver holds near $54 after 2026 low",
-      "summary": "Silver slipped below $54 before steadying near $54, with physical trading quiet into the Fed meeting even as UBS holds a $70 target.",
       "item_ids": [
+        "a60e9dcf53ec4f93",
         "f5a0ed214ed2049e",
-        "a69aef3613b5e208",
         "a115f44d402bc6e5"
-      ]
+      ],
+      "summary": "Silver trades near $54.20 after a sharp correction from January's record, with physical demand quiet into the Fed meeting.",
+      "title": "Silver holds near $54 after 2026 low"
     },
     {
-      "title": "Festive buying meets lower prices",
-      "summary": "With gold off its highs and Dhanteras ahead, buyers are booking jewellery at current rates while the World Gold Council tracks demand.",
       "item_ids": [
         "8673f2819ce8832d",
-        "1d70823b20e803c3",
-        "d533789fefbea206"
-      ]
+        "1d70823b20e803c3"
+      ],
+      "summary": "Dhanteras buyers are locking rates and weighing jewellery purchases as gold sits well below its January record.",
+      "title": "Festive buying meets lower prices"
     }
   ],
   "items": [
+    {
+      "category": "global",
+      "image_kind": "photo",
+      "image_url": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/Main-Images-1-3.jpg?width=1201",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "published_at": "2026-10-26T06:30:00Z",
+      "publisher_id": "fxempire",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "summary": "Spot gold rose 0.4% to $4,009.87 an ounce on Monday as softer oil prices eased inflation worries, after a 4% weekly fall, its steepest in more than four months, ahead of the Federal Reserve's October 27-28 meeting. FXEmpire notes gold trades below a falling trendline, with CME FedWatch pricing about a 75% chance of at least one Fed hike by December; silver held near $54.20 after touching $53.43.",
+      "tags": [
+        "gold",
+        "silver",
+        "global",
+        "fed"
+      ],
+      "title": "Gold (XAUUSD) & Silver Price Forecast: Gold Steadies Into Fed Week as Hike Odds Hit 75%, Can Gold Hold $3,946?",
+      "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-gold-steadies-into-fed-week-as-hike-odds-hit-75-can-gold-hold-3946-1640257",
+      "id": "a60e9dcf53ec4f93",
+      "breaking": false,
+      "rank": 1
+    },
     {
       "id": "16a432ab40ea0fc8",
       "title": "Gold gains on softer oil prices; Fed decision in focus",
@@ -79,7 +102,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 1
+      "rank": 2
     },
     {
       "id": "74ed7a12182584b7",
@@ -102,7 +125,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "55e026ae7e17c9de",
@@ -128,7 +151,7 @@
         "india"
       ],
       "breaking": false,
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "f5a0ed214ed2049e",
@@ -151,7 +174,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "a115f44d402bc6e5",
@@ -174,7 +197,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "c839bdd060f732f8",
@@ -197,32 +220,6 @@
       "metals": [
         "gold",
         "silver"
-      ],
-      "breaking": false,
-      "rank": 6
-    },
-    {
-      "id": "a87f73df960b1cf7",
-      "title": "Gold and Silver Price Forecast: Metals Face Pressure Ahead of the Fed",
-      "summary": "FXEmpire notes Brent crude eased to about $115.80 in early Asian trade after nearing $118 last week, but high energy prices still keep gold and silver under pressure ahead of the Fed meeting. Its forecast sees gold falling toward $3,800 if it breaks below $3,950, and silver risking a drop toward $50 while it stays below $55, with US PCE inflation data due October 29 as the next trigger.",
-      "url": "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-metals-face-pressure-ahead-of-the-fed-1640226",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "publisher_id": "fxempire",
-      "published_at": "2026-10-26T01:30:00Z",
-      "image_url": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/gold-and-silver-precious-metals-02-1.jpg?width=1201",
-      "image_kind": "photo",
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "comex",
-        "fed",
-        "global"
       ],
       "breaking": false,
       "rank": 7
