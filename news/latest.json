@@ -1,26 +1,26 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-26T05:00Z",
-  "generated_at": "2026-10-26T05:31:23Z",
+  "edition_id": "2026-10-26T06:00Z",
+  "generated_at": "2026-10-26T06:02:19Z",
   "window": {
     "from": "2026-10-26T04:00:00Z",
-    "to": "2026-10-26T05:00:00Z"
+    "to": "2026-10-26T06:00:00Z"
   },
   "insights": {
     "headline": "Gold back above $4,000 as softer oil eases pressure ahead of Fed meeting",
-    "summary": "Spot gold rose 0.4% to $4,009.87 an ounce on Monday after a 4% weekly fall, its steepest since June, while silver edged up to $54.19. Markets await the Federal Reserve's October 28 meeting, with traders expecting rates on hold this week and pricing a 75% chance of a December hike. On MCX, gold held near ₹1.42 lakh per 10 grams and silver near ₹1.96 lakh per kg, with festive buyers locking rates for Dhanteras.",
+    "summary": "Spot gold rose 0.4% to $4,009.87 an ounce on Monday after a 4% weekly fall, its steepest since June, while silver edged up to $54.19. Markets await the Federal Reserve's October 27-28 meeting, with traders expecting rates on hold this week and pricing a 75% chance of a December hike. On MCX, gold held near ₹1.42 lakh per 10 grams and silver near ₹1.96 lakh per kg, with festive buyers locking rates for Dhanteras.",
     "points": [
       "Spot gold rose 0.4% to $4,009.87 after a 4% weekly fall, its steepest since June.",
       "Silver edged up 0.6% to $54.19; MCX silver held near ₹1.96 lakh per kg.",
-      "The Fed meets October 28; traders expect a hold, with a 75% chance of a December hike.",
-      "MCX December gold held near ₹1.42 lakh per 10 grams after last week's correction.",
+      "Silver's physical market has gone quiet into the Fed meeting, yet UBS keeps a $70 target.",
+      "The Fed meets October 27-28; traders expect a hold, with a 75% chance of a December hike.",
       "Festive buyers can book jewellery now and lock rates for Dhanteras delivery, with IBJA gold at ₹1,41,630 per 10 grams."
     ]
   },
   "trending": [
     {
       "title": "Fed week takes centre stage",
-      "summary": "With the Fed meeting October 28, a likely hold, December hike bets at 75% and PCE data due October 29, rate expectations are driving bullion.",
+      "summary": "With the Fed meeting October 27-28, a likely hold, December hike bets at 75% and PCE data due October 29, rate expectations are driving bullion.",
       "item_ids": [
         "16a432ab40ea0fc8",
         "74ed7a12182584b7",
@@ -38,11 +38,11 @@
     },
     {
       "title": "Silver holds near $54 after 2026 low",
-      "summary": "Silver slipped below $54 before steadying at $54.19, with MCX silver under ₹2 lakh for the first time since December 2025.",
+      "summary": "Silver slipped below $54 before steadying near $54, with physical trading quiet into the Fed meeting even as UBS holds a $70 target.",
       "item_ids": [
         "f5a0ed214ed2049e",
         "a69aef3613b5e208",
-        "16a432ab40ea0fc8"
+        "a115f44d402bc6e5"
       ]
     },
     {
@@ -154,6 +154,29 @@
       "rank": 4
     },
     {
+      "id": "a115f44d402bc6e5",
+      "title": "Silver's Physical Market Goes Quiet While UBS Keeps Its $70 Bet Alive",
+      "summary": "Silver fell 5.7% over seven days to $53.96 as buyers and sellers held back ahead of the Federal Reserve's October 27-28 meeting, ad-hoc-news reports. Physical trading has gone quiet even as UBS kept its $70 target for December 2026, leaving the metal caught between a soft spot market and a still-constructive bank forecast.",
+      "url": "https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/silver-s-physical-market-goes-quiet-while-ubs-keeps-its-70-bet-alive/70411672",
+      "source": "ad-hoc-news",
+      "source_domain": "ad-hoc-news.de",
+      "publisher_id": "ad-hoc-news",
+      "published_at": "2026-10-26T05:20:36Z",
+      "image_url": "https://mdb.ad-hoc-news.de/bild/bild-2831666_1920_1080.webp",
+      "image_kind": "photo",
+      "tags": [
+        "silver",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 5
+    },
+    {
       "id": "c839bdd060f732f8",
       "title": "Gold, silver face fresh test as oil surge puts Fed policy decision in focus",
       "summary": "Gold and silver head into the Federal Reserve's October 27-28 meeting under pressure after a week of heavy selling. MCX gold fell nearly 4% on the week to about ₹1.42 lakh per 10 grams and silver slipped below ₹2 lakh per kg; Comex gold futures closed at $4,007.90 after briefly dipping to $3,989 and silver futures settled at $53.95.",
@@ -176,7 +199,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "a87f73df960b1cf7",
@@ -202,7 +225,7 @@
         "global"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "8673f2819ce8832d",
@@ -225,7 +248,7 @@
         "india"
       ],
       "breaking": false,
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "549a2840c9db2697",
@@ -248,7 +271,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "d533789fefbea206",
@@ -272,7 +295,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "1d70823b20e803c3",
@@ -291,29 +314,6 @@
         "jewellery"
       ],
       "category": "festive",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 10
-    },
-    {
-      "id": "08160660f56323a9",
-      "title": "Gold prices break $4,000, putting a crucial July low to the test",
-      "summary": "Spot gold finished Friday near $3,996 after slipping below $4,000, its worst week since June. Bank of America strategist Paul Ciana flagged July's $3,943 low as the next test, while oil-driven inflation worries and the Federal Reserve's October 27-28 meeting frame the week ahead.",
-      "url": "https://www.thestreet.com/investing/gold-prices-4000-support-break",
-      "source": "TheStreet",
-      "source_domain": "thestreet.com",
-      "publisher_id": "thestreet",
-      "published_at": "2026-10-24T23:17:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "global",
-        "fed"
-      ],
-      "category": "global",
       "metals": [
         "gold"
       ],
