@@ -1,59 +1,85 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-26T02:00Z",
-  "generated_at": "2026-10-26T02:05:14Z",
+  "edition_id": "2026-10-26T03:00Z",
+  "generated_at": "2026-10-26T03:08:08Z",
   "window": {
-    "from": "2026-10-26T00:00:00Z",
-    "to": "2026-10-26T02:00:00Z"
+    "from": "2026-10-26T01:00:00Z",
+    "to": "2026-10-26T03:00:00Z"
   },
   "insights": {
-    "headline": "MCX gold at Rs 1.42 lakh and silver under Rs 2 lakh as oil-fuelled Fed hike bets set the week ahead",
-    "summary": "Spot gold traded around the $4,000 mark after a near-4% weekly drop, as surging crude oil revived inflation worries and bets on a December Federal Reserve rate hike. On MCX, gold futures fell nearly 4% on the week to Rs 1.42 lakh per 10 grams and silver slid 7.14% to Rs 1.96 lakh per kg. Ahead of Dhanteras, the price dip has buyers looking at locking in current rates for festival delivery.",
+    "headline": "Gold near three-month low, silver under $54 as Fed meeting week begins",
+    "summary": "Spot gold hovered near $3,987 an ounce, its lowest since mid-July, after a 4% weekly fall, while silver slipped below $54 as safe-haven demand eased. Markets now await the Federal Reserve's October 27-28 meeting, with CME FedWatch pricing a high chance of a pause and higher odds of a December hike. On MCX, gold held near ₹1.42 lakh per 10 grams and silver near ₹1.96 lakh per kg after last week's correction, with festive buyers eyeing Dhanteras.",
     "points": [
-      "MCX December gold fell Rs 5,768 (nearly 4%) on the week to Rs 1.42 lakh per 10 grams; silver fell 7.14% to Rs 1.96 lakh per kg.",
-      "Gold traded around the $4,000 mark after falling about 4% on the week, with COMEX December futures at $4,007.90 an ounce.",
-      "Markets expect the Fed to hold on October 27-28 but see high odds of a December hike; PCE inflation data lands October 29.",
-      "Brent crude eased to about $115.80 after nearing $118, keeping inflation and rate-hike fears alive.",
-      "Festive buyers can book jewellery now and lock rates for Dhanteras delivery, with IBJA gold at Rs 1,41,630 per 10 grams."
+      "Spot gold traded near $3,987, its lowest since mid-July, after a 4% weekly fall — the steepest since June.",
+      "Silver slipped below $54 to around $53.70 as safe-haven demand eased; MCX silver held near ₹1.96 lakh per kg.",
+      "The Fed meets October 27-28; CME FedWatch prices a 90.6% chance of a pause, with PCE inflation data due October 29.",
+      "MCX December gold held near ₹1.42 lakh per 10 grams after falling nearly 4% on the week.",
+      "Festive buyers can book jewellery now and lock rates for Dhanteras delivery, with IBJA gold at ₹1,41,630 per 10 grams."
     ]
   },
   "trending": [
     {
       "title": "Fed week takes centre stage",
-      "summary": "With the Fed meeting October 27-28, December hike bets, PCE data due October 29 and oil near $118, rate expectations are now the main driver for bullion.",
+      "summary": "With the Fed meeting October 27-28, a likely pause, December hike bets and PCE data due October 29, rate expectations are now the main driver for bullion.",
       "item_ids": [
+        "15d2f136701e0b01",
+        "f5a0ed214ed2049e",
         "55e026ae7e17c9de",
-        "a87f73df960b1cf7",
-        "c839bdd060f732f8"
+        "a87f73df960b1cf7"
       ]
     },
     {
-      "title": "MCX metals correct sharply into the festival",
-      "summary": "Gold is down nearly 4% on the week on MCX and silver has slipped below Rs 2 lakh, with bears still in control of domestic futures.",
+      "title": "Silver's slide steepens",
+      "summary": "Silver fell below $54 and closed at its weakest of 2026, with MCX silver under ₹2 lakh for the first time since December 2025 as funds cut exposure.",
       "item_ids": [
-        "55e026ae7e17c9de",
-        "a69aef3613b5e208",
-        "20d0afd854dd48dd"
+        "f5a0ed214ed2049e",
+        "7c3a146fab9ad9e4",
+        "a69aef3613b5e208"
       ]
     },
     {
-      "title": "Dhanteras buying meets a price dip",
-      "summary": "Lower prices are giving festive shoppers a window: rate locks for Dhanteras delivery, and the World Gold Council sees the season supporting jewellery spend.",
+      "title": "Festive buying meets lower prices",
+      "summary": "With gold off its highs and Dhanteras ahead, buyers are booking jewellery at current rates while the World Gold Council notes early festive demand strength.",
       "item_ids": [
         "8673f2819ce8832d",
-        "1d70823b20e803c3"
+        "1d70823b20e803c3",
+        "d533789fefbea206"
       ]
     },
     {
-      "title": "Central banks and the $1 trillion US gold pile",
-      "summary": "Central-bank buying stays split — Russia selling, China buying — while debate continues over the $1 trillion market value of US gold reserves.",
+      "title": "Oil keeps inflation fears alive",
+      "summary": "Brent crude near $115-$120 after last week's surge keeps inflation worries and rate-hike bets in play for bullion.",
       "item_ids": [
-        "549a2840c9db2697",
-        "6ef0aa1dc1b7ccd0"
+        "c839bdd060f732f8",
+        "408d5b6156dfa6ce",
+        "55e026ae7e17c9de"
       ]
     }
   ],
   "items": [
+    {
+      "id": "15d2f136701e0b01",
+      "title": "Gold lingers near three-month low ahead of Fed policy meeting",
+      "summary": "Spot gold hovered near a three-month low on Monday as investors awaited the Federal Reserve's October 27-28 policy meeting for clues on US interest rates. Bullion fell 4% last week, its steepest weekly drop since June, after touching its lowest since mid-July. US December gold futures eased 0.2% to $4,000.80, while oil prices slipped after last week's surge.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-lingers-near-three-month-low-ahead-of-fed-policy-meeting/articleshow/135200563.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-10-26T01:54:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/15d2f136701e0b01.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 1
+    },
     {
       "id": "55e026ae7e17c9de",
       "title": "Bullion outlook hinges on Fed as oil fuels inflation fears",
@@ -78,7 +104,30 @@
         "india"
       ],
       "breaking": false,
-      "rank": 1
+      "rank": 2
+    },
+    {
+      "id": "f5a0ed214ed2049e",
+      "title": "Silver Price Forecast: XAG/USD slips below $54.00 amid easing safe-haven demand",
+      "summary": "Silver slipped below $54 an ounce in Asian trading, around $53.70, as safe-haven demand eased after US President Donald Trump ruled out an immediate strike on Iran. Elevated energy prices kept expectations of higher-for-longer rates in focus, and traders now await the Fed's October 27-28 meeting, with CME FedWatch pricing a 90.6% chance of a pause.",
+      "url": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-slips-below-5400-amid-easing-safe-haven-demand-202610260155",
+      "source": "FXStreet",
+      "source_domain": "fxstreet.com",
+      "publisher_id": "fxstreet",
+      "published_at": "2026-10-26T01:55:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/f5a0ed214ed2049e.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "silver",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 3
     },
     {
       "id": "c839bdd060f732f8",
@@ -103,7 +152,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 2
+      "rank": 4
     },
     {
       "id": "a87f73df960b1cf7",
@@ -129,7 +178,7 @@
         "global"
       ],
       "breaking": false,
-      "rank": 3
+      "rank": 5
     },
     {
       "id": "8673f2819ce8832d",
@@ -152,7 +201,7 @@
         "india"
       ],
       "breaking": false,
-      "rank": 4
+      "rank": 6
     },
     {
       "id": "549a2840c9db2697",
@@ -175,7 +224,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 5
+      "rank": 7
     },
     {
       "id": "a43c53c856556b21",
@@ -198,7 +247,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 8
     },
     {
       "id": "d533789fefbea206",
@@ -222,7 +271,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 7
+      "rank": 9
     },
     {
       "id": "1d70823b20e803c3",
@@ -245,7 +294,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 10
     },
     {
       "id": "7c3a146fab9ad9e4",
@@ -268,7 +317,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 11
     },
     {
       "id": "08160660f56323a9",
@@ -291,7 +340,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 12
     },
     {
       "id": "96ddf3810c3af257",
@@ -315,7 +364,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 13
     },
     {
       "id": "20d0afd854dd48dd",
@@ -339,7 +388,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 14
     },
     {
       "id": "a69aef3613b5e208",
@@ -362,7 +411,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 13
+      "rank": 15
     },
     {
       "id": "b21148aecc1bb80e",
@@ -387,7 +436,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 16
     },
     {
       "id": "6d1cc34853f3c178",
@@ -410,7 +459,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 15
+      "rank": 17
     },
     {
       "id": "6ef0aa1dc1b7ccd0",
@@ -433,30 +482,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 16
-    },
-    {
-      "id": "a05ac18c35be3dfe",
-      "title": "RBI’s forward dollar sales surge to record $200 billion in August",
-      "summary": "The RBI's net forward dollar sales position climbed to a record $200.06 billion at the end of August from $136.77 billion in July, central bank bulletin data showed. The central bank also made record net spot purchases of $43.26 billion in August as it absorbed inflows from deposit schemes, balancing the flows with swaps.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-net-forex-buys-hit-a-record-43-billion-in-august-balances-it-with-swaps/articleshow/135159794.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "publisher_id": "economic-times",
-      "published_at": "2026-10-24T02:20:15Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/a05ac18c35be3dfe.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "rupee",
-        "rbi"
-      ],
-      "category": "policy",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 17
+      "rank": 18
     },
     {
       "id": "00bc6ea416cfa2e9",
@@ -481,7 +507,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 18
+      "rank": 19
     },
     {
       "id": "408d5b6156dfa6ce",
@@ -506,11 +532,11 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 19
+      "rank": 20
     },
     {
       "id": "fa808e461926b30e",
-      "rank": 20,
+      "rank": 21,
       "title": "Gold Price Surge From 2022 To 2026: What Fueled The Rise In 5 Years And Why Are Prices Falling Today? Check Year-by-Year Comparison",
       "summary": "Gold has fallen to about $4,000 an ounce, nearly 29% below its January peak of $5,595, after climbing from a 2022 average of $1,802. On October 25, retail 24K gold in India stood at ₹1,42,580 per 10 grams and MCX December futures at ₹1,42,150, down 0.81%. The pullback is attributed to a stronger dollar, oil-driven inflation, higher-for-longer US rate expectations and profit-booking.",
       "url": "https://www.jagranjosh.com/general-knowledge/gold-price-surge-from-2022-to-2026-what-fueled-the-rise-in-5-years-and-why-are-prices-falling-today-check-yearbyyear-comparison-1820013327-1",
