@@ -1,4 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-10-26T11:00Z
+# Gold & Silver for Indian buyers · 2026-10-26T12:00Z
 
 > Gold steadies near $4,010 into Fed week as the rupee's slide adds to import costs
 
@@ -12,10 +12,10 @@ Spot gold held near $4,010 an ounce on Monday after a more than 4% weekly fall, 
 
 ## Trending
 - **Fed week takes centre stage**: The October 27-28 FOMC meeting and Thursday's PCE data dominate bullion, with a December hike now priced near 75%. (stories 1, 2, 3, 6, 10)
-- **Silver's slide puts $50 in focus**: Silver's two-week slide has outpaced gold's, breaking below $54 and its July low, with $50 now the level traders are watching. (stories 9, 13, 11, 8)
+- **Silver's slide puts $50 in focus**: Silver's two-week slide has outpaced gold's, breaking below $54 and its July low, with $50 now the level traders are watching. (stories 8, 9, 11, 13)
 - **Festive buying meets lower prices**: Gold's pullback lands just ahead of Dhanteras and Diwali, giving festive buyers lower prices but no clear all-clear from analysts. (stories 4, 14, 15)
 - **Rupee slides a third session**: Importer dollar demand, crude near $115 and foreign outflows pushed the rupee to 95.1850, lifting the landed cost of bullion imports. (stories 7)
-- **Central banks split as demand broadens**: Central banks are divided, with Russia selling and China buying, even as gold's demand base broadens below $4,000. (stories 17, 16)
+- **Central banks split as demand broadens**: Central banks are divided, with Russia selling and China buying, even as gold's demand base broadens below $4,000. (stories 16, 17)
 
 ## Stories
 1. [Gold (XAUUSD) & Silver Price Forecast: Gold Steadies Into Fed Week as Hike Odds Hit 75%, Can Gold Hold $3,946?](https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-gold-steadies-into-fed-week-as-hike-odds-hit-75-can-gold-hold-3946-1640257) — *FXEmpire*, 2026-10-26T06:30:00Z
@@ -52,11 +52,9 @@ Spot gold held near $4,010 an ounce on Monday after a more than 4% weekly fall, 
    Gold closed Friday at $3,997.48, below $4,000 for the first time since mid-July, in its steepest weekly loss in over four months — yet demand signals point the other way. Speculators cut net-long gold futures by 8,014 to 199,865, while China added 23 tonnes in September, Indian gold ETFs drew ₹17.22 billion in early October, and Goldman Sachs put August central-bank buying at 79 tonnes.
 17. [Central banks split over gold: Russia is selling, China is buying](https://www.euronews.com/2026/10/25/gold-market-and-central-banks-russia-kazakhstan-sell-as-poland-china-buy) — *Euronews*, 2026-10-25T06:58:33Z
    China stretched its gold-buying streak to a 23rd straight month with a 740,000-ounce September purchase, its largest since September 2023, while Russia has sold 56 tonnes this year, World Gold Council data show. Poland, the year's biggest buyer, and Kazakhstan sit on the buying side of a split that shows official demand is far from one-directional even as prices correct.
-18. [Silver price has broken below ₹2 lakh for the first time since December 2025: Is this the right time to buy for returns?](https://www.livemint.com/market/stock-market-news/silver-price-has-broken-below-2-lakh-for-the-first-time-since-december-2025-is-this-the-right-time-to-buy-for-returns-11792841534411.html) — *Mint*, 2026-10-24T12:05:14Z
-   Silver fell to ₹1,92,800 per kg on MCX on Friday, its first close below ₹2 lakh since December 2025, after losing about ₹6,800 in a session. It is down 22.5% from its August peak of ₹2,48,800 and over 50% below January's ₹4,20,048 record. Augmont's Renisha Chainani put $50–$55 as a support zone, with a possible 10–15% rebound ahead.
-19. [Gold, Silver Prices Dip But Many Gold ETF FoFs Temporarily Halt Fresh Inflows: What Are Your Options?](https://www.ndtvprofit.com/markets/gold-silver-prices-dip-but-many-gold-etf-fofs-temporarily-halt-fresh-inflows-what-are-your-options-12225063) — *NDTV Profit*, 2026-10-25T01:30:01Z
+18. [Gold, Silver Prices Dip But Many Gold ETF FoFs Temporarily Halt Fresh Inflows: What Are Your Options?](https://www.ndtvprofit.com/markets/gold-silver-prices-dip-but-many-gold-etf-fofs-temporarily-halt-fresh-inflows-what-are-your-options-12225063) — *NDTV Profit*, 2026-10-25T01:30:01Z
    Gold slipped nearly Rs 1,700 to about Rs 1,44,340 per 10 grams and silver fell below Rs 2 lakh per kg ahead of Diwali and Dhanteras, pressured by Middle East tensions and US rate expectations. Since October 16, several fund houses have temporarily stopped fresh investments into gold ETF fund-of-funds, while existing SIPs continue and gold ETFs bought directly on the exchanges remain open.
-20. [Senco Gold to acquire 68% stake in August Jewellery for ₹68 crore](https://www.business-standard.com/companies/news/senco-gold-to-acquire-68-stake-in-august-jewellery-for-68-crore-126102500549_1.html) — *Business Standard*, 2026-10-25T14:16:02Z
+19. [Senco Gold to acquire 68% stake in August Jewellery for ₹68 crore](https://www.business-standard.com/companies/news/senco-gold-to-acquire-68-stake-in-august-jewellery-for-68-crore-126102500549_1.html) — *Business Standard*, 2026-10-25T14:16:02Z
    Senco Gold has signed definitive agreements to buy a 68% stake in August Jewellery, the company behind online jewellery brand Melorra, for ₹68 crore in tranches. With a promoter-group entity also investing, the total holding will reach 79% and August Jewellery will become a Senco subsidiary, with completion targeted by February 2027.
-21. [Gold Price Surge From 2022 To 2026: What Fueled The Rise In 5 Years And Why Are Prices Falling Today? Check Year-by-Year Comparison](https://www.jagranjosh.com/general-knowledge/gold-price-surge-from-2022-to-2026-what-fueled-the-rise-in-5-years-and-why-are-prices-falling-today-check-yearbyyear-comparison-1820013327-1) — *Jagran Josh*, 2026-10-25T06:26:00Z
+20. [Gold Price Surge From 2022 To 2026: What Fueled The Rise In 5 Years And Why Are Prices Falling Today? Check Year-by-Year Comparison](https://www.jagranjosh.com/general-knowledge/gold-price-surge-from-2022-to-2026-what-fueled-the-rise-in-5-years-and-why-are-prices-falling-today-check-yearbyyear-comparison-1820013327-1) — *Jagran Josh*, 2026-10-25T06:26:00Z
    Gold has fallen to about $4,000 an ounce, nearly 29% below its January peak of $5,595, after climbing from a 2022 average of $1,802. On October 25, retail 24K gold in India stood at ₹1,42,580 per 10 grams and MCX December futures at ₹1,42,150, down 0.81%. The pullback is attributed to a stronger dollar, oil-driven inflation, higher-for-longer US rate expectations and profit-booking.
