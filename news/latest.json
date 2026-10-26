@@ -1,30 +1,41 @@
 {
  "schema": "orob-news.v1",
- "edition_id": "2026-10-26T14:00Z",
- "generated_at": "2026-10-26T14:08:44Z",
+ "edition_id": "2026-10-26T16:00Z",
+ "generated_at": "2026-10-26T16:04:45Z",
  "window": {
-  "from": "2026-10-26T12:00:00Z",
-  "to": "2026-10-26T14:00:00Z"
+  "from": "2026-10-26T14:00:00Z",
+  "to": "2026-10-26T16:00:00Z"
  },
  "insights": {
-  "headline": "Gold climbs back above $4,000 ahead of the Fed meeting as oil eases; India prices steady into Dhanteras",
-  "summary": "Spot gold recovered above $4,000 to about $4,014 an ounce on Monday as falling crude prices eased inflation worries ahead of the Federal Reserve's October 27-28 meeting, after its steepest weekly fall in more than four months. In India, gold closed ₹80 higher at ₹1,41,710 per 10 grams on IBJA data while silver rose to ₹1,94,479 per kg, and MCX December futures held near ₹1.42 lakh per 10 grams. The rupee closed at 95.1850 per dollar, its third straight fall, adding to the landed cost of bullion ahead of Dhanteras.",
+  "headline": "Gold holds above $4,000 and silver steadies near $54 as Fed-week positioning turns cautious",
+  "summary": "Spot gold traded around $4,021 on Monday after reclaiming $4,000, with silver near $54.15, as softer crude eased inflation worries ahead of the Federal Reserve's October 27-28 meeting. In India, gold closed ₹80 higher at ₹1,41,710 per 10 grams on IBJA data while silver rose to ₹1,94,479 per kg, and the rupee closed at 95.1850 per dollar, its third straight fall. COMEX positioning turned more cautious: silver's managed-money net long fell to 3,505 contracts as shorts rose faster than longs, while gold's speculative net longs have fallen for eight straight weeks.",
   "points": [
-   "Spot gold near $4,014 after reclaiming $4,000; silver near $54 ahead of the Fed's October 27-28 meeting.",
-   "IBJA gold closed at ₹1,41,710 per 10 grams, up ₹80; silver at ₹1,94,479 per kg, up ₹64.",
+   "Spot gold near $4,021 after reclaiming $4,000; silver near $54.15 ahead of the Fed's October 27-28 meeting.",
+   "IBJA gold closed at ₹1,41,710 per 10 grams, up ₹80; silver at ₹1,94,479 per kg.",
    "The rupee closed at 95.1850 per dollar, down a third straight session on importer demand and outflows.",
-   "FXEmpire's analysis sees gold sideways near $4,012 into mid-December unless SPDR holdings drop below 999 tonnes.",
-   "Heraeus flags Brent above $110 a barrel against falling yields; Fresnillo's silver output slid in 2026."
+   "COMEX silver net long fell to 3,505 contracts as shorts rose 2,492 against 378 new longs.",
+   "Gold's speculative net longs have fallen eight straight weeks, a modest retreat against the price fall."
   ]
  },
  "trending": [
   {
    "title": "Fed week sets the tone for bullion",
-   "summary": "With the Fed meeting on October 27-28 and PCE data due next, every gold and silver move is read through the rate path: softer oil gave Monday's rebound room, but December hike bets still cap gains.",
+   "summary": "With the Fed meeting on October 27-28 and PCE data due next, every gold and silver move is read through the rate path: softer oil gave Monday's rebound room, but cautious positioning still caps gains.",
    "item_ids": [
     "9ecec5f35445c82d",
-    "9c9e9f76dbdcd842",
+    "c40cfca3cc1ffc08",
+    "55e026ae7e17c9de",
     "6111010452eca74d"
+   ]
+  },
+  {
+   "title": "Silver's slide puts $50 in focus",
+   "summary": "Silver has fallen further than gold from its highs, with $50 eyed as a key level as COMEX shorts outpace new longs and HSBC sees limited near-term gains while UBS keeps a $70 view for December 2026.",
+   "item_ids": [
+    "256e560358e9ad76",
+    "2e11f9228e366df6",
+    "651c4bcfcbdb085c",
+    "a115f44d402bc6e5"
    ]
   },
   {
@@ -38,20 +49,11 @@
    ]
   },
   {
-   "title": "Silver's deeper slide in focus",
-   "summary": "Silver has fallen further than gold from its highs, with $50 eyed as a key level while HSBC sees limited near-term gains and UBS keeps a $70 view for December 2026.",
-   "item_ids": [
-    "651c4bcfcbdb085c",
-    "2e11f9228e366df6",
-    "a115f44d402bc6e5"
-   ]
-  },
-  {
    "title": "A weaker rupee raises local costs",
    "summary": "The rupee's third straight fall to 95.1850 per dollar lifts the landed cost of dollar-priced bullion for Indian buyers, even as global prices steady.",
    "item_ids": [
     "a6d4836ace5da8e4",
-    "55e026ae7e17c9de"
+    "7ef041f4d623cb96"
    ]
   }
  ],
@@ -85,6 +87,31 @@
    "rank": 1
   },
   {
+   "id": "c40cfca3cc1ffc08",
+   "title": "Gold Reclaims $4000 as Data Show Modest Speculative Retreat Before Latest Sell-Off",
+   "summary": "Spot gold traded at $4,021 an ounce by Monday lunchtime, up 0.2% from Friday's London PM auction, after falling 4.2% last week to $4,013 at Friday's fix. BullionVault notes eight straight weeks of declines in speculative net longs in Comex gold futures and options, a modest retreat relative to the price fall; silver traded at $54.15, up 0.5%, after a 6.6% weekly fall.",
+   "url": "https://www.bullionvault.co.uk/gold-news/gold-price-news/gold-reclaims-4000-modest-speculative-selling-102620262",
+   "source": "BullionVault",
+   "source_domain": "bullionvault.co.uk",
+   "publisher_id": "bullionvault",
+   "published_at": "2026-10-26T14:17:17Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "gold",
+    "silver",
+    "global",
+    "fed"
+   ],
+   "category": "global",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "rank": 2
+  },
+  {
    "id": "b205d808d1901d8c",
    "title": "Gold Stalls Near $4,012 Unless the SPDR Trust Drops Below 999 Tonnes",
    "summary": "FXEmpire's analysis puts gold fixed at $4,013.30 on October 23, about 26% below its January record, and expects the metal to trade sideways near $4,012 into mid-December, moving lower if SPDR Gold Trust holdings fall below 999 tonnes. The piece attributes most of the fall from the record to five sessions in which real yields rose.",
@@ -104,30 +131,31 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 2
+   "rank": 3
   },
   {
-   "id": "9c9e9f76dbdcd842",
-   "title": "Gold News: XAUUSD Gets Fed-Week Relief, but Inflation Keeps Bears in Control",
-   "summary": "Gold edged higher ahead of the Federal Reserve's October 27-28 meeting, but FXEmpire's read stays bearish: December hike odds and upcoming PCE inflation data keep resistance overhead, and the metal's broader downtrend remains intact despite the Fed-week relief.",
-   "url": "https://www.fxempire.com/forecasts/article/gold-news-xauusd-gets-fed-week-relief-but-inflation-keeps-bears-in-control-1640273",
-   "source": "FXEmpire",
-   "source_domain": "fxempire.com",
-   "publisher_id": "fxempire",
-   "published_at": "2026-10-26T10:42:17Z",
-   "image_url": null,
-   "image_kind": "none",
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
+   "id": "d15552d68bcb2494",
+   "title": "Gold prices squeezed between rising oil and falling yields, Fresnillo silver output declines in 2026 – Heraeus",
+   "summary": "Heraeus analysts say gold is caught between rising oil prices, with Brent back above $110 a barrel after renewed Houthi attacks in Saudi Arabia, and falling Treasury yields, the 10-year yield retreating toward 5.0% from about 5.35% earlier in October. The firm also notes output at Fresnillo, the world's largest primary silver producer, slid over the first three quarters of 2026.",
+   "url": "https://www.kitco.com/news/article/2026-10-26/gold-prices-squeezed-between-rising-oil-and-falling-yields-fresnillo-silver",
+   "source": "Kitco",
+   "source_domain": "kitco.com",
+   "publisher_id": "kitco",
+   "published_at": "2026-10-26T13:26:55Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/d15552d68bcb2494.jpg",
+   "image_kind": "photo",
    "tags": [
     "gold",
-    "global",
-    "fed"
+    "silver",
+    "global"
+   ],
+   "category": "global",
+   "metals": [
+    "gold",
+    "silver"
    ],
    "breaking": false,
-   "rank": 3
+   "rank": 4
   },
   {
    "category": "global",
@@ -152,31 +180,31 @@
    "url": "https://www.moneyweb.co.za/mineweb/gold-steadies-after-weekly-drop-as-focus-shifts-to-fed-meeting/",
    "id": "6111010452eca74d",
    "breaking": false,
-   "rank": 4
+   "rank": 5
   },
   {
-   "id": "d15552d68bcb2494",
-   "title": "Gold prices squeezed between rising oil and falling yields, Fresnillo silver output declines in 2026 – Heraeus",
-   "summary": "Heraeus analysts say gold is caught between rising oil prices, with Brent back above $110 a barrel after renewed Houthi attacks in Saudi Arabia, and falling Treasury yields, the 10-year yield retreating toward 5.0% from about 5.35% earlier in October. The firm also notes output at Fresnillo, the world's largest primary silver producer, slid over the first three quarters of 2026.",
-   "url": "https://www.kitco.com/news/article/2026-10-26/gold-prices-squeezed-between-rising-oil-and-falling-yields-fresnillo-silver",
-   "source": "Kitco",
-   "source_domain": "kitco.com",
-   "publisher_id": "kitco",
-   "published_at": "2026-10-26T13:26:55Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/d15552d68bcb2494.jpg",
-   "image_kind": "photo",
+   "id": "256e560358e9ad76",
+   "title": "Silver Below $55 as COMEX Shorts Outpace New Longs",
+   "summary": "Silver trades below $55 as COMEX shorts rise faster than longs, increasing breakdown risk ahead of the Fed decision despite easing real yields. CFTC data published October 23, for positions as of October 20, show managed-money longs up 378 contracts to 16,180 while shorts rose 2,492 to 12,675, cutting the net long to 3,505 from 5,619 a week earlier.",
+   "url": "https://www.fxempire.com/forecasts/article/silver-below-55-as-comex-shorts-outpace-new-longs-1640404",
+   "source": "FXEmpire",
+   "source_domain": "fxempire.com",
+   "publisher_id": "fxempire",
+   "published_at": "2026-10-26T14:49:46Z",
+   "image_url": null,
+   "image_kind": "none",
    "tags": [
-    "gold",
     "silver",
-    "global"
+    "global",
+    "comex",
+    "fed"
    ],
    "category": "global",
    "metals": [
-    "gold",
     "silver"
    ],
    "breaking": false,
-   "rank": 5
+   "rank": 6
   },
   {
    "id": "bb048d589d3ce8de",
@@ -200,7 +228,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 6
+   "rank": 7
   },
   {
    "category": "mcx",
@@ -224,7 +252,7 @@
    "url": "https://ianslive.in/gold-silver-bounce-back-after-sharp-sell-off-yellow-metal-near-3-month-low--20261026121754",
    "id": "b8073cb5badab86d",
    "breaking": false,
-   "rank": 7
+   "rank": 8
   },
   {
    "id": "7ef041f4d623cb96",
@@ -249,7 +277,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 8
+   "rank": 9
   },
   {
    "id": "a6d4836ace5da8e4",
@@ -274,7 +302,7 @@
     "rupee"
    ],
    "breaking": false,
-   "rank": 9
+   "rank": 10
   },
   {
    "id": "651c4bcfcbdb085c",
@@ -296,7 +324,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 10
+   "rank": 11
   },
   {
    "id": "2e11f9228e366df6",
@@ -321,7 +349,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 11
+   "rank": 12
   },
   {
    "id": "a115f44d402bc6e5",
@@ -344,7 +372,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 12
+   "rank": 13
   },
   {
    "id": "55e026ae7e17c9de",
@@ -370,7 +398,7 @@
     "india"
    ],
    "breaking": false,
-   "rank": 13
+   "rank": 14
   },
   {
    "id": "8673f2819ce8832d",
@@ -393,7 +421,7 @@
     "india"
    ],
    "breaking": false,
-   "rank": 14
+   "rank": 15
   },
   {
    "id": "1d70823b20e803c3",
@@ -416,7 +444,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 15
+   "rank": 16
   },
   {
    "id": "6ef0aa1dc1b7ccd0",
@@ -439,7 +467,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 16
+   "rank": 17
   },
   {
    "id": "b21148aecc1bb80e",
@@ -464,7 +492,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 17
+   "rank": 18
   },
   {
    "id": "6d1cc34853f3c178",
@@ -487,7 +515,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 18
+   "rank": 19
   }
  ]
 }
