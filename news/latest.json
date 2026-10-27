@@ -1,35 +1,36 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-27T04:00Z",
-  "generated_at": "2026-10-27T04:06:04Z",
+  "edition_id": "2026-10-27T05:00Z",
+  "generated_at": "2026-10-27T05:05:25Z",
   "window": {
-    "from": "2026-10-27T03:00:00Z",
-    "to": "2026-10-27T04:00:00Z"
+    "from": "2026-10-27T04:00:00Z",
+    "to": "2026-10-27T05:00:00Z"
   },
   "insights": {
-    "headline": "Gold eases to $4,014 as a firmer dollar meets Fed week; silver slips below $54 to near 11-month lows",
-    "summary": "Gold edged lower in Asian trade on Tuesday to $4,013.70 an ounce as a firmer dollar weighed, with the Federal Reserve's October 27-28 meeting and Thursday's PCE inflation data ahead; markets price about an 11% chance of a hike this week and 82% for December. Silver slipped below $54 to about $53.80, near Monday's 11-month low of $53.01. In India, the wholesale gold discount has narrowed to $6-8 an ounce from $66 in September, and the rupee closed at 95.1850 per dollar for a third straight weaker session.",
+    "headline": "Gold eases to $4,014 as a firmer dollar meets Fed week; silver slips below $54 and MCX metals dip",
+    "summary": "Gold edged lower in Asian trade on Tuesday to $4,013.70 an ounce as a firmer dollar weighed, with the Federal Reserve's October 27-28 meeting and Thursday's PCE inflation data ahead; markets price about an 11% chance of a hike this week and 82% for December. Silver slipped below $54 to about $53.80, near Monday's 11-month low of $53.01. In India, gold eased Rs 500 per 10 grams and silver fell Rs 2,400 per kg in early trade, and the wholesale gold discount has narrowed to $6-8 an ounce from $66 in September.",
     "points": [
       "Spot gold eased 0.1% to $4,013.70 in early Asian trade Tuesday as a firmer dollar weighed ahead of the Fed meeting.",
       "Silver slipped below $54 to about $53.80, near Monday's 11-month low of $53.01, FXStreet reports.",
+      "Gold eased Rs 500 per 10 grams and silver fell Rs 2,400 per kg in early Indian trade ahead of the Fed meeting.",
       "Markets price about an 11% chance of a Fed hike this week and 82% for December, per CME FedWatch via Reuters.",
-      "India's wholesale gold discount narrowed to $6-8/oz from $66 in September as festive restocking absorbed supply.",
-      "The rupee closed at 95.1850 per dollar on Monday, its third straight weaker session, lifting landed import costs."
+      "India's wholesale gold discount narrowed to $6-8/oz from $66 in September as festive restocking absorbed supply."
     ]
   },
   "trending": [
     {
       "title": "Fed week takes charge",
-      "summary": "Gold's Tuesday easing keeps the Fed's October 27-28 meeting at the centre of the market, with a firmer dollar and December hike bets capping the recovery as easing oil prices trim inflation worries.",
+      "summary": "The Fed's October 27-28 meeting and Thursday's PCE data dominate trading, with a firmer dollar pressing gold and Indian MCX prices dipping in early trade.",
       "item_ids": [
         "6402e55a1ecdf323",
+        "462588639f473985",
         "26ecebae9b501ccc",
         "178524b9a745af6d"
       ]
     },
     {
       "title": "Silver tests 11-month lows",
-      "summary": "Silver's slide below $54 extends a deep correction from its January peak, with bearish technical signals, growing COMEX shorts and a $48.29 support level now framing the debate.",
+      "summary": "Silver slipped below $54 toward its 11-month low as bearish positioning built, even as gold held above $4,000.",
       "item_ids": [
         "92defd1e9bb38001",
         "357b1b9b96e9d33c",
@@ -39,22 +40,20 @@
     },
     {
       "title": "Dhanteras demand meets a thinner discount",
-      "summary": "Festive restocking has nearly erased the wholesale discount Indian buyers enjoyed in September, while the World Gold Council links US midterm scenarios to Dhanteras demand.",
+      "summary": "Festive restocking has nearly erased India's wholesale gold discount, while buyers weigh post-festival price factors flagged by the World Gold Council.",
       "item_ids": [
         "4e6e216534623854",
         "c126034f28016614",
         "1d70823b20e803c3",
-        "bb048d589d3ce8de",
-        "a1b9b4a5e0bb2aa7"
+        "bb048d589d3ce8de"
       ]
     },
     {
       "title": "A weaker rupee adds to the landed cost",
-      "summary": "The rupee's third straight weaker session compounds the vanished import discount for Indian buyers, even as MCX futures steadied after last week's sell-off.",
+      "summary": "The rupee's third straight weaker session lifts import costs for Indian buyers even as global prices ease.",
       "item_ids": [
         "a6d4836ace5da8e4",
-        "4e6e216534623854",
-        "b8073cb5badab86d"
+        "4e6e216534623854"
       ]
     }
   ],
@@ -85,6 +84,32 @@
       "rank": 1
     },
     {
+      "id": "462588639f473985",
+      "title": "Gold prices dip Rs 500/10 grams; silver falls Rs 2,400/kg as traders eye US Fed meet this week",
+      "summary": "Gold eased Rs 500 per 10 grams and silver fell Rs 2,400 per kg in early trade on Tuesday as traders positioned ahead of the US Federal Reserve's October 27-28 meeting, with a firmer dollar weighing on bullion.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-dip-rs-500/10-grams-silver-falls-rs-2400/kg-as-traders-eye-us-fed-meet-this-week-what-should-you-do/articleshow/135224447.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-10-27T04:32:36Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/462588639f473985.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "fed",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 2
+    },
+    {
       "id": "92defd1e9bb38001",
       "title": "Silver Price Forecast: XAG/USD falls toward 11-month lows after slipping below $54.00",
       "summary": "Silver slipped below $54 in Asian trade on Tuesday, trading around $53.80 an ounce after minor gains the previous day, FXStreet reports, near an 11-month low of $53.01 recorded on Monday. Elevated energy prices keep inflation risks in focus and sustain expectations of further tightening, though easing oil and bargain-hunting ahead of the Fed decision could cushion the fall.",
@@ -106,7 +131,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "26ecebae9b501ccc",
@@ -131,7 +156,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "4e6e216534623854",
@@ -156,7 +181,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 4
+      "rank": 5
     },
     {
       "category": "mcx",
@@ -180,7 +205,7 @@
       "url": "https://ianslive.in/gold-silver-bounce-back-after-sharp-sell-off-yellow-metal-near-3-month-low--20261026121754",
       "id": "b8073cb5badab86d",
       "breaking": false,
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "178524b9a745af6d",
@@ -203,7 +228,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "a6d4836ace5da8e4",
@@ -226,28 +251,6 @@
         "silver",
         "global",
         "rupee"
-      ],
-      "breaking": false,
-      "rank": 7
-    },
-    {
-      "id": "a1b9b4a5e0bb2aa7",
-      "title": "Digital gold purchases surge 83% to Rs 2,590 crore in September",
-      "summary": "Citing World Gold Council data, the Economic Times reports Indian digital gold purchases rose to Rs 2,590 crore in September, up 83% from a year earlier and 4% from August, with volumes of 1.7 tonnes. The firm demand, attributed to low minimum investments and easy access, came even as physical buying stayed selective ahead of Dhanteras.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/digital-gold-purchases-surge-83-to-rs-2590-crore-in-september/articleshow/135222637.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "publisher_id": "economic-times",
-      "published_at": "2026-10-26T19:03:25Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/a1b9b4a5e0bb2aa7.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
       ],
       "breaking": false,
       "rank": 8
