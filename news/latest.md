@@ -1,28 +1,28 @@
-# Gold & Silver for Indian buyers · 2026-10-27T07:00Z
+# Gold & Silver for Indian buyers · 2026-10-27T08:00Z
 
-> Gold steadies near $4,000 as the Fed meeting begins; silver hovers near an 11-month low
+> Gold holds near $4,000 as the Fed meeting begins; silver slips below $53 to a fresh year low
 
-Gold steadied around $4,030 an ounce in early trade on Tuesday as the Federal Reserve began its two-day policy meeting, with a hold expected on Wednesday and markets still pricing over 80% odds of a December hike. Silver slipped 1% to around $53.80, near its 11-month low, and MCX gold eased to around ₹142,900 with silver near ₹194,470. Gold ETF flows turned negative last week for the first time in 13 weeks as the metal fell nearly 4%.
+Gold steadied near $4,000 an ounce as the Federal Reserve opened its two-day policy meeting, with traders awaiting guidance on the rate path. Silver fell harder, dropping below $53 to its lowest since November 2025, while domestic MCX prices eased in step with the global decline. With Dhanteras days away, festive buying guides and hallmarking checks share the feed with the market slide.
 
-- COMEX gold steadied near $4,030 as the Fed began its October 27-28 meeting; a hold at 3.75-4% is widely expected.
-- Silver fell 1% to around $53.80, near its 11-month low, after slipping below $54 in Asian trade.
-- MCX gold traded near ₹142,900 and silver near ₹194,470, with the rupee weaker for a third session near ₹95.14.
-- Gold ETFs saw net outflows last week for the first time in 13 weeks as gold fell nearly 4%.
-- Festive demand builds into Dhanteras and Diwali even as silver sits 53% below its 2026 peak.
+- Spot gold held near $4,000 as the Fed began its October 27-28 meeting; a December rate hike remains the key overhang.
+- Silver broke below $53, down about 2% on the day, to a fresh low since November 2025.
+- MCX gold eased from its open and silver slipped, tracking the global fall ahead of the Fed decision.
+- Gold ETF inflows turned negative after 13 weeks as the metal fell 4% last week.
+- Festive demand takes focus into Dhanteras, with hallmark checks and buying guides in focus.
 
 ## Trending
-- **Fed week takes charge**: The October 27-28 Fed meeting dominates: gold steadies near $4,000 on a firmer dollar, silver nears an 11-month low, and MCX metals ease in early trade. (stories cee5e23c973c9dc2, 462588639f473985, 92defd1e9bb38001)
-- **Silver's steeper slide**: Silver keeps falling faster than gold — down 53% from its 2026 peak and near $54 — as oil-driven inflation fears sustain rate-hike bets into the festive season. (stories 92defd1e9bb38001, d6597cc69e3b0ed6, d15552d68bcb2494)
-- **Dhanteras demand meets a correction**: Festive buying approaches with prices well off the highs: discounts have narrowed, jewellers are restocking, and buyers weigh offers against a falling market. (stories c126034f28016614, bb048d589d3ce8de, 1d70823b20e803c3, bef49f70dd14cb42)
-- **Oil vs gold for the haven bid**: Crude's surge has revived inflation and rate-hike fears, dulling gold's haven bid even as Hormuz diplomacy cools oil and central banks split on reserves. (stories 26ecebae9b501ccc, 518ca1a83ae5dbbb, d15552d68bcb2494)
+- **Fed week takes charge**: The Fed meeting that opened Tuesday dominates bullion: gold near $4,000, silver at a fresh year low, and markets waiting on guidance for the rate path. (stories 1, 2)
+- **Silver's steeper slide**: Silver is falling faster than gold, down about 2% on the day to below $53 and 53% below its 2026 peak, with technicals still pointing down. (stories 2, 7)
+- **Dhanteras demand meets a correction**: Festive buying season arrives as prices correct, with WGC trends, post-midterm factors and buying guides framing the Dhanteras window. (stories 9, 11, 12)
+- **Oil vs gold for the haven bid**: Rising crude and easing Hormuz tensions are pulling haven flows in opposite directions, squeezing gold between oil and yields. (stories 4, 5, 8)
 
 ## Stories
 1. [Gold steadies near $4,000 as Fed policy meet begins; silver near 11-month low](https://www.thehindubusinessline.com/markets/commodities/gold-steadies-near-4000-as-fed-policy-meet-begins-silver-near-11-month-low/article71630140.ece) — *The Hindu BusinessLine*, 2026-10-27T06:57:00Z
    COMEX gold steadied around $4,030 an ounce on Tuesday as the Federal Reserve kicked off its two-day policy meeting, with a hold at 3.75-4% widely expected on Wednesday and over 80% odds of a December hike. COMEX silver fell 1% to around $53.80, near an 11-month low. On the MCX, gold traded around ₹142,900 and silver around ₹194,470 as the rupee weakened to around ₹95.14.
-2. [Gold prices dip Rs 500/10 grams; silver falls Rs 2,400/kg as traders eye US Fed meet this week](https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-dip-rs-500/10-grams-silver-falls-rs-2400/kg-as-traders-eye-us-fed-meet-this-week-what-should-you-do/articleshow/135224447.cms) — *Economic Times*, 2026-10-27T04:32:36Z
+2. [Silver Price Forecast: XAG/USD hangs near YTD low, below $53.00 amid oversold RSI](https://www.fxstreet.com/news/silver-price-forecast-xag-usd-hangs-near-ytd-low-below-5300-amid-oversold-rsi-202610270747) — *FXStreet*, 2026-10-27T07:47:15Z
+   Silver slid below $53 an ounce to a fresh low since November 2025, down about 2% on the day, as a recovering US dollar weighed on the metal ahead of the Federal Reserve decision. The move followed repeated failures to hold above $54, and with the relative strength index in oversold territory, FXStreet flags $53.25 and $54 as the levels that would need to be reclaimed to ease the bearish tone.
+3. [Gold prices dip Rs 500/10 grams; silver falls Rs 2,400/kg as traders eye US Fed meet this week](https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-dip-rs-500/10-grams-silver-falls-rs-2400/kg-as-traders-eye-us-fed-meet-this-week-what-should-you-do/articleshow/135224447.cms) — *Economic Times*, 2026-10-27T04:32:36Z
    Gold eased Rs 500 per 10 grams and silver fell Rs 2,400 per kg in early trade on Tuesday as traders positioned ahead of the US Federal Reserve's October 27-28 meeting, with a firmer dollar weighing on bullion.
-3. [Silver Price Forecast: XAG/USD falls toward 11-month lows after slipping below $54.00](https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-toward-11-month-lows-after-slipping-below-5400-202610270251) — *FXStreet*, 2026-10-27T02:51:23Z
-   Silver slipped below $54 in Asian trade on Tuesday, trading around $53.80 an ounce after minor gains the previous day, FXStreet reports, near an 11-month low of $53.01 recorded on Monday. Elevated energy prices keep inflation risks in focus and sustain expectations of further tightening, though easing oil and bargain-hunting ahead of the Fed decision could cushion the fall.
 4. [Gold holds above $4,000 as Hormuz diplomacy cools crude ahead of Fed decision - Kitco PM Report](https://www.kitco.com/news/article/2026-10-26/gold-holds-above-4000-hormuz-diplomacy-cools-crude-ahead-fed-decision-kitco) — *Kitco*, 2026-10-26T21:02:20Z
    Spot gold climbed back above $4,000 an ounce in late US trading on Monday as easing crude prices softened inflation worries ahead of the Federal Reserve's October 27-28 meeting, with diplomatic efforts involving Iran and regional powers trimming the geopolitical premium in oil. Silver held above $54, but Kitco notes both metals remain exposed to Treasury yields, the dollar and the rate outlook.
 5. [Has Oil Replaced Gold As 2026's Most Compelling Safe Haven Trade?](https://www.fxempire.com/forecasts/article/has-oil-replaced-gold-as-2026s-most-compelling-safe-haven-trade-1640550) — *FXEmpire*, 2026-10-26T21:01:33Z
