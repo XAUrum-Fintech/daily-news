@@ -1,62 +1,89 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-27T14:00Z",
-  "generated_at": "2026-10-27T14:03:13Z",
+  "edition_id": "2026-10-27T16:00Z",
+  "generated_at": "2026-10-27T16:06:37Z",
   "window": {
-    "from": "2026-10-27T12:00:00Z",
-    "to": "2026-10-27T14:00:00Z"
+    "from": "2026-10-27T14:00:00Z",
+    "to": "2026-10-27T16:00:00Z"
   },
   "insights": {
-    "headline": "Gold slips below $4,000 and silver hits fresh lows as the Fed decision looms",
-    "summary": "Spot gold slipped below $4,000 an ounce in early US trading on Tuesday, near $3,995, while silver fell about 2% to near $52.75, its weakest in about a year, as a firm dollar and expectations of further Fed tightening weighed on metals. The Fed is widely expected to hold rates at 3.75-4.00% on Wednesday, with traders watching for signals on a December move and Thursday's GDP and PCE data. On MCX, gold is near Rs 1.42 lakh per 10 grams after falling over Rs 3,000 in 10 days, and gold ETF inflows turned negative last week for the first time in 13 weeks.",
+    "headline": "Gold reclaims $4,000 and silver tests fresh lows as the Fed decision nears",
+    "summary": "Spot gold rebounded to a session high of $4,048 an ounce on Tuesday after stronger US consumer confidence, holding above the $4,000 level into Wednesday's Federal Reserve decision. Silver lagged, hitting a fresh 11-month low near $52.70 and sliding to ₹1,92,050 per kg on MCX as a firm dollar and high yields weighed on both metals. In India, gold held near ₹1.42 lakh per 10 grams, with festive buying in focus ahead of Dhanteras. A Reuters survey trimmed the 2026 gold outlook but pointed to central-bank buying and Indian and Chinese demand as support.",
     "points": [
-      "Spot gold fell below $4,000 to near $3,995 in early US trading; silver dropped about 2% to near $52.75.",
-      "The Fed announces its decision on October 28; markets price a high chance of a December rate rise.",
-      "MCX gold is near Rs 1.42 lakh per 10 grams, down over Rs 3,000 in 10 days ahead of Dhanteras.",
-      "Gold ETF inflows turned net negative last week, ending a 13-week run of gains.",
-      "Chinese household dip-buying is supporting gold near $4,000 as stocks and bonds there offer weak returns."
+      "Gold hit $4,048.48 after US consumer confidence rose to 91.7, above the 81 consensus.",
+      "Silver fell to an 11-month low near $52.70; MCX silver futures closed at ₹1,92,050 per kg.",
+      "Reuters survey: 2026 gold forecast cut to $4,495, but the 2027 median raised to $4,650.",
+      "China retail gold demand is surging even as Western gold ETFs log weekly outflows.",
+      "RBI set the SGB 2020-21 Series I early redemption price at ₹14,159 per unit for October 28."
     ]
   },
   "trending": [
     {
-      "title": "The $4,000 test",
-      "summary": "Gold slipped below $4,000 in US trading while silver hit fresh lows; the Fed's Wednesday decision and Thursday's GDP and PCE data are the next triggers.",
+      "title": "Gold defends $4,000 into the Fed decision",
+      "summary": "Strong US consumer confidence lifted spot gold to $4,048, while a Reuters poll trimmed the 2026 outlook but raised 2027 to $4,650 on central-bank and Asian demand.",
       "item_ids": [
-        "cd3e0bdb5e0ba3ad",
-        "2f13f78f29915944",
-        "f85d809ec1e60b42"
+        "74fbdd8441e572b9",
+        "8792f4c8ce4606ed",
+        "19d15c234c6aabd3"
       ]
     },
     {
-      "title": "Silver's steeper slide",
-      "summary": "Silver is falling faster than gold, near 11-month lows around $52.75, with silver ETFs down up to 53% from their 52-week highs.",
+      "title": "Silver's slide outpaces gold",
+      "summary": "Silver hit a fresh 11-month low near $52.70, broke below $55 support and fell to ₹1,92,050 per kg on MCX, with $50 now in focus.",
       "item_ids": [
-        "cd3e0bdb5e0ba3ad",
-        "f85d809ec1e60b42",
-        "d6597cc69e3b0ed6",
-        "9d85e7d5574a460c"
+        "3cfe0b2e1c7aaec7",
+        "7cc0982e400f131b",
+        "19d15c234c6aabd3"
       ]
     },
     {
-      "title": "Dhanteras demand meets a correction",
-      "summary": "Festive buying continues as gold trades about 20% below its January peak; purity and hallmark checks lead the season's buying guides.",
+      "title": "Dhanteras buying meets a correction",
+      "summary": "Gold is down about 20% from its peak into Dhanteras, and buyers are weighing purity checks, festive offers and how much ₹1 lakh actually buys.",
       "item_ids": [
         "906beabb6c7b53c8",
         "66d029c021475a71",
-        "91ed7c78640a4d49",
-        "c126034f28016614"
+        "c126034f28016614",
+        "bef49f70dd14cb42",
+        "91ed7c78640a4d49"
       ]
     },
     {
       "title": "ETF flows turn after 13 weeks",
-      "summary": "Gold ETF inflows turned net negative last week as gold fell nearly 4%, its worst week since June, while Indian investors stayed among the year's top buyers.",
+      "summary": "Gold ETF inflows turned negative after 13 weeks as metals fell, while Western gold ETFs logged their first weekly liquidation in a month.",
       "item_ids": [
+        "9d85e7d5574a460c",
         "178524b9a745af6d",
-        "9d85e7d5574a460c"
+        "19d15c234c6aabd3"
       ]
     }
   ],
   "items": [
+    {
+      "id": "74fbdd8441e572b9",
+      "title": "Gold price shoots to session high $4,048/oz after Consumer Confidence rises to 91.7",
+      "summary": "Spot gold climbed to a session high of $4,048.48 an ounce on Tuesday after US consumer confidence rose to 91.7 in October, beating the 81 consensus and September's upwardly revised 84.2. The 10 am ET data lifted gold 0.78% on the day as traders positioned ahead of Wednesday's Federal Reserve decision.",
+      "url": "https://www.kitco.com/news/article/2026-10-27/gold-price-shoots-session-high-4048oz-after-consumer-confidence-rises-917",
+      "source": "Kitco",
+      "source_domain": "kitco.com",
+      "publisher_id": "kitco",
+      "published_at": "2026-10-27T14:01:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/74fbdd8441e572b9.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://www.kitco.com/news/article/2026-10-27/gold-prices-holding-above-4000-us-new-home-sales-fall"
+      ],
+      "rank": 1
+    },
     {
       "id": "cd3e0bdb5e0ba3ad",
       "title": "Precious metals weaken as Hormuz uncertainty keeps oil elevated ahead of Fed decision",
@@ -86,30 +113,101 @@
         "https://www.thehindubusinessline.com/markets/commodities/gold-steadies-near-4000-as-fed-policy-meet-begins-silver-near-11-month-low/article71630140.ece",
         "https://www.kitco.com/news/article/2026-10-26/gold-holds-above-4000-hormuz-diplomacy-cools-crude-ahead-fed-decision-kitco"
       ],
-      "rank": 1
+      "rank": 2
     },
     {
-      "id": "2f13f78f29915944",
-      "title": "Can Chinese Dip Buyers Keep Gold Above $4,000?",
-      "summary": "Chinese households are buying gold's dip, with weekly volume on a key Shanghai contract hitting its highest since April, lending support as gold slipped below $4,000 on Tuesday. China's stock market has lost $2.4 trillion since its May peak and its 5-year bond yield hit a record low, pushing savers toward bullion, while the People's Bank of China extended its buying streak to 23 straight months.",
-      "url": "https://beincrypto.com/chinese-gold-demand-price-below-4000/",
-      "source": "BeInCrypto",
-      "source_domain": "beincrypto.com",
-      "publisher_id": "beincrypto",
-      "published_at": "2026-10-27T12:16:38Z",
-      "image_url": "https://assets.beincrypto.com/img/OdkLagfWRnjMX-_uzMZdJUK2Cx8=/1200x630/smart/filters:format(jpeg):quality(82)/7f3be3f9391246c988ae2eca64bbf5db",
-      "image_kind": "photo",
+      "id": "8792f4c8ce4606ed",
+      "title": "Strong dollar, high yields drag on gold outlook, but central-bank demand lends support",
+      "summary": "Analysts trimmed their 2026 gold price forecast in a Reuters survey of 30 analysts and traders, citing high Treasury yields, a strong dollar and rates staying high for longer. The median 2026 forecast is $4,495 an ounce, down from $4,509, while the 2027 median rose to $4,650. Central-bank buying and demand from India and China are expected to support prices.",
+      "url": "https://www.reuters.com/world/china/strong-dollar-high-yields-drag-gold-outlook-central-bank-demand-lends-support-2026-10-27/",
+      "source": "Reuters",
+      "source_domain": "reuters.com",
+      "publisher_id": "reuters",
+      "published_at": "2026-10-27T13:30:00Z",
+      "image_url": null,
+      "image_kind": "none",
       "tags": [
         "gold",
+        "silver",
         "global",
         "central-banks"
       ],
       "category": "global",
       "metals": [
-        "gold"
+        "gold",
+        "silver"
       ],
       "breaking": false,
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "id": "19d15c234c6aabd3",
+      "title": "Silver Falls, Gold Rallies as China Retail Investing Jumps, ETFs Sell",
+      "summary": "Silver hit an 11-month low of $52.68 an ounce in Asian trade Tuesday while gold rallied from 3-month lows, fixing at $3,997 in London before rising to $4,030. Retail gold investment demand in China is surging, led by households buying investment gold, while Western gold ETFs saw their first weekly liquidation in a month. The gold/silver ratio rose to 74.3, its highest since November last year.",
+      "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-china-etfs-102720261",
+      "source": "BullionVault",
+      "source_domain": "bullionvault.com",
+      "publisher_id": "bullionvault",
+      "published_at": "2026-10-27T13:53:37Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/19d15c234c6aabd3.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 4
+    },
+    {
+      "id": "3cfe0b2e1c7aaec7",
+      "title": "Silver Faces $50 Risk After Breaking Below Key $55 Support",
+      "summary": "Silver stayed below its prior low of $54.78 for a second day, with Friday's $53.90 close confirming a bearish continuation, FXEmpire reports. Managed-money net long positions in COMEX silver fell to 3,505 contracts on October 20 from 5,619 on October 13. The analysis puts $50 in focus, with a sustained move above $54.75 needed to open a bounce toward the 20-day average near $58.59.",
+      "url": "https://www.fxempire.com/forecasts/article/silver-faces-50-risk-after-breaking-below-key-55-support-1640659",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "published_at": "2026-10-27T14:09:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "silver",
+        "global",
+        "comex"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 5
+    },
+    {
+      "id": "7cc0982e400f131b",
+      "title": "Silver futures decline to ₹1.92 lakh/kg",
+      "summary": "Silver futures fell ₹3,743, or 1.91%, to ₹1,92,050 per kg on the MCX on Tuesday as participants cut bets, in a turnover of 3,482 lots. In New York, silver traded 2.14% lower at $52.81 an ounce.",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/silver-futures-decline-to-192-lakhkg/article71630370.ece",
+      "source": "The Hindu BusinessLine",
+      "source_domain": "thehindubusinessline.com",
+      "publisher_id": "hindu-businessline",
+      "published_at": "2026-10-27T13:51:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "silver",
+        "mcx"
+      ],
+      "category": "mcx",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 6
     },
     {
       "id": "4c2f5c5929f6e029",
@@ -133,7 +231,30 @@
       "breaking": false,
       "image_url": null,
       "image_kind": "none",
-      "rank": 3
+      "rank": 7
+    },
+    {
+      "id": "2f13f78f29915944",
+      "title": "Can Chinese Dip Buyers Keep Gold Above $4,000?",
+      "summary": "Chinese households are buying gold's dip, with weekly volume on a key Shanghai contract hitting its highest since April, lending support as gold slipped below $4,000 on Tuesday. China's stock market has lost $2.4 trillion since its May peak and its 5-year bond yield hit a record low, pushing savers toward bullion, while the People's Bank of China extended its buying streak to 23 straight months.",
+      "url": "https://beincrypto.com/chinese-gold-demand-price-below-4000/",
+      "source": "BeInCrypto",
+      "source_domain": "beincrypto.com",
+      "publisher_id": "beincrypto",
+      "published_at": "2026-10-27T12:16:38Z",
+      "image_url": "https://assets.beincrypto.com/img/OdkLagfWRnjMX-_uzMZdJUK2Cx8=/1200x630/smart/filters:format(jpeg):quality(82)/7f3be3f9391246c988ae2eca64bbf5db",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "global",
+        "central-banks"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 8
     },
     {
       "id": "9d85e7d5574a460c",
@@ -158,7 +279,7 @@
       "breaking": false,
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/9d85e7d5574a460c.jpg",
       "image_kind": "photo",
-      "rank": 4
+      "rank": 9
     },
     {
       "id": "178524b9a745af6d",
@@ -181,7 +302,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 5
+      "rank": 10
     },
     {
       "id": "f85d809ec1e60b42",
@@ -208,7 +329,7 @@
       "related_urls": [
         "https://www.tradingkey.com/news/commodities/262241496-fxstr"
       ],
-      "rank": 6
+      "rank": 11
     },
     {
       "id": "6625ba2d14923e2a",
@@ -232,7 +353,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 7
+      "rank": 12
     },
     {
       "id": "ca5755e4b1feb89a",
@@ -254,7 +375,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 13
     },
     {
       "id": "906beabb6c7b53c8",
@@ -278,7 +399,7 @@
       "breaking": false,
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/906beabb6c7b53c8.jpg",
       "image_kind": "photo",
-      "rank": 9
+      "rank": 14
     },
     {
       "id": "66d029c021475a71",
@@ -301,7 +422,7 @@
       "breaking": false,
       "image_url": null,
       "image_kind": "none",
-      "rank": 10
+      "rank": 15
     },
     {
       "id": "931a73f375fd20d7",
@@ -324,7 +445,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 16
     },
     {
       "id": "518ca1a83ae5dbbb",
@@ -346,7 +467,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 17
     },
     {
       "id": "d6597cc69e3b0ed6",
@@ -370,31 +491,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 13
-    },
-    {
-      "id": "d15552d68bcb2494",
-      "title": "Gold prices squeezed between rising oil and falling yields, Fresnillo silver output declines in 2026 – Heraeus",
-      "summary": "Heraeus analysts say gold is caught between rising oil prices, with Brent back above $110 a barrel after renewed Houthi attacks in Saudi Arabia, and falling Treasury yields, the 10-year yield retreating toward 5.0% from about 5.35% earlier in October. The firm also notes output at Fresnillo, the world's largest primary silver producer, slid over the first three quarters of 2026.",
-      "url": "https://www.kitco.com/news/article/2026-10-26/gold-prices-squeezed-between-rising-oil-and-falling-yields-fresnillo-silver",
-      "source": "Kitco",
-      "source_domain": "kitco.com",
-      "publisher_id": "kitco",
-      "published_at": "2026-10-26T13:26:55Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/d15552d68bcb2494.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 14
+      "rank": 18
     },
     {
       "id": "c126034f28016614",
@@ -418,7 +515,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 15
+      "rank": 19
     },
     {
       "id": "bef49f70dd14cb42",
@@ -441,7 +538,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 16
+      "rank": 20
     },
     {
       "bis_insight_sentence": "BIS extended mandatory gold hallmarking to 12 more districts, taking coverage to 392 districts.",
@@ -466,30 +563,30 @@
       ],
       "title": "BIS expands mandatory hallmarkingof gold jewellery to 12 more districts",
       "url": "https://retailjewellerindia.com/bis-expands-mandatory-hallmarkingof-gold-jewellery-to-12-more-districts/",
-      "rank": 17
+      "rank": 21
     },
     {
-      "id": "6d1cc34853f3c178",
-      "title": "Senco Gold to acquire 68% stake in August Jewellery for ₹68 crore",
-      "summary": "Senco Gold has signed definitive agreements to buy a 68% stake in August Jewellery, the company behind online jewellery brand Melorra, for ₹68 crore in tranches. With a promoter-group entity also investing, the total holding will reach 79% and August Jewellery will become a Senco subsidiary, with completion targeted by February 2027.",
-      "url": "https://www.business-standard.com/companies/news/senco-gold-to-acquire-68-stake-in-august-jewellery-for-68-crore-126102500549_1.html",
-      "source": "Business Standard",
-      "source_domain": "business-standard.com",
-      "publisher_id": "business-standard",
-      "published_at": "2026-10-25T14:16:02Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/6d1cc34853f3c178.jpg",
+      "id": "91684212e3fa3d82",
+      "title": "RBI sets early redemption price for Sovereign Gold Bond 2020-21 Series I",
+      "summary": "The Reserve Bank of India has set the early redemption price for Sovereign Gold Bond 2020-21 Series I at ₹14,159 per unit for the October 28, 2026 redemption date. The price is the simple average of IBJA closing prices for 999-purity gold over October 23, 26 and 27. Holders can redeem early on the interest payment date after the fifth year from issue.",
+      "url": "https://tradersunion.com/news/central-banks/show/3984037-rbi-sovereign-gold-bond-premature-redemption-2026/",
+      "source": "Traders Union",
+      "source_domain": "tradersunion.com",
+      "publisher_id": "traders-union",
+      "published_at": "2026-10-27T14:21:00Z",
+      "image_url": "https://files.tradersunion.com/images/regional-news/custom-by-date/2026/10/27/3984037.jpg",
       "image_kind": "photo",
       "tags": [
         "gold",
-        "india",
-        "jewellery"
+        "rbi",
+        "india"
       ],
-      "category": "mcx",
+      "category": "policy",
       "metals": [
         "gold"
       ],
       "breaking": false,
-      "rank": 18
+      "rank": 22
     },
     {
       "title": "Buying Silver On Dhanteras? Here's How To Check Purity And Verify The Hallmark",
@@ -512,7 +609,7 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/91ed7c78640a4d49.jpg",
       "image_kind": "photo",
       "id": "91ed7c78640a4d49",
-      "rank": 19
+      "rank": 23
     }
   ]
 }
