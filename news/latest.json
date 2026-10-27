@@ -1,55 +1,58 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-27T08:00Z",
-  "generated_at": "2026-10-27T08:04:19Z",
+  "edition_id": "2026-10-27T09:00Z",
+  "generated_at": "2026-10-27T09:01:49Z",
   "window": {
-    "from": "2026-10-27T06:00:00Z",
-    "to": "2026-10-27T08:00:00Z"
+    "from": "2026-10-27T08:00:00Z",
+    "to": "2026-10-27T09:00:00Z"
   },
   "insights": {
-    "headline": "Gold holds near $4,000 as the Fed meeting begins; silver slips below $53 to a fresh year low",
-    "summary": "Gold steadied near $4,000 an ounce as the Federal Reserve opened its two-day policy meeting, with traders awaiting guidance on the rate path. Silver fell harder, dropping below $53 to its lowest since November 2025, while domestic MCX prices eased in step with the global decline. With Dhanteras days away, festive buying guides and hallmarking checks share the feed with the market slide.",
+    "headline": "Gold holds near $4,000 as the Fed meets; silver slides to ₹1.92 lakh on MCX",
+    "summary": "Gold steadied near $4,000 an ounce as the Federal Reserve opened its two-day meeting, with a hold expected on Wednesday and a December hike still in view. Silver fell harder, with MCX futures dropping to ₹1,92,050 per kg and spot silver near $52.80, while Chinese household buying cushioned gold's dip. Festive demand builds into Dhanteras as hallmarking checks and buying guides stay in focus.",
     "points": [
-      "Spot gold held near $4,000 as the Fed began its October 27-28 meeting; a December rate hike remains the key overhang.",
-      "Silver broke below $53, down about 2% on the day, to a fresh low since November 2025.",
-      "MCX gold eased from its open and silver slipped, tracking the global fall ahead of the Fed decision.",
-      "Gold ETF inflows turned negative after 13 weeks as the metal fell 4% last week.",
-      "Festive demand takes focus into Dhanteras, with hallmark checks and buying guides in focus."
+      "Spot gold held near $4,000 as the Fed began its Oct 27-28 meeting; a hold is expected Wednesday, with a December hike still in view.",
+      "MCX silver futures fell 1.91% to ₹1,92,050/kg; spot silver traded near $52.80, close to its weakest in 11 months.",
+      "Chinese household gold buying jumped, with Shanghai exchange volumes at their highest since April.",
+      "MCX gold eased to around ₹1,42,900 as the rupee weakened to about ₹95.14 against the dollar.",
+      "Festive demand builds into Dhanteras, with hallmarking now mandatory in 392 districts."
     ]
   },
   "trending": [
     {
       "title": "Fed week takes charge",
-      "summary": "The Fed meeting that opened Tuesday dominates bullion: gold near $4,000, silver at a fresh year low, and markets waiting on guidance for the rate path.",
+      "summary": "The Fed's Oct 27-28 meeting dominates: a hold is expected Wednesday, but December hike odds near 80% cap gold's recovery near $4,000.",
       "item_ids": [
         "cee5e23c973c9dc2",
-        "f85d809ec1e60b42"
+        "f85d809ec1e60b42",
+        "462588639f473985"
       ]
     },
     {
       "title": "Silver's steeper slide",
-      "summary": "Silver is falling faster than gold, down about 2% on the day to below $53 and 53% below its 2026 peak, with technicals still pointing down.",
+      "summary": "Silver falls faster than gold, with MCX futures at ₹1.92 lakh and spot near $52.80, extending a slide of more than 50% from the January peak.",
       "item_ids": [
+        "7cc0982e400f131b",
+        "6625ba2d14923e2a",
         "f85d809ec1e60b42",
         "d6597cc69e3b0ed6"
       ]
     },
     {
       "title": "Dhanteras demand meets a correction",
-      "summary": "Festive buying season arrives as prices correct, with WGC trends, post-midterm factors and buying guides framing the Dhanteras window.",
+      "summary": "Festive buying season arrives with prices well off January highs, and guides, hallmarking checks and WGC demand signals share the feed.",
       "item_ids": [
         "c126034f28016614",
         "1d70823b20e803c3",
-        "bef49f70dd14cb42"
+        "7af43fee0a073f85",
+        "6625ba2d14923e2a"
       ]
     },
     {
-      "title": "Oil vs gold for the haven bid",
-      "summary": "Rising crude and easing Hormuz tensions are pulling haven flows in opposite directions, squeezing gold between oil and yields.",
+      "title": "China buys the dip",
+      "summary": "Chinese households step in as prices test $4,000, with exchange volumes at their highest since April supporting the market from the East.",
       "item_ids": [
-        "26ecebae9b501ccc",
-        "518ca1a83ae5dbbb",
-        "d15552d68bcb2494"
+        "0bc8f0b04b118537",
+        "cee5e23c973c9dc2"
       ]
     }
   ],
@@ -82,6 +85,29 @@
       "id": "cee5e23c973c9dc2"
     },
     {
+      "id": "7cc0982e400f131b",
+      "title": "Silver futures decline to ₹1.92 lakh/kg",
+      "summary": "Silver futures fell ₹3,743, or 1.91%, to ₹1,92,050 per kg on the MCX on Tuesday as traders trimmed positions, with December contracts trading 3,482 lots. In New York, spot silver traded 2.14% lower at $52.81 an ounce.",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/silver-futures-decline-to-192-lakhkg/article71630370.ece",
+      "source": "The Hindu BusinessLine",
+      "source_domain": "thehindubusinessline.com",
+      "publisher_id": "hindu-businessline",
+      "published_at": "2026-10-27T08:21:42Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "silver",
+        "mcx",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 2
+    },
+    {
       "id": "f85d809ec1e60b42",
       "title": "Silver Price Forecast: XAG/USD hangs near YTD low, below $53.00 amid oversold RSI",
       "summary": "Silver slid below $53 an ounce to a fresh low since November 2025, down about 2% on the day, as a recovering US dollar weighed on the metal ahead of the Federal Reserve decision. The move followed repeated failures to hold above $54, and with the relative strength index in oversold territory, FXStreet flags $53.25 and $54 as the levels that would need to be reclaimed to ease the bearish tone.",
@@ -106,7 +132,31 @@
       "related_urls": [
         "https://www.tradingkey.com/news/commodities/262241496-fxstr"
       ],
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "id": "6625ba2d14923e2a",
+      "title": "Can silver price hit ₹2.84 lakh/kg as rates in free fall ahead of 2026 Dhanteras, Diwali? Levels, target, stop loss",
+      "summary": "MCX silver fell more than 2% to about ₹1,91,516 per kg on Tuesday as a stronger dollar, Fed uncertainty and oil-linked inflation worries weighed, with spot silver down 2.1% to $52.77 an ounce. Analysts cited in the piece put key MCX support near ₹1.90 lakh and resistance near ₹2.02 lakh, and a longer-term view cited for the second half of 2027 puts silver at $75–$80 an ounce.",
+      "url": "https://www.livemint.com/market/commodities/can-silver-price-hit-rs-2-84-lakh-kg-as-rates-in-free-fall-ahead-of-2026-dhanteras-diwali-levels-target-stop-loss-11793088097843.html",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "publisher_id": "mint",
+      "published_at": "2026-10-27T08:44:42Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/6625ba2d14923e2a.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "silver",
+        "mcx",
+        "india",
+        "fed"
+      ],
+      "category": "mcx",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 4
     },
     {
       "id": "462588639f473985",
@@ -132,7 +182,29 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 3
+      "rank": 5
+    },
+    {
+      "id": "0bc8f0b04b118537",
+      "title": "Chinese Households Are Buying Gold's Dip as Prices Test $4,000",
+      "summary": "Chinese household gold buying has picked up over the past two months as prices softened and equities lost appeal, Bloomberg reports via Mint. Shanghai Gold Exchange Au99.99 volumes jumped to 43 million lots last week, about 430 tons and the highest since April, while bank gold-accumulation plan purchases in the first nine months already passed the full-year 2025 total.",
+      "url": "https://www.livemint.com/market/chinese-households-are-buying-gold-s-dip-as-prices-test-4000-11793089165184.html",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "publisher_id": "mint",
+      "published_at": "2026-10-27T08:19:24Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/0bc8f0b04b118537.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 6
     },
     {
       "id": "26ecebae9b501ccc",
@@ -157,7 +229,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 4
+      "rank": 7
     },
     {
       "id": "518ca1a83ae5dbbb",
@@ -179,30 +251,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 5
-    },
-    {
-      "id": "178524b9a745af6d",
-      "title": "Inflows into gold ETFs turned negative after 13 weeks as the yellow metal fell 4% last week",
-      "summary": "Physically backed gold ETFs saw net outflows last week for the first time in 13 weeks, World Gold Council data show, with investors redeeming $3.01 billion against $1.80 billion of inflows as gold fell nearly 4% in its worst week since June. US investors led the redemptions at $1.7 billion, with the Fed's October 27-28 meeting now the key near-term driver.",
-      "url": "https://www.thehindubusinessline.com/markets/gold/inflows-into-gold-etfs-turned-negative-after-13-weeks-as-the-yellow-metal-fell-4-last-week/article71627333.ece",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "publisher_id": "hindu-businessline",
-      "published_at": "2026-10-26T13:47:43Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "global",
-        "central-banks"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 6
+      "rank": 8
     },
     {
       "id": "d6597cc69e3b0ed6",
@@ -226,7 +275,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 7
+      "rank": 9
     },
     {
       "id": "d15552d68bcb2494",
@@ -250,7 +299,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 10
     },
     {
       "id": "c126034f28016614",
@@ -274,31 +323,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 9
-    },
-    {
-      "id": "bb048d589d3ce8de",
-      "title": "Why is gold price under pressure ahead of Dhanteras, Diwali? What should interested buyers do? Experts's views, target",
-      "summary": "Mint examines why gold is under pressure ahead of Dhanteras and Diwali, with experts linking the pullback to a stronger dollar, elevated bond yields and oil-driven inflation worries ahead of the Federal Reserve's October 27-28 meeting. The metal's weekly fall left MCX gold near ₹1.42 lakh per 10 grams as festive buying approaches.",
-      "url": "https://www.livemint.com/market/commodities/why-is-gold-price-under-pressure-ahead-of-dhanteras-diwali-what-should-interested-buyers-do-expertss-views-target-11793002314682.html",
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "publisher_id": "mint",
-      "published_at": "2026-10-26T09:05:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "fed",
-        "india",
-        "jewellery"
-      ],
-      "category": "festive",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "1d70823b20e803c3",
@@ -321,7 +346,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 12
     },
     {
       "id": "bef49f70dd14cb42",
@@ -344,7 +369,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 13
     },
     {
       "bis_insight_sentence": "BIS extended mandatory gold hallmarking to 12 more districts, taking coverage to 392 districts.",
@@ -369,7 +394,7 @@
       ],
       "title": "BIS expands mandatory hallmarkingof gold jewellery to 12 more districts",
       "url": "https://retailjewellerindia.com/bis-expands-mandatory-hallmarkingof-gold-jewellery-to-12-more-districts/",
-      "rank": 13
+      "rank": 14
     },
     {
       "id": "6d1cc34853f3c178",
@@ -392,7 +417,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 15
     }
   ]
 }
