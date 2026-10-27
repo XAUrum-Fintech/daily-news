@@ -1,85 +1,88 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-27T06:00Z",
-  "generated_at": "2026-10-27T06:04:56Z",
+  "edition_id": "2026-10-27T07:00Z",
+  "generated_at": "2026-10-27T07:11:45Z",
   "window": {
-    "from": "2026-10-27T05:00:00Z",
-    "to": "2026-10-27T06:00:00Z"
+    "from": "2026-10-27T06:00:00Z",
+    "to": "2026-10-27T07:00:00Z"
   },
   "insights": {
-    "headline": "Gold holds near $4,014 into Fed week as oil's haven bid steals the spotlight; silver hovers near $54",
-    "summary": "Gold eased 0.1% to $4,013.70 an ounce in early Asian trade on Tuesday as a firmer dollar weighed, with the Federal Reserve's October 27-28 meeting and Thursday's PCE data ahead; markets price about an 11% chance of a hike this week and 82% for December. Silver slipped below $54 to about $53.80, near Monday's 11-month low of $53.01. In India, gold eased Rs 500 per 10 grams and silver fell Rs 2,400 per kg in early trade, while gold ETF inflows turned negative after 13 weeks.",
+    "headline": "Gold steadies near $4,000 as the Fed meeting begins; silver hovers near an 11-month low",
+    "summary": "Gold steadied around $4,030 an ounce in early trade on Tuesday as the Federal Reserve began its two-day policy meeting, with a hold expected on Wednesday and markets still pricing over 80% odds of a December hike. Silver slipped 1% to around $53.80, near its 11-month low, and MCX gold eased to around ₹142,900 with silver near ₹194,470. Gold ETF flows turned negative last week for the first time in 13 weeks as the metal fell nearly 4%.",
     "points": [
-      "Spot gold eased 0.1% to $4,013.70 in early Asian trade Tuesday as a firmer dollar weighed ahead of the Fed meeting.",
-      "Silver slipped below $54 to about $53.80, near Monday's 11-month low of $53.01, FXStreet reports.",
-      "Gold eased Rs 500 per 10 grams and silver fell Rs 2,400 per kg in early Indian trade ahead of the Fed meeting.",
-      "Markets price about an 11% chance of a Fed hike this week and 82% for December, per CME FedWatch via Reuters.",
-      "Gold ETFs saw net outflows last week for the first time in 13 weeks as gold fell nearly 4%, World Gold Council data show."
+      "COMEX gold steadied near $4,030 as the Fed began its October 27-28 meeting; a hold at 3.75-4% is widely expected.",
+      "Silver fell 1% to around $53.80, near its 11-month low, after slipping below $54 in Asian trade.",
+      "MCX gold traded near ₹142,900 and silver near ₹194,470, with the rupee weaker for a third session near ₹95.14.",
+      "Gold ETFs saw net outflows last week for the first time in 13 weeks as gold fell nearly 4%.",
+      "Festive demand builds into Dhanteras and Diwali even as silver sits 53% below its 2026 peak."
     ]
   },
   "trending": [
     {
       "title": "Fed week takes charge",
-      "summary": "The October 27-28 Fed meeting dominates: gold eases on a firmer dollar, MCX metals dip in early trade, and gold ETF flows turn negative after 13 weeks of inflows.",
+      "summary": "The October 27-28 Fed meeting dominates: gold steadies near $4,000 on a firmer dollar, silver nears an 11-month low, and MCX metals ease in early trade.",
       "item_ids": [
-        "6402e55a1ecdf323",
+        "cee5e23c973c9dc2",
         "462588639f473985",
-        "178524b9a745af6d"
+        "92defd1e9bb38001"
       ]
     },
     {
-      "title": "Silver tests 11-month lows",
-      "summary": "Silver slips below $54 near Monday's 11-month low, with a bearish technical structure putting $48.29 support in focus after a 53% fall from its 2026 peak.",
+      "title": "Silver's steeper slide",
+      "summary": "Silver keeps falling faster than gold — down 53% from its 2026 peak and near $54 — as oil-driven inflation fears sustain rate-hike bets into the festive season.",
       "item_ids": [
         "92defd1e9bb38001",
-        "357b1b9b96e9d33c",
-        "d6597cc69e3b0ed6"
-      ]
-    },
-    {
-      "title": "Oil steals gold's haven bid",
-      "summary": "Crude's surge has revived inflation and rate-hike fears, muting gold's haven appeal even as Hormuz diplomacy cools oil; one analysis argues oil is now 2026's standout defensive trade.",
-      "item_ids": [
-        "518ca1a83ae5dbbb",
-        "26ecebae9b501ccc",
+        "d6597cc69e3b0ed6",
         "d15552d68bcb2494"
       ]
     },
     {
-      "title": "Dhanteras demand meets a thinner cushion",
-      "summary": "Festive demand builds into Dhanteras and Diwali as the World Gold Council flags seasonal strength, while BIS widens mandatory hallmarking to 12 more districts.",
+      "title": "Dhanteras demand meets a correction",
+      "summary": "Festive buying approaches with prices well off the highs: discounts have narrowed, jewellers are restocking, and buyers weigh offers against a falling market.",
       "item_ids": [
         "c126034f28016614",
         "bb048d589d3ce8de",
-        "7af43fee0a073f85"
+        "1d70823b20e803c3",
+        "bef49f70dd14cb42"
+      ]
+    },
+    {
+      "title": "Oil vs gold for the haven bid",
+      "summary": "Crude's surge has revived inflation and rate-hike fears, dulling gold's haven bid even as Hormuz diplomacy cools oil and central banks split on reserves.",
+      "item_ids": [
+        "26ecebae9b501ccc",
+        "518ca1a83ae5dbbb",
+        "d15552d68bcb2494"
       ]
     }
   ],
   "items": [
     {
-      "id": "6402e55a1ecdf323",
-      "title": "Gold eases as stronger dollar weighs, Fed meeting in focus",
-      "summary": "Spot gold edged 0.1% lower to $4,013.70 an ounce in early Asian trade on Tuesday as a firmer dollar weighed on dollar-priced bullion, Reuters reports via the Economic Times, while December futures slipped 0.3% to $4,027.10. Traders await the Fed's October 27-28 meeting and Thursday's PCE data, pricing about an 11% chance of a hike this week and 82% for December.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-eases-as-stronger-dollar-weighs-fed-meeting-in-focus/articleshow/135222653.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "publisher_id": "economic-times",
-      "published_at": "2026-10-27T02:09:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/6402e55a1ecdf323.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "global",
-        "fed"
-      ],
+      "title": "Gold steadies near $4,000 as Fed policy meet begins; silver near 11-month low",
+      "summary": "COMEX gold steadied around $4,030 an ounce on Tuesday as the Federal Reserve kicked off its two-day policy meeting, with a hold at 3.75-4% widely expected on Wednesday and over 80% odds of a December hike. COMEX silver fell 1% to around $53.80, near an 11-month low. On the MCX, gold traded around ₹142,900 and silver around ₹194,470 as the rupee weakened to around ₹95.14.",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/gold-steadies-near-4000-as-fed-policy-meet-begins-silver-near-11-month-low/article71630140.ece",
+      "source": "The Hindu BusinessLine",
+      "source_domain": "thehindubusinessline.com",
+      "publisher_id": "hindu-businessline",
+      "published_at": "2026-10-27T06:57:00Z",
       "category": "global",
       "metals": [
         "gold",
         "silver"
       ],
+      "tags": [
+        "gold",
+        "silver",
+        "fed",
+        "global",
+        "mcx",
+        "rupee"
+      ],
       "breaking": false,
-      "rank": 1
+      "image_url": null,
+      "image_kind": "none",
+      "rank": 1,
+      "id": "cee5e23c973c9dc2"
     },
     {
       "id": "462588639f473985",
@@ -108,28 +111,6 @@
       "rank": 2
     },
     {
-      "id": "518ca1a83ae5dbbb",
-      "title": "Has Oil Replaced Gold As 2026's Most Compelling Safe Haven Trade?",
-      "summary": "The Gold & Silver Club argues oil has taken gold's place as 2026's most compelling defensive trade, as scarcity, energy security and fragile supply chains reprice essentials. With crude's surge reviving inflation and rate-hike fears, gold's haven bid has faded even as geopolitical risks stay high, the firm's Lars Hansen says, in what the piece frames as the start of a 'hard asset decade'.",
-      "url": "https://www.fxempire.com/forecasts/article/has-oil-replaced-gold-as-2026s-most-compelling-safe-haven-trade-1640550",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "publisher_id": "fxempire",
-      "published_at": "2026-10-26T21:01:33Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 3
-    },
-    {
       "id": "92defd1e9bb38001",
       "title": "Silver Price Forecast: XAG/USD falls toward 11-month lows after slipping below $54.00",
       "summary": "Silver slipped below $54 in Asian trade on Tuesday, trading around $53.80 an ounce after minor gains the previous day, FXStreet reports, near an 11-month low of $53.01 recorded on Monday. Elevated energy prices keep inflation risks in focus and sustain expectations of further tightening, though easing oil and bargain-hunting ahead of the Fed decision could cushion the fall.",
@@ -151,7 +132,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 4
+      "rank": 3
     },
     {
       "id": "26ecebae9b501ccc",
@@ -176,54 +157,29 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 5
+      "rank": 4
     },
     {
-      "id": "357b1b9b96e9d33c",
-      "title": "Silver (XAG/USD) Price Forecast: Bearish Signals Put $48.29 Support in Focus",
-      "summary": "FXEmpire's technical read keeps silver in a bearish structure after its fall from the January peak of $121.67, with the 78.6% Fibonacci retracement at $48.29 now in focus as a potentially significant support level inside a late-2025 consolidation range of $54.49 to $45.55. Short-term oversold conditions could produce a bounce, but rallies face selling pressure until momentum turns.",
-      "url": "https://www.fxempire.com/forecasts/article/silver-xag-usd-price-forecast-bearish-signals-put-48-29-support-in-focus-1640544",
+      "id": "518ca1a83ae5dbbb",
+      "title": "Has Oil Replaced Gold As 2026's Most Compelling Safe Haven Trade?",
+      "summary": "The Gold & Silver Club argues oil has taken gold's place as 2026's most compelling defensive trade, as scarcity, energy security and fragile supply chains reprice essentials. With crude's surge reviving inflation and rate-hike fears, gold's haven bid has faded even as geopolitical risks stay high, the firm's Lars Hansen says, in what the piece frames as the start of a 'hard asset decade'.",
+      "url": "https://www.fxempire.com/forecasts/article/has-oil-replaced-gold-as-2026s-most-compelling-safe-haven-trade-1640550",
       "source": "FXEmpire",
       "source_domain": "fxempire.com",
       "publisher_id": "fxempire",
-      "published_at": "2026-10-27T01:25:56Z",
+      "published_at": "2026-10-26T21:01:33Z",
       "image_url": null,
       "image_kind": "none",
       "tags": [
-        "silver",
-        "global",
-        "comex"
+        "gold",
+        "global"
       ],
       "category": "global",
       "metals": [
-        "silver"
+        "gold"
       ],
       "breaking": false,
-      "rank": 6
-    },
-    {
-      "category": "mcx",
-      "image_kind": "photo",
-      "image_url": "https://d2lnbwhcsmj8tp.cloudfront.net/ianslive_watermark/20260512203f.jpg",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "published_at": "2026-10-26T04:37:25Z",
-      "publisher_id": "ians",
-      "source": "IANS",
-      "source_domain": "ianslive.in",
-      "summary": "MCX gold December futures opened ₹277 higher at ₹1,42,301 per 10 grams on Monday and traded at ₹1,42,500, up 0.34%, after last week's near-4% slide, while silver December futures traded at ₹1,95,572 per kg after an intraday high of ₹1,97,186. Experts cited by IANS said gold needs to reclaim ₹1,43,000-₹1,43,700 to stabilise, with silver facing resistance at ₹2,00,000-₹2,02,000.",
-      "tags": [
-        "gold",
-        "silver",
-        "mcx"
-      ],
-      "title": "Gold, silver bounce back after sharp sell-off, but yellow metal near 3-month low",
-      "url": "https://ianslive.in/gold-silver-bounce-back-after-sharp-sell-off-yellow-metal-near-3-month-low--20261026121754",
-      "id": "b8073cb5badab86d",
-      "breaking": false,
-      "rank": 7
+      "rank": 5
     },
     {
       "id": "178524b9a745af6d",
@@ -246,32 +202,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 8
-    },
-    {
-      "id": "a6d4836ace5da8e4",
-      "title": "Rupee weakens for third session as importers step up dollar bids, foreign outflows bite",
-      "summary": "The rupee closed at 95.1850 per dollar on Monday, down 0.3% on the day and about 0.8% over three sessions, as importer dollar demand, Brent crude near $115 a barrel and foreign outflows weighed. Traders noted the absence of recent RBI dollar sales that had supported the currency; a weaker rupee raises the landed cost of dollar-priced bullion for Indian buyers.",
-      "url": "https://www.thehindubusinessline.com/markets/forex/rupee-weakens-for-third-session-as-importers-step-up-dollar-bids-foreign-outflows-bite/article71626459.ece",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "publisher_id": "hindu-businessline",
-      "published_at": "2026-10-26T10:14:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "global",
-        "rupee"
-      ],
-      "breaking": false,
-      "rank": 9
+      "rank": 6
     },
     {
       "id": "d6597cc69e3b0ed6",
@@ -295,7 +226,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 7
     },
     {
       "id": "d15552d68bcb2494",
@@ -319,32 +250,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 11
-    },
-    {
-      "id": "c40cfca3cc1ffc08",
-      "title": "Gold Reclaims $4000 as Data Show Modest Speculative Retreat Before Latest Sell-Off",
-      "summary": "Spot gold traded at $4,021 an ounce by Monday lunchtime, up 0.2% from Friday's London PM auction, after falling 4.2% last week to $4,013 at Friday's fix. BullionVault notes eight straight weeks of declines in speculative net longs in Comex gold futures and options, a modest retreat relative to the price fall; silver traded at $54.15, up 0.5%, after a 6.6% weekly fall.",
-      "url": "https://www.bullionvault.co.uk/gold-news/gold-price-news/gold-reclaims-4000-modest-speculative-selling-102620262",
-      "source": "BullionVault",
-      "source_domain": "bullionvault.co.uk",
-      "publisher_id": "bullionvault",
-      "published_at": "2026-10-26T14:17:17Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "silver",
-        "global",
-        "fed"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 12
+      "rank": 8
     },
     {
       "id": "c126034f28016614",
@@ -368,7 +274,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 13
+      "rank": 9
     },
     {
       "id": "bb048d589d3ce8de",
@@ -392,7 +298,53 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 10
+    },
+    {
+      "id": "1d70823b20e803c3",
+      "title": "5 things happening in the gold market ahead of Diwali and Dhanteras 2026, as per WGC",
+      "summary": "The World Gold Council's latest India update, 'Seasonal demand shows early strength', says prices steadied after September's sharp fall and domestic discounts narrowed from $66 an ounce in September to $8 by October 16 as festive and wedding-season demand built. Demand is strengthening into Diwali and Dhanteras, though the Council cautions high prices may still cap volumes.",
+      "url": "https://upstox.com/news/personal-finance/commodities/pre-diwali-2026-5-key-trends-in-the-gold-market-according-to-wgc/article-202346/",
+      "source": "Upstox",
+      "source_domain": "upstox.com",
+      "publisher_id": "upstox",
+      "published_at": "2026-10-25T11:40:17Z",
+      "image_url": "https://assets.upstox.com/content/assets/images/news/diwali-2026-gold-trends.webp",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
+      ],
+      "category": "festive",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 11
+    },
+    {
+      "id": "bef49f70dd14cb42",
+      "title": "What are different ways to invest in gold this Dhanteras?",
+      "summary": "Indian households buying gold for Dhanteras and Diwali can choose physical gold, gold ETFs, gold mutual funds, digital gold or electronic gold receipts, with sovereign gold bonds another route. Each form differs on storage, liquidity and cost, so the right choice depends on whether the metal is for wearing, gifting or investing.",
+      "url": "https://inshorts.com/en/news/what-are-different-ways-to-invest-in-gold-this-dhanteras--1793027909642",
+      "source": "Inshorts",
+      "source_domain": "inshorts.com",
+      "publisher_id": "inshorts",
+      "published_at": "2026-10-26T15:18:29Z",
+      "image_url": "https://media.inshorts.com/inshorts/images/v1/variants/jpg/m/2026/10_oct/26_mon/img_1793027472354_384.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
+      ],
+      "category": "festive",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 12
     },
     {
       "bis_insight_sentence": "BIS extended mandatory gold hallmarking to 12 more districts, taking coverage to 392 districts.",
@@ -417,30 +369,7 @@
       ],
       "title": "BIS expands mandatory hallmarkingof gold jewellery to 12 more districts",
       "url": "https://retailjewellerindia.com/bis-expands-mandatory-hallmarkingof-gold-jewellery-to-12-more-districts/",
-      "rank": 15
-    },
-    {
-      "id": "1d70823b20e803c3",
-      "title": "5 things happening in the gold market ahead of Diwali and Dhanteras 2026, as per WGC",
-      "summary": "The World Gold Council's latest India update, 'Seasonal demand shows early strength', says prices steadied after September's sharp fall and domestic discounts narrowed from $66 an ounce in September to $8 by October 16 as festive and wedding-season demand built. Demand is strengthening into Diwali and Dhanteras, though the Council cautions high prices may still cap volumes.",
-      "url": "https://upstox.com/news/personal-finance/commodities/pre-diwali-2026-5-key-trends-in-the-gold-market-according-to-wgc/article-202346/",
-      "source": "Upstox",
-      "source_domain": "upstox.com",
-      "publisher_id": "upstox",
-      "published_at": "2026-10-25T11:40:17Z",
-      "image_url": "https://assets.upstox.com/content/assets/images/news/diwali-2026-gold-trends.webp",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "india",
-        "jewellery"
-      ],
-      "category": "festive",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 16
+      "rank": 13
     },
     {
       "id": "6d1cc34853f3c178",
@@ -463,30 +392,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 17
-    },
-    {
-      "id": "bef49f70dd14cb42",
-      "title": "What are different ways to invest in gold this Dhanteras?",
-      "summary": "Indian households buying gold for Dhanteras and Diwali can choose physical gold, gold ETFs, gold mutual funds, digital gold or electronic gold receipts, with sovereign gold bonds another route. Each form differs on storage, liquidity and cost, so the right choice depends on whether the metal is for wearing, gifting or investing.",
-      "url": "https://inshorts.com/en/news/what-are-different-ways-to-invest-in-gold-this-dhanteras--1793027909642",
-      "source": "Inshorts",
-      "source_domain": "inshorts.com",
-      "publisher_id": "inshorts",
-      "published_at": "2026-10-26T15:18:29Z",
-      "image_url": "https://media.inshorts.com/inshorts/images/v1/variants/jpg/m/2026/10_oct/26_mon/img_1793027472354_384.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "india",
-        "jewellery"
-      ],
-      "category": "festive",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 18
+      "rank": 14
     }
   ]
 }
