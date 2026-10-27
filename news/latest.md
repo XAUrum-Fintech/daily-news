@@ -1,4 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-10-27T11:00Z
+# Gold & Silver for Indian buyers · 2026-10-27T12:00Z
 
 > Gold holds near $4,000 as the Fed meets; ETF inflows end a 13-week run
 
@@ -15,6 +15,7 @@ Gold is holding near $4,000 an ounce as the US Federal Reserve's October 27-28 m
 - **Silver's steeper slide**: Silver is falling faster than gold, near 11-month lows around $53 an ounce and Rs 1.92 lakh per kg on MCX, with ETFs down sharply from highs. (stories 4, 6, 14)
 - **ETF flows turn after 13 weeks**: Gold ETF inflows flipped to net outflows last week, led by US redemptions, though Indian investors remain third for year-to-date inflows. (stories 5, 4)
 - **Dhanteras demand meets a correction**: Festive buying runs into a falling market: gold is about 20% below its peak as Dhanteras approaches, with jewellers eyeing lighter pieces. (stories 9, 16)
+- **Check silver before you buy**: With Dhanteras buying under way, a hallmark and HUID check in the BIS Care app is the way to verify a silver article's stated purity before paying. (stories 20)
 
 ## Stories
 1. [Gold steadies near $4,000 as Fed policy meet begins; silver near 11-month low](https://www.thehindubusinessline.com/markets/commodities/gold-steadies-near-4000-as-fed-policy-meet-begins-silver-near-11-month-low/article71630140.ece) — *The Hindu BusinessLine*, 2026-10-27T06:57:00Z
@@ -49,12 +50,11 @@ Gold is holding near $4,000 an ounce as the US Federal Reserve's October 27-28 m
    Heraeus analysts say gold is caught between rising oil prices, with Brent back above $110 a barrel after renewed Houthi attacks in Saudi Arabia, and falling Treasury yields, the 10-year yield retreating toward 5.0% from about 5.35% earlier in October. The firm also notes output at Fresnillo, the world's largest primary silver producer, slid over the first three quarters of 2026.
 16. [Dhanteras, Diwali 2026: 4 factors that could affect gold prices after US midterm elections, according to WGC](https://upstox.com/news/personal-finance/commodities/dhanteras-diwali-2026-4-factors-that-could-affect-gold-prices-after-us-midterm-elections-according-to-wgc/article-202420/) — *Upstox*, 2026-10-27T02:31:54Z
    The World Gold Council examines how the US midterm elections could affect gold, Upstox reports: a Democratic-controlled Congress could make policymaking less predictable, pushing the administration toward wider use of executive orders, which the Council's Juan Carlos Artigas says could raise risk premia and support gold. Indian seasonal demand is gathering pace as retailers restock.
-17. [5 things happening in the gold market ahead of Diwali and Dhanteras 2026, as per WGC](https://upstox.com/news/personal-finance/commodities/pre-diwali-2026-5-key-trends-in-the-gold-market-according-to-wgc/article-202346/) — *Upstox*, 2026-10-25T11:40:17Z
-   The World Gold Council's latest India update, 'Seasonal demand shows early strength', says prices steadied after September's sharp fall and domestic discounts narrowed from $66 an ounce in September to $8 by October 16 as festive and wedding-season demand built. Demand is strengthening into Diwali and Dhanteras, though the Council cautions high prices may still cap volumes.
-18. [What are different ways to invest in gold this Dhanteras?](https://inshorts.com/en/news/what-are-different-ways-to-invest-in-gold-this-dhanteras--1793027909642) — *Inshorts*, 2026-10-26T15:18:29Z
+17. [What are different ways to invest in gold this Dhanteras?](https://inshorts.com/en/news/what-are-different-ways-to-invest-in-gold-this-dhanteras--1793027909642) — *Inshorts*, 2026-10-26T15:18:29Z
    Indian households buying gold for Dhanteras and Diwali can choose physical gold, gold ETFs, gold mutual funds, digital gold or electronic gold receipts, with sovereign gold bonds another route. Each form differs on storage, liquidity and cost, so the right choice depends on whether the metal is for wearing, gifting or investing.
-19. [BIS expands mandatory hallmarkingof gold jewellery to 12 more districts](https://retailjewellerindia.com/bis-expands-mandatory-hallmarkingof-gold-jewellery-to-12-more-districts/) — *The Retail Jeweller India*, 2026-10-26T18:24:36Z
+18. [BIS expands mandatory hallmarkingof gold jewellery to 12 more districts](https://retailjewellerindia.com/bis-expands-mandatory-hallmarkingof-gold-jewellery-to-12-more-districts/) — *The Retail Jeweller India*, 2026-10-26T18:24:36Z
    BIS has extended mandatory hallmarking of gold jewellery to 12 more districts under the Third Amendment Order, 2026, issued on August 3, The Retail Jeweller India reports. Coverage rises from 380 to 392 districts across 26 states and union territories, including Kancheepuram, Panipat, Angul and Jhargram — a purity check for festive jewellery buyers.
-20. [Senco Gold to acquire 68% stake in August Jewellery for ₹68 crore](https://www.business-standard.com/companies/news/senco-gold-to-acquire-68-stake-in-august-jewellery-for-68-crore-126102500549_1.html) — *Business Standard*, 2026-10-25T14:16:02Z
+19. [Senco Gold to acquire 68% stake in August Jewellery for ₹68 crore](https://www.business-standard.com/companies/news/senco-gold-to-acquire-68-stake-in-august-jewellery-for-68-crore-126102500549_1.html) — *Business Standard*, 2026-10-25T14:16:02Z
    Senco Gold has signed definitive agreements to buy a 68% stake in August Jewellery, the company behind online jewellery brand Melorra, for ₹68 crore in tranches. With a promoter-group entity also investing, the total holding will reach 79% and August Jewellery will become a Senco subsidiary, with completion targeted by February 2027.
-
+20. [Buying Silver On Dhanteras? Here's How To Check Purity And Verify The Hallmark](https://www.outlookmoney.com/invest/buying-silver-on-dhanteras-heres-how-to-check-purity-and-verify-the-hallmark) — *Outlook Money*, 2026-10-26T11:19:00Z
+   Silver buyers heading into Dhanteras can check a hallmarked article for the BIS Standard Mark, the word 'SILVER', its purity grade and its six-digit HUID code, Outlook Money explains. The HUID can be verified in the BIS Care app, which shows the article type, purity and jeweller. Silver hallmarking is voluntary, so not every item carries a mark, and recognised grades run from 800 to 999 fineness.
