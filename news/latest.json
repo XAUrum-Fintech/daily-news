@@ -1,55 +1,62 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-27T18:00Z",
-  "generated_at": "2026-10-27T18:04:01Z",
+  "edition_id": "2026-10-27T20:00Z",
+  "generated_at": "2026-10-27T20:06:41Z",
   "window": {
-    "from": "2026-10-27T16:00:00Z",
-    "to": "2026-10-27T18:00:00Z"
+    "from": "2026-10-27T18:00:00Z",
+    "to": "2026-10-27T20:00:00Z"
   },
   "insights": {
-    "headline": "Gold holds above $4,000 and silver rebounds off its yearly low as the Fed decision nears",
-    "summary": "Spot gold held above $4,000 into Wednesday's Federal Reserve decision, reaching a session high of $4,048 after stronger US consumer confidence, and trading near $4,059 later in the day. Silver rebounded from a fresh year-to-date low of $52.67 to around $54.50 as oil prices eased, though a firm dollar kept gains in check. On MCX, silver futures fell to ₹1,92,050 per kg and gold held near ₹1.42 lakh per 10 grams, with festive buying in focus ahead of Dhanteras. Markets give a 90% chance the Fed holds rates this week, with the December meeting now the key question.",
+    "headline": "Gold holds above $4,000 into the Fed decision while silver slips to fresh lows",
+    "summary": "Spot gold held above $4,000 into Wednesday's Federal Reserve decision, reaching a session high of $4,048 after stronger US consumer confidence and reclaiming a key technical boundary near $4,045. Silver moved the other way, slipping to fresh year-to-date and 11-month lows near $52.67-$52.81 even after a brief rebound toward $54.50. On MCX, gold futures traded near ₹1.42 lakh per 10 grams and silver near ₹1.92 lakh per kg, while Brent crude's $117 ceiling stayed in focus as Middle East supply risks kept oil elevated.",
     "points": [
-      "Gold reclaimed $4,000 and held it into the Fed decision, helped by softer oil and strong US consumer confidence.",
-      "Silver bounced from its year-to-date low of $52.67 to about $54.50, but stayed below key moving averages.",
-      "MCX silver futures slid to ₹1,92,050 per kg while gold held near ₹1.42 lakh per 10 grams.",
-      "A Fed hold on Wednesday is 90% priced in; traders now watch December hike signals and Thursday's GDP and PCE data.",
-      "Gold ETF inflows turned negative after 13 weeks as prices fell 4% last week."
+      "Gold's session high of $4,048 followed US consumer confidence beating expectations at 91.7.",
+      "The Fed is widely expected to hold rates at 3.75-4.00% on Wednesday; December is now the focus.",
+      "Silver fell to fresh lows near $52.67-$52.81 despite a brief rebound toward $54.50.",
+      "MCX gold traded near ₹1.42 lakh per 10 grams; MCX silver near ₹1.92 lakh per kg.",
+      "Festive buying continues into Dhanteras even as gold sits about 20% below its January peak."
     ]
   },
   "trending": [
     {
-      "title": "Gold defends $4,000 into the Fed decision",
-      "summary": "Strong US consumer confidence lifted spot gold to $4,048, and with a hold 90% priced in, the debate has moved to December.",
+      "title": "Fed decision dominates the tape",
+      "summary": "With a hold at 3.75-4.00% priced in for Wednesday, traders are parsing what officials signal about December, where futures put a hike at about 75%.",
       "item_ids": [
         "74fbdd8441e572b9",
         "529b8f28a7c54c3d"
       ]
     },
     {
-      "title": "Silver's rebound from its yearly low",
-      "summary": "Silver bounced from $52.67 to about $54.50 as oil eased, but a firm dollar and moving averages still cap the recovery; MCX silver ended at ₹1,92,050 per kg.",
+      "title": "Gold and silver split",
+      "summary": "Gold reclaimed key technical ground above $4,000 while silver broke to fresh lows, pushing the gold-silver ratio to its highest since November last year.",
       "item_ids": [
+        "89ac5aeee7916bb0",
         "f62624d110b5d98c",
-        "3cfe0b2e1c7aaec7",
-        "7cc0982e400f131b"
+        "19d15c234c6aabd3"
       ]
     },
     {
-      "title": "Dhanteras buying meets a price slide",
-      "summary": "Gold is down from its peak and silver off its highs, with festive buying in focus and ETF inflows turning negative after 13 weeks.",
+      "title": "Oil keeps inflation risks alive",
+      "summary": "Elevated crude, with Brent's $117 ceiling tied to Saudi export capacity, is feeding the rate-hike fears that have weighed on precious metals.",
+      "item_ids": [
+        "cd3e0bdb5e0ba3ad",
+        "4f7fc31eeae3802e"
+      ]
+    },
+    {
+      "title": "Dhanteras buying at lower prices",
+      "summary": "Festive demand is gathering pace with gold about 20% below its January peak, and buyers are weighing coins, bars, ETFs and jewellery options.",
       "item_ids": [
         "906beabb6c7b53c8",
-        "178524b9a745af6d",
+        "66d029c021475a71",
         "c126034f28016614"
       ]
     },
     {
-      "title": "What the Fed says matters more than what it does",
-      "summary": "With the hold priced in, the chair's press conference and Thursday's GDP and PCE data are the next tests for gold and silver.",
+      "title": "Gold-loan strain grows",
+      "summary": "Repayment delays are rising on gold loans, and tighter renewal rules mean borrowers must clear accrued interest or risk pledged gold being auctioned.",
       "item_ids": [
-        "529b8f28a7c54c3d",
-        "cd3e0bdb5e0ba3ad"
+        "f4d31d73e8061072"
       ]
     }
   ],
@@ -81,29 +88,30 @@
       "rank": 1
     },
     {
-      "id": "f62624d110b5d98c",
-      "title": "Silver Price Forecast: XAG/USD bounces from year-to-date lows ahead of Fed rate call",
-      "summary": "Silver rebounded on Tuesday after slipping to a fresh year-to-date low of $52.67 in Asian trading, recovering to around $54.50 as easing oil prices offered relief. FXStreet notes the bounce leaves the metal below its 100- and 200-day averages, with a firmer dollar ahead of Wednesday's Federal Reserve decision still capping gains.",
-      "url": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-bounces-from-year-to-date-lows-ahead-of-fed-rate-call-202610271558",
-      "source": "FXStreet",
-      "source_domain": "fxstreet.com",
-      "publisher_id": "fxstreet",
-      "published_at": "2026-10-27T15:58:44Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/f62624d110b5d98c.jpg",
-      "image_kind": "photo",
+      "id": "89ac5aeee7916bb0",
+      "title": "Gold Fights Back. Silver Breaks Lower. Same Dollar, Different Stories.",
+      "summary": "Gold reclaimed a falling-wedge boundary after Monday's close above it, retesting the breakout near $4,001.80 before rebounding toward $4,045.10, FXEmpire reports, though the $4,042-$4,060 zone, Friday's bearish gap plus a new declining channel, now stands in the way. Silver, by contrast, fell to another local low despite the stronger-dollar backdrop, underscoring the split between the metals.",
+      "url": "https://www.fxempire.com/forecasts/article/gold-fights-back-silver-breaks-lower-same-dollar-different-stories-1640728",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "published_at": "2026-10-27T18:08:00Z",
+      "image_url": null,
+      "image_kind": "none",
       "tags": [
+        "gold",
         "silver",
-        "comex",
-        "fed",
-        "global"
+        "global",
+        "comex"
       ],
       "category": "global",
       "metals": [
+        "gold",
         "silver"
       ],
       "breaking": false,
       "related_urls": [
-        "https://www.tradingkey.com/news/commodities/262242704-fxstr"
+        "https://www.fxstreet.com/analysis/gold-fights-back-silver-breaks-lower-same-dollar-different-stories-202610271738"
       ],
       "rank": 2
     },
@@ -162,6 +170,33 @@
       "rank": 4
     },
     {
+      "id": "f62624d110b5d98c",
+      "title": "Silver Price Forecast: XAG/USD bounces from year-to-date lows ahead of Fed rate call",
+      "summary": "Silver rebounded on Tuesday after slipping to a fresh year-to-date low of $52.67 in Asian trading, recovering to around $54.50 as easing oil prices offered relief. FXStreet notes the bounce leaves the metal below its 100- and 200-day averages, with a firmer dollar ahead of Wednesday's Federal Reserve decision still capping gains.",
+      "url": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-bounces-from-year-to-date-lows-ahead-of-fed-rate-call-202610271558",
+      "source": "FXStreet",
+      "source_domain": "fxstreet.com",
+      "publisher_id": "fxstreet",
+      "published_at": "2026-10-27T15:58:44Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/f62624d110b5d98c.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "silver",
+        "comex",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://www.tradingkey.com/news/commodities/262242704-fxstr"
+      ],
+      "rank": 5
+    },
+    {
       "id": "8792f4c8ce4606ed",
       "title": "Strong dollar, high yields drag on gold outlook, but central-bank demand lends support",
       "summary": "Analysts trimmed their 2026 gold price forecast in a Reuters survey of 30 analysts and traders, citing high Treasury yields, a strong dollar and rates staying high for longer. The median 2026 forecast is $4,495 an ounce, down from $4,509, while the 2027 median rose to $4,650. Central-bank buying and demand from India and China are expected to support prices.",
@@ -184,7 +219,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "19d15c234c6aabd3",
@@ -208,7 +243,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "3cfe0b2e1c7aaec7",
@@ -231,7 +266,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "7cc0982e400f131b",
@@ -253,7 +288,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "4c2f5c5929f6e029",
@@ -277,7 +312,29 @@
       "breaking": false,
       "image_url": null,
       "image_kind": "none",
-      "rank": 9
+      "rank": 10
+    },
+    {
+      "id": "f4d31d73e8061072",
+      "title": "Gold loan stress rising: How to avoid a debt trap and manage repayments",
+      "summary": "Repayment stress on gold loans is rising, Business Standard reports: Bajaj Finance has flagged delays, and Piramal Finance has raised concerns about lending to borrowers overdue elsewhere. Under an RBI rule in force since April 1, 2026, bullet gold loans for consumption are capped at 12 months, with accrued interest to be cleared before renewal or pledged gold could face auction.",
+      "url": "https://www.business-standard.com/markets/news/gold-loan-stress-rising-how-to-avoid-a-debt-trap-and-manage-repayments-126102800003_1.html",
+      "source": "Business Standard",
+      "source_domain": "business-standard.com",
+      "publisher_id": "business-standard",
+      "published_at": "2026-10-27T18:38:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/f4d31d73e8061072.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 11
     },
     {
       "id": "2f13f78f29915944",
@@ -300,7 +357,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 12
     },
     {
       "id": "9d85e7d5574a460c",
@@ -325,7 +382,7 @@
       "breaking": false,
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/9d85e7d5574a460c.jpg",
       "image_kind": "photo",
-      "rank": 11
+      "rank": 13
     },
     {
       "id": "178524b9a745af6d",
@@ -348,7 +405,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 14
     },
     {
       "id": "f85d809ec1e60b42",
@@ -375,7 +432,7 @@
       "related_urls": [
         "https://www.tradingkey.com/news/commodities/262241496-fxstr"
       ],
-      "rank": 13
+      "rank": 15
     },
     {
       "id": "6625ba2d14923e2a",
@@ -399,7 +456,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 16
     },
     {
       "id": "ca5755e4b1feb89a",
@@ -421,7 +478,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 15
+      "rank": 17
     },
     {
       "id": "906beabb6c7b53c8",
@@ -445,7 +502,7 @@
       "breaking": false,
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/906beabb6c7b53c8.jpg",
       "image_kind": "photo",
-      "rank": 16
+      "rank": 18
     },
     {
       "id": "66d029c021475a71",
@@ -468,7 +525,7 @@
       "breaking": false,
       "image_url": null,
       "image_kind": "none",
-      "rank": 17
+      "rank": 19
     },
     {
       "id": "931a73f375fd20d7",
@@ -491,19 +548,19 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 18
+      "rank": 20
     },
     {
-      "id": "518ca1a83ae5dbbb",
-      "title": "Has Oil Replaced Gold As 2026's Most Compelling Safe Haven Trade?",
-      "summary": "The Gold & Silver Club argues oil has taken gold's place as 2026's most compelling defensive trade, as scarcity, energy security and fragile supply chains reprice essentials. With crude's surge reviving inflation and rate-hike fears, gold's haven bid has faded even as geopolitical risks stay high, the firm's Lars Hansen says, in what the piece frames as the start of a 'hard asset decade'.",
-      "url": "https://www.fxempire.com/forecasts/article/has-oil-replaced-gold-as-2026s-most-compelling-safe-haven-trade-1640550",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "publisher_id": "fxempire",
-      "published_at": "2026-10-26T21:01:33Z",
-      "image_url": null,
-      "image_kind": "none",
+      "id": "4f7fc31eeae3802e",
+      "title": "Brent’s $117 Ceiling Depends on Saudi Export Capacity Avoiding Damage",
+      "summary": "Brent crude's $117 ceiling depends on Saudi export capacity avoiding damage, Investing.com's analysis argues: if Saudi export routes escape major disruption, crude's upside stays capped near that level. For gold and silver buyers, the oil ceiling matters because elevated crude feeds the inflation and rate-hike fears weighing on precious metals.",
+      "url": "https://www.investing.com/analysis/brents-117-ceiling-depends-on-saudi-export-capacity-avoiding-damage-200690379",
+      "source": "Investing.com",
+      "source_domain": "investing.com",
+      "publisher_id": "investing",
+      "published_at": "2026-10-27T19:17:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/4f7fc31eeae3802e.jpg",
+      "image_kind": "photo",
       "tags": [
         "gold",
         "global"
@@ -513,7 +570,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 19
+      "rank": 21
     },
     {
       "id": "c126034f28016614",
@@ -537,7 +594,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 20
+      "rank": 22
     },
     {
       "id": "bef49f70dd14cb42",
@@ -560,11 +617,9 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 21
+      "rank": 23
     },
     {
-      "bis_insight_sentence": "BIS extended mandatory gold hallmarking to 12 more districts, taking coverage to 392 districts.",
-      "bis_point": "BIS extended mandatory gold hallmarking to 12 more districts, taking coverage to 392 districts across 26 states and union territories.",
       "breaking": false,
       "category": "policy",
       "id": "7af43fee0a073f85",
@@ -585,7 +640,7 @@
       ],
       "title": "BIS expands mandatory hallmarkingof gold jewellery to 12 more districts",
       "url": "https://retailjewellerindia.com/bis-expands-mandatory-hallmarkingof-gold-jewellery-to-12-more-districts/",
-      "rank": 22
+      "rank": 24
     },
     {
       "id": "91684212e3fa3d82",
@@ -608,7 +663,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 23
+      "rank": 25
     },
     {
       "title": "Buying Silver On Dhanteras? Here's How To Check Purity And Verify The Hallmark",
@@ -631,7 +686,7 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/91ed7c78640a4d49.jpg",
       "image_kind": "photo",
       "id": "91ed7c78640a4d49",
-      "rank": 24
+      "rank": 26
     }
   ]
 }
