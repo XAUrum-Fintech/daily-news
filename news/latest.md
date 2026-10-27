@@ -1,4 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-10-27T03:00Z
+# Gold & Silver for Indian buyers · 2026-10-27T04:00Z
 
 > Gold eases to $4,014 as a firmer dollar meets Fed week; silver slips below $54 to near 11-month lows
 
@@ -12,8 +12,8 @@ Gold edged lower in Asian trade on Tuesday to $4,013.70 an ounce as a firmer dol
 
 ## Trending
 - **Fed week takes charge**: Gold's Tuesday easing keeps the Fed's October 27-28 meeting at the centre of the market, with a firmer dollar and December hike bets capping the recovery as easing oil prices trim inflation worries. (stories 1, 3, 6)
-- **Silver tests 11-month lows**: Silver's slide below $54 extends a deep correction from its January peak, with bearish technical signals, growing COMEX shorts and a $48.29 support level now framing the debate. (stories 2, 8, 10, 9)
-- **Dhanteras demand meets a thinner discount**: Festive restocking has nearly erased the wholesale discount Indian buyers enjoyed in September, while the World Gold Council links US midterm scenarios to Dhanteras demand. (stories 4, 14, 17, 15)
+- **Silver tests 11-month lows**: Silver's slide below $54 extends a deep correction from its January peak, with bearish technical signals, growing COMEX shorts and a $48.29 support level now framing the debate. (stories 2, 9, 11, 10)
+- **Dhanteras demand meets a thinner discount**: Festive restocking has nearly erased the wholesale discount Indian buyers enjoyed in September, while the World Gold Council links US midterm scenarios to Dhanteras demand. (stories 4, 14, 17, 15, 8)
 - **A weaker rupee adds to the landed cost**: The rupee's third straight weaker session compounds the vanished import discount for Indian buyers, even as MCX futures steadied after last week's sell-off. (stories 7, 4, 5)
 
 ## Stories
@@ -31,14 +31,14 @@ Gold edged lower in Asian trade on Tuesday to $4,013.70 an ounce as a firmer dol
    Physically backed gold ETFs saw net outflows last week for the first time in 13 weeks, World Gold Council data show, with investors redeeming $3.01 billion against $1.80 billion of inflows as gold fell nearly 4% in its worst week since June. US investors led the redemptions at $1.7 billion, with the Fed's October 27-28 meeting now the key near-term driver.
 7. [Rupee weakens for third session as importers step up dollar bids, foreign outflows bite](https://www.thehindubusinessline.com/markets/forex/rupee-weakens-for-third-session-as-importers-step-up-dollar-bids-foreign-outflows-bite/article71626459.ece) — *The Hindu BusinessLine*, 2026-10-26T10:14:00Z
    The rupee closed at 95.1850 per dollar on Monday, down 0.3% on the day and about 0.8% over three sessions, as importer dollar demand, Brent crude near $115 a barrel and foreign outflows weighed. Traders noted the absence of recent RBI dollar sales that had supported the currency; a weaker rupee raises the landed cost of dollar-priced bullion for Indian buyers.
-8. [Silver (XAG/USD) Price Forecast: Bearish Signals Put $48.29 Support in Focus](https://www.fxempire.com/forecasts/article/silver-xag-usd-price-forecast-bearish-signals-put-48-29-support-in-focus-1640544) — *FXEmpire*, 2026-10-27T01:25:56Z
+8. [Digital gold purchases surge 83% to Rs 2,590 crore in September](https://economictimes.indiatimes.com/markets/commodities/news/digital-gold-purchases-surge-83-to-rs-2590-crore-in-september/articleshow/135222637.cms) — *Economic Times*, 2026-10-26T19:03:25Z
+   Citing World Gold Council data, the Economic Times reports Indian digital gold purchases rose to Rs 2,590 crore in September, up 83% from a year earlier and 4% from August, with volumes of 1.7 tonnes. The firm demand, attributed to low minimum investments and easy access, came even as physical buying stayed selective ahead of Dhanteras.
+9. [Silver (XAG/USD) Price Forecast: Bearish Signals Put $48.29 Support in Focus](https://www.fxempire.com/forecasts/article/silver-xag-usd-price-forecast-bearish-signals-put-48-29-support-in-focus-1640544) — *FXEmpire*, 2026-10-27T01:25:56Z
    FXEmpire's technical read keeps silver in a bearish structure after its fall from the January peak of $121.67, with the 78.6% Fibonacci retracement at $48.29 now in focus as a potentially significant support level inside a late-2025 consolidation range of $54.49 to $45.55. Short-term oversold conditions could produce a bounce, but rallies face selling pressure until momentum turns.
-9. [Silver crashes 53% from 2026 peak, gold falls 26%](https://inshorts.com/en/news/silver-crashes-53--from-2026-peak--gold-falls-26--1793006004613) — *Inshorts*, 2026-10-26T09:13:24Z
+10. [Silver crashes 53% from 2026 peak, gold falls 26%](https://inshorts.com/en/news/silver-crashes-53--from-2026-peak--gold-falls-26--1793006004613) — *Inshorts*, 2026-10-26T09:13:24Z
    Silver has fallen more than 53% from its January 2026 record near $117 an ounce to around $54 by October 23, as Middle East tensions and persistent inflation weighed on bullion. Gold has also dropped 26% from its all-time peak, leaving festive buyers facing a very different market from January's highs.
-10. [Silver Below $55 as COMEX Shorts Outpace New Longs](https://www.fxempire.com/forecasts/article/silver-below-55-as-comex-shorts-outpace-new-longs-1640404) — *FXEmpire*, 2026-10-26T14:49:46Z
+11. [Silver Below $55 as COMEX Shorts Outpace New Longs](https://www.fxempire.com/forecasts/article/silver-below-55-as-comex-shorts-outpace-new-longs-1640404) — *FXEmpire*, 2026-10-26T14:49:46Z
    Silver trades below $55 as COMEX shorts rise faster than longs, increasing breakdown risk ahead of the Fed decision despite easing real yields. CFTC data published October 23, for positions as of October 20, show managed-money longs up 378 contracts to 16,180 while shorts rose 2,492 to 12,675, cutting the net long to 3,505 from 5,619 a week earlier.
-11. [Silver prices are tarnished but not forgotten. Why HSBC thinks gains in white metal may be limited?](https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-are-tarnished-but-not-forgotten-why-hsbc-thinks-gains-in-white-metal-may-be-limited/articleshow/135207313.cms) — *Economic Times*, 2026-10-26T08:51:56Z
-   Silver prices are tarnished but not forgotten, the Economic Times reports, as HSBC argues gains in the white metal may be limited even after its sharp slide from recent highs. The cautious view lands as silver trades near $54 after breaking below its July low, with investors watching whether $50 holds.
 12. [Gold prices squeezed between rising oil and falling yields, Fresnillo silver output declines in 2026 – Heraeus](https://www.kitco.com/news/article/2026-10-26/gold-prices-squeezed-between-rising-oil-and-falling-yields-fresnillo-silver) — *Kitco*, 2026-10-26T13:26:55Z
    Heraeus analysts say gold is caught between rising oil prices, with Brent back above $110 a barrel after renewed Houthi attacks in Saudi Arabia, and falling Treasury yields, the 10-year yield retreating toward 5.0% from about 5.35% earlier in October. The firm also notes output at Fresnillo, the world's largest primary silver producer, slid over the first three quarters of 2026.
 13. [Gold Reclaims $4000 as Data Show Modest Speculative Retreat Before Latest Sell-Off](https://www.bullionvault.co.uk/gold-news/gold-price-news/gold-reclaims-4000-modest-speculative-selling-102620262) — *BullionVault*, 2026-10-26T14:17:17Z
