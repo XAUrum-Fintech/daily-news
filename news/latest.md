@@ -1,71 +1,127 @@
-# Gold & Silver for Indian buyers · 2026-10-28T18:00Z
+# Gold & Silver for Indian buyers · 2026-10-28T20:00Z
 
-> Gold slips toward $4,030 into the Fed decision as oil near $115 keeps hike bets alive
+> Fed holds rates at 3.75-4.00% in a 10-2 vote; gold slips to $4,035 as a December hike stays in view
 
-Gold eased to about $4,030 and silver held near $54 as markets awaited the Federal Reserve's decision at 18:00 GMT, widely expected to be a hold, with a December hike still heavily priced. Claims of a strike on a Saudi refinery kept Brent near $115 and stalled gold's recovery, while Sucden Financial warned gold could test $3,900 and silver $50-$53 before stabilising in early 2027. In India, MCX gold futures held near ₹1.43 lakh per 10 grams and silver near ₹1.92 lakh per kg, with festive demand picking up as prices cooled.
+The Federal Reserve held rates steady as expected, with two officials dissenting in favour of a hike, and spot gold eased 0.60% to $4,035.48 an ounce after the decision. On the MCX, gold futures slipped ₹646 to ₹1,43,492 per 10 grams and silver fell ₹1,416 to ₹1,95,301 per kilogram. Claims of a strike on a Saudi refinery kept crude elevated and gold's recovery stalled ahead of Dhanteras buying.
 
-- Fed decision due 18:00 GMT: a hold is expected, but the statement and press conference will move December hike bets.
-- Oil shock: claimed Saudi refinery strike kept Brent near $115, reviving inflation worries that weigh on bullion.
-- Sucden: gold could test $3,900 and silver $50-$53 into December, then recover toward $4,200-$4,300 by mid-January.
-- Asia buys the dip: Indian premiums rose to $15/oz while North American gold funds saw outflows.
-- India: MCX gold near ₹1.43 lakh; jewellers report improving festive footfall but many buyers wait for a deeper drop.
+- Fed holds 3.75-4.00% in a 10-2 vote; Cook and Hammack dissented, preferring a hike.
+- Spot gold fell to $4,035.48 after the decision; a December hike remains heavily priced.
+- MCX gold December futures eased to ₹1,43,492/10g; silver fell to ₹1,95,301/kg.
+- Saudi refinery strike claims kept oil high, stalling gold's recovery.
+- Jewellers are holding off purchases into Dhanteras, betting prices will drop further.
 
 ## Trending
-- **Fed day decides gold's $4,000 stand**: Gold clings to $4,000 into the 18:00 GMT decision, with a December hike still heavily priced and $4,106 flagged as the breakout level for a rebound. (stories 1, 2, 3, 4, 5, 7, 8)
-- **Oil above $110 rewrites the bullion trade**: Crude near $115 is hurting gold rather than helping it, as energy-led inflation keeps yields high and the Fed hawkish. (stories 1, 2, 18, 11)
-- **Silver stuck near $54 as Fed looms**: Silver hovers near $54, close to 11-month lows, with a break below Tuesday's low threatening a move toward $50. (stories 7, 17, 20, 13, 3)
-- **Dhanteras demand builds as prices cool**: Lower prices are lifting festive footfall and jeweller orders, though many Indian buyers still hold off, betting on a deeper drop. (stories 10, 23, 24, 16)
+
+### Fed hold, December hike still on the table
+
+The Fed kept rates at 3.75-4.00% with two hawkish dissents and no future guidance, leaving gold caught between a steady hold and a possible December hike.
+
+### Oil shock stalls gold's recovery
+
+Claims of a Saudi refinery strike lifted crude and kept yields and the dollar firm, capping gold near $4,035 despite softer real yields.
+
+### MCX metals ease into Dhanteras
+
+Both MCX metals fell on weak spot demand while jewellers delay festive buying and electronic gold receipt trading crossed ₹93 crore.
+
+### Silver's sharper slide
+
+Silver fell faster than gold on the MCX and globally, sitting near an 11-month low as industrial demand worries add to rate pressure.
 
 ## Stories
-1. [Gold Faces a New Test as Oil and Treasury Yields Pull in Opposite Directions](https://www.investing.com/analysis/gold-faces-a-new-test-as-oil-and-treasury-yields-pull-in-opposite-directions-200690456) — *Investing.com*, 2026-10-28T17:16:00Z
-   Gold weakened as a jump in crude failed to lift bullion: spot gold fell 0.7% to $4,030.20 an ounce while Brent rose 1.4% to $115.47 after a missile strike on a Saudi refinery. It argues higher oil only helps gold if inflation expectations rise faster than yields; with the 2-year yield at 4.774% and the dollar near 102.37, real yields kept pressure on. Markets expected a Fed hold at 3.75%-4.00%.
-2. [Gold recovery stalls as Saudi refinery attack claims lift crude, silver retreats - Kitco AM Report](https://www.kitco.com/news/article/2026-10-28/gold-recovery-stalls-saudi-refinery-attack-claims-lift-crude-silver) — *Kitco*, 2026-10-28T13:07:59Z
-   Gold gave back part of Tuesday's recovery as claims of a strike on Saudi Arabia's largest refinery pushed crude higher, reviving worries that oil-led inflation could keep the Fed hawkish. Spot gold traded near $4,054.60, down 0.16%; silver slipped 0.40% to about $54.20. Traders still expect a Fed hold on Wednesday, with an ~84% chance of a December hike priced in.
-3. [Gold prices could fall to $3,900, silver to $50 as Fed tightening pressures precious metals – Sucden Financial](https://www.kitco.com/news/article/2026-10-28/gold-prices-could-fall-3900-silver-50-fed-tightening-pressures-precious) — *Kitco*, 2026-10-28T16:05:04Z
-   Sucden Financial expects gold to test $3,900 before December and silver to fall to $50-$53, as Brent above $110 keeps inflation and yields elevated; it sees gold back to $4,200-$4,300 by mid-January and silver to $57-$60 in early 2027. Central-bank buying and record ETF holdings cushion the downside, while silver fabrication is forecast down 3% and solar use down 19%.
-4. [US Fed rate decision today: What investors should watch in gold, silver prices and market outlook](https://www.livemint.com/market/stock-market-news/us-fed-rate-decision-today-what-investors-should-watch-in-gold-silver-prices-and-market-outlook-11793183747846.html) — *Mint*, 2026-10-28T11:16:55Z
-   Gold and silver edged lower as investors awaited the Fed decision due at 11:30 pm IST, with rates widely expected to stay unchanged and attention on clues about a December hike. September CPI at 3.7% and core at 2.6% remain above the Fed's 2% target, keeping the dollar firm. MCX December gold futures eased 0.15% to ₹1,43,925 per 10 grams and silver futures fell nearly ₹2,000 per kg to ₹1,94,848.
-5. [Gold Sits on Support Heading into Fed Meeting Results](https://www.fxempire.com/forecasts/article/gold-sits-on-support-heading-into-fed-meeting-results-1641057) — *FXEmpire*, 2026-10-28T15:15:56Z
-   Gold held above $4,000 into the Federal Reserve's decision, due at 18:00 GMT, with easing real yields supporting the rebound. December COMEX gold settled at $4,074.60, up $36.20, while the 10-year par yield eased to 2.64% from 2.88% on October 13. A hawkish surprise could threaten the outlook below $3,950, FXEmpire noted.
-6. [Gold dip draws Asian buyers as North American funds lose cash](https://www.northernminer.com/news/gold-dip-draws-asian-buyers-as-north-american-funds-lose-cash/1003896195/) — *The Northern Miner*, 2026-10-28T14:46:48Z
-   Lower prices are drawing physical buyers back in Asia, BMO Capital Markets said, even as North American investors pull money from gold funds. Indian premiums rose to $15 an ounce for the week ended October 23, up from $11, helped by lower prices and Dussehra buying, while a Shanghai contract traded about 430 tonnes, the most since April. Global gold funds saw $1.1 billion of net outflows.
-7. [Silver Waits for FOMC Meeting Results](https://www.fxempire.com/forecasts/article/silver-waits-for-fomc-meeting-results-1641050) — *FXEmpire*, 2026-10-28T15:04:28Z
-   Silver held near $54.50 ahead of the Federal Reserve's decision, with the metal caught between easier financing hopes and uneven industrial demand. CME silver settled at $54.513 an ounce, up just over $0.17, while futures traded near $54.25, below the $55 level. A break below Tuesday's low could threaten a move toward $50, FXEmpire noted.
-8. [Gold’s Rebound Needs 2 Things — A Fed Catalyst and a $4,106 Breakout](https://www.investing.com/analysis/golds-rebound-needs-2-things--a-fed-catalyst-and-a-4106-breakout-200690427) — *Investing.com*, 2026-10-28T15:37:00Z
-   Investing.com's analysis argues gold's rebound needs two things: a catalyst from the Federal Reserve's decision and a sustained break above $4,106. The metal held above $4,000 into the announcement, but without both, the recovery risks stalling near recent resistance.
-9. [Gold futures decline to ₹1.43 lakh/10 gram on weak spot demand](https://www.thehindubusinessline.com/markets/gold/gold-futures-decline-to-143-lakh10-gram-on-weak-spot-demand/article71634821.ece) — *The Hindu BusinessLine*, 2026-10-28T08:01:00Z
-   Gold futures on the MCX fell ₹646, or 0.45%, to ₹1,43,492 per 10 grams for December delivery on Wednesday as weaker spot demand weighed, in a turnover of 699 lots. Globally, gold futures declined 0.72% to $4,030.95 an ounce in New York.
-10. [India jewellers hold off gold buying, betting prices will drop](https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/india-jewellers-hold-off-gold-buying-betting-prices-will-drop/articleshow/135249545.cms) — *Economic Times*, 2026-10-28T02:28:20Z
-   Indian jewellers are holding back on gold purchases ahead of the festive season's busiest stretch, betting that the recent price slide has further to run, according to the country's biggest precious metals refiner. The caution comes even as Dhanteras and Diwali approach, with the trade expecting cheaper prices ahead.
-11. [Elevated oil prices keep up heat on rupee, traders await cues from Fed](https://economictimes.indiatimes.com/markets/forex/forex-news/elevated-oil-prices-keep-up-heat-on-rupee-traders-await-cues-from-fed/articleshow/135261558.cms) — *Economic Times*, 2026-10-28T10:29:45Z
-   Elevated crude oil prices kept pressure on the rupee on Wednesday, with traders cautious ahead of the Federal Reserve's policy decision later in the day. The Fed's guidance is being watched for cues on the dollar and interest rates, which in turn feed into domestic bullion prices.
-12. [SAT sets aside ₹1.49 crore MCX penalty on Ventura over invalid order](https://www.business-standard.com/markets/news/sat-sets-aside-1-49-crore-mcx-penalty-on-ventura-over-invalid-order-126102801676_1.html) — *Business Standard*, 2026-10-28T13:57:16Z
-   The Securities Appellate Tribunal set aside a ₹1.49 crore penalty that MCX had imposed on Ventura, ruling the order invalid, Business Standard reported. The decision removes a regulatory overhang for the broker in India's commodity derivatives market.
-13. [Silver futures decline to ₹1.92 lakh/kg](https://www.thehindubusinessline.com/markets/commodities/silver-futures-decline-to-192-lakhkg/article71630370.ece) — *The Hindu BusinessLine*, 2026-10-27T13:51:00Z
-   Silver futures fell ₹3,743, or 1.91%, to ₹1,92,050 per kg on the MCX on Tuesday as participants cut bets, in a turnover of 3,482 lots. In New York, silver traded 2.14% lower at $52.81 an ounce.
-14. [Gold Prices Crash Over Rs 3,000 In 10 Days, Fall Near Rs 1.42 Lakh As US Fed Decision Nears](https://www.ndtvprofit.com/markets/gold-prices-crash-over-rs-3-000-in-10-days-fall-near-rs-1-42-lakh-as-us-fed-decision-nears-12241803) — *NDTV Profit*, 2026-10-27T08:33:06Z
-   MCX gold futures for December delivery fell to an intraday low of ₹1,42,216 per 10 grams on October 27, trading at ₹1,42,460 around 1:09 p.m., down ₹613 or 0.43%. The contract has fallen ₹3,632 from its October 14 close of ₹1,45,848 as traders positioned ahead of the US Federal Reserve's decision.
-15. [Can silver price hit ₹2.84 lakh/kg as rates in free fall ahead of 2026 Dhanteras, Diwali? Levels, target, stop loss](https://www.livemint.com/market/commodities/can-silver-price-hit-rs-2-84-lakh-kg-as-rates-in-free-fall-ahead-of-2026-dhanteras-diwali-levels-target-stop-loss-11793088097843.html) — *Mint*, 2026-10-27T08:44:42Z
-   MCX silver fell more than 2% to about ₹1,91,516 per kg on Tuesday as a stronger dollar, Fed uncertainty and oil-linked inflation worries weighed, with spot silver down 2.1% to $52.77 an ounce. Analysts cited in the piece put key MCX support near ₹1.90 lakh and resistance near ₹2.02 lakh, and a longer-term view cited for the second half of 2027 puts silver at $75–$80 an ounce.
-16. [Dhanteras 2026: NSE's Electronic Gold Receipts trading crosses ₹93 crore; What investors should know about costs and liquidity](https://upstox.com/news/personal-finance/investing/dhanteras-2026-nse-electronic-gold-receipts-egr-gold-market-crosses-93-crore-what-investors-need-to-know-about-costs-and-liquidity/article-202493/) — *Upstox*, 2026-10-28T02:12:59Z
-   NSE Electronic Gold Receipts have recorded cumulative traded value of about ₹93.30 crore, with over 5,900 units traded by Oct 16, 2026, per NSE's October 2026 Market Pulse report cited by Upstox. EGRs, launched in May 2026, give ownership of physical gold held in SEBI-accredited vaults and trade electronically. Turnover alone does not show how easily investors can buy or sell at good prices.
-17. [Silver Price Forecast: XAG/USD falls to near $54.00 due to higher oil prices](https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-5400-due-to-higher-oil-prices-202610280358) — *FXStreet*, 2026-10-28T03:58:00Z
-   Silver slipped back toward $54 an ounce in Asian trading on Wednesday after a modest rebound, as rising crude prices, lifted by Israel's tight election outcome, revived inflation worries ahead of the Federal Reserve's decision later in the day. Markets priced a roughly 93% chance the Fed holds rates at 3.75-4.00%, with traders watching Chair Warsh's remarks for clues on a December move.
-18. [Gold Price Forecast: XAU/USD drops as oil price rebounds, Fed's policy eyed](https://www.fxstreet.com/analysis/gold-price-forecast-xau-usd-drops-as-oil-price-rebounds-feds-policy-eyed-202610280334) — *FXStreet*, 2026-10-28T03:34:22Z
-   Gold slipped 0.3% to near $4,050 in Asian trade on Wednesday as oil prices bounced back after a two-day correction, with WTI near $100.50. FXStreet notes the metal faces high volatility ahead of the Federal Reserve's policy announcement at 18:00 GMT, with a firmer dollar and Treasury yields back above 5% also weighing.
-19. [Strong dollar, high yields drag on gold outlook, but central-bank demand lends support](https://www.reuters.com/world/china/strong-dollar-high-yields-drag-gold-outlook-central-bank-demand-lends-support-2026-10-27/) — *Reuters*, 2026-10-27T13:30:00Z
-   Analysts trimmed their 2026 gold price forecast in a Reuters survey of 30 analysts and traders, citing high Treasury yields, a strong dollar and rates staying high for longer. The median 2026 forecast is $4,495 an ounce, down from $4,509, while the 2027 median rose to $4,650. Central-bank buying and demand from India and China are expected to support prices.
-20. [Silver At 11-Month Low: What's Behind The Precious Metal's Dramatic Reversal?](https://www.outlookbusiness.com/markets/silver-price-crash-whats-behind-the-precious-metals-dramatic-reversal) — *Outlook Business*, 2026-10-27T12:34:00Z
-   Silver has fallen more than 53% from its January record near $117 an ounce to just above $53, as a stronger dollar, yields near 5% and tighter Fed expectations outweigh safe-haven support from Middle East tensions, analysts say. On MCX, silver fell from Rs 3,79,983 per kg in January to Rs 1,94,170 on October 23. Analysts flag $50 as the next key support.
-21. [Silver Falls, Gold Rallies as China Retail Investing Jumps, ETFs Sell](https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-china-etfs-102720261) — *BullionVault*, 2026-10-27T13:53:37Z
-   Silver hit an 11-month low of $52.68 an ounce in Asian trade Tuesday while gold rallied from 3-month lows, fixing at $3,997 in London before rising to $4,030. Retail gold investment demand in China is surging, led by households buying investment gold, while Western gold ETFs saw their first weekly liquidation in a month. The gold/silver ratio rose to 74.3, its highest since November last year.
-22. [Gold loan stress rising: How to avoid a debt trap and manage repayments](https://www.business-standard.com/markets/news/gold-loan-stress-rising-how-to-avoid-a-debt-trap-and-manage-repayments-126102800003_1.html) — *Business Standard*, 2026-10-27T18:38:00Z
-   Repayment stress on gold loans is rising, Business Standard reports: Bajaj Finance has flagged delays, and Piramal Finance has raised concerns about lending to borrowers overdue elsewhere. Under an RBI rule in force since April 1, 2026, bullet gold loans for consumption are capped at 12 months, with accrued interest to be cleared before renewal or pledged gold could face auction.
-23. [Rs 1 Lakh For Dhanteras Gold: How Much Gold Do You Actually Take Home?](https://www.ndtvprofit.com/personal-finance/rs-1-lakh-for-dhanteras-gold-how-much-gold-do-you-actually-take-home-12241881) — *NDTV Profit*, 2026-10-27T08:40:39Z
-   At around ₹14,000 per gram, ₹1 lakh buys 6.93 grams as coins or bars once 3% GST takes the per-gram cost to ₹14,420, the piece calculates. As jewellery, 5% making charges plus GST take the per-gram cost to ₹15,141, so the same ₹1 lakh buys about 6.60 grams.
-24. [Dhanteras, Diwali 2026: 4 factors that could affect gold prices after US midterm elections, according to WGC](https://upstox.com/news/personal-finance/commodities/dhanteras-diwali-2026-4-factors-that-could-affect-gold-prices-after-us-midterm-elections-according-to-wgc/article-202420/) — *Upstox*, 2026-10-27T02:31:54Z
-   The World Gold Council examines how the US midterm elections could affect gold, Upstox reports: a Democratic-controlled Congress could make policymaking less predictable, pushing the administration toward wider use of executive orders, which the Council's Juan Carlos Artigas says could raise risk premia and support gold. Indian seasonal demand is gathering pace as retailers restock.
-25. [BIS expands mandatory hallmarkingof gold jewellery to 12 more districts](https://retailjewellerindia.com/bis-expands-mandatory-hallmarkingof-gold-jewellery-to-12-more-districts/) — *The Retail Jeweller India*, 2026-10-26T18:24:36Z
-   BIS has extended mandatory hallmarking of gold jewellery to 12 more districts under the Third Amendment Order, 2026, issued on August 3, The Retail Jeweller India reports. Coverage rises from 380 to 392 districts across 26 states and union territories, including Kancheepuram, Panipat, Angul and Jhargram — a purity check for festive jewellery buyers.
-26. [RBI sets early redemption price for Sovereign Gold Bond 2020-21 Series I](https://tradersunion.com/news/central-banks/show/3984037-rbi-sovereign-gold-bond-premature-redemption-2026/) — *Traders Union*, 2026-10-27T14:21:00Z
-   The Reserve Bank of India has set the early redemption price for Sovereign Gold Bond 2020-21 Series I at ₹14,159 per unit for the October 28, 2026 redemption date. The price is the simple average of IBJA closing prices for 999-purity gold over October 23, 26 and 27. Holders can redeem early on the interest payment date after the fifth year from issue.
+
+1. [Gold price drops to $4,035/oz as Fed votes 10-2 in favor of rate hold](https://www.kitco.com/news/article/2026-10-28/gold-price-drops-4035oz-fed-votes-10-2-favor-rate-hold)
+
+The Federal Reserve held its benchmark rate at 3.75-4.00% in a 10-2 vote, as markets expected. Governor Lisa Cook and Cleveland Fed President Beth Hammack dissented, both preferring a quarter-point hike. The statement called economic activity strong and inflation still elevated, and gave no guidance on future moves. Spot gold fell 0.60% to $4,035.48 an ounce after the announcement.
+
+2. [Gold Faces a New Test as Oil and Treasury Yields Pull in Opposite Directions](https://www.investing.com/analysis/gold-faces-a-new-test-as-oil-and-treasury-yields-pull-in-opposite-directions-200690456)
+
+Gold weakened as a jump in crude failed to lift bullion: spot gold fell 0.7% to $4,030.20 an ounce while Brent rose 1.4% to $115.47 after a missile strike on a Saudi refinery. It argues higher oil only helps gold if inflation expectations rise faster than yields; with the 2-year yield at 4.774% and the dollar near 102.37, real yields kept pressure on. Markets expected a Fed hold at 3.75%-4.00%.
+
+3. [Gold recovery stalls as Saudi refinery attack claims lift crude, silver retreats - Kitco AM Report](https://www.kitco.com/news/article/2026-10-28/gold-recovery-stalls-saudi-refinery-attack-claims-lift-crude-silver)
+
+Gold gave back part of Tuesday's recovery as claims of a strike on Saudi Arabia's largest refinery pushed crude higher, reviving worries that oil-led inflation could keep the Fed hawkish. Spot gold traded near $4,054.60, down 0.16%; silver slipped 0.40% to about $54.20. Traders still expect a Fed hold on Wednesday, with an ~84% chance of a December hike priced in.
+
+4. [US Fed rate decision today: What investors should watch in gold, silver prices and market outlook](https://www.livemint.com/market/stock-market-news/us-fed-rate-decision-today-what-investors-should-watch-in-gold-silver-prices-and-market-outlook-11793183747846.html)
+
+Gold and silver edged lower as investors awaited the Fed decision due at 11:30 pm IST, with rates widely expected to stay unchanged and attention on clues about a December hike. September CPI at 3.7% and core at 2.6% remain above the Fed's 2% target, keeping the dollar firm. MCX December gold futures eased 0.15% to ₹1,43,925 per 10 grams and silver futures fell nearly ₹2,000 per kg to ₹1,94,848.
+
+5. [Gold Sits on Support Heading into Fed Meeting Results](https://www.fxempire.com/forecasts/article/gold-sits-on-support-heading-into-fed-meeting-results-1641057)
+
+Gold held above $4,000 into the Federal Reserve's decision, due at 18:00 GMT, with easing real yields supporting the rebound. December COMEX gold settled at $4,074.60, up $36.20, while the 10-year par yield eased to 2.64% from 2.88% on October 13. A hawkish surprise could threaten the outlook below $3,950, FXEmpire noted.
+
+6. [Gold dip draws Asian buyers as North American funds lose cash](https://www.northernminer.com/news/gold-dip-draws-asian-buyers-as-north-american-funds-lose-cash/1003896195/)
+
+Lower prices are drawing physical buyers back in Asia, BMO Capital Markets said, even as North American investors pull money from gold funds. Indian premiums rose to $15 an ounce for the week ended October 23, up from $11, helped by lower prices and Dussehra buying, while a Shanghai contract traded about 430 tonnes, the most since April. Global gold funds saw $1.1 billion of net outflows.
+
+7. [Silver Waits for FOMC Meeting Results](https://www.fxempire.com/forecasts/article/silver-waits-for-fomc-meeting-results-1641050)
+
+Silver held near $54.50 ahead of the Federal Reserve's decision, with the metal caught between easier financing hopes and uneven industrial demand. CME silver settled at $54.513 an ounce, up just over $0.17, while futures traded near $54.25, below the $55 level. A break below Tuesday's low could threaten a move toward $50, FXEmpire noted.
+
+8. [Gold’s Rebound Needs 2 Things — A Fed Catalyst and a $4,106 Breakout](https://www.investing.com/analysis/golds-rebound-needs-2-things--a-fed-catalyst-and-a-4106-breakout-200690427)
+
+Investing.com's analysis argues gold's rebound needs two things: a catalyst from the Federal Reserve's decision and a sustained break above $4,106. The metal held above $4,000 into the announcement, but without both, the recovery risks stalling near recent resistance.
+
+9. [Gold futures decline to ₹1.43 lakh/10 gram on weak spot demand](https://www.thehindubusinessline.com/markets/gold/gold-futures-decline-to-143-lakh10-gram-on-weak-spot-demand/article71634821.ece)
+
+Gold futures on the MCX fell ₹646, or 0.45%, to ₹1,43,492 per 10 grams for December delivery on Wednesday as weaker spot demand weighed, in a turnover of 699 lots. Globally, gold futures declined 0.72% to $4,030.95 an ounce in New York.
+
+10. [Silver futures decline to ₹1.95 lakh/kg](https://www.thehindubusinessline.com/markets/gold/silver-futures-decline-to-195-lakhkg/article71635034.ece)
+
+Silver contracts for December delivery fell ₹1,416, or 0.72%, to ₹1,95,301 per kilogram on the MCX as participants trimmed their positions. Globally, silver traded 1.01% lower at $53.87 an ounce in New York.
+
+11. [India jewellers hold off gold buying, betting prices will drop](https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/india-jewellers-hold-off-gold-buying-betting-prices-will-drop/articleshow/135249545.cms)
+
+Indian jewellers are holding back on gold purchases ahead of the festive season's busiest stretch, betting that the recent price slide has further to run, according to the country's biggest precious metals refiner. The caution comes even as Dhanteras and Diwali approach, with the trade expecting cheaper prices ahead.
+
+12. [Elevated oil prices keep up heat on rupee, traders await cues from Fed](https://economictimes.indiatimes.com/markets/forex/forex-news/elevated-oil-prices-keep-up-heat-on-rupee-traders-await-cues-from-fed/articleshow/135261558.cms)
+
+Elevated crude oil prices kept pressure on the rupee on Wednesday, with traders cautious ahead of the Federal Reserve's policy decision later in the day. The Fed's guidance is being watched for cues on the dollar and interest rates, which in turn feed into domestic bullion prices.
+
+13. [SAT sets aside ₹1.49 crore MCX penalty on Ventura over invalid order](https://www.business-standard.com/markets/news/sat-sets-aside-1-49-crore-mcx-penalty-on-ventura-over-invalid-order-126102801676_1.html)
+
+The Securities Appellate Tribunal set aside a ₹1.49 crore penalty that MCX had imposed on Ventura, ruling the order invalid, Business Standard reported. The decision removes a regulatory overhang for the broker in India's commodity derivatives market.
+
+14. [Gold Prices Crash Over Rs 3,000 In 10 Days, Fall Near Rs 1.42 Lakh As US Fed Decision Nears](https://www.ndtvprofit.com/markets/gold-prices-crash-over-rs-3-000-in-10-days-fall-near-rs-1-42-lakh-as-us-fed-decision-nears-12241803)
+
+MCX gold futures for December delivery fell to an intraday low of ₹1,42,216 per 10 grams on October 27, trading at ₹1,42,460 around 1:09 p.m., down ₹613 or 0.43%. The contract has fallen ₹3,632 from its October 14 close of ₹1,45,848 as traders positioned ahead of the US Federal Reserve's decision.
+
+15. [Can silver price hit ₹2.84 lakh/kg as rates in free fall ahead of 2026 Dhanteras, Diwali? Levels, target, stop loss](https://www.livemint.com/market/commodities/can-silver-price-hit-rs-2-84-lakh-kg-as-rates-in-free-fall-ahead-of-2026-dhanteras-diwali-levels-target-stop-loss-11793088097843.html)
+
+MCX silver fell more than 2% to about ₹1,91,516 per kg on Tuesday as a stronger dollar, Fed uncertainty and oil-linked inflation worries weighed, with spot silver down 2.1% to $52.77 an ounce. Analysts cited in the piece put key MCX support near ₹1.90 lakh and resistance near ₹2.02 lakh, and a longer-term view cited for the second half of 2027 puts silver at $75–$80 an ounce.
+
+16. [Dhanteras 2026: NSE's Electronic Gold Receipts trading crosses ₹93 crore; What investors should know about costs and liquidity](https://upstox.com/news/personal-finance/investing/dhanteras-2026-nse-electronic-gold-receipts-egr-gold-market-crosses-93-crore-what-investors-need-to-know-about-costs-and-liquidity/article-202493/)
+
+NSE Electronic Gold Receipts have recorded cumulative traded value of about ₹93.30 crore, with over 5,900 units traded by Oct 16, 2026, per NSE's October 2026 Market Pulse report cited by Upstox. EGRs, launched in May 2026, give ownership of physical gold held in SEBI-accredited vaults and trade electronically. Turnover alone does not show how easily investors can buy or sell at good prices.
+
+17. [Silver Price Forecast: XAG/USD falls to near $54.00 due to higher oil prices](https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-5400-due-to-higher-oil-prices-202610280358)
+
+Silver slipped back toward $54 an ounce in Asian trading on Wednesday after a modest rebound, as rising crude prices, lifted by Israel's tight election outcome, revived inflation worries ahead of the Federal Reserve's decision later in the day. Markets priced a roughly 93% chance the Fed holds rates at 3.75-4.00%, with traders watching Chair Warsh's remarks for clues on a December move.
+
+18. [Gold Price Forecast: XAU/USD drops as oil price rebounds, Fed's policy eyed](https://www.fxstreet.com/analysis/gold-price-forecast-xau-usd-drops-as-oil-price-rebounds-feds-policy-eyed-202610280334)
+
+Gold slipped 0.3% to near $4,050 in Asian trade on Wednesday as oil prices bounced back after a two-day correction, with WTI near $100.50. FXStreet notes the metal faces high volatility ahead of the Federal Reserve's policy announcement at 18:00 GMT, with a firmer dollar and Treasury yields back above 5% also weighing.
+
+19. [Silver At 11-Month Low: What's Behind The Precious Metal's Dramatic Reversal?](https://www.outlookbusiness.com/markets/silver-price-crash-whats-behind-the-precious-metals-dramatic-reversal)
+
+Silver has fallen more than 53% from its January record near $117 an ounce to just above $53, as a stronger dollar, yields near 5% and tighter Fed expectations outweigh safe-haven support from Middle East tensions, analysts say. On MCX, silver fell from Rs 3,79,983 per kg in January to Rs 1,94,170 on October 23. Analysts flag $50 as the next key support.
+
+20. [Silver Falls, Gold Rallies as China Retail Investing Jumps, ETFs Sell](https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-china-etfs-102720261)
+
+Silver hit an 11-month low of $52.68 an ounce in Asian trade Tuesday while gold rallied from 3-month lows, fixing at $3,997 in London before rising to $4,030. Retail gold investment demand in China is surging, led by households buying investment gold, while Western gold ETFs saw their first weekly liquidation in a month. The gold/silver ratio rose to 74.3, its highest since November last year.
+
+21. [Gold loan stress rising: How to avoid a debt trap and manage repayments](https://www.business-standard.com/markets/news/gold-loan-stress-rising-how-to-avoid-a-debt-trap-and-manage-repayments-126102800003_1.html)
+
+Repayment stress on gold loans is rising, Business Standard reports: Bajaj Finance has flagged delays, and Piramal Finance has raised concerns about lending to borrowers overdue elsewhere. Under an RBI rule in force since April 1, 2026, bullet gold loans for consumption are capped at 12 months, with accrued interest to be cleared before renewal or pledged gold could face auction.
+
+22. [Rs 1 Lakh For Dhanteras Gold: How Much Gold Do You Actually Take Home?](https://www.ndtvprofit.com/personal-finance/rs-1-lakh-for-dhanteras-gold-how-much-gold-do-you-actually-take-home-12241881)
+
+At around ₹14,000 per gram, ₹1 lakh buys 6.93 grams as coins or bars once 3% GST takes the per-gram cost to ₹14,420, the piece calculates. As jewellery, 5% making charges plus GST take the per-gram cost to ₹15,141, so the same ₹1 lakh buys about 6.60 grams.
+
+23. [Dhanteras, Diwali 2026: 4 factors that could affect gold prices after US midterm elections, according to WGC](https://upstox.com/news/personal-finance/commodities/dhanteras-diwali-2026-4-factors-that-could-affect-gold-prices-after-us-midterm-elections-according-to-wgc/article-202420/)
+
+The World Gold Council examines how the US midterm elections could affect gold, Upstox reports: a Democratic-controlled Congress could make policymaking less predictable, pushing the administration toward wider use of executive orders, which the Council's Juan Carlos Artigas says could raise risk premia and support gold. Indian seasonal demand is gathering pace as retailers restock.
+
+24. [RBI sets early redemption price for Sovereign Gold Bond 2020-21 Series I](https://tradersunion.com/news/central-banks/show/3984037-rbi-sovereign-gold-bond-premature-redemption-2026/)
+
+The Reserve Bank of India has set the early redemption price for Sovereign Gold Bond 2020-21 Series I at ₹14,159 per unit for the October 28, 2026 redemption date. The price is the simple average of IBJA closing prices for 999-purity gold over October 23, 26 and 27. Holders can redeem early on the interest payment date after the fifth year from issue.
