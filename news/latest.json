@@ -1,18 +1,18 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-28T07:00Z",
-  "generated_at": "2026-10-28T07:06:52Z",
+  "edition_id": "2026-10-28T08:00Z",
+  "generated_at": "2026-10-28T08:09:09Z",
   "window": {
-    "from": "2026-10-28T06:00:00Z",
-    "to": "2026-10-28T07:00:00Z"
+    "from": "2026-10-28T07:00:00Z",
+    "to": "2026-10-28T08:00:00Z"
   },
   "insights": {
-    "headline": "Gold eases to $4,040 on Wednesday morning as crude rebounds ahead of Fed decision",
-    "summary": "Spot gold slipped to $4,040 on Wednesday morning after climbing above $4,050 in late US trading on Tuesday, as rebounding crude oil prices revived inflation worries ahead of the Federal Reserve's decision later in the day. Markets see a roughly 91% chance rates stay at 3.75-4.00%, with about a 73% chance of a December hike, per Kitco. Silver held near $54 an ounce, close to its 11-month low, while Indian jewellers kept delaying purchases ahead of Dhanteras, betting prices will fall further. MCX gold trades near ₹1.42 lakh per 10 grams and MCX silver near ₹1.92 lakh per kg.",
+    "headline": "Gold slips to $4,030 and silver to $53.82 on Wednesday morning as oil rebounds ahead of Fed decision",
+    "summary": "Spot gold fell 0.7% to $4,030.20 on Wednesday morning after climbing about 1% on Tuesday, as higher oil prices after an attack on a Saudi refinery revived inflation worries ahead of the Fed decision at 18:00 GMT. Spot silver slid 1% to $53.82, close to its 11-month low. Traders largely expect rates to stay at 3.75-4.00%, but price about an 84% chance of a December hike, per CME FedWatch via Reuters. Indian jewellers kept delaying purchases ahead of Dhanteras, betting prices will fall further, while MCX gold trades near ₹1.42 lakh per 10 grams and MCX silver near ₹1.92 lakh per kg.",
     "points": [
-      "Gold slipped to $4,040 on Wednesday morning after topping $4,050 late Tuesday, as crude oil rebounded.",
-      "Markets price about a 91% chance the Fed holds rates at 3.75-4.00% today, and about 73% for a December hike.",
-      "Silver held near $54 an ounce, close to its 11-month low, as higher oil prices kept inflation worries alive.",
+      "Gold fell 0.7% to $4,030.20 on Wednesday morning after Tuesday's roughly 1% climb, as oil prices rebounded.",
+      "Silver slid 1% to $53.82, close to its 11-month low, as higher oil prices kept inflation worries alive.",
+      "Traders largely expect the Fed to hold rates today, but price about an 84% chance of a December hike.",
       "Indian jewellers are holding off gold buying ahead of Dhanteras, betting the slide has further to run.",
       "MCX gold trades near ₹1.42 lakh per 10 grams; MCX silver futures sit near ₹1.92 lakh per kg."
     ]
@@ -20,11 +20,12 @@
   "trending": [
     {
       "title": "Gold's $4,000 floor holds into Fed day",
-      "summary": "Gold reclaimed $4,050 in late US trading but eased to $4,040 on Wednesday morning as crude rebounded, with traders now waiting on the Fed decision.",
+      "summary": "Gold reclaimed $4,050 in late US trading but slipped to $4,030 on Wednesday morning as crude rebounded, with traders now waiting on the Fed decision.",
       "item_ids": [
+        "010d549e28a4c323",
         "7f07fee6dc8f2832",
-        "b3caf977393209f4",
-        "b5ec3ebcdaa942b9"
+        "a513d9298023fa0d",
+        "b3caf977393209f4"
       ]
     },
     {
@@ -33,7 +34,7 @@
       "item_ids": [
         "ba04fc0f01dd77c6",
         "4c2f5c5929f6e029",
-        "c126034f28016614"
+        "66d029c021475a71"
       ]
     },
     {
@@ -42,20 +43,47 @@
       "item_ids": [
         "2ec77f9862e83530",
         "5162772d960ac544",
-        "7cc0982e400f131b"
+        "7cc0982e400f131b",
+        "a513d9298023fa0d"
       ]
     },
     {
       "title": "Fed decision frames the week",
       "summary": "An expected hold on Wednesday still leaves a December hike firmly priced, keeping yields and the dollar as the key drag on bullion into the end of the week.",
       "item_ids": [
+        "010d549e28a4c323",
         "7f07fee6dc8f2832",
-        "8792f4c8ce4606ed",
-        "984a83ff71606d97"
+        "8792f4c8ce4606ed"
       ]
     }
   ],
   "items": [
+    {
+      "id": "010d549e28a4c323",
+      "title": "Gold slips on oil-fuelled inflation fears ahead of Fed meeting",
+      "summary": "Gold slipped on Wednesday after Tuesday's roughly 1% climb, as higher oil prices after a Saudi refinery attack revived inflation worries ahead of the Fed decision. Spot gold fell 0.7% to $4,030.20 by 0602 GMT, December futures fell 0.8% to $4,043, and spot silver slid 1% to $53.82. Traders largely expect rates to stay unchanged, but price about an 84% chance of a December hike, per CME FedWatch.",
+      "url": "https://www.reuters.com/business/gold-slips-oil-fuelled-inflation-fears-ahead-fed-meeting-2026-10-28/",
+      "source": "Reuters",
+      "source_domain": "reuters.com",
+      "publisher_id": "reuters",
+      "published_at": "2026-10-28T06:30:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "silver",
+        "fed",
+        "global",
+        "comex"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 1
+    },
     {
       "id": "7f07fee6dc8f2832",
       "title": "Gold climbs above $4,050 as Wall Street rallies ahead of Fed decision - Kitco PM Report",
@@ -80,7 +108,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 1
+      "rank": 2
     },
     {
       "id": "b3caf977393209f4",
@@ -103,7 +131,33 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "id": "a513d9298023fa0d",
+      "title": "Gold (XAUUSD) & Silver Price Forecast: Oil Rebound Revives Hike Fears, Can Gold Hold $4,015?",
+      "summary": "Gold gave back part of Tuesday's gain on Wednesday as rebounding crude revived inflation worries ahead of the Fed decision, FXEmpire reports, with spot gold near $4,035 after stalling near $4,039. Support sits at $4,015, then $3,975, with resistance at $4,039, $4,059 and $4,079. Silver traded near $53.96, with $54.46 the first resistance and $52.41 the first support.",
+      "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-oil-rebound-revives-hike-fears-can-gold-hold-4015-1640830",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "published_at": "2026-10-28T06:30:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "silver",
+        "global",
+        "comex",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 4
     },
     {
       "id": "ba04fc0f01dd77c6",
@@ -126,7 +180,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 3,
+      "rank": 5,
       "related_urls": [
         "https://www.ndtv.com/business-news/will-gold-prices-fall-further-why-shoppers-are-holding-back-ahead-of-diwali-12246244"
       ]
@@ -153,7 +207,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 4
+      "rank": 6
     },
     {
       "title": "Gold Price Forecast: XAU/USD drops as oil price rebounds, Fed's policy eyed",
@@ -177,7 +231,7 @@
       ],
       "breaking": false,
       "id": "f34bb730d158efe1",
-      "rank": 5
+      "rank": 7
     },
     {
       "id": "b5ec3ebcdaa942b9",
@@ -203,7 +257,7 @@
       "related_urls": [
         "https://goldinvest.de/en/chartupdate-gold-fungieren-4-000-us-dollar-erneut-als-boden"
       ],
-      "rank": 6
+      "rank": 8
     },
     {
       "id": "984a83ff71606d97",
@@ -226,7 +280,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 7
+      "rank": 9
     },
     {
       "id": "5162772d960ac544",
@@ -249,7 +303,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 10
     },
     {
       "id": "2ec77f9862e83530",
@@ -273,7 +327,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 11
     },
     {
       "id": "8792f4c8ce4606ed",
@@ -298,7 +352,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 12
     },
     {
       "id": "89ac5aeee7916bb0",
@@ -326,7 +380,7 @@
       "related_urls": [
         "https://www.fxstreet.com/analysis/gold-fights-back-silver-breaks-lower-same-dollar-different-stories-202610271738"
       ],
-      "rank": 11
+      "rank": 13
     },
     {
       "id": "19d15c234c6aabd3",
@@ -350,30 +404,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 12
-    },
-    {
-      "id": "375c93d18c871baf",
-      "title": "Gold (XAU/USD) Price Forecast: Short-Term Strength Faces Major Resistance",
-      "summary": "Gold's counter-trend rally reached a three-day high of $4,066 on Tuesday after holding last week's low of $3,975, FXEmpire reports, but layered resistance stands in the way: $4,103, then the falling 20-day moving average near $4,124. Failure to reclaim those levels could leave the June low near $3,942 vulnerable to another test.",
-      "url": "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-short-term-strength-faces-major-resistance-1640783",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "publisher_id": "fxempire",
-      "published_at": "2026-10-27T21:04:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "global",
-        "comex"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 13
+      "rank": 14
     },
     {
       "id": "7cc0982e400f131b",
@@ -395,7 +426,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 15
     },
     {
       "id": "4c2f5c5929f6e029",
@@ -419,7 +450,7 @@
       "breaking": false,
       "image_url": null,
       "image_kind": "none",
-      "rank": 15
+      "rank": 16
     },
     {
       "id": "f4d31d73e8061072",
@@ -441,7 +472,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 16
+      "rank": 17
     },
     {
       "id": "9d85e7d5574a460c",
@@ -466,7 +497,7 @@
       "breaking": false,
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/9d85e7d5574a460c.jpg",
       "image_kind": "photo",
-      "rank": 17
+      "rank": 18
     },
     {
       "id": "6625ba2d14923e2a",
@@ -490,7 +521,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 18
+      "rank": 19
     },
     {
       "id": "ca5755e4b1feb89a",
@@ -512,31 +543,30 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 19
+      "rank": 20
     },
     {
-      "id": "f674c019853adf2f",
-      "title": "Gold’s Correction Creates a Potential Buying Zone for Miners and Silver",
-      "summary": "Gold’s run from about $2,000 to $5,600 came without a meaningful consolidation, and the metal has now arrived at support near the previous $3,941 area low with stochastics oversold, Investing.com contributor Stewart Thomson writes. He puts the $4,000–$3,500 area in focus for gold stocks and silver bullion, noting a 50% retracement of that move sits near $3,800.",
-      "url": "https://www.investing.com/analysis/golds-correction-creates-a-potential-buying-zone-for-miners-and-silver-200690384",
-      "source": "Investing.com",
-      "source_domain": "investing.com",
-      "publisher_id": "investing",
-      "published_at": "2026-10-27T20:29:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/f674c019853adf2f.jpg",
+      "id": "119cfd640acd4412",
+      "title": "Dhanteras 2026: NSE's Electronic Gold Receipts trading crosses ₹93 crore; What investors should know about costs and liquidity",
+      "summary": "NSE Electronic Gold Receipts have recorded cumulative traded value of about ₹93.30 crore, with over 5,900 units traded by Oct 16, 2026, per NSE's October 2026 Market Pulse report cited by Upstox. EGRs, launched in May 2026, give ownership of physical gold held in SEBI-accredited vaults and trade electronically. Turnover alone does not show how easily investors can buy or sell at good prices.",
+      "url": "https://upstox.com/news/personal-finance/investing/dhanteras-2026-nse-electronic-gold-receipts-egr-gold-market-crosses-93-crore-what-investors-need-to-know-about-costs-and-liquidity/article-202493/",
+      "source": "Upstox",
+      "source_domain": "upstox.com",
+      "publisher_id": "upstox",
+      "published_at": "2026-10-28T02:12:59Z",
+      "image_url": "https://assets.upstox.com/content/assets/images/news/gold-egr-nse-dhanteras.webp",
       "image_kind": "photo",
       "tags": [
         "gold",
-        "silver",
-        "global"
+        "mcx",
+        "india"
       ],
-      "category": "global",
+      "category": "mcx",
       "metals": [
-        "gold",
-        "silver"
+        "gold"
       ],
       "breaking": false,
-      "rank": 20
+      "rank": 21
     },
     {
       "id": "66d029c021475a71",
@@ -559,7 +589,7 @@
       "breaking": false,
       "image_url": null,
       "image_kind": "none",
-      "rank": 21
+      "rank": 22
     },
     {
       "id": "c126034f28016614",
@@ -583,7 +613,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 22
+      "rank": 23
     },
     {
       "id": "bef49f70dd14cb42",
@@ -606,7 +636,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 23
+      "rank": 24
     },
     {
       "breaking": false,
@@ -629,7 +659,7 @@
       ],
       "title": "BIS expands mandatory hallmarkingof gold jewellery to 12 more districts",
       "url": "https://retailjewellerindia.com/bis-expands-mandatory-hallmarkingof-gold-jewellery-to-12-more-districts/",
-      "rank": 24
+      "rank": 25
     },
     {
       "id": "91684212e3fa3d82",
@@ -652,7 +682,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 25
+      "rank": 26
     },
     {
       "title": "Buying Silver On Dhanteras? Here's How To Check Purity And Verify The Hallmark",
@@ -675,7 +705,7 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/91ed7c78640a4d49.jpg",
       "image_kind": "photo",
       "id": "91ed7c78640a4d49",
-      "rank": 26
+      "rank": 27
     }
   ]
 }
