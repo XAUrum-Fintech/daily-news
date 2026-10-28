@@ -1,683 +1,657 @@
 {
- "schema": "orob-news.v1",
- "edition_id": "2026-10-28T03:00Z",
- "generated_at": "2026-10-28T03:23:51Z",
- "window": {
-  "from": "2026-10-28T02:00:00Z",
-  "to": "2026-10-28T03:00:00Z"
- },
- "insights": {
-  "headline": "Jewellers hold off gold buying as gold defends $4,000 into the Fed decision",
-  "summary": "Indian jewellers are delaying gold purchases ahead of the festive season's busiest stretch, betting the recent slide has further to run, even as gold holds above $4,000 — closing at $4,016 after briefly dipping below — ahead of Wednesday's Federal Reserve decision. Silver has fallen roughly 50% from its January record, with MCX futures near ₹1.92 lakh per kg, while MCX gold trades near ₹1.42 lakh per 10 grams. State Street still sees a path to $4,750–$5,500 by early 2027, though it has trimmed the odds to 60%.",
-  "points": [
-   "Jewellers are holding off gold buying, betting prices will fall further, per India's biggest refiner.",
-   "Spot gold hit a $4,048 session high after US consumer confidence rose to 91.7.",
-   "Gold closed back above $4,000 at $4,016, with technicals near buy-signal territory.",
-   "Silver is down roughly 50% from its January record; MCX futures sit near ₹1.92 lakh per kg.",
-   "MCX gold trades near ₹1.42 lakh per 10 grams as Dhanteras buying picks up."
+  "schema": "orob-news.v1",
+  "edition_id": "2026-10-28T04:00Z",
+  "generated_at": "2026-10-28T04:06:17Z",
+  "window": {
+    "from": "2026-10-28T03:00:00Z",
+    "to": "2026-10-28T04:00:00Z"
+  },
+  "insights": {
+    "headline": "Buyers hold off as gold defends $4,000 into Wednesday's Fed decision",
+    "summary": "Indian jewellers are delaying gold purchases ahead of Diwali, betting the recent slide has further to run, even as gold holds near $4,050 in Asian trade after briefly dipping below $4,000. The Federal Reserve announces its decision later on Wednesday, with oil's rebound back above $100 a barrel feeding inflation worries. Silver has fallen roughly 50% from its January record, with MCX futures near ₹1.92 lakh per kg, while MCX gold trades near ₹1.42 lakh per 10 grams.",
+    "points": [
+      "Jewellers are holding off gold buying, betting prices will fall further, per India's biggest refiner.",
+      "Spot gold slipped 0.3% to near $4,050 as rebounding oil prices lifted inflation worries ahead of the Fed call.",
+      "The trade stays cautious into Diwali week, with festive buyers also waiting for cheaper prices before the peak.",
+      "Silver remains near its year-to-date lows, around $53 an ounce, after a roughly 50% fall from its January record.",
+      "State Street still sees a path to $4,750–$5,500 by early 2027, though it has trimmed the odds to 60%."
+    ]
+  },
+  "trending": [
+    {
+      "title": "Buyers hold off, betting on lower prices",
+      "summary": "Jewellers are delaying restocking and festive buyers are waiting out the slide, both expecting cheaper gold before Diwali buying peaks.",
+      "item_ids": [
+        "ba04fc0f01dd77c6"
+      ]
+    },
+    {
+      "title": "Gold's $4,000 floor holds — for now",
+      "summary": "Gold keeps defending $4,000 despite a firmer dollar and Treasury yields above 5%, but each bounce has stalled near $4,050.",
+      "item_ids": [
+        "74fbdd8441e572b9",
+        "f34bb730d158efe1",
+        "b5ec3ebcdaa942b9"
+      ]
+    },
+    {
+      "title": "Silver's fall from its record steepens",
+      "summary": "Silver has roughly halved from its January record and now trades near year-to-date lows, with MCX futures around ₹1.92 lakh per kg.",
+      "item_ids": [
+        "5162772d960ac544",
+        "7cc0982e400f131b",
+        "f62624d110b5d98c"
+      ]
+    },
+    {
+      "title": "Fed decision frames the week",
+      "summary": "Wednesday's Fed announcement at 18:00 GMT is the near-term trigger for gold, with markets watching for any hawkish surprise as oil stays above $100.",
+      "item_ids": [
+        "f34bb730d158efe1",
+        "8792f4c8ce4606ed"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "ba04fc0f01dd77c6",
+      "title": "India jewellers hold off gold buying, betting prices will drop",
+      "summary": "Indian jewellers are holding back on gold purchases ahead of the festive season's busiest stretch, betting that the recent price slide has further to run, according to the country's biggest precious metals refiner. The caution comes even as Dhanteras and Diwali approach, with the trade expecting cheaper prices ahead.",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/india-jewellers-hold-off-gold-buying-betting-prices-will-drop/articleshow/135249545.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-10-28T02:28:20Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/ba04fc0f01dd77c6.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 1,
+      "related_urls": [
+        "https://www.ndtv.com/business-news/will-gold-prices-fall-further-why-shoppers-are-holding-back-ahead-of-diwali-12246244"
+      ]
+    },
+    {
+      "id": "74fbdd8441e572b9",
+      "title": "Gold price shoots to session high $4,048/oz after Consumer Confidence rises to 91.7",
+      "summary": "Spot gold climbed to a session high of $4,048.48 an ounce on Tuesday after US consumer confidence rose to 91.7 in October, beating the 81 consensus and September's upwardly revised 84.2. The 10 am ET data lifted gold 0.78% on the day as traders positioned ahead of Wednesday's Federal Reserve decision.",
+      "url": "https://www.kitco.com/news/article/2026-10-27/gold-price-shoots-session-high-4048oz-after-consumer-confidence-rises-917",
+      "source": "Kitco",
+      "source_domain": "kitco.com",
+      "publisher_id": "kitco",
+      "published_at": "2026-10-27T14:01:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/74fbdd8441e572b9.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://www.kitco.com/news/article/2026-10-27/gold-prices-holding-above-4000-us-new-home-sales-fall"
+      ],
+      "rank": 2
+    },
+    {
+      "title": "Gold Price Forecast: XAU/USD drops as oil price rebounds, Fed's policy eyed",
+      "summary": "Gold slipped 0.3% to near $4,050 in Asian trade on Wednesday as oil prices bounced back after a two-day correction, with WTI near $100.50. FXStreet notes the metal faces high volatility ahead of the Federal Reserve's policy announcement at 18:00 GMT, with a firmer dollar and Treasury yields back above 5% also weighing.",
+      "url": "https://www.fxstreet.com/analysis/gold-price-forecast-xau-usd-drops-as-oil-price-rebounds-feds-policy-eyed-202610280334",
+      "source": "FXStreet",
+      "source_domain": "fxstreet.com",
+      "publisher_id": "fxstreet",
+      "published_at": "2026-10-28T03:34:22Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/f34bb730d158efe1.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "comex",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "id": "f34bb730d158efe1",
+      "rank": 3
+    },
+    {
+      "id": "b5ec3ebcdaa942b9",
+      "title": "Gold chart update: Is $4,000 once again acting as a floor?",
+      "summary": "Gold briefly slipped below $4,000 an ounce in recent days but closed back above it at $4,016, with the summer lows still intact. The analysis puts the stochastic oscillator and RSI near buy-signal territory, suggesting the metal could attempt a fresh upward move.",
+      "url": "https://news.metal.com/newscontent/104182499-gold-chart-update-is-4000-once-again-acting-as-a-floor",
+      "source": "Shanghai Metals Market",
+      "source_domain": "news.metal.com",
+      "publisher_id": "shanghai-metals-market",
+      "published_at": "2026-10-28T02:50:22Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "global",
+        "comex"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://goldinvest.de/en/chartupdate-gold-fungieren-4-000-us-dollar-erneut-als-boden"
+      ],
+      "rank": 4
+    },
+    {
+      "id": "984a83ff71606d97",
+      "title": "Downside risks are building in gold, but prices still have a path to $5,000 - State Street's Doshi",
+      "summary": "State Street still sees gold reaching $4,750–$5,500 an ounce by the end of Q1 2027, but has cut the odds of that scenario to 60% from 70% as inflation, rising bond yields and a hawkish Fed cloud the outlook. Its bearish case, given 35% odds, keeps gold between $4,000 and $4,750 for six to nine months.",
+      "url": "https://www.kitco.com/news/article/2026-10-27/downside-risks-are-building-gold-prices-still-have-path-5000-state-streets",
+      "source": "Kitco",
+      "source_domain": "kitco.com",
+      "publisher_id": "kitco",
+      "published_at": "2026-10-27T20:37:00Z",
+      "image_url": "https://image-api.prod.kitco.com/image/5c5c64cd-8b2c-4d08-bf9d-933d28d121d3.jpeg?top=0.1902027027027&left=0&width=1000&height=562.61959459459&scale_width=1920&token=88cc72278174df2ebead4075a69aecd1f784c0b97da8a46e517193c03e3e1d32",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 5
+    },
+    {
+      "id": "5162772d960ac544",
+      "title": "Silver rate has fallen 50% from its record-high January rate; should you buy now or wait?",
+      "summary": "Silver has fallen roughly 50% from its record high in January, with MCX silver futures now near ₹1.92 lakh per kg. The piece weighs whether investors should enter at current levels or wait for further declines.",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/silver-rate-price-has-fallen-50-from-its-record-high-january-2026-peak-should-you-invest-now-or-wait/articleshow/135242661.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-10-28T02:30:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/5162772d960ac544.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "silver",
+        "india",
+        "mcx"
+      ],
+      "category": "mcx",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 6
+    },
+    {
+      "id": "8792f4c8ce4606ed",
+      "title": "Strong dollar, high yields drag on gold outlook, but central-bank demand lends support",
+      "summary": "Analysts trimmed their 2026 gold price forecast in a Reuters survey of 30 analysts and traders, citing high Treasury yields, a strong dollar and rates staying high for longer. The median 2026 forecast is $4,495 an ounce, down from $4,509, while the 2027 median rose to $4,650. Central-bank buying and demand from India and China are expected to support prices.",
+      "url": "https://www.reuters.com/world/china/strong-dollar-high-yields-drag-gold-outlook-central-bank-demand-lends-support-2026-10-27/",
+      "source": "Reuters",
+      "source_domain": "reuters.com",
+      "publisher_id": "reuters",
+      "published_at": "2026-10-27T13:30:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "silver",
+        "global",
+        "central-banks"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 7
+    },
+    {
+      "id": "89ac5aeee7916bb0",
+      "title": "Gold Fights Back. Silver Breaks Lower. Same Dollar, Different Stories.",
+      "summary": "Gold reclaimed a falling-wedge boundary after Monday's close above it, retesting the breakout near $4,001.80 before rebounding toward $4,045.10, FXEmpire reports, though the $4,042-$4,060 zone, Friday's bearish gap plus a new declining channel, now stands in the way. Silver, by contrast, fell to another local low despite the stronger-dollar backdrop, underscoring the split between the metals.",
+      "url": "https://www.fxempire.com/forecasts/article/gold-fights-back-silver-breaks-lower-same-dollar-different-stories-1640728",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "published_at": "2026-10-27T18:08:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "silver",
+        "global",
+        "comex"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://www.fxstreet.com/analysis/gold-fights-back-silver-breaks-lower-same-dollar-different-stories-202610271738"
+      ],
+      "rank": 8
+    },
+    {
+      "id": "19d15c234c6aabd3",
+      "title": "Silver Falls, Gold Rallies as China Retail Investing Jumps, ETFs Sell",
+      "summary": "Silver hit an 11-month low of $52.68 an ounce in Asian trade Tuesday while gold rallied from 3-month lows, fixing at $3,997 in London before rising to $4,030. Retail gold investment demand in China is surging, led by households buying investment gold, while Western gold ETFs saw their first weekly liquidation in a month. The gold/silver ratio rose to 74.3, its highest since November last year.",
+      "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-china-etfs-102720261",
+      "source": "BullionVault",
+      "source_domain": "bullionvault.com",
+      "publisher_id": "bullionvault",
+      "published_at": "2026-10-27T13:53:37Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/19d15c234c6aabd3.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 9
+    },
+    {
+      "id": "f62624d110b5d98c",
+      "title": "Silver Price Forecast: XAG/USD bounces from year-to-date lows ahead of Fed rate call",
+      "summary": "Silver rebounded on Tuesday after slipping to a fresh year-to-date low of $52.67 in Asian trading, recovering to around $54.50 as easing oil prices offered relief. FXStreet notes the bounce leaves the metal below its 100- and 200-day averages, with a firmer dollar ahead of Wednesday's Federal Reserve decision still capping gains.",
+      "url": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-bounces-from-year-to-date-lows-ahead-of-fed-rate-call-202610271558",
+      "source": "FXStreet",
+      "source_domain": "fxstreet.com",
+      "publisher_id": "fxstreet",
+      "published_at": "2026-10-27T15:58:44Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/f62624d110b5d98c.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "silver",
+        "comex",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://www.tradingkey.com/news/commodities/262242704-fxstr"
+      ],
+      "rank": 10
+    },
+    {
+      "id": "375c93d18c871baf",
+      "title": "Gold (XAU/USD) Price Forecast: Short-Term Strength Faces Major Resistance",
+      "summary": "Gold's counter-trend rally reached a three-day high of $4,066 on Tuesday after holding last week's low of $3,975, FXEmpire reports, but layered resistance stands in the way: $4,103, then the falling 20-day moving average near $4,124. Failure to reclaim those levels could leave the June low near $3,942 vulnerable to another test.",
+      "url": "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-short-term-strength-faces-major-resistance-1640783",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "published_at": "2026-10-27T21:04:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "global",
+        "comex"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 11
+    },
+    {
+      "id": "7cc0982e400f131b",
+      "title": "Silver futures decline to ₹1.92 lakh/kg",
+      "summary": "Silver futures fell ₹3,743, or 1.91%, to ₹1,92,050 per kg on the MCX on Tuesday as participants cut bets, in a turnover of 3,482 lots. In New York, silver traded 2.14% lower at $52.81 an ounce.",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/silver-futures-decline-to-192-lakhkg/article71630370.ece",
+      "source": "The Hindu BusinessLine",
+      "source_domain": "thehindubusinessline.com",
+      "publisher_id": "hindu-businessline",
+      "published_at": "2026-10-27T13:51:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "silver",
+        "mcx"
+      ],
+      "category": "mcx",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 12
+    },
+    {
+      "id": "4c2f5c5929f6e029",
+      "title": "Gold Prices Crash Over Rs 3,000 In 10 Days, Fall Near Rs 1.42 Lakh As US Fed Decision Nears",
+      "summary": "MCX gold futures for December delivery fell to an intraday low of ₹1,42,216 per 10 grams on October 27, trading at ₹1,42,460 around 1:09 p.m., down ₹613 or 0.43%. The contract has fallen ₹3,632 from its October 14 close of ₹1,45,848 as traders positioned ahead of the US Federal Reserve's decision.",
+      "url": "https://www.ndtvprofit.com/markets/gold-prices-crash-over-rs-3-000-in-10-days-fall-near-rs-1-42-lakh-as-us-fed-decision-nears-12241803",
+      "source": "NDTV Profit",
+      "source_domain": "ndtvprofit.com",
+      "publisher_id": "ndtv-profit",
+      "published_at": "2026-10-27T08:33:06Z",
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "mcx",
+        "fed",
+        "india"
+      ],
+      "breaking": false,
+      "image_url": null,
+      "image_kind": "none",
+      "rank": 13
+    },
+    {
+      "id": "f4d31d73e8061072",
+      "title": "Gold loan stress rising: How to avoid a debt trap and manage repayments",
+      "summary": "Repayment stress on gold loans is rising, Business Standard reports: Bajaj Finance has flagged delays, and Piramal Finance has raised concerns about lending to borrowers overdue elsewhere. Under an RBI rule in force since April 1, 2026, bullet gold loans for consumption are capped at 12 months, with accrued interest to be cleared before renewal or pledged gold could face auction.",
+      "url": "https://www.business-standard.com/markets/news/gold-loan-stress-rising-how-to-avoid-a-debt-trap-and-manage-repayments-126102800003_1.html",
+      "source": "Business Standard",
+      "source_domain": "business-standard.com",
+      "publisher_id": "business-standard",
+      "published_at": "2026-10-27T18:38:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/f4d31d73e8061072.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 14
+    },
+    {
+      "id": "2f13f78f29915944",
+      "title": "Can Chinese Dip Buyers Keep Gold Above $4,000?",
+      "summary": "Chinese households are buying gold's dip, with weekly volume on a key Shanghai contract hitting its highest since April, lending support as gold slipped below $4,000 on Tuesday. China's stock market has lost $2.4 trillion since its May peak and its 5-year bond yield hit a record low, pushing savers toward bullion, while the People's Bank of China extended its buying streak to 23 straight months.",
+      "url": "https://beincrypto.com/chinese-gold-demand-price-below-4000/",
+      "source": "BeInCrypto",
+      "source_domain": "beincrypto.com",
+      "publisher_id": "beincrypto",
+      "published_at": "2026-10-27T12:16:38Z",
+      "image_url": "https://assets.beincrypto.com/img/OdkLagfWRnjMX-_uzMZdJUK2Cx8=/1200x630/smart/filters:format(jpeg):quality(82)/7f3be3f9391246c988ae2eca64bbf5db",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "global",
+        "central-banks"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 15
+    },
+    {
+      "id": "9d85e7d5574a460c",
+      "title": "Gold, Silver ETFs sink up to 53% from 52-week highs; Silver at 11-month low",
+      "summary": "Silver ETFs have crashed up to 53% from their 52-week highs hit in January 2026, while gold ETFs have declined up to 26%. DSP Silver ETF traded at ₹18.17, down 53.4% from its 52-week high of ₹39 on January 29, 2026, as spot silver hovered near 11-month lows of $52.81.",
+      "url": "https://www.business-standard.com/markets/news/gold-etfs-silver-etfs-under-pressure-sink-up-to-53-from-52-week-highs-silver-hits-11-month-low-126102700687_1.html",
+      "source": "Business Standard",
+      "source_domain": "business-standard.com",
+      "publisher_id": "business-standard",
+      "published_at": "2026-10-27T08:11:31Z",
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "india"
+      ],
+      "breaking": false,
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/9d85e7d5574a460c.jpg",
+      "image_kind": "photo",
+      "rank": 16
+    },
+    {
+      "id": "6625ba2d14923e2a",
+      "title": "Can silver price hit ₹2.84 lakh/kg as rates in free fall ahead of 2026 Dhanteras, Diwali? Levels, target, stop loss",
+      "summary": "MCX silver fell more than 2% to about ₹1,91,516 per kg on Tuesday as a stronger dollar, Fed uncertainty and oil-linked inflation worries weighed, with spot silver down 2.1% to $52.77 an ounce. Analysts cited in the piece put key MCX support near ₹1.90 lakh and resistance near ₹2.02 lakh, and a longer-term view cited for the second half of 2027 puts silver at $75–$80 an ounce.",
+      "url": "https://www.livemint.com/market/commodities/can-silver-price-hit-rs-2-84-lakh-kg-as-rates-in-free-fall-ahead-of-2026-dhanteras-diwali-levels-target-stop-loss-11793088097843.html",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "publisher_id": "mint",
+      "published_at": "2026-10-27T08:44:42Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/6625ba2d14923e2a.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "silver",
+        "mcx",
+        "india",
+        "fed"
+      ],
+      "category": "mcx",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 17
+    },
+    {
+      "id": "ca5755e4b1feb89a",
+      "title": "Amundi Says 'Worst Is Behind Us' as Gold Flirts With $4,000",
+      "summary": "Amundi believes the worst of gold's selloff is over as the metal holds near $4,000 an ounce, Bloomberg reports, a counterpoint to the recent slide that took gold about 26% below its January peak. The call lands as traders await the Federal Reserve's decision on October 28.",
+      "url": "https://www.livemint.com/market/amundi-says-worst-is-behind-us-as-gold-flirts-with-4000-11793092640404.html",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "publisher_id": "mint",
+      "published_at": "2026-10-27T09:17:00Z",
+      "image_url": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 18
+    },
+    {
+      "id": "f674c019853adf2f",
+      "title": "Gold’s Correction Creates a Potential Buying Zone for Miners and Silver",
+      "summary": "Gold’s run from about $2,000 to $5,600 came without a meaningful consolidation, and the metal has now arrived at support near the previous $3,941 area low with stochastics oversold, Investing.com contributor Stewart Thomson writes. He puts the $4,000–$3,500 area in focus for gold stocks and silver bullion, noting a 50% retracement of that move sits near $3,800.",
+      "url": "https://www.investing.com/analysis/golds-correction-creates-a-potential-buying-zone-for-miners-and-silver-200690384",
+      "source": "Investing.com",
+      "source_domain": "investing.com",
+      "publisher_id": "investing",
+      "published_at": "2026-10-27T20:29:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/f674c019853adf2f.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 19
+    },
+    {
+      "id": "66d029c021475a71",
+      "title": "Rs 1 Lakh For Dhanteras Gold: How Much Gold Do You Actually Take Home?",
+      "summary": "At around ₹14,000 per gram, ₹1 lakh buys 6.93 grams as coins or bars once 3% GST takes the per-gram cost to ₹14,420, the piece calculates. As jewellery, 5% making charges plus GST take the per-gram cost to ₹15,141, so the same ₹1 lakh buys about 6.60 grams.",
+      "url": "https://www.ndtvprofit.com/personal-finance/rs-1-lakh-for-dhanteras-gold-how-much-gold-do-you-actually-take-home-12241881",
+      "source": "NDTV Profit",
+      "source_domain": "ndtvprofit.com",
+      "publisher_id": "ndtv-profit",
+      "published_at": "2026-10-27T08:40:39Z",
+      "category": "festive",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "jewellery",
+        "india"
+      ],
+      "breaking": false,
+      "image_url": null,
+      "image_kind": "none",
+      "rank": 20
+    },
+    {
+      "id": "c126034f28016614",
+      "title": "Dhanteras, Diwali 2026: 4 factors that could affect gold prices after US midterm elections, according to WGC",
+      "summary": "The World Gold Council examines how the US midterm elections could affect gold, Upstox reports: a Democratic-controlled Congress could make policymaking less predictable, pushing the administration toward wider use of executive orders, which the Council's Juan Carlos Artigas says could raise risk premia and support gold. Indian seasonal demand is gathering pace as retailers restock.",
+      "url": "https://upstox.com/news/personal-finance/commodities/dhanteras-diwali-2026-4-factors-that-could-affect-gold-prices-after-us-midterm-elections-according-to-wgc/article-202420/",
+      "source": "Upstox",
+      "source_domain": "upstox.com",
+      "publisher_id": "upstox",
+      "published_at": "2026-10-27T02:31:54Z",
+      "image_url": "https://assets.upstox.com/content/assets/images/news/gold-price-us-mid-term-elections.webp",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "india",
+        "jewellery",
+        "global"
+      ],
+      "category": "festive",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 21
+    },
+    {
+      "id": "bef49f70dd14cb42",
+      "title": "What are different ways to invest in gold this Dhanteras?",
+      "summary": "Indian households buying gold for Dhanteras and Diwali can choose physical gold, gold ETFs, gold mutual funds, digital gold or electronic gold receipts, with sovereign gold bonds another route. Each form differs on storage, liquidity and cost, so the right choice depends on whether the metal is for wearing, gifting or investing.",
+      "url": "https://inshorts.com/en/news/what-are-different-ways-to-invest-in-gold-this-dhanteras--1793027909642",
+      "source": "Inshorts",
+      "source_domain": "inshorts.com",
+      "publisher_id": "inshorts",
+      "published_at": "2026-10-26T15:18:29Z",
+      "image_url": "https://media.inshorts.com/inshorts/images/v1/variants/jpg/m/2026/10_oct/26_mon/img_1793027472354_384.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
+      ],
+      "category": "festive",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 22
+    },
+    {
+      "breaking": false,
+      "category": "policy",
+      "id": "7af43fee0a073f85",
+      "image_kind": "none",
+      "image_url": null,
+      "metals": [
+        "gold"
+      ],
+      "published_at": "2026-10-26T18:24:36Z",
+      "publisher_id": "retail-jeweller-india",
+      "source": "The Retail Jeweller India",
+      "source_domain": "retailjewellerindia.com",
+      "summary": "BIS has extended mandatory hallmarking of gold jewellery to 12 more districts under the Third Amendment Order, 2026, issued on August 3, The Retail Jeweller India reports. Coverage rises from 380 to 392 districts across 26 states and union territories, including Kancheepuram, Panipat, Angul and Jhargram — a purity check for festive jewellery buyers.",
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
+      ],
+      "title": "BIS expands mandatory hallmarkingof gold jewellery to 12 more districts",
+      "url": "https://retailjewellerindia.com/bis-expands-mandatory-hallmarkingof-gold-jewellery-to-12-more-districts/",
+      "rank": 23
+    },
+    {
+      "id": "91684212e3fa3d82",
+      "title": "RBI sets early redemption price for Sovereign Gold Bond 2020-21 Series I",
+      "summary": "The Reserve Bank of India has set the early redemption price for Sovereign Gold Bond 2020-21 Series I at ₹14,159 per unit for the October 28, 2026 redemption date. The price is the simple average of IBJA closing prices for 999-purity gold over October 23, 26 and 27. Holders can redeem early on the interest payment date after the fifth year from issue.",
+      "url": "https://tradersunion.com/news/central-banks/show/3984037-rbi-sovereign-gold-bond-premature-redemption-2026/",
+      "source": "Traders Union",
+      "source_domain": "tradersunion.com",
+      "publisher_id": "traders-union",
+      "published_at": "2026-10-27T14:21:00Z",
+      "image_url": "https://files.tradersunion.com/images/regional-news/custom-by-date/2026/10/27/3984037.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "rbi",
+        "india"
+      ],
+      "category": "policy",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 24
+    },
+    {
+      "title": "Buying Silver On Dhanteras? Here's How To Check Purity And Verify The Hallmark",
+      "summary": "Silver buyers heading into Dhanteras can check a hallmarked article for the BIS Standard Mark, the word 'SILVER', its purity grade and its six-digit HUID code, Outlook Money explains. The HUID can be verified in the BIS Care app, which shows the article type, purity and jeweller. Silver hallmarking is voluntary, so not every item carries a mark, and recognised grades run from 800 to 999 fineness.",
+      "url": "https://www.outlookmoney.com/invest/buying-silver-on-dhanteras-heres-how-to-check-purity-and-verify-the-hallmark",
+      "source": "Outlook Money",
+      "source_domain": "outlookmoney.com",
+      "publisher_id": "outlook-money",
+      "published_at": "2026-10-26T11:19:00Z",
+      "category": "festive",
+      "metals": [
+        "silver"
+      ],
+      "tags": [
+        "silver",
+        "jewellery",
+        "india"
+      ],
+      "breaking": false,
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/91ed7c78640a4d49.jpg",
+      "image_kind": "photo",
+      "id": "91ed7c78640a4d49",
+      "rank": 25
+    }
   ]
- },
- "trending": [
-  {
-   "title": "Jewellers wait for lower prices",
-   "summary": "With Dhanteras days away, jewellers are delaying restocking in the belief that gold's slide has further to run, even as festive demand season peaks.",
-   "item_ids": [
-    "ba04fc0f01dd77c6",
-    "4c2f5c5929f6e029",
-    "c126034f28016614"
-   ]
-  },
-  {
-   "title": "Gold's $4,000 floor holds — for now",
-   "summary": "Gold has bounced back above $4,000 after dipping below it, but faces resistance near $4,103 as traders await the Fed's decision.",
-   "item_ids": [
-    "b5ec3ebcdaa942b9",
-    "74fbdd8441e572b9",
-    "375c93d18c871baf"
-   ]
-  },
-  {
-   "title": "Silver's fall from its record steepens",
-   "summary": "Silver is down roughly half from its January peak, with futures near ₹1.92 lakh per kg and silver ETFs well off their 52-week highs.",
-   "item_ids": [
-    "5162772d960ac544",
-    "7cc0982e400f131b",
-    "9d85e7d5574a460c"
-   ]
-  },
-  {
-   "title": "Fed decision frames the week",
-   "summary": "The Federal Reserve's Wednesday decision dominates bullion sentiment, with the dollar and yields pressing on gold even as central-bank demand supports it.",
-   "item_ids": [
-    "8792f4c8ce4606ed",
-    "984a83ff71606d97",
-    "74fbdd8441e572b9"
-   ]
-  }
- ],
- "items": [
-  {
-   "id": "ba04fc0f01dd77c6",
-   "title": "India jewellers hold off gold buying, betting prices will drop",
-   "summary": "Indian jewellers are holding back on gold purchases ahead of the festive season's busiest stretch, betting that the recent price slide has further to run, according to the country's biggest precious metals refiner. The caution comes even as Dhanteras and Diwali approach, with the trade expecting cheaper prices ahead.",
-   "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/india-jewellers-hold-off-gold-buying-betting-prices-will-drop/articleshow/135249545.cms",
-   "source": "Economic Times",
-   "source_domain": "economictimes.indiatimes.com",
-   "publisher_id": "economic-times",
-   "published_at": "2026-10-28T02:28:20Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/ba04fc0f01dd77c6.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "india",
-    "jewellery"
-   ],
-   "category": "mcx",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "rank": 1
-  },
-  {
-   "id": "74fbdd8441e572b9",
-   "title": "Gold price shoots to session high $4,048/oz after Consumer Confidence rises to 91.7",
-   "summary": "Spot gold climbed to a session high of $4,048.48 an ounce on Tuesday after US consumer confidence rose to 91.7 in October, beating the 81 consensus and September's upwardly revised 84.2. The 10 am ET data lifted gold 0.78% on the day as traders positioned ahead of Wednesday's Federal Reserve decision.",
-   "url": "https://www.kitco.com/news/article/2026-10-27/gold-price-shoots-session-high-4048oz-after-consumer-confidence-rises-917",
-   "source": "Kitco",
-   "source_domain": "kitco.com",
-   "publisher_id": "kitco",
-   "published_at": "2026-10-27T14:01:00Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/74fbdd8441e572b9.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "global",
-    "fed"
-   ],
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "related_urls": [
-    "https://www.kitco.com/news/article/2026-10-27/gold-prices-holding-above-4000-us-new-home-sales-fall"
-   ],
-   "rank": 2
-  },
-  {
-   "id": "b5ec3ebcdaa942b9",
-   "title": "Gold chart update: Is $4,000 once again acting as a floor?",
-   "summary": "Gold briefly slipped below $4,000 an ounce in recent days but closed back above it at $4,016, with the summer lows still intact. The analysis puts the stochastic oscillator and RSI near buy-signal territory, suggesting the metal could attempt a fresh upward move.",
-   "url": "https://news.metal.com/newscontent/104182499-gold-chart-update-is-4000-once-again-acting-as-a-floor",
-   "source": "Shanghai Metals Market",
-   "source_domain": "news.metal.com",
-   "publisher_id": "shanghai-metals-market",
-   "published_at": "2026-10-28T02:50:22Z",
-   "image_url": null,
-   "image_kind": "none",
-   "tags": [
-    "gold",
-    "global",
-    "comex"
-   ],
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "related_urls": [
-    "https://goldinvest.de/en/chartupdate-gold-fungieren-4-000-us-dollar-erneut-als-boden"
-   ],
-   "rank": 3
-  },
-  {
-   "id": "984a83ff71606d97",
-   "title": "Downside risks are building in gold, but prices still have a path to $5,000 - State Street's Doshi",
-   "summary": "State Street still sees gold reaching $4,750–$5,500 an ounce by the end of Q1 2027, but has cut the odds of that scenario to 60% from 70% as inflation, rising bond yields and a hawkish Fed cloud the outlook. Its bearish case, given 35% odds, keeps gold between $4,000 and $4,750 for six to nine months.",
-   "url": "https://www.kitco.com/news/article/2026-10-27/downside-risks-are-building-gold-prices-still-have-path-5000-state-streets",
-   "source": "Kitco",
-   "source_domain": "kitco.com",
-   "publisher_id": "kitco",
-   "published_at": "2026-10-27T20:37:00Z",
-   "image_url": "https://image-api.prod.kitco.com/image/5c5c64cd-8b2c-4d08-bf9d-933d28d121d3.jpeg?top=0.1902027027027&left=0&width=1000&height=562.61959459459&scale_width=1920&token=88cc72278174df2ebead4075a69aecd1f784c0b97da8a46e517193c03e3e1d32",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "global",
-    "fed"
-   ],
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "rank": 4
-  },
-  {
-   "id": "5162772d960ac544",
-   "title": "Silver rate has fallen 50% from its record-high January rate; should you buy now or wait?",
-   "summary": "Silver has fallen roughly 50% from its record high in January, with MCX silver futures now near ₹1.92 lakh per kg. The piece weighs whether investors should enter at current levels or wait for further declines.",
-   "url": "https://economictimes.indiatimes.com/wealth/invest/silver-rate-price-has-fallen-50-from-its-record-high-january-2026-peak-should-you-invest-now-or-wait/articleshow/135242661.cms",
-   "source": "Economic Times",
-   "source_domain": "economictimes.indiatimes.com",
-   "publisher_id": "economic-times",
-   "published_at": "2026-10-28T02:30:00Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/5162772d960ac544.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "silver",
-    "india",
-    "mcx"
-   ],
-   "category": "mcx",
-   "metals": [
-    "silver"
-   ],
-   "breaking": false,
-   "rank": 5
-  },
-  {
-   "id": "8792f4c8ce4606ed",
-   "title": "Strong dollar, high yields drag on gold outlook, but central-bank demand lends support",
-   "summary": "Analysts trimmed their 2026 gold price forecast in a Reuters survey of 30 analysts and traders, citing high Treasury yields, a strong dollar and rates staying high for longer. The median 2026 forecast is $4,495 an ounce, down from $4,509, while the 2027 median rose to $4,650. Central-bank buying and demand from India and China are expected to support prices.",
-   "url": "https://www.reuters.com/world/china/strong-dollar-high-yields-drag-gold-outlook-central-bank-demand-lends-support-2026-10-27/",
-   "source": "Reuters",
-   "source_domain": "reuters.com",
-   "publisher_id": "reuters",
-   "published_at": "2026-10-27T13:30:00Z",
-   "image_url": null,
-   "image_kind": "none",
-   "tags": [
-    "gold",
-    "silver",
-    "global",
-    "central-banks"
-   ],
-   "category": "global",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "breaking": false,
-   "rank": 6
-  },
-  {
-   "id": "89ac5aeee7916bb0",
-   "title": "Gold Fights Back. Silver Breaks Lower. Same Dollar, Different Stories.",
-   "summary": "Gold reclaimed a falling-wedge boundary after Monday's close above it, retesting the breakout near $4,001.80 before rebounding toward $4,045.10, FXEmpire reports, though the $4,042-$4,060 zone, Friday's bearish gap plus a new declining channel, now stands in the way. Silver, by contrast, fell to another local low despite the stronger-dollar backdrop, underscoring the split between the metals.",
-   "url": "https://www.fxempire.com/forecasts/article/gold-fights-back-silver-breaks-lower-same-dollar-different-stories-1640728",
-   "source": "FXEmpire",
-   "source_domain": "fxempire.com",
-   "publisher_id": "fxempire",
-   "published_at": "2026-10-27T18:08:00Z",
-   "image_url": null,
-   "image_kind": "none",
-   "tags": [
-    "gold",
-    "silver",
-    "global",
-    "comex"
-   ],
-   "category": "global",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "breaking": false,
-   "related_urls": [
-    "https://www.fxstreet.com/analysis/gold-fights-back-silver-breaks-lower-same-dollar-different-stories-202610271738"
-   ],
-   "rank": 7
-  },
-  {
-   "id": "19d15c234c6aabd3",
-   "title": "Silver Falls, Gold Rallies as China Retail Investing Jumps, ETFs Sell",
-   "summary": "Silver hit an 11-month low of $52.68 an ounce in Asian trade Tuesday while gold rallied from 3-month lows, fixing at $3,997 in London before rising to $4,030. Retail gold investment demand in China is surging, led by households buying investment gold, while Western gold ETFs saw their first weekly liquidation in a month. The gold/silver ratio rose to 74.3, its highest since November last year.",
-   "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-china-etfs-102720261",
-   "source": "BullionVault",
-   "source_domain": "bullionvault.com",
-   "publisher_id": "bullionvault",
-   "published_at": "2026-10-27T13:53:37Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/19d15c234c6aabd3.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "silver",
-    "global"
-   ],
-   "category": "global",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "breaking": false,
-   "rank": 8
-  },
-  {
-   "id": "f62624d110b5d98c",
-   "title": "Silver Price Forecast: XAG/USD bounces from year-to-date lows ahead of Fed rate call",
-   "summary": "Silver rebounded on Tuesday after slipping to a fresh year-to-date low of $52.67 in Asian trading, recovering to around $54.50 as easing oil prices offered relief. FXStreet notes the bounce leaves the metal below its 100- and 200-day averages, with a firmer dollar ahead of Wednesday's Federal Reserve decision still capping gains.",
-   "url": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-bounces-from-year-to-date-lows-ahead-of-fed-rate-call-202610271558",
-   "source": "FXStreet",
-   "source_domain": "fxstreet.com",
-   "publisher_id": "fxstreet",
-   "published_at": "2026-10-27T15:58:44Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/f62624d110b5d98c.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "silver",
-    "comex",
-    "fed",
-    "global"
-   ],
-   "category": "global",
-   "metals": [
-    "silver"
-   ],
-   "breaking": false,
-   "related_urls": [
-    "https://www.tradingkey.com/news/commodities/262242704-fxstr"
-   ],
-   "rank": 9
-  },
-  {
-   "id": "375c93d18c871baf",
-   "title": "Gold (XAU/USD) Price Forecast: Short-Term Strength Faces Major Resistance",
-   "summary": "Gold's counter-trend rally reached a three-day high of $4,066 on Tuesday after holding last week's low of $3,975, FXEmpire reports, but layered resistance stands in the way: $4,103, then the falling 20-day moving average near $4,124. Failure to reclaim those levels could leave the June low near $3,942 vulnerable to another test.",
-   "url": "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-short-term-strength-faces-major-resistance-1640783",
-   "source": "FXEmpire",
-   "source_domain": "fxempire.com",
-   "publisher_id": "fxempire",
-   "published_at": "2026-10-27T21:04:00Z",
-   "image_url": null,
-   "image_kind": "none",
-   "tags": [
-    "gold",
-    "global",
-    "comex"
-   ],
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "rank": 10
-  },
-  {
-   "id": "f85d809ec1e60b42",
-   "title": "Silver Price Forecast: XAG/USD hangs near YTD low, below $53.00 amid oversold RSI",
-   "summary": "Silver slid below $53 an ounce to a fresh low since November 2025, down about 2% on the day, as a recovering US dollar weighed on the metal ahead of the Federal Reserve decision. The move followed repeated failures to hold above $54, and with the relative strength index in oversold territory, FXStreet flags $53.25 and $54 as the levels that would need to be reclaimed to ease the bearish tone.",
-   "url": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-hangs-near-ytd-low-below-5300-amid-oversold-rsi-202610270747",
-   "source": "FXStreet",
-   "source_domain": "fxstreet.com",
-   "publisher_id": "fxstreet",
-   "published_at": "2026-10-27T07:47:15Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/f85d809ec1e60b42.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "silver",
-    "comex",
-    "fed",
-    "global"
-   ],
-   "category": "global",
-   "metals": [
-    "silver"
-   ],
-   "breaking": false,
-   "related_urls": [
-    "https://www.tradingkey.com/news/commodities/262241496-fxstr"
-   ],
-   "rank": 11
-  },
-  {
-   "id": "7cc0982e400f131b",
-   "title": "Silver futures decline to ₹1.92 lakh/kg",
-   "summary": "Silver futures fell ₹3,743, or 1.91%, to ₹1,92,050 per kg on the MCX on Tuesday as participants cut bets, in a turnover of 3,482 lots. In New York, silver traded 2.14% lower at $52.81 an ounce.",
-   "url": "https://www.thehindubusinessline.com/markets/commodities/silver-futures-decline-to-192-lakhkg/article71630370.ece",
-   "source": "The Hindu BusinessLine",
-   "source_domain": "thehindubusinessline.com",
-   "publisher_id": "hindu-businessline",
-   "published_at": "2026-10-27T13:51:00Z",
-   "image_url": null,
-   "image_kind": "none",
-   "tags": [
-    "silver",
-    "mcx"
-   ],
-   "category": "mcx",
-   "metals": [
-    "silver"
-   ],
-   "breaking": false,
-   "rank": 12
-  },
-  {
-   "id": "4c2f5c5929f6e029",
-   "title": "Gold Prices Crash Over Rs 3,000 In 10 Days, Fall Near Rs 1.42 Lakh As US Fed Decision Nears",
-   "summary": "MCX gold futures for December delivery fell to an intraday low of ₹1,42,216 per 10 grams on October 27, trading at ₹1,42,460 around 1:09 p.m., down ₹613 or 0.43%. The contract has fallen ₹3,632 from its October 14 close of ₹1,45,848 as traders positioned ahead of the US Federal Reserve's decision.",
-   "url": "https://www.ndtvprofit.com/markets/gold-prices-crash-over-rs-3-000-in-10-days-fall-near-rs-1-42-lakh-as-us-fed-decision-nears-12241803",
-   "source": "NDTV Profit",
-   "source_domain": "ndtvprofit.com",
-   "publisher_id": "ndtv-profit",
-   "published_at": "2026-10-27T08:33:06Z",
-   "category": "mcx",
-   "metals": [
-    "gold"
-   ],
-   "tags": [
-    "gold",
-    "mcx",
-    "fed",
-    "india"
-   ],
-   "breaking": false,
-   "image_url": null,
-   "image_kind": "none",
-   "rank": 13
-  },
-  {
-   "id": "f4d31d73e8061072",
-   "title": "Gold loan stress rising: How to avoid a debt trap and manage repayments",
-   "summary": "Repayment stress on gold loans is rising, Business Standard reports: Bajaj Finance has flagged delays, and Piramal Finance has raised concerns about lending to borrowers overdue elsewhere. Under an RBI rule in force since April 1, 2026, bullet gold loans for consumption are capped at 12 months, with accrued interest to be cleared before renewal or pledged gold could face auction.",
-   "url": "https://www.business-standard.com/markets/news/gold-loan-stress-rising-how-to-avoid-a-debt-trap-and-manage-repayments-126102800003_1.html",
-   "source": "Business Standard",
-   "source_domain": "business-standard.com",
-   "publisher_id": "business-standard",
-   "published_at": "2026-10-27T18:38:00Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/f4d31d73e8061072.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "india"
-   ],
-   "category": "mcx",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "rank": 14
-  },
-  {
-   "id": "2f13f78f29915944",
-   "title": "Can Chinese Dip Buyers Keep Gold Above $4,000?",
-   "summary": "Chinese households are buying gold's dip, with weekly volume on a key Shanghai contract hitting its highest since April, lending support as gold slipped below $4,000 on Tuesday. China's stock market has lost $2.4 trillion since its May peak and its 5-year bond yield hit a record low, pushing savers toward bullion, while the People's Bank of China extended its buying streak to 23 straight months.",
-   "url": "https://beincrypto.com/chinese-gold-demand-price-below-4000/",
-   "source": "BeInCrypto",
-   "source_domain": "beincrypto.com",
-   "publisher_id": "beincrypto",
-   "published_at": "2026-10-27T12:16:38Z",
-   "image_url": "https://assets.beincrypto.com/img/OdkLagfWRnjMX-_uzMZdJUK2Cx8=/1200x630/smart/filters:format(jpeg):quality(82)/7f3be3f9391246c988ae2eca64bbf5db",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "global",
-    "central-banks"
-   ],
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "rank": 15
-  },
-  {
-   "id": "9d85e7d5574a460c",
-   "title": "Gold, Silver ETFs sink up to 53% from 52-week highs; Silver at 11-month low",
-   "summary": "Silver ETFs have crashed up to 53% from their 52-week highs hit in January 2026, while gold ETFs have declined up to 26%. DSP Silver ETF traded at ₹18.17, down 53.4% from its 52-week high of ₹39 on January 29, 2026, as spot silver hovered near 11-month lows of $52.81.",
-   "url": "https://www.business-standard.com/markets/news/gold-etfs-silver-etfs-under-pressure-sink-up-to-53-from-52-week-highs-silver-hits-11-month-low-126102700687_1.html",
-   "source": "Business Standard",
-   "source_domain": "business-standard.com",
-   "publisher_id": "business-standard",
-   "published_at": "2026-10-27T08:11:31Z",
-   "category": "mcx",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "tags": [
-    "gold",
-    "silver",
-    "mcx",
-    "india"
-   ],
-   "breaking": false,
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/9d85e7d5574a460c.jpg",
-   "image_kind": "photo",
-   "rank": 16
-  },
-  {
-   "id": "6625ba2d14923e2a",
-   "title": "Can silver price hit ₹2.84 lakh/kg as rates in free fall ahead of 2026 Dhanteras, Diwali? Levels, target, stop loss",
-   "summary": "MCX silver fell more than 2% to about ₹1,91,516 per kg on Tuesday as a stronger dollar, Fed uncertainty and oil-linked inflation worries weighed, with spot silver down 2.1% to $52.77 an ounce. Analysts cited in the piece put key MCX support near ₹1.90 lakh and resistance near ₹2.02 lakh, and a longer-term view cited for the second half of 2027 puts silver at $75–$80 an ounce.",
-   "url": "https://www.livemint.com/market/commodities/can-silver-price-hit-rs-2-84-lakh-kg-as-rates-in-free-fall-ahead-of-2026-dhanteras-diwali-levels-target-stop-loss-11793088097843.html",
-   "source": "Mint",
-   "source_domain": "livemint.com",
-   "publisher_id": "mint",
-   "published_at": "2026-10-27T08:44:42Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/6625ba2d14923e2a.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "silver",
-    "mcx",
-    "india",
-    "fed"
-   ],
-   "category": "mcx",
-   "metals": [
-    "silver"
-   ],
-   "breaking": false,
-   "rank": 17
-  },
-  {
-   "id": "ca5755e4b1feb89a",
-   "title": "Amundi Says 'Worst Is Behind Us' as Gold Flirts With $4,000",
-   "summary": "Amundi believes the worst of gold's selloff is over as the metal holds near $4,000 an ounce, Bloomberg reports, a counterpoint to the recent slide that took gold about 26% below its January peak. The call lands as traders await the Federal Reserve's decision on October 28.",
-   "url": "https://www.livemint.com/market/amundi-says-worst-is-behind-us-as-gold-flirts-with-4000-11793092640404.html",
-   "source": "Mint",
-   "source_domain": "livemint.com",
-   "publisher_id": "mint",
-   "published_at": "2026-10-27T09:17:00Z",
-   "image_url": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "global"
-   ],
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "rank": 18
-  },
-  {
-   "id": "f674c019853adf2f",
-   "title": "Gold’s Correction Creates a Potential Buying Zone for Miners and Silver",
-   "summary": "Gold’s run from about $2,000 to $5,600 came without a meaningful consolidation, and the metal has now arrived at support near the previous $3,941 area low with stochastics oversold, Investing.com contributor Stewart Thomson writes. He puts the $4,000–$3,500 area in focus for gold stocks and silver bullion, noting a 50% retracement of that move sits near $3,800.",
-   "url": "https://www.investing.com/analysis/golds-correction-creates-a-potential-buying-zone-for-miners-and-silver-200690384",
-   "source": "Investing.com",
-   "source_domain": "investing.com",
-   "publisher_id": "investing",
-   "published_at": "2026-10-27T20:29:00Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/f674c019853adf2f.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "silver",
-    "global"
-   ],
-   "category": "global",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "breaking": false,
-   "rank": 19
-  },
-  {
-   "id": "3e0615fb5d2fcef3",
-   "title": "India’s crude basket price tops $120 a barrel amid West Asia war",
-   "summary": "India's average crude import basket rose almost 4% in October to $120.46 a barrel up to October 26, its highest monthly average since March 2012, as the West Asia conflict lifted marine insurance and freight rates. The basket stood at $123.72 on October 26, and LPG under-recoveries for the three state oil marketers are around ₹62,000 crore.",
-   "url": "https://www.thehindubusinessline.com/economy/oil-import-bill-rises-on-west-asia-conflict/article71632295.ece",
-   "source": "The Hindu BusinessLine",
-   "source_domain": "thehindubusinessline.com",
-   "publisher_id": "hindu-businessline",
-   "published_at": "2026-10-27T17:13:02Z",
-   "image_url": null,
-   "image_kind": "none",
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "tags": [
-    "gold",
-    "global",
-    "rupee"
-   ],
-   "rank": 20
-  },
-  {
-   "id": "66d029c021475a71",
-   "title": "Rs 1 Lakh For Dhanteras Gold: How Much Gold Do You Actually Take Home?",
-   "summary": "At around ₹14,000 per gram, ₹1 lakh buys 6.93 grams as coins or bars once 3% GST takes the per-gram cost to ₹14,420, the piece calculates. As jewellery, 5% making charges plus GST take the per-gram cost to ₹15,141, so the same ₹1 lakh buys about 6.60 grams.",
-   "url": "https://www.ndtvprofit.com/personal-finance/rs-1-lakh-for-dhanteras-gold-how-much-gold-do-you-actually-take-home-12241881",
-   "source": "NDTV Profit",
-   "source_domain": "ndtvprofit.com",
-   "publisher_id": "ndtv-profit",
-   "published_at": "2026-10-27T08:40:39Z",
-   "category": "festive",
-   "metals": [
-    "gold"
-   ],
-   "tags": [
-    "gold",
-    "jewellery",
-    "india"
-   ],
-   "breaking": false,
-   "image_url": null,
-   "image_kind": "none",
-   "rank": 21
-  },
-  {
-   "id": "c126034f28016614",
-   "title": "Dhanteras, Diwali 2026: 4 factors that could affect gold prices after US midterm elections, according to WGC",
-   "summary": "The World Gold Council examines how the US midterm elections could affect gold, Upstox reports: a Democratic-controlled Congress could make policymaking less predictable, pushing the administration toward wider use of executive orders, which the Council's Juan Carlos Artigas says could raise risk premia and support gold. Indian seasonal demand is gathering pace as retailers restock.",
-   "url": "https://upstox.com/news/personal-finance/commodities/dhanteras-diwali-2026-4-factors-that-could-affect-gold-prices-after-us-midterm-elections-according-to-wgc/article-202420/",
-   "source": "Upstox",
-   "source_domain": "upstox.com",
-   "publisher_id": "upstox",
-   "published_at": "2026-10-27T02:31:54Z",
-   "image_url": "https://assets.upstox.com/content/assets/images/news/gold-price-us-mid-term-elections.webp",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "india",
-    "jewellery",
-    "global"
-   ],
-   "category": "festive",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "rank": 22
-  },
-  {
-   "id": "bef49f70dd14cb42",
-   "title": "What are different ways to invest in gold this Dhanteras?",
-   "summary": "Indian households buying gold for Dhanteras and Diwali can choose physical gold, gold ETFs, gold mutual funds, digital gold or electronic gold receipts, with sovereign gold bonds another route. Each form differs on storage, liquidity and cost, so the right choice depends on whether the metal is for wearing, gifting or investing.",
-   "url": "https://inshorts.com/en/news/what-are-different-ways-to-invest-in-gold-this-dhanteras--1793027909642",
-   "source": "Inshorts",
-   "source_domain": "inshorts.com",
-   "publisher_id": "inshorts",
-   "published_at": "2026-10-26T15:18:29Z",
-   "image_url": "https://media.inshorts.com/inshorts/images/v1/variants/jpg/m/2026/10_oct/26_mon/img_1793027472354_384.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "india",
-    "jewellery"
-   ],
-   "category": "festive",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "rank": 23
-  },
-  {
-   "breaking": false,
-   "category": "policy",
-   "id": "7af43fee0a073f85",
-   "image_kind": "none",
-   "image_url": null,
-   "metals": [
-    "gold"
-   ],
-   "published_at": "2026-10-26T18:24:36Z",
-   "publisher_id": "retail-jeweller-india",
-   "source": "The Retail Jeweller India",
-   "source_domain": "retailjewellerindia.com",
-   "summary": "BIS has extended mandatory hallmarking of gold jewellery to 12 more districts under the Third Amendment Order, 2026, issued on August 3, The Retail Jeweller India reports. Coverage rises from 380 to 392 districts across 26 states and union territories, including Kancheepuram, Panipat, Angul and Jhargram — a purity check for festive jewellery buyers.",
-   "tags": [
-    "gold",
-    "india",
-    "jewellery"
-   ],
-   "title": "BIS expands mandatory hallmarkingof gold jewellery to 12 more districts",
-   "url": "https://retailjewellerindia.com/bis-expands-mandatory-hallmarkingof-gold-jewellery-to-12-more-districts/",
-   "rank": 24
-  },
-  {
-   "id": "91684212e3fa3d82",
-   "title": "RBI sets early redemption price for Sovereign Gold Bond 2020-21 Series I",
-   "summary": "The Reserve Bank of India has set the early redemption price for Sovereign Gold Bond 2020-21 Series I at ₹14,159 per unit for the October 28, 2026 redemption date. The price is the simple average of IBJA closing prices for 999-purity gold over October 23, 26 and 27. Holders can redeem early on the interest payment date after the fifth year from issue.",
-   "url": "https://tradersunion.com/news/central-banks/show/3984037-rbi-sovereign-gold-bond-premature-redemption-2026/",
-   "source": "Traders Union",
-   "source_domain": "tradersunion.com",
-   "publisher_id": "traders-union",
-   "published_at": "2026-10-27T14:21:00Z",
-   "image_url": "https://files.tradersunion.com/images/regional-news/custom-by-date/2026/10/27/3984037.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "rbi",
-    "india"
-   ],
-   "category": "policy",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "rank": 25
-  },
-  {
-   "title": "Buying Silver On Dhanteras? Here's How To Check Purity And Verify The Hallmark",
-   "summary": "Silver buyers heading into Dhanteras can check a hallmarked article for the BIS Standard Mark, the word 'SILVER', its purity grade and its six-digit HUID code, Outlook Money explains. The HUID can be verified in the BIS Care app, which shows the article type, purity and jeweller. Silver hallmarking is voluntary, so not every item carries a mark, and recognised grades run from 800 to 999 fineness.",
-   "url": "https://www.outlookmoney.com/invest/buying-silver-on-dhanteras-heres-how-to-check-purity-and-verify-the-hallmark",
-   "source": "Outlook Money",
-   "source_domain": "outlookmoney.com",
-   "publisher_id": "outlook-money",
-   "published_at": "2026-10-26T11:19:00Z",
-   "category": "festive",
-   "metals": [
-    "silver"
-   ],
-   "tags": [
-    "silver",
-    "jewellery",
-    "india"
-   ],
-   "breaking": false,
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/91ed7c78640a4d49.jpg",
-   "image_kind": "photo",
-   "id": "91ed7c78640a4d49",
-   "rank": 26
-  }
- ]
 }
