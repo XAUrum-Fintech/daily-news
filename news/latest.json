@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-28T10:00Z",
-  "generated_at": "2026-10-28T10:06:22Z",
+  "edition_id": "2026-10-28T11:00Z",
+  "generated_at": "2026-10-28T11:07:24Z",
   "window": {
-    "from": "2026-10-28T09:00:00Z",
-    "to": "2026-10-28T10:00:00Z"
+    "from": "2026-10-28T10:00:00Z",
+    "to": "2026-10-28T11:00:00Z"
   },
   "insights": {
     "headline": "Gold holds above $4,000 as oil climbs on Iran tensions ahead of tonight's Fed decision",
@@ -42,7 +42,6 @@
       "title": "Silver's fall from its record steepens",
       "summary": "Silver has shed more than half its value since January as dollar strength, yields near 5% and Fed tightening bets outweigh safe-haven demand, leaving it near 11-month lows.",
       "item_ids": [
-        "5162772d960ac544",
         "9d85e7d5574a460c",
         "2ec77f9862e83530",
         "7cc0982e400f131b"
@@ -326,23 +325,26 @@
       "rank": 11
     },
     {
-      "id": "5162772d960ac544",
-      "title": "Silver rate has fallen 50% from its record-high January rate; should you buy now or wait?",
-      "summary": "Silver has fallen roughly 50% from its record high in January, with MCX silver futures now near ₹1.92 lakh per kg. The piece weighs whether investors should enter at current levels or wait for further declines.",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/silver-rate-price-has-fallen-50-from-its-record-high-january-2026-peak-should-you-invest-now-or-wait/articleshow/135242661.cms",
+      "id": "dfbfd213beb51f0a",
+      "title": "Elevated oil prices keep up heat on rupee, traders await cues from Fed",
+      "summary": "Elevated crude oil prices kept pressure on the rupee on Wednesday, with traders cautious ahead of the Federal Reserve's policy decision later in the day. The Fed's guidance is being watched for cues on the dollar and interest rates, which in turn feed into domestic bullion prices.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/elevated-oil-prices-keep-up-heat-on-rupee-traders-await-cues-from-fed/articleshow/135261558.cms",
       "source": "Economic Times",
       "source_domain": "economictimes.indiatimes.com",
       "publisher_id": "economic-times",
-      "published_at": "2026-10-28T02:30:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/5162772d960ac544.jpg",
+      "published_at": "2026-10-28T10:29:45Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/dfbfd213beb51f0a.jpg",
       "image_kind": "photo",
       "tags": [
+        "gold",
         "silver",
-        "india",
-        "mcx"
+        "rupee",
+        "fed",
+        "global"
       ],
       "category": "mcx",
       "metals": [
+        "gold",
         "silver"
       ],
       "breaking": false,

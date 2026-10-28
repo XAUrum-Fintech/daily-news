@@ -1,4 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-10-28T10:00Z
+# Gold & Silver for Indian buyers · 2026-10-28T11:00Z
 
 > Gold holds above $4,000 as oil climbs on Iran tensions ahead of tonight's Fed decision
 
@@ -13,7 +13,7 @@ Gold steadied above $4,000 an ounce on dip-buying after slipping to $4,030.20 on
 ## Trending
 - **Gold's $4,000 floor holds into Fed day**: Gold reclaimed $4,050 in late US trading but slipped to $4,030 on Wednesday morning as crude rebounded, with MCX futures easing to ₹1,43,492 ahead of the Fed decision. (stories 1, 2, 3, 9, 6)
 - **Jewellers wait for lower prices**: With Dhanteras days away, jewellers are delaying restocking in the belief that gold's slide has further to run, even as festive demand season peaks. (stories 7, 24, 23)
-- **Silver's fall from its record steepens**: Silver has shed more than half its value since January as dollar strength, yields near 5% and Fed tightening bets outweigh safe-haven demand, leaving it near 11-month lows. (stories 12, 20, 13, 17)
+- **Silver's fall from its record steepens**: Silver has shed more than half its value since January as dollar strength, yields near 5% and Fed tightening bets outweigh safe-haven demand, leaving it near 11-month lows. (stories 20, 13, 17)
 - **Fed decision frames the week**: An expected hold on Wednesday still leaves a December hike firmly priced, keeping yields and the dollar as the key drag on bullion into the end of the week. (stories 1, 3, 8)
 
 ## Stories
@@ -39,8 +39,8 @@ Gold steadied above $4,000 an ounce on dip-buying after slipping to $4,030.20 on
    Gold briefly slipped below $4,000 an ounce in recent days but closed back above it at $4,016, with the summer lows still intact. The analysis puts the stochastic oscillator and RSI near buy-signal territory, suggesting the metal could attempt a fresh upward move.
 11. [Downside risks are building in gold, but prices still have a path to $5,000 - State Street's Doshi](https://www.kitco.com/news/article/2026-10-27/downside-risks-are-building-gold-prices-still-have-path-5000-state-streets) — *Kitco*, 2026-10-27T20:37:00Z
    State Street still sees gold reaching $4,750–$5,500 an ounce by the end of Q1 2027, but has cut the odds of that scenario to 60% from 70% as inflation, rising bond yields and a hawkish Fed cloud the outlook. Its bearish case, given 35% odds, keeps gold between $4,000 and $4,750 for six to nine months.
-12. [Silver rate has fallen 50% from its record-high January rate; should you buy now or wait?](https://economictimes.indiatimes.com/wealth/invest/silver-rate-price-has-fallen-50-from-its-record-high-january-2026-peak-should-you-invest-now-or-wait/articleshow/135242661.cms) — *Economic Times*, 2026-10-28T02:30:00Z
-   Silver has fallen roughly 50% from its record high in January, with MCX silver futures now near ₹1.92 lakh per kg. The piece weighs whether investors should enter at current levels or wait for further declines.
+12. [Elevated oil prices keep up heat on rupee, traders await cues from Fed](https://economictimes.indiatimes.com/markets/forex/forex-news/elevated-oil-prices-keep-up-heat-on-rupee-traders-await-cues-from-fed/articleshow/135261558.cms) — *Economic Times*, 2026-10-28T10:29:45Z
+   Elevated crude oil prices kept pressure on the rupee on Wednesday, with traders cautious ahead of the Federal Reserve's policy decision later in the day. The Fed's guidance is being watched for cues on the dollar and interest rates, which in turn feed into domestic bullion prices.
 13. [Silver At 11-Month Low: What's Behind The Precious Metal's Dramatic Reversal?](https://www.outlookbusiness.com/markets/silver-price-crash-whats-behind-the-precious-metals-dramatic-reversal) — *Outlook Business*, 2026-10-27T12:34:00Z
    Silver has fallen more than 53% from its January record near $117 an ounce to just above $53, as a stronger dollar, yields near 5% and tighter Fed expectations outweigh safe-haven support from Middle East tensions, analysts say. On MCX, silver fell from Rs 3,79,983 per kg in January to Rs 1,94,170 on October 23. Analysts flag $50 as the next key support.
 14. [Strong dollar, high yields drag on gold outlook, but central-bank demand lends support](https://www.reuters.com/world/china/strong-dollar-high-yields-drag-gold-outlook-central-bank-demand-lends-support-2026-10-27/) — *Reuters*, 2026-10-27T13:30:00Z
