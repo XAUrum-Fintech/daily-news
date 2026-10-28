@@ -1,6 +1,6 @@
 {
   "schema": "macro-events.v1",
-  "generated_at": "2026-10-28T18:04:52Z",
+  "generated_at": "2026-10-28T18:05:32Z",
   "event_count": 19,
   "events": [
     {
@@ -215,6 +215,39 @@
       "published_at": "2026-10-14T12:30:00Z"
     },
     {
+      "id": "fed-2026-10-28",
+      "kind": "fed_rate",
+      "title": "Fed rate decision",
+      "status": "released",
+      "scheduled_at": "2026-10-28T14:00:00-04:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [
+        {
+          "key": "fed_funds_upper",
+          "label": "Fed funds, upper",
+          "unit": "percent",
+          "actual": 4.0,
+          "forecast": null,
+          "previous": 4.0,
+          "previous_first_print": null
+        },
+        {
+          "key": "fed_funds_lower",
+          "label": "Fed funds, lower",
+          "unit": "percent",
+          "actual": 3.75,
+          "forecast": null,
+          "previous": 3.75,
+          "previous_first_print": null
+        }
+      ],
+      "revisions": [],
+      "summary": "The Fed held its target range unchanged at 3.75 to 4 percent.",
+      "forecast_source": null,
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "published_at": "2026-10-28T18:04:52Z"
+    },
+    {
       "id": "us-jobs-2026-11-06",
       "kind": "us_jobs",
       "title": "US jobs report",
@@ -325,39 +358,6 @@
       "forecast_source": null,
       "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
       "published_at": null
-    },
-    {
-      "id": "fed-2026-10-28",
-      "kind": "fed_rate",
-      "title": "Fed rate decision",
-      "status": "released",
-      "scheduled_at": "2026-10-28T14:00:00-04:00",
-      "scheduled_tz": "America/New_York",
-      "metrics": [
-        {
-          "key": "fed_funds_upper",
-          "label": "Fed funds, upper",
-          "unit": "percent",
-          "actual": 4.0,
-          "forecast": null,
-          "previous": 4.0,
-          "previous_first_print": null
-        },
-        {
-          "key": "fed_funds_lower",
-          "label": "Fed funds, lower",
-          "unit": "percent",
-          "actual": 3.75,
-          "forecast": null,
-          "previous": 3.75,
-          "previous_first_print": null
-        }
-      ],
-      "revisions": [],
-      "summary": "The Fed held its target range unchanged at 3.75 to 4 percent.",
-      "forecast_source": null,
-      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
-      "published_at": "2026-10-28T18:04:52Z"
     },
     {
       "id": "fed-2026-12-09",
