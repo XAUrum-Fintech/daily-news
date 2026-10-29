@@ -1,20 +1,20 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-28T22:00Z",
-  "generated_at": "2026-10-28T22:14:07Z",
+  "edition_id": "2026-10-29T00:00Z",
+  "generated_at": "2026-10-29T00:16:53Z",
   "window": {
-    "from": "2026-10-28T20:00:00Z",
-    "to": "2026-10-28T22:00:00Z"
+    "from": "2026-10-28T22:00:00Z",
+    "to": "2026-10-29T00:00:00Z"
   },
   "insights": {
-    "headline": "Fed holds at 3.75-4.00% in 10-2 vote; gold steadies near $4,057 as silver slips to $53.72",
-    "summary": "The Federal Reserve held rates steady as expected, with two officials dissenting in favour of a hike, and spot gold steadied near $4,057 an ounce in late US trading while silver fell about 1% to near $53.72. On MCX, gold futures eased to ₹1,43,492 per 10 grams and silver to ₹1,95,301 per kilogram. UBS argues structural buyers should floor gold near $4,000, while claims of a strike on a Saudi refinery kept crude elevated and gold's recovery stalled ahead of Dhanteras buying.",
+    "headline": "Fed hold leaves December hike priced; analysts trim 2026 gold view, lift 2027",
+    "summary": "The Federal Reserve's 10-2 hold kept a December hike heavily priced, with spot gold near $4,057 and silver near $53.72 in late US trading. A Reuters poll of analysts trimmed the median 2026 gold forecast to $4,495 an ounce but lifted 2027 to about $4,650, with silver seen averaging about $70 in 2026 against about $53 now. On MCX, gold futures eased to ₹1,43,492 per 10 grams and silver to ₹1,95,301 per kilogram, while UBS argues structural buyers should floor gold near $4,000.",
     "points": [
       "Fed holds 3.75-4.00% in a 10-2 vote; Cook and Hammack dissented, preferring a hike.",
       "Spot gold steadied near $4,057 after the decision; silver fell about 1% to near $53.72.",
-      "Markets still price about an 83% chance of a December hike, per the Kitco PM report.",
-      "UBS sees structural buyers flooring gold near $4,000 despite recent ETF outflows.",
-      "MCX gold eased to ₹1,43,492/10 g and silver to ₹1,95,301/kg; festive demand is picking up."
+      "Reuters poll trims 2026 gold median to $4,495 but lifts 2027 to about $4,650.",
+      "Silver forecast to average about $70 in 2026 and $67 in 2027, versus about $53 now.",
+      "MCX gold eased to ₹1,43,492/10 g and silver to ₹1,95,301/kg; UBS sees a floor near $4,000."
     ]
   },
   "trending": [
@@ -24,17 +24,26 @@
       "item_ids": [
         "a5cdd3c237ce7382",
         "246fa52270653c2e",
-        "7bd077f89e45a81a"
+        "460f83ae1d48a9a7"
+      ]
+    },
+    {
+      "title": "Analysts split: 2026 trimmed, 2027 lifted",
+      "summary": "The Reuters poll cut the 2026 gold median to $4,495 but raised 2027 to $4,650, with silver seen far above current levels next year too.",
+      "item_ids": [
+        "1721e1f1ef05af87",
+        "246fa52270653c2e",
+        "6625ba2d14923e2a"
       ]
     },
     {
       "title": "Silver slides faster than gold",
-      "summary": "Silver fell about 1% on the Fed decision and is down sharply on the month, underperforming gold as the gold-silver ratio climbs.",
+      "summary": "Silver fell about 1% on the Fed decision and is down sharply from its January record, underperforming gold as the gold-silver ratio climbs.",
       "item_ids": [
         "a5cdd3c237ce7382",
         "f0965bf9d65918ca",
         "2ec77f9862e83530",
-        "8ebf66350a4fd821"
+        "19d15c234c6aabd3"
       ]
     },
     {
@@ -45,14 +54,6 @@
         "8ebf66350a4fd821",
         "ba04fc0f01dd77c6",
         "66d029c021475a71"
-      ]
-    },
-    {
-      "title": "Oil shock stalls gold's recovery",
-      "summary": "Claims of a strike on a Saudi refinery kept crude elevated, feeding inflation worries that limit gold's rebound despite a softer dollar.",
-      "item_ids": [
-        "11381bb3c63c105f",
-        "dfbfd213beb51f0a"
       ]
     }
   ],
@@ -84,6 +85,30 @@
       "rank": 1
     },
     {
+      "id": "1721e1f1ef05af87",
+      "title": "Gold heads for its biggest yearly drop in 11 years as the Iran war lifts yields and the dollar",
+      "summary": "A Reuters poll of analysts and traders trimmed the 2026 gold median to $4,495 an ounce from $4,509, while lifting the 2027 median to about $4,650. Gold has fallen from a January record near $5,600 to around $4,000, on course for its steepest yearly drop in 11 years, as the Iran war lifted yields and the dollar. Silver is forecast to average about $70 in 2026 and $67 in 2027, against about $53 now.",
+      "url": "https://investinglive.com/commodities/gold-heads-for-its-biggest-yearly-drop-in-11-years-as-the-iran-war-lifts-yields-and-the-dollar/",
+      "source": "InvestingLive",
+      "source_domain": "investinglive.com",
+      "publisher_id": "investinglive",
+      "published_at": "2026-10-28T22:41:36Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "silver",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 2
+    },
+    {
       "id": "246fa52270653c2e",
       "title": "UBS sees limited gold downside as three demand pillars set a floor near $4,000",
       "summary": "UBS sees limited downside for gold from around $4,000 an ounce, arguing that strong central-bank buying, robust Chinese demand and worries over public debt should put a floor under prices even after gold ETFs saw net outflows last week.",
@@ -104,30 +129,33 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 2
+      "rank": 3
     },
     {
-      "id": "7bd077f89e45a81a",
-      "title": "Gold (XAU/USD) Price Forecast: Bearish Trend Faces Critical Test",
-      "summary": "Gold tested a higher high near $4,082 and a higher low near $4,028 on Wednesday, but sellers remain in control, FXEmpire's technical read says, with converging trendlines setting up a decisive test in the coming sessions.",
-      "url": "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-bearish-trend-faces-critical-test-1641153",
+      "id": "460f83ae1d48a9a7",
+      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Pulls Back As Traders Prepare For Fed Decision",
+      "summary": "Gold pulled back as traders positioned ahead of the Fed decision, with the 2-year Treasury yield above 4.76% and the 10-year near 5.00%, FXEmpire's technical read says. Support sits at $4,000–$4,020, with $3,890–$3,910 below; a move above $4,050 targets $4,100, then $4,160–$4,180. Rising oil on worries over renewed US-Israel operations against Iran after the midterms also weighed.",
+      "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-pulls-back-as-traders-prepare-for-fed-decision-2-1641084",
       "source": "FXEmpire",
       "source_domain": "fxempire.com",
       "publisher_id": "fxempire",
-      "published_at": "2026-10-28T20:55:00Z",
+      "published_at": "2026-10-28T23:52:14Z",
       "image_url": null,
       "image_kind": "none",
       "tags": [
         "gold",
+        "silver",
+        "fed",
         "global",
-        "fed"
+        "comex"
       ],
       "category": "global",
       "metals": [
-        "gold"
+        "gold",
+        "silver"
       ],
       "breaking": false,
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "afb23f61ff0c865d",
@@ -149,32 +177,6 @@
       "category": "global",
       "metals": [
         "gold"
-      ],
-      "breaking": false,
-      "rank": 4
-    },
-    {
-      "id": "11381bb3c63c105f",
-      "title": "Gold recovery stalls as Saudi refinery attack claims lift crude, silver retreats - Kitco AM Report",
-      "summary": "Gold gave back part of Tuesday's recovery as claims of a strike on Saudi Arabia's largest refinery pushed crude higher, reviving worries that oil-led inflation could keep the Fed hawkish. Spot gold traded near $4,054.60, down 0.16%; silver slipped 0.40% to about $54.20. Traders still expect a Fed hold on Wednesday, with an ~84% chance of a December hike priced in.",
-      "url": "https://www.kitco.com/news/article/2026-10-28/gold-recovery-stalls-saudi-refinery-attack-claims-lift-crude-silver",
-      "source": "Kitco",
-      "source_domain": "kitco.com",
-      "publisher_id": "kitco",
-      "published_at": "2026-10-28T13:07:59Z",
-      "image_url": "https://image-api.prod.kitco.com/image/8329ee1b-e903-4905-90ce-ccd6fe5d1c38.jpeg?top=0.19459459459459&left=0&width=1024&height=575.61081081081&scale_width=1920&token=80c911a6b7d5c563ef2f3f564b8a522d9e41cb6eb3ee8936ae57fc4a8aba495c",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "fed",
-        "global",
-        "comex"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
       ],
       "breaking": false,
       "rank": 5
@@ -203,30 +205,6 @@
       "rank": 6
     },
     {
-      "title": "Gold’s Rebound Needs 2 Things — A Fed Catalyst and a $4,106 Breakout",
-      "summary": "Investing.com's analysis argues gold's rebound needs two things: a catalyst from the Federal Reserve's decision and a sustained break above $4,106. The metal held above $4,000 into the announcement, but without both, the recovery risks stalling near recent resistance.",
-      "url": "https://www.investing.com/analysis/golds-rebound-needs-2-things--a-fed-catalyst-and-a-4106-breakout-200690427",
-      "source": "Investing.com",
-      "source_domain": "investing.com",
-      "publisher_id": "investing",
-      "published_at": "2026-10-28T15:37:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "fed",
-        "comex",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "id": "31ad8cb18fbeff4e",
-      "breaking": false,
-      "rank": 7
-    },
-    {
       "id": "1181bc196093e50e",
       "title": "Gold futures decline to ₹1.43 lakh/10 gram on weak spot demand",
       "summary": "Gold futures on the MCX fell ₹646, or 0.45%, to ₹1,43,492 per 10 grams for December delivery on Wednesday as weaker spot demand weighed, in a turnover of 699 lots. Globally, gold futures declined 0.72% to $4,030.95 an ounce in New York.",
@@ -247,7 +225,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 7
     },
     {
       "id": "8ebf66350a4fd821",
@@ -270,7 +248,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 8
     },
     {
       "id": "ba04fc0f01dd77c6",
@@ -293,30 +271,51 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 9
     },
     {
-      "id": "dfbfd213beb51f0a",
-      "title": "Elevated oil prices keep up heat on rupee, traders await cues from Fed",
-      "summary": "Elevated crude oil prices kept pressure on the rupee on Wednesday, with traders cautious ahead of the Federal Reserve's policy decision later in the day. The Fed's guidance is being watched for cues on the dollar and interest rates, which in turn feed into domestic bullion prices.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/elevated-oil-prices-keep-up-heat-on-rupee-traders-await-cues-from-fed/articleshow/135261558.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "publisher_id": "economic-times",
-      "published_at": "2026-10-28T10:29:45Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/dfbfd213beb51f0a.jpg",
+      "id": "6625ba2d14923e2a",
+      "title": "Can silver price hit ₹2.84 lakh/kg as rates in free fall ahead of 2026 Dhanteras, Diwali? Levels, target, stop loss",
+      "summary": "MCX silver fell more than 2% to about ₹1,91,516 per kg on Tuesday as a stronger dollar, Fed uncertainty and oil-linked inflation worries weighed, with spot silver down 2.1% to $52.77 an ounce. Analysts cited in the piece put key MCX support near ₹1.90 lakh and resistance near ₹2.02 lakh, and a longer-term view cited for the second half of 2027 puts silver at $75–$80 an ounce.",
+      "url": "https://www.livemint.com/market/commodities/can-silver-price-hit-rs-2-84-lakh-kg-as-rates-in-free-fall-ahead-of-2026-dhanteras-diwali-levels-target-stop-loss-11793088097843.html",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "publisher_id": "mint",
+      "published_at": "2026-10-27T08:44:42Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/6625ba2d14923e2a.jpg",
       "image_kind": "photo",
       "tags": [
-        "gold",
         "silver",
-        "rupee",
-        "fed",
-        "global"
+        "mcx",
+        "india",
+        "fed"
       ],
       "category": "mcx",
       "metals": [
-        "gold",
         "silver"
+      ],
+      "breaking": false,
+      "rank": 10
+    },
+    {
+      "id": "119cfd640acd4412",
+      "title": "Dhanteras 2026: NSE's Electronic Gold Receipts trading crosses ₹93 crore; What investors should know about costs and liquidity",
+      "summary": "NSE Electronic Gold Receipts have recorded cumulative traded value of about ₹93.30 crore, with over 5,900 units traded by Oct 16, 2026, per NSE's October 2026 Market Pulse report cited by Upstox. EGRs, launched in May 2026, give ownership of physical gold held in SEBI-accredited vaults and trade electronically. Turnover alone does not show how easily investors can buy or sell at good prices.",
+      "url": "https://upstox.com/news/personal-finance/investing/dhanteras-2026-nse-electronic-gold-receipts-egr-gold-market-crosses-93-crore-what-investors-need-to-know-about-costs-and-liquidity/article-202493/",
+      "source": "Upstox",
+      "source_domain": "upstox.com",
+      "publisher_id": "upstox",
+      "published_at": "2026-10-28T02:12:59Z",
+      "image_url": "https://assets.upstox.com/content/assets/images/news/gold-egr-nse-dhanteras.webp",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "mcx",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold"
       ],
       "breaking": false,
       "rank": 11
@@ -345,77 +344,6 @@
       "rank": 12
     },
     {
-      "id": "4c2f5c5929f6e029",
-      "title": "Gold Prices Crash Over Rs 3,000 In 10 Days, Fall Near Rs 1.42 Lakh As US Fed Decision Nears",
-      "summary": "MCX gold futures for December delivery fell to an intraday low of ₹1,42,216 per 10 grams on October 27, trading at ₹1,42,460 around 1:09 p.m., down ₹613 or 0.43%. The contract has fallen ₹3,632 from its October 14 close of ₹1,45,848 as traders positioned ahead of the US Federal Reserve's decision.",
-      "url": "https://www.ndtvprofit.com/markets/gold-prices-crash-over-rs-3-000-in-10-days-fall-near-rs-1-42-lakh-as-us-fed-decision-nears-12241803",
-      "source": "NDTV Profit",
-      "source_domain": "ndtvprofit.com",
-      "publisher_id": "ndtv-profit",
-      "published_at": "2026-10-27T08:33:06Z",
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "mcx",
-        "fed",
-        "india"
-      ],
-      "breaking": false,
-      "image_url": null,
-      "image_kind": "none",
-      "rank": 13
-    },
-    {
-      "id": "6625ba2d14923e2a",
-      "title": "Can silver price hit ₹2.84 lakh/kg as rates in free fall ahead of 2026 Dhanteras, Diwali? Levels, target, stop loss",
-      "summary": "MCX silver fell more than 2% to about ₹1,91,516 per kg on Tuesday as a stronger dollar, Fed uncertainty and oil-linked inflation worries weighed, with spot silver down 2.1% to $52.77 an ounce. Analysts cited in the piece put key MCX support near ₹1.90 lakh and resistance near ₹2.02 lakh, and a longer-term view cited for the second half of 2027 puts silver at $75–$80 an ounce.",
-      "url": "https://www.livemint.com/market/commodities/can-silver-price-hit-rs-2-84-lakh-kg-as-rates-in-free-fall-ahead-of-2026-dhanteras-diwali-levels-target-stop-loss-11793088097843.html",
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "publisher_id": "mint",
-      "published_at": "2026-10-27T08:44:42Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/6625ba2d14923e2a.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "silver",
-        "mcx",
-        "india",
-        "fed"
-      ],
-      "category": "mcx",
-      "metals": [
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 14
-    },
-    {
-      "id": "119cfd640acd4412",
-      "title": "Dhanteras 2026: NSE's Electronic Gold Receipts trading crosses ₹93 crore; What investors should know about costs and liquidity",
-      "summary": "NSE Electronic Gold Receipts have recorded cumulative traded value of about ₹93.30 crore, with over 5,900 units traded by Oct 16, 2026, per NSE's October 2026 Market Pulse report cited by Upstox. EGRs, launched in May 2026, give ownership of physical gold held in SEBI-accredited vaults and trade electronically. Turnover alone does not show how easily investors can buy or sell at good prices.",
-      "url": "https://upstox.com/news/personal-finance/investing/dhanteras-2026-nse-electronic-gold-receipts-egr-gold-market-crosses-93-crore-what-investors-need-to-know-about-costs-and-liquidity/article-202493/",
-      "source": "Upstox",
-      "source_domain": "upstox.com",
-      "publisher_id": "upstox",
-      "published_at": "2026-10-28T02:12:59Z",
-      "image_url": "https://assets.upstox.com/content/assets/images/news/gold-egr-nse-dhanteras.webp",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "mcx",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 15
-    },
-    {
       "id": "f0965bf9d65918ca",
       "title": "Silver Price Forecast: XAG/USD falls to near $54.00 due to higher oil prices",
       "summary": "Silver slipped back toward $54 an ounce in Asian trading on Wednesday after a modest rebound, as rising crude prices, lifted by Israel's tight election outcome, revived inflation worries ahead of the Federal Reserve's decision later in the day. Markets priced a roughly 93% chance the Fed holds rates at 3.75-4.00%, with traders watching Chair Warsh's remarks for clues on a December move.",
@@ -437,31 +365,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 16
-    },
-    {
-      "title": "Gold Price Forecast: XAU/USD drops as oil price rebounds, Fed's policy eyed",
-      "summary": "Gold slipped 0.3% to near $4,050 in Asian trade on Wednesday as oil prices bounced back after a two-day correction, with WTI near $100.50. FXStreet notes the metal faces high volatility ahead of the Federal Reserve's policy announcement at 18:00 GMT, with a firmer dollar and Treasury yields back above 5% also weighing.",
-      "url": "https://www.fxstreet.com/analysis/gold-price-forecast-xau-usd-drops-as-oil-price-rebounds-feds-policy-eyed-202610280334",
-      "source": "FXStreet",
-      "source_domain": "fxstreet.com",
-      "publisher_id": "fxstreet",
-      "published_at": "2026-10-28T03:34:22Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/f34bb730d158efe1.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "comex",
-        "fed",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "id": "f34bb730d158efe1",
-      "rank": 17
+      "rank": 13
     },
     {
       "id": "2ec77f9862e83530",
@@ -485,7 +389,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 18
+      "rank": 14
     },
     {
       "id": "19d15c234c6aabd3",
@@ -509,7 +413,29 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 19
+      "rank": 15
+    },
+    {
+      "id": "34361fbcc486e7de",
+      "title": "Agnico Eagle beats earnings expectations as higher gold prices offset rising mining costs",
+      "summary": "Canada's largest gold producer beat expectations in the third quarter of 2026, reporting adjusted net income of $1.324 billion, or $2.62 a share, versus a $2.56 consensus and up 21.3% from a year earlier. A realized gold price of $4,264 an ounce, up 22.7%, offset output down 6.1% to 814,012 ounces and all-in sustaining costs up nearly 24% to $1,648 an ounce. Free cash flow was $852 million.",
+      "url": "https://www.kitco.com/news/article/2026-10-28/agnico-eagle-beats-earnings-expectations-higher-gold-prices-offset-rising",
+      "source": "Kitco",
+      "source_domain": "kitco.com",
+      "publisher_id": "kitco",
+      "published_at": "2026-10-28T22:19:32Z",
+      "image_url": "https://image-api.prod.kitco.com/image/7f67f1b8-7b4b-4ec2-bcbd-3a49019df1e1.jpeg?top=0.1902027027027&left=0&width=1000&height=562.61959459459&scale_width=1920&token=5f7bd2c04dd4c7cd1e8a6dca0ba8a4d2a40c30ce2c00b7a5f8f8d1ec0bafbf",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 16
     },
     {
       "id": "f4d31d73e8061072",
@@ -531,7 +457,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 20
+      "rank": 17
     },
     {
       "id": "66d029c021475a71",
@@ -554,7 +480,7 @@
       "breaking": false,
       "image_url": null,
       "image_kind": "none",
-      "rank": 21
+      "rank": 18
     },
     {
       "id": "c126034f28016614",
@@ -578,7 +504,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 22
+      "rank": 19
     },
     {
       "id": "91684212e3fa3d82",
@@ -601,7 +527,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 23
+      "rank": 20
     }
   ]
 }
