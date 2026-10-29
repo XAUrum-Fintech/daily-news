@@ -1,56 +1,59 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-29T18:00Z",
-  "generated_at": "2026-10-29T18:15:49Z",
+  "edition_id": "2026-10-29T20:00Z",
+  "generated_at": "2026-10-29T20:15:41Z",
   "window": {
-    "from": "2026-10-29T16:00:00Z",
-    "to": "2026-10-29T18:00:00Z"
+    "from": "2026-10-29T18:00:00Z",
+    "to": "2026-10-29T20:00:00Z"
   },
   "insights": {
-    "headline": "Hot US GDP and PCE data push gold toward $4,000 as December Fed hike odds top 80%",
-    "summary": "US third-quarter GDP grew 3.4% annualized, beating forecasts, while September PCE inflation ran at 3.6% (core 3.1%), cementing bets on a December Fed rate hike after the 10-2 hold. Spot gold slipped back toward $4,000 and silver fell ~3% to fresh year-to-date lows near $52.30. On MCX, December gold eased 0.28% to ₹1,43,305 per 10 grams and silver 1.18% to ₹1,92,025 per kg on Karwa Chauth, with Dhanteras (Nov 6) and Diwali (Nov 8) in focus.",
+    "headline": "Strong US GDP and a hawkish Fed hold pin gold near $4,000 as Diwali nears",
+    "summary": "US third-quarter GDP grew 3.4% annualized and September PCE inflation ran at 3.6%, cementing bets on a December Fed hike after the 10-2 hold and pinning spot gold near $4,000; TD Securities sees a $3,900–$4,250 range into year-end. Fed Chair Warsh also announced fewer yearly rate decisions and a retreat from forward guidance, which analysts warn could raise Treasury volatility. In India, MCX December gold futures edged up 0.07% to ₹1,43,807 per 10 grams on firm spot demand with Dhanteras and Diwali buying in focus, even as jewellers hold off fresh buying in hopes of lower prices.",
     "points": [
-      "US Q3 GDP grew 3.4% annualized vs 3.2% expected; September PCE was 3.6% YoY, core 3.1% — well above the Fed's 2% target.",
-      "Markets price roughly 80% odds of a December hike after Governors Cook and Hammack dissented for a hike at the 10-2 hold.",
-      "TDS's Bart Melek sees gold stuck in a $3,900–$4,250 range through year-end, with silver between $50 and $55.",
-      "MCX: December gold at ₹1,43,305/10g (-0.28%), silver at ₹1,92,025/kg (-1.18%); retail 24K gold near ₹1,44,597/10g.",
-      "Silver's RSI near 28 signals oversold conditions; $50 is the next major support if the decline extends."
+      "US Q3 GDP grew 3.4% annualized vs 3.2% expected; September PCE was 3.6% YoY, core 3.1% — well above the Fed’s 2% target.",
+      "Markets price roughly an 80% chance of a December rate hike after the Fed’s 10-2 hold; the 10-year Treasury yield sits near 5%.",
+      "TD Securities’ Bart Melek sees gold vulnerable in a $3,900–$4,250 range into year-end, and silver stuck between $50 and $55.",
+      "Warsh’s ‘forward silence’ — fewer rate decisions, less guidance — could force larger rate moves and add Treasury volatility.",
+      "MCX December gold rose 0.07% to ₹1,43,807 per 10 grams; the Muhurat session runs Nov 8, 2:05–3:30 PM IST."
     ]
   },
   "trending": [
     {
       "title": "The December hike is the market's base case",
-      "summary": "A 10-2 Fed hold with two hike dissents, a 3.4% GDP beat and hot PCE have markets pricing ~80%+ odds of a December hike. TDS's Melek expects gold capped in a $3,900–$4,250 range into year-end.",
+      "summary": "Hot GDP/PCE data and a hawkish hold have markets pricing ~80% odds of a December hike, and Warsh's dovish tone on guidance hasn't dented that view — gold's path now runs through the Fed.",
       "item_ids": [
         "11f4b45fb2088e26",
-        "a3f6a1bd18e67361"
+        "a3f6a1bd18e67361",
+        "7141eab981205efb",
+        "246fa52270653c2e"
       ]
     },
     {
-      "title": "Silver's slide deepens to fresh yearly lows",
-      "summary": "Silver fell ~3% to ~$52.30, its lowest since November 2025, as hike bets kept buyers away. RSI near 28 flags oversold conditions; $50 is the next support. MCX silver slipped to ₹1.92 lakh/kg.",
+      "title": "Gold defends $4,000 — barely",
+      "summary": "Bullion keeps bouncing off the $4,000 line: TD Securities sees a $3,900–$4,250 range into year-end while UBS argues central-bank buying, Chinese demand and debt worries set a floor.",
+      "item_ids": [
+        "11f4b45fb2088e26",
+        "a3f6a1bd18e67361",
+        "246fa52270653c2e",
+        "eb08ba6b793182aa"
+      ]
+    },
+    {
+      "title": "Silver tests the year's lows",
+      "summary": "Silver slid ~3% to fresh year-to-date lows near $52.32 with RSI near 28 and bears eyeing $50, while industrial demand holds up modestly against a firm dollar and high real yields.",
       "item_ids": [
         "d629ab2f8d981d78",
         "e75d51400279b675"
       ]
     },
     {
-      "title": "Festive buying season meets a price dip",
-      "summary": "Karwa Chauth buying coincided with lower MCX prices; Dhanteras (Nov 6) and Diwali (Nov 8) are next. The Fed pause gives buyers breathing room, though jewellers are holding off on fresh buying.",
+      "title": "Festive season meets a price dip",
+      "summary": "The Fed hold may keep gold range-bound with domestic discounts near $2/oz — a window for festive buyers — but jewellers are still waiting for lower prices as MCX readies the Nov 8 Muhurat session.",
       "item_ids": [
-        "260bf1b10f1989c3",
         "2c9db0e70d59681f",
-        "7895f579dd8db67c"
-      ]
-    },
-    {
-      "title": "India demand signals stay mixed",
-      "summary": "Jewellers are pausing purchases on price-drop bets even as Dhanteras EGR trading crossed ₹93 crore, gold-loan stress is rising, and a SAT ruling set aside a ₹1.49 crore MCX penalty on Ventura.",
-      "item_ids": [
         "ba04fc0f01dd77c6",
-        "119cfd640acd4412",
-        "f4d31d73e8061072",
-        "288f1093d83fc4da"
+        "7895f579dd8db67c",
+        "4aeb86f61f9dcef9"
       ]
     }
   ],
@@ -109,32 +112,30 @@
       ],
       "breaking": false,
       "related_urls": [
-        "https://www.investing.com/analysis/golds-recovery-faces-a-test-as-markets-price-in-a-december-fed-rate-hike-200690502"
+        "https://www.investing.com/analysis/golds-recovery-faces-a-test-as-markets-price-in-a-december-fed-rate-hike-200690502",
+        "https://www.indexbox.io/blog/gold-holds-above-4000-as-fed-stays-hawkish-td-securities-sees-39004250-range/"
       ]
     },
     {
-      "id": "260bf1b10f1989c3",
+      "id": "7141eab981205efb",
       "rank": 3,
-      "title": "Gold, silver rates today, October 29: Gold falls, silver extends losses on Karwa Chauth; Dhanteras, Diwali in focus",
-      "summary": "December gold futures on MCX fell 0.28% to ₹1,43,305 per 10 grams and silver dropped 1.18% to ₹1,92,025 per kg on Karwa Chauth, a traditional buying day. Retail 24-karat gold stood near ₹1,44,597 per 10 grams, while silver of 999 purity was around ₹1,96,734 per kg. Dhanteras falls on November 6 and Diwali on November 8.",
-      "url": "https://upstox.com/news/personal-finance/commodities/gold-silver-rates-today-october-29-gold-falls-silver-extends-losses-on-karwa-chauth-dhanteras-diwali-in-focus/article-202638/",
-      "source": "Upstox",
-      "source_domain": "upstox.com",
-      "publisher_id": "upstox",
-      "published_at": "2026-10-29T09:48:11Z",
-      "image_url": "https://assets.upstox.com/content/assets/images/news/gold-silver-price-29-october.webp",
+      "title": "Warsh’s ‘Forward Silence’ Risks Bigger Treasury Market Swings",
+      "summary": "Fed Chair Kevin Warsh said the Fed will cut yearly rate decisions from eight to six and retreat from forward guidance — a ‘forward silence’ era, per JPMorgan’s Kerry Craig. Analysts warn this could force larger rate moves, raise odds of inter-meeting action, and add volatility to the $32 trillion Treasury market. Near-term impact was muted: short-dated Treasuries rallied on Warsh’s dovish tone.",
+      "url": "https://www.livemint.com/market/warshs-forward-silence-risks-bigger-treasury-market-swings-11793303519987.html",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "publisher_id": "mint",
+      "published_at": "2026-10-29T19:51:59Z",
+      "image_url": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
       "image_kind": "photo",
       "tags": [
         "gold",
-        "silver",
-        "mcx",
-        "india",
-        "jewellery"
+        "fed",
+        "global"
       ],
-      "category": "mcx",
+      "category": "global",
       "metals": [
-        "gold",
-        "silver"
+        "gold"
       ],
       "breaking": false
     },
@@ -329,32 +330,8 @@
       "rank": 11
     },
     {
-      "id": "1721e1f1ef05af87",
-      "title": "Gold heads for its biggest yearly drop in 11 years as the Iran war lifts yields and the dollar",
-      "summary": "A Reuters poll of analysts and traders trimmed the 2026 gold median to $4,495 an ounce from $4,509, while lifting the 2027 median to about $4,650. Gold has fallen from a January record near $5,600 to around $4,000, on course for its steepest yearly drop in 11 years, as the Iran war lifted yields and the dollar. Silver is forecast to average about $70 in 2026 and $67 in 2027, against about $53 now.",
-      "url": "https://investinglive.com/commodities/gold-heads-for-its-biggest-yearly-drop-in-11-years-as-the-iran-war-lifts-yields-and-the-dollar/",
-      "source": "InvestingLive",
-      "source_domain": "investinglive.com",
-      "publisher_id": "investinglive",
-      "published_at": "2026-10-28T22:41:36Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "silver",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 12
-    },
-    {
       "id": "eb08ba6b793182aa",
-      "rank": 13,
+      "rank": 12,
       "title": "China's Gold Imports Via Hong Kong Picked Up In September",
       "summary": "Mainland China's net gold imports via Hong Kong rose over 28% in September to 74.99 tonnes, a five-month high on pre-Golden Week restocking, Hong Kong Census data showed. StoneX's Rhona O'Connell said the jump likely reflected holiday restocking; the inflow offset a 6.6% September slide in spot gold on fresh December Fed-hike bets.",
       "url": "https://finimize.com/content/chinas-gold-imports-via-hong-kong-picked-up-in-september",
@@ -376,7 +353,7 @@
     },
     {
       "id": "7895f579dd8db67c",
-      "rank": 14,
+      "rank": 13,
       "title": "KISNA offers 105% old-gold exchange value and 100% off making charges for Dhanteras and Diwali",
       "summary": "KISNA Diamond & Gold Jewellery is wooing festive buyers for Dhanteras and Diwali: 105% exchange value on old gold towards diamond jewellery, up to 100% off making charges on select jewellery, and double gold rate protection with 25% down payment. Its 'Shop Sparkle Win '26' draw across 218 cities offers 823 vehicles — 247 cars and 576 scooters — with the final draw in early December 2026.",
       "url": "https://the9thestate.com/business/kisna-offers-up-to-105-percent-value-on-old-gold-100-percent-off-making-charges-for-dhanteras-diwali",
@@ -399,28 +376,6 @@
       "related_urls": []
     },
     {
-      "id": "f4d31d73e8061072",
-      "title": "Gold loan stress rising: How to avoid a debt trap and manage repayments",
-      "summary": "Repayment stress on gold loans is rising, Business Standard reports: Bajaj Finance has flagged delays, and Piramal Finance has raised concerns about lending to borrowers overdue elsewhere. Under an RBI rule in force since April 1, 2026, bullet gold loans for consumption are capped at 12 months, with accrued interest to be cleared before renewal or pledged gold could face auction.",
-      "url": "https://www.business-standard.com/markets/news/gold-loan-stress-rising-how-to-avoid-a-debt-trap-and-manage-repayments-126102800003_1.html",
-      "source": "Business Standard",
-      "source_domain": "business-standard.com",
-      "publisher_id": "business-standard",
-      "published_at": "2026-10-27T18:38:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/f4d31d73e8061072.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 15
-    },
-    {
       "title": "SAT sets aside ₹1.49 crore MCX penalty on Ventura over invalid order",
       "summary": "The Securities Appellate Tribunal set aside a ₹1.49 crore penalty that MCX had imposed on Ventura, ruling the order invalid, Business Standard reported. The decision removes a regulatory overhang for the broker in India's commodity derivatives market.",
       "url": "https://www.business-standard.com/markets/news/sat-sets-aside-1-49-crore-mcx-penalty-on-ventura-over-invalid-order-126102801676_1.html",
@@ -441,7 +396,7 @@
       ],
       "id": "288f1093d83fc4da",
       "breaking": false,
-      "rank": 16
+      "rank": 14
     }
   ]
 }
