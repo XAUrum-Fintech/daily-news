@@ -1,18 +1,18 @@
-# Gold & Silver for Indian buyers · 2026-10-29T00:00Z
+# Gold & Silver for Indian buyers · 2026-10-29T02:00Z
 
 > Fed hold leaves December hike priced; analysts trim 2026 gold view, lift 2027
 
-The Federal Reserve's 10-2 hold kept a December hike heavily priced, with spot gold near $4,057 and silver near $53.72 in late US trading. A Reuters poll of analysts trimmed the median 2026 gold forecast to $4,495 an ounce but lifted 2027 to about $4,650, with silver seen averaging about $70 in 2026 against about $53 now. On MCX, gold futures eased to ₹1,43,492 per 10 grams and silver to ₹1,95,301 per kilogram, while UBS argues structural buyers should floor gold near $4,000.
+The Federal Reserve's 10-2 hold kept a December hike heavily priced, with spot gold near $4,057 and silver near $53.72 in late US trading, while FXEmpire's technical read says sellers remain in control with last week's $3,975 low as the pivot. A Reuters poll of analysts trimmed the median 2026 gold forecast to $4,495 an ounce but lifted 2027 to about $4,650, with silver seen averaging about $70 in 2026 against about $53 now. On MCX, gold futures eased to ₹1,43,492 per 10 grams and silver to ₹1,95,301 per kilogram, while UBS argues structural buyers should floor gold near $4,000.
 
 - Fed holds 3.75-4.00% in a 10-2 vote; Cook and Hammack dissented, preferring a hike.
 - Spot gold steadied near $4,057 after the decision; silver fell about 1% to near $53.72.
+- FXEmpire: sellers still in control; $3,975 is the pivot, $3,942 June low below it.
 - Reuters poll trims 2026 gold median to $4,495 but lifts 2027 to about $4,650.
-- Silver forecast to average about $70 in 2026 and $67 in 2027, versus about $53 now.
 - MCX gold eased to ₹1,43,492/10 g and silver to ₹1,95,301/kg; UBS sees a floor near $4,000.
 
 ## Trending
-- **Fed hold keeps December hike in play**: The Fed's 10-2 hold left a December hike heavily priced, keeping gold pinned near $4,057 while technical sellers stay in control. (stories 1, 3, 4)
-- **Analysts split: 2026 trimmed, 2027 lifted**: The Reuters poll cut the 2026 gold median to $4,495 but raised 2027 to $4,650, with silver seen far above current levels next year too. (stories 2, 3, 10)
+- **Fed hold keeps December hike in play**: The Fed's 10-2 hold left a December hike heavily priced, keeping gold pinned near $4,057 while technical sellers stay in control. (stories 1, 4, 3)
+- **Analysts split: 2026 trimmed, 2027 lifted**: The Reuters poll cut the 2026 gold median to $4,495 but raised 2027 to $4,650, with silver seen far above current levels next year too. (stories 2, 4, 10)
 - **Silver slides faster than gold**: Silver fell about 1% on the Fed decision and is down sharply from its January record, underperforming gold as the gold-silver ratio climbs. (stories 1, 13, 14, 15)
 - **MCX metals ease into Dhanteras**: MCX gold and silver futures eased on weak spot demand, yet jewellers report festive buying interest picking up as prices cool. (stories 7, 8, 9, 18)
 
@@ -21,10 +21,10 @@ The Federal Reserve's 10-2 hold kept a December hike heavily priced, with spot g
    Spot gold steadied near $4,057 an ounce in late US trading after the Federal Reserve held rates at 3.75-4.00% in a 10-2 vote, while silver slipped about 1% to near $53.72. Governor Lisa Cook and Cleveland Fed president Beth Hammack dissented, preferring an immediate hike, and markets still priced about an 83% chance of a December increase.
 2. [Gold heads for its biggest yearly drop in 11 years as the Iran war lifts yields and the dollar](https://investinglive.com/commodities/gold-heads-for-its-biggest-yearly-drop-in-11-years-as-the-iran-war-lifts-yields-and-the-dollar/) — *InvestingLive*, 2026-10-28T22:41:36Z
    A Reuters poll of analysts and traders trimmed the 2026 gold median to $4,495 an ounce from $4,509, while lifting the 2027 median to about $4,650. Gold has fallen from a January record near $5,600 to around $4,000, on course for its steepest yearly drop in 11 years, as the Iran war lifted yields and the dollar. Silver is forecast to average about $70 in 2026 and $67 in 2027, against about $53 now.
-3. [UBS sees limited gold downside as three demand pillars set a floor near $4,000](https://investinglive.com/commodities/ubs-sees-limited-gold-downside-as-three-demand-pillars-set-a-floor-near-4-000/) — *InvestingLive*, 2026-10-28T21:06:00Z
+3. [Gold (XAU/USD) Price Forecast: Bearish Trend Faces Critical Test](https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-bearish-trend-faces-critical-test-1641153) — *FXEmpire*, 2026-10-28T20:55:00Z
+   FXEmpire's technical read says sellers remain in control despite gold's rebound to a $4,082 high on Wednesday, with converging trendlines setting up a key test. A break above the downtrend line would signal short-term strength, while last week's $3,975 low is the pivot: a drop below it risks a test of the June low near $3,942.
+4. [UBS sees limited gold downside as three demand pillars set a floor near $4,000](https://investinglive.com/commodities/ubs-sees-limited-gold-downside-as-three-demand-pillars-set-a-floor-near-4-000/) — *InvestingLive*, 2026-10-28T21:06:00Z
    UBS sees limited downside for gold from around $4,000 an ounce, arguing that strong central-bank buying, robust Chinese demand and worries over public debt should put a floor under prices even after gold ETFs saw net outflows last week.
-4. [Gold (XAUUSD), Silver, Platinum Forecasts – Gold Pulls Back As Traders Prepare For Fed Decision](https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-pulls-back-as-traders-prepare-for-fed-decision-2-1641084) — *FXEmpire*, 2026-10-28T23:52:14Z
-   Gold pulled back as traders positioned ahead of the Fed decision, with the 2-year Treasury yield above 4.76% and the 10-year near 5.00%, FXEmpire's technical read says. Support sits at $4,000–$4,020, with $3,890–$3,910 below; a move above $4,050 targets $4,100, then $4,160–$4,180. Rising oil on worries over renewed US-Israel operations against Iran after the midterms also weighed.
 5. [Gold Faces a New Test as Oil and Treasury Yields Pull in Opposite Directions](https://www.investing.com/analysis/gold-faces-a-new-test-as-oil-and-treasury-yields-pull-in-opposite-directions-200690456) — *Investing.com*, 2026-10-28T17:16:00Z
    Gold weakened as a jump in crude failed to lift bullion: spot gold fell 0.7% to $4,030.20 an ounce while Brent rose 1.4% to $115.47 after a missile strike on a Saudi refinery. It argues higher oil only helps gold if inflation expectations rise faster than yields; with the 2-year yield at 4.774% and the dollar near 102.37, real yields kept pressure on. Markets expected a Fed hold at 3.75%-4.00%.
 6. [Gold dip draws Asian buyers as North American funds lose cash](https://www.northernminer.com/news/gold-dip-draws-asian-buyers-as-north-american-funds-lose-cash/1003896195/) — *The Northern Miner*, 2026-10-28T14:46:48Z
