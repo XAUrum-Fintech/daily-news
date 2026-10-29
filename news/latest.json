@@ -1,106 +1,79 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-29T05:00Z",
-  "generated_at": "2026-10-29T05:04:14Z",
+  "edition_id": "2026-10-29T06:00Z",
+  "generated_at": "2026-10-29T06:08:22Z",
   "window": {
     "from": "2026-10-29T04:00:00Z",
-    "to": "2026-10-29T05:00:00Z"
+    "to": "2026-10-29T06:00:00Z"
   },
   "insights": {
-    "headline": "Gold steadies near $4,070 after Fed hold as GDP, PCE data due Thursday",
-    "summary": "Gold traded in a $4,039-$4,074 range on Thursday after the Federal Reserve's 10-2 hold at 3.75-4.00%, with COMEX futures up 0.55% to $4,073.70 in early trade and December hike odds at 88%. US Q3 GDP and September PCE data due later in the day are the next catalyst, with $3,975.49 the key support. A Reuters poll trimmed the median 2026 gold forecast to $4,495 an ounce but lifted 2027 to about $4,650. On MCX, gold futures eased to Rs 1,43,492 per 10 grams and silver to Rs 1,95,301 per kilogram, while silver sat near $53.88 ahead of the PCE print.",
+    "headline": "Gold slips after Fed's hawkish hold as traders brace for today's US inflation data",
+    "summary": "Gold slipped to about $4,038 an ounce on Thursday as the Federal Reserve's decision to hold rates at 3.75–4.00% — with two officials voting for a hike — kept December tightening bets alive. Silver fell further to around $53 an ounce, extending its plunge to more than 50% from January's record high. Physical demand offered a counterweight: China's net gold imports via Hong Kong jumped 28% in September to a five-month high, while Indian jewellers are holding off buying, betting prices will drop further ahead of Dhanteras on November 6.",
     "points": [
-      "Fed holds 3.75-4.00% in a 10-2 vote; Cook and Hammack dissented, preferring a hike.",
-      "COMEX gold futures up 0.55% to $4,073.70 in early Thursday trade; silver futures up 0.99% to $54.195.",
-      "US Q3 GDP and September PCE due Thursday; $3,975.49 is the key support below.",
-      "Reuters poll trims 2026 gold median to $4,495 but lifts 2027 to about $4,650.",
-      "MCX gold eased to Rs 1,43,492/10 g and silver to Rs 1,95,301/kg; UBS sees a floor near $4,000."
+      "Fed held rates 3.75–4.00% in a 10-2 vote; markets price ~78% odds of a December hike, awaiting PCE inflation data due 1230 GMT.",
+      "Spot silver trades near $53/oz, down over 50% from January's $117 record, as dollar strength and rate-hike bets weigh on the metal.",
+      "China's September net gold imports via Hong Kong rose 28% to ~75 tonnes, a five-month high on pre-Golden Week restocking.",
+      "MCX gold futures slipped to ₹1.43 lakh/10g and silver to ₹1.95 lakh/kg; India's jewellers are delaying purchases, expecting further falls.",
+      "UBS sees limited gold downside with a floor near $4,000, while J.P. Morgan Private Bank warns of further downside risk before a 2027 rebound."
     ]
   },
   "trending": [
     {
-      "title": "Fed hold keeps December hike in play",
-      "summary": "The 10-2 hold, Cook's surprise dissent and 88% December hike pricing keep tightening, not easing, as the market's base case into Thursday's data.",
+      "title": "Fed's hawkish hold resets the rate trade",
+      "summary": "A 10-2 hold with December-hike odds near 78% keeps bullion pinned; today's PCE inflation print will set the next direction. Forecasts split between a $4,000 floor and deeper downside.",
       "item_ids": [
-        "a5cdd3c237ce7382",
-        "8002fd1922a156cc",
-        "6c02f1b21b04861c"
+        "67975075630e3fd9",
+        "246fa52270653c2e",
+        "24e656bf5415f679"
       ]
     },
     {
-      "title": "Thursday's GDP and PCE prints decide the next move",
-      "summary": "Gold swung between about $4,039 and $4,074 as traders waited on US growth and inflation data, with $3,975.49 the support level to watch.",
+      "title": "Silver's historic collapse",
+      "summary": "Silver has lost more than half its value since January's record, with MCX futures near ₹1.95 lakh/kg, as rate fears compound industrial-demand doubts.",
       "item_ids": [
-        "e927eaada1cf8f77",
-        "8002fd1922a156cc",
-        "bda46563ade915f4"
+        "1181bc196093e50e",
+        "ba04fc0f01dd77c6",
+        "6625ba2d14923e2a"
       ]
     },
     {
-      "title": "Silver lags gold into the PCE print",
-      "summary": "Silver closed at $53.88, down 0.9%, and sits near an 11-month low as a projected 2026 supply deficit offers only a longer-term counterweight.",
+      "title": "Asian physical demand vs price pessimism",
+      "summary": "China's Hong Kong gold imports hit a five-month high while Indian jewellers sit out, betting on cheaper prices before Dhanteras.",
       "item_ids": [
-        "a5cdd3c237ce7382",
-        "bda46563ade915f4",
+        "eb08ba6b793182aa",
+        "906b22837d9ca86a",
         "2ec77f9862e83530"
       ]
     },
     {
-      "title": "MCX metals ease into Dhanteras",
-      "summary": "MCX gold and silver futures eased on weak spot demand while jewellers held back buying, even as Dhanteras demand and EGR trading stayed in focus.",
+      "title": "Dhanteras countdown at lower prices",
+      "summary": "With Dhanteras on November 6, the sharp pullback could revive festive buying; NSE electronic gold receipts crossed ₹93 crore in a single day.",
       "item_ids": [
-        "1181bc196093e50e",
-        "8ebf66350a4fd821",
-        "ba04fc0f01dd77c6",
-        "119cfd640acd4412"
+        "66d029c021475a71",
+        "119cfd640acd4412",
+        "6625ba2d14923e2a"
       ]
     }
   ],
   "items": [
     {
-      "id": "a5cdd3c237ce7382",
-      "title": "Gold steadies, silver falls as Fed holds rates, two officials favor hike",
-      "summary": "Spot gold steadied near $4,057 an ounce in late US trading after the Federal Reserve held rates at 3.75-4.00% in a 10-2 vote, while silver slipped about 1% to near $53.72. Governor Lisa Cook and Cleveland Fed president Beth Hammack dissented, preferring an immediate hike, and markets still priced about an 83% chance of a December increase.",
-      "url": "https://www.kitco.com/news/article/2026-10-28/gold-steadies-silver-falls-fed-holds-rates-two-officials-favor-hike-kitco",
-      "source": "Kitco",
-      "source_domain": "kitco.com",
-      "publisher_id": "kitco",
-      "published_at": "2026-10-28T20:51:50Z",
-      "image_url": "https://image-api.prod.kitco.com/image/5768df25-c265-4c2d-a489-e51917a45667.jpeg?top=0.19459459459459&left=0&width=1024&height=575.61081081081&scale_width=1920&token=445bdc4fb7ee2e21c02415533cd3f2e0b82ff32871ca3f559822d03d4f95d1db",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "fed",
-        "global",
-        "central-banks"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 1
-    },
-    {
-      "id": "6c02f1b21b04861c",
-      "title": "Gold rises above $4,070 an ounce, silver gains nearly 1% after US Fed holds rates",
-      "summary": "Gold and silver rose in early global trade on Thursday, October 29, after the Federal Reserve kept rates unchanged, CNBC TV18 reports. COMEX gold futures traded at $4,073.70 an ounce, up 0.55%, while silver futures rose 0.99% to $54.195. In Delhi, gold had risen Rs 700 to Rs 1.46 lakh per 10 grams on Wednesday while silver was unchanged at Rs 1.98 lakh per kg, traders quoted by PTI said.",
-      "url": "https://www.tradingview.com/news/cnbctv:1ccaf5962094b:0/",
-      "source": "CNBC TV18",
-      "source_domain": "tradingview.com",
-      "publisher_id": "tradingview",
-      "published_at": "2026-10-29T01:44:44Z",
+      "id": "67975075630e3fd9",
+      "rank": 1,
+      "title": "Gold slips as markets assess Fed signals, await US inflation data",
+      "summary": "Spot gold fell 0.7% to $4,038/oz as investors parsed the Fed's hold at 3.75–4.00% and positioned for Thursday's US PCE data. December-hike odds eased to ~78% from 84% though two officials dissented for an immediate rise. Mumbai's Kedia Commodities blamed Middle East uncertainty and pre-data positioning; China's September net gold imports via Hong Kong jumped 28% to a five-month high.",
+      "url": "https://www.reuters.com/world/india/gold-slips-markets-assess-fed-signals-await-us-inflation-data-2026-10-29/",
+      "source": "Reuters",
+      "source_domain": "reuters.com",
+      "publisher_id": "reuters",
+      "published_at": "2026-10-29T04:25:00Z",
       "image_url": null,
       "image_kind": "none",
       "tags": [
         "gold",
         "silver",
         "fed",
-        "global",
-        "comex",
-        "india"
+        "india",
+        "global"
       ],
       "category": "global",
       "metals": [
@@ -109,80 +82,12 @@
       ],
       "breaking": false,
       "related_urls": [
-        "https://news.metal.com/newscontent/104184466-fomc-holds-rates-steady-at-375-4-gold-rebounds-above-4080oz"
-      ],
-      "rank": 2
-    },
-    {
-      "id": "e927eaada1cf8f77",
-      "title": "Gold dips on firmer dollar; US inflation data in focus",
-      "summary": "Spot gold slipped 0.7% to $4,039.26 an ounce in Thursday trading as a firmer dollar weighed, after the Federal Reserve held rates steady and gave little guidance on its next move. Traders awaited US PCE inflation data due later in the day, the Fed's preferred price gauge, with a December rate rise still heavily priced.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-dips-on-firmer-dollar-us-inflation-data-in-focus/articleshow/135286296.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "publisher_id": "economic-times",
-      "published_at": "2026-10-29T02:05:05Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "global",
-        "fed"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 3
-    },
-    {
-      "id": "8002fd1922a156cc",
-      "title": "Gold barely reacts to Fed hold; $3,975 support faces its next test",
-      "summary": "Gold traded around $4,040 on Thursday, showing little lasting reaction to the Federal Reserve's expected hold at 3.75-4.00%, ActionForex reports, after briefly topping $4,070. Governor Lisa Cook's dissent for an immediate hike was the surprise, her first since joining the Board in 2022, and December hike odds are put at 88%. It keeps $3,975.49 as key support, with $3,942.71 below it.",
-      "url": "https://www.actionforex.com/action-insight/market-overview/659088-gold-barely-reacts-to-fed-hold-is-a-break-below-3975-coming/",
-      "source": "ActionForex",
-      "source_domain": "actionforex.com",
-      "publisher_id": "actionforex",
-      "published_at": "2026-10-29T03:01:55Z",
-      "image_url": "https://www.actionforex.com/wp-content/uploads/2024/08/f-gold131.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "fed",
-        "global",
-        "central-banks"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 4
-    },
-    {
-      "id": "bda46563ade915f4",
-      "title": "Silver Braces for PCE Inflation Print as Fed Hold Leaves Rate Risk Alive",
-      "summary": "Silver closed at $53.88 an ounce, down 0.9%, ahead of Thursday's US core PCE inflation print at 8:30 a.m. ET, with the Fed's hold leaving December hike risk alive. Sucden Financial pegged 2026 mine output at 844 million ounces, down 0.3%, and projected a 46-million-ounce deficit; UBS forecast silver at $70 by December 2026.",
-      "url": "https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/silver-braces-for-pce-inflation-print-as-fed-hold-leaves-rate-risk-alive/70426627",
-      "source": "ad-hoc-news",
-      "source_domain": "ad-hoc-news.de",
-      "publisher_id": "ad-hoc-news",
-      "published_at": "2026-10-29T02:50:55Z",
-      "image_url": "https://mdb.ad-hoc-news.de/bild/bild-2834769_1920_1080.webp",
-      "image_kind": "photo",
-      "tags": [
-        "silver",
-        "fed",
-        "global",
-        "central-banks"
-      ],
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 5
+        "https://www.kitco.com/news/article/2026-10-28/gold-steadies-silver-falls-fed-holds-rates-two-officials-favor-hike-kitco",
+        "https://www.tradingview.com/news/cnbctv:1ccaf5962094b:0/",
+        "https://economictimes.indiatimes.com/markets/commodities/news/gold-dips-on-firmer-dollar-us-inflation-data-in-focus/articleshow/135286296.cms",
+        "https://www.actionforex.com/action-insight/market-overview/659088-gold-barely-reacts-to-fed-hold-is-a-break-below-3975-coming/",
+        "https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/silver-braces-for-pce-inflation-print-as-fed-hold-leaves-rate-risk-alive/70426627"
+      ]
     },
     {
       "id": "1721e1f1ef05af87",
@@ -206,7 +111,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 2
     },
     {
       "id": "246fa52270653c2e",
@@ -229,7 +134,52 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 7
+      "rank": 3
+    },
+    {
+      "id": "24e656bf5415f679",
+      "rank": 4,
+      "title": "Peter Spina: JPMorgan strategist sees continued downside risk for gold",
+      "summary": "Yuxuan Tang, head of rates and FX strategy for Asia at J.P. Morgan Private Bank, said gold still faces downside risk on thin liquidity and the chance rates rise further. The bank expects Fed hikes in December and early 2027, lifting 10-year Treasury yields to 5.25–5.5% by mid-year, but sees gold rebounding later as a hedge, targeting $4,500 by mid-2027 and $5,000 by year-end.",
+      "url": "https://tradersunion.com/news/market-voices/show/3995411-jpmorgan-downside-risk-gold/",
+      "source": "Traders Union",
+      "source_domain": "tradersunion.com",
+      "publisher_id": "traders-union",
+      "published_at": "2026-10-28T07:00:00Z",
+      "image_url": "https://files.tradersunion.com/images/twitter-news/goldseek/goldseek_01.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "eb08ba6b793182aa",
+      "rank": 5,
+      "title": "China's Gold Imports Via Hong Kong Picked Up In September",
+      "summary": "Mainland China's net gold imports via Hong Kong rose over 28% in September to 74.99 tonnes, a five-month high on pre-Golden Week restocking, Hong Kong Census data showed. StoneX's Rhona O'Connell said the jump likely reflected holiday restocking; the inflow offset a 6.6% September slide in spot gold on fresh December Fed-hike bets.",
+      "url": "https://finimize.com/content/chinas-gold-imports-via-hong-kong-picked-up-in-september",
+      "source": "Finimize",
+      "source_domain": "finimize.com",
+      "publisher_id": "finimize",
+      "published_at": "2026-10-28T12:00:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/eb08ba6b793182aa.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false
     },
     {
       "title": "Gold dip draws Asian buyers as North American funds lose cash",
@@ -252,7 +202,7 @@
       ],
       "id": "906b22837d9ca86a",
       "breaking": false,
-      "rank": 8
+      "rank": 6
     },
     {
       "id": "2ec77f9862e83530",
@@ -276,7 +226,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 7
     },
     {
       "id": "1181bc196093e50e",
@@ -299,7 +249,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 8
     },
     {
       "id": "8ebf66350a4fd821",
@@ -322,7 +272,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 9
     },
     {
       "id": "ba04fc0f01dd77c6",
@@ -345,7 +295,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 10
     },
     {
       "id": "6625ba2d14923e2a",
@@ -369,7 +319,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 13
+      "rank": 11
     },
     {
       "id": "119cfd640acd4412",
@@ -385,6 +335,51 @@
       "tags": [
         "gold",
         "mcx",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 12
+    },
+    {
+      "id": "66d029c021475a71",
+      "title": "Rs 1 Lakh For Dhanteras Gold: How Much Gold Do You Actually Take Home?",
+      "summary": "At around ₹14,000 per gram, ₹1 lakh buys 6.93 grams as coins or bars once 3% GST takes the per-gram cost to ₹14,420, the piece calculates. As jewellery, 5% making charges plus GST take the per-gram cost to ₹15,141, so the same ₹1 lakh buys about 6.60 grams.",
+      "url": "https://www.ndtvprofit.com/personal-finance/rs-1-lakh-for-dhanteras-gold-how-much-gold-do-you-actually-take-home-12241881",
+      "source": "NDTV Profit",
+      "source_domain": "ndtvprofit.com",
+      "publisher_id": "ndtv-profit",
+      "published_at": "2026-10-27T08:40:39Z",
+      "category": "festive",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "jewellery",
+        "india"
+      ],
+      "breaking": false,
+      "image_url": null,
+      "image_kind": "none",
+      "rank": 13
+    },
+    {
+      "id": "f4d31d73e8061072",
+      "title": "Gold loan stress rising: How to avoid a debt trap and manage repayments",
+      "summary": "Repayment stress on gold loans is rising, Business Standard reports: Bajaj Finance has flagged delays, and Piramal Finance has raised concerns about lending to borrowers overdue elsewhere. Under an RBI rule in force since April 1, 2026, bullet gold loans for consumption are capped at 12 months, with accrued interest to be cleared before renewal or pledged gold could face auction.",
+      "url": "https://www.business-standard.com/markets/news/gold-loan-stress-rising-how-to-avoid-a-debt-trap-and-manage-repayments-126102800003_1.html",
+      "source": "Business Standard",
+      "source_domain": "business-standard.com",
+      "publisher_id": "business-standard",
+      "published_at": "2026-10-27T18:38:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/f4d31d73e8061072.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
         "india"
       ],
       "category": "mcx",
@@ -418,51 +413,6 @@
       "rank": 15
     },
     {
-      "id": "f4d31d73e8061072",
-      "title": "Gold loan stress rising: How to avoid a debt trap and manage repayments",
-      "summary": "Repayment stress on gold loans is rising, Business Standard reports: Bajaj Finance has flagged delays, and Piramal Finance has raised concerns about lending to borrowers overdue elsewhere. Under an RBI rule in force since April 1, 2026, bullet gold loans for consumption are capped at 12 months, with accrued interest to be cleared before renewal or pledged gold could face auction.",
-      "url": "https://www.business-standard.com/markets/news/gold-loan-stress-rising-how-to-avoid-a-debt-trap-and-manage-repayments-126102800003_1.html",
-      "source": "Business Standard",
-      "source_domain": "business-standard.com",
-      "publisher_id": "business-standard",
-      "published_at": "2026-10-27T18:38:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/f4d31d73e8061072.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 16
-    },
-    {
-      "id": "66d029c021475a71",
-      "title": "Rs 1 Lakh For Dhanteras Gold: How Much Gold Do You Actually Take Home?",
-      "summary": "At around ₹14,000 per gram, ₹1 lakh buys 6.93 grams as coins or bars once 3% GST takes the per-gram cost to ₹14,420, the piece calculates. As jewellery, 5% making charges plus GST take the per-gram cost to ₹15,141, so the same ₹1 lakh buys about 6.60 grams.",
-      "url": "https://www.ndtvprofit.com/personal-finance/rs-1-lakh-for-dhanteras-gold-how-much-gold-do-you-actually-take-home-12241881",
-      "source": "NDTV Profit",
-      "source_domain": "ndtvprofit.com",
-      "publisher_id": "ndtv-profit",
-      "published_at": "2026-10-27T08:40:39Z",
-      "category": "festive",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "jewellery",
-        "india"
-      ],
-      "breaking": false,
-      "image_url": null,
-      "image_kind": "none",
-      "rank": 17
-    },
-    {
       "id": "91684212e3fa3d82",
       "title": "RBI sets early redemption price for Sovereign Gold Bond 2020-21 Series I",
       "summary": "The Reserve Bank of India has set the early redemption price for Sovereign Gold Bond 2020-21 Series I at ₹14,159 per unit for the October 28, 2026 redemption date. The price is the simple average of IBJA closing prices for 999-purity gold over October 23, 26 and 27. Holders can redeem early on the interest payment date after the fifth year from issue.",
@@ -483,7 +433,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 18
+      "rank": 16
     }
   ]
 }
