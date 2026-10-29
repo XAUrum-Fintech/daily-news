@@ -1,19 +1,19 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-29T06:00Z",
-  "generated_at": "2026-10-29T06:08:22Z",
+  "edition_id": "2026-10-29T07:00Z",
+  "generated_at": "2026-10-29T07:06:12Z",
   "window": {
-    "from": "2026-10-29T04:00:00Z",
-    "to": "2026-10-29T06:00:00Z"
+    "from": "2026-10-29T06:00:00Z",
+    "to": "2026-10-29T07:00:00Z"
   },
   "insights": {
     "headline": "Gold slips after Fed's hawkish hold as traders brace for today's US inflation data",
-    "summary": "Gold slipped to about $4,038 an ounce on Thursday as the Federal Reserve's decision to hold rates at 3.75–4.00% — with two officials voting for a hike — kept December tightening bets alive. Silver fell further to around $53 an ounce, extending its plunge to more than 50% from January's record high. Physical demand offered a counterweight: China's net gold imports via Hong Kong jumped 28% in September to a five-month high, while Indian jewellers are holding off buying, betting prices will drop further ahead of Dhanteras on November 6.",
+    "summary": "Gold slipped to about $4,038 an ounce on Thursday as the Fed's decision to hold rates at 3.75–4.00% — with two officials voting for a hike — kept December tightening bets alive. Silver fell further to around $53 an ounce, extending its plunge to more than 50% from January's record high. On MCX, gold futures edged up to ₹1,43,807/10g on firm spot demand while silver futures slipped to ₹1,93,652/kg. China's net gold imports via Hong Kong jumped 28% in September to a five-month high, while Indian jewellers are holding off buying ahead of Dhanteras on November 6.",
     "points": [
       "Fed held rates 3.75–4.00% in a 10-2 vote; markets price ~78% odds of a December hike, awaiting PCE inflation data due 1230 GMT.",
       "Spot silver trades near $53/oz, down over 50% from January's $117 record, as dollar strength and rate-hike bets weigh on the metal.",
       "China's September net gold imports via Hong Kong rose 28% to ~75 tonnes, a five-month high on pre-Golden Week restocking.",
-      "MCX gold futures slipped to ₹1.43 lakh/10g and silver to ₹1.95 lakh/kg; India's jewellers are delaying purchases, expecting further falls.",
+      "MCX gold futures rose ₹102 to ₹1,43,807/10g on firm spot demand; silver fell ₹673 to ₹1,93,652/kg.",
       "UBS sees limited gold downside with a floor near $4,000, while J.P. Morgan Private Bank warns of further downside risk before a 2027 rebound."
     ]
   },
@@ -29,9 +29,9 @@
     },
     {
       "title": "Silver's historic collapse",
-      "summary": "Silver has lost more than half its value since January's record, with MCX futures near ₹1.95 lakh/kg, as rate fears compound industrial-demand doubts.",
+      "summary": "Silver has lost more than half its value since January's record, with MCX futures now near ₹1.93 lakh/kg, as rate fears compound industrial-demand doubts.",
       "item_ids": [
-        "1181bc196093e50e",
+        "4c15e4cf51b483dc",
         "ba04fc0f01dd77c6",
         "6625ba2d14923e2a"
       ]
@@ -229,37 +229,14 @@
       "rank": 7
     },
     {
-      "id": "1181bc196093e50e",
-      "title": "Gold futures decline to ₹1.43 lakh/10 gram on weak spot demand",
-      "summary": "Gold futures on the MCX fell ₹646, or 0.45%, to ₹1,43,492 per 10 grams for December delivery on Wednesday as weaker spot demand weighed, in a turnover of 699 lots. Globally, gold futures declined 0.72% to $4,030.95 an ounce in New York.",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-futures-decline-to-143-lakh10-gram-on-weak-spot-demand/article71634821.ece",
+      "id": "4c15e4cf51b483dc",
+      "title": "Silver futures decline to ₹1.93 lakh/kg",
+      "summary": "Silver prices on Thursday fell ₹673, or 0.35%, to ₹1,93,652 per kilogram in futures trade on MCX as participants trimmed positions in a turnover of 985 lots; December contracts bore the brunt. Globally, silver traded 0.95% lower at $53.46 an ounce in New York (PTI via BusinessLine).",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/silver-futures-decline-to-193-lakhkg/article71639207.ece",
       "source": "The Hindu BusinessLine",
       "source_domain": "thehindubusinessline.com",
       "publisher_id": "hindu-businessline",
-      "published_at": "2026-10-28T08:01:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "mcx",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 8
-    },
-    {
-      "id": "8ebf66350a4fd821",
-      "title": "Silver futures decline to ₹1.95 lakh/kg",
-      "summary": "Silver contracts for December delivery fell ₹1,416, or 0.72%, to ₹1,95,301 per kilogram on the MCX as participants trimmed their positions. Globally, silver traded 1.01% lower at $53.87 an ounce in New York.",
-      "url": "https://www.thehindubusinessline.com/markets/gold/silver-futures-decline-to-195-lakhkg/article71635034.ece",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "publisher_id": "hindu-businessline",
-      "published_at": "2026-10-28T08:50:00Z",
+      "published_at": "2026-10-29T06:36:00Z",
       "image_url": null,
       "image_kind": "none",
       "tags": [
@@ -272,6 +249,31 @@
         "silver"
       ],
       "breaking": false,
+      "related_urls": [],
+      "rank": 8
+    },
+    {
+      "id": "b2c715dc4ad9ee03",
+      "title": "Domestic gold futures rise to ₹1.43 lakh/10 gm on firm spot demand",
+      "summary": "Gold futures for December delivery rose ₹102, or 0.07%, to ₹1,43,807 per 10 grams on MCX in a turnover of 811 lots as speculators built fresh positions on firm spot demand, reversing part of Wednesday's ₹646 slide. Globally, gold futures fell 0.58% to $4,043.77 an ounce in New York (PTI via BusinessLine).",
+      "url": "https://www.thehindubusinessline.com/markets/gold/domestic-gold-futures-rise-to-143-lakh10-gm-on-firm-spot-demand/article71639202.ece",
+      "source": "The Hindu BusinessLine",
+      "source_domain": "thehindubusinessline.com",
+      "publisher_id": "hindu-businessline",
+      "published_at": "2026-10-29T05:54:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "mcx",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "related_urls": [],
       "rank": 9
     },
     {

@@ -1,18 +1,18 @@
-# Gold & Silver for Indian buyers · 2026-10-29T06:00Z
+# Gold & Silver for Indian buyers · 2026-10-29T07:00Z
 
 > Gold slips after Fed's hawkish hold as traders brace for today's US inflation data
 
-Gold slipped to about $4,038 an ounce on Thursday as the Federal Reserve's decision to hold rates at 3.75–4.00% — with two officials voting for a hike — kept December tightening bets alive. Silver fell further to around $53 an ounce, extending its plunge to more than 50% from January's record high. Physical demand offered a counterweight: China's net gold imports via Hong Kong jumped 28% in September to a five-month high, while Indian jewellers are holding off buying, betting prices will drop further ahead of Dhanteras on November 6.
+Gold slipped to about $4,038 an ounce on Thursday as the Fed's decision to hold rates at 3.75–4.00% — with two officials voting for a hike — kept December tightening bets alive. Silver fell further to around $53 an ounce, extending its plunge to more than 50% from January's record high. On MCX, gold futures edged up to ₹1,43,807/10g on firm spot demand while silver futures slipped to ₹1,93,652/kg. China's net gold imports via Hong Kong jumped 28% in September to a five-month high, while Indian jewellers are holding off buying ahead of Dhanteras on November 6.
 
 - Fed held rates 3.75–4.00% in a 10-2 vote; markets price ~78% odds of a December hike, awaiting PCE inflation data due 1230 GMT.
 - Spot silver trades near $53/oz, down over 50% from January's $117 record, as dollar strength and rate-hike bets weigh on the metal.
 - China's September net gold imports via Hong Kong rose 28% to ~75 tonnes, a five-month high on pre-Golden Week restocking.
-- MCX gold futures slipped to ₹1.43 lakh/10g and silver to ₹1.95 lakh/kg; India's jewellers are delaying purchases, expecting further falls.
+- MCX gold futures rose ₹102 to ₹1,43,807/10g on firm spot demand; silver fell ₹673 to ₹1,93,652/kg.
 - UBS sees limited gold downside with a floor near $4,000, while J.P. Morgan Private Bank warns of further downside risk before a 2027 rebound.
 
 ## Trending
 - **Fed's hawkish hold resets the rate trade**: A 10-2 hold with December-hike odds near 78% keeps bullion pinned; today's PCE inflation print will set the next direction. Forecasts split between a $4,000 floor and deeper downside. (stories 1, 3, 4)
-- **Silver's historic collapse**: Silver has lost more than half its value since January's record, with MCX futures near ₹1.95 lakh/kg, as rate fears compound industrial-demand doubts. (stories 8, 10, 11)
+- **Silver's historic collapse**: Silver has lost more than half its value since January's record, with MCX futures now near ₹1.93 lakh/kg, as rate fears compound industrial-demand doubts. (stories 8, 10, 11)
 - **Asian physical demand vs price pessimism**: China's Hong Kong gold imports hit a five-month high while Indian jewellers sit out, betting on cheaper prices before Dhanteras. (stories 5, 6, 7)
 - **Dhanteras countdown at lower prices**: With Dhanteras on November 6, the sharp pullback could revive festive buying; NSE electronic gold receipts crossed ₹93 crore in a single day. (stories 13, 12, 11)
 
@@ -31,10 +31,10 @@ Gold slipped to about $4,038 an ounce on Thursday as the Federal Reserve's decis
    Lower prices are drawing physical buyers back in Asia, BMO Capital Markets said, even as North American investors pull money from gold funds. Indian premiums rose to $15 an ounce for the week ended October 23, up from $11, helped by lower prices and Dussehra buying, while a Shanghai contract traded about 430 tonnes, the most since April. Global gold funds saw $1.1 billion of net outflows.
 7. [Silver At 11-Month Low: What's Behind The Precious Metal's Dramatic Reversal?](https://www.outlookbusiness.com/markets/silver-price-crash-whats-behind-the-precious-metals-dramatic-reversal) — *Outlook Business*, 2026-10-27T12:34:00Z
    Silver has fallen more than 53% from its January record near $117 an ounce to just above $53, as a stronger dollar, yields near 5% and tighter Fed expectations outweigh safe-haven support from Middle East tensions, analysts say. On MCX, silver fell from Rs 3,79,983 per kg in January to Rs 1,94,170 on October 23. Analysts flag $50 as the next key support.
-8. [Gold futures decline to ₹1.43 lakh/10 gram on weak spot demand](https://www.thehindubusinessline.com/markets/gold/gold-futures-decline-to-143-lakh10-gram-on-weak-spot-demand/article71634821.ece) — *The Hindu BusinessLine*, 2026-10-28T08:01:00Z
-   Gold futures on the MCX fell ₹646, or 0.45%, to ₹1,43,492 per 10 grams for December delivery on Wednesday as weaker spot demand weighed, in a turnover of 699 lots. Globally, gold futures declined 0.72% to $4,030.95 an ounce in New York.
-9. [Silver futures decline to ₹1.95 lakh/kg](https://www.thehindubusinessline.com/markets/gold/silver-futures-decline-to-195-lakhkg/article71635034.ece) — *The Hindu BusinessLine*, 2026-10-28T08:50:00Z
-   Silver contracts for December delivery fell ₹1,416, or 0.72%, to ₹1,95,301 per kilogram on the MCX as participants trimmed their positions. Globally, silver traded 1.01% lower at $53.87 an ounce in New York.
+8. [Silver futures decline to ₹1.93 lakh/kg](https://www.thehindubusinessline.com/markets/commodities/silver-futures-decline-to-193-lakhkg/article71639207.ece) — *The Hindu BusinessLine*, 2026-10-29T06:36:00Z
+   Silver prices on Thursday fell ₹673, or 0.35%, to ₹1,93,652 per kilogram in futures trade on MCX as participants trimmed positions in a turnover of 985 lots; December contracts bore the brunt. Globally, silver traded 0.95% lower at $53.46 an ounce in New York (PTI via BusinessLine).
+9. [Domestic gold futures rise to ₹1.43 lakh/10 gm on firm spot demand](https://www.thehindubusinessline.com/markets/gold/domestic-gold-futures-rise-to-143-lakh10-gm-on-firm-spot-demand/article71639202.ece) — *The Hindu BusinessLine*, 2026-10-29T05:54:00Z
+   Gold futures for December delivery rose ₹102, or 0.07%, to ₹1,43,807 per 10 grams on MCX in a turnover of 811 lots as speculators built fresh positions on firm spot demand, reversing part of Wednesday's ₹646 slide. Globally, gold futures fell 0.58% to $4,043.77 an ounce in New York (PTI via BusinessLine).
 10. [India jewellers hold off gold buying, betting prices will drop](https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/india-jewellers-hold-off-gold-buying-betting-prices-will-drop/articleshow/135249545.cms) — *Economic Times*, 2026-10-28T02:28:20Z
    Indian jewellers are holding back on gold purchases ahead of the festive season's busiest stretch, betting that the recent price slide has further to run, according to the country's biggest precious metals refiner. The caution comes even as Dhanteras and Diwali approach, with the trade expecting cheaper prices ahead.
 11. [Can silver price hit ₹2.84 lakh/kg as rates in free fall ahead of 2026 Dhanteras, Diwali? Levels, target, stop loss](https://www.livemint.com/market/commodities/can-silver-price-hit-rs-2-84-lakh-kg-as-rates-in-free-fall-ahead-of-2026-dhanteras-diwali-levels-target-stop-loss-11793088097843.html) — *Mint*, 2026-10-27T08:44:42Z
