@@ -1,62 +1,11 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-29T20:00Z",
-  "generated_at": "2026-10-29T20:15:41Z",
+  "edition_id": "2026-10-29T22:00Z",
+  "generated_at": "2026-10-29T22:09:37Z",
   "window": {
-    "from": "2026-10-29T18:00:00Z",
-    "to": "2026-10-29T20:00:00Z"
+    "from": "2026-10-29T20:00:00Z",
+    "to": "2026-10-29T22:00:00Z"
   },
-  "insights": {
-    "headline": "Strong US GDP and a hawkish Fed hold pin gold near $4,000 as Diwali nears",
-    "summary": "US third-quarter GDP grew 3.4% annualized and September PCE inflation ran at 3.6%, cementing bets on a December Fed hike after the 10-2 hold and pinning spot gold near $4,000; TD Securities sees a $3,900–$4,250 range into year-end. Fed Chair Warsh also announced fewer yearly rate decisions and a retreat from forward guidance, which analysts warn could raise Treasury volatility. In India, MCX December gold futures edged up 0.07% to ₹1,43,807 per 10 grams on firm spot demand with Dhanteras and Diwali buying in focus, even as jewellers hold off fresh buying in hopes of lower prices.",
-    "points": [
-      "US Q3 GDP grew 3.4% annualized vs 3.2% expected; September PCE was 3.6% YoY, core 3.1% — well above the Fed’s 2% target.",
-      "Markets price roughly an 80% chance of a December rate hike after the Fed’s 10-2 hold; the 10-year Treasury yield sits near 5%.",
-      "TD Securities’ Bart Melek sees gold vulnerable in a $3,900–$4,250 range into year-end, and silver stuck between $50 and $55.",
-      "Warsh’s ‘forward silence’ — fewer rate decisions, less guidance — could force larger rate moves and add Treasury volatility.",
-      "MCX December gold rose 0.07% to ₹1,43,807 per 10 grams; the Muhurat session runs Nov 8, 2:05–3:30 PM IST."
-    ]
-  },
-  "trending": [
-    {
-      "title": "The December hike is the market's base case",
-      "summary": "Hot GDP/PCE data and a hawkish hold have markets pricing ~80% odds of a December hike, and Warsh's dovish tone on guidance hasn't dented that view — gold's path now runs through the Fed.",
-      "item_ids": [
-        "11f4b45fb2088e26",
-        "a3f6a1bd18e67361",
-        "7141eab981205efb",
-        "246fa52270653c2e"
-      ]
-    },
-    {
-      "title": "Gold defends $4,000 — barely",
-      "summary": "Bullion keeps bouncing off the $4,000 line: TD Securities sees a $3,900–$4,250 range into year-end while UBS argues central-bank buying, Chinese demand and debt worries set a floor.",
-      "item_ids": [
-        "11f4b45fb2088e26",
-        "a3f6a1bd18e67361",
-        "246fa52270653c2e",
-        "eb08ba6b793182aa"
-      ]
-    },
-    {
-      "title": "Silver tests the year's lows",
-      "summary": "Silver slid ~3% to fresh year-to-date lows near $52.32 with RSI near 28 and bears eyeing $50, while industrial demand holds up modestly against a firm dollar and high real yields.",
-      "item_ids": [
-        "d629ab2f8d981d78",
-        "e75d51400279b675"
-      ]
-    },
-    {
-      "title": "Festive season meets a price dip",
-      "summary": "The Fed hold may keep gold range-bound with domestic discounts near $2/oz — a window for festive buyers — but jewellers are still waiting for lower prices as MCX readies the Nov 8 Muhurat session.",
-      "item_ids": [
-        "2c9db0e70d59681f",
-        "ba04fc0f01dd77c6",
-        "7895f579dd8db67c",
-        "4aeb86f61f9dcef9"
-      ]
-    }
-  ],
   "items": [
     {
       "id": "11f4b45fb2088e26",
@@ -163,6 +112,30 @@
       "breaking": false
     },
     {
+      "id": "130cce16912406fe",
+      "rank": 5,
+      "title": "Shanghai Exchange Halts Duty-Free Metal Delivery Against Futures",
+      "summary": "Bloomberg reports the Shanghai Futures Exchange has halted duty-free metal delivery against futures contracts — a market-structure change on one of the world's biggest gold and silver futures venues. Mint republished the story, first published by Bloomberg at 17:54 UTC on Oct 29. Further details on timing and affected contracts were limited at publication.",
+      "url": "https://www.livemint.com/market/shanghai-exchange-halts-duty-free-metal-delivery-against-futures-11793306332325.html",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "publisher_id": "mint",
+      "published_at": "2026-10-29T20:38:51Z",
+      "image_url": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false
+    },
+    {
       "id": "2c9db0e70d59681f",
       "title": "Indian gold buyers get a 'breathing room' from Fed before Diwali, but conditions apply",
       "summary": "The Fed's hold at 3.75-4.00% may keep gold range-bound in the coming weeks, giving Indian buyers breathing room ahead of Diwali, ET reports, as domestic discounts narrow to about $2 an ounce on picking festive demand. But a sustained recovery hinges on December-hike expectations easing from ~78% odds; US inflation data, yields, the dollar/rupee rate and Middle East risk could keep prices volatile.",
@@ -185,125 +158,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 5
-    },
-    {
-      "id": "246fa52270653c2e",
-      "title": "UBS sees limited gold downside as three demand pillars set a floor near $4,000",
-      "summary": "UBS sees limited downside for gold from around $4,000 an ounce, arguing that strong central-bank buying, robust Chinese demand and worries over public debt should put a floor under prices even after gold ETFs saw net outflows last week.",
-      "url": "https://investinglive.com/commodities/ubs-sees-limited-gold-downside-as-three-demand-pillars-set-a-floor-near-4-000/",
-      "source": "InvestingLive",
-      "source_domain": "investinglive.com",
-      "publisher_id": "investinglive",
-      "published_at": "2026-10-28T21:06:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/246fa52270653c2e.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "global",
-        "central-banks"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
       "rank": 6
-    },
-    {
-      "id": "ba04fc0f01dd77c6",
-      "title": "India jewellers hold off gold buying, betting prices will drop",
-      "summary": "Indian jewellers are holding back on gold purchases ahead of the festive season's busiest stretch, betting that the recent price slide has further to run, according to the country's biggest precious metals refiner. The caution comes even as Dhanteras and Diwali approach, with the trade expecting cheaper prices ahead.",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/india-jewellers-hold-off-gold-buying-betting-prices-will-drop/articleshow/135249545.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "publisher_id": "economic-times",
-      "published_at": "2026-10-28T02:28:20Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/ba04fc0f01dd77c6.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "india",
-        "jewellery"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 7
-    },
-    {
-      "id": "e75d51400279b675",
-      "rank": 8,
-      "title": "Silver: Industrial Resilience Meets a Restrictive Monetary Backdrop",
-      "summary": "Silver's industrial demand is holding up as US manufacturing output stays above earlier-year levels, but FXEmpire argues the backdrop is modestly resilient rather than a boom — and a firm dollar plus high real yields after the Fed's rate hold are capping upside. Higher factory output does not automatically mean more silver buying, given product mix, inventories and substitution.",
-      "url": "https://www.fxempire.com/forecasts/article/silver-industrial-resilience-meets-a-restrictive-monetary-backdrop-1641340",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "publisher_id": "fxempire",
-      "published_at": "2026-10-29T14:24:42Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "tags": [
-        "silver",
-        "global",
-        "fed"
-      ],
-      "breaking": false
-    },
-    {
-      "id": "4aeb86f61f9dcef9",
-      "title": "Diwali 2026: MCX Muhurat Trading - Date is 8 Nov 2026; check time for special, trading, client mode modification session",
-      "summary": "MCX will run its Diwali Muhurat trading session on Sunday, November 8, 2026, with a special pre-open session from 2:05 to 2:19 PM IST and continuous trading from 2:20 to 3:30 PM, Mint reported, citing exchange circular MCX/TRD/590/2026. The one-hour auspicious session covers commodities including gold and silver futures.",
-      "url": "https://www.livemint.com/market/stock-market-news/diwali-2026-mcx-muhurat-trading-date-is-8-nov-2026-check-time-for-special-trading-client-mode-modification-session-11793258582748.html",
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "publisher_id": "mint",
-      "published_at": "2026-10-29T07:31:31Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/4aeb86f61f9dcef9.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": [],
-      "rank": 9
-    },
-    {
-      "id": "119cfd640acd4412",
-      "title": "Dhanteras 2026: NSE's Electronic Gold Receipts trading crosses ₹93 crore; What investors should know about costs and liquidity",
-      "summary": "NSE Electronic Gold Receipts have recorded cumulative traded value of about ₹93.30 crore, with over 5,900 units traded by Oct 16, 2026, per NSE's October 2026 Market Pulse report cited by Upstox. EGRs, launched in May 2026, give ownership of physical gold held in SEBI-accredited vaults and trade electronically. Turnover alone does not show how easily investors can buy or sell at good prices.",
-      "url": "https://upstox.com/news/personal-finance/investing/dhanteras-2026-nse-electronic-gold-receipts-egr-gold-market-crosses-93-crore-what-investors-need-to-know-about-costs-and-liquidity/article-202493/",
-      "source": "Upstox",
-      "source_domain": "upstox.com",
-      "publisher_id": "upstox",
-      "published_at": "2026-10-28T02:12:59Z",
-      "image_url": "https://assets.upstox.com/content/assets/images/news/gold-egr-nse-dhanteras.webp",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "mcx",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 10
     },
     {
       "id": "b2c715dc4ad9ee03",
@@ -327,33 +182,80 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 11
+      "rank": 7
     },
     {
-      "id": "eb08ba6b793182aa",
-      "rank": 12,
-      "title": "China's Gold Imports Via Hong Kong Picked Up In September",
-      "summary": "Mainland China's net gold imports via Hong Kong rose over 28% in September to 74.99 tonnes, a five-month high on pre-Golden Week restocking, Hong Kong Census data showed. StoneX's Rhona O'Connell said the jump likely reflected holiday restocking; the inflow offset a 6.6% September slide in spot gold on fresh December Fed-hike bets.",
-      "url": "https://finimize.com/content/chinas-gold-imports-via-hong-kong-picked-up-in-september",
-      "source": "Finimize",
-      "source_domain": "finimize.com",
-      "publisher_id": "finimize",
-      "published_at": "2026-10-28T12:00:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/eb08ba6b793182aa.jpg",
+      "id": "ba04fc0f01dd77c6",
+      "title": "India jewellers hold off gold buying, betting prices will drop",
+      "summary": "Indian jewellers are holding back on gold purchases ahead of the festive season's busiest stretch, betting that the recent price slide has further to run, according to the country's biggest precious metals refiner. The caution comes even as Dhanteras and Diwali approach, with the trade expecting cheaper prices ahead.",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/india-jewellers-hold-off-gold-buying-betting-prices-will-drop/articleshow/135249545.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-10-28T02:28:20Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/ba04fc0f01dd77c6.jpg",
       "image_kind": "photo",
       "tags": [
         "gold",
-        "global"
+        "india",
+        "jewellery"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 8
+    },
+    {
+      "id": "119cfd640acd4412",
+      "title": "Dhanteras 2026: NSE's Electronic Gold Receipts trading crosses ₹93 crore; What investors should know about costs and liquidity",
+      "summary": "NSE Electronic Gold Receipts have recorded cumulative traded value of about ₹93.30 crore, with over 5,900 units traded by Oct 16, 2026, per NSE's October 2026 Market Pulse report cited by Upstox. EGRs, launched in May 2026, give ownership of physical gold held in SEBI-accredited vaults and trade electronically. Turnover alone does not show how easily investors can buy or sell at good prices.",
+      "url": "https://upstox.com/news/personal-finance/investing/dhanteras-2026-nse-electronic-gold-receipts-egr-gold-market-crosses-93-crore-what-investors-need-to-know-about-costs-and-liquidity/article-202493/",
+      "source": "Upstox",
+      "source_domain": "upstox.com",
+      "publisher_id": "upstox",
+      "published_at": "2026-10-28T02:12:59Z",
+      "image_url": "https://assets.upstox.com/content/assets/images/news/gold-egr-nse-dhanteras.webp",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "mcx",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 9
+    },
+    {
+      "id": "246fa52270653c2e",
+      "title": "UBS sees limited gold downside as three demand pillars set a floor near $4,000",
+      "summary": "UBS sees limited downside for gold from around $4,000 an ounce, arguing that strong central-bank buying, robust Chinese demand and worries over public debt should put a floor under prices even after gold ETFs saw net outflows last week.",
+      "url": "https://investinglive.com/commodities/ubs-sees-limited-gold-downside-as-three-demand-pillars-set-a-floor-near-4-000/",
+      "source": "InvestingLive",
+      "source_domain": "investinglive.com",
+      "publisher_id": "investinglive",
+      "published_at": "2026-10-28T21:06:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/246fa52270653c2e.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "global",
+        "central-banks"
       ],
       "category": "global",
       "metals": [
         "gold"
       ],
-      "breaking": false
+      "breaking": false,
+      "rank": 10
     },
     {
       "id": "7895f579dd8db67c",
-      "rank": 13,
+      "rank": 11,
       "title": "KISNA offers 105% old-gold exchange value and 100% off making charges for Dhanteras and Diwali",
       "summary": "KISNA Diamond & Gold Jewellery is wooing festive buyers for Dhanteras and Diwali: 105% exchange value on old gold towards diamond jewellery, up to 100% off making charges on select jewellery, and double gold rate protection with 25% down payment. Its 'Shop Sparkle Win '26' draw across 218 cities offers 823 vehicles — 247 cars and 576 scooters — with the final draw in early December 2026.",
       "url": "https://the9thestate.com/business/kisna-offers-up-to-105-percent-value-on-old-gold-100-percent-off-making-charges-for-dhanteras-diwali",
@@ -396,7 +298,57 @@
       ],
       "id": "288f1093d83fc4da",
       "breaking": false,
-      "rank": 14
+      "rank": 12
+    }
+  ],
+  "insights": {
+    "headline": "Strong US GDP and a hawkish Fed hold pin gold near $4,000 as Diwali nears",
+    "summary": "US Q3 GDP grew 3.4% annualized and September PCE inflation ran at 3.6%, cementing bets on a December Fed hike after the 10-2 hold and pinning spot gold near $4,000; TD Securities sees a $3,900–$4,250 range into year-end. Fed Chair Warsh also announced fewer yearly rate decisions and a retreat from forward guidance, which analysts warn could raise Treasury volatility. In India, MCX December gold edged up 0.07% to ₹1,43,807 per 10 grams on firm spot demand with Dhanteras and Diwali buying in focus, while Shanghai's exchange halted duty-free metal delivery against futures.",
+    "points": [
+      "US Q3 GDP grew 3.4% annualized vs 3.2% expected; September PCE was 3.6% YoY, core 3.1% — well above the Fed’s 2% target.",
+      "Markets price roughly an 80% chance of a December rate hike after the Fed’s 10-2 hold; the 10-year Treasury yield sits near 5%.",
+      "TD Securities’ Bart Melek sees gold vulnerable in a $3,900–$4,250 range into year-end, and silver stuck between $50 and $55.",
+      "Warsh’s ‘forward silence’ — fewer rate decisions, less guidance — could force larger rate moves and add Treasury volatility.",
+      "MCX December gold rose 0.07% to ₹1,43,807 per 10 grams on firm spot demand."
+    ]
+  },
+  "trending": [
+    {
+      "title": "The December hike is the market's base case",
+      "summary": "Hot GDP/PCE data and a hawkish hold have markets pricing ~80% odds of a December hike, and Warsh's dovish tone on guidance hasn't dented that view — gold's path now runs through the Fed.",
+      "item_ids": [
+        "11f4b45fb2088e26",
+        "a3f6a1bd18e67361",
+        "7141eab981205efb",
+        "246fa52270653c2e"
+      ]
+    },
+    {
+      "title": "Gold defends $4,000 — barely",
+      "summary": "Bullion keeps bouncing off the $4,000 line: TD Securities sees a $3,900–$4,250 range into year-end while UBS argues central-bank buying, Chinese demand and debt worries set a floor.",
+      "item_ids": [
+        "11f4b45fb2088e26",
+        "a3f6a1bd18e67361",
+        "246fa52270653c2e",
+        "2c9db0e70d59681f"
+      ]
+    },
+    {
+      "title": "Silver tests the year's lows",
+      "summary": "Silver slid ~3% to fresh year-to-date lows near $52.32 with RSI near 28 and bears eyeing $50, though oversold conditions could allow a short-term bounce before resistance at $55–$60.",
+      "item_ids": [
+        "d629ab2f8d981d78"
+      ]
+    },
+    {
+      "title": "Festive season meets a price dip",
+      "summary": "The Fed hold may keep gold range-bound with domestic discounts near $2/oz — a window for festive buyers — but jewellers are still waiting for lower prices as Dhanteras and Diwali approach.",
+      "item_ids": [
+        "2c9db0e70d59681f",
+        "b2c715dc4ad9ee03",
+        "7895f579dd8db67c",
+        "ba04fc0f01dd77c6"
+      ]
     }
   ]
 }
