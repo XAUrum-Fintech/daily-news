@@ -1,18 +1,18 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-29T04:00Z",
-  "generated_at": "2026-10-29T04:09:51Z",
+  "edition_id": "2026-10-29T05:00Z",
+  "generated_at": "2026-10-29T05:04:14Z",
   "window": {
-    "from": "2026-10-29T03:00:00Z",
-    "to": "2026-10-29T04:00:00Z"
+    "from": "2026-10-29T04:00:00Z",
+    "to": "2026-10-29T05:00:00Z"
   },
   "insights": {
-    "headline": "Gold holds near $4,040 after Fed hold; GDP and PCE data due Thursday",
-    "summary": "Gold traded around $4,040 an ounce on Thursday after the Federal Reserve's 10-2 hold at 3.75-4.00%, briefly topping $4,070 before fading, with ActionForex putting December hike odds at 88% and US Q3 GDP and September PCE data due later in the day. A Reuters poll trimmed the median 2026 gold forecast to $4,495 an ounce but lifted 2027 to about $4,650. On MCX, gold futures eased to Rs 1,43,492 per 10 grams and silver to Rs 1,95,301 per kilogram, while UBS argues structural buyers should floor gold near $4,000.",
+    "headline": "Gold steadies near $4,070 after Fed hold as GDP, PCE data due Thursday",
+    "summary": "Gold traded in a $4,039-$4,074 range on Thursday after the Federal Reserve's 10-2 hold at 3.75-4.00%, with COMEX futures up 0.55% to $4,073.70 in early trade and December hike odds at 88%. US Q3 GDP and September PCE data due later in the day are the next catalyst, with $3,975.49 the key support. A Reuters poll trimmed the median 2026 gold forecast to $4,495 an ounce but lifted 2027 to about $4,650. On MCX, gold futures eased to Rs 1,43,492 per 10 grams and silver to Rs 1,95,301 per kilogram, while silver sat near $53.88 ahead of the PCE print.",
     "points": [
       "Fed holds 3.75-4.00% in a 10-2 vote; Cook and Hammack dissented, preferring a hike.",
-      "Spot gold around $4,040 after briefly topping $4,070; December hike odds at 88%.",
-      "ActionForex: $3,975.49 is the key support, with $3,942.71 below it if it breaks.",
+      "COMEX gold futures up 0.55% to $4,073.70 in early Thursday trade; silver futures up 0.99% to $54.195.",
+      "US Q3 GDP and September PCE due Thursday; $3,975.49 is the key support below.",
       "Reuters poll trims 2026 gold median to $4,495 but lifts 2027 to about $4,650.",
       "MCX gold eased to Rs 1,43,492/10 g and silver to Rs 1,95,301/kg; UBS sees a floor near $4,000."
     ]
@@ -20,29 +20,29 @@
   "trending": [
     {
       "title": "Fed hold keeps December hike in play",
-      "summary": "The 10-2 hold, Cook's surprise dissent and an 88% December hike pricing keep tightening, not easing, as the market's base case into Thursday's data.",
+      "summary": "The 10-2 hold, Cook's surprise dissent and 88% December hike pricing keep tightening, not easing, as the market's base case into Thursday's data.",
       "item_ids": [
         "a5cdd3c237ce7382",
         "8002fd1922a156cc",
-        "e927eaada1cf8f77"
+        "6c02f1b21b04861c"
       ]
     },
     {
-      "title": "Gold slips as dollar firms ahead of GDP and PCE",
-      "summary": "Gold faded from above $4,070 back toward $4,040 as the dollar firmed, leaving Thursday's US growth and inflation prints as the next catalyst.",
+      "title": "Thursday's GDP and PCE prints decide the next move",
+      "summary": "Gold swung between about $4,039 and $4,074 as traders waited on US growth and inflation data, with $3,975.49 the support level to watch.",
       "item_ids": [
         "e927eaada1cf8f77",
         "8002fd1922a156cc",
-        "7bd077f89e45a81a"
+        "bda46563ade915f4"
       ]
     },
     {
-      "title": "Silver slides faster than gold",
-      "summary": "Silver fell about 1% to near $53.72 and hit an 11-month low near $52.68, a sharper pullback than gold's, on the same dollar and rate pressures.",
+      "title": "Silver lags gold into the PCE print",
+      "summary": "Silver closed at $53.88, down 0.9%, and sits near an 11-month low as a projected 2026 supply deficit offers only a longer-term counterweight.",
       "item_ids": [
         "a5cdd3c237ce7382",
-        "8ebf66350a4fd821",
-        "19d15c234c6aabd3"
+        "bda46563ade915f4",
+        "2ec77f9862e83530"
       ]
     },
     {
@@ -84,6 +84,36 @@
       "rank": 1
     },
     {
+      "id": "6c02f1b21b04861c",
+      "title": "Gold rises above $4,070 an ounce, silver gains nearly 1% after US Fed holds rates",
+      "summary": "Gold and silver rose in early global trade on Thursday, October 29, after the Federal Reserve kept rates unchanged, CNBC TV18 reports. COMEX gold futures traded at $4,073.70 an ounce, up 0.55%, while silver futures rose 0.99% to $54.195. In Delhi, gold had risen Rs 700 to Rs 1.46 lakh per 10 grams on Wednesday while silver was unchanged at Rs 1.98 lakh per kg, traders quoted by PTI said.",
+      "url": "https://www.tradingview.com/news/cnbctv:1ccaf5962094b:0/",
+      "source": "CNBC TV18",
+      "source_domain": "tradingview.com",
+      "publisher_id": "tradingview",
+      "published_at": "2026-10-29T01:44:44Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "silver",
+        "fed",
+        "global",
+        "comex",
+        "india"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://news.metal.com/newscontent/104184466-fomc-holds-rates-steady-at-375-4-gold-rebounds-above-4080oz"
+      ],
+      "rank": 2
+    },
+    {
       "id": "e927eaada1cf8f77",
       "title": "Gold dips on firmer dollar; US inflation data in focus",
       "summary": "Spot gold slipped 0.7% to $4,039.26 an ounce in Thursday trading as a firmer dollar weighed, after the Federal Reserve held rates steady and gave little guidance on its next move. Traders awaited US PCE inflation data due later in the day, the Fed's preferred price gauge, with a December rate rise still heavily priced.",
@@ -104,7 +134,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "8002fd1922a156cc",
@@ -128,7 +158,31 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "id": "bda46563ade915f4",
+      "title": "Silver Braces for PCE Inflation Print as Fed Hold Leaves Rate Risk Alive",
+      "summary": "Silver closed at $53.88 an ounce, down 0.9%, ahead of Thursday's US core PCE inflation print at 8:30 a.m. ET, with the Fed's hold leaving December hike risk alive. Sucden Financial pegged 2026 mine output at 844 million ounces, down 0.3%, and projected a 46-million-ounce deficit; UBS forecast silver at $70 by December 2026.",
+      "url": "https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/silver-braces-for-pce-inflation-print-as-fed-hold-leaves-rate-risk-alive/70426627",
+      "source": "ad-hoc-news",
+      "source_domain": "ad-hoc-news.de",
+      "publisher_id": "ad-hoc-news",
+      "published_at": "2026-10-29T02:50:55Z",
+      "image_url": "https://mdb.ad-hoc-news.de/bild/bild-2834769_1920_1080.webp",
+      "image_kind": "photo",
+      "tags": [
+        "silver",
+        "fed",
+        "global",
+        "central-banks"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 5
     },
     {
       "id": "1721e1f1ef05af87",
@@ -152,30 +206,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 4
-    },
-    {
-      "id": "7bd077f89e45a81a",
-      "title": "Gold (XAU/USD) Price Forecast: Bearish Trend Faces Critical Test",
-      "summary": "FXEmpire's technical read says sellers remain in control despite gold's rebound to a $4,082 high on Wednesday, with converging trendlines setting up a key test. A break above the downtrend line would signal short-term strength, while last week's $3,975 low is the pivot: a drop below it risks a test of the June low near $3,942.",
-      "url": "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-bearish-trend-faces-critical-test-1641153",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "publisher_id": "fxempire",
-      "published_at": "2026-10-28T20:55:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "comex",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "246fa52270653c2e",
@@ -198,7 +229,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 7
     },
     {
       "title": "Gold dip draws Asian buyers as North American funds lose cash",
@@ -221,146 +252,7 @@
       ],
       "id": "906b22837d9ca86a",
       "breaking": false,
-      "rank": 7
-    },
-    {
-      "id": "1181bc196093e50e",
-      "title": "Gold futures decline to ₹1.43 lakh/10 gram on weak spot demand",
-      "summary": "Gold futures on the MCX fell ₹646, or 0.45%, to ₹1,43,492 per 10 grams for December delivery on Wednesday as weaker spot demand weighed, in a turnover of 699 lots. Globally, gold futures declined 0.72% to $4,030.95 an ounce in New York.",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-futures-decline-to-143-lakh10-gram-on-weak-spot-demand/article71634821.ece",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "publisher_id": "hindu-businessline",
-      "published_at": "2026-10-28T08:01:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "mcx",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
       "rank": 8
-    },
-    {
-      "id": "8ebf66350a4fd821",
-      "title": "Silver futures decline to ₹1.95 lakh/kg",
-      "summary": "Silver contracts for December delivery fell ₹1,416, or 0.72%, to ₹1,95,301 per kilogram on the MCX as participants trimmed their positions. Globally, silver traded 1.01% lower at $53.87 an ounce in New York.",
-      "url": "https://www.thehindubusinessline.com/markets/gold/silver-futures-decline-to-195-lakhkg/article71635034.ece",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "publisher_id": "hindu-businessline",
-      "published_at": "2026-10-28T08:50:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "silver",
-        "mcx",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 9
-    },
-    {
-      "id": "ba04fc0f01dd77c6",
-      "title": "India jewellers hold off gold buying, betting prices will drop",
-      "summary": "Indian jewellers are holding back on gold purchases ahead of the festive season's busiest stretch, betting that the recent price slide has further to run, according to the country's biggest precious metals refiner. The caution comes even as Dhanteras and Diwali approach, with the trade expecting cheaper prices ahead.",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/india-jewellers-hold-off-gold-buying-betting-prices-will-drop/articleshow/135249545.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "publisher_id": "economic-times",
-      "published_at": "2026-10-28T02:28:20Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/ba04fc0f01dd77c6.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "india",
-        "jewellery"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 10
-    },
-    {
-      "id": "6625ba2d14923e2a",
-      "title": "Can silver price hit ₹2.84 lakh/kg as rates in free fall ahead of 2026 Dhanteras, Diwali? Levels, target, stop loss",
-      "summary": "MCX silver fell more than 2% to about ₹1,91,516 per kg on Tuesday as a stronger dollar, Fed uncertainty and oil-linked inflation worries weighed, with spot silver down 2.1% to $52.77 an ounce. Analysts cited in the piece put key MCX support near ₹1.90 lakh and resistance near ₹2.02 lakh, and a longer-term view cited for the second half of 2027 puts silver at $75–$80 an ounce.",
-      "url": "https://www.livemint.com/market/commodities/can-silver-price-hit-rs-2-84-lakh-kg-as-rates-in-free-fall-ahead-of-2026-dhanteras-diwali-levels-target-stop-loss-11793088097843.html",
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "publisher_id": "mint",
-      "published_at": "2026-10-27T08:44:42Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/6625ba2d14923e2a.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "silver",
-        "mcx",
-        "india",
-        "fed"
-      ],
-      "category": "mcx",
-      "metals": [
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 11
-    },
-    {
-      "id": "119cfd640acd4412",
-      "title": "Dhanteras 2026: NSE's Electronic Gold Receipts trading crosses ₹93 crore; What investors should know about costs and liquidity",
-      "summary": "NSE Electronic Gold Receipts have recorded cumulative traded value of about ₹93.30 crore, with over 5,900 units traded by Oct 16, 2026, per NSE's October 2026 Market Pulse report cited by Upstox. EGRs, launched in May 2026, give ownership of physical gold held in SEBI-accredited vaults and trade electronically. Turnover alone does not show how easily investors can buy or sell at good prices.",
-      "url": "https://upstox.com/news/personal-finance/investing/dhanteras-2026-nse-electronic-gold-receipts-egr-gold-market-crosses-93-crore-what-investors-need-to-know-about-costs-and-liquidity/article-202493/",
-      "source": "Upstox",
-      "source_domain": "upstox.com",
-      "publisher_id": "upstox",
-      "published_at": "2026-10-28T02:12:59Z",
-      "image_url": "https://assets.upstox.com/content/assets/images/news/gold-egr-nse-dhanteras.webp",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "mcx",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 12
-    },
-    {
-      "title": "SAT sets aside ₹1.49 crore MCX penalty on Ventura over invalid order",
-      "summary": "The Securities Appellate Tribunal set aside a ₹1.49 crore penalty that MCX had imposed on Ventura, ruling the order invalid, Business Standard reported. The decision removes a regulatory overhang for the broker in India's commodity derivatives market.",
-      "url": "https://www.business-standard.com/markets/news/sat-sets-aside-1-49-crore-mcx-penalty-on-ventura-over-invalid-order-126102801676_1.html",
-      "source": "Business Standard",
-      "source_domain": "business-standard.com",
-      "publisher_id": "business-standard",
-      "published_at": "2026-10-28T13:57:16Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "mcx",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "id": "288f1093d83fc4da",
-      "breaking": false,
-      "rank": 13
     },
     {
       "id": "2ec77f9862e83530",
@@ -384,29 +276,144 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 9
     },
     {
-      "id": "19d15c234c6aabd3",
-      "title": "Silver Falls, Gold Rallies as China Retail Investing Jumps, ETFs Sell",
-      "summary": "Silver hit an 11-month low of $52.68 an ounce in Asian trade Tuesday while gold rallied from 3-month lows, fixing at $3,997 in London before rising to $4,030. Retail gold investment demand in China is surging, led by households buying investment gold, while Western gold ETFs saw their first weekly liquidation in a month. The gold/silver ratio rose to 74.3, its highest since November last year.",
-      "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-china-etfs-102720261",
-      "source": "BullionVault",
-      "source_domain": "bullionvault.com",
-      "publisher_id": "bullionvault",
-      "published_at": "2026-10-27T13:53:37Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/19d15c234c6aabd3.jpg",
+      "id": "1181bc196093e50e",
+      "title": "Gold futures decline to ₹1.43 lakh/10 gram on weak spot demand",
+      "summary": "Gold futures on the MCX fell ₹646, or 0.45%, to ₹1,43,492 per 10 grams for December delivery on Wednesday as weaker spot demand weighed, in a turnover of 699 lots. Globally, gold futures declined 0.72% to $4,030.95 an ounce in New York.",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-futures-decline-to-143-lakh10-gram-on-weak-spot-demand/article71634821.ece",
+      "source": "The Hindu BusinessLine",
+      "source_domain": "thehindubusinessline.com",
+      "publisher_id": "hindu-businessline",
+      "published_at": "2026-10-28T08:01:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "mcx",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 10
+    },
+    {
+      "id": "8ebf66350a4fd821",
+      "title": "Silver futures decline to ₹1.95 lakh/kg",
+      "summary": "Silver contracts for December delivery fell ₹1,416, or 0.72%, to ₹1,95,301 per kilogram on the MCX as participants trimmed their positions. Globally, silver traded 1.01% lower at $53.87 an ounce in New York.",
+      "url": "https://www.thehindubusinessline.com/markets/gold/silver-futures-decline-to-195-lakhkg/article71635034.ece",
+      "source": "The Hindu BusinessLine",
+      "source_domain": "thehindubusinessline.com",
+      "publisher_id": "hindu-businessline",
+      "published_at": "2026-10-28T08:50:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "silver",
+        "mcx",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 11
+    },
+    {
+      "id": "ba04fc0f01dd77c6",
+      "title": "India jewellers hold off gold buying, betting prices will drop",
+      "summary": "Indian jewellers are holding back on gold purchases ahead of the festive season's busiest stretch, betting that the recent price slide has further to run, according to the country's biggest precious metals refiner. The caution comes even as Dhanteras and Diwali approach, with the trade expecting cheaper prices ahead.",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/india-jewellers-hold-off-gold-buying-betting-prices-will-drop/articleshow/135249545.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-10-28T02:28:20Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/ba04fc0f01dd77c6.jpg",
       "image_kind": "photo",
       "tags": [
         "gold",
-        "silver",
-        "global"
+        "india",
+        "jewellery"
       ],
-      "category": "global",
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 12
+    },
+    {
+      "id": "6625ba2d14923e2a",
+      "title": "Can silver price hit ₹2.84 lakh/kg as rates in free fall ahead of 2026 Dhanteras, Diwali? Levels, target, stop loss",
+      "summary": "MCX silver fell more than 2% to about ₹1,91,516 per kg on Tuesday as a stronger dollar, Fed uncertainty and oil-linked inflation worries weighed, with spot silver down 2.1% to $52.77 an ounce. Analysts cited in the piece put key MCX support near ₹1.90 lakh and resistance near ₹2.02 lakh, and a longer-term view cited for the second half of 2027 puts silver at $75–$80 an ounce.",
+      "url": "https://www.livemint.com/market/commodities/can-silver-price-hit-rs-2-84-lakh-kg-as-rates-in-free-fall-ahead-of-2026-dhanteras-diwali-levels-target-stop-loss-11793088097843.html",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "publisher_id": "mint",
+      "published_at": "2026-10-27T08:44:42Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/6625ba2d14923e2a.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "silver",
+        "mcx",
+        "india",
+        "fed"
+      ],
+      "category": "mcx",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 13
+    },
+    {
+      "id": "119cfd640acd4412",
+      "title": "Dhanteras 2026: NSE's Electronic Gold Receipts trading crosses ₹93 crore; What investors should know about costs and liquidity",
+      "summary": "NSE Electronic Gold Receipts have recorded cumulative traded value of about ₹93.30 crore, with over 5,900 units traded by Oct 16, 2026, per NSE's October 2026 Market Pulse report cited by Upstox. EGRs, launched in May 2026, give ownership of physical gold held in SEBI-accredited vaults and trade electronically. Turnover alone does not show how easily investors can buy or sell at good prices.",
+      "url": "https://upstox.com/news/personal-finance/investing/dhanteras-2026-nse-electronic-gold-receipts-egr-gold-market-crosses-93-crore-what-investors-need-to-know-about-costs-and-liquidity/article-202493/",
+      "source": "Upstox",
+      "source_domain": "upstox.com",
+      "publisher_id": "upstox",
+      "published_at": "2026-10-28T02:12:59Z",
+      "image_url": "https://assets.upstox.com/content/assets/images/news/gold-egr-nse-dhanteras.webp",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "mcx",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 14
+    },
+    {
+      "title": "SAT sets aside ₹1.49 crore MCX penalty on Ventura over invalid order",
+      "summary": "The Securities Appellate Tribunal set aside a ₹1.49 crore penalty that MCX had imposed on Ventura, ruling the order invalid, Business Standard reported. The decision removes a regulatory overhang for the broker in India's commodity derivatives market.",
+      "url": "https://www.business-standard.com/markets/news/sat-sets-aside-1-49-crore-mcx-penalty-on-ventura-over-invalid-order-126102801676_1.html",
+      "source": "Business Standard",
+      "source_domain": "business-standard.com",
+      "publisher_id": "business-standard",
+      "published_at": "2026-10-28T13:57:16Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "mcx",
+        "india"
+      ],
+      "category": "mcx",
       "metals": [
         "gold",
         "silver"
       ],
+      "id": "288f1093d83fc4da",
       "breaking": false,
       "rank": 15
     },
