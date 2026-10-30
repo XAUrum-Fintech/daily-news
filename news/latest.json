@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-30T11:00Z",
-  "generated_at": "2026-10-30T11:05:56Z",
+  "edition_id": "2026-10-30T12:00Z",
+  "generated_at": "2026-10-30T12:02:04Z",
   "window": {
-    "from": "2026-10-30T10:00Z",
-    "to": "2026-10-30T11:00Z"
+    "from": "2026-10-30T11:00:00Z",
+    "to": "2026-10-30T12:00:00Z"
   },
   "insights": {
     "headline": "Gold, silver sink up to 2.4% on MCX as Fed-hike bets deepen; spot gold at mid-July lows",
@@ -43,7 +43,8 @@
       "item_ids": [
         "ff3f3675be1c0fb5",
         "2bf853a8e3be716e",
-        "2c9db0e70d59681f"
+        "2c9db0e70d59681f",
+        "0e4f45487610ccb5"
       ]
     },
     {
@@ -331,6 +332,31 @@
       "rank": 11
     },
     {
+      "id": "0e4f45487610ccb5",
+      "title": "Gold Vs Silver On Dhanteras: Which One Should Small Investors Buy?",
+      "summary": "Mashable India compares gold and silver for small investors ahead of Dhanteras on November 6. Gold is framed as the steadier long-term store of value despite the pullback from its January 2026 peak; silver is cheaper per gram but far more volatile, down over 50% from its own January high. The piece cites expert suggestions of 10-15% of a portfolio in gold with a small silver allocation.",
+      "url": "https://in.mashable.com/culture/115567/gold-vs-silver-on-dhanteras-which-one-should-small-investors-buy",
+      "source": "Mashable India",
+      "source_domain": "in.mashable.com",
+      "publisher_id": "mashable-in",
+      "published_at": "2026-10-30T11:46:00Z",
+      "image_url": "https://sm.mashable.com/mashable_in/seo/1/112304/112304_5k5r.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "india"
+      ],
+      "category": "festive",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "related_urls": [],
+      "rank": 12
+    },
+    {
       "id": "2c9db0e70d59681f",
       "title": "Indian gold buyers get a 'breathing room' from Fed before Diwali, but conditions apply",
       "summary": "The Fed's hold at 3.75-4.00% may keep gold range-bound in the coming weeks, giving Indian buyers breathing room ahead of Diwali, ET reports, as domestic discounts narrow to about $2 an ounce on picking festive demand. But a sustained recovery hinges on December-hike expectations easing from ~78% odds; US inflation data, yields, the dollar/rupee rate and Middle East risk could keep prices volatile.",
@@ -353,11 +379,11 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 12
+      "rank": 13
     },
     {
       "id": "f3073f576cd7f4ee",
-      "rank": 13,
+      "rank": 14,
       "title": "MCX iCOMDEX flat; bullion down while energy rises on renewed attacks in W Asia",
       "summary": "The MCX iCOMDEX Composite index held steady at 22963.67 points on Friday, Informist reports, with bullion falling while energy rose on fresh attacks in the Strait of Hormuz. The bullion component fell to 31076.28 points as of 11:05 IST; the gold sub-index eased on expectations of a December Fed rate hike, and the silver sub-index was down nearly 1% at 20842.20 points.",
       "url": "https://www.informistmedia.com/CommodityWire/63525/MCX-iCOMDEX-MCX-iCOMDEX-flat-bullion-down-while-energy-rises-on-renewed-attacks-in-W-Asia",
@@ -401,7 +427,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 15
     },
     {
       "id": "7895f579dd8db67c",
@@ -425,7 +451,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 15
+      "rank": 16
     }
   ]
 }
