@@ -1,357 +1,363 @@
 {
-  "schema": "orob-news.v1",
-  "edition_id": "2026-10-30T04:00Z",
-  "generated_at": "2026-10-30T04:13:23Z",
-  "window": {
-    "from": "2026-10-30T02:00Z",
-    "to": "2026-10-30T04:00Z"
-  },
-  "insights": {
-    "headline": "Gold slips below $4,000 as oil spike fuels December Fed-hike bets; gold-silver ratio hits year high above 76",
-    "summary": "Gold fell back below $4,000 an ounce on Friday as Brent crude near $118 and hot US inflation data pushed December Fed-hike odds to about 75%. Silver sank to fresh 11-month lows near $52, driving the gold-silver ratio above 76 — its highest since December 2025 — as Metals Focus flagged returning London inventories and retreating investment demand. In India, RBI fixed the SGB 2019-20 Series VI premature redemption at ₹14,213 per unit, while MCX gold futures held near ₹1.43 lakh per 10 grams ahead of Dhanteras.",
-    "points": [
-      "Spot gold fell 0.6% to $3,997 an ounce, slipping below $4,000; December futures settled at $4,007.80.",
-      "The gold-silver ratio topped 76, up 11%+ this year; London vault silver hit 932M oz, a near 4-year high.",
-      "Silver held near $52 an ounce, an 11-month low; managed-money net longs are at Feb-2024 lows.",
-      "RBI fixed SGB 2019-20 Series VI redemption at ₹14,213/unit — ~3.7x the 2019 issue price of ₹3,835.",
-      "MCX gold futures steadied near ₹1.43 lakh/10g on firm spot demand ahead of Dhanteras."
-    ]
-  },
-  "trending": [
-    {
-      "title": "Gold breaks below $4,000 on oil-fuelled Fed bets",
-      "summary": "Higher oil and hot US inflation data revived December rate-hike expectations, pushing gold under $4,000 and capping any rebound.",
-      "item_ids": [
-        "d29b41f063b8f0c9",
-        "b8fad23b32b98cbc"
-      ]
-    },
-    {
-      "title": "Silver ratio at year high as physical market loosens",
-      "summary": "The gold-silver ratio topped 76 for the first time since December 2025 as London inventories climbed and investment money retreated.",
-      "item_ids": [
-        "af3a64d3e56d314f",
-        "ccd0ea18b474cc37"
-      ]
-    },
-    {
-      "title": "Festive demand stays muted despite the selloff",
-      "summary": "Silver's ~55% collapse from January's peak has not sparked Indian festive buying, with dealers describing stocking as subdued.",
-      "item_ids": [
-        "2bf853a8e3be716e",
-        "7895f579dd8db67c"
-      ]
-    },
-    {
-      "title": "SGB holders cash in at ₹14,213",
-      "summary": "The RBI's ₹14,213 redemption price for the 2019-20 Series VI tranche turns a ₹3,835-per-gram 2019 investment into nearly 3.7x.",
-      "item_ids": [
-        "b8cc73cfae89f3a8"
-      ]
-    },
-    {
-      "title": "MCX steadies near ₹1.43 lakh",
-      "summary": "Domestic gold futures held near ₹1.43 lakh per 10 grams on firm spot demand, giving Dhanteras buyers only modest breathing room.",
-      "item_ids": [
-        "b2c715dc4ad9ee03",
-        "2c9db0e70d59681f",
-        "288f1093d83fc4da"
-      ]
-    }
-  ],
-  "items": [
-    {
-      "id": "d29b41f063b8f0c9",
-      "rank": 1,
-      "title": "Gold slips as higher oil, US inflation data bolster Fed hike bets",
-      "summary": "Reuters reports gold slipped on Friday as higher oil prices — Brent near $118 after Houthi attacks on Saudi targets — stoked inflation fears, while robust US inflation data bolstered bets on a December Fed hike. Spot gold fell 0.6% to $3,997 an ounce, slipping below $4,000, with traders pricing roughly a 75% chance of a December increase; bullion is on track for a second straight monthly decline.",
-      "url": "https://www.reuters.com/world/india/gold-slips-higher-oil-us-inflation-data-bolster-fed-hike-bets-2026-10-30/",
-      "source": "Reuters",
-      "source_domain": "reuters.com",
-      "publisher_id": "reuters",
-      "published_at": "2026-10-30T03:24:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "global",
-        "fed"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "related_urls": []
-    },
-    {
-      "id": "af3a64d3e56d314f",
-      "rank": 2,
-      "title": "Gold-silver ratio tops 76 to hit new high for the year, as silver inventory returns",
-      "summary": "Metals Focus says silver's underperformance has pushed the gold-silver ratio above 76 — its highest since December 2025 and up over 11% this year — as London vault silver inventories climbed to 932 million ounces, a near four-year high, while silver ETP holdings fell about 60 million ounces since January. With managed-money longs at their lowest since February 2024, silver may probe lower.",
-      "url": "https://finance.biggo.com/news/c8726945-58a8-4fec-9f57-335091f6d3fc",
-      "source": "BigGo Finance",
-      "source_domain": "finance.biggo.com",
-      "publisher_id": "biggo-finance",
-      "published_at": "2026-10-30T03:05:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/af3a64d3e56d314f.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": []
-    },
-    {
-      "id": "2bf853a8e3be716e",
-      "rank": 3,
-      "title": "Silver's 55% plunge fails to spark festive buying",
-      "summary": "Mint reports that silver's roughly 55% plunge from its January peak — over $121 an ounce and ₹4.2 lakh a kg then, about $52 and under ₹2 lakh now — has failed to spark festive-season buying in India, with investors sitting on losses and dealers describing festive stocking as subdued.",
-      "url": "https://www.livemint.com/market/commodities/indiasilver-prices-demand-supply-imports-11793202423976.html",
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "publisher_id": "mint",
-      "published_at": "2026-10-30T00:20:04Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/2bf853a8e3be716e.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "silver",
-        "india",
-        "jewellery"
-      ],
-      "category": "festive",
-      "metals": [
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": []
-    },
-    {
-      "id": "ccd0ea18b474cc37",
-      "title": "Silver Forecast: XAG/USD hits fresh YTD low near $51.00",
-      "summary": "Silver extended its downtrend for a third straight day, hitting a fresh low since November 2025 near $51.00 in Friday's Asian session before recovering to about $51.50-51.55, FXStreet reports. With the RSI at 27.21 in oversold territory, it sees rallies above $52 facing fresh sellers and warns a break below $51.00 would expose the $50 psychological mark. XAG/USD is down roughly 1.25% on the day.",
-      "url": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-slumps-to-fresh-low-since-november-near-5100-202610300227",
-      "source": "FXStreet",
-      "source_domain": "fxstreet.com",
-      "publisher_id": "fxstreet",
-      "published_at": "2026-10-30T02:27:39Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "breaking": false,
-      "tags": [
-        "silver",
-        "global"
-      ],
-      "rank": 4
-    },
-    {
-      "id": "b8fad23b32b98cbc",
-      "rank": 5,
-      "title": "Gold Prices Slip as Fed Rate Outlook Shifts; Silver Hits 11-Month Low",
-      "summary": "Spot gold fell 0.4% to $4,024 an ounce on Thursday as strong US growth and inflation data reinforced bets on a December Fed hike; silver dropped 2.6% to $52.39, its lowest since late November last year, widening the gold-silver ratio to about 77. CME FedWatch priced December hike odds at 83.3% after the data.",
-      "url": "https://www.bullionvault.co.uk/gold-news/gold-price-news/gold-fed-silver-11-month-low-102920261",
-      "source": "BullionVault",
-      "source_domain": "bullionvault.co.uk",
-      "publisher_id": "bullionvault",
-      "published_at": "2026-10-29T15:13:13Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/b8fad23b32b98cbc.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "fed",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://startupfortune.com/gold-and-silver-sink-as-strong-us-gdp-revives-fed-rate-hike-bets/"
-      ]
-    },
-    {
-      "id": "b8cc73cfae89f3a8",
-      "title": "Sovereign Gold Bond premature redemption today: ₹3,835 investment turns into ₹14,213; check SGB 2019-20 Series VI investors' gains",
-      "summary": "RBI has fixed the premature redemption price of SGB 2019-20 Series VI at ₹14,213 per unit for October 30, 2026 — about 3.7 times its ₹3,835-per-gram issue price of October 2019, Upstox reports. The price is the simple average of IBJA's 999-purity gold closes on October 27-29; the request window (Sep 29–Oct 21) has closed. SGBs pay 2.5% annual interest, semi-annually.",
-      "url": "https://upstox.com/news/personal-finance/latest-updates/sovereign-gold-bond-premature-redemption-today-3-835-investment-turns-into-14213-check-sgb-2019-20-series-6-investors-gains/article-202670/",
-      "source": "Upstox",
-      "source_domain": "upstox.com",
-      "publisher_id": "upstox",
-      "published_at": "2026-10-30T02:28:06Z",
-      "image_url": "https://assets.upstox.com/content/assets/images/news/sgb-premature-redemption.webp",
-      "image_kind": "photo",
-      "category": "policy",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "tags": [
-        "gold",
-        "rbi",
-        "india"
-      ],
-      "rank": 6,
-      "related_urls": [
-        "https://upstox.com/news/personal-finance/latest-updates/sovereign-gold-bond-premature-redemption-today-3-835-investment-turns-into-14213-check-sgb-2019-20-series-6-investors-gains/article-202670/",
-        "https://hiindia.com/rbi-fixes-premature-redemption-price-of-sgb-2019-20-series-vi-at-rs-14213-per-unit-on-friday/"
-      ]
-    },
-    {
-      "id": "2c9db0e70d59681f",
-      "title": "Indian gold buyers get a 'breathing room' from Fed before Diwali, but conditions apply",
-      "summary": "The Fed's hold at 3.75-4.00% may keep gold range-bound in the coming weeks, giving Indian buyers breathing room ahead of Diwali, ET reports, as domestic discounts narrow to about $2 an ounce on picking festive demand. But a sustained recovery hinges on December-hike expectations easing from ~78% odds; US inflation data, yields, the dollar/rupee rate and Middle East risk could keep prices volatile.",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/indian-gold-buyers-get-a-likely-breathing-room-from-fed-before-diwali-but-conditions-apply/articleshow/135293194.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "publisher_id": "economic-times",
-      "published_at": "2026-10-29T06:54:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/2c9db0e70d59681f.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "fed",
-        "india",
-        "mcx"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "related_urls": [],
-      "rank": 7
-    },
-    {
-      "id": "e75d51400279b675",
-      "rank": 8,
-      "title": "Silver: Industrial Resilience Meets a Restrictive Monetary Backdrop",
-      "summary": "FXEmpire frames silver between modestly resilient US industrial demand — September industrial production rose 0.7% — and a restrictive monetary backdrop after the Fed held at 3.75–4% with two dissents for a hike. With 10-year real yields at 2.67% and silver futures near $52.52 below $55 support, it flags $50 as the next potential downside target.",
-      "url": "https://www.fxempire.com/forecasts/article/silver-industrial-resilience-meets-a-restrictive-monetary-backdrop-1641340",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "publisher_id": "fxempire",
-      "published_at": "2026-10-29T14:24:42Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "silver",
-        "fed",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": []
-    },
-    {
-      "id": "b2c715dc4ad9ee03",
-      "title": "Domestic gold futures rise to ₹1.43 lakh/10 gm on firm spot demand",
-      "summary": "Gold futures for December delivery rose ₹102, or 0.07%, to ₹1,43,807 per 10 grams on MCX in a turnover of 811 lots as speculators built fresh positions on firm spot demand, reversing part of Wednesday's ₹646 slide. Globally, gold futures fell 0.58% to $4,043.77 an ounce in New York (PTI via BusinessLine).",
-      "url": "https://www.thehindubusinessline.com/markets/gold/domestic-gold-futures-rise-to-143-lakh10-gm-on-firm-spot-demand/article71639202.ece",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "publisher_id": "hindu-businessline",
-      "published_at": "2026-10-29T05:54:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "mcx",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "related_urls": [],
-      "rank": 9
-    },
-    {
-      "id": "246fa52270653c2e",
-      "title": "UBS sees limited gold downside as three demand pillars set a floor near $4,000",
-      "summary": "UBS sees limited downside for gold from around $4,000 an ounce, arguing that strong central-bank buying, robust Chinese demand and worries over public debt should put a floor under prices even after gold ETFs saw net outflows last week.",
-      "url": "https://investinglive.com/commodities/ubs-sees-limited-gold-downside-as-three-demand-pillars-set-a-floor-near-4-000/",
-      "source": "InvestingLive",
-      "source_domain": "investinglive.com",
-      "publisher_id": "investinglive",
-      "published_at": "2026-10-28T21:06:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/246fa52270653c2e.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "global",
-        "central-banks"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 10
-    },
-    {
-      "title": "SAT sets aside ₹1.49 crore MCX penalty on Ventura over invalid order",
-      "summary": "The Securities Appellate Tribunal set aside a ₹1.49 crore penalty that MCX had imposed on Ventura, ruling the order invalid, Business Standard reported. The decision removes a regulatory overhang for the broker in India's commodity derivatives market.",
-      "url": "https://www.business-standard.com/markets/news/sat-sets-aside-1-49-crore-mcx-penalty-on-ventura-over-invalid-order-126102801676_1.html",
-      "source": "Business Standard",
-      "source_domain": "business-standard.com",
-      "publisher_id": "business-standard",
-      "published_at": "2026-10-28T13:57:16Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "mcx",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "id": "288f1093d83fc4da",
-      "breaking": false,
-      "rank": 11
-    },
-    {
-      "id": "7895f579dd8db67c",
-      "rank": 12,
-      "title": "KISNA offers 105% old-gold exchange value and 100% off making charges for Dhanteras and Diwali",
-      "summary": "KISNA Diamond & Gold Jewellery is wooing festive buyers for Dhanteras and Diwali: 105% exchange value on old gold towards diamond jewellery, up to 100% off making charges on select jewellery, and double gold rate protection with 25% down payment. Its 'Shop Sparkle Win '26' draw across 218 cities offers 823 vehicles — 247 cars and 576 scooters — with the final draw in early December 2026.",
-      "url": "https://the9thestate.com/business/kisna-offers-up-to-105-percent-value-on-old-gold-100-percent-off-making-charges-for-dhanteras-diwali",
-      "source": "The 9th Estate",
-      "source_domain": "the9thestate.com",
-      "publisher_id": "the-9th-estate",
-      "published_at": "2026-10-29T10:32:03Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "india",
-        "jewellery"
-      ],
-      "category": "festive",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "related_urls": []
-    }
+ "schema": "orob-news.v1",
+ "edition_id": "2026-10-30T05:00Z",
+ "generated_at": "2026-10-30T05:04:09Z",
+ "window": {
+  "from": "2026-10-30T03:00Z",
+  "to": "2026-10-30T05:00Z"
+ },
+ "insights": {
+  "headline": "Gold slips below $4,000 as oil spike fuels December Fed-hike bets; gold-silver ratio hits year high above 76",
+  "summary": "Gold fell back below $4,000 an ounce on Friday as Brent crude near $118 and hot US inflation data pushed December Fed-hike odds to about 75%. Silver sank to fresh 11-month lows near $52, driving the gold-silver ratio above 76 — its highest since December 2025 — as Metals Focus flagged returning London inventories and retreating investment demand. In India, RBI fixed the SGB 2019-20 Series VI premature redemption at ₹14,213 per unit, while MCX gold futures held near ₹1.43 lakh per 10 grams ahead of Dhanteras.",
+  "points": [
+   "Spot gold fell 0.6% to $3,997 an ounce, slipping below $4,000; December futures settled at $4,007.80.",
+   "The gold-silver ratio topped 76, up 11%+ this year; London vault silver hit 932M oz, a near 4-year high.",
+   "Silver held near $52 an ounce, an 11-month low; managed-money net longs are at Feb-2024 lows.",
+   "RBI fixed SGB 2019-20 Series VI redemption at ₹14,213/unit — ~3.7x the 2019 issue price of ₹3,835.",
+   "MCX gold futures steadied near ₹1.43 lakh/10g on firm spot demand ahead of Dhanteras."
   ]
+ },
+ "trending": [
+  {
+   "title": "Gold breaks below $4,000 on oil-fuelled Fed bets",
+   "summary": "Higher oil and hot US inflation data revived December rate-hike expectations, pushing gold under $4,000 and capping any rebound.",
+   "item_ids": [
+    "d29b41f063b8f0c9",
+    "b8fad23b32b98cbc"
+   ]
+  },
+  {
+   "title": "Silver ratio at year high as physical market loosens",
+   "summary": "The gold-silver ratio topped 76 for the first time since December 2025 as London inventories climbed and investment money retreated.",
+   "item_ids": [
+    "af3a64d3e56d314f",
+    "e75d51400279b675",
+    "5175d1794689ab19"
+   ]
+  },
+  {
+   "title": "Festive demand stays muted despite the selloff",
+   "summary": "Silver's ~55% collapse from January's peak has not sparked Indian festive buying, with dealers describing stocking as subdued.",
+   "item_ids": [
+    "2bf853a8e3be716e",
+    "7895f579dd8db67c"
+   ]
+  },
+  {
+   "title": "SGB holders cash in at ₹14,213",
+   "summary": "The RBI's ₹14,213 redemption price for the 2019-20 Series VI tranche turns a ₹3,835-per-gram 2019 investment into nearly 3.7x.",
+   "item_ids": [
+    "b8cc73cfae89f3a8"
+   ]
+  },
+  {
+   "title": "MCX steadies near ₹1.43 lakh",
+   "summary": "Domestic gold futures held near ₹1.43 lakh per 10 grams on firm spot demand, giving Dhanteras buyers only modest breathing room.",
+   "item_ids": [
+    "b2c715dc4ad9ee03",
+    "2c9db0e70d59681f",
+    "288f1093d83fc4da"
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "d29b41f063b8f0c9",
+   "rank": 1,
+   "title": "Gold slips as higher oil, US inflation data bolster Fed hike bets",
+   "summary": "Reuters reports gold slipped on Friday as higher oil prices — Brent near $118 after Houthi attacks on Saudi targets — stoked inflation fears, while robust US inflation data bolstered bets on a December Fed hike. Spot gold fell 0.6% to $3,997 an ounce, slipping below $4,000, with traders pricing roughly a 75% chance of a December increase; bullion is on track for a second straight monthly decline.",
+   "url": "https://www.reuters.com/world/india/gold-slips-higher-oil-us-inflation-data-bolster-fed-hike-bets-2026-10-30/",
+   "source": "Reuters",
+   "source_domain": "reuters.com",
+   "publisher_id": "reuters",
+   "published_at": "2026-10-30T03:24:00Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "gold",
+    "global",
+    "fed"
+   ],
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "related_urls": []
+  },
+  {
+   "id": "af3a64d3e56d314f",
+   "rank": 2,
+   "title": "Gold-silver ratio tops 76 to hit new high for the year, as silver inventory returns",
+   "summary": "Metals Focus says silver's underperformance has pushed the gold-silver ratio above 76 — its highest since December 2025 and up over 11% this year — as London vault silver inventories climbed to 932 million ounces, a near four-year high, while silver ETP holdings fell about 60 million ounces since January. With managed-money longs at their lowest since February 2024, silver may probe lower.",
+   "url": "https://finance.biggo.com/news/c8726945-58a8-4fec-9f57-335091f6d3fc",
+   "source": "BigGo Finance",
+   "source_domain": "finance.biggo.com",
+   "publisher_id": "biggo-finance",
+   "published_at": "2026-10-30T03:05:00Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/af3a64d3e56d314f.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "silver",
+    "global"
+   ],
+   "category": "global",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "related_urls": []
+  },
+  {
+   "id": "2bf853a8e3be716e",
+   "rank": 3,
+   "title": "Silver's 55% plunge fails to spark festive buying",
+   "summary": "Mint reports that silver's roughly 55% plunge from its January peak — over $121 an ounce and ₹4.2 lakh a kg then, about $52 and under ₹2 lakh now — has failed to spark festive-season buying in India, with investors sitting on losses and dealers describing festive stocking as subdued.",
+   "url": "https://www.livemint.com/market/commodities/indiasilver-prices-demand-supply-imports-11793202423976.html",
+   "source": "Mint",
+   "source_domain": "livemint.com",
+   "publisher_id": "mint",
+   "published_at": "2026-10-30T00:20:04Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/2bf853a8e3be716e.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "silver",
+    "india",
+    "jewellery"
+   ],
+   "category": "festive",
+   "metals": [
+    "silver"
+   ],
+   "breaking": false,
+   "related_urls": []
+  },
+  {
+   "id": "5175d1794689ab19",
+   "rank": 4,
+   "title": "Gold and Silver Price Forecast: Silver Lags as Fed Hike Fears Grow",
+   "summary": "FXEmpire's technical call: silver is sliding toward the $48–$50 support zone and gold toward key support, both pressured by December Fed-hike bets. A break below $3,950 in gold could open a slide to $3,800; silver must hold $48–$50 to avoid a drop toward $45–$46. The analyst argues a peak in the gold-silver ratio near 80 could mark a major bottom for both metals.",
+   "url": "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-silver-lags-as-fed-hike-fears-grow-1641453",
+   "source": "FXEmpire",
+   "source_domain": "fxempire.com",
+   "publisher_id": "fxempire",
+   "published_at": "2026-10-30T03:44:48Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "silver",
+    "gold",
+    "fed"
+   ],
+   "category": "global",
+   "metals": [
+    "silver",
+    "gold"
+   ],
+   "breaking": false,
+   "related_urls": [
+    "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-slumps-to-fresh-low-since-november-near-5100-202610300227"
+   ]
+  },
+  {
+   "id": "b8fad23b32b98cbc",
+   "rank": 5,
+   "title": "Gold Prices Slip as Fed Rate Outlook Shifts; Silver Hits 11-Month Low",
+   "summary": "Spot gold fell 0.4% to $4,024 an ounce on Thursday as strong US growth and inflation data reinforced bets on a December Fed hike; silver dropped 2.6% to $52.39, its lowest since late November last year, widening the gold-silver ratio to about 77. CME FedWatch priced December hike odds at 83.3% after the data.",
+   "url": "https://www.bullionvault.co.uk/gold-news/gold-price-news/gold-fed-silver-11-month-low-102920261",
+   "source": "BullionVault",
+   "source_domain": "bullionvault.co.uk",
+   "publisher_id": "bullionvault",
+   "published_at": "2026-10-29T15:13:13Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/b8fad23b32b98cbc.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "silver",
+    "fed",
+    "global"
+   ],
+   "category": "global",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "related_urls": [
+    "https://startupfortune.com/gold-and-silver-sink-as-strong-us-gdp-revives-fed-rate-hike-bets/"
+   ]
+  },
+  {
+   "id": "b8cc73cfae89f3a8",
+   "title": "Sovereign Gold Bond premature redemption today: ₹3,835 investment turns into ₹14,213; check SGB 2019-20 Series VI investors' gains",
+   "summary": "RBI has fixed the premature redemption price of SGB 2019-20 Series VI at ₹14,213 per unit for October 30, 2026 — about 3.7 times its ₹3,835-per-gram issue price of October 2019, Upstox reports. The price is the simple average of IBJA's 999-purity gold closes on October 27-29; the request window (Sep 29–Oct 21) has closed. SGBs pay 2.5% annual interest, semi-annually.",
+   "url": "https://upstox.com/news/personal-finance/latest-updates/sovereign-gold-bond-premature-redemption-today-3-835-investment-turns-into-14213-check-sgb-2019-20-series-6-investors-gains/article-202670/",
+   "source": "Upstox",
+   "source_domain": "upstox.com",
+   "publisher_id": "upstox",
+   "published_at": "2026-10-30T02:28:06Z",
+   "image_url": "https://assets.upstox.com/content/assets/images/news/sgb-premature-redemption.webp",
+   "image_kind": "photo",
+   "category": "policy",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "tags": [
+    "gold",
+    "rbi",
+    "india"
+   ],
+   "rank": 6,
+   "related_urls": [
+    "https://upstox.com/news/personal-finance/latest-updates/sovereign-gold-bond-premature-redemption-today-3-835-investment-turns-into-14213-check-sgb-2019-20-series-6-investors-gains/article-202670/",
+    "https://hiindia.com/rbi-fixes-premature-redemption-price-of-sgb-2019-20-series-vi-at-rs-14213-per-unit-on-friday/"
+   ]
+  },
+  {
+   "id": "2c9db0e70d59681f",
+   "title": "Indian gold buyers get a 'breathing room' from Fed before Diwali, but conditions apply",
+   "summary": "The Fed's hold at 3.75-4.00% may keep gold range-bound in the coming weeks, giving Indian buyers breathing room ahead of Diwali, ET reports, as domestic discounts narrow to about $2 an ounce on picking festive demand. But a sustained recovery hinges on December-hike expectations easing from ~78% odds; US inflation data, yields, the dollar/rupee rate and Middle East risk could keep prices volatile.",
+   "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/indian-gold-buyers-get-a-likely-breathing-room-from-fed-before-diwali-but-conditions-apply/articleshow/135293194.cms",
+   "source": "Economic Times",
+   "source_domain": "economictimes.indiatimes.com",
+   "publisher_id": "economic-times",
+   "published_at": "2026-10-29T06:54:00Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/2c9db0e70d59681f.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "fed",
+    "india",
+    "mcx"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "related_urls": [],
+   "rank": 7
+  },
+  {
+   "id": "e75d51400279b675",
+   "rank": 8,
+   "title": "Silver: Industrial Resilience Meets a Restrictive Monetary Backdrop",
+   "summary": "FXEmpire frames silver between modestly resilient US industrial demand — September industrial production rose 0.7% — and a restrictive monetary backdrop after the Fed held at 3.75–4% with two dissents for a hike. With 10-year real yields at 2.67% and silver futures near $52.52 below $55 support, it flags $50 as the next potential downside target.",
+   "url": "https://www.fxempire.com/forecasts/article/silver-industrial-resilience-meets-a-restrictive-monetary-backdrop-1641340",
+   "source": "FXEmpire",
+   "source_domain": "fxempire.com",
+   "publisher_id": "fxempire",
+   "published_at": "2026-10-29T14:24:42Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "silver",
+    "fed",
+    "global"
+   ],
+   "category": "global",
+   "metals": [
+    "silver"
+   ],
+   "breaking": false,
+   "related_urls": []
+  },
+  {
+   "id": "b2c715dc4ad9ee03",
+   "title": "Domestic gold futures rise to ₹1.43 lakh/10 gm on firm spot demand",
+   "summary": "Gold futures for December delivery rose ₹102, or 0.07%, to ₹1,43,807 per 10 grams on MCX in a turnover of 811 lots as speculators built fresh positions on firm spot demand, reversing part of Wednesday's ₹646 slide. Globally, gold futures fell 0.58% to $4,043.77 an ounce in New York (PTI via BusinessLine).",
+   "url": "https://www.thehindubusinessline.com/markets/gold/domestic-gold-futures-rise-to-143-lakh10-gm-on-firm-spot-demand/article71639202.ece",
+   "source": "The Hindu BusinessLine",
+   "source_domain": "thehindubusinessline.com",
+   "publisher_id": "hindu-businessline",
+   "published_at": "2026-10-29T05:54:00Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "gold",
+    "mcx",
+    "india"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "related_urls": [],
+   "rank": 9
+  },
+  {
+   "id": "246fa52270653c2e",
+   "title": "UBS sees limited gold downside as three demand pillars set a floor near $4,000",
+   "summary": "UBS sees limited downside for gold from around $4,000 an ounce, arguing that strong central-bank buying, robust Chinese demand and worries over public debt should put a floor under prices even after gold ETFs saw net outflows last week.",
+   "url": "https://investinglive.com/commodities/ubs-sees-limited-gold-downside-as-three-demand-pillars-set-a-floor-near-4-000/",
+   "source": "InvestingLive",
+   "source_domain": "investinglive.com",
+   "publisher_id": "investinglive",
+   "published_at": "2026-10-28T21:06:00Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/246fa52270653c2e.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "global",
+    "central-banks"
+   ],
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "rank": 10
+  },
+  {
+   "title": "SAT sets aside ₹1.49 crore MCX penalty on Ventura over invalid order",
+   "summary": "The Securities Appellate Tribunal set aside a ₹1.49 crore penalty that MCX had imposed on Ventura, ruling the order invalid, Business Standard reported. The decision removes a regulatory overhang for the broker in India's commodity derivatives market.",
+   "url": "https://www.business-standard.com/markets/news/sat-sets-aside-1-49-crore-mcx-penalty-on-ventura-over-invalid-order-126102801676_1.html",
+   "source": "Business Standard",
+   "source_domain": "business-standard.com",
+   "publisher_id": "business-standard",
+   "published_at": "2026-10-28T13:57:16Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "mcx",
+    "india"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "id": "288f1093d83fc4da",
+   "breaking": false,
+   "rank": 11
+  },
+  {
+   "id": "7895f579dd8db67c",
+   "rank": 12,
+   "title": "KISNA offers 105% old-gold exchange value and 100% off making charges for Dhanteras and Diwali",
+   "summary": "KISNA Diamond & Gold Jewellery is wooing festive buyers for Dhanteras and Diwali: 105% exchange value on old gold towards diamond jewellery, up to 100% off making charges on select jewellery, and double gold rate protection with 25% down payment. Its 'Shop Sparkle Win '26' draw across 218 cities offers 823 vehicles — 247 cars and 576 scooters — with the final draw in early December 2026.",
+   "url": "https://the9thestate.com/business/kisna-offers-up-to-105-percent-value-on-old-gold-100-percent-off-making-charges-for-dhanteras-diwali",
+   "source": "The 9th Estate",
+   "source_domain": "the9thestate.com",
+   "publisher_id": "the-9th-estate",
+   "published_at": "2026-10-29T10:32:03Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "gold",
+    "india",
+    "jewellery"
+   ],
+   "category": "festive",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "related_urls": []
+  }
+ ]
 }

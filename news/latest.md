@@ -1,4 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-10-30T04:00Z
+# Gold & Silver for Indian buyers · 2026-10-30T05:00Z
 
 > Gold slips below $4,000 as oil spike fuels December Fed-hike bets; gold-silver ratio hits year high above 76
 
@@ -12,7 +12,7 @@ Gold fell back below $4,000 an ounce on Friday as Brent crude near $118 and hot 
 
 ## Trending
 - **Gold breaks below $4,000 on oil-fuelled Fed bets**: Higher oil and hot US inflation data revived December rate-hike expectations, pushing gold under $4,000 and capping any rebound. (stories 1, 5)
-- **Silver ratio at year high as physical market loosens**: The gold-silver ratio topped 76 for the first time since December 2025 as London inventories climbed and investment money retreated. (stories 2, 4)
+- **Silver ratio at year high as physical market loosens**: The gold-silver ratio topped 76 for the first time since December 2025 as London inventories climbed and investment money retreated. (stories 2, 8, 4)
 - **Festive demand stays muted despite the selloff**: Silver's ~55% collapse from January's peak has not sparked Indian festive buying, with dealers describing stocking as subdued. (stories 3, 12)
 - **SGB holders cash in at ₹14,213**: The RBI's ₹14,213 redemption price for the 2019-20 Series VI tranche turns a ₹3,835-per-gram 2019 investment into nearly 3.7x. (stories 6)
 - **MCX steadies near ₹1.43 lakh**: Domestic gold futures held near ₹1.43 lakh per 10 grams on firm spot demand, giving Dhanteras buyers only modest breathing room. (stories 9, 7, 11)
@@ -24,8 +24,8 @@ Gold fell back below $4,000 an ounce on Friday as Brent crude near $118 and hot 
    Metals Focus says silver's underperformance has pushed the gold-silver ratio above 76 — its highest since December 2025 and up over 11% this year — as London vault silver inventories climbed to 932 million ounces, a near four-year high, while silver ETP holdings fell about 60 million ounces since January. With managed-money longs at their lowest since February 2024, silver may probe lower.
 3. [Silver's 55% plunge fails to spark festive buying](https://www.livemint.com/market/commodities/indiasilver-prices-demand-supply-imports-11793202423976.html) — *Mint*, 2026-10-30T00:20:04Z
    Mint reports that silver's roughly 55% plunge from its January peak — over $121 an ounce and ₹4.2 lakh a kg then, about $52 and under ₹2 lakh now — has failed to spark festive-season buying in India, with investors sitting on losses and dealers describing festive stocking as subdued.
-4. [Silver Forecast: XAG/USD hits fresh YTD low near $51.00](https://www.fxstreet.com/news/silver-price-forecast-xag-usd-slumps-to-fresh-low-since-november-near-5100-202610300227) — *FXStreet*, 2026-10-30T02:27:39Z
-   Silver extended its downtrend for a third straight day, hitting a fresh low since November 2025 near $51.00 in Friday's Asian session before recovering to about $51.50-51.55, FXStreet reports. With the RSI at 27.21 in oversold territory, it sees rallies above $52 facing fresh sellers and warns a break below $51.00 would expose the $50 psychological mark. XAG/USD is down roughly 1.25% on the day.
+4. [Gold and Silver Price Forecast: Silver Lags as Fed Hike Fears Grow](https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-silver-lags-as-fed-hike-fears-grow-1641453) — *FXEmpire*, 2026-10-30T03:44:48Z
+   FXEmpire's technical call: silver is sliding toward the $48–$50 support zone and gold toward key support, both pressured by December Fed-hike bets. A break below $3,950 in gold could open a slide to $3,800; silver must hold $48–$50 to avoid a drop toward $45–$46. The analyst argues a peak in the gold-silver ratio near 80 could mark a major bottom for both metals.
 5. [Gold Prices Slip as Fed Rate Outlook Shifts; Silver Hits 11-Month Low](https://www.bullionvault.co.uk/gold-news/gold-price-news/gold-fed-silver-11-month-low-102920261) — *BullionVault*, 2026-10-29T15:13:13Z
    Spot gold fell 0.4% to $4,024 an ounce on Thursday as strong US growth and inflation data reinforced bets on a December Fed hike; silver dropped 2.6% to $52.39, its lowest since late November last year, widening the gold-silver ratio to about 77. CME FedWatch priced December hike odds at 83.3% after the data.
 6. [Sovereign Gold Bond premature redemption today: ₹3,835 investment turns into ₹14,213; check SGB 2019-20 Series VI investors' gains](https://upstox.com/news/personal-finance/latest-updates/sovereign-gold-bond-premature-redemption-today-3-835-investment-turns-into-14213-check-sgb-2019-20-series-6-investors-gains/article-202670/) — *Upstox*, 2026-10-30T02:28:06Z
