@@ -1,12 +1,88 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-30T08:00Z",
-  "generated_at": "2026-10-30T08:24:00Z",
+  "edition_id": "2026-10-30T09:00Z",
+  "generated_at": "2026-10-30T09:06:22Z",
   "window": {
-    "from": "2026-10-30T07:00Z",
-    "to": "2026-10-30T08:00Z"
+    "from": "2026-10-30T08:00Z",
+    "to": "2026-10-30T09:00Z"
   },
+  "insights": {
+    "headline": "Silver crashes to ₹1.85 lakh on MCX as Fed-hike bets deepen; gold pinned near $4,000",
+    "summary": "MCX silver futures slid about 2% to ₹1,85,171 a kg on Friday, near ₹1.85 lakh, with spot silver near $51.27, as the Fed's 10-2 hold strengthened December hike bets. Spot gold held near $3,991, heading for a second straight monthly loss, while India's September gold imports collapsed 81% ahead of Dhanteras. Mirae Asset Sharekhan sees silver sliding to $48 and gold testing $3,930 support; the gold-silver ratio pushed toward 78, its highest in nearly a year.",
+    "points": [
+      "MCX silver futures fell ~2% to ₹1,85,171/kg intraday on Friday, near ₹1.85 lakh, as the Fed's 10-2 hold cemented December hike bets.",
+      "Spot silver traded near $51.27 and gold near $3,991; the gold-silver ratio pushed toward 78, a near one-year high.",
+      "India's September gold imports fell 81% on high prices and appeals against buying, ahead of Dhanteras on November 6.",
+      "Mirae Asset Sharekhan expects silver toward $48 and gold testing $3,930 support; UBS sees limited downside near $4,000.",
+      "RBI fixed SGB 2019-20 Series VI premature redemption at ₹14,213 per unit - about 3.7x the 2019 issue price."
+    ]
+  },
+  "trending": [
+    {
+      "title": "Silver's rout hits MCX ahead of Dhanteras",
+      "summary": "MCX silver futures fell ~2% to ₹1.85 lakh/kg on Friday as the Fed's hawkish hold deepened December hike bets; spot silver hovered near $51.27 after hitting fresh 11-month lows near $50.50.",
+      "item_ids": [
+        "c8fe0220c3a81c77",
+        "7e9f9484917e2c6b",
+        "3586f35ac4c261a1"
+      ]
+    },
+    {
+      "title": "Gold stuck near $4,000 as hike odds firm",
+      "summary": "Gold slipped below $4,000 on higher oil and strong US data, heading for a second straight monthly loss; Sharekhan sees a test of $3,930 support while UBS sees limited downside near $4,000.",
+      "item_ids": [
+        "d29b41f063b8f0c9",
+        "f765e929890382c8",
+        "246fa52270653c2e"
+      ]
+    },
+    {
+      "title": "Festive demand falters despite lower prices",
+      "summary": "September gold imports collapsed 81% on high prices and appeals against buying, and even silver's 55% plunge has failed to spark festive buying ahead of Dhanteras.",
+      "item_ids": [
+        "ff3f3675be1c0fb5",
+        "2bf853a8e3be716e",
+        "2c9db0e70d59681f"
+      ]
+    },
+    {
+      "title": "MCX bullion under pressure; iCOMDEX flat",
+      "summary": "Informist reports the MCX iCOMDEX composite held flat at 22963.67 while the bullion component fell on December-hike expectations and energy rose on Strait of Hormuz attacks.",
+      "item_ids": [
+        "f3073f576cd7f4ee",
+        "c8fe0220c3a81c77"
+      ]
+    }
+  ],
   "items": [
+    {
+      "id": "c8fe0220c3a81c77",
+      "rank": 1,
+      "title": "Silver futures decline to ₹1.85 lakh per kg",
+      "summary": "Silver futures on the MCX fell about 2% to an intraday low of ₹1,85,171 per kg on Friday, near ₹1.85 lakh, as the US Federal Reserve's 10-2 vote to hold rates at 3.75-4.00% strengthened bets on a December hike. December gold futures slipped 0.63% to ₹1,41,685 per 10 grams; spot gold was near $3,991 and spot silver $51.27. The slide comes just over a week before Dhanteras on November 6.",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/silver-futures-decline-to-185-lakh-per-kg/article71644300.ece",
+      "source": "The Hindu BusinessLine",
+      "source_domain": "thehindubusinessline.com",
+      "publisher_id": "hindu-businessline",
+      "published_at": "2026-10-30T08:55:34Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "mcx",
+      "metals": [
+        "silver"
+      ],
+      "tags": [
+        "silver",
+        "mcx",
+        "fed",
+        "india"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://www.nationpress.com/business/gold-silver-slide-up-to-2percent-on-hawkish-fed",
+        "https://www.entrepreneuroutreach.com/markets/gold-silver-prices-today-mcx-rates-fall-before-dhanteras"
+      ]
+    },
     {
       "id": "7e9f9484917e2c6b",
       "title": "Silver Price Forecast: XAG/USD drops to fresh 11-month lows near $50.50",
@@ -28,11 +104,33 @@
         "global"
       ],
       "breaking": false,
-      "rank": 1
+      "rank": 2
+    },
+    {
+      "id": "3586f35ac4c261a1",
+      "rank": 3,
+      "title": "Silver may slide to $48 as momentum selling deepens: Mirae Asset Sharekhan",
+      "summary": "Mirae Asset Sharekhan expects silver to slide toward $48 an ounce as momentum selling deepens, with hot US inflation data and strong Q3 GDP growth cementing bets on a December Fed rate hike. Silver has fallen to fresh 11-month lows near $50.50; the brokerage sees continued pressure on the metal while December-hike odds stay elevated.",
+      "url": "https://www.business-standard.com/markets/news/silver-may-slide-to-48-as-momentum-selling-deepens-mirae-asset-sharekhan-126103000503_1.html",
+      "source": "Business Standard",
+      "source_domain": "business-standard.com",
+      "publisher_id": "business-standard",
+      "published_at": "2026-10-30T06:08:15Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/3586f35ac4c261a1.jpg",
+      "image_kind": "photo",
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "tags": [
+        "silver",
+        "global",
+        "fed"
+      ],
+      "breaking": false
     },
     {
       "id": "ff3f3675be1c0fb5",
-      "rank": 2,
       "title": "India's gold imports down 81%; global prices could be impacted",
       "summary": "India's gold imports dropped 81% in September ahead of the festive season, Nikkei Asia reports, as elevated domestic prices and Prime Minister Modi's repeated appeals against buying gold choked demand in the world's second-biggest gold market. Retailers say stock on hand covers the festival and wedding seasons, leaving open whether weaker Indian demand could weigh on global bullion prices.",
       "url": "https://asia.nikkei.com/business/markets/commodities/india-s-gold-imports-down-81-global-prices-could-be-impacted",
@@ -52,11 +150,11 @@
         "gold"
       ],
       "breaking": false,
-      "related_urls": []
+      "related_urls": [],
+      "rank": 4
     },
     {
       "id": "d29b41f063b8f0c9",
-      "rank": 3,
       "title": "Gold slips as higher oil, US inflation data bolster Fed hike bets",
       "summary": "Reuters reports gold slipped on Friday as higher oil prices — Brent near $118 after Houthi attacks on Saudi targets — stoked inflation fears, while robust US inflation data bolstered bets on a December Fed hike. Spot gold fell 0.6% to $3,997 an ounce, slipping below $4,000, with traders pricing roughly a 75% chance of a December increase; bullion is on track for a second straight monthly decline.",
       "url": "https://www.reuters.com/world/india/gold-slips-higher-oil-us-inflation-data-bolster-fed-hike-bets-2026-10-30/",
@@ -76,7 +174,8 @@
         "gold"
       ],
       "breaking": false,
-      "related_urls": []
+      "related_urls": [],
+      "rank": 5
     },
     {
       "id": "81c340788c6da70f",
@@ -99,11 +198,10 @@
         "global"
       ],
       "breaking": false,
-      "rank": 4
+      "rank": 6
     },
     {
       "id": "af3a64d3e56d314f",
-      "rank": 5,
       "title": "Gold-silver ratio tops 76 to hit new high for the year, as silver inventory returns",
       "summary": "Metals Focus says silver's underperformance has pushed the gold-silver ratio above 76 — its highest since December 2025 and up over 11% this year — as London vault silver inventories climbed to 932 million ounces, a near four-year high, while silver ETP holdings fell about 60 million ounces since January. With managed-money longs at their lowest since February 2024, silver may probe lower.",
       "url": "https://finance.biggo.com/news/c8726945-58a8-4fec-9f57-335091f6d3fc",
@@ -124,7 +222,8 @@
         "silver"
       ],
       "breaking": false,
-      "related_urls": []
+      "related_urls": [],
+      "rank": 7
     },
     {
       "id": "f765e929890382c8",
@@ -147,11 +246,10 @@
         "global"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 8
     },
     {
       "id": "2bf853a8e3be716e",
-      "rank": 7,
       "title": "Silver's 55% plunge fails to spark festive buying",
       "summary": "Mint reports that silver's roughly 55% plunge from its January peak — over $121 an ounce and ₹4.2 lakh a kg then, about $52 and under ₹2 lakh now — has failed to spark festive-season buying in India, with investors sitting on losses and dealers describing festive stocking as subdued.",
       "url": "https://www.livemint.com/market/commodities/indiasilver-prices-demand-supply-imports-11793202423976.html",
@@ -171,34 +269,8 @@
         "silver"
       ],
       "breaking": false,
-      "related_urls": []
-    },
-    {
-      "id": "5175d1794689ab19",
-      "rank": 8,
-      "title": "Gold and Silver Price Forecast: Silver Lags as Fed Hike Fears Grow",
-      "summary": "FXEmpire's technical call: silver is sliding toward the $48–$50 support zone and gold toward key support, both pressured by December Fed-hike bets. A break below $3,950 in gold could open a slide to $3,800; silver must hold $48–$50 to avoid a drop toward $45–$46. The analyst argues a peak in the gold-silver ratio near 80 could mark a major bottom for both metals.",
-      "url": "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-silver-lags-as-fed-hike-fears-grow-1641453",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "publisher_id": "fxempire",
-      "published_at": "2026-10-30T03:44:48Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "silver",
-        "gold",
-        "fed"
-      ],
-      "category": "global",
-      "metals": [
-        "silver",
-        "gold"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-slumps-to-fresh-low-since-november-near-5100-202610300227"
-      ]
+      "related_urls": [],
+      "rank": 9
     },
     {
       "id": "b8cc73cfae89f3a8",
@@ -221,11 +293,11 @@
         "rbi",
         "india"
       ],
-      "rank": 9,
       "related_urls": [
         "https://upstox.com/news/personal-finance/latest-updates/sovereign-gold-bond-premature-redemption-today-3-835-investment-turns-into-14213-check-sgb-2019-20-series-6-investors-gains/article-202670/",
         "https://hiindia.com/rbi-fixes-premature-redemption-price-of-sgb-2019-20-series-vi-at-rs-14213-per-unit-on-friday/"
-      ]
+      ],
+      "rank": 10
     },
     {
       "id": "2c9db0e70d59681f",
@@ -250,31 +322,32 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 10
+      "rank": 11
     },
     {
-      "id": "b2c715dc4ad9ee03",
-      "title": "Domestic gold futures rise to ₹1.43 lakh/10 gm on firm spot demand",
-      "summary": "Gold futures for December delivery rose ₹102, or 0.07%, to ₹1,43,807 per 10 grams on MCX in a turnover of 811 lots as speculators built fresh positions on firm spot demand, reversing part of Wednesday's ₹646 slide. Globally, gold futures fell 0.58% to $4,043.77 an ounce in New York (PTI via BusinessLine).",
-      "url": "https://www.thehindubusinessline.com/markets/gold/domestic-gold-futures-rise-to-143-lakh10-gm-on-firm-spot-demand/article71639202.ece",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "publisher_id": "hindu-businessline",
-      "published_at": "2026-10-29T05:54:00Z",
+      "id": "f3073f576cd7f4ee",
+      "rank": 12,
+      "title": "MCX iCOMDEX flat; bullion down while energy rises on renewed attacks in W Asia",
+      "summary": "The MCX iCOMDEX Composite index held steady at 22963.67 points on Friday, Informist reports, with bullion falling while energy rose on fresh attacks in the Strait of Hormuz. The bullion component fell to 31076.28 points as of 11:05 IST; the gold sub-index eased on expectations of a December Fed rate hike, and the silver sub-index was down nearly 1% at 20842.20 points.",
+      "url": "https://www.informistmedia.com/CommodityWire/63525/MCX-iCOMDEX-MCX-iCOMDEX-flat-bullion-down-while-energy-rises-on-renewed-attacks-in-W-Asia",
+      "source": "Informist Media",
+      "source_domain": "informistmedia.com",
+      "publisher_id": "informist-media",
+      "published_at": "2026-10-30T06:50:29Z",
       "image_url": null,
       "image_kind": "none",
-      "tags": [
-        "gold",
-        "mcx",
-        "india"
-      ],
       "category": "mcx",
       "metals": [
-        "gold"
+        "gold",
+        "silver"
       ],
-      "breaking": false,
-      "related_urls": [],
-      "rank": 11
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "fed"
+      ],
+      "breaking": false
     },
     {
       "id": "246fa52270653c2e",
@@ -297,34 +370,10 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 12
-    },
-    {
-      "title": "SAT sets aside ₹1.49 crore MCX penalty on Ventura over invalid order",
-      "summary": "The Securities Appellate Tribunal set aside a ₹1.49 crore penalty that MCX had imposed on Ventura, ruling the order invalid, Business Standard reported. The decision removes a regulatory overhang for the broker in India's commodity derivatives market.",
-      "url": "https://www.business-standard.com/markets/news/sat-sets-aside-1-49-crore-mcx-penalty-on-ventura-over-invalid-order-126102801676_1.html",
-      "source": "Business Standard",
-      "source_domain": "business-standard.com",
-      "publisher_id": "business-standard",
-      "published_at": "2026-10-28T13:57:16Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "mcx",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "id": "288f1093d83fc4da",
-      "breaking": false,
       "rank": 13
     },
     {
       "id": "7895f579dd8db67c",
-      "rank": 14,
       "title": "KISNA offers 105% old-gold exchange value and 100% off making charges for Dhanteras and Diwali",
       "summary": "KISNA Diamond & Gold Jewellery is wooing festive buyers for Dhanteras and Diwali: 105% exchange value on old gold towards diamond jewellery, up to 100% off making charges on select jewellery, and double gold rate protection with 25% down payment. Its 'Shop Sparkle Win '26' draw across 218 cities offers 823 vehicles — 247 cars and 576 scooters — with the final draw in early December 2026.",
       "url": "https://the9thestate.com/business/kisna-offers-up-to-105-percent-value-on-old-gold-100-percent-off-making-charges-for-dhanteras-diwali",
@@ -344,63 +393,8 @@
         "gold"
       ],
       "breaking": false,
-      "related_urls": []
+      "related_urls": [],
+      "rank": 14
     }
-  ],
-  "trending": [
-    {
-      "title": "Silver's slide deepens to a fresh 11-month low",
-      "summary": "Silver fell for a third straight day to near $50.50 — a fresh 11-month low — as hot US inflation data reinforced December Fed-hike bets; Metals Focus warned of further underperformance vs gold.",
-      "item_ids": [
-        "7e9f9484917e2c6b",
-        "81c340788c6da70f",
-        "af3a64d3e56d314f",
-        "2bf853a8e3be716e"
-      ]
-    },
-    {
-      "title": "Gold pinned near $4,000 as hike bets firm",
-      "summary": "Gold slipped below $4,000 on higher oil and strong US data, heading for a second straight monthly loss; Mirae Asset Sharekhan sees a test of $3,930 support while UBS sees limited downside.",
-      "item_ids": [
-        "d29b41f063b8f0c9",
-        "f765e929890382c8",
-        "246fa52270653c2e"
-      ]
-    },
-    {
-      "title": "India's festive gold demand falters",
-      "summary": "September gold imports collapsed 81% on high prices and appeals against buying, and even silver's 55% plunge has failed to spark festive buying ahead of Dhanteras.",
-      "item_ids": [
-        "ff3f3675be1c0fb5",
-        "2bf853a8e3be716e",
-        "2c9db0e70d59681f"
-      ]
-    },
-    {
-      "title": "SGB redemption pays ~3.7x for 2019 buyers",
-      "summary": "RBI fixed the SGB 2019-20 Series VI premature redemption at ₹14,213 per unit for October 30 — about 3.7 times the ₹3,835 issue price of October 2019.",
-      "item_ids": [
-        "b8cc73cfae89f3a8"
-      ]
-    },
-    {
-      "title": "MCX steadies near ₹1.43 lakh",
-      "summary": "Domestic gold futures held near ₹1.43 lakh per 10 grams on firm spot demand, while SAT set aside a ₹1.49 crore MCX penalty on Ventura.",
-      "item_ids": [
-        "b2c715dc4ad9ee03",
-        "288f1093d83fc4da"
-      ]
-    }
-  ],
-  "insights": {
-    "headline": "Silver sinks to fresh 11-month low near $50.50 as hot US data cements December Fed-hike bets",
-    "summary": "Silver extended its slide for a third straight day, dropping to a fresh 11-month low near $50.50 on Friday as hot US inflation and GDP data reinforced bets on a December Fed rate hike. Gold held near $4,000, on track for a second straight monthly loss, while India's September gold imports collapsed 81% ahead of the festive season. The RBI fixed the SGB 2019-20 Series VI premature redemption at ₹14,213 per unit, and Metals Focus warned silver could keep underperforming gold as London inventories hit a near four-year high.",
-    "points": [
-      "Silver dropped to a fresh 11-month low near $50.50 on Friday, down a third straight day on hot US PCE data.",
-      "Spot gold held near $4,000, heading for a second straight monthly loss with December Fed-hike odds near 75%.",
-      "India's September gold imports fell 81% as high prices and appeals against buying choked festive demand.",
-      "RBI fixed SGB 2019-20 Series VI redemption at ₹14,213 per unit — about 3.7x the 2019 issue price.",
-      "Metals Focus: gold-silver ratio above 76 for the first time since Dec 2025; London silver stocks at a 4-year high."
-    ]
-  }
+  ]
 }
