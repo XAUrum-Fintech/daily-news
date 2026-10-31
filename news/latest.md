@@ -1,4 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-10-31T08:00Z
+# Gold & Silver for Indian buyers · 2026-10-31T09:00Z
 
 > Gold and silver hit one-year lows as a tech-led Wall Street selloff forced liquidation across precious metals.
 
@@ -13,7 +13,7 @@ Spot gold sank about 3.5% to near $3,880 and silver slid 6% to below $49 on Frid
 ## Trending
 - **Liquidation, not haven demand, is driving gold**: Gold fell even as yields dropped and Iran risks rose: with equities plunging, funds sold liquid gold to cover losses. The metal is trading on where rates go next, not on today's data. (stories 3)
 - **Silver's historic unwind deepens below $50**: Silver briefly broke $50 for the first time in nearly a year and is down ~16% in October, far outpacing gold's slide. Oversold signals are flashing, but analysts warn of more long liquidation. (stories 5)
-- **MCX selloff lands right before Dhanteras buying**: The domestic rout — MCX gold off 7.9% in October's worst month since 2008, silver deeper — lands as festive buying picks up. Analysts say stagger Diwali purchases instead of waiting for a deeper fall. (stories 2)
+- **MCX selloff lands right before Dhanteras buying**: The domestic rout — MCX gold off 7.9% in October's worst month since 2008, silver deeper — lands as festive buying picks up. Analysts say stagger Diwali purchases instead of waiting for a deeper fall. (stories 3)
 - **Fed higher-for-longer keeps a lid on metals**: A 10-2 Fed vote with two dissents for a hike, plus hot oil and GDP prints, has markets pricing further tightening. Forecasters see near-term pressure even as some keep long-term bullish targets. (stories 3)
 
 ## Stories
@@ -59,3 +59,5 @@ Spot gold sank about 3.5% to near $3,880 and silver slid 6% to below $49 on Frid
    RBI has fixed the premature redemption price of SGB 2019-20 Series VI at ₹14,213 per unit for October 30, 2026 — about 3.7 times its ₹3,835-per-gram issue price of October 2019, Upstox reports. The price is the simple average of IBJA's 999-purity gold closes on October 27-29; the request window (Sep 29–Oct 21) has closed. SGBs pay 2.5% annual interest, semi-annually.
 21. [KISNA offers 105% old-gold exchange value and 100% off making charges for Dhanteras and Diwali](https://the9thestate.com/business/kisna-offers-up-to-105-percent-value-on-old-gold-100-percent-off-making-charges-for-dhanteras-diwali) — *The 9th Estate*, 2026-10-29T10:32:03Z
    KISNA Diamond & Gold Jewellery is wooing festive buyers for Dhanteras and Diwali: 105% exchange value on old gold towards diamond jewellery, up to 100% off making charges on select jewellery, and double gold rate protection with 25% down payment. Its 'Shop Sparkle Win '26' draw across 218 cities offers 823 vehicles — 247 cars and 576 scooters — with the final draw in early December 2026.
+22. [Dhanteras 2026: Should You Gift Ageing Parents Gold Or Rs 5 Lakh In Cash?](https://www.outlookmoney.com/personal-finance/dhanteras-2026-should-you-gift-ageing-parents-gold-or-rs-5-lakh-in-cash) — *Outlook Money*, 2026-10-31T07:27:35Z
+   With Dhanteras on November 6, Outlook Money weighs gifting ageing parents gold versus Rs 5 lakh in cash: gold suits financially comfortable parents who value the tradition, while cash offers flexibility for hospital bills and expenses insurance may not cover. Experts advise matching the gift to the parents' savings, income and insurance cover.
