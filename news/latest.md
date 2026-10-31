@@ -1,4 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-10-31T16:00Z
+# Gold & Silver for Indian buyers · 2026-10-31T18:00Z
 
 > Delhi gold crashes to a 10-month low of ₹1.42 lakh as the global bullion rout extends into the weekend.
 
@@ -59,3 +59,5 @@ Gold and silver extended their selloff on Saturday: Delhi gold plunged ₹3,200 
    Gold futures sank to a low of $3,933.55, last near $3,938.65 and down over 7% in October, as renewed Middle East fighting — with reports of possible US strikes on Iran after the Nov 3 midterms — keeps energy high and stagflation fears alive. Satendra Singh writes that December Fed-hike expectations are pressuring non-yielding gold, now below its 9- and 20-day moving averages.
 21. [Gold plunges, but UBS isn't budging on its price target](https://www.thestreet.com/investing/ubs-gold-5000-price-target) — *TheStreet*, 2026-10-30T14:17:00Z
    Gold dipped below $4,000 — about 29% below its January record near $5,595 — yet UBS strategist Giovanni Staunovo reiterated a $5,000 target for 2027, with $5,400 by September 2027, TheStreet reports citing Reuters. The caveat: the Fed's Oct 28 hold at 3.75–4% came with two dissenters favoring an immediate hike, and higher-for-longer rates remain gold's main headwind.
+22. [Gold Price Forecast: XAU/USD 17% Plunge Threatens Multi-Year Uptrend](https://www.forex.com/en-us/news-and-analysis/gold-price-forecast-xau-usd-17pct-plunge-threatens-multi-year-uptrend-10-31-2026/) — *FOREX.com*, 2026-10-31T17:01:00Z
+   Gold has fallen in seven of the past nine weeks and sits nearly 17.5% below its August high after a fresh yearly low Friday, with the weekly RSI at its weakest since September 2022, writes FOREX.com's Michael Boutros. He flags $3,800-3,840 as key support: a weekly close below it would invalidate the multi-year uptrend; resistance at $4,017 and $4,166. Attributed to source; not investment advice.
