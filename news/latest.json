@@ -1,17 +1,66 @@
 {
-  "edition_id": "2026-10-31T10:00Z",
-  "generated_at": "2026-10-31T10:01:32Z",
-  "insights": {
-    "headline": "Gold and silver hit one-year lows as a tech-led Wall Street selloff forced liquidation across precious metals.",
-    "points": [
-      "Comex gold settled at $3,898.90, down 3.3% on the day and 10% in October; spot silver broke below $49, down about 16% in October.",
-      "The 10-year US Treasury yield fell toward 4.93% as equity losses drove bond buying, yet gold still sold off on margin calls.",
-      "Crude climbed over 2% after another Hormuz tanker attack, feeding inflation fears and expectations the Fed stays restrictive.",
-      "India's MCX followed: gold futures hit an intraday low of ₹1,41,685 per 10g; jewellers cut discounts to ₹2,000 per 10g.",
-      "Mint's Saturday wrap: MCX December gold ended October 7.9% lower at Rs 1,38,419/10g; advice — stagger Diwali purchases rather than wait for a deeper fall."
-    ],
-    "summary": "Spot gold sank about 3.5% to near $3,880 and silver slid 6% to below $49 on Friday, with Comex gold logging its lowest settlement since October 2025. A tech equity selloff triggered forced selling that overwhelmed support from falling Treasury yields, while another tanker attack in the Strait of Hormuz and strong US data kept Fed rate-hike bets alive. MCX tracked the rout: December gold fell over 2% to ₹1,39,100 per 10 grams and silver over 4% to ₹1,81,300 per kg."
+  "schema": "orob-news.v1",
+  "edition_id": "2026-10-31T11:00Z",
+  "generated_at": "2026-10-31T11:05:43Z",
+  "window": {
+    "from": "2026-10-31T09:00:00Z",
+    "to": "2026-10-31T11:00:00Z"
   },
+  "insights": {
+    "headline": "SGB 2021-22 Series VII redemption opens November 2 as a tech-led selloff pushes gold and silver to one-year lows.",
+    "summary": "The RBI has fixed the redemption price of Sovereign Gold Bond 2021-22 Series VII at ₹14,167 per unit, with the premature-exit window opening November 2, 2026. Meanwhile a Wall Street tech rout forced liquidation across precious metals: spot gold fell 3.5% to $3,880, a one-year low, and spot silver dropped nearly 6% to below $49. MCX followed lower, with December gold slipping to ₹1,41,685 per 10g and silver futures near ₹1,85,171 per kg.",
+    "points": [
+      "Spot gold sank 3.5% to $3,880, a one-year low, while spot silver fell nearly 6% to below $49; silver is down about 16% in October.",
+      "Falling Treasury yields and a softer dollar could not stop the selloff as equity losses forced margin calls and cash-raising.",
+      "Mirae Asset Sharekhan: momentum selling may drag silver to $48–$50 if support near $54.50 breaks; resistance at $59.",
+      "MCX December gold fell to ₹1,41,685 per 10g and silver futures to ₹1,85,171 per kg ahead of Dhanteras on November 6.",
+      "SGB Series VII investors exit November 2 at ₹14,167 per unit — about 197% capital appreciation since October 2021."
+    ]
+  },
+  "trending": [
+    {
+      "title": "Tech-led liquidation drives metals to one-year lows",
+      "summary": "Wall Street's tech rout forced margin-call selling across gold and silver: spot gold fell to $3,880 and silver broke below $49, with lower yields and a softer dollar unable to stop the slide.",
+      "item_ids": [
+        "621e1fd4577ab29c",
+        "1eb23078df4c88ff",
+        "a49b3ce8636a8caa"
+      ]
+    },
+    {
+      "title": "Silver's technical picture darkens: $48–$50 in focus",
+      "summary": "Mirae Asset Sharekhan sees momentum selling pushing silver to $48–$50 on a break of $54.50 support; ET notes silver has already lost over 58% from its February record near $120/oz.",
+      "item_ids": [
+        "3586f35ac4c261a1",
+        "a49b3ce8636a8caa",
+        "225b67e9f40f79f7"
+      ]
+    },
+    {
+      "title": "SGB exit window opens November 2",
+      "summary": "RBI fixed the Series VII premature redemption at ₹14,167 per unit, roughly tripling investors' money in five years plus 2.5% annual interest.",
+      "item_ids": [
+        "d8ec95eddc6324e9",
+        "b8cc73cfae89f3a8"
+      ]
+    },
+    {
+      "title": "Dhanteras buying meets a softer MCX",
+      "summary": "MCX gold fell 2.5% in a week just before Dhanteras, with December futures at ₹1,41,685 per 10g; Outlook Money asks whether gold or cash is the better gift for ageing parents.",
+      "item_ids": [
+        "139223e2e9a7b829",
+        "7b2d1dd70ad85f93"
+      ]
+    },
+    {
+      "title": "India's import and reserve buffers thin",
+      "summary": "Gold imports are down 81% while FX reserves fell for a seventh straight week to a two-month low, even as domestic bullion stayed weak on rate-hike fears.",
+      "item_ids": [
+        "ff3f3675be1c0fb5",
+        "8e64c05b520c9f38"
+      ]
+    }
+  ],
   "items": [
     {
       "breaking": false,
@@ -61,7 +110,10 @@
         "india"
       ],
       "title": "Gold rate in India today: MCX gold falls 2.5% in a week - Buy at low price or avoid ahead of Diwali, Dhanteras 2026?",
-      "url": "https://www.livemint.com/market/commodities/gold-rate-in-india-today-mcx-gold-falls-2-5-in-a-week-buy-at-low-price-or-avoid-ahead-of-diwali-dhanteras-2026-11793431585848.html"
+      "url": "https://www.livemint.com/market/commodities/gold-rate-in-india-today-mcx-gold-falls-2-5-in-a-week-buy-at-low-price-or-avoid-ahead-of-diwali-dhanteras-2026-11793431585848.html",
+      "related_urls": [
+        "https://www.livemint.com/market/commodities/india-gold-price-october-30-mcx-rate-crashes-below-rs-1-42-lakh-ahead-of-dhanteras-whats-triggering-selloff-11793360090751.html"
+      ]
     },
     {
       "breaking": false,
@@ -78,7 +130,8 @@
       "rank": 3,
       "related_urls": [
         "https://www.kitco.com/news/article/2026-10-30/gold-prices-plunge-one-year-low-below-3900-higher-oil-prices-fuel-fears",
-        "https://www.kitco.com/news/article/2026-10-30/wall-street-abandons-ship-after-gold-sinks-below-3900oz-main-street"
+        "https://www.kitco.com/news/article/2026-10-30/wall-street-abandons-ship-after-gold-sinks-below-3900oz-main-street",
+        "https://economictimes.indiatimes.com/markets/commodities/news/tech-rout-drives-gold-to-one-year-low-white-metals-sink-deep-into-oversold-zone/articleshow/135386768.cms"
       ],
       "source": "Kitco",
       "source_domain": "kitco.com",
@@ -116,6 +169,30 @@
       "related_urls": []
     },
     {
+      "id": "3586f35ac4c261a1",
+      "title": "Silver may slide to $48 as momentum selling deepens: Mirae Asset Sharekhan",
+      "summary": "Mirae Asset Sharekhan's Praveen Singh says momentum selling is weighing heavily on silver and the selloff looks overdone: a decisive break below support near $54.50 could drag it to the $48-$50 zone, with resistance at $59. Silver fell 5.33% on October 22 to $54.90, its lowest since July 17, after breaching $58.60 support; COMEX registered stocks are down about 49% from the September 2025 peak.",
+      "url": "https://www.business-standard.com/markets/news/silver-may-slide-to-48-as-momentum-selling-deepens-mirae-asset-sharekhan-126103000503_1.html",
+      "source": "Business Standard",
+      "source_domain": "business-standard.com",
+      "publisher_id": "business-standard",
+      "published_at": "2026-10-30T06:08:15Z",
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "tags": [
+        "silver",
+        "global",
+        "comex"
+      ],
+      "image_url": null,
+      "image_kind": "none",
+      "breaking": false,
+      "related_urls": [],
+      "rank": 5
+    },
+    {
       "breaking": false,
       "category": "mcx",
       "id": "f5efbbd3021b85d4",
@@ -127,7 +204,7 @@
       ],
       "published_at": "2026-10-30T15:21:34Z",
       "publisher_id": "informist-media",
-      "rank": 5,
+      "rank": 6,
       "source": "Informist Media",
       "source_domain": "informistmedia.com",
       "summary": "MCX December gold fell over 2% to ₹1,39,100 per 10 grams and December silver over 4% to ₹1,81,300 per kg on Friday, tracking a COMEX rout driven by Fed rate-hike bets and a tech selloff. The national average spot gold price opened at ₹1,40,891 per 10g; jewellers trimmed discounts to ₹2,000 per 10g from ₹2,500.",
@@ -138,7 +215,8 @@
         "india"
       ],
       "title": "India Bullion: Down on rate hike fears; investors seek cash amid tech selloff",
-      "url": "https://www.informistmedia.com/CommodityWire/63597/India-Bullion-Down-on-rate-hike-fears-investors-seek-cash-amid-tech-selloff"
+      "url": "https://www.informistmedia.com/CommodityWire/63597/India-Bullion-Down-on-rate-hike-fears-investors-seek-cash-amid-tech-selloff",
+      "related_urls": []
     },
     {
       "breaking": false,
@@ -152,9 +230,10 @@
       ],
       "published_at": "2026-10-30T19:50:19Z",
       "publisher_id": "mining-com-au",
-      "rank": 6,
+      "rank": 7,
       "related_urls": [
-        "https://www.mining.com/gold-price-slumps-to-one-year-low-silver-price-breaks-50-as-mining-stocks-tank/"
+        "https://www.mining.com/gold-price-slumps-to-one-year-low-silver-price-breaks-50-as-mining-stocks-tank/",
+        "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year"
       ],
       "source": "Mining.com.au",
       "source_domain": "mining.com.au",
@@ -166,29 +245,6 @@
       ],
       "title": "Gold price falls to one-year low, silver price down 6%",
       "url": "https://mining.com.au/gold-price-falls-3-to-four-month-low-silver-price-down-6/"
-    },
-    {
-      "breaking": false,
-      "category": "global",
-      "id": "0438b5ddd297f9db",
-      "image_kind": "none",
-      "image_url": null,
-      "metals": [
-        "gold"
-      ],
-      "published_at": "2026-10-30T21:30:00Z",
-      "publisher_id": "marketwatch",
-      "rank": 7,
-      "source": "MarketWatch",
-      "source_domain": "marketwatch.com",
-      "summary": "Gold settled Friday at $3,898.90 on Comex, down 3.3% on the day and 10% for October — its lowest settlement since October 2025. MarketWatch reports analysts blame liquidity-driven selling as equity losses forced margin calls, with markets also front-running fears of US military escalation in the Persian Gulf after the midterms.",
-      "tags": [
-        "gold",
-        "fed",
-        "global"
-      ],
-      "title": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
-      "url": "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2"
     },
     {
       "breaking": false,
@@ -211,7 +267,8 @@
         "global"
       ],
       "title": "Gold's frustrating paradox: Falling yields and a weaker dollar can't stop the selloff",
-      "url": "https://www.kitco.com/news/article/2026-10-30/golds-frustrating-paradox-falling-yields-and-weaker-dollar-cant-stop"
+      "url": "https://www.kitco.com/news/article/2026-10-30/golds-frustrating-paradox-falling-yields-and-weaker-dollar-cant-stop",
+      "related_urls": []
     },
     {
       "breaking": false,
@@ -263,7 +320,8 @@
         "fed"
       ],
       "title": "MCX iCOMDEX flat; bullion down while energy rises on renewed attacks in W Asia",
-      "url": "https://www.informistmedia.com/CommodityWire/63525/MCX-iCOMDEX-MCX-iCOMDEX-flat-bullion-down-while-energy-rises-on-renewed-attacks-in-W-Asia"
+      "url": "https://www.informistmedia.com/CommodityWire/63525/MCX-iCOMDEX-MCX-iCOMDEX-flat-bullion-down-while-energy-rises-on-renewed-attacks-in-W-Asia",
+      "related_urls": []
     },
     {
       "breaking": false,
@@ -355,7 +413,9 @@
       "published_at": "2026-10-30T23:10:00Z",
       "publisher_id": "fxempire",
       "rank": 14,
-      "related_urls": [],
+      "related_urls": [
+        "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts"
+      ],
       "source": "FXEmpire",
       "source_domain": "fxempire.com",
       "summary": "The Gold & Silver Club's Lars Hansen argues gold below $4,000 is an accumulation window: the 1970s bull market fell 29% in 1973 and 46% in 1974-76 before explosive gains. He cites record $31B Q3 ETF inflows (World Gold Council) and projects a base-case gold target of $4,900-$5,000/oz by Q1 2027. Forecast attributed to source; not investment advice.",
@@ -394,31 +454,6 @@
     {
       "breaking": false,
       "category": "global",
-      "id": "efeed1c64a696646",
-      "image_kind": "none",
-      "image_url": null,
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "published_at": "2026-10-30T18:06:21Z",
-      "publisher_id": "fxempire",
-      "rank": 16,
-      "related_urls": [],
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "summary": "FXEmpire's technical desk says gold fell 3.5% as traders fretted an AI bubble could burst and pressure all markets; softer yields and a firmer dollar gave no support. Gold is testing support at $3,890-$3,910, with $3,780-$3,800 next; silver dived 6% as the gold/silver ratio topped 79. Technical view attributed to source; not investment advice.",
-      "tags": [
-        "gold",
-        "silver",
-        "global"
-      ],
-      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Dives 3.5% As Traders Focus On Tech Sell-Off",
-      "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-dives-3-5-as-traders-focus-on-tech-sell-off-1641664"
-    },
-    {
-      "breaking": false,
-      "category": "global",
       "id": "9ed5c49e56269f74",
       "image_kind": "none",
       "image_url": null,
@@ -427,7 +462,7 @@
       ],
       "published_at": "2026-10-30T14:17:00Z",
       "publisher_id": "thestreet",
-      "rank": 17,
+      "rank": 16,
       "related_urls": [],
       "source": "TheStreet",
       "source_domain": "thestreet.com",
@@ -443,30 +478,6 @@
     {
       "breaking": false,
       "category": "policy",
-      "id": "8477a83297412f15",
-      "image_kind": "none",
-      "image_url": null,
-      "metals": [
-        "gold"
-      ],
-      "published_at": "2026-10-31T00:44:00Z",
-      "publisher_id": "hindu-businessline",
-      "rank": 18,
-      "related_urls": [],
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "summary": "EAM S. Jaishankar told the G20 Foreign Ministers' meeting in Atlanta that disruptions to global oil supplies through sanctions and chokepoints were a calculated strategy to hold prices hostage, warning of an energy crisis driven by unpredictability and unaffordable costs. He urged the G20 to keep energy markets open and predictable and proposed a critical minerals initiative.",
-      "tags": [
-        "gold",
-        "india",
-        "global"
-      ],
-      "title": "Jaishankar warns of global energy supply disruptions, urges G20 action",
-      "url": "https://www.thehindubusinessline.com/news/india-flags-global-energy-disruptions-caused-by-sanctions-and-chokepoints/article71648064.ece"
-    },
-    {
-      "breaking": false,
-      "category": "policy",
       "id": "ff3f3675be1c0fb5",
       "image_kind": "photo",
       "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F5%2F4%2F2%2F13382450-1-eng-GB%2Fa80caf005f0d-2026-10-01T140850Z_195741499_RC2EUNAOROPB_RTRMADP_3_PRECIOUS-GOLD-DEMAND.JPG?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
@@ -475,7 +486,7 @@
       ],
       "published_at": "2026-10-30T05:36:00Z",
       "publisher_id": "nikkei-asia",
-      "rank": 19,
+      "rank": 17,
       "related_urls": [],
       "source": "Nikkei Asia",
       "source_domain": "asia.nikkei.com",
@@ -499,7 +510,7 @@
       ],
       "published_at": "2026-10-30T13:00:00Z",
       "publisher_id": "reuters",
-      "rank": 20,
+      "rank": 18,
       "related_urls": [],
       "source": "Reuters",
       "source_domain": "reuters.com",
@@ -523,7 +534,7 @@
       ],
       "published_at": "2026-10-30T02:28:06Z",
       "publisher_id": "upstox",
-      "rank": 21,
+      "rank": 19,
       "related_urls": [
         "https://upstox.com/news/personal-finance/latest-updates/sovereign-gold-bond-premature-redemption-today-3-835-investment-turns-into-14213-check-sgb-2019-20-series-6-investors-gains/article-202670/",
         "https://hiindia.com/rbi-fixes-premature-redemption-price-of-sgb-2019-20-series-vi-at-rs-14213-per-unit-on-friday/"
@@ -542,30 +553,6 @@
     {
       "breaking": false,
       "category": "festive",
-      "id": "7895f579dd8db67c",
-      "image_kind": "none",
-      "image_url": null,
-      "metals": [
-        "gold"
-      ],
-      "published_at": "2026-10-29T10:32:03Z",
-      "publisher_id": "the-9th-estate",
-      "rank": 22,
-      "related_urls": [],
-      "source": "The 9th Estate",
-      "source_domain": "the9thestate.com",
-      "summary": "KISNA Diamond & Gold Jewellery is wooing festive buyers for Dhanteras and Diwali: 105% exchange value on old gold towards diamond jewellery, up to 100% off making charges on select jewellery, and double gold rate protection with 25% down payment. Its 'Shop Sparkle Win '26' draw across 218 cities offers 823 vehicles — 247 cars and 576 scooters — with the final draw in early December 2026.",
-      "tags": [
-        "gold",
-        "india",
-        "jewellery"
-      ],
-      "title": "KISNA offers 105% old-gold exchange value and 100% off making charges for Dhanteras and Diwali",
-      "url": "https://the9thestate.com/business/kisna-offers-up-to-105-percent-value-on-old-gold-100-percent-off-making-charges-for-dhanteras-diwali"
-    },
-    {
-      "breaking": false,
-      "category": "festive",
       "id": "7b2d1dd70ad85f93",
       "image_kind": "none",
       "image_url": null,
@@ -574,7 +561,7 @@
       ],
       "published_at": "2026-10-31T07:27:35Z",
       "publisher_id": "outlook-money",
-      "rank": 23,
+      "rank": 20,
       "related_urls": [],
       "source": "Outlook Money",
       "source_domain": "outlookmoney.com",
@@ -587,51 +574,5 @@
       "title": "Dhanteras 2026: Should You Gift Ageing Parents Gold Or Rs 5 Lakh In Cash?",
       "url": "https://www.outlookmoney.com/personal-finance/dhanteras-2026-should-you-gift-ageing-parents-gold-or-rs-5-lakh-in-cash"
     }
-  ],
-  "schema": "orob-news.v1",
-  "trending": [
-    {
-      "item_ids": [
-        "621e1fd4577ab29c",
-        "0438b5ddd297f9db",
-        "ca1ff37a68a34757"
-      ],
-      "summary": "Gold fell even as yields dropped and Iran risks rose: with equities plunging, funds sold liquid gold to cover losses. The metal is trading on where rates go next, not on today's data.",
-      "title": "Liquidation, not haven demand, is driving gold"
-    },
-    {
-      "item_ids": [
-        "a49b3ce8636a8caa",
-        "1eb23078df4c88ff",
-        "21294b8b68deb5ef",
-        "225b67e9f40f79f7",
-        "c8fe0220c3a81c77",
-        "a107f030a6edbdc0"
-      ],
-      "summary": "Silver briefly broke $50 for the first time in nearly a year and is down ~16% in October, far outpacing gold's slide. Oversold signals are flashing, but analysts warn of more long liquidation.",
-      "title": "Silver's historic unwind deepens below $50"
-    },
-    {
-      "item_ids": [
-        "f5efbbd3021b85d4",
-        "139223e2e9a7b829",
-        "7b2d1dd70ad85f93"
-      ],
-      "summary": "The domestic rout — MCX gold off 7.9% in October's worst month since 2008, silver deeper — lands as festive buying picks up. Analysts say stagger Diwali purchases instead of waiting for a deeper fall.",
-      "title": "MCX selloff lands right before Dhanteras buying"
-    },
-    {
-      "item_ids": [
-        "52e00355e3e8f45e",
-        "fc52b209d2ceeede",
-        "9ed5c49e56269f74"
-      ],
-      "summary": "A 10-2 Fed vote with two dissents for a hike, plus hot oil and GDP prints, has markets pricing further tightening. Forecasters see near-term pressure even as some keep long-term bullish targets.",
-      "title": "Fed higher-for-longer keeps a lid on metals"
-    }
-  ],
-  "window": {
-    "from": "2026-10-31T09:00:00Z",
-    "to": "2026-10-31T10:00:00Z"
-  }
+  ]
 }
