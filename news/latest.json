@@ -1,118 +1,200 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-10-31T03:00Z",
-  "generated_at": "2026-10-31T03:07:03Z",
+  "edition_id": "2026-10-31T05:00Z",
+  "generated_at": "2026-10-31T05:11:37Z",
   "window": {
-    "from": "2026-10-31T01:00:00Z",
-    "to": "2026-10-31T03:00:00Z"
+    "from": "2026-10-31T03:00:00Z",
+    "to": "2026-10-31T05:00:00Z"
   },
   "insights": {
-    "headline": "Gold closes October at a one-year low near $3,870; Wall Street flips bearish as silver slips under $50",
-    "summary": "Forced liquidation from the tech selloff and December Fed-hike bets drove spot gold to a one-year low of $3,870.25 and silver below $50 on Friday. On MCX, December silver futures crashed toward Rs. 1.81 lakh/kg and gold to a seven-month low just days before Dhanteras. Kitco's survey split: Wall Street bearish, Main Street narrowly bullish. FXEmpire's technical desk sees gold testing $3,890-$3,910 support ($3,780-$3,800 next); silver's 6% dive pushed the gold/silver ratio above 79. Forecasts are the sources' own; not investment advice."
+    "headline": "Gold and silver hit one-year lows as a tech-led Wall Street selloff forced liquidation across precious metals.",
+    "summary": "Spot gold sank about 3.5% to near $3,880 and silver slid 6% to below $49 on Friday, with Comex gold logging its lowest settlement since October 2025. A tech equity selloff triggered forced selling that overwhelmed support from falling Treasury yields, while another tanker attack in the Strait of Hormuz and strong US data kept Fed rate-hike bets alive. MCX tracked the rout: December gold fell over 2% to ₹1,39,100 per 10 grams and silver over 4% to ₹1,81,300 per kg.",
+    "points": [
+      "Comex gold settled at $3,898.90, down 3.3% on the day and 10% in October; spot silver broke below $49, down about 16% in October.",
+      "The 10-year US Treasury yield fell toward 4.93% as equity losses drove bond buying, yet gold still sold off on margin calls.",
+      "Crude climbed over 2% after another Hormuz tanker attack, feeding inflation fears and expectations the Fed stays restrictive.",
+      "India's MCX followed: gold futures hit an intraday low of ₹1,41,685 per 10g; jewellers cut discounts to ₹2,000 per 10g.",
+      "The gold-silver ratio rose to its highest since December as silver underperformed on industrial-demand worries."
+    ]
   },
   "trending": [
     {
-      "title": "One-year lows: October's close and the sentiment split",
-      "summary": "Gold ended October at its weakest since October 2025; Kitco's survey shows professionals bailing while retail stays hopeful.",
+      "title": "Liquidation, not haven demand, is driving gold",
+      "summary": "Gold fell even as yields dropped and Iran risks rose: with equities plunging, funds sold liquid gold to cover losses. The metal is trading on where rates go next, not on today's data.",
       "item_ids": [
-        "b1057aa269eccfda",
-        "9ffd29b310387445",
-        "ca9a54fb49a999af",
-        "efeed1c64a696646"
+        "621e1fd4577ab29c",
+        "0438b5ddd297f9db",
+        "ca1ff37a68a34757"
       ]
     },
     {
-      "title": "Silver's historic unwind deepens",
-      "summary": "Silver broke through the 1980/2011 $50 peak to an 11-month low globally and crashed on MCX, yet festive buying stayed muted.",
+      "title": "Silver's historic unwind deepens below $50",
+      "summary": "Silver briefly broke $50 for the first time in nearly a year and is down ~16% in October, far outpacing gold's slide. Oversold signals are flashing, but analysts warn of more long liquidation.",
       "item_ids": [
-        "225b67e9f40f79f7",
+        "1eb23078df4c88ff",
         "21294b8b68deb5ef",
+        "225b67e9f40f79f7",
         "c8fe0220c3a81c77"
       ]
     },
     {
-      "title": "MCX selloff ahead of Dhanteras",
-      "summary": "December gold and silver futures slid on the Fed's hawkish hold and hotter US inflation, giving festive buyers some relief.",
+      "title": "MCX selloff lands right before Dhanteras buying",
+      "summary": "The domestic rout — MCX gold off over 2%, silver over 4% — arrives as festive buying picks up, with jewellers narrowing discounts. Domestic premiums and demand hold the next clues.",
       "item_ids": [
-        "f3073f576cd7f4ee",
-        "2c9db0e70d59681f",
-        "2bf853a8e3be716e"
+        "f5efbbd3021b85d4",
+        "2bf853a8e3be716e",
+        "2c9db0e70d59681f"
       ]
     },
     {
-      "title": "India flags energy-supply disruptions at G20",
-      "summary": "Jaishankar warned the G20 that sanctions and chokepoints are disrupting energy supplies and holding prices hostage, sharpening the oil-driven inflation fears behind gold's selloff.",
+      "title": "Fed higher-for-longer keeps a lid on metals",
+      "summary": "A 10-2 Fed vote with two dissents for a hike, plus hot oil and GDP prints, has markets pricing further tightening. Forecasters see near-term pressure even as some keep long-term bullish targets.",
+      "item_ids": [
+        "52e00355e3e8f45e",
+        "fc52b209d2ceeede",
+        "9ed5c49e56269f74"
+      ]
+    },
+    {
+      "title": "India flags energy-supply disruption risk",
+      "summary": "With Brent pushed to multi-month highs by the Hormuz attacks, India warned of sanctions- and chokepoint-driven energy disruptions — the inflation channel that keeps pressuring gold.",
       "item_ids": [
         "8477a83297412f15",
-        "bac3e6ac7bb734d3",
-        "b1057aa269eccfda"
-      ]
-    },
-    {
-      "title": "Forecasts: UBS and The Gold & Silver Club stay long-term bullish",
-      "summary": "UBS holds its price target while GSC's models point to $4,900-$5,000/oz by Q1 2027 from near $3,900. Attributed to sources.",
-      "item_ids": [
-        "9ed5c49e56269f74",
-        "52e00355e3e8f45e"
+        "bac3e6ac7bb734d3"
       ]
     }
   ],
   "items": [
     {
-      "id": "b1057aa269eccfda",
+      "id": "621e1fd4577ab29c",
       "rank": 1,
-      "title": "Gold prices plunge to one-year low below $3,900 as higher oil prices fuel fears of more pain ahead",
-      "summary": "Spot gold fell 3.5% to $3,880 on Friday, its lowest since October 2025, as markets brace for a December Fed hike after the hold. Elevated oil from the Iran war sustains inflation fears, and a tech rout forced bullion liquidation to cover margin calls. Spot silver dropped nearly 6% to $48.95, below $50 and headed for its worst weekly fall since early June. Technicians see $3,800 as the next test.",
-      "url": "https://www.kitco.com/news/article/2026-10-30/gold-prices-plunge-one-year-low-below-3900-higher-oil-prices-fuel-fears",
+      "title": "Gold falls below $3,900, silver tumbles as Wall Street selloff triggers liquidation - Kitco PM Report",
+      "summary": "Spot gold sank about 3.5% to near $3,880 an ounce and silver slid 6% to about $49 in late US trading Friday, as a tech-led equity selloff forced investors to raise cash. Falling Treasury yields and fresh geopolitical risk from another tanker attack in the Strait of Hormuz failed to cushion the fall, with higher oil prices stoking fears the Fed will stay restrictive.",
+      "url": "https://www.kitco.com/news/article/2026-10-30/gold-falls-below-3900-silver-tumbles-wall-street-selloff-triggers",
       "source": "Kitco",
       "source_domain": "kitco.com",
       "publisher_id": "kitco",
-      "published_at": "2026-10-30T18:18:00Z",
-      "image_url": null,
-      "image_kind": "none",
+      "published_at": "2026-10-30T21:06:50Z",
+      "image_url": "https://image-api.prod.kitco.com/image/5768df25-c265-4c2d-a489-e51917a45667.jpeg?top=0.19459459459459&left=0&width=1024&height=575.61081081081&scale_width=1920&token=445bdc4fb7ee2e21c02415533cd3f2e0b82ff32871ca3f559822d03d4f95d1db",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "comex",
+        "global"
+      ],
       "category": "global",
       "metals": [
         "gold",
         "silver"
       ],
-      "tags": [
-        "gold",
-        "silver",
-        "global",
-        "fed"
-      ],
-      "breaking": true,
-      "related_urls": []
+      "breaking": false,
+      "related_urls": [
+        "https://www.kitco.com/news/article/2026-10-30/gold-prices-plunge-one-year-low-below-3900-higher-oil-prices-fuel-fears",
+        "https://www.kitco.com/news/article/2026-10-30/wall-street-abandons-ship-after-gold-sinks-below-3900oz-main-street"
+      ]
     },
     {
-      "id": "9ffd29b310387445",
-      "title": "Wall Street abandons ship after gold sinks below $3,900/oz, Main Street maintains bullish majority",
-      "summary": "Kitco's weekly survey showed Wall Street analysts flipping bearish after spot gold hit a one-year low of $3,870.25 late Friday, while Main Street retail voters kept a narrow bullish majority. Marc Chandler (Bannockburn) said no capitulation yet and sees $3,750-$3,850 possible; Daniel Pavilonis (StoneX) warned of a longer correction until monetary-policy easing signs.",
-      "url": "https://www.kitco.com/news/article/2026-10-30/wall-street-abandons-ship-after-gold-sinks-below-3900oz-main-street",
-      "source": "Kitco",
-      "source_domain": "kitco.com",
-      "publisher_id": "kitco",
-      "published_at": "2026-10-30T21:11:00Z",
+      "id": "f5efbbd3021b85d4",
+      "rank": 2,
+      "title": "India Bullion: Down on rate hike fears; investors seek cash amid tech selloff",
+      "summary": "MCX December gold fell over 2% to ₹1,39,100 per 10 grams and December silver over 4% to ₹1,81,300 per kg on Friday, tracking a COMEX rout driven by Fed rate-hike bets and a tech selloff. The national average spot gold price opened at ₹1,40,891 per 10g; jewellers trimmed discounts to ₹2,000 per 10g from ₹2,500.",
+      "url": "https://www.informistmedia.com/CommodityWire/63597/India-Bullion-Down-on-rate-hike-fears-investors-seek-cash-amid-tech-selloff",
+      "source": "Informist Media",
+      "source_domain": "informistmedia.com",
+      "publisher_id": "informist-media",
+      "published_at": "2026-10-30T15:21:34Z",
       "image_url": null,
       "image_kind": "none",
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "1eb23078df4c88ff",
+      "rank": 3,
+      "title": "Gold price falls to one-year low, silver price down 6%",
+      "summary": "Spot gold fell as much as 3.5% to $3,880, a level last seen in October 2025, while spot silver dropped nearly 6% to below $49 — briefly breaking $50 for the first time in nearly a year. Silver is down about 16% in October; analysts warn of further long liquidation even as the metal enters oversold territory, with the gold-silver ratio at its highest since December.",
+      "url": "https://mining.com.au/gold-price-falls-3-to-four-month-low-silver-price-down-6/",
+      "source": "Mining.com.au",
+      "source_domain": "mining.com.au",
+      "publisher_id": "mining-com-au",
+      "published_at": "2026-10-30T19:50:19Z",
+      "image_url": "https://mining.com.au/wp-content/uploads/2026/10/gold-silver-1.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "global"
+      ],
       "category": "global",
       "metals": [
         "gold",
         "silver"
       ],
+      "breaking": false,
+      "related_urls": [
+        "https://www.mining.com/gold-price-slumps-to-one-year-low-silver-price-breaks-50-as-mining-stocks-tank/"
+      ]
+    },
+    {
+      "id": "0438b5ddd297f9db",
+      "rank": 4,
+      "title": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
+      "summary": "Gold settled Friday at $3,898.90 on Comex, down 3.3% on the day and 10% for October — its lowest settlement since October 2025. MarketWatch reports analysts blame liquidity-driven selling as equity losses forced margin calls, with markets also front-running fears of US military escalation in the Persian Gulf after the midterms.",
+      "url": "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2",
+      "source": "MarketWatch",
+      "source_domain": "marketwatch.com",
+      "publisher_id": "marketwatch",
+      "published_at": "2026-10-30T21:30:00Z",
+      "image_url": null,
+      "image_kind": "none",
       "tags": [
         "gold",
-        "silver",
         "fed",
         "global"
       ],
-      "breaking": false,
-      "related_urls": [],
-      "rank": 2
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "ca1ff37a68a34757",
+      "rank": 5,
+      "title": "Gold's frustrating paradox: Falling yields and a weaker dollar can't stop the selloff",
+      "summary": "Kitco argues gold is being punished by where investors think monetary policy is heading, not by today's lower bond yields and softer dollar. With the Fed pausing but far from finished and oil-driven inflation risks keeping rate expectations elevated, the metal's path of least resistance stays lower even as longer-term fundamentals hold.",
+      "url": "https://www.kitco.com/news/article/2026-10-30/golds-frustrating-paradox-falling-yields-and-weaker-dollar-cant-stop",
+      "source": "Kitco",
+      "source_domain": "kitco.com",
+      "publisher_id": "kitco",
+      "published_at": "2026-10-30T21:20:39Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false
     },
     {
       "id": "225b67e9f40f79f7",
-      "rank": 3,
+      "rank": 6,
       "title": "Silver price crash deepens as Oct losses hit ₹45,000/kg; gold falls to 7-month low",
       "summary": "MCX December silver futures plunged ₹10,577/kg to ₹1,79,600 — below ₹1.80 lakh — while gold futures fell ₹4,347/10g to ₹1,38,249, a seven-month low, Mint reports. Silver is down 57% from its record ₹4,20,048/kg peak. Drivers: sticky US inflation (PCE 3.6% YoY), Q3 GDP of 3.4%, the Fed holding at 3.75–4% with roughly 75% December-hike odds priced, and elevated oil from the US-Israeli war on Iran.",
       "url": "https://www.livemint.com/market/stock-market-news/silver-price-crash-deepens-as-oct-losses-hit-rs-45-000-kg-gold-falls-to-7-month-low-why-are-precious-metals-sinking-11793368770318.html",
@@ -138,255 +220,8 @@
       "related_urls": []
     },
     {
-      "id": "8477a83297412f15",
-      "rank": 4,
-      "title": "Jaishankar warns of global energy supply disruptions, urges G20 action",
-      "summary": "EAM S. Jaishankar told the G20 Foreign Ministers' meeting in Atlanta that disruptions to global oil supplies through sanctions and chokepoints were a calculated strategy to hold prices hostage, warning of an energy crisis driven by unpredictability and unaffordable costs. He urged the G20 to keep energy markets open and predictable and proposed a critical minerals initiative.",
-      "url": "https://www.thehindubusinessline.com/news/india-flags-global-energy-disruptions-caused-by-sanctions-and-chokepoints/article71648064.ece",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "publisher_id": "hindu-businessline",
-      "published_at": "2026-10-31T00:44:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "policy",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "india",
-        "global"
-      ],
-      "breaking": false,
-      "related_urls": []
-    },
-    {
-      "id": "52e00355e3e8f45e",
-      "title": "Gold Price Forecast: Buy Below $4,000 Or Risk Missing The Next Rally?",
-      "summary": "The Gold & Silver Club's Lars Hansen argues gold below $4,000 is an accumulation window: the 1970s bull market fell 29% in 1973 and 46% in 1974-76 before explosive gains. He cites record $31B Q3 ETF inflows (World Gold Council) and projects a base-case gold target of $4,900-$5,000/oz by Q1 2027. Forecast attributed to source; not investment advice.",
-      "url": "https://www.fxempire.com/forecasts/article/gold-price-forecast-buy-below-4000-or-risk-missing-the-next-rally-1641659",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "publisher_id": "fxempire",
-      "published_at": "2026-10-30T23:10:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "fed",
-        "global"
-      ],
-      "breaking": false,
-      "related_urls": [],
-      "rank": 5
-    },
-    {
-      "id": "efeed1c64a696646",
-      "rank": 6,
-      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Dives 3.5% As Traders Focus On Tech Sell-Off",
-      "summary": "FXEmpire's technical desk says gold fell 3.5% as traders fretted an AI bubble could burst and pressure all markets; softer yields and a firmer dollar gave no support. Gold is testing support at $3,890-$3,910, with $3,780-$3,800 next; silver dived 6% as the gold/silver ratio topped 79. Technical view attributed to source; not investment advice.",
-      "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-dives-3-5-as-traders-focus-on-tech-sell-off-1641664",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "publisher_id": "fxempire",
-      "published_at": "2026-10-30T18:06:21Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "global"
-      ],
-      "breaking": false,
-      "related_urls": []
-    },
-    {
-      "id": "ca9a54fb49a999af",
-      "rank": 7,
-      "title": "Gold price slumps to one-year low, silver price breaks $50 as mining stocks tank",
-      "summary": "Spot gold fell 3.2% to $3,891.67 an ounce — its weakest since last October — and silver slid 5.8% to $49.34, its first time under $50 since November 2025, as rising oil hardened December Fed-hike bets and a tech rout forced bullion selling, MINING.COM reports. Comex gold fell 3.1% to $3,907.90; silver is down ~18% in October. Gold is on track for a ~6% October decline, its worst month since 2008.",
-      "url": "https://www.mining.com/gold-price-slumps-to-one-year-low-silver-price-breaks-50-as-mining-stocks-tank/",
-      "source": "MINING.COM",
-      "source_domain": "mining.com",
-      "publisher_id": "mining-com",
-      "published_at": "2026-10-30T16:31:19Z",
-      "image_url": "https://www.mining.com/wp-content/uploads/2026/10/stock-market-trading-floor-finance-mining-stocks-1024x571.jpeg",
-      "image_kind": "photo",
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "global",
-        "fed"
-      ],
-      "breaking": false,
-      "related_urls": []
-    },
-    {
-      "id": "21294b8b68deb5ef",
-      "rank": 8,
-      "title": "Silver Falls Thru' 1980 and 2011 Peak at $50 as Gold Sinks",
-      "summary": "Silver sank 8% on the week and fell through $50 an ounce — the metal's former all-time high from 1980 and 2011 — to an 11-month low, while gold dropped to a London low of $3,937, the cheapest since October 2025, BullionVault reports. Metals Focus says weak physical investment is still weighing on silver, and the market deficit is expected to narrow further with a surplus possible next year;...",
-      "url": "https://www.bullionvault.co.uk/gold-news/gold-price-news/gold-silver-50-1980-2011-103020261",
-      "source": "BullionVault",
-      "source_domain": "bullionvault.co.uk",
-      "publisher_id": "bullionvault",
-      "published_at": "2026-10-30T13:14:51Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "global"
-      ],
-      "breaking": false,
-      "related_urls": []
-    },
-    {
-      "id": "fc52b209d2ceeede",
-      "rank": 9,
-      "title": "Gold Faces Further Losses as Traders Brace for a Possible Iran Escalation",
-      "summary": "Gold futures sank to a low of $3,933.55, last near $3,938.65 and down over 7% in October, as renewed Middle East fighting — with reports of possible US strikes on Iran after the Nov 3 midterms — keeps energy high and stagflation fears alive. Satendra Singh writes that December Fed-hike expectations are pressuring non-yielding gold, now below its 9- and 20-day moving averages.",
-      "url": "https://www.investing.com/analysis/gold-faces-further-losses-as-traders-brace-for-a-possible-iran-escalation-200690591",
-      "source": "Investing.com",
-      "source_domain": "investing.com",
-      "publisher_id": "investing",
-      "published_at": "2026-10-30T14:16:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "global",
-        "fed"
-      ],
-      "breaking": false,
-      "related_urls": []
-    },
-    {
-      "id": "9ed5c49e56269f74",
-      "rank": 10,
-      "title": "Gold plunges, but UBS isn't budging on its price target",
-      "summary": "Gold dipped below $4,000 — about 29% below its January record near $5,595 — yet UBS strategist Giovanni Staunovo reiterated a $5,000 target for 2027, with $5,400 by September 2027, TheStreet reports citing Reuters. The caveat: the Fed's Oct 28 hold at 3.75–4% came with two dissenters favoring an immediate hike, and higher-for-longer rates remain gold's main headwind.",
-      "url": "https://www.thestreet.com/investing/ubs-gold-5000-price-target",
-      "source": "TheStreet",
-      "source_domain": "thestreet.com",
-      "publisher_id": "thestreet",
-      "published_at": "2026-10-30T14:17:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "global",
-        "fed"
-      ],
-      "breaking": false,
-      "related_urls": []
-    },
-    {
-      "id": "8e64c05b520c9f38",
-      "rank": 11,
-      "title": "India's FX reserves dip for seventh straight week to hit over two-month low",
-      "summary": "India's foreign exchange reserves fell $1.27 billion to $719.75 billion in the week ended October 23 — a seventh straight weekly decline and a more than two-month low — as the value of the RBI's gold holdings dropped $2.6 billion week-on-week to $103.1 billion, Reuters reports. Foreign currency assets rose $1.3 billion to $593.2 billion, with the decline attributed to the RBI's absorption of...",
-      "url": "https://www.reuters.com/world/india/indias-fx-reserves-dip-seventh-straight-week-hit-over-two-month-low-2026-10-30/",
-      "source": "Reuters",
-      "source_domain": "reuters.com",
-      "publisher_id": "reuters",
-      "published_at": "2026-10-30T13:00:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "policy",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "rbi",
-        "india"
-      ],
-      "breaking": false,
-      "related_urls": []
-    },
-    {
-      "id": "ff3f3675be1c0fb5",
-      "title": "India's gold imports down 81%; global prices could be impacted",
-      "summary": "India's gold imports dropped 81% in September ahead of the festive season, Nikkei Asia reports, as elevated domestic prices and Prime Minister Modi's repeated appeals against buying gold choked demand in the world's second-biggest gold market. Retailers say stock on hand covers the festival and wedding seasons, leaving open whether weaker Indian demand could weigh on global bullion prices.",
-      "url": "https://asia.nikkei.com/business/markets/commodities/india-s-gold-imports-down-81-global-prices-could-be-impacted",
-      "source": "Nikkei Asia",
-      "source_domain": "asia.nikkei.com",
-      "publisher_id": "nikkei-asia",
-      "published_at": "2026-10-30T05:36:00Z",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F5%2F4%2F2%2F13382450-1-eng-GB%2Fa80caf005f0d-2026-10-01T140850Z_195741499_RC2EUNAOROPB_RTRMADP_3_PRECIOUS-GOLD-DEMAND.JPG?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "india",
-        "import-duty"
-      ],
-      "category": "policy",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "related_urls": [],
-      "rank": 12
-    },
-    {
-      "id": "b8cc73cfae89f3a8",
-      "title": "Sovereign Gold Bond premature redemption today: ₹3,835 investment turns into ₹14,213; check SGB 2019-20 Series VI investors' gains",
-      "summary": "RBI has fixed the premature redemption price of SGB 2019-20 Series VI at ₹14,213 per unit for October 30, 2026 — about 3.7 times its ₹3,835-per-gram issue price of October 2019, Upstox reports. The price is the simple average of IBJA's 999-purity gold closes on October 27-29; the request window (Sep 29–Oct 21) has closed. SGBs pay 2.5% annual interest, semi-annually.",
-      "url": "https://upstox.com/news/personal-finance/latest-updates/sovereign-gold-bond-premature-redemption-today-3-835-investment-turns-into-14213-check-sgb-2019-20-series-6-investors-gains/article-202670/",
-      "source": "Upstox",
-      "source_domain": "upstox.com",
-      "publisher_id": "upstox",
-      "published_at": "2026-10-30T02:28:06Z",
-      "image_url": "https://assets.upstox.com/content/assets/images/news/sgb-premature-redemption.webp",
-      "image_kind": "photo",
-      "category": "policy",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "tags": [
-        "gold",
-        "rbi",
-        "india"
-      ],
-      "related_urls": [
-        "https://upstox.com/news/personal-finance/latest-updates/sovereign-gold-bond-premature-redemption-today-3-835-investment-turns-into-14213-check-sgb-2019-20-series-6-investors-gains/article-202670/",
-        "https://hiindia.com/rbi-fixes-premature-redemption-price-of-sgb-2019-20-series-vi-at-rs-14213-per-unit-on-friday/"
-      ],
-      "rank": 13
-    },
-    {
       "id": "f3073f576cd7f4ee",
-      "rank": 14,
+      "rank": 7,
       "title": "MCX iCOMDEX flat; bullion down while energy rises on renewed attacks in W Asia",
       "summary": "The MCX iCOMDEX Composite index held steady at 22963.67 points on Friday, Informist reports, with bullion falling while energy rose on fresh attacks in the Strait of Hormuz. The bullion component fell to 31076.28 points as of 11:05 IST; the gold sub-index eased on expectations of a December Fed rate hike, and the silver sub-index was down nearly 1% at 20842.20 points.",
       "url": "https://www.informistmedia.com/CommodityWire/63525/MCX-iCOMDEX-MCX-iCOMDEX-flat-bullion-down-while-energy-rises-on-renewed-attacks-in-W-Asia",
@@ -411,7 +246,7 @@
     },
     {
       "id": "c8fe0220c3a81c77",
-      "rank": 15,
+      "rank": 8,
       "title": "Silver futures decline to ₹1.85 lakh per kg",
       "summary": "Silver futures on the MCX fell about 2% to an intraday low of ₹1,85,171 per kg on Friday, near ₹1.85 lakh, as the US Federal Reserve's 10-2 vote to hold rates at 3.75-4.00% strengthened bets on a December hike. December gold futures slipped 0.63% to ₹1,41,685 per 10 grams; spot gold was near $3,991 and spot silver $51.27. The slide comes just over a week before Dhanteras on November 6.",
       "url": "https://www.thehindubusinessline.com/markets/commodities/silver-futures-decline-to-185-lakh-per-kg/article71644300.ece",
@@ -459,7 +294,32 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 16
+      "rank": 9
+    },
+    {
+      "id": "21294b8b68deb5ef",
+      "rank": 10,
+      "title": "Silver Falls Thru' 1980 and 2011 Peak at $50 as Gold Sinks",
+      "summary": "Silver sank 8% on the week and fell through $50 an ounce — the metal's former all-time high from 1980 and 2011 — to an 11-month low, while gold dropped to a London low of $3,937, the cheapest since October 2025, BullionVault reports. Metals Focus says weak physical investment is still weighing on silver, and the market deficit is expected to narrow further with a surplus possible next year;...",
+      "url": "https://www.bullionvault.co.uk/gold-news/gold-price-news/gold-silver-50-1980-2011-103020261",
+      "source": "BullionVault",
+      "source_domain": "bullionvault.co.uk",
+      "publisher_id": "bullionvault",
+      "published_at": "2026-10-30T13:14:51Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "global"
+      ],
+      "breaking": false,
+      "related_urls": []
     },
     {
       "id": "2c9db0e70d59681f",
@@ -484,7 +344,203 @@
       ],
       "breaking": false,
       "related_urls": [],
+      "rank": 11
+    },
+    {
+      "id": "52e00355e3e8f45e",
+      "title": "Gold Price Forecast: Buy Below $4,000 Or Risk Missing The Next Rally?",
+      "summary": "The Gold & Silver Club's Lars Hansen argues gold below $4,000 is an accumulation window: the 1970s bull market fell 29% in 1973 and 46% in 1974-76 before explosive gains. He cites record $31B Q3 ETF inflows (World Gold Council) and projects a base-case gold target of $4,900-$5,000/oz by Q1 2027. Forecast attributed to source; not investment advice.",
+      "url": "https://www.fxempire.com/forecasts/article/gold-price-forecast-buy-below-4000-or-risk-missing-the-next-rally-1641659",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "published_at": "2026-10-30T23:10:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "fed",
+        "global"
+      ],
+      "breaking": false,
+      "related_urls": [],
+      "rank": 12
+    },
+    {
+      "id": "fc52b209d2ceeede",
+      "rank": 13,
+      "title": "Gold Faces Further Losses as Traders Brace for a Possible Iran Escalation",
+      "summary": "Gold futures sank to a low of $3,933.55, last near $3,938.65 and down over 7% in October, as renewed Middle East fighting — with reports of possible US strikes on Iran after the Nov 3 midterms — keeps energy high and stagflation fears alive. Satendra Singh writes that December Fed-hike expectations are pressuring non-yielding gold, now below its 9- and 20-day moving averages.",
+      "url": "https://www.investing.com/analysis/gold-faces-further-losses-as-traders-brace-for-a-possible-iran-escalation-200690591",
+      "source": "Investing.com",
+      "source_domain": "investing.com",
+      "publisher_id": "investing",
+      "published_at": "2026-10-30T14:16:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "global",
+        "fed"
+      ],
+      "breaking": false,
+      "related_urls": []
+    },
+    {
+      "id": "efeed1c64a696646",
+      "rank": 14,
+      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Dives 3.5% As Traders Focus On Tech Sell-Off",
+      "summary": "FXEmpire's technical desk says gold fell 3.5% as traders fretted an AI bubble could burst and pressure all markets; softer yields and a firmer dollar gave no support. Gold is testing support at $3,890-$3,910, with $3,780-$3,800 next; silver dived 6% as the gold/silver ratio topped 79. Technical view attributed to source; not investment advice.",
+      "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-dives-3-5-as-traders-focus-on-tech-sell-off-1641664",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "published_at": "2026-10-30T18:06:21Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "global"
+      ],
+      "breaking": false,
+      "related_urls": []
+    },
+    {
+      "id": "9ed5c49e56269f74",
+      "rank": 15,
+      "title": "Gold plunges, but UBS isn't budging on its price target",
+      "summary": "Gold dipped below $4,000 — about 29% below its January record near $5,595 — yet UBS strategist Giovanni Staunovo reiterated a $5,000 target for 2027, with $5,400 by September 2027, TheStreet reports citing Reuters. The caveat: the Fed's Oct 28 hold at 3.75–4% came with two dissenters favoring an immediate hike, and higher-for-longer rates remain gold's main headwind.",
+      "url": "https://www.thestreet.com/investing/ubs-gold-5000-price-target",
+      "source": "TheStreet",
+      "source_domain": "thestreet.com",
+      "publisher_id": "thestreet",
+      "published_at": "2026-10-30T14:17:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "global",
+        "fed"
+      ],
+      "breaking": false,
+      "related_urls": []
+    },
+    {
+      "id": "8477a83297412f15",
+      "rank": 16,
+      "title": "Jaishankar warns of global energy supply disruptions, urges G20 action",
+      "summary": "EAM S. Jaishankar told the G20 Foreign Ministers' meeting in Atlanta that disruptions to global oil supplies through sanctions and chokepoints were a calculated strategy to hold prices hostage, warning of an energy crisis driven by unpredictability and unaffordable costs. He urged the G20 to keep energy markets open and predictable and proposed a critical minerals initiative.",
+      "url": "https://www.thehindubusinessline.com/news/india-flags-global-energy-disruptions-caused-by-sanctions-and-chokepoints/article71648064.ece",
+      "source": "The Hindu BusinessLine",
+      "source_domain": "thehindubusinessline.com",
+      "publisher_id": "hindu-businessline",
+      "published_at": "2026-10-31T00:44:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "policy",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "india",
+        "global"
+      ],
+      "breaking": false,
+      "related_urls": []
+    },
+    {
+      "id": "ff3f3675be1c0fb5",
+      "title": "India's gold imports down 81%; global prices could be impacted",
+      "summary": "India's gold imports dropped 81% in September ahead of the festive season, Nikkei Asia reports, as elevated domestic prices and Prime Minister Modi's repeated appeals against buying gold choked demand in the world's second-biggest gold market. Retailers say stock on hand covers the festival and wedding seasons, leaving open whether weaker Indian demand could weigh on global bullion prices.",
+      "url": "https://asia.nikkei.com/business/markets/commodities/india-s-gold-imports-down-81-global-prices-could-be-impacted",
+      "source": "Nikkei Asia",
+      "source_domain": "asia.nikkei.com",
+      "publisher_id": "nikkei-asia",
+      "published_at": "2026-10-30T05:36:00Z",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F5%2F4%2F2%2F13382450-1-eng-GB%2Fa80caf005f0d-2026-10-01T140850Z_195741499_RC2EUNAOROPB_RTRMADP_3_PRECIOUS-GOLD-DEMAND.JPG?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "india",
+        "import-duty"
+      ],
+      "category": "policy",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "related_urls": [],
       "rank": 17
+    },
+    {
+      "id": "8e64c05b520c9f38",
+      "rank": 18,
+      "title": "India's FX reserves dip for seventh straight week to hit over two-month low",
+      "summary": "India's foreign exchange reserves fell $1.27 billion to $719.75 billion in the week ended October 23 — a seventh straight weekly decline and a more than two-month low — as the value of the RBI's gold holdings dropped $2.6 billion week-on-week to $103.1 billion, Reuters reports. Foreign currency assets rose $1.3 billion to $593.2 billion, with the decline attributed to the RBI's absorption of...",
+      "url": "https://www.reuters.com/world/india/indias-fx-reserves-dip-seventh-straight-week-hit-over-two-month-low-2026-10-30/",
+      "source": "Reuters",
+      "source_domain": "reuters.com",
+      "publisher_id": "reuters",
+      "published_at": "2026-10-30T13:00:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "policy",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "rbi",
+        "india"
+      ],
+      "breaking": false,
+      "related_urls": []
+    },
+    {
+      "id": "b8cc73cfae89f3a8",
+      "title": "Sovereign Gold Bond premature redemption today: ₹3,835 investment turns into ₹14,213; check SGB 2019-20 Series VI investors' gains",
+      "summary": "RBI has fixed the premature redemption price of SGB 2019-20 Series VI at ₹14,213 per unit for October 30, 2026 — about 3.7 times its ₹3,835-per-gram issue price of October 2019, Upstox reports. The price is the simple average of IBJA's 999-purity gold closes on October 27-29; the request window (Sep 29–Oct 21) has closed. SGBs pay 2.5% annual interest, semi-annually.",
+      "url": "https://upstox.com/news/personal-finance/latest-updates/sovereign-gold-bond-premature-redemption-today-3-835-investment-turns-into-14213-check-sgb-2019-20-series-6-investors-gains/article-202670/",
+      "source": "Upstox",
+      "source_domain": "upstox.com",
+      "publisher_id": "upstox",
+      "published_at": "2026-10-30T02:28:06Z",
+      "image_url": "https://assets.upstox.com/content/assets/images/news/sgb-premature-redemption.webp",
+      "image_kind": "photo",
+      "category": "policy",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "tags": [
+        "gold",
+        "rbi",
+        "india"
+      ],
+      "related_urls": [
+        "https://upstox.com/news/personal-finance/latest-updates/sovereign-gold-bond-premature-redemption-today-3-835-investment-turns-into-14213-check-sgb-2019-20-series-6-investors-gains/article-202670/",
+        "https://hiindia.com/rbi-fixes-premature-redemption-price-of-sgb-2019-20-series-vi-at-rs-14213-per-unit-on-friday/"
+      ],
+      "rank": 19
     },
     {
       "id": "7895f579dd8db67c",
@@ -508,11 +564,11 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 18
+      "rank": 20
     },
     {
       "id": "bac3e6ac7bb734d3",
-      "rank": 19,
+      "rank": 21,
       "title": "US-Iran war may keep oil in broad $105-120/bbl range: Mirae Asset Sharekhan",
       "summary": "Mirae Asset Sharekhan sees crude oil staying in a broad $105-120 per barrel band if the US-Iran confrontation persists, a setup that keeps inflation and rate pressure on bullion. With West Asia tensions flaring around the Strait of Hormuz, the analysts warn sustained high energy prices could prolong the higher-for-longer rate narrative weighing on gold and silver.",
       "url": "https://www.business-standard.com/markets/news/us-iran-war-may-keep-oil-in-broad-105-120-bbl-range-mirae-asset-sharekhan-126103000665_1.html",
