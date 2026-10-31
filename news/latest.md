@@ -1,4 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-10-31T06:00Z
+# Gold & Silver for Indian buyers · 2026-10-31T07:00Z
 
 > Gold and silver hit one-year lows as a tech-led Wall Street selloff forced liquidation across precious metals.
 
@@ -12,8 +12,8 @@ Spot gold sank about 3.5% to near $3,880 and silver slid 6% to below $49 on Frid
 
 ## Trending
 - **Liquidation, not haven demand, is driving gold**: Gold fell even as yields dropped and Iran risks rose: with equities plunging, funds sold liquid gold to cover losses. The metal is trading on where rates go next, not on today's data. (stories 2, 5, 6)
-- **Silver's historic unwind deepens below $50**: Silver briefly broke $50 for the first time in nearly a year and is down ~16% in October, far outpacing gold's slide. Oversold signals are flashing, but analysts warn of more long liquidation. (stories 4, 11, 7, 9)
-- **MCX selloff lands right before Dhanteras buying**: The domestic rout — MCX gold off over 2%, silver over 4% — arrives as festive buying picks up, with jewellers narrowing discounts. Domestic premiums and demand hold the next clues. (stories 3, 10, 12)
+- **Silver's historic unwind deepens below $50**: Silver briefly broke $50 for the first time in nearly a year and is down ~16% in October, far outpacing gold's slide. Oversold signals are flashing, but analysts warn of more long liquidation. (stories 4, 7, 9, 11, 12)
+- **MCX selloff lands right before Dhanteras buying**: The domestic rout — MCX gold off over 2%, silver over 4% — arrives as festive buying picks up, with jewellers narrowing discounts. Domestic premiums and demand hold the next clues. (stories 3, 10)
 - **Fed higher-for-longer keeps a lid on metals**: A 10-2 Fed vote with two dissents for a hike, plus hot oil and GDP prints, has markets pricing further tightening. Forecasters see near-term pressure even as some keep long-term bullish targets. (stories 13, 14, 16)
 - **India flags energy-supply disruption risk**: With Brent pushed to multi-month highs by the Hormuz attacks, India warned of sanctions- and chokepoint-driven energy disruptions — the inflation channel that keeps pressuring gold. (stories 17, 22)
 
@@ -40,8 +40,8 @@ Spot gold sank about 3.5% to near $3,880 and silver slid 6% to below $49 on Frid
    Mint reports that silver's roughly 55% plunge from its January peak — over $121 an ounce and ₹4.2 lakh a kg then, about $52 and under ₹2 lakh now — has failed to spark festive-season buying in India, with investors sitting on losses and dealers describing festive stocking as subdued.
 11. [Silver Falls Thru' 1980 and 2011 Peak at $50 as Gold Sinks](https://www.bullionvault.co.uk/gold-news/gold-price-news/gold-silver-50-1980-2011-103020261) — *BullionVault*, 2026-10-30T13:14:51Z
    Silver sank 8% on the week and fell through $50 an ounce — the metal's former all-time high from 1980 and 2011 — to an 11-month low, while gold dropped to a London low of $3,937, the cheapest since October 2025, BullionVault reports. Metals Focus says weak physical investment is still weighing on silver, and the market deficit is expected to narrow further with a surplus possible next year;...
-12. [Indian gold buyers get a 'breathing room' from Fed before Diwali, but conditions apply](https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/indian-gold-buyers-get-a-likely-breathing-room-from-fed-before-diwali-but-conditions-apply/articleshow/135293194.cms) — *Economic Times*, 2026-10-29T06:54:00Z
-   The Fed's hold at 3.75-4.00% may keep gold range-bound in the coming weeks, giving Indian buyers breathing room ahead of Diwali, ET reports, as domestic discounts narrow to about $2 an ounce on picking festive demand. But a sustained recovery hinges on December-hike expectations easing from ~78% odds; US inflation data, yields, the dollar/rupee rate and Middle East risk could keep prices volatile.
+12. [ET Wealth Expo: Why market veteran S Naren thinks investors are getting gold, silver and asset allocation all wrong](https://economictimes.indiatimes.com/markets/stocks/news/et-wealth-expo-why-market-veteran-s-naren-thinks-investors-are-getting-gold-silver-and-asset-allocation-all-wrong/articleshow/135391370.cms) — *Economic Times*, 2026-10-31T06:35:25Z
+   ICICI Prudential MF CIO S Naren told the ET Wealth Expo in Mumbai that chasing gold and silver after their rallies is 'anti-asset allocation'. Silver's 216% run drew Jan ETF inflows before a 27% correction; gold's 116% gain also peaked in January. He advised buying after corrections, not momentum-chasing; central-bank demand keeps him structurally positive on gold, but avoid over-concentration.
 13. [Gold Price Forecast: Buy Below $4,000 Or Risk Missing The Next Rally?](https://www.fxempire.com/forecasts/article/gold-price-forecast-buy-below-4000-or-risk-missing-the-next-rally-1641659) — *FXEmpire*, 2026-10-30T23:10:00Z
    The Gold & Silver Club's Lars Hansen argues gold below $4,000 is an accumulation window: the 1970s bull market fell 29% in 1973 and 46% in 1974-76 before explosive gains. He cites record $31B Q3 ETF inflows (World Gold Council) and projects a base-case gold target of $4,900-$5,000/oz by Q1 2027. Forecast attributed to source; not investment advice.
 14. [Gold Faces Further Losses as Traders Brace for a Possible Iran Escalation](https://www.investing.com/analysis/gold-faces-further-losses-as-traders-brace-for-a-possible-iran-escalation-200690591) — *Investing.com*, 2026-10-30T14:16:00Z
