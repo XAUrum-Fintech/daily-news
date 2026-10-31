@@ -1,18 +1,18 @@
 {
  "schema": "orob-news.v1",
- "edition_id": "2026-10-31T18:00Z",
- "generated_at": "2026-10-31T18:06:39Z",
+ "edition_id": "2026-10-31T20:00Z",
+ "generated_at": "2026-10-31T20:25:19Z",
  "window": {
-  "from": "2026-10-31T16:00:00Z",
-  "to": "2026-10-31T18:00:00Z"
+  "from": "2026-10-31T18:00:00Z",
+  "to": "2026-10-31T20:00:00Z"
  },
  "insights": {
-  "headline": "Delhi gold crashes to a 10-month low of ₹1.42 lakh as the global bullion rout extends into the weekend.",
-  "summary": "Gold and silver extended their selloff on Saturday: Delhi gold plunged ₹3,200 to ₹1.42 lakh per 10 grams — a 10-month low — while spot gold stayed below $3,900 and silver under $50. Markets are pricing a December Fed rate hike after hot US inflation and growth data, forcing cash-raising liquidation across metals. With Dhanteras on November 6 and Diwali on November 8, the correction is handing Indian buyers their cheapest festive gold in months.",
+  "headline": "Delhi gold crashes to a 10-month low of ₹1.42 lakh as the global tech-rout liquidation extends into the weekend.",
+  "summary": "Gold and silver extended their selloff on Saturday: Delhi gold plunged ₹3,200 to ₹1.42 lakh per 10 grams — a 10-month low — while spot gold sank 3.5% to $3,880.97, its lowest since October 2025, and silver broke below $50 for the first time in 11 months. A Friday tech-stock slump on AI spending doubts forced cash-raising liquidation across metals, with markets still pricing a December Fed rate hike after hot US inflation data. With Dhanteras on November 6 and Diwali on November 8, the correction is handing Indian buyers their cheapest festive gold in months.",
   "points": [
    "Delhi gold fell ₹3,200 to ₹1.42 lakh/10g on Saturday, a 10-month low; silver slid ₹4,200 per kg, per the All India Sarafa Association.",
-   "Spot gold held below $3,900 and silver under $50 as the Fed's 10-2 hold kept a December hike in play, with markets pricing roughly 75% odds.",
-   "Silver is down about 18% in October and more than half from its record high, with analysts warning momentum selling could push it toward $48.",
+   "Spot gold fell 3.5% to $3,880.97 — lowest since Oct 2025; silver dropped 6.5% to $49, with white metals deep in oversold territory.",
+   "Silver is down about 18% in October; analysts warn momentum selling could push it toward $48, though a sixth straight annual supply shortfall is still forecast.",
    "SGB redemptions continue: RBI fixed the 2021-22 Series VII exit price at ₹14,167/unit, roughly 197% above its ₹4,765 issue price.",
    "India's gold imports fell 81% in September while FX reserves dipped for a seventh week as gold holdings lost value."
   ]
@@ -28,18 +28,18 @@
   },
   {
    "title": "Tech-led liquidation drags metals to one-year lows",
-   "summary": "A Wall Street tech selloff forced cash-raising liquidation, dragging spot gold below $3,900 and silver under $50 — one-year lows.",
+   "summary": "A Wall Street tech slump on AI spending doubts forced margin-call selling, dragging spot gold to $3,880.97 and silver below $50 — one-year lows.",
    "item_ids": [
+    "7ecd186ee17e3c41",
     "621e1fd4577ab29c",
-    "1eb23078df4c88ff",
-    "7ebc2ffb004d823a"
+    "1eb23078df4c88ff"
    ]
   },
   {
-   "title": "Silver's historic slide: momentum toward $48",
-   "summary": "Silver is down ~18% in October and more than half from its record high; analysts warn momentum selling could push it toward $48.",
+   "title": "Silver's slide: deficit intact, momentum toward $48",
+   "summary": "Silver fell 11.6% in two weeks to under $50 on rate fears and equity selling — not supply — with a sixth straight annual shortfall still forecast; analysts warn of $48.",
    "item_ids": [
-    "a49b3ce8636a8caa",
+    "34bcda618821efe2",
     "3586f35ac4c261a1",
     "225b67e9f40f79f7"
    ]
@@ -80,29 +80,28 @@
    "breaking": false
   },
   {
-   "breaking": false,
-   "category": "policy",
-   "id": "d8ec95eddc6324e9",
+   "id": "7ecd186ee17e3c41",
+   "title": "Tech rout drives gold to one-year low, white metals sink deep into oversold zone",
+   "summary": "Spot gold fell 3.5% to $3,880.97/oz — lowest since October 2025 — as Friday's tech slump on AI spending doubts forced safe-haven selling and margin calls, reports the Economic Times (Reuters). Silver fell 6.5% to $49, an 11-month low; platinum and palladium slid to $1,425 and $976. Analysts see recovery with central-bank buying below $4,000, though weak industrial demand keeps silver soft.",
+   "url": "https://economictimes.indiatimes.com/markets/commodities/news/tech-rout-drives-gold-to-one-year-low-white-metals-sink-deep-into-oversold-zone/articleshow/135386768.cms",
+   "source": "Economic Times",
+   "source_domain": "economictimes.indiatimes.com",
+   "publisher_id": "economic-times",
+   "published_at": "2026-10-31T03:46:00Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/7ecd186ee17e3c41.jpg",
    "image_kind": "photo",
-   "image_url": "https://assets.upstox.com/content/assets/images/news/sgb-premature-redemtion-novemeber-2.webp",
-   "metals": [
-    "gold"
-   ],
-   "published_at": "2026-10-31T03:09:17Z",
-   "publisher_id": "upstox",
-   "rank": 2,
-   "related_urls": [
-    "https://economictimes.indiatimes.com/wealth/invest/sgb-premature-exit-date-on-november-2-2026-rs-1-lakh-invested-in-this-sovereign-gold-bond-grows-to-rs-3-lakh-in-5-years/articleshow/135387482.cms"
-   ],
-   "source": "Upstox",
-   "source_domain": "upstox.com",
-   "summary": "The RBI has fixed the redemption price of Sovereign Gold Bond 2021-22 Series VII at ₹14,167 per unit, with the exit window opening November 2, 2026, five years after issue. Investors who bought at ₹4,765 per gram in October 2021 lock in roughly 197% capital appreciation — about ₹3 lakh on a ₹1 lakh investment — plus 2.5% annual interest. The price averages IBJA 999-gold closes of Oct 28-30.",
    "tags": [
     "gold",
-    "india"
+    "silver",
+    "global"
    ],
-   "title": "Gold bond premature redemption: SGB 2021-22 Series VII investors, here's how much you will get per unit on November 2",
-   "url": "https://upstox.com/news/personal-finance/latest-updates/gold-bond-premature-redemption-sgb-2021-22-series-7-investors-here-is-how-much-you-will-get-per-unit-on-november-2/article-202751/"
+   "category": "global",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "rank": 2
   },
   {
    "id": "7ebc2ffb004d823a",
@@ -162,6 +161,29 @@
    "url": "https://www.kitco.com/news/article/2026-10-30/gold-falls-below-3900-silver-tumbles-wall-street-selloff-triggers"
   },
   {
+   "id": "34bcda618821efe2",
+   "title": "Silver Is Falling Despite Lower Treasury Yields and a Persistent Supply Deficit",
+   "summary": "Silver's slide below $50 reflects rate fears and equity selling, not supply and demand, argues Przemyslaw Radomski: USAGOLD put silver at $49.09/oz and gold at $3,897.48 (ratio 79.4). The Fed's 10-2 hold keeps a December hike priced after 3.7% September CPI, while silver fell 11.6% in two weeks vs gold's 4.4%. A sixth straight annual supply shortfall is still forecast.",
+   "url": "https://www.investing.com/analysis/silver-is-falling-despite-lower-treasury-yields-and-a-persistent-supply-deficit-200690614",
+   "source": "Investing.com",
+   "source_domain": "investing.com",
+   "publisher_id": "investing",
+   "published_at": "2026-10-30T20:28:00Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/34bcda618821efe2.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "silver",
+    "fed",
+    "global"
+   ],
+   "category": "global",
+   "metals": [
+    "silver"
+   ],
+   "breaking": false,
+   "rank": 5
+  },
+  {
    "breaking": false,
    "category": "global",
    "id": "1eb23078df4c88ff",
@@ -173,7 +195,7 @@
    ],
    "published_at": "2026-10-30T19:50:19Z",
    "publisher_id": "mining-com-au",
-   "rank": 5,
+   "rank": 6,
    "related_urls": [
     "https://www.mining.com/gold-price-slumps-to-one-year-low-silver-price-breaks-50-as-mining-stocks-tank/",
     "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year"
@@ -201,7 +223,7 @@
    ],
    "published_at": "2026-10-30T14:54:00Z",
    "publisher_id": "mint",
-   "rank": 6,
+   "rank": 7,
    "related_urls": [],
    "source": "Mint",
    "source_domain": "livemint.com",
@@ -215,29 +237,6 @@
    ],
    "title": "Silver price crash deepens as Oct losses hit ₹45,000/kg; gold falls to 7-month low",
    "url": "https://www.livemint.com/market/stock-market-news/silver-price-crash-deepens-as-oct-losses-hit-rs-45-000-kg-gold-falls-to-7-month-low-why-are-precious-metals-sinking-11793368770318.html"
-  },
-  {
-   "id": "a49b3ce8636a8caa",
-   "rank": 7,
-   "category": "global",
-   "metals": [
-    "silver"
-   ],
-   "title": "Silver loses more than half its value from record high: What went wrong and will it recover?",
-   "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-loses-more-than-half-its-value-from-record-high-what-went-wrong-and-will-it-recover/articleshow/135395608.cms",
-   "source": "Economic Times",
-   "source_domain": "economictimes.indiatimes.com",
-   "publisher_id": "economic-times",
-   "published_at": "2026-10-31T09:03:45Z",
-   "summary": "Silver is down over 58% from its February record near $120/oz to about $50 this week, ET reports quoting Geojit's research head. Funds booked profits after a rally on solar/EV demand and tight supply; weak China/Europe industry, a strong dollar, high rates and ETF outflows deepened the slide while haven flows went to gold. $50 is key support; long-term buyers advised to wait for stabilization.",
-   "tags": [
-    "silver",
-    "india"
-   ],
-   "breaking": false,
-   "image_kind": "photo",
-   "image_url": "https://img.etimg.com/thumb/msid-135395763,width-1200,height-900,imgsize-20050",
-   "related_urls": []
   },
   {
    "id": "3586f35ac4c261a1",
@@ -443,6 +442,31 @@
   {
    "breaking": false,
    "category": "policy",
+   "id": "d8ec95eddc6324e9",
+   "image_kind": "photo",
+   "image_url": "https://assets.upstox.com/content/assets/images/news/sgb-premature-redemtion-novemeber-2.webp",
+   "metals": [
+    "gold"
+   ],
+   "published_at": "2026-10-31T03:09:17Z",
+   "publisher_id": "upstox",
+   "rank": 16,
+   "related_urls": [
+    "https://economictimes.indiatimes.com/wealth/invest/sgb-premature-exit-date-on-november-2-2026-rs-1-lakh-invested-in-this-sovereign-gold-bond-grows-to-rs-3-lakh-in-5-years/articleshow/135387482.cms"
+   ],
+   "source": "Upstox",
+   "source_domain": "upstox.com",
+   "summary": "The RBI has fixed the redemption price of Sovereign Gold Bond 2021-22 Series VII at ₹14,167 per unit, with the exit window opening November 2, 2026, five years after issue. Investors who bought at ₹4,765 per gram in October 2021 lock in roughly 197% capital appreciation — about ₹3 lakh on a ₹1 lakh investment — plus 2.5% annual interest. The price averages IBJA 999-gold closes of Oct 28-30.",
+   "tags": [
+    "gold",
+    "india"
+   ],
+   "title": "Gold bond premature redemption: SGB 2021-22 Series VII investors, here's how much you will get per unit on November 2",
+   "url": "https://upstox.com/news/personal-finance/latest-updates/gold-bond-premature-redemption-sgb-2021-22-series-7-investors-here-is-how-much-you-will-get-per-unit-on-november-2/article-202751/"
+  },
+  {
+   "breaking": false,
+   "category": "policy",
    "id": "b8cc73cfae89f3a8",
    "image_kind": "photo",
    "image_url": "https://assets.upstox.com/content/assets/images/news/sgb-premature-redemption.webp",
@@ -451,7 +475,7 @@
    ],
    "published_at": "2026-10-30T02:28:06Z",
    "publisher_id": "upstox",
-   "rank": 16,
+   "rank": 17,
    "related_urls": [
     "https://upstox.com/news/personal-finance/latest-updates/sovereign-gold-bond-premature-redemption-today-3-835-investment-turns-into-14213-check-sgb-2019-20-series-6-investors-gains/article-202670/",
     "https://hiindia.com/rbi-fixes-premature-redemption-price-of-sgb-2019-20-series-vi-at-rs-14213-per-unit-on-friday/"
@@ -478,7 +502,7 @@
    ],
    "published_at": "2026-10-31T07:27:35Z",
    "publisher_id": "outlook-money",
-   "rank": 17,
+   "rank": 18,
    "related_urls": [],
    "source": "Outlook Money",
    "source_domain": "outlookmoney.com",
@@ -503,7 +527,7 @@
    ],
    "published_at": "2026-10-31T06:35:25Z",
    "publisher_id": "economic-times",
-   "rank": 18,
+   "rank": 19,
    "related_urls": [],
    "source": "Economic Times",
    "source_domain": "economictimes.indiatimes.com",
@@ -527,7 +551,7 @@
    ],
    "published_at": "2026-10-30T23:10:00Z",
    "publisher_id": "fxempire",
-   "rank": 19,
+   "rank": 20,
    "related_urls": [
     "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts"
    ],
@@ -553,7 +577,7 @@
    ],
    "published_at": "2026-10-30T14:16:00Z",
    "publisher_id": "investing",
-   "rank": 20,
+   "rank": 21,
    "related_urls": [],
    "source": "Investing.com",
    "source_domain": "investing.com",
@@ -577,7 +601,7 @@
    ],
    "published_at": "2026-10-30T14:17:00Z",
    "publisher_id": "thestreet",
-   "rank": 21,
+   "rank": 22,
    "related_urls": [],
    "source": "TheStreet",
    "source_domain": "thestreet.com",
@@ -589,29 +613,6 @@
    ],
    "title": "Gold plunges, but UBS isn't budging on its price target",
    "url": "https://www.thestreet.com/investing/ubs-gold-5000-price-target"
-  },
-  {
-   "id": "5aed8e07ccf8b386",
-   "rank": 22,
-   "title": "Gold Price Forecast: XAU/USD 17% Plunge Threatens Multi-Year Uptrend",
-   "summary": "Gold has fallen in seven of the past nine weeks and sits nearly 17.5% below its August high after a fresh yearly low Friday, with the weekly RSI at its weakest since September 2022, writes FOREX.com's Michael Boutros. He flags $3,800-3,840 as key support: a weekly close below it would invalidate the multi-year uptrend; resistance at $4,017 and $4,166. Attributed to source; not investment advice.",
-   "url": "https://www.forex.com/en-us/news-and-analysis/gold-price-forecast-xau-usd-17pct-plunge-threatens-multi-year-uptrend-10-31-2026/",
-   "source": "FOREX.com",
-   "source_domain": "forex.com",
-   "publisher_id": "forex",
-   "published_at": "2026-10-31T17:01:00Z",
-   "image_url": "https://micms.stonex.com/cdn-cgi/image/quality=80/sites/default/files/2024-12/gold3.jpg?w=1024&h=512",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "fed",
-    "global"
-   ],
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false
   }
  ]
 }
