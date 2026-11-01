@@ -1,4 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-11-01T11:00Z
+# Gold & Silver for Indian buyers · 2026-11-01T14:00Z
 
 > Silver crash deepens the festive discount: gold at a 10-month low, gold-silver ratio at 79.
 
@@ -12,9 +12,9 @@ Delhi gold sank Rs 3,200 to Rs 1.42 lakh per 10 grams on Saturday — a 10-month
 
 ## Trending
 - **Selloff extends into November**: Friday's tech-led liquidation and December Fed hike bets left Delhi gold at a 10-month low and spot gold under $3,900, with silver at an 11-month low. (stories 1, 4, 7)
-- **Silver's historic underperformance**: The gold-silver ratio has risen to 79 from below 50 in January; MCX silver is down about 57% from its record peak as industrial-demand worries bite. (stories 2, 8, 14)
+- **Silver's historic underperformance**: The gold-silver ratio has risen to 79 from below 50 in January; MCX silver is down about 57% from its record peak as industrial-demand worries bite. (stories 2, 8, 3)
 - **Festive window for Indian buyers**: Five days before Dhanteras, buyers get their cheapest festive gold in months — Rs 1 lakh buys ~25% more gold than at January's peak — and jewellers are cutting making charges. (stories 10, 11, 3)
-- **December Fed decision is the next test**: With the Fed holding at 3.75-4% and markets pricing a December hike, rate expectations remain the main headwind for non-yielding metals. (stories 9, 13, 17)
+- **December Fed decision is the next test**: With the Fed holding at 3.75-4% and markets pricing a December hike, rate expectations remain the main headwind for non-yielding metals. (stories 9, 13, 15)
 
 ## Stories
 1. [Gold plunges ₹3,200 to 10-month low of ₹1.42 lakh; silver slides ₹4,200](https://www.thehindubusinessline.com/markets/gold/gold-plunges-3200-to-10-month-low-of-142-lakh-silver-slides-4200/article71649831.ece) — *The Hindu BusinessLine*, 2026-10-31 14:01
@@ -43,11 +43,7 @@ Delhi gold sank Rs 3,200 to Rs 1.42 lakh per 10 grams on Saturday — a 10-month
    Ahead of Dhanteras on November 6, Outlook Money walks buyers through checking gold purity via karat and fineness marks, verifying the three BIS hallmark signs including the six-digit HUID code, and scrutinising the bill for making charges, net weight and GST before paying.
 13. [Gold's frustrating paradox: Falling yields and a weaker dollar can't stop the selloff](https://www.kitco.com/news/article/2026-10-30/golds-frustrating-paradox-falling-yields-and-weaker-dollar-cant-stop) — *Kitco*, 2026-10-30 21:20
    Kitco argues gold is being punished by where investors think monetary policy is heading, not by today's lower bond yields and softer dollar. With the Fed pausing but far from finished and oil-driven inflation risks keeping rate expectations elevated, the metal's path of least resistance stays lower even as longer-term fundamentals hold.
-14. [Silver Falls Thru' 1980 and 2011 Peak at $50 as Gold Sinks](https://www.bullionvault.co.uk/gold-news/gold-price-news/gold-silver-50-1980-2011-103020261) — *BullionVault*, 2026-10-30 13:14
-   Silver sank 8% on the week and fell through $50 an ounce — the metal's former all-time high from 1980 and 2011 — to an 11-month low, while gold dropped to a London low of $3,937, the cheapest since October 2025, BullionVault reports. Metals Focus says weak physical investment is still weighing on silver, and the market deficit is expected to narrow further with a surplus possible next year;...
-15. [India's FX reserves dip for seventh straight week to hit over two-month low](https://www.reuters.com/world/india/indias-fx-reserves-dip-seventh-straight-week-hit-over-two-month-low-2026-10-30/) — *Reuters*, 2026-10-30 13:00
-   India's foreign exchange reserves fell $1.27 billion to $719.75 billion in the week ended October 23 — a seventh straight weekly decline and a more than two-month low — as the value of the RBI's gold holdings dropped $2.6 billion week-on-week to $103.1 billion, Reuters reports. Foreign currency assets rose $1.3 billion to $593.2 billion, with the decline attributed to the RBI's absorption of...
-16. [Gold bond premature redemption: SGB 2021-22 Series VII investors, here's how much you will get per unit on November 2](https://upstox.com/news/personal-finance/latest-updates/gold-bond-premature-redemption-sgb-2021-22-series-7-investors-here-is-how-much-you-will-get-per-unit-on-november-2/article-202751/) — *Upstox*, 2026-10-31 03:09
+14. [Gold bond premature redemption: SGB 2021-22 Series VII investors, here's how much you will get per unit on November 2](https://upstox.com/news/personal-finance/latest-updates/gold-bond-premature-redemption-sgb-2021-22-series-7-investors-here-is-how-much-you-will-get-per-unit-on-november-2/article-202751/) — *Upstox*, 2026-10-31 03:09
    The RBI has fixed the redemption price of Sovereign Gold Bond 2021-22 Series VII at ₹14,167 per unit, with the exit window opening November 2, 2026, five years after issue. Investors who bought at ₹4,765 per gram in October 2021 lock in roughly 197% capital appreciation — about ₹3 lakh on a ₹1 lakh investment — plus 2.5% annual interest. The price averages IBJA 999-gold closes of Oct 28-30.
-17. [Gold plunges, but UBS isn't budging on its price target](https://www.thestreet.com/investing/ubs-gold-5000-price-target) — *TheStreet*, 2026-10-30 14:17
+15. [Gold plunges, but UBS isn't budging on its price target](https://www.thestreet.com/investing/ubs-gold-5000-price-target) — *TheStreet*, 2026-10-30 14:17
    Gold dipped below $4,000 — about 29% below its January record near $5,595 — yet UBS strategist Giovanni Staunovo reiterated a $5,000 target for 2027, with $5,400 by September 2027, TheStreet reports citing Reuters. The caveat: the Fed's Oct 28 hold at 3.75–4% came with two dissenters favoring an immediate hike, and higher-for-longer rates remain gold's main headwind.
