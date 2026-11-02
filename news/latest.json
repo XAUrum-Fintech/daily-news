@@ -1,64 +1,87 @@
 {
  "schema": "orob-news.v1",
- "edition_id": "2026-11-01T22:00Z",
- "generated_at": "2026-11-01T22:10:48Z",
+ "edition_id": "2026-11-02T00:00Z",
+ "generated_at": "2026-11-02T00:04:44Z",
  "window": {
-  "from": "2026-11-01T20:00:00Z",
-  "to": "2026-11-01T22:00:00Z"
+  "from": "2026-11-01T22:00:00Z",
+  "to": "2026-11-02T00:00:00Z"
  },
  "insights": {
-  "headline": "Gold’s worst October since 2008; silver under $50 as technical analysts eye lower support",
-  "summary": "Spot gold closed Friday near $3,876 an ounce — its weakest in over a year — capping its worst October since 2008, while silver slipped below $50 to about $49.12. On MCX, gold futures settled at ₹1,38,419 per 10 grams and silver at ₹1,78,900 per kg after Friday’s selloff. FXEmpire’s technical analysis warns a break below $45 could push silver toward $35–$37, and FXStreet flags $3,720–$3,890 as gold’s next support battleground. With Dhanteras on November 6, festive buying could offer the market some support, and a 1% October rupee gain slightly softened import costs for Indian buyers.",
+  "headline": "Gold below $4,000 faces a decisive week: US midterms, ISM data and Friday's payrolls",
+  "summary": "Spot gold closed Friday near $3,876 — a one-year low — capping its worst October in years, while silver slipped below $50 for the first time in nearly a year. FX Leaders says gold has broken its 200-day moving average as a firm dollar and elevated Treasury yields weigh, with Tuesday's US midterms and Friday's Nonfarm Payrolls deciding whether the selloff marks an exhaustion low or a deeper correction. In India, Delhi gold fell ₹3,200 to a 10-month low of ₹1.42 lakh per 10 grams, and MCX silver is down about 57% from its January peak as the gold-silver ratio hits 79.",
   "points": [
-   "Spot gold fell ~4% on Friday to ~$3,876, its lowest in over a year; October’s ~6–7% drop was the worst since 2008.",
-   "Spot silver closed near $49.12, below $50 for the first time in ~11 months; MCX silver settled at ₹1,78,900 per kg.",
-   "MCX December gold futures fell ₹4,347 to ₹1,38,419 per 10 grams, the weakest since late March.",
-   "FXEmpire says silver risks a drop toward $45, with a break below it opening $35–$37; AI-driven industrial demand may cushion longer term.",
-   "FXStreet sees gold’s next support zone at $3,720–$3,890; Suki Cooper says $3,886 must hold, with $4,000 the level to reclaim."
+   "Spot gold fell to ~$3,876 on Friday, a one-year low; October was its worst in years.",
+   "FX Leaders: gold broke its 200-day moving average; Tuesday's midterms and Friday's NFP decide the next move.",
+   "Silver slipped below $50 to ~$49; FXEmpire warns a break under $45 could open $35–$37.",
+   "Delhi gold fell ₹3,200 to a 10-month low of ₹1.42 lakh/10g on Saturday; MCX silver is ~57% off its January peak.",
+   "Gold-silver ratio hit 79 vs under 50 in January; Dhanteras on November 6 meets one-year-low prices."
   ]
  },
  "trending": [
   {
-   "title": "Silver’s floor test: below $50, analysts eye $45",
-   "summary": "Silver has lost ~57% from January’s record; FXEmpire’s technical analysis sees a drop toward $45 if the $48–$50 zone fails, with $35–$37 below that. The gold-silver ratio has climbed to 79.",
-   "item_ids": [
-    "35f5cfa1bdc68bb1",
-    "a49b3ce8636a8caa",
-    "858fbc301cd21c92"
-   ]
-  },
-  {
-   "title": "Technicals turn heavy for gold too",
-   "summary": "FXStreet says gold’s break below $4,000 has it testing a long-term trendline near $3,890; a weekly close below could open $3,761–$3,785. Suki Cooper sees $3,886 as key support, $4,000 to reclaim.",
-   "item_ids": [
-    "f8272d291594dfbc",
-    "ea1b5057de8d5d43"
-   ]
-  },
-  {
-   "title": "Worst October since 2008",
-   "summary": "Gold’s ~6–7% October slide was its worst since the 2008 crisis; the tech selloff and hot US inflation have traders pricing a December Fed rate hike.",
+   "title": "October's washout resets the bull market's terms",
+   "summary": "Gold's worst October in years and silver's ~19% monthly slide have unwound much of the year's froth. Below its 200-day average, gold now needs a macro catalyst — not momentum — to recover.",
    "item_ids": [
     "243b75598a424486",
-    "7ecd186ee17e3c41",
-    "0ef59b0aa6f1a744",
-    "ea1b5057de8d5d43"
+    "7925b1de84a93020",
+    "0899096e15f0dc4a"
    ]
   },
   {
-   "title": "Dhanteras on Nov 6: festive demand may cushion the fall",
-   "summary": "Gold futures are down ~23% from January’s record, making Dhanteras buying cheaper; jewellers are rolling out festive offers ahead of the Nov 6 buying.",
+   "title": "Silver's crash is the bigger Indian story",
+   "summary": "Down ~57% from January's peak with the gold-silver ratio at 79, silver has surrendered more than half its record run. MCX silver near ₹1.79 lakh/kg is a different market from January's ₹4.2 lakh peak.",
+   "item_ids": [
+    "a49b3ce8636a8caa",
+    "858fbc301cd21c92",
+    "35f5cfa1bdc68bb1"
+   ]
+  },
+  {
+   "title": "All eyes on Tuesday's midterms and Friday's payrolls",
+   "summary": "With the Fed on hold at 3.75–4%, Tuesday's US midterms and Friday's payrolls will set the dollar and yields — gold's two key drivers — for November.",
+   "item_ids": [
+    "7925b1de84a93020",
+    "0ef59b0aa6f1a744"
+   ]
+  },
+  {
+   "title": "Dhanteras arrives at one-year-low prices",
+   "summary": "₹1 lakh buys ~25% more gold than at January's peak, with IBJA gold at ₹1,40,054/10g. Plus a purity-check guide and an SGB exit window opening November 2.",
    "item_ids": [
     "b48bd6b599f9ce9b",
-    "9f26a76e42de4009",
-    "cf248606331a1783"
+    "d322863d8baeb80e",
+    "d8ec95eddc6324e9",
+    "9f26a76e42de4009"
    ]
   }
  ],
  "items": [
   {
-   "id": "243b75598a424486",
+   "id": "7925b1de84a93020",
    "rank": 1,
+   "title": "Gold Price Forecast: XAU/USD Faces Critical November Test as Dollar and Treasury Yields Drive Selling",
+   "summary": "FX Leaders' Skerdian Meta says gold has broken below $4,000 and its 200-day moving average as a firm dollar and elevated Treasury yields weigh on sentiment. With the Fed holding at 3.75–4%, Tuesday's US midterm elections, ISM data and Friday's Nonfarm Payrolls will decide whether the selloff marks an exhaustion low or a deeper correction; central-bank buying remains a support.",
+   "url": "https://www.fxleaders.com/news/2026/11/01/gold-price-forecast-xau-usd-faces-critical-november-test-as-dollar-and-treasury-yields-drive-selling/",
+   "source": "FX Leaders",
+   "source_domain": "fxleaders.com",
+   "publisher_id": "fx-leaders",
+   "published_at": "2026-11-01T22:20:00Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/7925b1de84a93020.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "global",
+    "fed"
+   ],
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false
+  },
+  {
+   "id": "243b75598a424486",
+   "rank": 2,
    "title": "Crash! Gold price suffers worst October in years: Did silver and platinum suffer too? Check monthly performance",
    "summary": "Mint's monthly review: gold logged its worst October in years, sinking to a one-year low near $3,876 an ounce, while silver and platinum suffered too — silver slipped below $50 for the first time in nearly a year and platinum hit a 13-month low. The piece traces the selloff to hot US inflation data, Fed rate-hike bets and a broader market rout.",
    "url": "https://www.livemint.com/market/commodities/crash-gold-price-suffers-worst-october-in-years-did-silver-and-platinum-suffer-too-check-monthly-performance-11793549898014.html",
@@ -76,31 +99,6 @@
     "comex"
    ],
    "category": "global",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "breaking": false
-  },
-  {
-   "id": "ea1b5057de8d5d43",
-   "rank": 2,
-   "title": "Gold Price Today India: One-Year Low and What’s Next",
-   "summary": "Malik Times’ Sunday explainer: spot gold sank to about $3,881 on Friday — its weakest since October 2025 — while silver slid below $50, as the Fed and ECB held rates but warned on energy-driven inflation and a tech selloff forced margin-call selling. MCX gold hovered near ₹1.38 lakh per 10 grams and silver near ₹1.79 lakh per kg. Suki Cooper sees $3,886 as key support, $4,000 to reclaim.",
-   "url": "https://maliktimes.in/gold-price-today-india/",
-   "source": "Malik Times",
-   "source_domain": "maliktimes.in",
-   "publisher_id": "malik-times",
-   "published_at": "2026-11-01T06:00:00Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/ea1b5057de8d5d43.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "silver",
-    "india",
-    "mcx"
-   ],
-   "category": "mcx",
    "metals": [
     "gold",
     "silver"
@@ -205,30 +203,6 @@
    "rank": 6
   },
   {
-   "id": "f8272d291594dfbc",
-   "title": "When support gives way: Gold and Silver's Friday showdown",
-   "summary": "FXStreet's technical note says gold has plunged below $4,000 toward a long-term support zone near $3,890, with a weekly close below it opening $3,761–$3,785; silver broke $50 (futures) to $4,931, while platinum and palladium also sit at bearish supports.",
-   "url": "https://www.fxstreet.com/analysis/when-support-gives-way-gold-and-silvers-friday-showdown-202611011853",
-   "source": "FXStreet",
-   "source_domain": "fxstreet.com",
-   "publisher_id": "fxstreet",
-   "published_at": "2026-11-01T18:53:00Z",
-   "image_url": "https://editorial.fxsstatic.com/images/i/gold-02.jpg",
-   "image_kind": "photo",
-   "category": "global",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "tags": [
-    "gold",
-    "silver",
-    "global"
-   ],
-   "breaking": false,
-   "rank": 7
-  },
-  {
    "id": "a49b3ce8636a8caa",
    "title": "Silver loses more than half its value from record high: What went wrong and will it recover?",
    "summary": "Silver has fallen more than 58% from its record high of nearly $120 an ounce in the London spot market earlier this year to around $50, The Economic Times reports. Geojit's Hareesh V attributes the unraveling to profit-booking, slower industrial demand growth and shifting macro conditions, after the record rally was driven by tight supply, solar and electronics demand, and investment inflows.",
@@ -248,7 +222,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 8
+   "rank": 7
   },
   {
    "id": "858fbc301cd21c92",
@@ -274,11 +248,11 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 9
+   "rank": 8
   },
   {
    "id": "9f26a76e42de4009",
-   "rank": 10,
+   "rank": 9,
    "title": "How did gold and silver perform in India ahead of Dhanteras and Diwali?",
    "summary": "IBJA data shows gold closed the week over Rs 2,200 per 10 grams cheaper after a swing of more than Rs 2,600, while silver closed over Rs 9,100 per kg lower with a Rs 13,135 per kg weekly swing — capping a volatile week for Indian buyers just days before Dhanteras and Diwali.",
    "url": "https://inshorts.com/en/news/how-did-gold-and-silver-perform-in-india-ahead-of-dhanteras-and-diwali--1793496602787",
@@ -304,7 +278,7 @@
   },
   {
    "id": "0899096e15f0dc4a",
-   "rank": 11,
+   "rank": 10,
    "title": "Gold, silver lose sheen",
    "summary": "Gold and silver closed October with a second straight monthly loss, per The Hindu BusinessLine's technical review: Comex gold fell 7.26% to $3,884.9/oz and silver 19.1% to $49.13; MCX gold slid 7.16% to Rs 1,38,419/10g and silver 20% to Rs 1,78,900/kg. Drivers: higher crude, sticky inflation, December Fed hike bets. Column flags Comex gold risk at $3,650-$3,750 and silver at $42-$43.",
    "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/gold-silver-lose-sheen/article71652176.ece",
@@ -339,7 +313,7 @@
    ],
    "published_at": "2026-11-01T06:37:30Z",
    "publisher_id": "ndtv-profit",
-   "rank": 12,
+   "rank": 11,
    "related_urls": [],
    "source": "NDTV Profit",
    "source_domain": "ndtvprofit.com",
@@ -373,32 +347,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 13
-  },
-  {
-   "id": "cf248606331a1783",
-   "title": "Khimji Jewellers Unveils 'Dhanteras Dhanvarsha', a shower of festive offers across its collections",
-   "summary": "Odisha jeweller Khimji has launched its 'Dhanteras Dhanvarsha' festive campaign across its showrooms from October 30: flat 40% off gold jewellery making charges, 20% off diamonds, 25% off silver and platinum making charges, plus 999-purity gold and silver coins in 5g-100g backed by a buyback guarantee and full-value exchange on old gold from any jeweller.",
-   "url": "https://kalingavoice.com/odisha/khimji-jewellers-unveils-dhanteras-dhanvarsha-a-shower-of-festive-offers-across-its-collections/",
-   "source": "Kalinga Voice",
-   "source_domain": "kalingavoice.com",
-   "publisher_id": "kalinga-voice",
-   "published_at": "2026-11-01T00:00:00Z",
-   "image_url": "https://kalingavoice.com/wp-content/uploads/2026/11/31-DHAN1.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "silver",
-    "jewellery",
-    "india"
-   ],
-   "category": "festive",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "breaking": false,
-   "rank": 14
+   "rank": 12
   },
   {
    "breaking": false,
@@ -411,7 +360,7 @@
    ],
    "published_at": "2026-10-31T03:09:17Z",
    "publisher_id": "upstox",
-   "rank": 15,
+   "rank": 13,
    "related_urls": [
     "https://economictimes.indiatimes.com/wealth/invest/sgb-premature-exit-date-on-november-2-2026-rs-1-lakh-invested-in-this-sovereign-gold-bond-grows-to-rs-3-lakh-in-5-years/articleshow/135387482.cms"
    ],
