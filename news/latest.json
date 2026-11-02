@@ -1,22 +1,31 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-02T05:00Z",
-  "generated_at": "2026-11-02T05:15:41Z",
+  "edition_id": "2026-11-02T06:00Z",
+  "generated_at": "2026-11-02T06:05:39Z",
   "window": {
-    "from": "2026-11-02T04:00:00Z",
-    "to": "2026-11-02T05:00:00Z"
+    "from": "2026-11-02T05:00:00Z",
+    "to": "2026-11-02T06:00:00Z"
   },
   "insights": {
-    "headline": "Gold steadies above $3,900 as oil dips, silver retakes $50; SGB investors pocket 200%+",
-    "summary": "Gold rebounded about 0.7% to move back above $3,900 an ounce on Monday while silver climbed back above $50, as easing crude prices cooled the inflation fears fuelling December Fed hike bets. Friday's 3%-plus slide to a one-year low was amplified by margin-call selling after a tech rout, Commerzbank noted. RBI fixed the SGB 2021-22 Series VII premature redemption at Rs 14,167 per unit due November 2, worth about 200.5% gains. MCX gold sat at Rs 1.38 lakh/10g and silver at Rs 1.79 lakh/kg ahead of Dhanteras on November 6; US midterms Nov 3 and Friday's jobs data are the next macro triggers.",
+    "headline": "MCX gold, silver rebound ahead of Diwali; global bullion steadies above $3,900",
+    "summary": "MCX gold futures rose Rs 613 to Rs 1,39,098 per 10 grams on Monday while December silver futures gained Rs 2,800 to Rs 1,81,925 per kg as Diwali buying set in, extending the global rebound that put spot gold back above $3,900 and silver above $50 on easing crude prices. The recovery stays fragile: three US Fed officials called for further rate hikes, keeping December-hike bets alive. RBI fixed the SGB 2021-22 Series VII premature redemption at Rs 14,167 per unit, worth about 200.5% gains; US midterms Nov 3 and Friday's jobs data are the next macro triggers.",
     "points": [
-      "Gold +0.7% above $3,900, silver back above $50 on easing oil; recovery stays fragile under ~75% December-hike pricing.",
-      "Friday's plunge amplified by margin calls as tech tumbled; Commerzbank expects a rebound once forced selling clears.",
-      "SGB 2021-22 Series VII early exit at Rs 14,167 on Nov 2 locks in ~200.5% gains over the Rs 4,765 issue price.",
-      "MCX gold ~Rs 1.38 lakh/10g, silver ~Rs 1.79 lakh/kg into Dhanteras on November 6; midterms Nov 3, US payrolls Nov 6."
+      "MCX gold +Rs 613 to Rs 1,39,098/10g, Dec silver +Rs 2,800 to Rs 1,81,925/kg on Diwali buying.",
+      "Spot gold +0.7% back above $3,900, silver above $50 as easing oil cooled December-hike bets.",
+      "Three Fed officials called for more hikes; Friday's margin-call slide stays the cautionary tale.",
+      "SGB 2021-22 Series VII early exit at Rs 14,167 on Nov 2 locks in ~200.5% gains.",
+      "US midterms Nov 3, payrolls Nov 6, Dhanteras Nov 6: the week's swing factors."
     ]
   },
   "trending": [
+    {
+      "title": "MCX metals rebound into Diwali week",
+      "summary": "Gold futures rose Rs 613 to Rs 1,39,098/10g and Dec silver Rs 2,800 to Rs 1,81,925/kg as Diwali demand set in.",
+      "item_ids": [
+        "c47e5efbaa0cb9e6",
+        "44483ae5e4d00d85"
+      ]
+    },
     {
       "title": "Fragile bounce above $3,900, silver retakes $50",
       "summary": "Gold and silver recovered as softer oil eased inflation fears, but ~75% December-hike pricing keeps rallies capped.",
@@ -34,10 +43,10 @@
     },
     {
       "title": "Fed's December hike is the swing factor",
-      "summary": "Midterms on Nov 3, US jobs on Nov 6 and inflation on Nov 10 will test hike bets that drove the selloff.",
+      "summary": "Three Fed officials called for more hikes; midterms Nov 3, US jobs Nov 6 and inflation Nov 10 will test bets.",
       "item_ids": [
         "81eb170c96c154e8",
-        "0ef59b0aa6f1a744"
+        "c47e5efbaa0cb9e6"
       ]
     },
     {
@@ -79,6 +88,32 @@
       "rank": 1
     },
     {
+      "id": "c47e5efbaa0cb9e6",
+      "title": "MCX gold rises Rs 600/10 grams, silver jumps Rs 3,000/kg ahead of Diwali as rate-hike bets linger",
+      "summary": "MCX gold futures rose Rs 613 to Rs 1,39,098 per 10 grams on Monday while December silver futures gained Rs 2,800 to Rs 1,81,925 per kg, opening higher as Diwali buying set in. The rebound may stay capped: persistent inflation worries and calls by three US Federal Reserve officials for further rate hikes keep December-hike bets alive after the Fed left rates unchanged at its last meeting.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/mcx-gold-prices-rise-rs-600/10-grams-silver-jumps-rs-3000/kg-ahead-of-diwali-but-rate-hike-bets-linger-what-should-you-do/articleshow/135446161.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-11-02T05:10:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/c47e5efbaa0cb9e6.jpg",
+      "image_kind": "photo",
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "india",
+        "fed"
+      ],
+      "breaking": false,
+      "rank": 2
+    },
+    {
       "id": "88451cebc42f7446",
       "title": "SGB 2021-22 Series VII investors set for 200%+ gains as RBI fixes premature redemption at Rs 14,167",
       "summary": "RBI has fixed the premature redemption price for Sovereign Gold Bond 2021-22 Series VII at Rs 14,167 per unit, with the early-exit window due on November 2, 2026 — five years after the tranche was issued at Rs 4,765 per gram (Rs 4,715 for online buyers). Investors redeeming now lock in an absolute capital gain of about 200.5%, over and above the 2.5% annual interest the bonds paid.",
@@ -99,7 +134,7 @@
         "rbi"
       ],
       "breaking": false,
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "81eb170c96c154e8",
@@ -124,35 +159,7 @@
         "fed"
       ],
       "breaking": false,
-      "rank": 3
-    },
-    {
-      "id": "cfaa47e7a439bdc7",
-      "rank": 4,
-      "title": "Gold lingers near one-year low as Fed hike expectations firm",
-      "summary": "Gold rose 0.5% to about $3,895 an ounce in early Asian trading on Monday, near a one-year low after Friday's break below $4,000 on forced selling and margin calls tied to the tech-stock slide, per Commerzbank. Silver added 1.2% to about $49.70. Three Fed officials argued Friday for more hikes after September inflation accelerated, with December-hike odds near 75% per the CME FedWatch tool.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-lingers-near-one-year-low-as-fed-hike-expectations-firm/articleshow/135442111.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "publisher_id": "economic-times",
-      "published_at": "2026-11-02T02:06:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/cfaa47e7a439bdc7.jpg",
-      "image_kind": "photo",
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "fed",
-        "global"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://www.fxstreet.com/news/gold-rebounds-to-near-3-900-despite-inflation-worries-202611020045"
-      ]
+      "rank": 4
     },
     {
       "id": "0ef59b0aa6f1a744",
