@@ -1,30 +1,30 @@
-# Gold & Silver for Indian buyers · 2026-11-02T16:00Z
+# Gold & Silver for Indian buyers · 2026-11-02T18:00Z
 
-> Gold's rebound extends as Iran diplomacy sinks oil; BMO sees physical buyers returning
+> India clears 6,500-tonne silver import pipeline as gold's rebound holds below $4,000
 
-Spot gold climbed 1.8% to about $3,946 an ounce and silver 3.7% to $50.94 on Monday as Iran signalled it could reopen the Strait of Hormuz within two days, sending crude down over 4% and easing inflation fears. BMO says lower prices are drawing physical buyers back, with stronger India premiums and brisk Chinese trading. Analysts still urge caution -- lower daily lows must end -- with ~75% December Fed-hike odds capping the bounce. For Indian buyers the 'gold divide' persists: global gold is down ~10% in 2026 while MCX spot is up ~3% on rupee weakness.
+India issued silver-import permits for roughly 6,500 tonnes over the next six months, easing a licensing regime that choked inflows to ~1 moz a month in May-June, Heraeus notes. Spot gold climbed 1.8% to about $3,946 and silver 3.7% to $50.94 on Monday as Iran's Hormuz signal sent crude down over 4% and eased inflation fears, though analysts want the run of lower daily lows to end before calling a bottom, with ~75% December Fed-hike odds still capping the bounce. With Dhanteras on Nov 6 and gold ~20% off its peak, MCX gold futures sit near Rs 1.38 lakh/10g and silver near Rs 1.80 lakh/kg.
 
-- Spot gold +1.8% to ~$3,946, silver +3.7% to $50.94 as Iran's Hormuz signal sent WTI below $100 and Brent to ~$108.55, Kitco reports.
-- BMO sees physical demand returning at lower prices: stronger India premiums, a sharp pickup in Chinese trading, ~29,500 oz of ETF inflows.
-- Analysts stay cautious: the bounce must end the run of lower daily lows and reclaim moving averages before a reversal can be called.
-- Markets price roughly 75% odds of a December Fed hike after last week's hold -- the overhang limiting conviction behind the recovery.
-- Dhanteras (Nov 6) nears with gold ~20% off its peak; Rs 1 lakh now buys ~25% more gold than in January, per NDTV Profit.
+- India cleared silver-import permits for ~6,500 tonnes over six months (~209 moz); Heraeus sees the licensing ease lifting consumption over two quarters.
+- Spot gold +1.8% to ~$3,946, silver +3.7% to $50.94 on Monday as Iran's Hormuz signal sent crude down over 4%, Kitco reports.
+- Analysts say the bounce must end the run of lower daily lows and reclaim moving averages before a reversal can be called.
+- Markets price ~75% odds of a December Fed hike after last week's hold -- the overhang capping conviction in the recovery.
+- Dhanteras (Nov 6) nears with gold ~20% off its peak; Rs 1 lakh buys ~25% more gold than in January, per NDTV Profit.
 
 ## Trending
-- **Rally extends, conviction lags**: Afternoon trade pushed gold near $3,946 and silver past $50.94 on the Iran-oil move, but analysts say the bounce must end lower daily lows, and ~75% December-hike pricing still caps it. (stories 1, 2, 14)
-- **Physical buyers stir at the lows**: BMO sees lower prices drawing physical demand -- stronger India premiums, brisk Chinese trading -- just as Dhanteras shoppers weigh a ~20% discount from the peak. (stories 4, 9, 15)
-- **The gold divide for Indian buyers**: Global gold is down ~10% this year yet MCX spot is up ~3%: rupee weakness keeps the rout from reaching Indian jewellers ahead of Diwali. (stories 3, 5, 22)
-- **Silver reclaims $50**: Silver's 3.7% jump back above $50 repairs some of Friday's damage, but analysts warn $55 must be reclaimed before buyers return. (stories 1, 12, 17)
+- **Silver import pipeline opens**: India's 6,500-tonne silver import permits ease the licensing squeeze ahead of the festive season; Heraeus expects the easing to lift consumption over the next two quarters. (stories 2, 12, 17)
+- **Rebound holds, but conviction lags**: Gold near $3,946 and silver past $50.94 on the Iran-oil move, yet analysts say lower daily lows must end and ~75% December-hike pricing still caps the recovery. (stories 1, 3)
+- **The gold divide for Indian buyers**: Global gold is down ~10% this year yet MCX spot is up ~3%: rupee weakness keeps the rout from reaching Indian jewellers ahead of Dhanteras. (stories 4, 5, 22)
+- **Dhanteras countdown**: With Dhanteras on Nov 6 and gold ~20% off its peak, shoppers are weighing digital-gold cashback offers and hallmarking checks against still-elevated making charges. (stories 15, 19, 24)
 
 ## Stories
 1. [Gold, silver rebound as Iran diplomacy sends oil lower, easing Fed tightening concerns](https://www.kitco.com/news/article/2026-11-02/gold-silver-rebound-iran-diplomacy-sends-oil-lower-easing-fed-tightening) — *Kitco*, 2026-11-02T13:56:16Z
    Spot gold climbed 1.8% to about $3,946 an ounce and silver 3.7% to $50.94 on Monday as renewed US-Iran diplomacy pushed crude down more than 4%, easing inflation fears. Iran said it could reopen the Strait of Hormuz and resume nuclear talks within two days; WTI fell below $100 and Brent toward $108.55. Kitco notes ~75% December Fed-hike odds still cap conviction.
-2. [Gold, silver outlook: Why analysts remain cautious despite Monday's recovery](https://www.cnbctv18.com/market/commodities/gold-silver-outlook-why-analysts-remain-cautious-despite-recovery-20024956.htm) — *CNBC-TV18*, 2026-11-02T10:19:00Z
+2. [India set to ramp up silver imports into 2027 as 6,500-tonne permits clear backlog](https://www.kitco.com/news/article/2026-11-02/gold-and-silver-prices-surge-after-sharp-selloff-india-set-ramp-silver) — *Kitco*, 2026-11-02T16:12:00Z
+   Heraeus: India's easing silver-import regime should lift consumption over the next two quarters, with permits for ~6,500 tonnes (about 209 moz) over six months -- nearly 90% of 2025's total imports. Monthly imports fell to ~1 moz in May-June under licence rules, then recovered to 15.5 moz in August. Gold is also seeing renewed buying below $4,000, though Fed-hike bets still hang over the metal.
+3. [Gold, silver outlook: Why analysts remain cautious despite Monday's recovery](https://www.cnbctv18.com/market/commodities/gold-silver-outlook-why-analysts-remain-cautious-despite-recovery-20024956.htm) — *CNBC-TV18*, 2026-11-02T10:19:00Z
    Gold and silver staged a tentative rebound on MCX on Monday after Friday's 3.7% rout, with December gold futures near ₹1.38 lakh per 10 grams and spot gold up 0.6% to about $3,899 an ounce; silver rose 1.3% to $49.76. Analysts at Lemonn and Bonanza told CNBC TV18 it is too early to call a bottom — prices must stop printing lower daily lows and reclaim short-term moving averages first.
-3. [Gold's Global Rout Isn't Giving Indian Buyers Much Relief](https://www.bloomberg.com/news/newsletters/2026-11-02/gold-is-down-10-this-year-not-quite-for-india) — *Bloomberg*, 2026-11-02T13:01:00Z
+4. [Gold's Global Rout Isn't Giving Indian Buyers Much Relief](https://www.bloomberg.com/news/newsletters/2026-11-02/gold-is-down-10-this-year-not-quite-for-india) — *Bloomberg*, 2026-11-02T13:01:00Z
    Global gold is down roughly 10% this year, but Indian buyers are seeing no relief: MCX spot gold is actually up about 3% in 2026, Bloomberg's India Edition notes. The culprit is the rupee's slide against the dollar, which has offset the global price decline for domestic buyers -- a 'gold divide' leaving Indians waiting for the rout to reach their jewellers.
-4. [Gold SWOT: BMO believes lower gold prices are starting to attract physical buyers](https://www.kitco.com/opinion/2026-11-02/gold-swot-bmo-believes-lower-gold-prices-are-starting-attract-physical-buyers) — *Kitco*, 2026-11-02T14:36:00Z
-   BMO Capital Markets sees lower gold prices starting to pull physical buyers back in, with stronger premiums in India and a sharp pickup in Chinese trading signaling renewed demand, Frank Holmes writes in Kitco's Gold SWOT. Bloomberg data cited shows gold ETFs added about 29,500 ounces, pointing to healthier investment demand alongside the physical rebound.
 5. [Gold and Silver Rebound Ahead of Diwali; Silver Jumps Rs 3,500](https://theworldopinion.com/tech/gold-silver-rebound-ahead-of-diwali-silver-jumps) — *The World Opinion*, 2026-11-02T09:11:58Z
    MCX December gold opened Rs 518 higher at Rs 1,39,003/10g and hit an intraday high of Rs 1,39,179, while December silver opened Rs 1,962 up at Rs 1,81,094 and reached Rs 1,82,701 - a Rs 3,569 rise - ahead of Dhanteras. Comex gold traded ~0.33% higher near $3,911.60, silver up 2.24% at $50.38; Choice Broking's Kaveri More cited a near-3% crude fall and festive demand.
 6. [Gold futures rise to Rs 1.38 lakh on strong spot demand](https://money.rediff.com/news/market/gold-futures-rise-to-rs-1-38-lakh-on-strong-spot-demand/57345520261102) — *Rediff Money*, 2026-11-02T08:26:00Z
