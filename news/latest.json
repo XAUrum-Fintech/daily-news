@@ -1,18 +1,18 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-02T11:00Z",
-  "generated_at": "2026-11-02T11:07:02Z",
+  "edition_id": "2026-11-02T14:00Z",
+  "generated_at": "2026-11-02T14:09:57Z",
   "window": {
-    "from": "2026-11-02T10:00:00Z",
-    "to": "2026-11-02T11:00:00Z"
+    "from": "2026-11-02T12:00:00Z",
+    "to": "2026-11-02T14:00:00Z"
   },
   "insights": {
-    "headline": "Gold steadies after Friday's rout as analysts warn against calling a bottom",
-    "summary": "Gold and silver staged a tentative rebound on Monday after Friday's sharp sell-off, with MCX December gold futures near ₹1.38 lakh per 10 grams and spot gold back near $3,900 an ounce. Analysts told CNBC TV18 it is too early to call a reversal: prices must stop making lower daily lows and reclaim short-term moving averages. Silver's break below the historic $50 level on Friday remains the week's major bearish signal, while markets price roughly 72% odds of a December Fed rate hike.",
+    "headline": "Gold steadies after Friday's rout, but a weaker rupee denies Indian buyers any relief",
+    "summary": "Gold and silver staged a tentative rebound on Monday after Friday's sharp sell-off, with MCX December gold futures near ₹1.38 lakh per 10 grams and spot gold back near $3,900 an ounce. But Bloomberg's India Edition flags a 'gold divide': global gold is down about 10% this year while MCX spot gold is up roughly 3%, because the rupee's slide has offset the global decline. Analysts told CNBC TV18 it is too early to call a reversal: prices must stop making lower daily lows and reclaim short-term moving averages.",
     "points": [
       "MCX December gold futures traded near ₹1.38 lakh/10g on Monday; spot gold gained 0.6% to $3,899/oz and silver 1.3% to $49.76 after Friday's 3.7% slide.",
-      "Silver broke below the historic $50 level on Friday — a major bearish signal; analysts say it must reclaim $55 before buyers return.",
-      "Analysts warn it is too early to call a bottom: gold must stop printing lower daily lows and retake short-term moving averages.",
+      "Global gold is down ~10% in 2026 but MCX spot gold is up ~3% -- the rupee's weakness has erased the rout's benefit for Indian buyers, per Bloomberg.",
+      "Silver broke below the historic $50 level on Friday -- a major bearish signal; analysts say it must reclaim $55 before buyers return.",
       "Fed-hike bets persist: markets price ~72% odds of a December 25bp increase after the 10-2 hold vote on Oct 28.",
       "Dhanteras buying in focus: gold is ~20% off its peak and ₹1 lakh buys 25% more gold than in January, per NDTV Profit."
     ]
@@ -33,16 +33,16 @@
       "item_ids": [
         "767765fcd4fb669a",
         "35f5cfa1bdc68bb1",
-        "858fbc301cd21c92"
+        "243b75598a424486"
       ]
     },
     {
-      "title": "Dhanteras bargain hunt",
-      "summary": "With gold ~20% off its peak, retailers lean on cashback, making-charge cuts and digital-gold extras to pull festive buyers in before Nov 6.",
+      "title": "The gold divide for Indian buyers",
+      "summary": "Global gold is down ~10% this year yet MCX spot is up ~3%: a weaker rupee means the rout isn't reaching Indian jewellers ahead of Dhanteras.",
       "item_ids": [
+        "eb782b3bd50d7f00",
         "276eb83658f5a0fd",
-        "b135d58cda16b221",
-        "b48bd6b599f9ce9b"
+        "9f26a76e42de4009"
       ]
     },
     {
@@ -52,6 +52,15 @@
         "1576384755671737",
         "0ef59b0aa6f1a744",
         "ac7f863249125ee3"
+      ]
+    },
+    {
+      "title": "Dhanteras bargain hunt",
+      "summary": "With gold ~20% off its peak, retailers lean on cashback, making-charge cuts and digital-gold extras to pull festive buyers in before Nov 6.",
+      "item_ids": [
+        "276eb83658f5a0fd",
+        "b135d58cda16b221",
+        "9f26a76e42de4009"
       ]
     }
   ],
@@ -84,8 +93,33 @@
       "rank": 1
     },
     {
+      "id": "eb782b3bd50d7f00",
+      "title": "Gold's Global Rout Isn't Giving Indian Buyers Much Relief",
+      "summary": "Global gold is down roughly 10% this year, but Indian buyers are seeing no relief: MCX spot gold is actually up about 3% in 2026, Bloomberg's India Edition notes. The culprit is the rupee's slide against the dollar, which has offset the global price decline for domestic buyers -- a 'gold divide' leaving Indians waiting for the rout to reach their jewellers.",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-02/gold-is-down-10-this-year-not-quite-for-india",
+      "source": "Bloomberg",
+      "source_domain": "bloomberg.com",
+      "publisher_id": "bloomberg",
+      "published_at": "2026-11-02T13:01:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "india",
+        "rupee",
+        "mcx"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "related_urls": [],
+      "rank": 2
+    },
+    {
       "id": "1576384755671737",
-      "rank": 2,
+      "rank": 3,
       "title": "Gold rises on softer oil; markets parse Fed signals",
       "summary": "Gold rose 0.7-0.9% to about $3,901-3,908 an ounce on Monday, bouncing off Friday's one-year low below $4,000 as weaker oil prices cooled inflation fears, Reuters reported. Spot silver climbed 1.8-2.2% back above $50. Three Fed officials argued for more hikes; traders see ~73% odds of a December increase, with the US midterms and Friday's jobs report up next.",
       "url": "https://www.reuters.com/world/india/gold-rises-softer-oil-markets-parse-fed-signals-2026-11-02/",
@@ -113,7 +147,7 @@
     },
     {
       "id": "ab789efc26287d00",
-      "rank": 3,
+      "rank": 4,
       "title": "Gold and Silver Rebound Ahead of Diwali; Silver Jumps Rs 3,500",
       "summary": "MCX December gold opened Rs 518 higher at Rs 1,39,003/10g and hit an intraday high of Rs 1,39,179, while December silver opened Rs 1,962 up at Rs 1,81,094 and reached Rs 1,82,701 - a Rs 3,569 rise - ahead of Dhanteras. Comex gold traded ~0.33% higher near $3,911.60, silver up 2.24% at $50.38; Choice Broking's Kaveri More cited a near-3% crude fall and festive demand.",
       "url": "https://theworldopinion.com/tech/gold-silver-rebound-ahead-of-diwali-silver-jumps",
@@ -136,7 +170,8 @@
       ],
       "breaking": false,
       "related_urls": [
-        "https://www.thedailyjagran.com/business/news/gold-silver-bounce-back-mcx-gold-rises-past-rs-1-39-lakh-silver-surges-over-rs-3500-on-festive-demand-10334827"
+        "https://www.thedailyjagran.com/business/news/gold-silver-bounce-back-mcx-gold-rises-past-rs-1-39-lakh-silver-surges-over-rs-3500-on-festive-demand-10334827",
+        "https://www.thehindubusinessline.com/markets/gold/gold-edges-up-ahead-of-diwali-on-festive-demand-silver-remains-steady-in-delhi/article71656866.ece"
       ]
     },
     {
@@ -160,7 +195,7 @@
         "comex"
       ],
       "breaking": false,
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "c47e5efbaa0cb9e6",
@@ -186,7 +221,7 @@
         "fed"
       ],
       "breaking": false,
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "be30240b70e134c3",
@@ -211,7 +246,7 @@
         "india"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "276eb83658f5a0fd",
@@ -234,7 +269,7 @@
         "jewellery"
       ],
       "breaking": false,
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "88451cebc42f7446",
@@ -257,7 +292,7 @@
         "rbi"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "81eb170c96c154e8",
@@ -282,7 +317,7 @@
         "fed"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "767765fcd4fb669a",
@@ -305,7 +340,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "68c6aedc8139c97d",
@@ -332,7 +367,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 11
+      "rank": 12
     },
     {
       "id": "0ef59b0aa6f1a744",
@@ -357,7 +392,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 13
     },
     {
       "id": "b135d58cda16b221",
@@ -381,7 +416,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 13
+      "rank": 14
     },
     {
       "id": "82b2da712e174621",
@@ -401,31 +436,6 @@
       "tags": [
         "gold",
         "india"
-      ],
-      "breaking": false,
-      "rank": 14
-    },
-    {
-      "id": "517f3b79bf65ab0c",
-      "title": "Gold plunges ₹3,200 to 10-month low of ₹1.42 lakh; silver slides ₹4,200",
-      "summary": "Gold in Delhi fell ₹3,200 to ₹1.42 lakh per 10 grams on Saturday, a 10-month low, while silver slid ₹4,200 per kg, according to the All India Sarafa Association. The slide extends the week's global selloff driven by US rate-hike expectations, rising oil prices and inflation fears, landing just days before Dhanteras and Diwali.",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-plunges-3200-to-10-month-low-of-142-lakh-silver-slides-4200/article71649831.ece",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "publisher_id": "hindu-businessline",
-      "published_at": "2026-10-31T14:01:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "silver",
-        "india",
-        "fed"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
       ],
       "breaking": false,
       "rank": 15
@@ -477,7 +487,10 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 17
+      "rank": 17,
+      "related_urls": [
+        "https://www.livemint.com/market/commodities/rates-crash-gold-price-slips-7-silver-tanks-20-in-oct-is-dhanteras-2026-right-time-to-buy-what-should-investors-do-11793618175891.html"
+      ]
     },
     {
       "id": "a046f7b3013488b1",
