@@ -1,4 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-11-02T07:00Z
+# Gold & Silver for Indian buyers · 2026-11-02T08:00Z
 
 > MCX gold, silver hold Diwali rebound; Dhanteras deals and Fed-week caution in focus
 
@@ -11,9 +11,9 @@ MCX gold rose Rs 613 to Rs 1,39,098/10g Monday while Dec silver gained Rs 2,800 
 - Three Fed officials called for more hikes; SGB Series VII early exit at Rs 14,167 locks in ~200.5%; midterms Nov 3, payrolls Nov 6 are the swing factors.
 
 ## Trending
-- **MCX metals rebound into Diwali week**: Gold futures rose Rs 613 to Rs 1,39,098/10g and Dec silver Rs 2,800 to Rs 1,81,925/kg as Diwali demand set in. (stories 2, 1)
+- **MCX metals rebound into Diwali week**: Gold futures rose Rs 613 to Rs 1,39,098/10g and Dec silver Rs 2,800 to Rs 1,81,925/kg as Diwali demand set in. (stories 1, 2)
 - **Dhanteras gold deals for buyers**: PhonePe, BharatPe, Joyalukkas and Senco rolled out digital-gold extras, making-charge cuts and discounts ahead of November 6 Dhanteras. (stories 7)
-- **Correction: historic opportunity or Fed-capped?**: One columnist calls the ~7.2% monthly slide a historic buying chance; margin-call risks and December-hike bets keep the bounce fragile. (stories 5, 4)
+- **Correction: historic opportunity or Fed-capped?**: One columnist calls the ~7.2% monthly slide a historic buying chance; margin-call risks and December-hike bets keep the bounce fragile. (stories 4, 5, 13)
 - **SGB Series VII exit pays 200%+**: RBI fixed the Nov 2 premature redemption price at Rs 14,167 per unit, over 200% above the 2021 issue price. (stories 3)
 - **Fed's December hike is the swing factor**: Three Fed officials called for more hikes; midterms Nov 3, US jobs Nov 6 and inflation Nov 10 will test bets. (stories 4, 6)
 
@@ -42,13 +42,15 @@ MCX gold rose Rs 613 to Rs 1,39,098/10g Monday while Dec silver gained Rs 2,800 
    Silver has fallen more than 58% from its record high of nearly $120 an ounce in the London spot market earlier this year to around $50, The Economic Times reports. Geojit's Hareesh V attributes the unraveling to profit-booking, slower industrial demand growth and shifting macro conditions, after the record rally was driven by tight supply, solar and electronics demand, and investment inflows.
 12. [Crash! Gold price suffers worst October in years: Did silver and platinum suffer too? Check monthly performance](https://www.livemint.com/market/commodities/crash-gold-price-suffers-worst-october-in-years-did-silver-and-platinum-suffer-too-check-monthly-performance-11793549898014.html) — *Mint*, 2026-11-01T16:24:04Z
    Mint's monthly review: gold logged its worst October in years, sinking to a one-year low near $3,876 an ounce, while silver and platinum suffered too — silver slipped below $50 for the first time in nearly a year and platinum hit a 13-month low. The piece traces the selloff to hot US inflation data, Fed rate-hike bets and a broader market rout.
-13. [Silver Price Crash: 1 Kg Silver May Soon Equal 10 Grams of Gold as Gold-Silver Ratio Hits 79](https://www.myfinbright.com/silver-rate/silver-price-crash-gold-silver-ratio-mcx-rates) — *MyFinBright*, 2026-11-01T04:42:57Z
+13. [Gold And Silver Prices See A Big Drop In October: Is Dhanteras The Right Time To Buy?](https://www.news18.com/photogallery/business/savings-and-investments/gold-and-silver-prices-see-a-big-drop-in-october-is-dhanteras-the-right-time-to-buy-shil-ws-el-10408520.html) — *News18*, 2026-11-02T07:55:00Z
+   News18's Business Desk recaps October's sharp MCX correction — gold futures fell nearly Rs 7,800 per 10 grams over the month while silver lost around Rs 44,840 per kg — framing the slide as pre-festive relief for buyers and asking whether the Dhanteras window makes this the right time to step in.
+14. [Silver Price Crash: 1 Kg Silver May Soon Equal 10 Grams of Gold as Gold-Silver Ratio Hits 79](https://www.myfinbright.com/silver-rate/silver-price-crash-gold-silver-ratio-mcx-rates) — *MyFinBright*, 2026-11-01T04:42:57Z
    The gold-silver ratio has climbed to 79 from below 50 in January as silver's crash outpaced gold's. MCX silver is down about 57% from its Rs 4,20,048/kg peak to Rs 1,78,900; gold is down about 23% to Rs 1,38,419/10g. At these levels silver needs to fall another 22.6% — gold flat — for 1 kg to equal 10 grams of gold. Metals Focus sees silver supply easing into a 2027 surplus.
-14. [Gold, silver lose sheen](https://www.thehindubusinessline.com/portfolio/personal-finance/gold-silver-lose-sheen/article71652176.ece) — *The Hindu BusinessLine*, 2026-11-01T00:30:00Z
+15. [Gold, silver lose sheen](https://www.thehindubusinessline.com/portfolio/personal-finance/gold-silver-lose-sheen/article71652176.ece) — *The Hindu BusinessLine*, 2026-11-01T00:30:00Z
    Gold and silver closed October with a second straight monthly loss, per The Hindu BusinessLine's technical review: Comex gold fell 7.26% to $3,884.9/oz and silver 19.1% to $49.13; MCX gold slid 7.16% to Rs 1,38,419/10g and silver 20% to Rs 1,78,900/kg. Drivers: higher crude, sticky inflation, December Fed hike bets. Column flags Comex gold risk at $3,650-$3,750 and silver at $42-$43.
-15. [How did gold and silver perform in India ahead of Dhanteras and Diwali?](https://inshorts.com/en/news/how-did-gold-and-silver-perform-in-india-ahead-of-dhanteras-and-diwali--1793496602787) — *Inshorts*, 2026-11-01T01:30:02Z
+16. [How did gold and silver perform in India ahead of Dhanteras and Diwali?](https://inshorts.com/en/news/how-did-gold-and-silver-perform-in-india-ahead-of-dhanteras-and-diwali--1793496602787) — *Inshorts*, 2026-11-01T01:30:02Z
    IBJA data shows gold closed the week over Rs 2,200 per 10 grams cheaper after a swing of more than Rs 2,600, while silver closed over Rs 9,100 per kg lower with a Rs 13,135 per kg weekly swing — capping a volatile week for Indian buyers just days before Dhanteras and Diwali.
-16. [Your Rs 1 Lakh Buys 25% More Gold This Dhanteras Than In January. Should You Invest?](https://www.ndtvprofit.com/markets/your-rs-1-lakh-buys-25-more-gold-this-dhanteras-than-in-january-should-you-invest-12266309) — *NDTV Profit*, 2026-11-01T06:37:30Z
+17. [Your Rs 1 Lakh Buys 25% More Gold This Dhanteras Than In January. Should You Invest?](https://www.ndtvprofit.com/markets/your-rs-1-lakh-buys-25-more-gold-this-dhanteras-than-in-january-should-you-invest-12266309) — *NDTV Profit*, 2026-11-01T06:37:30Z
    NDTV Profit calculates that Rs 1 lakh buys about 7.1 grams of 24-carat gold this Dhanteras — roughly 25% more than the ~5.7 grams it fetched at January's Rs 1,75,340 peak — with IBJA gold at Rs 1,40,054 per 10 grams on October 30. Gold is still ~8% costlier than last Dhanteras, and analysts favor staggered buying into the November 6 festival.
-17. [Dhanteras 2026: How To Check Gold Purity, Hallmarking And Making Charges](https://www.outlookmoney.com/invest/dhanteras-2026-how-to-check-gold-purity-hallmarking-and-making-charges) — *Outlook Money*, 2026-11-01T09:58:11Z
+18. [Dhanteras 2026: How To Check Gold Purity, Hallmarking And Making Charges](https://www.outlookmoney.com/invest/dhanteras-2026-how-to-check-gold-purity-hallmarking-and-making-charges) — *Outlook Money*, 2026-11-01T09:58:11Z
    Ahead of Dhanteras on November 6, Outlook Money walks buyers through checking gold purity via karat and fineness marks, verifying the three BIS hallmark signs including the six-digit HUID code, and scrutinising the bill for making charges, net weight and GST before paying.
