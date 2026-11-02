@@ -1,20 +1,20 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-02T06:00Z",
-  "generated_at": "2026-11-02T06:05:39Z",
+  "edition_id": "2026-11-02T07:00Z",
+  "generated_at": "2026-11-02T07:09:17Z",
   "window": {
-    "from": "2026-11-02T05:00:00Z",
-    "to": "2026-11-02T06:00:00Z"
+    "from": "2026-11-02T06:00:00Z",
+    "to": "2026-11-02T07:00:00Z"
   },
   "insights": {
-    "headline": "MCX gold, silver rebound ahead of Diwali; global bullion steadies above $3,900",
-    "summary": "MCX gold futures rose Rs 613 to Rs 1,39,098 per 10 grams on Monday while December silver futures gained Rs 2,800 to Rs 1,81,925 per kg as Diwali buying set in, extending the global rebound that put spot gold back above $3,900 and silver above $50 on easing crude prices. The recovery stays fragile: three US Fed officials called for further rate hikes, keeping December-hike bets alive. RBI fixed the SGB 2021-22 Series VII premature redemption at Rs 14,167 per unit, worth about 200.5% gains; US midterms Nov 3 and Friday's jobs data are the next macro triggers.",
+    "headline": "MCX gold, silver hold Diwali rebound; Dhanteras deals and Fed-week caution in focus",
+    "summary": "MCX gold rose Rs 613 to Rs 1,39,098/10g Monday while Dec silver gained Rs 2,800 to Rs 1,81,925/kg on Diwali buying, extending the rebound that put spot gold back above $3,900 with silver near $50 on easing crude. Three Fed officials called for more hikes, keeping December-hike bets alive; an Investing.com columnist calls the ~7.2% monthly slide a historic buying opportunity. Dhanteras (Nov 6) deals: PhonePe 2% cashback, BharatPe +5% digital gold, Joyalukkas 50% off making charges. SGB VII exit at Rs 14,167 locks ~200.5% gains; midterms Nov 3, payrolls Nov 6 next.",
     "points": [
       "MCX gold +Rs 613 to Rs 1,39,098/10g, Dec silver +Rs 2,800 to Rs 1,81,925/kg on Diwali buying.",
-      "Spot gold +0.7% back above $3,900, silver above $50 as easing oil cooled December-hike bets.",
-      "Three Fed officials called for more hikes; Friday's margin-call slide stays the cautionary tale.",
-      "SGB 2021-22 Series VII early exit at Rs 14,167 on Nov 2 locks in ~200.5% gains.",
-      "US midterms Nov 3, payrolls Nov 6, Dhanteras Nov 6: the week's swing factors."
+      "Spot gold back above $3,900, silver near $50 as easing oil cooled December-hike bets.",
+      "Dhanteras (Nov 6) deals: PhonePe 2% cashback up to Rs 2,000, BharatPe +5% digital gold, Joyalukkas 50% off making charges, Senco up to Rs 14,000/10g off.",
+      "Investing.com's Patrick MontesDeOca calls the ~7.2% monthly slide a historic buying opportunity, blaming forced liquidation and AI/crypto rotation.",
+      "Three Fed officials called for more hikes; SGB Series VII early exit at Rs 14,167 locks in ~200.5%; midterms Nov 3, payrolls Nov 6 are the swing factors."
     ]
   },
   "trending": [
@@ -27,10 +27,17 @@
       ]
     },
     {
-      "title": "Fragile bounce above $3,900, silver retakes $50",
-      "summary": "Gold and silver recovered as softer oil eased inflation fears, but ~75% December-hike pricing keeps rallies capped.",
+      "title": "Dhanteras gold deals for buyers",
+      "summary": "PhonePe, BharatPe, Joyalukkas and Senco rolled out digital-gold extras, making-charge cuts and discounts ahead of November 6 Dhanteras.",
       "item_ids": [
-        "44483ae5e4d00d85",
+        "b135d58cda16b221"
+      ]
+    },
+    {
+      "title": "Correction: historic opportunity or Fed-capped?",
+      "summary": "One columnist calls the ~7.2% monthly slide a historic buying chance; margin-call risks and December-hike bets keep the bounce fragile.",
+      "item_ids": [
+        "68c6aedc8139c97d",
         "81eb170c96c154e8"
       ]
     },
@@ -46,15 +53,7 @@
       "summary": "Three Fed officials called for more hikes; midterms Nov 3, US jobs Nov 6 and inflation Nov 10 will test bets.",
       "item_ids": [
         "81eb170c96c154e8",
-        "c47e5efbaa0cb9e6"
-      ]
-    },
-    {
-      "title": "MCX metals at multi-month lows into Dhanteras",
-      "summary": "Delhi gold hit a 10-month low of Rs 1.42 lakh/10g and MCX silver Rs 1.79 lakh/kg ahead of the Nov 6 festival.",
-      "item_ids": [
-        "517f3b79bf65ab0c",
-        "858fbc301cd21c92"
+        "0ef59b0aa6f1a744"
       ]
     }
   ],
@@ -162,6 +161,33 @@
       "rank": 4
     },
     {
+      "id": "68c6aedc8139c97d",
+      "title": "Why the Gold and Silver Correction May Be a Historic Opportunity",
+      "summary": "Investing.com's Patrick MontesDeOca calls gold's ~7.2% monthly slide — despite Iran tensions, crude above $110 and inflation worries — a historic buying opportunity, blaming forced liquidation and rotation into AI/crypto. Supports: central-bank accumulation, diversification demand. Slide drivers: Fed-rate expectations and institutional flows, including Tether's gold sales tied to bitcoin.",
+      "url": "https://www.investing.com/analysis/why-the-gold-and-silver-correction-may-be-a-historic-opportunity-200690645",
+      "source": "Investing.com",
+      "source_domain": "investing.com",
+      "publisher_id": "investing",
+      "published_at": "2026-11-02T06:37:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/68c6aedc8139c97d.jpg",
+      "image_kind": "photo",
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "global",
+        "fed",
+        "central-banks"
+      ],
+      "breaking": false,
+      "related_urls": [],
+      "rank": 5
+    },
+    {
       "id": "0ef59b0aa6f1a744",
       "title": "Gold, silver may extend losses as US vote, jobs data test sentiment",
       "summary": "Analysts told Business Standard that gold and silver may extend losses this week as investors track the US midterm vote on November 3, US jobs data, and geopolitical tensions for cues on bullion prices. MCX December gold fell Rs 3,539 (2.5%) in the week to Rs 1.38 lakh per 10 grams, while silver dropped Rs 16,587 (8.5%) to Rs 1.79 lakh per kg, JM Financial and LKP Securities analysts said.",
@@ -184,7 +210,31 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "id": "b135d58cda16b221",
+      "title": "Dhanteras 2026 offers: Cashback on digital gold, discounts on jewellery making charges and more",
+      "summary": "Ahead of Dhanteras (Nov 6), PhonePe offers 2% cashback up to Rs 2,000 on 24K digital gold buys of Rs 10,000+ (till Nov 8); BharatPe adds 5% extra digital gold above Rs 100 plus leaderboard prizes; Joyalukkas cuts making charges 50% till Nov 8; Senco's Dhanteras Shagun gives up to Rs 14,000/10g off gold jewellery and 36% off diamond value, with zero old-gold exchange deduction.",
+      "url": "https://www.cnbctv18.com/personal-finance/dhanteras-2026-offers-digital-gold-discounts-jewellery-making-charges-20024684.htm",
+      "source": "CNBC-TV18",
+      "source_domain": "cnbctv18.com",
+      "publisher_id": "cnbc-tv18",
+      "published_at": "2026-11-02T06:27:43Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/b135d58cda16b221.jpg",
+      "image_kind": "photo",
+      "category": "festive",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
+      ],
+      "breaking": false,
+      "related_urls": [],
+      "rank": 7
     },
     {
       "id": "82b2da712e174621",
@@ -206,11 +256,10 @@
         "india"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 8
     },
     {
       "id": "517f3b79bf65ab0c",
-      "rank": 7,
       "title": "Gold plunges ₹3,200 to 10-month low of ₹1.42 lakh; silver slides ₹4,200",
       "summary": "Gold in Delhi fell ₹3,200 to ₹1.42 lakh per 10 grams on Saturday, a 10-month low, while silver slid ₹4,200 per kg, according to the All India Sarafa Association. The slide extends the week's global selloff driven by US rate-hike expectations, rising oil prices and inflation fears, landing just days before Dhanteras and Diwali.",
       "url": "https://www.thehindubusinessline.com/markets/gold/gold-plunges-3200-to-10-month-low-of-142-lakh-silver-slides-4200/article71649831.ece",
@@ -231,7 +280,8 @@
         "gold",
         "silver"
       ],
-      "breaking": false
+      "breaking": false,
+      "rank": 9
     },
     {
       "id": "35f5cfa1bdc68bb1",
@@ -254,7 +304,7 @@
         "fed"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 10
     },
     {
       "id": "a49b3ce8636a8caa",
@@ -276,11 +326,10 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 11
     },
     {
       "id": "243b75598a424486",
-      "rank": 10,
       "title": "Crash! Gold price suffers worst October in years: Did silver and platinum suffer too? Check monthly performance",
       "summary": "Mint's monthly review: gold logged its worst October in years, sinking to a one-year low near $3,876 an ounce, while silver and platinum suffered too — silver slipped below $50 for the first time in nearly a year and platinum hit a 13-month low. The piece traces the selloff to hot US inflation data, Fed rate-hike bets and a broader market rout.",
       "url": "https://www.livemint.com/market/commodities/crash-gold-price-suffers-worst-october-in-years-did-silver-and-platinum-suffer-too-check-monthly-performance-11793549898014.html",
@@ -302,7 +351,8 @@
         "gold",
         "silver"
       ],
-      "breaking": false
+      "breaking": false,
+      "rank": 12
     },
     {
       "id": "858fbc301cd21c92",
@@ -328,11 +378,10 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 13
     },
     {
       "id": "0899096e15f0dc4a",
-      "rank": 12,
       "title": "Gold, silver lose sheen",
       "summary": "Gold and silver closed October with a second straight monthly loss, per The Hindu BusinessLine's technical review: Comex gold fell 7.26% to $3,884.9/oz and silver 19.1% to $49.13; MCX gold slid 7.16% to Rs 1,38,419/10g and silver 20% to Rs 1,78,900/kg. Drivers: higher crude, sticky inflation, December Fed hike bets. Column flags Comex gold risk at $3,650-$3,750 and silver at $42-$43.",
       "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/gold-silver-lose-sheen/article71652176.ece",
@@ -354,11 +403,11 @@
         "silver"
       ],
       "breaking": false,
-      "related_urls": []
+      "related_urls": [],
+      "rank": 14
     },
     {
       "id": "9f26a76e42de4009",
-      "rank": 13,
       "title": "How did gold and silver perform in India ahead of Dhanteras and Diwali?",
       "summary": "IBJA data shows gold closed the week over Rs 2,200 per 10 grams cheaper after a swing of more than Rs 2,600, while silver closed over Rs 9,100 per kg lower with a Rs 13,135 per kg weekly swing — capping a volatile week for Indian buyers just days before Dhanteras and Diwali.",
       "url": "https://inshorts.com/en/news/how-did-gold-and-silver-perform-in-india-ahead-of-dhanteras-and-diwali--1793496602787",
@@ -380,7 +429,8 @@
         "gold",
         "silver"
       ],
-      "breaking": false
+      "breaking": false,
+      "rank": 15
     },
     {
       "breaking": false,
@@ -393,7 +443,6 @@
       ],
       "published_at": "2026-11-01T06:37:30Z",
       "publisher_id": "ndtv-profit",
-      "rank": 14,
       "related_urls": [],
       "source": "NDTV Profit",
       "source_domain": "ndtvprofit.com",
@@ -404,7 +453,8 @@
         "jewellery"
       ],
       "title": "Your Rs 1 Lakh Buys 25% More Gold This Dhanteras Than In January. Should You Invest?",
-      "url": "https://www.ndtvprofit.com/markets/your-rs-1-lakh-buys-25-more-gold-this-dhanteras-than-in-january-should-you-invest-12266309"
+      "url": "https://www.ndtvprofit.com/markets/your-rs-1-lakh-buys-25-more-gold-this-dhanteras-than-in-january-should-you-invest-12266309",
+      "rank": 16
     },
     {
       "id": "d322863d8baeb80e",
@@ -427,7 +477,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 15
+      "rank": 17
     }
   ]
 }
