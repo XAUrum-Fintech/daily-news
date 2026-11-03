@@ -1,6 +1,11 @@
 ## Today's brief
 
-**Gold slips toward $3,900 as US yields climb; midterms watched**
+**Gold slips toward $3,900 as US yields climb**
+
+MCX gold fell Rs 1,400 per 10 g as rising US yields and near-77% December Fed-hike bets weighed; midterms in focus.
+
+- MCX gold fell about Rs 1,400 per 10 g and silver about Rs 4,300 per kg on Tuesday; spot gold eased toward $3,900.
+- Rising US Treasury yields and about 77% December Fed-hike bets kept pressure on gold as US midterm voting got underway.
 
 - MCX gold fell about Rs 1,400 per 10 g and silver about Rs 4,300 per kg on Tuesday; spot gold eased toward $3,900.
 - Rising US Treasury yields and about 77% December Fed-hike bets kept pressure on gold as US midterm voting got underway.
