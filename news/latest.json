@@ -1,63 +1,110 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-03T04:00Z",
-  "generated_at": "2026-11-03T04:16:56Z",
+  "edition_id": "2026-11-03T05:00Z",
+  "generated_at": "2026-11-03T05:14:23Z",
   "window": {
-    "from": "2026-11-03T02:00:00Z",
-    "to": "2026-11-03T04:00:00Z"
+    "from": "2026-11-03T04:00:00Z",
+    "to": "2026-11-03T05:00:00Z"
   },
   "insights": {
-    "headline": "Reported US strike on Iran's Qeshm Island flips the tone: oil's risk premium is back as gold holds near $3,950",
-    "summary": "A WSJ report of a US strike on Iran's Qeshm Island reversed Monday's diplomacy-driven oil selloff: Brent rebounded 0.5% to $105.25 after settling 7.6% lower at $104.77. Gold consolidated near $3,950, holding Monday's 2%+ rebound from Friday's one-year low, ahead of Tuesday's US midterms. Silver hovered around $50 after Friday's $48.47 yearly low; MCX silver is down ~57% from its peak and the gold-silver ratio sits at 79. Fed funds futures still price ~70%+ odds of a December hike. MCX gold futures closed at Rs 1.40 lakh per 10 grams as jewellers reported reviving Dhanteras footfalls.",
+    "headline": "Gold eases ahead of US midterms as December Fed-hike bets cap the rebound",
+    "summary": "Spot gold slipped 0.5% to $3,926.52 an ounce on Tuesday, giving back part of Monday's more than 2% rebound from a one-year low, as investors awaited the US midterm election results. A reported US strike on Iran's Qeshm Island pushed crude back up after its 7% plunge, while traders priced a 74% chance of a December Fed rate hike. Silver stayed deep in the red, nearly 60% below its January peak near $122, with HSBC seeing limited upside. In India, gold futures held near Rs 1.38 lakh per 10 grams as jewellers reported a 10-12% rise in Dhanteras sales on lower prices.",
     "points": [
-      "Brent rebounded 0.5% to $105.25 in Asian trade after Monday's 7.6% plunge; WTI rose to $96.93 on the Qeshm Island strike report.",
-      "Spot gold consolidated near $3,950 after Monday's 2%+ rebound from Friday's one-year low below $3,900.",
-      "Silver held around $50 after Friday's yearly low of $48.47; MCX silver is down ~57% from its peak, with the gold-silver ratio at 79.",
-      "CME FedWatch still implies ~70-75% odds of a December Fed rate hike, capping bullion's recovery.",
-      "MCX gold futures ended at Rs 1.40 lakh/10 gm; jewellers expect 10-12% higher Dhanteras sales volumes."
+      "Spot gold fell 0.5% to $3,926.52/oz on Tuesday after surging 2%+ on Monday off a one-year low. (Reuters)",
+      "Oil rebounded after a reported US strike on Iran's Qeshm Island, adding risk premium back after Monday's 7%+ plunge. (Reuters)",
+      "Traders priced a 74% chance of a December Fed rate hike, keeping pressure on bullion. (CME FedWatch via Reuters)",
+      "Silver sits ~60% below its January peak near $122; HSBC sees limited upside on weaker demand and rising supply. (Economic Times)",
+      "MCX gold futures held near Rs 1.38 lakh/10g; jewellers see 10-12% higher Dhanteras sales on lower prices. (Rediff, Economic Times)"
     ]
   },
   "trending": [
     {
-      "title": "The Iran trade flips overnight",
-      "summary": "Monday's diplomacy-driven oil selloff — Brent down 7.6% — was reversed by the WSJ report of US strikes on Qeshm Island, putting the risk premium back in focus ahead of the midterms.",
+      "title": "Midterms and the Fed decide gold's next move",
+      "summary": "Gold's path this week runs through Tuesday's US midterm elections and December Fed-hike odds at 74%. Analysts are split between a $4,000 retest and a deeper slide after October's rout.",
+      "item_ids": [
+        "ee1f4e98fc5cbdc0",
+        "2f0857aeae46bf48",
+        "033295f37f1bb257",
+        "47343395f90da0c3"
+      ]
+    },
+    {
+      "title": "Silver's historic collapse: 60% off the peak",
+      "summary": "Silver has crashed from about $122 in January to around $50, entering oversold territory. HSBC doubts a return to $100 soon, even as India prepares to ramp up silver imports into 2027.",
+      "item_ids": [
+        "387ace72e4320cdd",
+        "0be42a59e6b0fa5a",
+        "40519f6087c45d6d"
+      ]
+    },
+    {
+      "title": "Oil whiplash rules the tape",
+      "summary": "Crude plunged over 7% on Iran diplomacy hopes, then bounced on reports of a US strike on Qeshm Island — the same swing that first sank, then lifted, gold and silver.",
       "item_ids": [
         "d1a63b82cc9e222e",
         "b8bded6684511379"
       ]
     },
     {
-      "title": "Silver's 60% round trip",
-      "summary": "Silver has wiped out nearly 60% since its ~$122 January record and sits around $50 in oversold territory, even as India clears a 6,500-tonne import pipeline into 2027.",
-      "item_ids": [
-        "0be42a59e6b0fa5a",
-        "858fbc301cd21c92",
-        "40519f6087c45d6d"
-      ]
-    },
-    {
-      "title": "Dhanteras dip-buying revives",
-      "summary": "A 7% monthly slide in gold prices has brought Indian buyers back to jewellery stores, with jewellers expecting 10-12% higher Dhanteras sales volumes led by lightweight pieces.",
+      "title": "Dhanteras dip-buying is real",
+      "summary": "Lower prices are pulling Indian buyers back: jewellers report 10-12% higher Dhanteras sales, and digital-gold cashback offers are back on the table.",
       "item_ids": [
         "e856b7240ba40b14",
         "276eb83658f5a0fd",
         "b135d58cda16b221"
       ]
-    },
-    {
-      "title": "$4,000 is the line in the sand",
-      "summary": "Gold's recovery faces the $4,000 test with December Fed-hike odds above 70%; forecasters split on whether sub-$4,000 is a buying window or a stop before $3,500.",
-      "item_ids": [
-        "033295f37f1bb257",
-        "b14ca4e0d47486e3",
-        "2f0857aeae46bf48"
-      ]
     }
   ],
   "items": [
     {
-      "id": "d1a63b82cc9e222e",
+      "id": "ee1f4e98fc5cbdc0",
       "rank": 1,
+      "title": "Gold eases ahead of US midterm elections",
+      "summary": "Gold slipped 0.5% to $3,926.52 an ounce on Tuesday, giving back part of Monday's more than 2% rebound from a one-year low, as investors awaited the US midterm election results. The bounce had followed a plunge in oil prices that eased inflation worries, while traders priced a 74% chance of a Federal Reserve rate hike in December, according to CME's FedWatch tool.",
+      "url": "https://www.reuters.com/world/india/gold-eases-ahead-us-midterm-elections-2026-11-03/",
+      "source": "Reuters",
+      "source_domain": "reuters.com",
+      "publisher_id": "reuters",
+      "published_at": "2026-11-03T04:05:00Z",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "fed",
+        "global"
+      ],
+      "image_url": null,
+      "image_kind": "none",
+      "breaking": false
+    },
+    {
+      "id": "387ace72e4320cdd",
+      "rank": 2,
+      "title": "Silver crashes below $60 from $122 and enters oversold zone. What should you do?",
+      "summary": "Silver has fallen nearly 60% from its January peak near $122 an ounce as expectations of higher US interest rates, rising bond yields and a stronger dollar reversed the metal's sharp rally. HSBC expects limited upside, citing weaker demand, increasing supply and a narrowing market deficit, which reduce the chances of silver returning to $100 soon.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-crashes-below-60-from-122-and-enters-oversold-zone-what-should-you-do/articleshow/135481085.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-11-03T03:53:07Z",
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "tags": [
+        "silver",
+        "fed",
+        "global"
+      ],
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/387ace72e4320cdd.jpg",
+      "image_kind": "photo",
+      "breaking": false
+    },
+    {
+      "id": "d1a63b82cc9e222e",
+      "rank": 3,
       "title": "Oil rises after report of US strike on Iran's Qeshm Island",
       "summary": "WSJ reported, citing US officials, that US forces struck Iran's Qeshm Island on Monday — described as defensive strikes to protect shipping in the Strait of Hormuz. Brent, which had settled 7.6% lower at $104.77 on US-Iran talk hopes, rebounded 0.5% to $105.25 in early Asian trade. The report put the risk premium — and gold's haven bid — back in focus ahead of Tuesday's US midterms.",
       "url": "https://www.reuters.com/markets/commodities/oil-rises-after-report-us-strike-irans-qeshm-island-2026-11-03/",
@@ -77,7 +124,10 @@
         "silver",
         "global"
       ],
-      "breaking": false
+      "breaking": false,
+      "related_urls": [
+        "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-gain-amid-reports-of-us-attacks-on-iranian-island/article71659403.ece"
+      ]
     },
     {
       "id": "b8bded6684511379",
@@ -109,11 +159,11 @@
         "https://www.kitco.com/news/article/2026-11-02/gold-silver-recover-october-rout-oil-drops-fed-tightening-bets-persist",
         "https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-higher-on-softer-oil-us-midterm-elections-in-focus/articleshow/135478813.cms"
       ],
-      "rank": 2
+      "rank": 4
     },
     {
       "id": "e856b7240ba40b14",
-      "rank": 3,
+      "rank": 5,
       "title": "Dip in gold price puts the sparkle back into festive and wedding buying, jewellers see 10-12% rise in Dhanteras sales",
       "summary": "A more than 7% slide in gold prices over the past month — ₹1.37 lakh per 10 gm in Mumbai spot trade, down from ₹1.48 lakh — has revived footfalls and advance bookings ahead of Dhanteras on November 6. IBJA national secretary Surendra Mehta expects Dhanteras sales volume to rise 10–12% year-on-year, with buyers favouring lightweight and lower-karat jewellery.",
       "url": "https://economictimes.indiatimes.com/markets/commodities/dip-in-gold-price-puts-the-sparkle-back-into-festive-and-wedding-buying-jewellers-see-10-12-rise-in-dhanteras-sales/articleshow/135478606.cms",
@@ -137,34 +187,8 @@
       "breaking": false
     },
     {
-      "id": "3672d3c0fec3d857",
-      "rank": 4,
-      "title": "Gold price prediction: Will gold extend gains on Tuesday? Check outlook for November 3",
-      "summary": "MCX gold futures ended at Rs 1.40 lakh per 10 grams after snapping a two-day losing streak, as a steep oil-price fall eased inflation fears. Spot gold edged 0.3% to $3,960.80 in Asian trade, holding Monday's 2%+ rebound. Prithvi Finmart's Manoj Kumar Jain expects choppy trade this week on crude, the dollar and geopolitics, pegging support at $3,940-3,880 an ounce.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-prediction-will-gold-extend-gains-on-tuesday-check-outlook-for-november-3/articleshow/135479165.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "publisher_id": "economic-times",
-      "published_at": "2026-11-03T02:27:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/3672d3c0fec3d857.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "india",
-        "fed"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false
-    },
-    {
       "id": "2f0857aeae46bf48",
-      "rank": 5,
+      "rank": 6,
       "title": "Gold rises to near $3,950 as traders brace for US midterm election",
       "summary": "Gold pushed toward $3,950 in Asian trade Tuesday as a ~7% crude slide on ongoing US-Iran talks tempered inflation worries. Traders are positioning for the US midterms, with polls favoring Democrats to take the House; FXStreet notes renewed deficit fears could lift safe-haven demand. Peter Grant (Zaner Metals) said ~73% December Fed-hike odds (CME FedWatch), down from 80%, still cap conviction.",
       "url": "https://www.fxstreet.com/news/gold-rises-to-near-3-950-as-traders-brace-for-us-midterm-election-202611022319",
@@ -184,29 +208,6 @@
       "image_url": "https://editorial.fxsstatic.com/images/i/gold-02.jpg",
       "image_kind": "photo",
       "breaking": false
-    },
-    {
-      "id": "0be42a59e6b0fa5a",
-      "title": "Silver Price Forecast: XAG/USD reclaims $50 as Oil tumbles, bearish trend holds",
-      "summary": "Silver climbed back above $50, up about 3.8% on the day, after sliding to a fresh yearly low of $48.47 on Friday. The rebound follows a 5%+ drop in crude oil on positive US-Iran diplomatic signals. FXStreet keeps a bearish technical read with silver below its 21-day ($56), 100-day ($61) and 200-day ($70) SMAs: resistance at $52 then $55, support at Friday's low near $48.87.",
-      "url": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-reclaims-50-as-oil-tumbles-bearish-trend-holds-202611021514",
-      "source": "FXStreet",
-      "source_domain": "fxstreet.com",
-      "publisher_id": "fxstreet",
-      "published_at": "2026-11-02T15:14:00Z",
-      "image_url": "https://editorial.fxsstatic.com/images/i/Silver3.png",
-      "image_kind": "photo",
-      "breaking": false,
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "tags": [
-        "silver",
-        "global",
-        "fed"
-      ],
-      "rank": 6
     },
     {
       "id": "033295f37f1bb257",
@@ -303,8 +304,31 @@
       "rank": 10
     },
     {
+      "id": "0be42a59e6b0fa5a",
+      "title": "Silver Price Forecast: XAG/USD reclaims $50 as Oil tumbles, bearish trend holds",
+      "summary": "Silver climbed back above $50, up about 3.8% on the day, after sliding to a fresh yearly low of $48.47 on Friday. The rebound follows a 5%+ drop in crude oil on positive US-Iran diplomatic signals. FXStreet keeps a bearish technical read with silver below its 21-day ($56), 100-day ($61) and 200-day ($70) SMAs: resistance at $52 then $55, support at Friday's low near $48.87.",
+      "url": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-reclaims-50-as-oil-tumbles-bearish-trend-holds-202611021514",
+      "source": "FXStreet",
+      "source_domain": "fxstreet.com",
+      "publisher_id": "fxstreet",
+      "published_at": "2026-11-02T15:14:00Z",
+      "image_url": "https://editorial.fxsstatic.com/images/i/Silver3.png",
+      "image_kind": "photo",
+      "breaking": false,
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "tags": [
+        "silver",
+        "global",
+        "fed"
+      ],
+      "rank": 11
+    },
+    {
       "id": "40519f6087c45d6d",
-      "rank": 11,
+      "rank": 12,
       "title": "India set to ramp up silver imports into 2027 as 6,500-tonne permits clear backlog",
       "summary": "Heraeus: India's easing silver-import regime should lift consumption over the next two quarters, with permits for ~6,500 tonnes (about 209 moz) over six months -- nearly 90% of 2025's total imports. Monthly imports fell to ~1 moz in May-June under licence rules, then recovered to 15.5 moz in August. Gold is also seeing renewed buying below $4,000, though Fed-hike bets still hang over the metal.",
       "url": "https://www.kitco.com/news/article/2026-11-02/gold-and-silver-prices-surge-after-sharp-selloff-india-set-ramp-silver",
@@ -354,7 +378,7 @@
       "related_urls": [
         "https://www.investing.com/analysis/golds-recovery-remains-fragile-as-military-escalation-keeps-selling-risks-alive-200690707"
       ],
-      "rank": 12
+      "rank": 13
     },
     {
       "id": "eb782b3bd50d7f00",
@@ -379,11 +403,11 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 13
+      "rank": 14
     },
     {
       "id": "ab789efc26287d00",
-      "rank": 14,
+      "rank": 15,
       "title": "Gold and Silver Rebound Ahead of Diwali; Silver Jumps Rs 3,500",
       "summary": "MCX December gold opened Rs 518 higher at Rs 1,39,003/10g and hit an intraday high of Rs 1,39,179, while December silver opened Rs 1,962 up at Rs 1,81,094 and reached Rs 1,82,701 - a Rs 3,569 rise - ahead of Dhanteras. Comex gold traded ~0.33% higher near $3,911.60, silver up 2.24% at $50.38; Choice Broking's Kaveri More cited a near-3% crude fall and festive demand.",
       "url": "https://theworldopinion.com/tech/gold-silver-rebound-ahead-of-diwali-silver-jumps",
@@ -431,7 +455,7 @@
         "comex"
       ],
       "breaking": false,
-      "rank": 15
+      "rank": 16
     },
     {
       "id": "be30240b70e134c3",
@@ -456,7 +480,7 @@
         "india"
       ],
       "breaking": false,
-      "rank": 16
+      "rank": 17
     },
     {
       "id": "5ded524c1a3b5c15",
@@ -481,7 +505,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 17
+      "rank": 18
     },
     {
       "id": "276eb83658f5a0fd",
@@ -504,7 +528,7 @@
         "jewellery"
       ],
       "breaking": false,
-      "rank": 18
+      "rank": 19
     },
     {
       "id": "88451cebc42f7446",
@@ -527,7 +551,7 @@
         "rbi"
       ],
       "breaking": false,
-      "rank": 19
+      "rank": 20
     },
     {
       "id": "81eb170c96c154e8",
@@ -552,7 +576,7 @@
         "fed"
       ],
       "breaking": false,
-      "rank": 20
+      "rank": 21
     },
     {
       "id": "b135d58cda16b221",
@@ -576,7 +600,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 21
+      "rank": 22
     },
     {
       "id": "82b2da712e174621",
@@ -598,7 +622,7 @@
         "india"
       ],
       "breaking": false,
-      "rank": 22
+      "rank": 23
     },
     {
       "id": "243b75598a424486",
@@ -624,7 +648,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 23,
+      "rank": 24,
       "related_urls": [
         "https://www.livemint.com/market/commodities/rates-crash-gold-price-slips-7-silver-tanks-20-in-oct-is-dhanteras-2026-right-time-to-buy-what-should-investors-do-11793618175891.html"
       ]
@@ -653,32 +677,6 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 24
-    },
-    {
-      "id": "858fbc301cd21c92",
-      "title": "Silver Price Crash: 1 Kg Silver May Soon Equal 10 Grams of Gold as Gold-Silver Ratio Hits 79",
-      "summary": "The gold-silver ratio has climbed to 79 from below 50 in January as silver's crash outpaced gold's. MCX silver is down about 57% from its Rs 4,20,048/kg peak to Rs 1,78,900; gold is down about 23% to Rs 1,38,419/10g. At these levels silver needs to fall another 22.6% — gold flat — for 1 kg to equal 10 grams of gold. Metals Focus sees silver supply easing into a 2027 surplus.",
-      "url": "https://www.myfinbright.com/silver-rate/silver-price-crash-gold-silver-ratio-mcx-rates",
-      "source": "MyFinBright",
-      "source_domain": "myfinbright.com",
-      "publisher_id": "myfinbright",
-      "published_at": "2026-11-01T04:42:57Z",
-      "image_url": "https://www.myfinbright.com/storage/images/english/silver-7512442055.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "india",
-        "fed"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
       "rank": 25
     },
     {
