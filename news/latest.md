@@ -1,3 +1,10 @@
+## Today's brief
+
+**Gold slips as US-Iran tensions revive rate-hike fears**
+
+- MCX gold fell about Rs 1,400 per 10 g and silver about Rs 4,300 per kg on Tuesday; spot gold near $3,926 an ounce.
+- Reports of a US strike on Iran's Qeshm Island pushed crude higher, reviving inflation fears; December Fed-hike bets stayed near 74%.
+
 # Gold & Silver for Indian buyers · 2026-11-03T18:00Z
 
 > MCX gold, silver slide ahead of Dhanteras; gold ETF inflows slow as AMCs halt FoFs; rupee firms
