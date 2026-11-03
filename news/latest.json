@@ -1,16 +1,26 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-02T22:00Z",
-  "generated_at": "2026-11-02T22:11:03Z",
+  "edition_id": "2026-11-03T00:00Z",
+  "generated_at": "2026-11-03T00:11:19Z",
   "window": {
-    "from": "2026-11-02T20:00:00Z",
-    "to": "2026-11-02T22:00:00Z"
+    "from": "2026-11-02T22:00:00Z",
+    "to": "2026-11-03T00:00:00Z"
   },
   "insights": {
-    "headline": "Silver reclaims $50 as oil-driven rebound holds; gold tests $4,000 with December-hike odds capping the bounce",
-    "summary": "Silver climbed back above $50, up about 3.8% on Monday, after touching a fresh yearly low of $48.47 on Friday, as a 5%+ drop in crude on positive US-Iran signals eased inflation fears. Spot gold held near $3,946, up 1.8%, but the recovery faces a test at $4,000–$4,020 with ~75% December Fed-hike odds. India's 6,500-tonne silver import permits ease the licensing squeeze ahead of Dhanteras on Nov 6; analysts want the run of lower daily lows to end before calling a bottom."
+    "headline": "Gold nears $3,950 ahead of US midterms as oil-driven rebound holds; silver stays above $50",
+    "summary": "Spot gold held near $3,946-$3,950 on Monday into Tuesday as a 7%+ drop in crude on positive US-Iran signals eased inflation fears, while silver reclaimed $50, up about 3.8%, after Friday's fresh yearly low of $48.47. Markets now price about 73% odds of a December Fed hike (CME FedWatch), down from 80% a week ago, with Tuesday's US midterm elections the next catalyst. India's 6,500-tonne silver import permits ease the licensing squeeze ahead of Dhanteras on Nov 6, though festive physical demand remains soft."
   },
   "trending": [
+    {
+      "title": "Election-day metals watch",
+      "summary": "Gold pushed toward $3,950 in Asian trade Tuesday as oil's ~7% slide eased inflation worries; midterms (Democrats favored) could renew safe-haven demand, but ~73% December-hike odds cap the bounce.",
+      "item_ids": [
+        "b8bded6684511379",
+        "2f0857aeae46bf48",
+        "0be42a59e6b0fa5a",
+        "033295f37f1bb257"
+      ]
+    },
     {
       "title": "Silver import pipeline opens",
       "summary": "India's 6,500-tonne silver import permits ease the licensing squeeze ahead of the festive season; Heraeus expects the easing to lift consumption over the next two quarters.",
@@ -18,16 +28,6 @@
         "40519f6087c45d6d",
         "767765fcd4fb669a",
         "35f5cfa1bdc68bb1"
-      ]
-    },
-    {
-      "title": "Rebound holds, but conviction lags",
-      "summary": "Gold holds near $3,946 and silver reclaimed $50, up ~3.8%, on the oil move; resistance sits at $4,000–$4,020 for gold and $51–$52 for silver, with ~75% December-hike odds still capping the bounce.",
-      "item_ids": [
-        "b8bded6684511379",
-        "0be42a59e6b0fa5a",
-        "033295f37f1bb257",
-        "ade1ae39aa8123c8"
       ]
     },
     {
@@ -41,18 +41,11 @@
     },
     {
       "title": "Dhanteras countdown",
-      "summary": "With Dhanteras on Nov 6 and gold ~20% off its peak, shoppers are weighing digital-gold cashback offers and hallmarking checks against still-elevated making charges.",
+      "summary": "With Dhanteras on Nov 6 and gold ~20% off its peak, shoppers are weighing digital-gold cashback offers and hallmarking checks again.",
       "item_ids": [
-        "b135d58cda16b221",
-        "a046f7b3013488b1",
+        "82b2da712e174621",
+        "0899096e15f0dc4a",
         "d322863d8baeb80e"
-      ]
-    },
-    {
-      "title": "Fake silver varakh bust in Ahmedabad",
-      "summary": "AMC sealed a Kalupur foil shop after an undercover buy failed purity tests, seizing 170 packets of fake silver foil worth Rs 42,500 — a festive-season caution for Diwali sweet buyers.",
-      "item_ids": [
-        "5ded524c1a3b5c15"
       ]
     }
   ],
@@ -83,9 +76,33 @@
       "related_urls": [
         "https://www.reuters.com/world/india/gold-rises-softer-oil-markets-parse-fed-signals-2026-11-02/",
         "https://www.moneycontrol.com/news/business/personal-finance/gold-rises-above-3-900-silver-tops-50-as-easing-oil-prices-cool-inflation-fears-14066029.html",
-        "https://www.livemint.com/market/stock-market-news/november-2-gold-silver-rates-gold-silver-prices-rebound-from-multi-month-lows-as-crude-oil-retreats-11793635178579.html"
+        "https://www.livemint.com/market/stock-market-news/november-2-gold-silver-rates-gold-silver-prices-rebound-from-multi-month-lows-as-crude-oil-retreats-11793635178579.html",
+        "https://www.kitco.com/news/article/2026-11-02/gold-silver-recover-october-rout-oil-drops-fed-tightening-bets-persist"
       ],
       "rank": 1
+    },
+    {
+      "id": "2f0857aeae46bf48",
+      "rank": 2,
+      "title": "Gold rises to near $3,950 as traders brace for US midterm election",
+      "summary": "Gold pushed toward $3,950 in Asian trade Tuesday as a ~7% crude slide on ongoing US-Iran talks tempered inflation worries. Traders are positioning for the US midterms, with polls favoring Democrats to take the House; FXStreet notes renewed deficit fears could lift safe-haven demand. Peter Grant (Zaner Metals) said ~73% December Fed-hike odds (CME FedWatch), down from 80%, still cap conviction.",
+      "url": "https://www.fxstreet.com/news/gold-rises-to-near-3-950-as-traders-brace-for-us-midterm-election-202611022319",
+      "source": "FXStreet",
+      "source_domain": "fxstreet.com",
+      "publisher_id": "fxstreet",
+      "published_at": "2026-11-02T23:19:10Z",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "global",
+        "fed"
+      ],
+      "image_url": "https://editorial.fxsstatic.com/images/i/gold-02.jpg",
+      "image_kind": "photo",
+      "breaking": false
     },
     {
       "id": "0be42a59e6b0fa5a",
@@ -108,7 +125,7 @@
         "global",
         "fed"
       ],
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "033295f37f1bb257",
@@ -131,7 +148,7 @@
         "global",
         "fed"
       ],
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "ade1ae39aa8123c8",
@@ -156,7 +173,7 @@
         "global",
         "fed"
       ],
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "47343395f90da0c3",
@@ -180,11 +197,11 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "40519f6087c45d6d",
-      "rank": 6,
+      "rank": 7,
       "title": "India set to ramp up silver imports into 2027 as 6,500-tonne permits clear backlog",
       "summary": "Heraeus: India's easing silver-import regime should lift consumption over the next two quarters, with permits for ~6,500 tonnes (about 209 moz) over six months -- nearly 90% of 2025's total imports. Monthly imports fell to ~1 moz in May-June under licence rules, then recovered to 15.5 moz in August. Gold is also seeing renewed buying below $4,000, though Fed-hike bets still hang over the metal.",
       "url": "https://www.kitco.com/news/article/2026-11-02/gold-and-silver-prices-surge-after-sharp-selloff-india-set-ramp-silver",
@@ -234,7 +251,7 @@
       "related_urls": [
         "https://www.investing.com/analysis/golds-recovery-remains-fragile-as-military-escalation-keeps-selling-risks-alive-200690707"
       ],
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "eb782b3bd50d7f00",
@@ -259,11 +276,11 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "ab789efc26287d00",
-      "rank": 9,
+      "rank": 10,
       "title": "Gold and Silver Rebound Ahead of Diwali; Silver Jumps Rs 3,500",
       "summary": "MCX December gold opened Rs 518 higher at Rs 1,39,003/10g and hit an intraday high of Rs 1,39,179, while December silver opened Rs 1,962 up at Rs 1,81,094 and reached Rs 1,82,701 - a Rs 3,569 rise - ahead of Dhanteras. Comex gold traded ~0.33% higher near $3,911.60, silver up 2.24% at $50.38; Choice Broking's Kaveri More cited a near-3% crude fall and festive demand.",
       "url": "https://theworldopinion.com/tech/gold-silver-rebound-ahead-of-diwali-silver-jumps",
@@ -311,7 +328,7 @@
         "comex"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "c47e5efbaa0cb9e6",
@@ -337,7 +354,7 @@
         "fed"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 12
     },
     {
       "id": "be30240b70e134c3",
@@ -362,7 +379,7 @@
         "india"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 13
     },
     {
       "id": "5ded524c1a3b5c15",
@@ -387,7 +404,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 13
+      "rank": 14
     },
     {
       "id": "276eb83658f5a0fd",
@@ -410,7 +427,7 @@
         "jewellery"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 15
     },
     {
       "id": "88451cebc42f7446",
@@ -433,7 +450,7 @@
         "rbi"
       ],
       "breaking": false,
-      "rank": 15
+      "rank": 16
     },
     {
       "id": "81eb170c96c154e8",
@@ -458,7 +475,7 @@
         "fed"
       ],
       "breaking": false,
-      "rank": 16
+      "rank": 17
     },
     {
       "id": "767765fcd4fb669a",
@@ -481,7 +498,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 17
+      "rank": 18
     },
     {
       "id": "0ef59b0aa6f1a744",
@@ -506,7 +523,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 18
+      "rank": 19
     },
     {
       "id": "b135d58cda16b221",
@@ -530,7 +547,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 19
+      "rank": 20
     },
     {
       "id": "82b2da712e174621",
@@ -552,7 +569,7 @@
         "india"
       ],
       "breaking": false,
-      "rank": 20
+      "rank": 21
     },
     {
       "id": "35f5cfa1bdc68bb1",
@@ -575,7 +592,7 @@
         "fed"
       ],
       "breaking": false,
-      "rank": 21
+      "rank": 22
     },
     {
       "id": "243b75598a424486",
@@ -601,7 +618,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 22,
+      "rank": 23,
       "related_urls": [
         "https://www.livemint.com/market/commodities/rates-crash-gold-price-slips-7-silver-tanks-20-in-oct-is-dhanteras-2026-right-time-to-buy-what-should-investors-do-11793618175891.html"
       ]
@@ -630,7 +647,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 23
+      "rank": 24
     },
     {
       "id": "858fbc301cd21c92",
@@ -656,7 +673,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 24
+      "rank": 25
     },
     {
       "id": "0899096e15f0dc4a",
@@ -682,7 +699,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 25
+      "rank": 26
     },
     {
       "id": "9f26a76e42de4009",
@@ -708,7 +725,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 26
+      "rank": 27
     },
     {
       "breaking": false,
@@ -732,7 +749,7 @@
       ],
       "title": "Your Rs 1 Lakh Buys 25% More Gold This Dhanteras Than In January. Should You Invest?",
       "url": "https://www.ndtvprofit.com/markets/your-rs-1-lakh-buys-25-more-gold-this-dhanteras-than-in-january-should-you-invest-12266309",
-      "rank": 27
+      "rank": 28
     },
     {
       "id": "d322863d8baeb80e",
@@ -755,7 +772,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 28
+      "rank": 29
     },
     {
       "id": "d5ffd96f03753197",
@@ -778,7 +795,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 29
+      "rank": 30
     }
   ]
 }
