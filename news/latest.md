@@ -1,18 +1,22 @@
-# Gold & Silver News — edition 2026-11-03T07:00Z
+# Gold & Silver News — edition 2026-11-03T08:00Z
 
-Generated: 2026-11-03T07:07:41Z (window 2026-11-03T06:00:00Z to 2026-11-03T07:00:00Z)
+Generated: 2026-11-03T08:11:33Z (window 2026-11-03T06:00:00Z to 2026-11-03T08:00:00Z)
 
-## WGC sees India's 2026 gold demand at a six-year low as MCX gold, silver slide again ahead of Dhanteras
+## Illegal gold imports hit 3-year high after India's duty hike; WGC sees 2026 demand at six-year low
 
-India's 2026 gold demand is expected to fall to a six-year low of about 650 tonnes as elevated prices curb jewellery buying, the World Gold Council said in its Q3 demand report, with September-quarter demand down 29% to 162.5 tonnes. The Council also cut its 2026 investment-demand growth forecast to 200 tonnes, while raising its central-bank buying outlook after Q3 purchases hit 321 tonnes, the fastest since late 2024. On MCX, December gold fell about Rs 1,400 per 10 grams and silver around Rs 4,300 per kg on Tuesday, days before Dhanteras on November 6.
+Informal gold shipments into India jumped more than 1,500% to 50 tonnes in the September quarter, the highest since 2023, as the May duty hike to 15% revived grey-market channels, the World Gold Council said, citing Metals Focus. The same WGC Q3 report projects India's 2026 gold demand will fall to a six-year low of about 650 tonnes. On MCX, December gold fell about Rs 1,400 per 10 grams and silver about Rs 4,300 per kg on Tuesday, days before Dhanteras on November 6.
 
+- WGC: India's informal gold imports hit 50 tonnes in Q3, up 1,500% to the highest since 2023, as the May duty hike to 15% revived grey-market channels.
 - WGC: India's 2026 gold demand may fall to ~650 tonnes, lowest since 2020; Q3 demand fell 29% to 162.5 tonnes on weaker jewellery and investment buying.
-- WGC cut its 2026 investment-demand growth forecast to 200 tonnes on weak bar and coin demand, but raised its central-bank buying forecast after Q3's 321 tonnes.
 - MCX December gold fell ~Rs 1,400/10g and silver ~Rs 4,300/kg on Tuesday; COMEX gold traded near $3,956/oz with a December Fed hike still priced in.
 - Traders positioned for Tuesday's US midterm elections with gold near $3,950; $4,000 remains the key test for any sustained recovery.
 - Silver permits for ~6,500 tonnes over six months should lift India's imports into 2027, per Heraeus — a silver-led bright spot.
 
 ## Trending
+
+### Duty hike revives the grey market
+
+Q3 informal gold shipments hit 50 tonnes, up 1,500% and the highest since 2023, as the May hike to 15% restored smugglers' margins; jewellers hold back ahead of Diwali and cash sales are rising.
 
 ### WGC's Q3 report resets the 2026 demand picture
 
@@ -32,7 +36,15 @@ Silver fell nearly three times as hard as gold in October, but India's fresh 6,5
 
 ## Stories
 
-### 1. India's 2026 gold demand seen falling to six-year low on price rise
+### 1. India's tax hike drives illegal gold imports to 3-year high
+
+*The Hindu BusinessLine · policy · 2026-11-03T07:26:00Z*
+
+The World Gold Council says India's informal gold imports surged more than 1,500% to 50 tonnes in the September quarter, from 3 tonnes a year earlier, the highest since 2023, citing Metals Focus data. The grey market has flourished since May's duty hike to 15%, and jewellers are holding back on restocking ahead of Diwali while more households buy for cash without invoices.
+
+https://www.thehindubusinessline.com/markets/gold/indias-tax-hike-drives-illegal-gold-imports-to-3-year-high/article71659744.ece
+
+### 2. India's 2026 gold demand seen falling to six-year low on price rise
 
 *Reuters · mcx · 2026-11-03T06:00:00Z*
 
@@ -40,7 +52,7 @@ India's gold demand is expected to fall to a six-year low in 2026 as elevated pr
 
 https://www.reuters.com/world/india/indias-2026-gold-demand-seen-falling-six-year-low-price-rise-2026-11-03/
 
-### 2. MCX gold prices fall Rs 1,400/10 gram, silver tanks Rs 4,300/kg ahead of Diwali while rate hike bets linger. What should you do?
+### 3. MCX gold prices fall Rs 1,400/10 gram, silver tanks Rs 4,300/kg ahead of Diwali while rate hike bets linger. What should you do?
 
 *Economic Times · mcx · 2026-11-03T05:47:39Z*
 
@@ -48,7 +60,7 @@ Gold and silver fell again on Tuesday as expectations of higher-for-longer US ra
 
 https://economictimes.indiatimes.com/markets/commodities/news/mcx-gold-prices-fall-rs-1400/10-gram-silver-tanks-rs-4300/kg-ahead-of-diwali-while-rate-hike-bets-linger-what-should-you-do/articleshow/135484139.cms
 
-### 3. WGC lowers outlook for gold investment demand growth as bar buying slows
+### 4. WGC lowers outlook for gold investment demand growth as bar buying slows
 
 *Reuters · global · 2026-11-03T06:06:00Z*
 
@@ -56,7 +68,7 @@ The World Gold Council cut its 2026 forecast for growth in gold investment deman
 
 https://www.reuters.com/world/china/wgc-lowers-outlook-gold-investment-demand-growth-bar-buying-slows-2026-11-03/
 
-### 4. Gold, silver rebound as Iran diplomacy sends oil lower, easing Fed tightening concerns
+### 5. Gold, silver rebound as Iran diplomacy sends oil lower, easing Fed tightening concerns
 
 *Kitco · global · 2026-11-02T13:56:16Z*
 
@@ -64,7 +76,7 @@ Spot gold climbed 1.8% to about $3,946 an ounce and silver 3.7% to $50.94 on Mon
 
 https://www.kitco.com/news/article/2026-11-02/gold-silver-rebound-iran-diplomacy-sends-oil-lower-easing-fed-tightening
 
-### 5. Dip in gold price puts the sparkle back into festive and wedding buying, jewellers see 10-12% rise in Dhanteras sales
+### 6. Dip in gold price puts the sparkle back into festive and wedding buying, jewellers see 10-12% rise in Dhanteras sales
 
 *Economic Times · festive · 2026-11-03T00:41:00Z*
 
@@ -72,7 +84,7 @@ A more than 7% slide in gold prices over the past month — ₹1.37 lakh per 10 
 
 https://economictimes.indiatimes.com/markets/commodities/dip-in-gold-price-puts-the-sparkle-back-into-festive-and-wedding-buying-jewellers-see-10-12-rise-in-dhanteras-sales/articleshow/135478606.cms
 
-### 6. Gold rises to near $3,950 as traders brace for US midterm election
+### 7. Gold rises to near $3,950 as traders brace for US midterm election
 
 *FXStreet · global · 2026-11-02T23:19:10Z*
 
@@ -80,7 +92,7 @@ Gold pushed toward $3,950 in Asian trade Tuesday as a ~7% crude slide on ongoing
 
 https://www.fxstreet.com/news/gold-rises-to-near-3-950-as-traders-brace-for-us-midterm-election-202611022319
 
-### 7. Gold Faces $4,000 Test as December Hike Risk Caps the Recovery
+### 8. Gold Faces $4,000 Test as December Hike Risk Caps the Recovery
 
 *Investing.com · global · 2026-11-02T21:02:00Z*
 
@@ -88,7 +100,7 @@ Spot gold rose $67.90 (+1.8%) to $3,945.70 on Monday, rebounding from Friday's 3
 
 https://www.investing.com/analysis/gold-faces-4000-test-as-december-hike-risk-caps-the-recovery-200690726
 
-### 8. India set to ramp up silver imports into 2027 as 6,500-tonne permits clear backlog
+### 9. India set to ramp up silver imports into 2027 as 6,500-tonne permits clear backlog
 
 *Kitco · mcx · 2026-11-02T16:12:00Z*
 
@@ -96,7 +108,7 @@ Heraeus: India's easing silver-import regime should lift consumption over the ne
 
 https://www.kitco.com/news/article/2026-11-02/gold-and-silver-prices-surge-after-sharp-selloff-india-set-ramp-silver
 
-### 9. Gold, silver outlook: Why analysts remain cautious despite Monday's recovery
+### 10. Gold, silver outlook: Why analysts remain cautious despite Monday's recovery
 
 *CNBC-TV18 · mcx · 2026-11-02T10:19:00Z*
 
@@ -104,7 +116,7 @@ Gold and silver staged a tentative rebound on MCX on Monday after Friday's 3.7% 
 
 https://www.cnbctv18.com/market/commodities/gold-silver-outlook-why-analysts-remain-cautious-despite-recovery-20024956.htm
 
-### 10. AMC's undercover buy leads to fake silver foil bust
+### 11. AMC's undercover buy leads to fake silver foil bust
 
 *Times of India · mcx · 2026-11-02T19:09:00Z*
 
@@ -112,7 +124,7 @@ AMC health inspectors traced failed rapid-test sweets from a Memco-area handcart
 
 https://timesofindia.indiatimes.com/city/ahmedabad/amcs-undercover-buy-leads-to-fake-silver-foil-bust/articleshow/135472898.cms
 
-### 11. Gold is 20% off its peak this Dhanteras, but jewellery stocks know something buyers don't
+### 12. Gold is 20% off its peak this Dhanteras, but jewellery stocks know something buyers don't
 
 *NDTV Profit · festive · 2026-11-02T08:24:00Z*
 
@@ -120,7 +132,7 @@ Gold sits about 20% below its January record ahead of Dhanteras on November 6, y
 
 https://www.ndtvprofit.com/markets/gold-is-20-off-its-peak-this-dhanteras-but-jewellery-stocks-know-something-buyers-dont-12270341
 
-### 12. Dhanteras 2026: How to buy gold coins on quick-commerce apps and what to check
+### 13. Dhanteras 2026: How to buy gold coins on quick-commerce apps and what to check
 
 *CNBC-TV18 · festive · 2026-11-03T06:18:00Z*
 
@@ -128,7 +140,7 @@ Ahead of Dhanteras on November 6, quick-commerce apps including Swiggy Instamart
 
 https://www.cnbctv18.com/personal-finance/dhanteras-how-to-buy-gold-silver-coins-instamart-zepto-blinkit-what-to-check-20025709.htm
 
-### 13. SGB 2021-22 Series VII investors set for 200%+ gains as RBI fixes premature redemption at Rs 14,167
+### 14. SGB 2021-22 Series VII investors set for 200%+ gains as RBI fixes premature redemption at Rs 14,167
 
 *Outlook Money · policy · 2026-11-02T04:01:00Z*
 
@@ -136,7 +148,7 @@ RBI has fixed the premature redemption price for Sovereign Gold Bond 2021-22 Ser
 
 https://www.outlookmoney.com/invest/sgb-2021-22-series-vii-investors-set-to-make-over-200-returns-upon-premature-redemption
 
-### 14. Gold's slide to one-year low: margin calls amplified a fall driven by Fed hike bets
+### 15. Gold's slide to one-year low: margin calls amplified a fall driven by Fed hike bets
 
 *InvestingLive · global · 2026-11-02T04:09:00Z*
 
@@ -144,7 +156,7 @@ Gold's drop below $3,900 on Friday — more than 3% to a one-year low — was am
 
 https://investinglive.com/commodities/gold-s-slide-to-one-year-low-margin-calls-amplified-a-fall-driven-by-fed-hike-bets/
 
-### 15. Muthoot Finance rebounds, up 9% from 52-week low as stock reacts to Q2 nos
+### 16. Muthoot Finance rebounds, up 9% from 52-week low as stock reacts to Q2 nos
 
 *Business Standard · mcx · 2026-11-02T04:31:00Z*
 
@@ -152,7 +164,7 @@ Shares of gold-loan major Muthoot Finance traded about 9% above their 52-week lo
 
 https://www.business-standard.com/markets/news/muthoot-finance-rebounds-up-9-from-52-week-low-as-stock-reacts-to-q2-nos-126110200210_1.html
 
-### 16. Crash! Gold price suffers worst October in years: Did silver and platinum suffer too? Check monthly performance
+### 17. Crash! Gold price suffers worst October in years: Did silver and platinum suffer too? Check monthly performance
 
 *Mint · global · 2026-11-01T16:24:04Z*
 
@@ -160,7 +172,7 @@ Mint's monthly review: gold logged its worst October in years, sinking to a one-
 
 https://www.livemint.com/market/commodities/crash-gold-price-suffers-worst-october-in-years-did-silver-and-platinum-suffer-too-check-monthly-performance-11793549898014.html
 
-### 17. Gold And Silver Prices See A Big Drop In October: Is Dhanteras The Right Time To Buy?
+### 18. Gold And Silver Prices See A Big Drop In October: Is Dhanteras The Right Time To Buy?
 
 *News18 · mcx · 2026-11-02T07:55:00Z*
 
@@ -168,7 +180,7 @@ News18's Business Desk recaps October's sharp MCX correction — gold futures fe
 
 https://www.news18.com/photogallery/business/savings-and-investments/gold-and-silver-prices-see-a-big-drop-in-october-is-dhanteras-the-right-time-to-buy-shil-ws-el-10408520.html
 
-### 18. Dhanteras 2026: How To Check Gold Purity, Hallmarking And Making Charges
+### 19. Dhanteras 2026: How To Check Gold Purity, Hallmarking And Making Charges
 
 *Outlook Money · festive · 2026-11-01T09:58:11Z*
 
