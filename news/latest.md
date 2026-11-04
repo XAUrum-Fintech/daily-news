@@ -1,191 +1,54 @@
-# Gold & Silver News — India
-
-*Edition 2026-11-04T03:00Z · 2026-11-04T01:00:00Z → 2026-11-04T03:00:00Z UTC · generated 2026-11-04T03:08:27Z*
+# Gold & Silver for Indian buyers · 2026-11-04T04:00Z
 
 ## Today's brief
-
 **Gold steadies at $3,935 as softer oil calms inflation fears**
-
 Gold edged up to about $3,935 as softer oil eased inflation fears, after MCX gold fell Rs 1,400 per 10 g on Tuesday.
-
 - Reuters says softer oil cooled inflation concerns, lifting non-yielding bullion even as a 78% December Fed-hike bet kept a lid on gains.
-
 - MCX gold and silver fell hard on Tuesday ahead of Dhanteras on Nov 6, with the rupee firming for a third session to 94.75 per dollar.
-
 - Watch: US midterm results today, September US trade data at 19:00 IST and ISM PMI at 20:30 IST; soft prints could cool hike bets.
 
-
----
-
-## Top stories
-
-### 1. Gold firms on softer oil prices, US midterm results awaited
-
-*Reuters · 2026-11-04 · [global] gold, silver*
-
-
-Gold edged 0.2% higher to $3,934.75 an ounce in early Asian trade on Wednesday as oil prices eased about 1% to their lowest in nearly four weeks, cooling inflation concerns; December gold futures rose 0.1% to $3,943.20 while spot silver slipped 0.2% to $49.67. Investors awaited US midterm results, with traders pricing a 78% chance of a December Fed hike, per CME FedWatch.
-
-
-[Read original](https://northlandnewsradio.com/2026/11/03/gold-firms-on-softer-oil-prices-us-midterm-results-awaited/)
-
-
-Related: [link](https://www.reuters.com/world/india/gold-eases-ahead-us-midterm-elections-2026-11-03/)
-
-
-
-### 2. Gold, silver decline as strong U.S. jobs data lifts yields on election day - Kitco PM Report
-
-*Kitco · 2026-11-03 · [global] gold, silver*
-
-
-Spot gold and silver fell in late US trading on Tuesday as stronger-than-expected US labor data — September job openings rose to 7.523m vs ~7.15m expected — lifted Treasury yields and reinforced bets on further Fed tightening, Kitco reports. Spot gold held near $3,924/oz (-0.55%); silver slid 2.1% to ~$49.45, with traders also positioning for the midterm results.
-
-
-[Read original](https://www.kitco.com/news/article/2026-11-03/gold-silver-decline-strong-us-jobs-data-lifts-yields-election-day-kitco-pm)
-
-
-
-### 3. Gold declines below $3,950 on stronger US Dollar, US midterm elections in focus
-
-*FXStreet · 2026-11-03 · [global] gold*
-
-
-Gold slipped to near $3,930 in early Asian trade on Wednesday, pressured by a firmer dollar and higher Treasury yields as traders awaited US midterm results for fiscal-policy clues, FXStreet reports. Commerzbank called the slide excessive: gold fell 3.7% on Friday to $3,870, its lowest in over a year, while a December Fed hike looks “highly likely”.
-
-
-[Read original](https://www.fxstreet.com/news/gold-declines-below-3-950-on-stronger-us-dollar-us-midterm-elections-in-focus-202611032331)
-
-
-
-### 4. MCX gold prices fall Rs 1,400/10 gram, silver tanks Rs 4,300/kg ahead of Diwali while rate hike bets linger. What should you do?
-
-*Economic Times · 2026-11-03 · [mcx] gold, silver*
-
-
-Gold futures on the MCX slipped about Rs 1,400 per 10 grams and silver futures tumbled roughly Rs 4,300 per kg in Tuesday's session ahead of Diwali, with expectations of further US rate hikes keeping pressure on the metals. The report notes the slide comes during peak festive buying and walks through the factors Indian buyers are weighing.
-
-
-[Read original](https://economictimes.indiatimes.com/markets/commodities/news/mcx-gold-prices-fall-rs-1400/10-gram-silver-tanks-rs-4300/kg-ahead-of-diwali-while-rate-hike-bets-linger-what-should-you-do/articleshow/135484139.cms)
-
-
-
-### 5. Gold price prediction: Will gold bounce back on Wednesday? Check outlook for November 4
-
-*Economic Times · 2026-11-04 · [mcx] gold, silver*
-
-
-Gold stays in focus Wednesday as softer oil eases inflation fears, with eyes on US midterm results, Dhanteras demand and US jobs data. Prithvi Finmart's Manoj Kumar Jain pegs support at $3,800/oz for gold and $45/oz for silver, with MCX gold near Rs 1.38 lakh support and Rs 1.40 lakh resistance. Bank of America expects gold under $4,000/oz for three months, averaging $4,000 in Q4.
-
-
-[Read original](https://economictimes.indiatimes.com/markets/commodities/news/gold-price-prediction-will-gold-bounce-back-on-wednesday-check-outlook-for-november-4/articleshow/135518967.cms)
-
-
-
-### 6. Central bank gold buying jumps 42% in Q3 as high prices hit jewellery demand, WGC says
-
-*InvestingLive · 2026-11-03 · [global] gold*
-
-
-Central banks bought ~320 tonnes in Q3, up 42% on the year and ~675t so far in 2026, the WGC said — offsetting a 17% slump in jewellery consumption to ~310t, the weakest Q3 in the series, and a 19% fall in bar and coin demand. Gold averaged ~$4,260/oz; total demand was ~1,370t (-1%), with YTD demand level with 2025’s record.
-
-
-[Read original](https://investinglive.com/commodities/central-bank-gold-buying-jumps-42-in-q3-as-high-prices-hit-jewellery-demand-wgc-says/)
-
-
-Related: [link](https://www.gold.org/news-and-events/press-releases/central-bank-buying-and-etf-inflows-support-gold-demand-q3)
-
-
-
-### 7. ROI-As markets sway, safe havens shine. Except gold: McGeever
-
-*Mint · 2026-11-03 · [global] gold*
-
-
-Reuters’ Jamie McGeever argues gold, “the oldest safety play of all,” has failed to find a bid despite a risk-off backdrop reviving Treasuries, the dollar, franc and yen: gold is below $4,000/oz, down 9% YTD and ~10% under its 200-day average. An IMF paper found bullion is not a “reliable” hedge against equity volatility; central-bank buying (+42% in Q3 to 321t) is the bright spot.
-
-
-[Read original](https://www.livemint.com/market/roias-markets-sway-safe-havens-shine-except-gold-mcgeever-11793748689717.html)
-
-
-
-### 8. Gold (XAUUSD), Silver, Platinum Forecasts – Gold Pulls Back As Selling Resumes
-
-*FXEmpire · 2026-11-03 · [global] gold, silver*
-
-
-Gold slipped again on Tuesday as rising Treasury yields — the 2-year above 4.61% and the 10-year above 4.95% — and near-77% December Fed-hike bets outweighed the pullback in oil prices ahead of the US midterm vote, FXEmpire reports. Spot gold was testing the $3,890–$3,910 support zone, while silver slid back toward $50 as the gold-silver ratio climbed above 79.
-
-
-[Read original](https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-pulls-back-as-selling-resumes-1642282)
-
-
-Related: [link](https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-critical-support-holds-amid-growing-downside-risk-1642355)
-
-
-
-### 9. Silver prices crash ₹8,500/kg, gold drops ₹2,000/10g as US-Iran tensions revive inflation fears; is more fall ahead?
-
-*Mint · 2026-11-03 · [mcx] gold, silver*
-
-
-December silver futures on MCX resumed their losing streak on Tuesday after reports of a US strike on Iran's Qeshm Island sent crude higher, reviving inflation fears and rate-hike expectations. Silver futures slipped ₹8,528 per kg to their lowest since late November 2025, while gold fell ₹2,000 per 10 grams, erasing Monday's brief rebound.
-
-
-[Read original](https://www.livemint.com/market/stock-market-news/silver-prices-crash-rs-8-500-kg-gold-drops-rs-2-000-10g-as-us-iran-tensions-revive-inflation-fears-is-more-fall-ahead-11793698796709.html)
-
-
-
-### 10. India's tax hike drives illegal gold imports to 3-year high
-
-*The Hindu BusinessLine · 2026-11-03 · [policy] gold*
-
-
-The World Gold Council says India's informal gold imports surged more than 1,500% to 50 tonnes in the September quarter, from 3 tonnes a year earlier, the highest since 2023, citing Metals Focus data. The grey market has flourished since May's duty hike to 15%, and jewellers are holding back on restocking ahead of Diwali while more households buy for cash without invoices.
-
-
-[Read original](https://www.thehindubusinessline.com/markets/gold/indias-tax-hike-drives-illegal-gold-imports-to-3-year-high/article71659744.ece)
-
-
-Related: [link](https://inshorts.com/en/news/india-s-illegal-gold-imports-jump-1-500--after-duty-hike-1793697860513)
-
-
-
-### 11. India's Gold Demand Falls 29% in Q3 as High Prices Restrain Buying
-
-*GJEPC · 2026-11-03 · [mcx] gold*
-
-
-India's gold demand fell 29% year-on-year to 162.5 tonnes in Q3 2026 as record-high prices curbed buying, WGC said. Jewellery demand dropped 20% to 99.9 tonnes; bar and coin buying fell 40% to 55 tonnes. In value terms demand still rose 3% to ₹2.42 lakh crore on an average Q3 price of $4,262 an ounce (₹1,48,891 per 10g). WGC pegs 2026 full-year demand at 625–675 tonnes, a six-year low.
-
-
-[Read original](https://gjepc.org/solitaire/indias-gold-demand-falls-29-in-q3-as-high-prices-restrain-buying/)
-
-
-Related: [link](https://www.7globe.in/indias-gold-demand-falls-29-in-q3-wgc-sees-2026-demand-at-six-year-low/)
-
-
-
-### 12. Gold ETF inflows slow to ₹3,300 crore in October as AMCs suspend FoFs
-
-*Business Standard · 2026-11-03 · [mcx] gold*
-
-
-Gold ETFs drew an estimated ₹3,300 crore in October, down from September’s seven-month high of ₹4,450 crore, as most AMCs suspended fresh subscriptions to gold fund of funds in the second half of October following a Sebi direction linked to rising gold imports and rupee pressure. Analysts quoted say gold stays under pressure from Fed rate-hike expectations, a strong dollar and rising bond yields.
-
-
-[Read original](https://www.business-standard.com/markets/news/gold-etf-inflows-slow-to-3-300-crore-in-october-as-amcs-suspend-fofs-126110301655_1.html)
-
-
-
-### 13. Rupee extends gains for third day, settles at 94.75 against the dollar
-
-*Business Standard · 2026-11-03 · [mcx] gold, silver*
-
-
-The rupee strengthened for a third straight session, settling at 94.75 per dollar after opening at 94.68 versus a 94.90 previous close, supported by foreign fund inflows into domestic equities. Gains were capped by rebounding crude — Brent rallied to $106.07 a barrel after a US attack on Iran — and the currency has gained 1.14% so far this quarter on regulatory measures.
-
-
-[Read original](https://www.business-standard.com/markets/news/rupee-extends-gains-for-third-day-settles-at-94-75-against-the-dollar-126110301693_1.html)
-
-
+> Gold steadies near $3,935 as softer oil eases inflation fears; midterm results awaited
+
+Spot gold edged up 0.2% to $3,934.75 in early Asian trade on Wednesday as oil prices eased about 1% to a near four-week low, while investors awaited US midterm results. The overnight steadiness followed Tuesday’s selloff, when strong US jobs data lifted Treasury yields and reinforced 78% December Fed-hike bets; offsetting the gloom, WGC data showed central banks bought 320 tonnes in Q3, up 42% on the year.
+
+- Gold +0.2% to $3,934.75 in early Asian trade on softer oil; December futures $3,943.20 (+0.1%), spot silver $49.67 (-0.2%) (Reuters).
+- US September job openings beat at 7.523m, lifting the 10-year yield toward 4.95% and December Fed-hike bets to 78% (Kitco, CME FedWatch).
+- Central banks bought ~320t in Q3, +42% y/y and the fastest since late 2024, offsetting record-weak jewellery demand (InvestingLive, Mint/McGeever).
+- India’s Q3 gold demand fell 29% to 162.5t; informal imports jumped over 1,500% to 50t after the 15% duty hike, a three-year high (GJEPC, BusinessLine).
+- MCX gold fell ~Rs 1,400/10g and silver ~Rs 4,300/kg on Tuesday; rupee firmed to 94.75/$ for a third session (ET, Business Standard).
+
+## Trending
+- **Early midterm results: Democrats lead House race as gold steadies**: Gold hovered near $3,930 as early US midterm counts showed Democrats leading in the House, with strategists putting sweep odds near 70%; ING says a sweep could weaken the dollar and support bullion. (stories f8e1677766724004, 53407d4c99177de4, 08bfb58b418ec51e, 24c77816063514c1)
+- **Central banks step up: 320t of Q3 buying, fastest since late 2024**: Official buyers added ~320 tonnes in Q3, up 42% on the year, offsetting record-weak jewellery demand — a bright spot McGeever says is overshadowed by gold’s liquidity-driven selloffs. (stories c28cfb42244135bc, 80f6c94dc57ab5bc)
+- **India’s demand slump and the 50-tonne grey market**: WGC data shows India’s Q3 demand fell 29% to 162.5 tonnes while informal imports jumped over 1,500% to 50 tonnes after import levies rose to 15%, a three-year high. (stories b47bbf2e532de62b, a9465f6b80c00bad)
+- **MCX metals slide as festive buying meets rate-hike bets**: MCX gold fell about Rs 1,400/10g and silver about Rs 4,300/kg on Tuesday, with silver futures at their lowest since late 2025, even as the rupee firmed to 94.75 per dollar. (stories 55d09d37c8f52137, 6921d6e126e75554)
+
+## Stories
+1. [Gold Price Forecast: XAU/USD ticks lower while early trend points to Democrats victory in House](https://www.fxstreet.com/analysis/gold-price-forecast-xau-usd-ticks-lower-while-early-trend-points-to-democrats-victory-in-house-202611040331) — *FXStreet*, 2026-11-04T03:31:12Z
+   Gold traded cautiously near $3,930 in Wednesday's Asian session as early US midterm counts showed Democrats leading the House race. FXStreet cites strategists putting Democratic-sweep odds near 70%, and ING's view that a sweep could weaken the dollar and support bullion; Friday's US jobs data is the next major trigger.
+2. [Gold firms on softer oil prices, US midterm results awaited](https://northlandnewsradio.com/2026/11/03/gold-firms-on-softer-oil-prices-us-midterm-results-awaited/) — *Reuters*, 2026-11-04T00:58:26Z
+   Gold edged 0.2% higher to $3,934.75 an ounce in early Asian trade on Wednesday as oil prices eased about 1% to their lowest in nearly four weeks, cooling inflation concerns; December gold futures rose 0.1% to $3,943.20 while spot silver slipped 0.2% to $49.67. Investors awaited US midterm results, with traders pricing a 78% chance of a December Fed hike, per CME FedWatch.
+3. [Gold price prediction: Will gold bounce back on Wednesday? Check outlook for November 4](https://economictimes.indiatimes.com/markets/commodities/news/gold-price-prediction-will-gold-bounce-back-on-wednesday-check-outlook-for-november-4/articleshow/135518967.cms) — *Economic Times*, 2026-11-04T02:27:00Z
+   Gold stays in focus Wednesday as softer oil eases inflation fears, with eyes on US midterm results, Dhanteras demand and US jobs data. Prithvi Finmart's Manoj Kumar Jain pegs support at $3,800/oz for gold and $45/oz for silver, with MCX gold near Rs 1.38 lakh support and Rs 1.40 lakh resistance. Bank of America expects gold under $4,000/oz for three months, averaging $4,000 in Q4.
+4. [Gold, silver decline as strong U.S. jobs data lifts yields on election day - Kitco PM Report](https://www.kitco.com/news/article/2026-11-03/gold-silver-decline-strong-us-jobs-data-lifts-yields-election-day-kitco-pm) — *Kitco*, 2026-11-03T22:22:58Z
+   Spot gold and silver fell in late US trading on Tuesday as stronger-than-expected US labor data — September job openings rose to 7.523m vs ~7.15m expected — lifted Treasury yields and reinforced bets on further Fed tightening, Kitco reports. Spot gold held near $3,924/oz (-0.55%); silver slid 2.1% to ~$49.45, with traders also positioning for the midterm results.
+5. [MCX Q2 profit jumps over two-fold to ₹455 crore as trading volumes surge](https://www.thehindubusinessline.com/markets/commodities/mcx-q2-profit-jumps-over-two-fold-to-455-crore-as-trading-volumes-surge/article71663889.ece) — *The Hindu BusinessLine*, 2026-11-04T03:54:21Z
+   MCX's Q2 FY27 net profit more than doubled to ₹455 crore from ₹197 crore a year ago, with total income rising to ₹800 crore on record trading volumes. Futures average daily turnover rose to ₹62,819 crore; the exchange handled physical delivery of 5.68 tonnes of gold and 199.91 tonnes of silver during the quarter.
+6. [MCX gold prices fall Rs 1,400/10 gram, silver tanks Rs 4,300/kg ahead of Diwali while rate hike bets linger. What should you do?](https://economictimes.indiatimes.com/markets/commodities/news/mcx-gold-prices-fall-rs-1400/10-gram-silver-tanks-rs-4300/kg-ahead-of-diwali-while-rate-hike-bets-linger-what-should-you-do/articleshow/135484139.cms) — *Economic Times*, 2026-11-03T05:47:39Z
+   Gold futures on the MCX slipped about Rs 1,400 per 10 grams and silver futures tumbled roughly Rs 4,300 per kg in Tuesday's session ahead of Diwali, with expectations of further US rate hikes keeping pressure on the metals. The report notes the slide comes during peak festive buying and walks through the factors Indian buyers are weighing.
+7. [Central bank gold buying jumps 42% in Q3 as high prices hit jewellery demand, WGC says](https://investinglive.com/commodities/central-bank-gold-buying-jumps-42-in-q3-as-high-prices-hit-jewellery-demand-wgc-says/) — *InvestingLive*, 2026-11-03T23:06:01Z
+   Central banks bought ~320 tonnes in Q3, up 42% on the year and ~675t so far in 2026, the WGC said — offsetting a 17% slump in jewellery consumption to ~310t, the weakest Q3 in the series, and a 19% fall in bar and coin demand. Gold averaged ~$4,260/oz; total demand was ~1,370t (-1%), with YTD demand level with 2025’s record.
+8. [ROI-As markets sway, safe havens shine. Except gold: McGeever](https://www.livemint.com/market/roias-markets-sway-safe-havens-shine-except-gold-mcgeever-11793748689717.html) — *Mint*, 2026-11-03T23:31:29Z
+   Reuters’ Jamie McGeever argues gold, “the oldest safety play of all,” has failed to find a bid despite a risk-off backdrop reviving Treasuries, the dollar, franc and yen: gold is below $4,000/oz, down 9% YTD and ~10% under its 200-day average. An IMF paper found bullion is not a “reliable” hedge against equity volatility; central-bank buying (+42% in Q3 to 321t) is the bright spot.
+9. [India's Gold Demand Falls 29% in Q3 as High Prices Restrain Buying](https://gjepc.org/solitaire/indias-gold-demand-falls-29-in-q3-as-high-prices-restrain-buying/) — *GJEPC*, 2026-11-03T11:23:00Z
+   India's gold demand fell 29% year-on-year to 162.5 tonnes in Q3 2026 as record-high prices curbed buying, WGC said. Jewellery demand dropped 20% to 99.9 tonnes; bar and coin buying fell 40% to 55 tonnes. In value terms demand still rose 3% to ₹2.42 lakh crore on an average Q3 price of $4,262 an ounce (₹1,48,891 per 10g). WGC pegs 2026 full-year demand at 625–675 tonnes, a six-year low.
+10. [India's tax hike drives illegal gold imports to 3-year high](https://www.thehindubusinessline.com/markets/gold/indias-tax-hike-drives-illegal-gold-imports-to-3-year-high/article71659744.ece) — *The Hindu BusinessLine*, 2026-11-03T07:26:00Z
+   The World Gold Council says India's informal gold imports surged more than 1,500% to 50 tonnes in the September quarter, from 3 tonnes a year earlier, the highest since 2023, citing Metals Focus data. The grey market has flourished since May's duty hike to 15%, and jewellers are holding back on restocking ahead of Diwali while more households buy for cash without invoices.
+11. [Silver prices crash ₹8,500/kg, gold drops ₹2,000/10g as US-Iran tensions revive inflation fears; is more fall ahead?](https://www.livemint.com/market/stock-market-news/silver-prices-crash-rs-8-500-kg-gold-drops-rs-2-000-10g-as-us-iran-tensions-revive-inflation-fears-is-more-fall-ahead-11793698796709.html) — *Mint*, 2026-11-03T10:32:00Z
+   December silver futures on MCX resumed their losing streak on Tuesday after reports of a US strike on Iran's Qeshm Island sent crude higher, reviving inflation fears and rate-hike expectations. Silver futures slipped ₹8,528 per kg to their lowest since late November 2025, while gold fell ₹2,000 per 10 grams, erasing Monday's brief rebound.
+12. [Gold ETF inflows slow to ₹3,300 crore in October as AMCs suspend FoFs](https://www.business-standard.com/markets/news/gold-etf-inflows-slow-to-3-300-crore-in-october-as-amcs-suspend-fofs-126110301655_1.html) — *Business Standard*, 2026-11-03T13:37:00Z
+   Gold ETFs drew an estimated ₹3,300 crore in October, down from September’s seven-month high of ₹4,450 crore, as most AMCs suspended fresh subscriptions to gold fund of funds in the second half of October following a Sebi direction linked to rising gold imports and rupee pressure. Analysts quoted say gold stays under pressure from Fed rate-hike expectations, a strong dollar and rising bond yields.
+13. [Gold (XAUUSD), Silver, Platinum Forecasts – Gold Pulls Back As Selling Resumes](https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-pulls-back-as-selling-resumes-1642282) — *FXEmpire*, 2026-11-03T18:05:20Z
+   Gold slipped again on Tuesday as rising Treasury yields — the 2-year above 4.61% and the 10-year above 4.95% — and near-77% December Fed-hike bets outweighed the pullback in oil prices ahead of the US midterm vote, FXEmpire reports. Spot gold was testing the $3,890–$3,910 support zone, while silver slid back toward $50 as the gold-silver ratio climbed above 79.
+14. [Rupee extends gains for third day, settles at 94.75 against the dollar](https://www.business-standard.com/markets/news/rupee-extends-gains-for-third-day-settles-at-94-75-against-the-dollar-126110301693_1.html) — *Business Standard*, 2026-11-03T13:56:00Z
+   The rupee strengthened for a third straight session, settling at 94.75 per dollar after opening at 94.68 versus a 94.90 previous close, supported by foreign fund inflows into domestic equities. Gains were capped by rebounding crude — Brent rallied to $106.07 a barrel after a US attack on Iran — and the currency has gained 1.14% so far this quarter on regulatory measures.
