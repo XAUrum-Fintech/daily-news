@@ -6,7 +6,7 @@
 
 Spot gold topped $4,000/oz as Democrats' sweep sank the dollar to a one-month low; MCX gold neared Rs 1.42 lakh/10 g.
 
-- Morningstar says the dollar sank to a one-month low after AP called a Democratic Senate win; IANS says lower Treasury yields added support.
+- Morningstar notes the dollar at a one-month low on the Democrats' sweep; IANS says lower Treasury yields added support for bullion.
 
 - On MCX, December gold and silver climbed about 2% and 3% on the weaker dollar, IANS reports, with traders eyeing Dhanteras buying on Nov 6.
 
