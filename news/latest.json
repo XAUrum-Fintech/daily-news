@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-04T14:00Z",
-  "generated_at": "2026-11-04T14:14:35Z",
+  "edition_id": "2026-11-04T16:00Z",
+  "generated_at": "2026-11-04T16:08:55Z",
   "window": {
-    "from": "2026-11-04T12:00:00Z",
-    "to": "2026-11-04T14:00:00Z"
+    "from": "2026-11-04T14:00:00Z",
+    "to": "2026-11-04T16:00:00Z"
   },
   "insights": {
     "headline": "Gold stays above $4,000 after ADP jobs beat; MCX gold near Rs 1.43 lakh",
@@ -85,11 +85,10 @@
     },
     {
       "title": "India demand cools 29%; grey-market imports hit three-year high",
-      "summary": "India's Q3 gold demand fell 29% to 162.5t on record prices while informal imports surged to 50t after May's duty hike; October gold ETF inflows slowed to Rs 3,300 crore.",
+      "summary": "India's Q3 gold demand fell 29% to 162.5t on record prices while informal imports surged to 50t after May's duty hike.",
       "item_ids": [
         "b47bbf2e532de62b",
-        "a9465f6b80c00bad",
-        "5f63b2a977a103eb"
+        "a9465f6b80c00bad"
       ]
     }
   ],
@@ -139,7 +138,9 @@
         "global"
       ],
       "breaking": false,
-      "related_urls": [],
+      "related_urls": [
+        "https://economictimes.indiatimes.com/markets/us-stocks/news/gold-gains-3-as-dollar-slides-after-democratic-midterm-gains/articleshow/135543824.cms"
+      ],
       "rank": 2
     },
     {
@@ -402,29 +403,6 @@
       "rank": 12
     },
     {
-      "id": "5f63b2a977a103eb",
-      "title": "Gold ETF inflows slow to ₹3,300 crore in October as AMCs suspend FoFs",
-      "summary": "Gold ETFs drew an estimated ₹3,300 crore in October, down from September’s seven-month high of ₹4,450 crore, as most AMCs suspended fresh subscriptions to gold fund of funds in the second half of October following a Sebi direction linked to rising gold imports and rupee pressure. Analysts quoted say gold stays under pressure from Fed rate-hike expectations, a strong dollar and rising bond yields.",
-      "url": "https://www.business-standard.com/markets/news/gold-etf-inflows-slow-to-3-300-crore-in-october-as-amcs-suspend-fofs-126110301655_1.html",
-      "source": "Business Standard",
-      "source_domain": "business-standard.com",
-      "publisher_id": "business-standard",
-      "published_at": "2026-11-03T13:37:00Z",
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/5f63b2a977a103eb.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "mcx",
-        "india"
-      ],
-      "breaking": false,
-      "rank": 13
-    },
-    {
       "id": "e2b9c6574a8d77e0",
       "title": "Rupee extends gains for third day, settles at 94.75 against the dollar",
       "summary": "The rupee strengthened for a third straight session, settling at 94.75 per dollar after opening at 94.68 versus a 94.90 previous close, supported by foreign fund inflows into domestic equities. Gains were capped by rebounding crude — Brent rallied to $106.07 a barrel after a US attack on Iran — and the currency has gained 1.14% so far this quarter on regulatory measures.",
@@ -446,7 +424,7 @@
         "mcx"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 13
     },
     {
       "id": "1dcf7b7faf3c8716",
@@ -471,7 +449,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 15,
+      "rank": 14,
       "related_urls": [
         "https://www.livemint.com/market/stock-market-news/us-midterm-elections-kalyan-jewellers-pc-lalithaa-to-senco-top-jewellery-stock-to-buy-as-gold-silver-rates-rebound-11793764057589.html"
       ]
@@ -497,6 +475,29 @@
         "gold"
       ],
       "breaking": false,
+      "rank": 15
+    },
+    {
+      "id": "641c2f24328ae7e2",
+      "title": "New Samvat brings opportunities in mutual funds, equities and gold: Experts",
+      "summary": "Experts at Business Standard Hindi's Samvat webinar said India's long-term growth story stays strong, with investment opportunities across mutual funds, equities and gold, advising investors to keep a balanced portfolio as the new Samvat year begins.",
+      "url": "https://www.business-standard.com/markets/news/new-samvat-brings-opportunities-in-mutual-funds-equities-and-gold-experts-126110401842_1.html",
+      "source": "Business Standard",
+      "source_domain": "business-standard.com",
+      "publisher_id": "business-standard",
+      "published_at": "2026-11-04T14:31:29Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "festive",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "india"
+      ],
+      "breaking": false,
+      "related_urls": [],
       "rank": 16
     }
   ]

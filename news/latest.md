@@ -1,4 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-11-04T14:00Z
+# Gold & Silver for Indian buyers · 2026-11-04T16:00Z
 ## Today's brief
 **Gold stays above $4,000 as ADP jobs beat keeps Fed bets up**
 Spot gold stayed near $4,038/oz, up ~2%, as ADP payrolls beat forecasts; MCX gold hovered near Rs 1.42 lakh/10 g.
@@ -24,11 +24,11 @@ Spot gold stayed above $4,000 an ounce on Wednesday, up more than 2% at $4,037.7
 
 - **Silver outruns gold on the rebound after Tuesday's crash**: Silver jumped over 4% on MCX to Rs 1,87,397/kg, recovering from Tuesday's Rs 8,528/kg crash as US-Iran strike reports had revived inflation fears. (stories 4, 10)
 
-- **Dhanteras countdown: jeweller stocks rally, buyers warned on extra charges**: Jewellery stocks rallied ahead of Dhanteras on Nov 6 - Titan +4.2%, Kalyan +4.1% - while a buyer guide flags six extra charges, from making charges to 3% GST, over the quoted rate. (stories 15, 16)
+- **Dhanteras countdown: jeweller stocks rally, buyers warned on extra charges**: Jewellery stocks rallied ahead of Dhanteras on Nov 6 - Titan +4.2%, Kalyan +4.1% - while a buyer guide flags six extra charges, from making charges to 3% GST, over the quoted rate. (stories 14, 15)
 
 - **WGC halves 2026 investment forecast; central banks keep buying**: The World Gold Council cut 2026 gold investment growth to 200t on weak bar-and-coin buying, even as Q3 central-bank purchases jumped 42% to ~320t. (stories 7, 8)
 
-- **India demand cools 29%; grey-market imports hit three-year high**: India's Q3 gold demand fell 29% to 162.5t on record prices while informal imports surged to 50t after May's duty hike; October gold ETF inflows slowed to Rs 3,300 crore. (stories 9, 11, 13)
+- **India demand cools 29%; grey-market imports hit three-year high**: India's Q3 gold demand fell 29% to 162.5t on record prices while informal imports surged to 50t after May's duty hike. (stories 9, 11)
 
 ## Stories
 
@@ -43,6 +43,8 @@ Spot gold stayed above $4,000 an ounce, up more than 2% at $4,037.70, taking Oct
 *Kitco* · 2026-11-04T06:06:41Z · [kitco.com](https://www.kitco.com/news/article/2026-11-04/gold-prices-hit-4000-democrats-see-electoral-sweep-gain-control-congress)
 
 Spot gold tested $4,000/oz, up nearly 2%, as US midterm results showed Democrats poised to sweep Congress. Tastylive's Christopher Vecchio told Kitco a blue sweep could support bullion into 2027, while MarketGauge's Michele Schneider cautioned gold won't automatically benefit, warning a break below $3,940 could trigger fresh selling.
+
+Related: https://economictimes.indiatimes.com/markets/us-stocks/news/gold-gains-3-as-dollar-slides-after-democratic-midterm-gains/articleshow/135543824.cms
 
 ### 3. US Midterm Elections Jewellery Stocks, Gold and Silver Rates ![image](https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/11/us-midterm-elections-jewellery-stocks-to-watch-as-gold-and-silver-rates-jump.webp)
 
@@ -112,19 +114,13 @@ Related: https://inshorts.com/en/news/india-s-illegal-gold-imports-jump-1-500--a
 
 MCX's Q2 FY27 net profit more than doubled to ₹455 crore from ₹197 crore a year ago, with total income rising to ₹800 crore on record trading volumes. Futures average daily turnover rose to ₹62,819 crore; the exchange handled physical delivery of 5.68 tonnes of gold and 199.91 tonnes of silver during the quarter.
 
-### 13. Gold ETF inflows slow to ₹3,300 crore in October as AMCs suspend FoFs ![image](https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/5f63b2a977a103eb.jpg)
-
-*Business Standard* · 2026-11-03T13:37:00Z · [business-standard.com](https://www.business-standard.com/markets/news/gold-etf-inflows-slow-to-3-300-crore-in-october-as-amcs-suspend-fofs-126110301655_1.html)
-
-Gold ETFs drew an estimated ₹3,300 crore in October, down from September’s seven-month high of ₹4,450 crore, as most AMCs suspended fresh subscriptions to gold fund of funds in the second half of October following a Sebi direction linked to rising gold imports and rupee pressure. Analysts quoted say gold stays under pressure from Fed rate-hike expectations, a strong dollar and rising bond yields.
-
-### 14. Rupee extends gains for third day, settles at 94.75 against the dollar ![image](https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/e2b9c6574a8d77e0.jpg)
+### 13. Rupee extends gains for third day, settles at 94.75 against the dollar ![image](https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/e2b9c6574a8d77e0.jpg)
 
 *Business Standard* · 2026-11-03T13:56:00Z · [business-standard.com](https://www.business-standard.com/markets/news/rupee-extends-gains-for-third-day-settles-at-94-75-against-the-dollar-126110301693_1.html)
 
 The rupee strengthened for a third straight session, settling at 94.75 per dollar after opening at 94.68 versus a 94.90 previous close, supported by foreign fund inflows into domestic equities. Gains were capped by rebounding crude — Brent rallied to $106.07 a barrel after a US attack on Iran — and the currency has gained 1.14% so far this quarter on regulatory measures.
 
-### 15. Dhanteras 2026: How Titan, PC Jeweller, Senco Gold stocks are shaping up ahead of the big day ![image](https://assets.upstox.com/content/assets/images/news/jewellery-companies-nov-42026.webp)
+### 14. Dhanteras 2026: How Titan, PC Jeweller, Senco Gold stocks are shaping up ahead of the big day ![image](https://assets.upstox.com/content/assets/images/news/jewellery-companies-nov-42026.webp)
 
 *Upstox* · 2026-11-04T05:15:49Z · [upstox.com](https://upstox.com/news/market-news/stocks/dhanteras-2026-how-titan-pc-jeweller-senco-gold-stocks-are-shaping-up-ahead-of-the-big-day/article-202943/)
 
@@ -132,8 +128,14 @@ Jewellery stocks traded higher in Wednesday morning trade ahead of Dhanteras on 
 
 Related: https://www.livemint.com/market/stock-market-news/us-midterm-elections-kalyan-jewellers-pc-lalithaa-to-senco-top-jewellery-stock-to-buy-as-gold-silver-rates-rebound-11793764057589.html
 
-### 16. Buying gold this Dhanteras? 6 extra charges that could increase your jewellery bill ![image](https://assets.upstox.com/content/assets/images/news/buying-gold-dhanteras.webp)
+### 15. Buying gold this Dhanteras? 6 extra charges that could increase your jewellery bill ![image](https://assets.upstox.com/content/assets/images/news/buying-gold-dhanteras.webp)
 
 *Upstox* · 2026-11-04T07:25:31Z · [upstox.com](https://upstox.com/news/personal-finance/commodities/buying-gold-this-dhanteras-6-extra-charges-that-could-increase-your-jewellery-bill/article-202957/)
 
 Two days before Dhanteras, Upstox lists six charges buyers should watch beyond the quoted gold rate: making charges, wastage, 3% GST, the BIS hallmarking fee raised to Rs 75 per article in September 2026, stone charges on studded pieces, and buy-back deductions generally not recovered on resale.
+
+### 16. New Samvat brings opportunities in mutual funds, equities and gold: Experts
+
+*Business Standard* · 2026-11-04T14:31:29Z · [business-standard.com](https://www.business-standard.com/markets/news/new-samvat-brings-opportunities-in-mutual-funds-equities-and-gold-experts-126110401842_1.html)
+
+Experts at Business Standard Hindi's Samvat webinar said India's long-term growth story stays strong, with investment opportunities across mutual funds, equities and gold, advising investors to keep a balanced portfolio as the new Samvat year begins.
