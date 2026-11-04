@@ -1,11 +1,11 @@
 # Gold & Silver for Indian buyers · 2026-11-04T05:00Z
 
 ## Today's brief
-**Gold steadies at $3,935 as softer oil calms inflation fears**
-Gold edged up to about $3,935 as softer oil eased inflation fears, after MCX gold fell Rs 1,400 per 10 g on Tuesday.
-- Reuters says softer oil cooled inflation concerns, lifting non-yielding bullion even as a 78% December Fed-hike bet kept a lid on gains.
-- MCX gold and silver fell hard on Tuesday ahead of Dhanteras on Nov 6, with the rupee firming for a third session to 94.75 per dollar.
-- Watch: US midterm results today, September US trade data at 19:00 IST and ISM PMI at 20:30 IST; soft prints could cool hike bets.
+**Silver slides Rs 2,000/kg as Fed-hike bets jump**
+MCX silver fell Rs 2,000/kg to Rs 1,77,784 on Wednesday as US jobs data lifted December Fed-hike bets to 78%.
+- Reuters says softer oil cooled inflation fears, lifting bullion, while ETMarkets says strong US jobs data reinforced December Fed-hike bets.
+- Traders cite festive demand cues ahead of Dhanteras on Nov 6 and a third straight firm rupee session as shaping domestic prices.
+- Watch: US midterm results today and US-Iran talks progress; a Democratic sweep could weaken the dollar and support bullion, FXStreet notes.
 
 > MCX silver slides Rs 2,000/kg as hot US jobs data lifts December Fed-hike bets to 78%
 
