@@ -1,4 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-11-04T10:00Z
+# Gold & Silver for Indian buyers · 2026-11-04T11:00Z
 
 ## Today's brief
 
@@ -33,11 +33,11 @@ Spot gold held above $4,000 an ounce as US midterm results confirmed a Democrati
 
 - **December Fed-hike bets near 78% after hot US jobs data**: Hot US jobs data kept December Fed-hike odds near 78%, pressuring bullion earlier in the day; the ETMarkets outlook weighs whether gold bounces back, with the US jobs report due Friday. (stories 3, 6, 5)
 
-- **WGC halves 2026 investment forecast to 200t; central banks offset**: The World Gold Council cut its 2026 gold investment growth forecast to 200t on slower bar-and-coin buying, even as Q3 central-bank buying jumped 42% year-on-year to ~320t. (stories 10, 11, 12)
+- **WGC halves 2026 investment forecast to 200t; central banks offset**: The World Gold Council cut its 2026 gold investment growth forecast to 200t on slower bar-and-coin buying, even as Q3 central-bank buying jumped 42% year-on-year to ~320t. (stories 11, 12, 13)
 
-- **India's Q3 demand down 29%; grey-market imports at three-year high**: GJEPC says India's Q3 gold demand fell 29% on high prices while informal imports jumped after the duty hike; gold ETF inflows slowed as AMCs suspended fund-of-funds. (stories 7, 14, 16)
+- **India's Q3 demand down 29%; grey-market imports at three-year high**: GJEPC says India's Q3 gold demand fell 29% on high prices while informal imports jumped after the duty hike; gold ETF inflows slowed as AMCs suspended fund-of-funds. (stories 7, 15, 17)
 
-- **Dhanteras countdown: jeweller stocks rally on festive demand bets**: Two days before Dhanteras, Titan, PC Jeweller and Senco Gold rose on strong Q2 updates and rebounding bullion, even as GJEPC reports Q3 gold demand fell 29% on high prices. (stories 9, 7)
+- **Dhanteras countdown: jeweller stocks rally on festive demand bets**: Two days before Dhanteras, jewellery stocks rallied on festive demand bets; a buyer guide lists six extra charges - making charges, 3% GST and the higher hallmarking fee - over the quoted gold rate. (stories 9, 10, 7)
 
 
 ## Stories
@@ -57,6 +57,7 @@ Spot gold tested $4,000/oz, up nearly 2%, as US midterm results showed Democrats
 
 
 Gold and silver extended Wednesday's gains on a weaker dollar, lower yields and geopolitical uncertainty: MCX December gold rose 1.76% to Rs 1,41,911/10g and December silver advanced 3.09% to Rs 1,85,249/kg, recovering from an early-session slide, IANS reports. COMEX gold was $3,963.20/oz, silver $49.99/oz; traders still see a 78% chance of a December Fed hike.
+
 
 Related: https://inshorts.com/en/amp_news/gold--silver-prices-jump-sharply-on-mcx-ahead-of-dhanteras-1793781981828
 
@@ -100,6 +101,7 @@ Spot gold and silver fell in late US trading on Tuesday as stronger-than-expecte
 
 India's gold demand fell 29% year-on-year to 162.5 tonnes in Q3 2026 as record-high prices curbed buying, WGC said. Jewellery demand dropped 20% to 99.9 tonnes; bar and coin buying fell 40% to 55 tonnes. In value terms demand still rose 3% to ₹2.42 lakh crore on an average Q3 price of $4,262 an ounce (₹1,48,891 per 10g). WGC pegs 2026 full-year demand at 625–675 tonnes, a six-year low.
 
+
 Related: https://www.7globe.in/indias-gold-demand-falls-29-in-q3-wgc-sees-2026-demand-at-six-year-low/
 
 
@@ -118,10 +120,19 @@ December silver futures on MCX resumed their losing streak on Tuesday after repo
 
 Jewellery stocks traded higher in Wednesday morning trade ahead of Dhanteras on November 6: Titan was up over 1% at Rs 4,612.40, PC Jeweller rose nearly 3% to Rs 15.12 and Senco Gold added 1.42%. The piece cites strong September-quarter business updates and management commentary pointing to a healthy festive and wedding-season demand outlook.
 
+
 Related: https://www.livemint.com/market/stock-market-news/us-midterm-elections-kalyan-jewellers-pc-lalithaa-to-senco-top-jewellery-stock-to-buy-as-gold-silver-rates-rebound-11793764057589.html
 
 
-### 10. WGC cuts 2026 gold investment growth forecast ![image](https://photo2.idnfinancials.com/fly/idn/test/arif/GOLD-06082026.jpg)
+### 10. Buying gold this Dhanteras? 6 extra charges that could increase your jewellery bill ![image](https://assets.upstox.com/content/assets/images/news/buying-gold-dhanteras.webp)
+
+*Upstox* · 2026-11-04T07:25:31Z · [upstox.com](https://upstox.com/news/personal-finance/commodities/buying-gold-this-dhanteras-6-extra-charges-that-could-increase-your-jewellery-bill/article-202957/)
+
+
+Two days before Dhanteras, Upstox lists six charges buyers should watch beyond the quoted gold rate: making charges, wastage, 3% GST, the BIS hallmarking fee raised to Rs 75 per article in September 2026, stone charges on studded pieces, and buy-back deductions generally not recovered on resale.
+
+
+### 11. WGC cuts 2026 gold investment growth forecast ![image](https://photo2.idnfinancials.com/fly/idn/test/arif/GOLD-06082026.jpg)
 
 *IDNFinancials* · 2026-11-04T03:40:00Z · [idnfinancials.com](https://www.idnfinancials.com/news/71238/wgc-cuts-2026-gold-investment-growth-forecast)
 
@@ -129,27 +140,29 @@ Related: https://www.livemint.com/market/stock-market-news/us-midterm-elections-
 The World Gold Council halved its 2026 gold investment demand growth forecast to 200 tonnes from 400 tonnes on sharply slower bar-and-coin buying, though it raised its central-bank buying forecast. Q3 gold ETF inflows were 211 tonnes; spot hit a one-year low last Friday, down 29% from January's $5,595 record (Reuters).
 
 
-### 11. Central bank gold buying jumps 42% in Q3 as high prices hit jewellery demand, WGC says ![image](https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/c28cfb42244135bc.jpg)
+### 12. Central bank gold buying jumps 42% in Q3 as high prices hit jewellery demand, WGC says ![image](https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/c28cfb42244135bc.jpg)
 
 *InvestingLive* · 2026-11-03T23:06:01Z · [investinglive.com](https://investinglive.com/commodities/central-bank-gold-buying-jumps-42-in-q3-as-high-prices-hit-jewellery-demand-wgc-says/)
 
 
 Central banks bought ~320 tonnes in Q3, up 42% on the year and ~675t so far in 2026, the WGC said — offsetting a 17% slump in jewellery consumption to ~310t, the weakest Q3 in the series, and a 19% fall in bar and coin demand. Gold averaged ~$4,260/oz; total demand was ~1,370t (-1%), with YTD demand level with 2025’s record.
 
+
 Related: https://www.gold.org/news-and-events/press-releases/central-bank-buying-and-etf-inflows-support-gold-demand-q3
 
 
-### 12. Gold (XAUUSD), Silver, Platinum Forecasts – Gold Pulls Back As Selling Resumes
+### 13. Gold (XAUUSD), Silver, Platinum Forecasts – Gold Pulls Back As Selling Resumes
 
 *FXEmpire* · 2026-11-03T18:05:20Z · [fxempire.com](https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-pulls-back-as-selling-resumes-1642282)
 
 
 Gold slipped again on Tuesday as rising Treasury yields — the 2-year above 4.61% and the 10-year above 4.95% — and near-77% December Fed-hike bets outweighed the pullback in oil prices ahead of the US midterm vote, FXEmpire reports. Spot gold was testing the $3,890–$3,910 support zone, while silver slid back toward $50 as the gold-silver ratio climbed above 79.
 
+
 Related: https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-critical-support-holds-amid-growing-downside-risk-1642355
 
 
-### 13. ROI-As markets sway, safe havens shine. Except gold: McGeever ![image](https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/80f6c94dc57ab5bc.jpg)
+### 14. ROI-As markets sway, safe havens shine. Except gold: McGeever ![image](https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/80f6c94dc57ab5bc.jpg)
 
 *Mint* · 2026-11-03T23:31:29Z · [livemint.com](https://www.livemint.com/market/roias-markets-sway-safe-havens-shine-except-gold-mcgeever-11793748689717.html)
 
@@ -157,17 +170,18 @@ Related: https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-
 Reuters’ Jamie McGeever argues gold, “the oldest safety play of all,” has failed to find a bid despite a risk-off backdrop reviving Treasuries, the dollar, franc and yen: gold is below $4,000/oz, down 9% YTD and ~10% under its 200-day average. An IMF paper found bullion is not a “reliable” hedge against equity volatility; central-bank buying (+42% in Q3 to 321t) is the bright spot.
 
 
-### 14. India's tax hike drives illegal gold imports to 3-year high
+### 15. India's tax hike drives illegal gold imports to 3-year high
 
 *The Hindu BusinessLine* · 2026-11-03T07:26:00Z · [thehindubusinessline.com](https://www.thehindubusinessline.com/markets/gold/indias-tax-hike-drives-illegal-gold-imports-to-3-year-high/article71659744.ece)
 
 
 The World Gold Council says India's informal gold imports surged more than 1,500% to 50 tonnes in the September quarter, from 3 tonnes a year earlier, the highest since 2023, citing Metals Focus data. The grey market has flourished since May's duty hike to 15%, and jewellers are holding back on restocking ahead of Diwali while more households buy for cash without invoices.
 
+
 Related: https://inshorts.com/en/news/india-s-illegal-gold-imports-jump-1-500--after-duty-hike-1793697860513
 
 
-### 15. MCX Q2 profit jumps over two-fold to ₹455 crore as trading volumes surge
+### 16. MCX Q2 profit jumps over two-fold to ₹455 crore as trading volumes surge
 
 *The Hindu BusinessLine* · 2026-11-04T03:54:21Z · [thehindubusinessline.com](https://www.thehindubusinessline.com/markets/commodities/mcx-q2-profit-jumps-over-two-fold-to-455-crore-as-trading-volumes-surge/article71663889.ece)
 
@@ -175,7 +189,7 @@ Related: https://inshorts.com/en/news/india-s-illegal-gold-imports-jump-1-500--a
 MCX's Q2 FY27 net profit more than doubled to ₹455 crore from ₹197 crore a year ago, with total income rising to ₹800 crore on record trading volumes. Futures average daily turnover rose to ₹62,819 crore; the exchange handled physical delivery of 5.68 tonnes of gold and 199.91 tonnes of silver during the quarter.
 
 
-### 16. Gold ETF inflows slow to ₹3,300 crore in October as AMCs suspend FoFs ![image](https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/5f63b2a977a103eb.jpg)
+### 17. Gold ETF inflows slow to ₹3,300 crore in October as AMCs suspend FoFs ![image](https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/5f63b2a977a103eb.jpg)
 
 *Business Standard* · 2026-11-03T13:37:00Z · [business-standard.com](https://www.business-standard.com/markets/news/gold-etf-inflows-slow-to-3-300-crore-in-october-as-amcs-suspend-fofs-126110301655_1.html)
 
@@ -183,7 +197,7 @@ MCX's Q2 FY27 net profit more than doubled to ₹455 crore from ₹197 crore a y
 Gold ETFs drew an estimated ₹3,300 crore in October, down from September’s seven-month high of ₹4,450 crore, as most AMCs suspended fresh subscriptions to gold fund of funds in the second half of October following a Sebi direction linked to rising gold imports and rupee pressure. Analysts quoted say gold stays under pressure from Fed rate-hike expectations, a strong dollar and rising bond yields.
 
 
-### 17. Rupee extends gains for third day, settles at 94.75 against the dollar ![image](https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/e2b9c6574a8d77e0.jpg)
+### 18. Rupee extends gains for third day, settles at 94.75 against the dollar ![image](https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/e2b9c6574a8d77e0.jpg)
 
 *Business Standard* · 2026-11-03T13:56:00Z · [business-standard.com](https://www.business-standard.com/markets/news/rupee-extends-gains-for-third-day-settles-at-94-75-against-the-dollar-126110301693_1.html)
 
@@ -192,4 +206,4 @@ The rupee strengthened for a third straight session, settling at 94.75 per dolla
 
 
 ---
-*Window 2026-11-04T09:00:00Z → 2026-11-04T10:00:00Z · generated 2026-11-04T10:04:48Z*
+*Window 2026-11-04T10:00:00Z → 2026-11-04T11:00:00Z · generated 2026-11-04T11:01:39Z*
