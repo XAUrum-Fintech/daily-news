@@ -1,6 +1,6 @@
 # Gold & Silver News — India
 
-_Edition 2026-11-05T03:00Z · generated 2026-11-05T03:08:43Z · window 2026-11-05T02:00:00Z → 2026-11-05T03:00:00Z_
+_Edition 2026-11-05T04:00Z · generated 2026-11-05T04:01:41Z · window 2026-11-05T03:00:00Z → 2026-11-05T04:00:00Z_
 
 ## Today's brief
 
@@ -16,25 +16,25 @@ Gold stayed near $4,083 after a 3.4% surge on a sliding dollar; MCX gold near Rs
 
 ## Insights
 
-Gold climbs above $4,100 on US-Iran de-escalation hopes; Friday's US payrolls is the next test as Dhanteras nears
+Gold hits two-week high above $4,130 as dollar and yields ease after midterm sweep
 
-Gold climbed above $4,100 an ounce on Thursday, extending Wednesday's ~3.4% midterm rally — its biggest daily gain since August — as Democratic congressional wins fed hopes of an end to the US-Iran conflict, sank oil prices and weakened the dollar, with traders now awaiting Friday's US payrolls report. In Delhi, gold of 99.9% purity rose Rs 4,800 to Rs 1,46,600 per 10 g a day before Dhanteras, while the World Gold Council reported Q3 central-bank buying jumped 42%.
+Spot gold rose 1.9% to $4,134.83 an ounce on Thursday, its highest since October 22, extending Wednesday's ~3.4% midterm rally as a weaker dollar and lower Treasury yields followed the Democrats' congressional sweep, Reuters reports. Spot silver rose 1.7% to $53.12. In Delhi, gold of 99.9% purity had rebounded Rs 4,800 to Rs 1,46,600 per 10 g ahead of Dhanteras on November 6, while the World Gold Council reported Q3 central-bank buying jumped 42%. Traders now await Friday's US payrolls report, with markets pricing about an 82% chance of a December Fed rate rise, per CME FedWatch via Reuters.
 
-- Gold topped $4,100 Thursday on US-Iran de-escalation hopes, extending Wednesday's ~3.4% surge — its biggest daily gain since August 19.
-- Citi targets $4,500 in 0-3 months and $5,000 in 6-12 months if the Strait of Hormuz reopens, arguing lower oil could shift the Fed to cuts.
+- Spot gold rose 1.9% to $4,134.83, its highest since October 22, with December futures at $4,144.20, Reuters reports.
+- Silver rose 1.7% to $53.12, extending Wednesday's near-5% jump, as the dollar slid to a five-week low near 101.2, Kitco notes.
 - Delhi bullion rebounded ahead of Dhanteras: gold 99.9% at Rs 1,46,600/10g, silver up Rs 9,000, per the All India Sarafa Association.
-- Silver is testing downtrend resistance near $52.67 after reclaiming $51.27; gold's breakout from its September downtrend points the way, per FOREX.com analysis.
-- Friday's US October payrolls report is the next test; traders price roughly a 79-83% chance of a December Fed hike.
+- Citi targets $4,500 in 0-3 months and $5,000 in 6-12 months if the Strait of Hormuz reopens, arguing lower oil could shift the Fed to cuts.
+- Friday's US October payrolls report is the next test; traders price roughly an 82% chance of a December Fed hike, per CME FedWatch via Reuters.
 
 ## Trending
 
-### Gold extends rally above $4,100 on Iran de-escalation hopes
+### Gold extends rally to two-week high on softer dollar and yields
 
-Thursday's climb above $4,100 extended Wednesday's midterm surge as Democratic wins fed hopes of an end to the US-Iran conflict, sinking oil and the dollar; Friday's payrolls is the key Fed test.
+Thursday's climb to $4,134.83 extended Wednesday's midterm surge on a weaker dollar and lower yields; Kitco argues the dollar steers bullion, and Friday's payrolls is the key Fed test.
 
 ### Silver eyes breakout as yields retreat
 
-Silver reclaimed $51.27 and $52.67 and is testing downtrend resistance, with gold's breakout and a +0.99 correlation pointing to a larger move; $48.86 is the key support below.
+Silver reclaimed $51.27 and $52.67 and is testing downtrend resistance, with gold's breakout and a softer dollar pointing to a larger move; spot silver reached $53.12 on Thursday.
 
 ### Citi's $5,000 call hinges on Hormuz and a Fed pivot
 
@@ -50,7 +50,15 @@ India's Q3 gold demand fell 29% as high prices restrained buying, while the WGC 
 
 ## Items
 
-### 1. Gold climbs above $4,100 on US-Iran de-escalation hopes after midterm sweep
+### 1. Gold hits a two-week high as dollar, Treasury yields ease after US midterm elections
+
+_Reuters · 2026-11-05T03:46:00Z · global · gold, silver_
+
+Spot gold rose 1.9% to $4,134.83 an ounce on Thursday, its highest since October 22, as a weaker dollar and lower Treasury yields followed the Democrats' midterm sweep, Reuters reports. December futures rose 1.8% to $4,144.20 and spot silver rose 1.7% to $53.12. Traders await Friday's payrolls, pricing an 82% chance of a December Fed rise, per CME FedWatch.
+
+https://www.reuters.com/world/india/gold-hits-two-week-high-dollar-treasury-yields-ease-after-us-midterm-elections-2026-11-05/
+
+### 2. Gold climbs above $4,100 on US-Iran de-escalation hopes after midterm sweep
 
 _TradingView · 2026-11-05T01:32:28Z · global · gold_
 
@@ -58,7 +66,7 @@ Gold topped $4,100 on Thursday, extending Wednesday's midterm rally as Democrati
 
 https://www.tradingview.com/news/te_news:598363:0-gold-extends-gain-on-us-iran-optimism/
 
-### 2. Gold rises after biggest daily gain since August, with US payrolls in focus
+### 3. Gold rises after biggest daily gain since August, with US payrolls in focus
 
 _KLSE Screener · 2026-11-05T01:19:27Z · global · gold, silver_
 
@@ -66,7 +74,7 @@ Gold extended its midterm rally in early Asian trade, rising 0.6% to $4,082.76 a
 
 https://www.klsescreener.com/v2/news/view/1822121/gold-rises-after-biggest-daily-gain-since-august-with-us-payrolls-in-focus
 
-### 3. Gold gains 3% as dollar slides after Democratic midterm gains
+### 4. Gold gains 3% as dollar slides after Democratic midterm gains
 
 _Kitco · 2026-11-04T09:42:04Z · global · gold_
 
@@ -74,7 +82,7 @@ Spot gold climbed 3% to $4,046.74 an ounce on Wednesday — its biggest daily ga
 
 https://www.kitco.com/news/off-the-wire/2026-11-04/gold-gains-3-dollar-slides-after-democratic-midterm-gains
 
-### 4. Silver's bullish breakout case builds as bond yields retreat
+### 5. Silver's bullish breakout case builds as bond yields retreat
 
 _FOREX.com · 2026-11-05T02:37:00Z · global · silver, gold_
 
@@ -82,7 +90,7 @@ Silver is testing downtrend resistance from late-September highs after reclaimin
 
 https://www.forex.com/en-us/news-and-analysis/silver-s-bullish-breakout-case-builds-as-bond-yields-retreat/
 
-### 5. Gold climbs Rs 4,800 to Rs 1.46 lakh/10 gm in Delhi; silver surges Rs 9,000
+### 6. Gold climbs Rs 4,800 to Rs 1.46 lakh/10 gm in Delhi; silver surges Rs 9,000
 
 _Amar Ujala Bonus · 2026-11-04T13:49:00Z · mcx · gold, silver_
 
@@ -90,7 +98,7 @@ Delhi bullion rebounded two days before Dhanteras: gold of 99.9% purity rose Rs 
 
 https://www.amarujalabonus.com/commodity/gold-price-today-gold-jumps-rs-4-800-to-rs-1-46-lakh-in-delhi-silver-surges
 
-### 6. US Midterm Elections Jewellery Stocks, Gold and Silver Rates
+### 7. US Midterm Elections Jewellery Stocks, Gold and Silver Rates
 
 _Univest · 2026-11-04T11:46:10Z · mcx · gold, silver_
 
@@ -98,7 +106,7 @@ MCX December gold rose 2.42% to Rs 1,42,820 per 10 g and silver jumped 4.28% to 
 
 https://univest.in/blogs/us-midterm-elections-jewellery-stocks-gold-and-silver-rates-watchlist
 
-### 7. Gold, silver surge up to 3 pc over weaker US dollar, geopolitical uncertainty
+### 8. Gold, silver surge up to 3 pc over weaker US dollar, geopolitical uncertainty
 
 _IANS · 2026-11-04T06:44:00Z · mcx · gold, silver_
 
@@ -106,7 +114,15 @@ Gold and silver extended Wednesday's gains on a weaker dollar, lower yields and 
 
 https://ianslive.in/gold-silver-surge-up-to-25-pc-over-weaker-us-dollar-geopolitical-uncertainty--20261104120932
 
-### 8. Why Jewellers Expect Strong Dhanteras Sales Amid Recent Gold Price Drop
+### 9. The dollar decides: What the midterm rally in gold and silver says about the next turn
+
+_Kitco · 2026-11-04T18:00:00Z · global · gold, silver_
+
+Kitco argues the dollar, not the election result, steers bullion: past midterm waves moved gold oppositely because the dollar did. The dollar index slid to a five-week low near 101.2 after the Democratic sweep, with gold futures near $4,073; Capital Economics notes a hawkish Fed still limits gains, and Friday's payrolls is the next catalyst.
+
+https://www.kitco.com/opinion/2026-11-04/dollar-decides-what-midterm-rally-gold-and-silver-says-about-next-turn
+
+### 10. Why Jewellers Expect Strong Dhanteras Sales Amid Recent Gold Price Drop
 
 _Daily Jagran · 2026-11-04T13:22:00Z · festive · gold, silver_
 
@@ -114,7 +130,7 @@ Jewellers are upbeat on Dhanteras sales on November 6 after gold's 12% price cor
 
 https://www.thedailyjagran.com/lite/business/news/why-jewellers-expect-strong-dhanteras-sales-amid-recent-gold-price-drop-10335167
 
-### 9. Citi targets $5,000 gold as a Hormuz reopening could flip the Fed from hikes to cuts
+### 11. Citi targets $5,000 gold as a Hormuz reopening could flip the Fed from hikes to cuts
 
 _InvestingLive · 2026-11-04T22:40:45Z · global · gold_
 
@@ -122,7 +138,7 @@ Citi has set a 0-3 month gold target of $4,500 an ounce and a 6-12 month target 
 
 https://investinglive.com/commodities/citi-targets-5-000-gold-as-a-hormuz-reopening-could-flip-the-fed-from-hikes-to-cuts/
 
-### 10. Central bank gold buying jumps 42% in Q3 as high prices hit jewellery demand, WGC says
+### 12. Central bank gold buying jumps 42% in Q3 as high prices hit jewellery demand, WGC says
 
 _InvestingLive · 2026-11-03T23:06:01Z · global · gold_
 
@@ -130,7 +146,7 @@ Central banks bought ~320 tonnes in Q3, up 42% on the year and ~675t so far in 2
 
 https://investinglive.com/commodities/central-bank-gold-buying-jumps-42-in-q3-as-high-prices-hit-jewellery-demand-wgc-says/
 
-### 11. India's Gold Demand Falls 29% in Q3 as High Prices Restrain Buying
+### 13. India's Gold Demand Falls 29% in Q3 as High Prices Restrain Buying
 
 _GJEPC · 2026-11-03T11:23:00Z · mcx · gold_
 
@@ -138,7 +154,7 @@ India's gold demand fell 29% year-on-year to 162.5 tonnes in Q3 2026 as record-h
 
 https://gjepc.org/solitaire/indias-gold-demand-falls-29-in-q3-as-high-prices-restrain-buying/
 
-### 12. WGC cuts 2026 gold investment growth forecast
+### 14. WGC cuts 2026 gold investment growth forecast
 
 _IDNFinancials · 2026-11-04T03:40:00Z · global · gold_
 
@@ -146,7 +162,7 @@ The World Gold Council halved its 2026 gold investment demand growth forecast to
 
 https://www.idnfinancials.com/news/71238/wgc-cuts-2026-gold-investment-growth-forecast
 
-### 13. Silver prices crash ₹8,500/kg, gold drops ₹2,000/10g as US-Iran tensions revive inflation fears; is more fall ahead?
+### 15. Silver prices crash ₹8,500/kg, gold drops ₹2,000/10g as US-Iran tensions revive inflation fears; is more fall ahead?
 
 _Mint · 2026-11-03T10:32:00Z · mcx · gold, silver_
 
@@ -154,7 +170,7 @@ December silver futures on MCX resumed their losing streak on Tuesday after repo
 
 https://www.livemint.com/market/stock-market-news/silver-prices-crash-rs-8-500-kg-gold-drops-rs-2-000-10g-as-us-iran-tensions-revive-inflation-fears-is-more-fall-ahead-11793698796709.html
 
-### 14. India's tax hike drives illegal gold imports to 3-year high
+### 16. India's tax hike drives illegal gold imports to 3-year high
 
 _The Hindu BusinessLine · 2026-11-03T07:26:00Z · policy · gold_
 
@@ -162,7 +178,7 @@ The World Gold Council says India's informal gold imports surged more than 1,500
 
 https://www.thehindubusinessline.com/markets/gold/indias-tax-hike-drives-illegal-gold-imports-to-3-year-high/article71659744.ece
 
-### 15. Gold (XAU/USD) Price Forecast: Post-Election Rally Tests Critical Resistance
+### 17. Gold (XAU/USD) Price Forecast: Post-Election Rally Tests Critical Resistance
 
 _FXEmpire · 2026-11-04T22:13:00Z · global · gold_
 
@@ -170,7 +186,7 @@ Gold rallied to a six-day high of $4,070 on Wednesday after the Democrats' midte
 
 https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-post-election-rally-tests-critical-resistance-1642618
 
-### 16. MCX Q2 profit jumps over two-fold to ₹455 crore as trading volumes surge
+### 18. MCX Q2 profit jumps over two-fold to ₹455 crore as trading volumes surge
 
 _The Hindu BusinessLine · 2026-11-04T03:54:21Z · mcx · gold, silver_
 
@@ -178,7 +194,7 @@ MCX's Q2 FY27 net profit more than doubled to ₹455 crore from ₹197 crore a y
 
 https://www.thehindubusinessline.com/markets/commodities/mcx-q2-profit-jumps-over-two-fold-to-455-crore-as-trading-volumes-surge/article71663889.ece
 
-### 17. Rupee extends gains for third day, settles at 94.75 against the dollar
+### 19. Rupee extends gains for third day, settles at 94.75 against the dollar
 
 _Business Standard · 2026-11-03T13:56:00Z · mcx · gold, silver_
 
@@ -186,7 +202,7 @@ The rupee strengthened for a third straight session, settling at 94.75 per dolla
 
 https://www.business-standard.com/markets/news/rupee-extends-gains-for-third-day-settles-at-94-75-against-the-dollar-126110301693_1.html
 
-### 18. Dhanteras 2026: How Titan, PC Jeweller, Senco Gold stocks are shaping up ahead of the big day
+### 20. Dhanteras 2026: How Titan, PC Jeweller, Senco Gold stocks are shaping up ahead of the big day
 
 _Upstox · 2026-11-04T05:15:49Z · festive · gold, silver_
 
@@ -194,7 +210,7 @@ Jewellery stocks traded higher in Wednesday morning trade ahead of Dhanteras on 
 
 https://upstox.com/news/market-news/stocks/dhanteras-2026-how-titan-pc-jeweller-senco-gold-stocks-are-shaping-up-ahead-of-the-big-day/article-202943/
 
-### 19. Buying gold this Dhanteras? 6 extra charges that could increase your jewellery bill
+### 21. Buying gold this Dhanteras? 6 extra charges that could increase your jewellery bill
 
 _Upstox · 2026-11-04T07:25:31Z · festive · gold_
 
@@ -202,7 +218,7 @@ Two days before Dhanteras, Upstox lists six charges buyers should watch beyond t
 
 https://upstox.com/news/personal-finance/commodities/buying-gold-this-dhanteras-6-extra-charges-that-could-increase-your-jewellery-bill/article-202957/
 
-### 20. New Samvat brings opportunities in mutual funds, equities and gold: Experts
+### 22. New Samvat brings opportunities in mutual funds, equities and gold: Experts
 
 _Business Standard · 2026-11-04T14:31:29Z · festive · gold_
 
