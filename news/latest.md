@@ -1,14 +1,14 @@
 # Gold & Silver News — India
 
-_Edition 2026-11-05T02:00Z · generated 2026-11-05T02:09:57Z · window 2026-11-05T00:00:00Z → 2026-11-05T02:00:00Z_
+_Edition 2026-11-05T02:00Z · generated 2026-11-05T02:34:15Z · window 2026-11-05T00:00:00Z → 2026-11-05T02:00:00Z_
 
 ## Today's brief
 
-**Gold holds above $4,000 as midterm sweep sinks dollar**
+**Gold stays above $4,000 as midterm sweep sinks dollar**
 
 Gold held near $4,083 after a 3.4% surge on a sliding dollar; MCX gold near Rs 1.43 lakh/10 g before Dhanteras.
 
-- Reuters says the sweep sank the dollar, making bullion cheaper for foreign buyers; Kitco: the dollar's slide, not the winner, moves metals.
+- Reuters notes the dollar retreated on the Democrats' sweep, aiding bullion; Kitco says the dollar, not the election result, steers metals.
 
 - Dhanteras is November 6; GJC's Rokde told PTI jewellers expect flat volumes but ~30% value growth; the rupee rose a third day to 94.75.
 
