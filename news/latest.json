@@ -1,19 +1,19 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-05T04:00Z",
-  "generated_at": "2026-11-05T04:01:41Z",
+  "edition_id": "2026-11-05T06:00Z",
+  "generated_at": "2026-11-05T06:07:32Z",
   "window": {
-    "from": "2026-11-05T03:00:00Z",
-    "to": "2026-11-05T04:00:00Z"
+    "from": "2026-11-05T04:00:00Z",
+    "to": "2026-11-05T06:00:00Z"
   },
   "insights": {
-    "headline": "Gold hits two-week high above $4,130 as dollar and yields ease after midterm sweep",
-    "summary": "Spot gold rose 1.9% to $4,134.83 an ounce on Thursday, its highest since October 22, extending Wednesday's ~3.4% midterm rally as a weaker dollar and lower Treasury yields followed the Democrats' congressional sweep, Reuters reports. Spot silver rose 1.7% to $53.12. In Delhi, gold of 99.9% purity had rebounded Rs 4,800 to Rs 1,46,600 per 10 g ahead of Dhanteras on November 6, while the World Gold Council reported Q3 central-bank buying jumped 42%. Traders now await Friday's US payrolls report, with markets pricing about an 82% chance of a December Fed rate rise, per CME FedWatch via Reuters.",
+    "headline": "Gold holds above $4,130 as MCX gold adds Rs 6,400 in two sessions ahead of Dhanteras",
+    "summary": "Spot gold rose 1.9% to $4,134.83 an ounce on Thursday, its highest since October 22, extending Wednesday's ~3.4% midterm rally as a weaker dollar and lower Treasury yields followed the Democrats' congressional sweep, Reuters reports. Spot silver rose 1.7% to $53.12. On MCX, gold added about Rs 6,400 per 10 g and silver about Rs 11,231 per kg over two sessions. Dhanteras falls on November 6, and jewellers expect flat volumes but 30% value growth; traders now await Friday's US payrolls report, with markets pricing about an 82% chance of a December Fed rate rise, per CME FedWatch via Reuters.",
     "points": [
       "Spot gold rose 1.9% to $4,134.83, its highest since October 22, with December futures at $4,144.20, Reuters reports.",
-      "Silver rose 1.7% to $53.12, extending Wednesday's near-5% jump, as the dollar slid to a five-week low near 101.2, Kitco notes.",
-      "Delhi bullion rebounded ahead of Dhanteras: gold 99.9% at Rs 1,46,600/10g, silver up Rs 9,000, per the All India Sarafa Association.",
-      "Citi targets $4,500 in 0-3 months and $5,000 in 6-12 months if the Strait of Hormuz reopens, arguing lower oil could shift the Fed to cuts.",
+      "MCX gold added Rs 6,400/10 g and silver Rs 11,231/kg in two sessions; December gold futures Rs 1,45,909/10 g, ET reports.",
+      "Jewellery stocks rose with bullion: Senco +3.7%, PC Jeweller +3.2% and Titan +2.3%, Mint reports.",
+      "Dhanteras is November 6; gold is up ~192% since Dhanteras 2021 but down over 22% from its ~Rs 1,80,000 high, ET reports.",
       "Friday's US October payrolls report is the next test; traders price roughly an 82% chance of a December Fed hike, per CME FedWatch via Reuters."
     ],
     "brief": {
@@ -52,41 +52,41 @@
   "trending": [
     {
       "title": "Gold extends rally to two-week high on softer dollar and yields",
-      "summary": "Thursday's climb to $4,134.83 extended Wednesday's midterm surge on a weaker dollar and lower yields; Kitco argues the dollar steers bullion, and Friday's payrolls is the key Fed test.",
+      "summary": "Gold held above $4,100 as the dollar slid to a five-week low and yields fell after the Democrats' midterm sweep, with MCX gold adding Rs 6,400 per 10 g in two sessions.",
       "item_ids": [
+        "58bd0f7f94af0d6c",
         "b9dc3ae6cc1bf515",
-        "3eca8d63ab456018",
-        "d33629f09f9eea74",
-        "289d7a5d9322f3fd"
+        "3eca8d63ab456018"
       ]
     },
     {
       "title": "Silver eyes breakout as yields retreat",
-      "summary": "Silver reclaimed $51.27 and $52.67 and is testing downtrend resistance, with gold's breakout and a softer dollar pointing to a larger move; spot silver reached $53.12 on Thursday.",
+      "summary": "Silver rose to $53.12 as bond yields retreated, and analysts see a bullish breakout building; MCX silver added Rs 11,231 per kg in two sessions.",
       "item_ids": [
         "51c3fe9bb1c058a4",
-        "b9dc3ae6cc1bf515"
+        "58bd0f7f94af0d6c"
       ]
     },
     {
       "title": "Citi's $5,000 call hinges on Hormuz and a Fed pivot",
-      "summary": "Citi argues a Strait of Hormuz reopening by year-end would sink oil prices and flip the Fed from hiking to cutting, with substantial upside for gold in that scenario.",
+      "summary": "Citi sees gold at $5,000 in 6-12 months if the Strait of Hormuz reopens and lower oil flips the Fed from hikes to cuts.",
       "item_ids": [
         "d01f0247e98b6b8e"
       ]
     },
     {
       "title": "Dhanteras eve: Delhi prices rebound, jewellers bet on lightweight",
-      "summary": "With Dhanteras on November 6, jewellers expect strong sales after gold's 12% correction, with demand shifting to lightweight jewellery and silver coins gaining traction.",
+      "summary": "Delhi gold rebounded Rs 4,800 to Rs 1,46,600 per 10 g ahead of Dhanteras on November 6, with jewellers expecting flat volumes but about 30% higher value as buyers favour lighter pieces.",
       "item_ids": [
-        "1af8c7cdca66c23c",
         "d68e73b96b7ba0d9",
-        "1dcf7b7faf3c8716"
+        "1af8c7cdca66c23c",
+        "c54246ba35ab5add",
+        "1e8a9252b30f277c"
       ]
     },
     {
       "title": "India's Q3 demand slump deepens as central banks buy more",
-      "summary": "India's Q3 gold demand fell 29% as high prices restrained buying, while the WGC reported Q3 central-bank buying jumped 42% and cut its 2026 investment-demand growth forecast.",
+      "summary": "India's Q3 gold demand fell 29% as high prices restrained buying, while global central banks bought 321 tonnes, the fastest pace since 2024, the World Gold Council says.",
       "item_ids": [
         "b47bbf2e532de62b",
         "c28cfb42244135bc",
@@ -95,6 +95,30 @@
     }
   ],
   "items": [
+    {
+      "id": "58bd0f7f94af0d6c",
+      "title": "Gold prices jump Rs 6,500/10 gram in 2 days; silver soars Rs 11,200/kg as soft dollar, fall oil boost mood",
+      "summary": "MCX gold added about Rs 6,400 per 10 g and silver about Rs 11,231 per kg over two sessions, with December gold futures at Rs 1,45,909 per 10 g, the Economic Times reports. Spot gold rose 1.9% to $4,134.83 an ounce, its highest since October 22, and spot silver 1.7% to $53.12, as a weaker dollar, falling US yields and crude oil down about 10% followed the Democrats' midterm sweep.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-jump-rs-6500/10-gram-in-2-days-silver-soars-rs-11200/kg-as-soft-dollar-fall-oil-boost-mood-key-levels-to-track/articleshow/135559699.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-11-05T05:02:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/58bd0f7f94af0d6c.jpg",
+      "image_kind": "photo",
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "mcx"
+      ],
+      "breaking": false,
+      "rank": 1
+    },
     {
       "id": "b9dc3ae6cc1bf515",
       "title": "Gold hits a two-week high as dollar, Treasury yields ease after US midterm elections",
@@ -118,7 +142,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 1
+      "rank": 2
     },
     {
       "breaking": false,
@@ -131,7 +155,7 @@
       ],
       "published_at": "2026-11-05T01:32:28Z",
       "publisher_id": "tradingview",
-      "rank": 2,
+      "rank": 3,
       "related_urls": [],
       "source": "TradingView",
       "source_domain": "tradingview.com",
@@ -145,6 +169,31 @@
       "url": "https://www.tradingview.com/news/te_news:598363:0-gold-extends-gain-on-us-iran-optimism/"
     },
     {
+      "id": "e02c3998e78bf51f",
+      "title": "US Midterm Election Results Impact on Gold, Silver Jewellery Stocks: Senco, PC, Titan shares shine on Trump's loss",
+      "summary": "Jewellery stocks rose as bullion rebounded, Mint reports: Senco Gold gained 3.7% to Rs 322.65, PC Jeweller 3.2% to Rs 16.32, Titan 2.3% to Rs 4,858.90 and Kalyan 2.7% to Rs 544.70. MCX gold traded at Rs 1,46,109 per 10 g and silver at Rs 1,90,946 per kg, with spot gold at $4,134.83 an ounce, as a weaker dollar and lower Treasury yields followed the Democrats' midterm win.",
+      "url": "https://www.livemint.com/market/stock-market-news/us-midterm-election-results-impact-senco-gold-pc-jeweller-titan-jewellery-stocks-gain-as-gold-silver-prices-rebound-11793853578027.html",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "publisher_id": "mint",
+      "published_at": "2026-11-05T05:13:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "india"
+      ],
+      "breaking": false,
+      "rank": 4
+    },
+    {
       "breaking": false,
       "category": "global",
       "id": "d33629f09f9eea74",
@@ -156,7 +205,7 @@
       ],
       "published_at": "2026-11-05T01:19:27Z",
       "publisher_id": "klse-screener",
-      "rank": 3,
+      "rank": 5,
       "related_urls": [],
       "source": "KLSE Screener",
       "source_domain": "klsescreener.com",
@@ -181,7 +230,7 @@
       ],
       "published_at": "2026-11-04T09:42:04Z",
       "publisher_id": "kitco",
-      "rank": 4,
+      "rank": 6,
       "related_urls": [
         "https://www.kitco.com/news/article/2026-11-04/gold-prices-hit-4000-democrats-see-electoral-sweep-gain-control-congress",
         "https://www.kitco.com/news/article/2026-11-04/gold-prices-holding-4000-adp-says-us-economy-created-86k-jobs-october",
@@ -211,7 +260,7 @@
       ],
       "published_at": "2026-11-05T02:37:00Z",
       "publisher_id": "forex",
-      "rank": 5,
+      "rank": 7,
       "related_urls": [],
       "source": "FOREX.com",
       "source_domain": "forex.com",
@@ -236,7 +285,7 @@
       ],
       "published_at": "2026-11-04T13:49:00Z",
       "publisher_id": "amar-ujala-bonus",
-      "rank": 6,
+      "rank": 8,
       "related_urls": [],
       "source": "Amar Ujala Bonus",
       "source_domain": "amarujalabonus.com",
@@ -262,7 +311,7 @@
       ],
       "published_at": "2026-11-04T11:46:10Z",
       "publisher_id": "univest",
-      "rank": 7,
+      "rank": 9,
       "related_urls": [],
       "source": "Univest",
       "source_domain": "univest.in",
@@ -279,6 +328,54 @@
       "url": "https://univest.in/blogs/us-midterm-elections-jewellery-stocks-gold-and-silver-rates-watchlist"
     },
     {
+      "id": "c54246ba35ab5add",
+      "title": "Gold's 192% Dhanteras rally: Rs 92,000 jump in five years, but can the yellow metal reclaim its lost shine in 2027?",
+      "summary": "Domestic gold has risen about 192% since Dhanteras 2021, from roughly Rs 47,904 to about Rs 1,40,000 per 10 g in late October, but is still down more than 22% from its all-time high near Rs 1,80,000, the Economic Times reports. Silver is down more than 56% from its late-January record. Bank forecasts cited include Standard Chartered at $4,650 an ounce in Q4 and Goldman Sachs at $5,400 in 2027.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/golds-174-dhanteras-rally-rs-83000-jump-in-five-years-but-can-the-yellow-metal-reclaim-its-lost-shine-in-2027/articleshow/135558858.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-11-05T05:28:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/c54246ba35ab5add.jpg",
+      "image_kind": "photo",
+      "category": "festive",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "india",
+        "jewellery"
+      ],
+      "breaking": false,
+      "rank": 10
+    },
+    {
+      "id": "1e8a9252b30f277c",
+      "title": "Buying gold this Dhanteras? What investors should keep in mind",
+      "summary": "Ahead of Dhanteras on November 6, CNBC-TV18 notes gold prices have corrected and sets out what buyers check before purchasing: purity, BIS hallmarking, weight and making charges. The piece cites US bond yields, the dollar, inflation and geopolitics, plus the rupee and import duties at home, as the forces shaping prices, and quotes MMTC-PAMP on systematic buying.",
+      "url": "https://www.cnbctv18.com/personal-finance/buying-gold-this-dhanteras-what-investors-should-keep-in-mind-20027700.htm",
+      "source": "CNBC-TV18",
+      "source_domain": "cnbctv18.com",
+      "publisher_id": "cnbc-tv18",
+      "published_at": "2026-11-05T05:04:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/1e8a9252b30f277c.jpg",
+      "image_kind": "photo",
+      "category": "festive",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
+      ],
+      "breaking": false,
+      "rank": 11
+    },
+    {
       "breaking": false,
       "category": "mcx",
       "id": "91a299fcd9b3e2ee",
@@ -290,7 +387,7 @@
       ],
       "published_at": "2026-11-04T06:44:00Z",
       "publisher_id": "ians",
-      "rank": 8,
+      "rank": 12,
       "related_urls": [
         "https://inshorts.com/en/amp_news/gold--silver-prices-jump-sharply-on-mcx-ahead-of-dhanteras-1793781981828"
       ],
@@ -330,7 +427,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 13
     },
     {
       "breaking": false,
@@ -344,7 +441,7 @@
       ],
       "published_at": "2026-11-04T13:22:00Z",
       "publisher_id": "daily-jagran",
-      "rank": 10,
+      "rank": 14,
       "related_urls": [],
       "source": "Daily Jagran",
       "source_domain": "thedailyjagran.com",
@@ -369,7 +466,7 @@
       ],
       "published_at": "2026-11-04T22:40:45Z",
       "publisher_id": "investinglive",
-      "rank": 11,
+      "rank": 15,
       "related_urls": [],
       "source": "InvestingLive",
       "source_domain": "investinglive.com",
@@ -393,7 +490,7 @@
       ],
       "published_at": "2026-11-03T23:06:01Z",
       "publisher_id": "investinglive",
-      "rank": 12,
+      "rank": 16,
       "related_urls": [
         "https://www.gold.org/news-and-events/press-releases/central-bank-buying-and-etf-inflows-support-gold-demand-q3"
       ],
@@ -419,7 +516,7 @@
       ],
       "published_at": "2026-11-03T11:23:00Z",
       "publisher_id": "gjepc",
-      "rank": 13,
+      "rank": 17,
       "related_urls": [
         "https://www.7globe.in/indias-gold-demand-falls-29-in-q3-wgc-sees-2026-demand-at-six-year-low/"
       ],
@@ -446,7 +543,7 @@
       ],
       "published_at": "2026-11-04T03:40:00Z",
       "publisher_id": "idnfinancials",
-      "rank": 14,
+      "rank": 18,
       "related_urls": [],
       "source": "IDNFinancials",
       "source_domain": "idnfinancials.com",
@@ -471,7 +568,7 @@
       ],
       "published_at": "2026-11-03T10:32:00Z",
       "publisher_id": "mint",
-      "rank": 15,
+      "rank": 19,
       "source": "Mint",
       "source_domain": "livemint.com",
       "summary": "December silver futures on MCX resumed their losing streak on Tuesday after reports of a US strike on Iran's Qeshm Island sent crude higher, reviving inflation fears and rate-hike expectations. Silver futures slipped ₹8,528 per kg to their lowest since late November 2025, while gold fell ₹2,000 per 10 grams, erasing Monday's brief rebound.",
@@ -495,7 +592,7 @@
       ],
       "published_at": "2026-11-03T07:26:00Z",
       "publisher_id": "hindu-businessline",
-      "rank": 16,
+      "rank": 20,
       "related_urls": [
         "https://inshorts.com/en/news/india-s-illegal-gold-imports-jump-1-500--after-duty-hike-1793697860513"
       ],
@@ -521,7 +618,7 @@
       ],
       "published_at": "2026-11-04T22:13:00Z",
       "publisher_id": "fxempire",
-      "rank": 17,
+      "rank": 21,
       "related_urls": [],
       "source": "FXEmpire",
       "source_domain": "fxempire.com",
@@ -545,7 +642,7 @@
       ],
       "published_at": "2026-11-04T03:54:21Z",
       "publisher_id": "hindu-businessline",
-      "rank": 18,
+      "rank": 22,
       "source": "The Hindu BusinessLine",
       "source_domain": "thehindubusinessline.com",
       "summary": "MCX's Q2 FY27 net profit more than doubled to ₹455 crore from ₹197 crore a year ago, with total income rising to ₹800 crore on record trading volumes. Futures average daily turnover rose to ₹62,819 crore; the exchange handled physical delivery of 5.68 tonnes of gold and 199.91 tonnes of silver during the quarter.",
@@ -570,7 +667,7 @@
       ],
       "published_at": "2026-11-03T13:56:00Z",
       "publisher_id": "business-standard",
-      "rank": 19,
+      "rank": 23,
       "source": "Business Standard",
       "source_domain": "business-standard.com",
       "summary": "The rupee strengthened for a third straight session, settling at 94.75 per dollar after opening at 94.68 versus a 94.90 previous close, supported by foreign fund inflows into domestic equities. Gains were capped by rebounding crude — Brent rallied to $106.07 a barrel after a US attack on Iran — and the currency has gained 1.14% so far this quarter on regulatory measures.",
@@ -594,7 +691,7 @@
       ],
       "published_at": "2026-11-04T05:15:49Z",
       "publisher_id": "upstox",
-      "rank": 20,
+      "rank": 24,
       "related_urls": [
         "https://www.livemint.com/market/stock-market-news/us-midterm-elections-kalyan-jewellers-pc-lalithaa-to-senco-top-jewellery-stock-to-buy-as-gold-silver-rates-rebound-11793764057589.html"
       ],
@@ -621,7 +718,7 @@
       ],
       "published_at": "2026-11-04T07:25:31Z",
       "publisher_id": "upstox",
-      "rank": 21,
+      "rank": 25,
       "source": "Upstox",
       "source_domain": "upstox.com",
       "summary": "Two days before Dhanteras, Upstox lists six charges buyers should watch beyond the quoted gold rate: making charges, wastage, 3% GST, the BIS hallmarking fee raised to Rs 75 per article in September 2026, stone charges on studded pieces, and buy-back deductions generally not recovered on resale.",
@@ -644,7 +741,7 @@
       ],
       "published_at": "2026-11-04T14:31:29Z",
       "publisher_id": "business-standard",
-      "rank": 22,
+      "rank": 26,
       "related_urls": [],
       "source": "Business Standard",
       "source_domain": "business-standard.com",
