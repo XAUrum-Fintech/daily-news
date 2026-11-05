@@ -1,53 +1,22 @@
 {
  "schema": "orob-news.v1",
- "edition_id": "2026-11-05T18:00Z",
- "generated_at": "2026-11-05T18:06:26Z",
+ "edition_id": "2026-11-05T20:00Z",
+ "generated_at": "2026-11-05T20:04:45Z",
  "window": {
-  "from": "2026-11-05T16:00:00Z",
-  "to": "2026-11-05T18:00:00Z"
+  "from": "2026-11-05T18:00:00Z",
+  "to": "2026-11-05T20:00:00Z"
  },
  "insights": {
-  "headline": "Gold holds two-week high on Dhanteras eve as rupee hits one-month high",
-  "summary": "Spot gold held near $4,123 after touching a two-week high of $4,146, as the dollar steadied following the midterm-driven slide. In Delhi, gold climbed Rs 2,200 to Rs 1.48 lakh per 10 g ahead of Dhanteras, with jewellers expecting about 75 tonnes of sales and reporting enquiries up 40–50% since prices eased. The rupee closed at 94.47, its strongest since October 21, while Cleveland Fed President Beth Hammack repeated her call for gradual rate rises ahead of Friday's US payrolls report at 7 PM IST.",
+  "headline": "Gold holds above $4,100 into Dhanteras as US settle caps a two-day rally",
+  "summary": "Spot gold held near $4,123 after touching a two-week high of $4,146, and front-month gold settled 1% higher at $4,102.50 in New York as yields and the dollar eased. In Delhi, gold climbed Rs 2,200 to Rs 1.48 lakh per 10 g ahead of Dhanteras, with jewellers expecting about 75 tonnes of sales. Uday Kotak expects the RBI to raise rates by another 50-75 basis points after its first increase this year, while the rupee closed at 94.47, its strongest since October 21, ahead of Friday's US payrolls report at 7 PM IST.",
   "points": [
    "MCX gold jumped Rs 6,500 per 10 g in two days and silver Rs 11,200 per kg as a softer dollar and lower yields lifted bullion after the US midterms.",
-   "Spot gold touched a two-week high near $4,146 and held above $4,100 even as the Bank of England raised rates to 4% on high UK inflation.",
+   "Front-month gold settled 1% higher at $4,102.50 in New York, the highest settlement since October 21, with silver at $52.23 an ounce.",
    "Jewellers expect a busy Dhanteras with about 75 tonnes of sales as advance bookings rise and buyers favour coins, bars and lightweight jewellery.",
-   "The rupee closed at 94.47, its strongest since October 21, while the 10-year bond yield fell to 7.17%, its lowest since September 29.",
-   "US October payrolls land Friday at 7 PM IST and could shape December Fed rate-rise odds; one Fed official repeated her call for gradual increases."
+   "Uday Kotak expects the RBI to raise rates by another 50-75 bps, warning tightening is weighing on long-term bonds, as oil risks widen the deficit.",
+   "The rupee closed at 94.47, its strongest since October 21, while the 10-year bond yield fell to 7.17%; US October payrolls land Friday at 7 PM IST."
   ],
-  "brief": {
-   "schema": "orob-brief.v1",
-   "brief_id": "2026-11-05-1849",
-   "date": "2026-11-05",
-   "generated_at": "2026-11-05T13:19:48Z",
-   "slot": "evening",
-   "expires_at": "2026-11-05T18:29:00Z",
-   "headline": "Gold holds two-week high as dollar stays soft",
-   "summary": "Spot gold held near $4,130 and MCX gold near Rs 1.46 lakh per 10 g as a soft dollar fed the rally into Dhanteras.",
-   "bullets": [
-    {
-     "text": "Reuters says a softer dollar and easier yields lifted bullion after the midterms, and gold kept gains as the Bank of England raised rates.",
-     "item_ids": [
-      "b9dc3ae6cc1bf515",
-      "b3d2820bc6e2c12e"
-     ]
-    },
-    {
-     "text": "Dhanteras is tomorrow; jewellers expect flat volumes but higher value as buyers favour lighter pieces, and Titan's jewellery business grew.",
-     "item_ids": [
-      "1af8c7cdca66c23c",
-      "26cd1fc30393af68"
-     ]
-    },
-    {
-     "text": "US October payrolls land Friday at 7 PM IST; TradingKey says a strong print would firm December hike odds, a weak one could ease them.",
-     "item_ids": [
-      "8bb1b81e27c15fd9"
-     ]
-    }
-   ]
-  }
+  "brief": null
  },
  "trending": [
   {
@@ -58,7 +27,8 @@
     "b9dc3ae6cc1bf515",
     "85a94b86165de9f5",
     "fdf712a964b1c4d7",
-    "0bc3dba0cc3233fa"
+    "0bc3dba0cc3233fa",
+    "9148e6f28c6533bd"
    ]
   },
   {
@@ -86,7 +56,6 @@
     "26cd1fc30393af68",
     "f574684c2ef670d9",
     "440c2c38e7769abb",
-    "e29f0b255dfcc2df",
     "884aa4b220c7acda"
    ]
   },
@@ -150,6 +119,31 @@
    "rank": 2
   },
   {
+   "id": "9148e6f28c6533bd",
+   "title": "Gold Settles Higher As Yields, U.S. Dollar Weaken",
+   "summary": "Front-month gold settled 1% higher in New York at $4,102.50 an ounce, the highest settlement since October 21, as yields and the dollar lost ground, the Wall Street Journal reports. Silver gained 0.2% to $52.233 an ounce.",
+   "url": "https://www.wsj.com/finance/commodities-futures/gold-flat-after-midterm-linked-rebound-2d7cca6a",
+   "source": "Wall Street Journal",
+   "source_domain": "wsj.com",
+   "publisher_id": "wsj",
+   "published_at": "2026-11-05T19:08:00Z",
+   "image_url": null,
+   "image_kind": "none",
+   "category": "global",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "tags": [
+    "gold",
+    "silver",
+    "comex",
+    "global"
+   ],
+   "breaking": false,
+   "rank": 3
+  },
+  {
    "id": "b9dc3ae6cc1bf515",
    "title": "Gold hits a two-week high as dollar, Treasury yields ease after US midterm elections",
    "summary": "Spot gold rose 1.9% to $4,134.83 an ounce on Thursday, its highest since October 22, as a weaker dollar and lower Treasury yields followed the Democrats' midterm sweep, Reuters reports. December futures rose 1.8% to $4,144.20 and spot silver rose 1.7% to $53.12. Traders await Friday's payrolls, pricing an 82% chance of a December Fed rise, per CME FedWatch.",
@@ -172,7 +166,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 3
+   "rank": 4
   },
   {
    "id": "b3d2820bc6e2c12e",
@@ -194,7 +188,7 @@
    "metals": [
     "gold"
    ],
-   "rank": 4,
+   "rank": 5,
    "breaking": false
   },
   {
@@ -218,7 +212,7 @@
    "metals": [
     "gold"
    ],
-   "rank": 5,
+   "rank": 6,
    "breaking": false
   },
   {
@@ -243,7 +237,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 6
+   "rank": 7
   },
   {
    "id": "0bc3dba0cc3233fa",
@@ -266,7 +260,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 7
+   "rank": 8
   },
   {
    "id": "94c031806f93a747",
@@ -289,7 +283,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 8
+   "rank": 9
   },
   {
    "id": "a5faf2e1434354b7",
@@ -318,7 +312,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 9
+   "rank": 10
   },
   {
    "id": "26cd1fc30393af68",
@@ -342,8 +336,32 @@
     "gold",
     "silver"
    ],
-   "rank": 10,
+   "rank": 11,
    "breaking": false
+  },
+  {
+   "id": "7d10f6f2b7118ab2",
+   "title": "Reserve Bank of India may hike rates by up to 75 bps more: Uday Kotak",
+   "summary": "Uday Kotak expects the RBI to raise the repo rate by another 50-75 basis points after its first increase this year, warning the tightening is weighing on long-term bonds, Business Standard reports. He cited prolonged West Asia risks and sharply higher oil, and noted India's deficit was only $26 billion in 2025-26 even after $72 billion of gold imports.",
+   "url": "https://www.business-standard.com/markets/news/reserve-bank-of-india-may-hike-rates-by-up-to-75-bps-more-uday-kotak-126110501915_1.html",
+   "source": "Business Standard",
+   "source_domain": "business-standard.com",
+   "publisher_id": "business-standard",
+   "published_at": "2026-11-05T18:17:00Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/7d10f6f2b7118ab2.jpg",
+   "image_kind": "photo",
+   "category": "mcx",
+   "metals": [
+    "gold"
+   ],
+   "tags": [
+    "gold",
+    "rbi",
+    "rupee",
+    "india"
+   ],
+   "breaking": false,
+   "rank": 12
   },
   {
    "key": "ndtv_gold",
@@ -367,7 +385,7 @@
    ],
    "id": "fdf712a964b1c4d7",
    "breaking": false,
-   "rank": 11
+   "rank": 13
   },
   {
    "id": "3f604b42d0aa441e",
@@ -389,7 +407,7 @@
    "metals": [
     "gold"
    ],
-   "rank": 12,
+   "rank": 14,
    "breaking": false
   },
   {
@@ -403,7 +421,7 @@
    ],
    "published_at": "2026-11-03T23:06:01Z",
    "publisher_id": "investinglive",
-   "rank": 13,
+   "rank": 15,
    "related_urls": [
     "https://www.gold.org/news-and-events/press-releases/central-bank-buying-and-etf-inflows-support-gold-demand-q3"
    ],
@@ -438,7 +456,7 @@
    "metals": [
     "gold"
    ],
-   "rank": 14,
+   "rank": 16,
    "breaking": false
   },
   {
@@ -462,7 +480,7 @@
    "metals": [
     "gold"
    ],
-   "rank": 15,
+   "rank": 17,
    "breaking": false
   },
   {
@@ -492,7 +510,7 @@
    ],
    "id": "06fbda180b0d9674",
    "breaking": false,
-   "rank": 16
+   "rank": 18
   },
   {
    "id": "67bcba16130b7411",
@@ -517,7 +535,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 17
+   "rank": 19
   },
   {
    "breaking": false,
@@ -531,7 +549,7 @@
    ],
    "published_at": "2026-11-05T02:37:00Z",
    "publisher_id": "forex",
-   "rank": 18,
+   "rank": 20,
    "related_urls": [],
    "source": "FOREX.com",
    "source_domain": "forex.com",
@@ -566,7 +584,7 @@
    ],
    "id": "ff75af98749bfa5f",
    "breaking": false,
-   "rank": 19
+   "rank": 21
   },
   {
    "breaking": false,
@@ -579,7 +597,7 @@
    ],
    "published_at": "2026-11-04T09:42:04Z",
    "publisher_id": "kitco",
-   "rank": 20,
+   "rank": 22,
    "related_urls": [
     "https://www.kitco.com/news/article/2026-11-04/gold-prices-hit-4000-democrats-see-electoral-sweep-gain-control-congress",
     "https://www.kitco.com/news/article/2026-11-04/gold-prices-holding-4000-adp-says-us-economy-created-86k-jobs-october",
@@ -618,7 +636,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 21
+   "rank": 23
   },
   {
    "id": "2f220a33ec9a726b",
@@ -640,7 +658,7 @@
    "metals": [
     "gold"
    ],
-   "rank": 22,
+   "rank": 24,
    "breaking": false
   },
   {
@@ -664,7 +682,7 @@
    ],
    "title": "Buying gold for Dhanteras and Diwali 2026? Check which jewellery is exempt from mandatory hallmarking",
    "url": "https://www.zeebiz.com/personal-finance/news-buying-gold-for-dhanteras-and-diwali-2026-check-which-jewellery-is-exempt-from-mandatory-hallmarking-405175",
-   "rank": 23
+   "rank": 25
   },
   {
    "id": "37f89be763a6835a",
@@ -686,7 +704,7 @@
    "metals": [
     "gold"
    ],
-   "rank": 24,
+   "rank": 26,
    "breaking": false
   },
   {
@@ -712,7 +730,7 @@
     "india"
    ],
    "breaking": false,
-   "rank": 25
+   "rank": 27
   },
   {
    "breaking": false,
@@ -726,7 +744,7 @@
    ],
    "published_at": "2026-11-04T13:22:00Z",
    "publisher_id": "daily-jagran",
-   "rank": 26,
+   "rank": 28,
    "related_urls": [],
    "source": "Daily Jagran",
    "source_domain": "thedailyjagran.com",
@@ -742,7 +760,7 @@
   },
   {
    "id": "440c2c38e7769abb",
-   "rank": 27,
+   "rank": 29,
    "title": "Gold vs silver this Dhanteras: Price outlook, buying trends and key risks",
    "summary": "CNBC-TV18 weighs gold against silver for Dhanteras buyers: gold is about 20% below its January peak and silver roughly 50% below, after silver's much sharper October correction. The piece notes silver's higher volatility and industrial demand, and that lower prices are drawing festive buyers toward lighter gold pieces and silver jewellery.",
    "url": "https://www.cnbctv18.com/market/commodities/gold-vs-silver-this-dhanteras-price-outlook-buying-trends-risks-20027919.htm",
@@ -786,30 +804,7 @@
     "jewellery"
    ],
    "breaking": false,
-   "rank": 28
-  },
-  {
-   "breaking": false,
-   "category": "festive",
-   "id": "e29f0b255dfcc2df",
-   "image_kind": "none",
-   "image_url": null,
-   "metals": [
-    "gold"
-   ],
-   "published_at": "2026-11-05T13:03:00Z",
-   "publisher_id": "ndtv-profit",
-   "source": "NDTV Profit",
-   "source_domain": "ndtvprofit.com",
-   "summary": "Gold has fallen nearly 30% from its January peak but still costs more than last Dhanteras, NDTV Profit says, citing World Gold Council data: the July-September domestic average was Rs 1,48,891 per 10 g, up 45% year on year. Indian demand rose 25% on the quarter but was 29% lower than a year ago, as discounts narrowed from $66 an ounce in September to $8 by mid-October.",
-   "tags": [
-    "gold",
-    "india",
-    "jewellery"
-   ],
-   "title": "Why Your Dhanteras Gold Will Cost More And Weigh Less This Year",
-   "url": "https://www.ndtvprofit.com/markets/why-your-dhanteras-gold-will-cost-more-and-weigh-less-this-year-12288201",
-   "rank": 29
+   "rank": 30
   }
  ]
 }
