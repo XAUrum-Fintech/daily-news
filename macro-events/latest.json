@@ -1,7 +1,7 @@
 {
   "schema": "macro-events.v1",
-  "generated_at": "2026-11-05T00:27:54Z",
-  "event_count": 19,
+  "generated_at": "2026-11-05T14:05:09Z",
+  "event_count": 20,
   "events": [
     {
       "id": "us-jobs-2026-09-04",
@@ -301,6 +301,20 @@
       "summary": "Monthly count of US jobs added, and the unemployment rate.",
       "forecast_source": null,
       "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "published_at": null
+    },
+    {
+      "id": "us-jobs-2027-03-05",
+      "kind": "us_jobs",
+      "title": "US jobs report",
+      "status": "scheduled",
+      "scheduled_at": "2027-03-05T08:30:00-05:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [],
+      "revisions": [],
+      "summary": "Monthly count of US jobs added, and the unemployment rate.",
+      "forecast_source": null,
+      "source_url": "https://www.bls.gov/schedule/2027/03_sched.htm",
       "published_at": null
     },
     {
