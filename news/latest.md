@@ -1,4 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-11-05T10:00Z
+# Gold & Silver for Indian buyers · 2026-11-05T11:00Z
 
 > Gold stays above $4,130 as MCX gold adds Rs 6,400 in two sessions ahead of Dhanteras
 
@@ -76,7 +76,5 @@ Gold stayed near $4,135, MCX gold near Rs 1.46 lakh per 10 g, as a soft dollar a
    Gold has risen about 200% over the past five Dhanteras, and Axis Direct sees a possible 20-25% return next year, Business Today reports. The brokerage's view comes as gold trades near Rs 1.46 lakh per 10 g after a roughly 20% correction from its January peak, with Dhanteras buying due on November 6.
 27. [India's Gold Demand Falls 29% in Q3 as High Prices Restrain Buying](https://gjepc.org/solitaire/indias-gold-demand-falls-29-in-q3-as-high-prices-restrain-buying/) — *GJEPC*, 2026-11-03T11:23:00Z
    India's gold demand fell 29% year-on-year to 162.5 tonnes in Q3 2026 as record-high prices curbed buying, WGC said. Jewellery demand dropped 20% to 99.9 tonnes; bar and coin buying fell 40% to 55 tonnes. In value terms demand still rose 3% to ₹2.42 lakh crore on an average Q3 price of $4,262 an ounce (₹1,48,891 per 10g). WGC pegs 2026 full-year demand at 625–675 tonnes, a six-year low.
-28. [MCX Q2 profit jumps over two-fold to ₹455 crore as trading volumes surge](https://www.thehindubusinessline.com/markets/commodities/mcx-q2-profit-jumps-over-two-fold-to-455-crore-as-trading-volumes-surge/article71663889.ece) — *The Hindu BusinessLine*, 2026-11-04T03:54:21Z
-   MCX's Q2 FY27 net profit more than doubled to ₹455 crore from ₹197 crore a year ago, with total income rising to ₹800 crore on record trading volumes. Futures average daily turnover rose to ₹62,819 crore; the exchange handled physical delivery of 5.68 tonnes of gold and 199.91 tonnes of silver during the quarter.
-29. [Rupee extends gains for third day, settles at 94.75 against the dollar](https://www.business-standard.com/markets/news/rupee-extends-gains-for-third-day-settles-at-94-75-against-the-dollar-126110301693_1.html) — *Business Standard*, 2026-11-03T13:56:00Z
-   The rupee strengthened for a third straight session, settling at 94.75 per dollar after opening at 94.68 versus a 94.90 previous close, supported by foreign fund inflows into domestic equities. Gains were capped by rebounding crude — Brent rallied to $106.07 a barrel after a US attack on Iran — and the currency has gained 1.14% so far this quarter on regulatory measures.
+28. [Rupee settles flat at 94.46 against US dollar](https://www.thehindubusinessline.com/markets/forex/rupee-settles-flat-at-9446-against-us-dollar/article71669488.ece) — *The Hindu BusinessLine*, 2026-11-05T10:38:00Z
+   The rupee closed flat at 94.46 per dollar after slipping to 94.57 intraday, as support from softer crude oil prices was offset by a firm dollar overseas, The Hindu BusinessLine reports. The dollar index traded near 101.50 and Brent crude near $95.93 a barrel, while foreign investors bought Rs 7,284 crore of equities on Wednesday.
