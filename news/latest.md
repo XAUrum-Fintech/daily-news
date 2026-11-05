@@ -1,16 +1,10 @@
-# Gold & Silver for Indian buyers · 2026-11-05T13:00Z
+# Gold & Silver for Indian buyers · 2026-11-05T14:00Z
 
-> Gold holds near two-week high into Dhanteras as BoE hikes and central banks keep buying
+> Gold holds near a two-week high into Dhanteras as the dollar steadies and Delhi prices touch Rs 1.48 lakh
 
-Spot gold held near $4,130 and MCX gold near Rs 1.46 lakh per 10 g on Dhanteras eve, with Delhi retail gold at Rs 1.48 lakh. The Bank of England raised its rate to 4% but gold kept its gains as the dollar stayed soft after the US midterm sweep. Central-bank buying jumped 42% in the third quarter even as Russia sold about 62 tonnes, and a wide import-duty gap is pushing some festive buyers toward informal channels. US October payrolls land on Friday and will set the tone for December rate expectations.
+Spot gold held near $4,120 after touching a two-week high of $4,146, as the dollar steadied following the midterm-driven slide. In Delhi, gold climbed Rs 2,200 to Rs 1.48 lakh per 10 g ahead of Dhanteras, with silver up Rs 1,500, while jewellers expect festive sales to rise 20-30% by value. Markets now await US jobless claims and Friday’s October payrolls report at 7 PM IST.
 
-- Spot gold held near $4,130, up about 1.7% on the day, as the dollar eased after the Democrats' midterm sweep.
-- MCX gold traded near Rs 1.46 lakh per 10 g; Delhi retail gold reached Rs 1.48 lakh ahead of Dhanteras on November 6.
-- The Bank of England raised its rate to 4% on sticky inflation, yet gold kept its gains.
-- Central banks bought 42% more gold in Q3, while Russia sold about 62 tonnes in ten months to fund its deficit.
-- US October payrolls land Friday at 7 PM IST; the print will shape December rate expectations.
-
-## Today's brief
+## Today’s brief
 
 **Gold holds two-week high as dollar stays soft**
 
@@ -20,12 +14,19 @@ Spot gold held near $4,130 and MCX gold near Rs 1.46 lakh per 10 g as a soft dol
 - Dhanteras is tomorrow; jewellers expect flat volumes but higher value as buyers favour lighter pieces, and Titan's jewellery business grew.
 - US October payrolls land Friday at 7 PM IST; TradingKey says a strong print would firm December hike odds, a weak one could ease them.
 
+## Insights
+- MCX gold jumped Rs 6,500 per 10 g in two days and silver Rs 11,200 per kg as a softer dollar and lower yields lifted bullion after the US midterms.
+- Spot gold touched a two-week high near $4,146 and held above $4,100 even as the Bank of England raised rates to 4% on high UK inflation.
+- Delhi gold rose Rs 2,200 to Rs 1.48 lakh per 10 g ahead of Dhanteras, and jewellers expect sales to rise 20-30% by value on lighter pieces.
+- Central-bank buying jumped 42% in the third quarter, the World Gold Council said, even as Russia led a sell-off of gold reserves.
+- US October payrolls land on Friday at 7 PM IST and could shape expectations for a December Fed rate rise.
+
 ## Trending
-- **Gold holds two-week high into Dhanteras**: Gold stayed above $4,100 as the dollar slid after the Democrats' midterm sweep, with MCX gold near Rs 1.46 lakh and Delhi retail at Rs 1.48 lakh on the eve of Dhanteras. (stories 58bd0f7f94af0d6c, b9dc3ae6cc1bf515, 85a94b86165de9f5)
-- **Central banks split: buying surges, Russia sells**: Central-bank gold buying jumped 42% in the third quarter, the World Gold Council said, even as Russia sold about 62 tonnes in ten months — the fastest sell-off since 1998 — to plug its budget deficit. (stories c28cfb42244135bc, 3f604b42d0aa441e, 40823c37c8432810)
-- **Silver's breakout watch**: Silver held near $53 as yields retreated, with $53.53 the next resistance; MCX silver added Rs 11,200 per kg in two sessions, though it remains about 50% below its January peak. (stories 51c3fe9bb1c058a4, ff75af98749bfa5f, 50bf62445a5eaf4c)
-- **Dhanteras eve: high prices, lighter pieces, duty-gap risk**: Jewellers expect flat volumes but higher value as buyers favour lighter pieces; Titan's jewellery business grew, while 29% of buyers may use informal channels as the 15% duty widens the price gap. (stories 1af8c7cdca66c23c, 26cd1fc30393af68, f574684c2ef670d9)
-- **What to watch: US payrolls on Friday**: US October payrolls land Friday at 7 PM IST; a strong print would firm December hike odds, while a weak one could ease them, TradingKey says. (stories 8bb1b81e27c15fd9)
+- **Gold holds two-week high into Dhanteras**: A softer dollar and easier yields lifted bullion after the US midterms, and Delhi gold reached Rs 1.48 lakh per 10 g on the eve of Dhanteras. (stories 1, 2, 4, 7, 5)
+- **Central banks split: buying surges, Russia sells**: Central-bank gold buying jumped 42% in the third quarter, the World Gold Council said, while Russia remained the biggest seller of reserves. (stories 9, 8, 10)
+- **Silver's breakout watch**: Silver held near $53 an ounce with analysts watching a $53.53 breakout level, while Indian silver jumped Rs 11,200 per kg in two days. (stories 13, 14, 15)
+- **Dhanteras eve: high prices, lighter pieces, duty-gap risk**: Jewellers expect festive sales to rise 20-30% by value as buyers favour lighter pieces, while high import duty pushes some buying to informal channels. (stories 25, 6, 11, 26, 29)
+- **What to watch: US payrolls on Friday**: The October US jobs report lands Friday at 7 PM IST; a strong print would firm December rate-rise odds, a weak one could ease them. (stories 18)
 
 ## Stories
 1. [Gold prices jump Rs 6,500/10 gram in 2 days; silver soars Rs 11,200/kg as soft dollar, fall oil boost mood](https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-jump-rs-6500/10-gram-in-2-days-silver-soars-rs-11200/kg-as-soft-dollar-fall-oil-boost-mood-key-levels-to-track/articleshow/135559699.cms) — *Economic Times*, 2026-11-05T05:02:00Z
@@ -36,12 +37,12 @@ Spot gold held near $4,130 and MCX gold near Rs 1.46 lakh per 10 g as a soft dol
    The Bank of England raised its Bank Rate by 0.25 points to 4% as UK inflation runs hot, yet gold held its gains, with spot gold up 1.74% at $4,128.54 an ounce.
 4. [Ahead of Dhanteras, gold prices climb Rs 2,200 to Rs 1.48 lakh/10gm in Delhi](https://theprint.in/economy/ahead-of-dhanteras-gold-prices-climb-rs-2200-to-rs-1-48-lakh-10gm-in-delhi/3091524/) — *ThePrint*, 2026-11-05T12:19:00Z
    Gold climbed Rs 2,200 to Rs 1.48 lakh per 10 g in Delhi ahead of Dhanteras, as festive buying picked up on the eve of the festival.
-5. [Titan shines in Q2 Results 2026; Net profit doubles to  ₹2,393 crore, aided by one-time gain; jewellery business up 24%](https://www.livemint.com/market/stock-market-news/titan-shines-in-q2-results-2026-net-profit-doubles-to-rs-2-393-crore-aided-by-one-time-gain-jewellery-business-up-24-11793880484831.html) — *Mint*, 2026-11-05T12:48:39Z
+5. [Gold stalls below $4,150 as US Dollar regains ground, US jobs data in focus](https://www.fxstreet.com/news/gold-extends-recovery-amid-post-election-volatility-us-jobs-data-in-focus-202611051101) — *FXStreet*, 2026-11-05T11:01:40Z
+   Spot gold stalled below $4,150, trading near $4,119 after an intraday high of $4,146, as the dollar and Treasury yields regained ground after the midterm-driven slide. Attention now turns to US jobless claims later on Thursday and the October payrolls report on Friday, which could shape expectations for the Fed’s next move.
+6. [Titan shines in Q2 Results 2026; Net profit doubles to  ₹2,393 crore, aided by one-time gain; jewellery business up 24%](https://www.livemint.com/market/stock-market-news/titan-shines-in-q2-results-2026-net-profit-doubles-to-rs-2-393-crore-aided-by-one-time-gain-jewellery-business-up-24-11793880484831.html) — *Mint*, 2026-11-05T12:48:39Z
    Titan's net profit doubled to Rs 2,393 crore in the September quarter, helped by a one-time gain, with its jewellery business up 24% as festive demand held up despite record prices.
-6. [Gold Prices On Recovery Mode: Yellow Metal Rates Jump By Rs 6,600 In Two Days To Rs 1,46,100](https://www.ndtvprofit.com/markets/gold-prices-on-recovery-mode-yellow-metal-rates-jump-by-rs-6-600-in-two-days-to-rs-1-46-100-12285992) — *NDTV Profit*, 2026-11-05T06:51:00Z
+7. [Gold Prices On Recovery Mode: Yellow Metal Rates Jump By Rs 6,600 In Two Days To Rs 1,46,100](https://www.ndtvprofit.com/markets/gold-prices-on-recovery-mode-yellow-metal-rates-jump-by-rs-6-600-in-two-days-to-rs-1-46-100-12285992) — *NDTV Profit*, 2026-11-05T06:51:00Z
    MCX December gold futures rose to Rs 1,46,109 per 10 g, up Rs 6,657 in two sessions from Rs 1,39,452 on November 3, NDTV Profit reports. COMEX gold futures moved up to nearly $4,147, gaining 1.83% after a 3.6% jump on Wednesday, as the dollar stayed weak after the Democrats' midterm sweep.
-7. [Silver To Hit Rs 2,00,000 Again Soon? Prices Jump Rs 11,200 In Two Days](https://www.ndtvprofit.com/markets/silver-to-hit-rs-2-00-000-again-soon-prices-jump-rs-11-200-in-two-days-12286056) — *NDTV Profit*, 2026-11-05T06:32:00Z
-   MCX silver futures traded at Rs 1,88,787 per kg, up 0.56% on the day, after surging Rs 11,248 or 6.25% in two trading sessions, NDTV Profit reports. Spot silver stood at $53.12 an ounce, up 1.7%, with COMEX resistance at $55-60 and MCX resistance at Rs 1,94,000-1,96,000 per kg, according to the piece.
 8. [Russia leads global gold reserve sell-off amid war costs](https://tvpworld.com/96318439/russia-remains-the-worlds-biggest-seller-of-central-bank-gold-reserves) — *TVP World*, 2026-11-05T12:53:00Z
    Russia remained the world's biggest seller of central-bank gold, selling about 62 tonnes from its reserves over ten months to plug a widening budget deficit — the fastest sell-off since the 1998 crisis.
 9. [Central bank gold buying jumps 42% in Q3 as high prices hit jewellery demand, WGC says](https://investinglive.com/commodities/central-bank-gold-buying-jumps-42-in-q3-as-high-prices-hit-jewellery-demand-wgc-says/) — *InvestingLive*, 2026-11-03T23:06:01Z
@@ -66,19 +67,23 @@ Spot gold held near $4,130 and MCX gold near Rs 1.46 lakh per 10 g as a soft dol
    The US October jobs report lands on Friday, November 6, with markets expecting about 65,000 jobs, up from 29,000 in September, and unemployment steady at 4.2%, TradingKey reports. The Fed held rates at 3.75-4.00% in October while markets still price about an 80% chance of a December hike; a strong print would reinforce that, a weak one could shift rate expectations and move the dollar and gold.
 19. [BIS Hallmarking System Strengthens Consumer Trust, Over 65 Crore Gold Articles Get HUID](https://ddnews.gov.in/en/bis-hallmarking-system-strengthens-consumer-trust-over-65-crore-gold-articles-get-huid/) — *DD News*, 2026-11-05T11:49:48Z
    More than 65 crore gold articles have been hallmarked with a unique HUID since mandatory hallmarking began, the Bureau of Indian Standards said, as buyers check purity ahead of Dhanteras.
-20. [NSE EGR Trading: Exchange expects higher activity on Dhanteras; 2,781 trades recorded so far](https://www.zeebiz.com/market-news/news-nse-egr-trading-exchange-expects-higher-activity-on-dhanteras-2781-trades-recorded-so-far-405174) — *Zee Business*, 2026-11-05T12:35:00Z
+20. [Buying gold for Dhanteras and Diwali 2026? Check which jewellery is exempt from mandatory hallmarking](https://www.zeebiz.com/personal-finance/news-buying-gold-for-dhanteras-and-diwali-2026-check-which-jewellery-is-exempt-from-mandatory-hallmarking-405175) — *Zee Business*, 2026-11-05T12:36:00Z
+   Mandatory BIS hallmarking does not apply to gold articles under 2 grams, traditional Kundan, Polki and Jadau jewellery, or gold watches and fountain pens, Zee Business reports. Gold bullion in bars, plates and other forms is also exempt, as are export and medical-use articles, though jewellers may still pass on the Rs 75-per-article hallmarking fee.
+21. [NSE EGR Trading: Exchange expects higher activity on Dhanteras; 2,781 trades recorded so far](https://www.zeebiz.com/market-news/news-nse-egr-trading-exchange-expects-higher-activity-on-dhanteras-2781-trades-recorded-so-far-405174) — *Zee Business*, 2026-11-05T12:35:00Z
    NSE's Electronic Gold Receipt platform expects higher activity on Dhanteras, with 2,781 trades recorded so far as more buyers turn to demat gold.
-21. [Rupee settles flat at 94.46 against US dollar](https://www.thehindubusinessline.com/markets/forex/rupee-settles-flat-at-9446-against-us-dollar/article71669488.ece) — *The Hindu BusinessLine*, 2026-11-05T10:38:00Z
+22. [Rupee settles flat at 94.46 against US dollar](https://www.thehindubusinessline.com/markets/forex/rupee-settles-flat-at-9446-against-us-dollar/article71669488.ece) — *The Hindu BusinessLine*, 2026-11-05T10:38:00Z
    The rupee closed flat at 94.46 per dollar after slipping to 94.57 intraday, as support from softer crude oil prices was offset by a firm dollar overseas, The Hindu BusinessLine reports. The dollar index traded near 101.50 and Brent crude near $95.93 a barrel, while foreign investors bought Rs 7,284 crore of equities on Wednesday.
-22. [US Midterm Election Results Impact on Gold, Silver Jewellery Stocks: Senco, PC, Titan shares shine on Trump's loss](https://www.livemint.com/market/stock-market-news/us-midterm-election-results-impact-senco-gold-pc-jeweller-titan-jewellery-stocks-gain-as-gold-silver-prices-rebound-11793853578027.html) — *Mint*, 2026-11-05T05:13:00Z
+23. [US Midterm Election Results Impact on Gold, Silver Jewellery Stocks: Senco, PC, Titan shares shine on Trump's loss](https://www.livemint.com/market/stock-market-news/us-midterm-election-results-impact-senco-gold-pc-jeweller-titan-jewellery-stocks-gain-as-gold-silver-prices-rebound-11793853578027.html) — *Mint*, 2026-11-05T05:13:00Z
    Jewellery stocks rose as bullion rebounded, Mint reports: Senco Gold gained 3.7% to Rs 322.65, PC Jeweller 3.2% to Rs 16.32, Titan 2.3% to Rs 4,858.90 and Kalyan 2.7% to Rs 544.70. MCX gold traded at Rs 1,46,109 per 10 g and silver at Rs 1,90,946 per kg, with spot gold at $4,134.83 an ounce, as a weaker dollar and lower Treasury yields followed the Democrats' midterm win.
-23. [Citi targets $5,000 gold as a Hormuz reopening could flip the Fed from hikes to cuts](https://investinglive.com/commodities/citi-targets-5-000-gold-as-a-hormuz-reopening-could-flip-the-fed-from-hikes-to-cuts/) — *InvestingLive*, 2026-11-04T22:40:45Z
+24. [Citi targets $5,000 gold as a Hormuz reopening could flip the Fed from hikes to cuts](https://investinglive.com/commodities/citi-targets-5-000-gold-as-a-hormuz-reopening-could-flip-the-fed-from-hikes-to-cuts/) — *InvestingLive*, 2026-11-04T22:40:45Z
    Citi has set a 0-3 month gold target of $4,500 an ounce and a 6-12 month target of $5,000, according to Reuters, betting a Strait of Hormuz reopening and Yemen/Saudi de-escalation by year-end will sink oil prices. Max Layton, Citi's global head of commodities research, said much lower oil could shift the Fed from hiking to cutting rates, reviving gold investment demand.
-24. [Why Jewellers Expect Strong Dhanteras Sales Amid Recent Gold Price Drop](https://www.thedailyjagran.com/lite/business/news/why-jewellers-expect-strong-dhanteras-sales-amid-recent-gold-price-drop-10335167) — *Daily Jagran*, 2026-11-04T13:22:00Z
+25. [Why Jewellers Expect Strong Dhanteras Sales Amid Recent Gold Price Drop](https://www.thedailyjagran.com/lite/business/news/why-jewellers-expect-strong-dhanteras-sales-amid-recent-gold-price-drop-10335167) — *Daily Jagran*, 2026-11-04T13:22:00Z
    Jewellers are upbeat on Dhanteras sales on November 6 after gold's 12% price correction lifted sentiment, GJC chairman Rajesh Rokde told PTI. Demand is shifting to lightweight jewellery and small-ticket purchases, while silver coins gain traction with a 10% volume rise expected. Sales volumes should stay flat, but in value terms the industry expects about 30% growth.
-25. [Gold vs silver this Dhanteras: Price outlook, buying trends and key risks](https://www.cnbctv18.com/market/commodities/gold-vs-silver-this-dhanteras-price-outlook-buying-trends-risks-20027919.htm) — *CNBC-TV18*, 2026-11-05T08:32:17Z
+26. [Gold vs silver this Dhanteras: Price outlook, buying trends and key risks](https://www.cnbctv18.com/market/commodities/gold-vs-silver-this-dhanteras-price-outlook-buying-trends-risks-20027919.htm) — *CNBC-TV18*, 2026-11-05T08:32:17Z
    CNBC-TV18 weighs gold against silver for Dhanteras buyers: gold is about 20% below its January peak and silver roughly 50% below, after silver's much sharper October correction. The piece notes silver's higher volatility and industrial demand, and that lower prices are drawing festive buyers toward lighter gold pieces and silver jewellery.
-26. [Buying gold this Dhanteras? What investors should keep in mind](https://www.cnbctv18.com/personal-finance/buying-gold-this-dhanteras-what-investors-should-keep-in-mind-20027700.htm) — *CNBC-TV18*, 2026-11-05T05:04:00Z
+27. [Buying gold this Dhanteras? What investors should keep in mind](https://www.cnbctv18.com/personal-finance/buying-gold-this-dhanteras-what-investors-should-keep-in-mind-20027700.htm) — *CNBC-TV18*, 2026-11-05T05:04:00Z
    Ahead of Dhanteras on November 6, CNBC-TV18 notes gold prices have corrected and sets out what buyers check before purchasing: purity, BIS hallmarking, weight and making charges. The piece cites US bond yields, the dollar, inflation and geopolitics, plus the rupee and import duties at home, as the forces shaping prices, and quotes MMTC-PAMP on systematic buying.
-27. [Gold prices: 200% jump in 5 Dhanteras! 20-25% return possible next year, says Axis Direct](https://www.businesstoday.in/markets/stocks/story/gold-prices-200-jump-in-5-dhanteras-20-25-return-possible-next-year-says-axis-direct-565932-2026-11-05) — *Business Today*, 2026-11-05T09:42:00Z
+28. [Gold prices: 200% jump in 5 Dhanteras! 20-25% return possible next year, says Axis Direct](https://www.businesstoday.in/markets/stocks/story/gold-prices-200-jump-in-5-dhanteras-20-25-return-possible-next-year-says-axis-direct-565932-2026-11-05) — *Business Today*, 2026-11-05T09:42:00Z
    Gold has risen about 200% over the past five Dhanteras, and Axis Direct sees a possible 20-25% return next year, Business Today reports. The brokerage's view comes as gold trades near Rs 1.46 lakh per 10 g after a roughly 20% correction from its January peak, with Dhanteras buying due on November 6.
+29. [Why Your Dhanteras Gold Will Cost More And Weigh Less This Year](https://www.ndtvprofit.com/markets/why-your-dhanteras-gold-will-cost-more-and-weigh-less-this-year-12288201) — *NDTV Profit*, 2026-11-05T13:03:00Z
+   Gold has fallen nearly 30% from its January peak but still costs more than last Dhanteras, NDTV Profit says, citing World Gold Council data: the July-September domestic average was Rs 1,48,891 per 10 g, up 45% year on year. Indian demand rose 25% on the quarter but was 29% lower than a year ago, as discounts narrowed from $66 an ounce in September to $8 by mid-October.
