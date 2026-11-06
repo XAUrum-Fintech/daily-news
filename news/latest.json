@@ -1,21 +1,14 @@
 {
  "schema": "orob-news.v1",
- "edition_id": "2026-11-06T05:00Z",
- "generated_at": "2026-11-06T05:06:55Z",
+ "edition_id": "2026-11-06T06:00Z",
+ "generated_at": "2026-11-06T06:14:29Z",
  "window": {
   "from": "2026-11-06T04:00:00Z",
-  "to": "2026-11-06T05:00:00Z"
+  "to": "2026-11-06T06:00:00Z"
  },
  "insights": {
-  "headline": "Gold's rebound stalls near $4,100 on Dhanteras as traders await US payrolls",
-  "summary": "Spot gold held near $4,104 after Thursday's two-week high of $4,135, with FXEmpire saying the recovery has stalled at $4,150 resistance ahead of Friday's US payrolls report at 7 PM IST. MCX gold had risen about Rs 6,500 per 10 g in two days, and Dhanteras buying picked up with 24-carat gold at ₹1,44,506 per 10 g. Goldman Sachs cut its end-2026 gold forecast to $4,150 an ounce, citing a hawkish Fed.",
-  "points": [
-   "Spot gold near $4,104, up about 5.9% on the week; silver at $52.01.",
-   "FXEmpire says gold's recovery has stalled at $4,150 resistance; silver needs to clear $55.",
-   "US October payrolls due 7 PM IST; traders price a 68% chance of a December Fed hike.",
-   "Dhanteras today: 24K gold ₹1,44,506 per 10 g, over 20% below the 2026 peak.",
-   "Goldman Sachs cut its end-2026 gold forecast to $4,150 an ounce on a hawkish Fed."
-  ],
+  "headline": "Gold slips on Dhanteras as rate-hike bets firm before payrolls",
+  "summary": "Spot gold eased to about $4,040 an ounce after Thursday's two-week high near $4,147, with MCX gold down about Rs 2,300 per 10 g and silver about Rs 3,440 per kg on Dhanteras as traders raised December Fed hike bets to 71% ahead of tonight's US payrolls report at 7 PM IST.",
   "brief": {
    "schema": "orob-brief.v1",
    "brief_id": "2026-11-06-0738",
@@ -50,22 +43,31 @@
  },
  "trending": [
   {
-   "title": "Gold holds near $4,100 into Dhanteras; payrolls tonight",
-   "summary": "Bullion steadied near $4,104 into Dhanteras, but FXEmpire says the recovery has stalled at $4,150 resistance, with US payrolls at 7 PM IST set to steer December Fed hike bets.",
+   "title": "Gold gives back gains on Dhanteras; payrolls tonight",
+   "summary": "Spot gold slipped to about $4,040 after Thursday's two-week high near $4,147, with MCX gold down about Rs 2,300 per 10 g as December Fed hike bets hit 71% ahead of payrolls at 7 PM IST.",
    "item_ids": [
+    "ac1cf6c2850c1981",
+    "9d22210a314ff5b6",
     "93fd73cc0cef6c4b",
-    "00506f39c03283cd",
-    "28b5260449bd7f9c",
-    "7354a2404ce553d4"
+    "28b5260449bd7f9c"
    ]
   },
   {
-   "title": "Goldman cuts targets as a hawkish Fed caps the rally",
-   "summary": "Goldman Sachs lowered its end-2026 gold forecast to $4,150 an ounce, and Fed officials made the case for steady rate rises, keeping a lid on bullion's rebound.",
+   "title": "WGC: gold may be nearing an interim bottom",
+   "summary": "The World Gold Council says two of three historical recovery signals are in place after gold's roughly 25% fall from January's peak, though a sustained rebound is not assured.",
    "item_ids": [
-    "074117c0370a9ab2",
-    "93fd73cc0cef6c4b",
-    "94c031806f93a747"
+    "c5f561524276deec",
+    "dccca55cdadac75e"
+   ]
+  },
+  {
+   "title": "Dhanteras sales seen topping Rs 1 lakh crore",
+   "summary": "CAIT expects Dhanteras gold and silver sales to cross Rs 1 lakh crore, with jewellers reporting stronger footfalls and a shift to lighter pieces and coins as prices cool from record highs.",
+   "item_ids": [
+    "dbc19e2622910818",
+    "dccca55cdadac75e",
+    "884aa4b220c7acda",
+    "7354a2404ce553d4"
    ]
   },
   {
@@ -76,19 +78,33 @@
     "51c3fe9bb1c058a4",
     "28b5260449bd7f9c"
    ]
-  },
-  {
-   "title": "Dhanteras buying shifts lighter as value outruns volume",
-   "summary": "Jewellers expect value sales up 20-30% this Dhanteras even as volumes stay flat, with shoppers choosing lighter pieces and silver coins after the price correction.",
-   "item_ids": [
-    "884aa4b220c7acda",
-    "772b51d3b8964009",
-    "7354a2404ce553d4",
-    "440c2c38e7769abb"
-   ]
   }
  ],
  "items": [
+  {
+   "id": "ac1cf6c2850c1981",
+   "title": "MCX gold prices dip Rs 2,400/10g; silver falls Rs 3,400/kg on Dhanteras as rate hike bets rise again",
+   "summary": "MCX December gold fell about Rs 2,300 per 10 g to Rs 1,41,808 and silver about Rs 3,440 per kg to Rs 1,83,700 on Dhanteras, the Economic Times reports, as a firmer dollar and rising December Fed hike bets — now priced at 71% — pulled spot gold down 0.4% to $4,040 an ounce and silver 1.5% to $51.42. Goldman Sachs cut its end-2026 gold forecast to $4,150 an ounce.",
+   "url": "https://economictimes.indiatimes.com/markets/commodities/news/mcx-gold-prices-dip-rs-2400/10g-silver-falls-rs-3400/kg-on-dhanteras-as-rate-hike-bets-rise-again-buy-sell-or-hold/articleshow/135594450.cms",
+   "source": "Economic Times",
+   "source_domain": "economictimes.indiatimes.com",
+   "publisher_id": "economic-times",
+   "published_at": "2026-11-06T05:03:24Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/ac1cf6c2850c1981.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "silver",
+    "mcx"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "rank": 1
+  },
   {
    "id": "93fd73cc0cef6c4b",
    "title": "Gold set for weekly gain as markets await US payrolls data",
@@ -113,7 +129,31 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 1
+   "rank": 2
+  },
+  {
+   "id": "9d22210a314ff5b6",
+   "title": "Gold price crashes Rs 2,000, silver down by Rs 3,000 on Dhanteras 2026; key levels to track",
+   "summary": "MCX December gold fell Rs 2,054 per 10 g to Rs 1,42,061 in early trade and silver Rs 3,106 per kg to Rs 1,84,035, Business Today reports, tracking a global pullback on Dhanteras as a firmer dollar and revived rate-hike bets weighed on bullion ahead of the US payrolls report.",
+   "url": "https://www.businesstoday.in/personal-finance/news/story/gold-price-crashes-rs-2000-silver-down-by-rs-3000-on-dhanteras-2026-key-levels-to-track-566102-2026-11-06",
+   "source": "Business Today",
+   "source_domain": "businesstoday.in",
+   "publisher_id": "business-today",
+   "published_at": "2026-11-06T05:04:28Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/9d22210a314ff5b6.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "silver",
+    "mcx"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "rank": 3
   },
   {
    "id": "00506f39c03283cd",
@@ -138,11 +178,11 @@
     "fed"
    ],
    "breaking": false,
-   "rank": 2
+   "rank": 4
   },
   {
    "id": "28b5260449bd7f9c",
-   "rank": 3,
+   "rank": 5,
    "title": "Gold and Silver Forecast: Recovery Stalls Ahead of US Jobs Data",
    "summary": "FXEmpire's technical read says gold's recovery has stalled at $4,150 resistance and silver needs to clear $55 to extend its rebound, with traders pricing a 68% chance of a December Fed hike; weak hiring and slow wage growth in Friday's US jobs data could ease hike fears and support both metals.",
    "url": "https://www.fxempire.com/forecasts/article/gold-and-silver-forecast-recovery-stalls-ahead-of-us-jobs-data-1642877",
@@ -166,28 +206,30 @@
    "breaking": false
   },
   {
-   "id": "58bd0f7f94af0d6c",
-   "title": "Gold prices jump Rs 6,500/10 gram in 2 days; silver soars Rs 11,200/kg as soft dollar, fall oil boost mood",
-   "summary": "MCX gold added about Rs 6,400 per 10 g and silver about Rs 11,231 per kg over two sessions, with December gold futures at Rs 1,45,909 per 10 g, the Economic Times reports. Spot gold rose 1.9% to $4,134.83 an ounce, its highest since October 22, and spot silver 1.7% to $53.12, as a weaker dollar, falling US yields and crude oil down about 10% followed the Democrats' midterm sweep.",
-   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-jump-rs-6500/10-gram-in-2-days-silver-soars-rs-11200/kg-as-soft-dollar-fall-oil-boost-mood-key-levels-to-track/articleshow/135559699.cms",
-   "source": "Economic Times",
-   "source_domain": "economictimes.indiatimes.com",
-   "publisher_id": "economic-times",
-   "published_at": "2026-11-05T05:02:00Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/58bd0f7f94af0d6c.jpg",
+   "id": "c5f561524276deec",
+   "title": "Gold may be nearing interim bottom; broader macro outlook supports recovery: WGC",
+   "summary": "Gold may be nearing an interim bottom, the World Gold Council says in its November 5 commentary, with two of three historical recovery conditions in place and the macro backdrop stronger than after the 2011 peak; gold closed October at $3,913 an ounce, down 6.3% in the month, though elevated speculative positioning means a sustained recovery is not assured.",
+   "url": "https://www.devdiscourse.com/article/business/4002501-gold-may-be-nearing-interim-bottom-broader-macro-outlook-supports-recovery-wgc",
+   "source": "Devdiscourse",
+   "source_domain": "devdiscourse.com",
+   "publisher_id": "devdiscourse",
+   "published_at": "2026-11-06T05:19:16Z",
+   "image_url": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/06_11_2026_10_49_12_9058905.jpg&width=920&format=jpeg",
    "image_kind": "photo",
-   "category": "mcx",
-   "metals": [
-    "gold",
-    "silver"
-   ],
    "tags": [
     "gold",
-    "silver",
-    "mcx"
+    "global"
+   ],
+   "category": "global",
+   "metals": [
+    "gold"
    ],
    "breaking": false,
-   "rank": 4
+   "related_urls": [
+    "https://www.gold.org/goldhub/research/gold-market-commentary-october-2026",
+    "https://www.moneycontrol.com/news/business/commodities/gold-prices-may-be-nearing-a-bottom-after-25-fall-but-one-key-signal-is-missing-14072396.html"
+   ],
+   "rank": 6
   },
   {
    "id": "b9dc3ae6cc1bf515",
@@ -212,30 +254,30 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 5
+   "rank": 7
   },
   {
-   "id": "dad6421e02d684ee",
-   "rank": 6,
-   "title": "Gold Price Surges Back Above $4,000 – Is This the Start of a Much Bigger Rally?",
-   "summary": "The Gold & Silver Club argues gold's rebound above $4,000 could open a bigger rally, after a 3.4% jump on November 4 on a weaker dollar following the US midterm results; central banks bought a net 321 tonnes in the third quarter, and the firm's models project $4,900–$5,000 an ounce by the first quarter of 2027.",
-   "url": "https://www.fxempire.com/forecasts/article/gold-price-surges-back-above-4000-is-this-the-start-of-a-much-bigger-rally-1642824",
-   "source": "FXEmpire",
-   "source_domain": "fxempire.com",
-   "publisher_id": "fxempire",
-   "published_at": "2026-11-05T20:51:54Z",
-   "image_url": null,
-   "image_kind": "none",
+   "id": "dccca55cdadac75e",
+   "title": "Gold Rush This Dhanteras! World Gold Council On Prices, Demand & Jewellery Trends",
+   "summary": "World Gold Council India chief Sachin Jain told Times Now that buyers stayed buoyant through the recent price correction and he expects a strong Diwali buying platform, with lightweight daily-wear jewellery and old-gold exchange the key trends as shoppers favour smaller purchases.",
+   "url": "https://www.timesnownews.com/business-economy/economy/gold-rush-this-dhanteras-world-gold-council-on-prices-demand-jewellery-trends-article-156469556",
+   "source": "Times Now",
+   "source_domain": "timesnownews.com",
+   "publisher_id": "times-now",
+   "published_at": "2026-11-06T05:36:25Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/dccca55cdadac75e.jpg",
+   "image_kind": "photo",
    "tags": [
     "gold",
-    "global",
-    "central-banks"
+    "india",
+    "jewellery"
    ],
-   "category": "global",
+   "category": "festive",
    "metals": [
     "gold"
    ],
-   "breaking": false
+   "breaking": false,
+   "rank": 8
   },
   {
    "id": "7354a2404ce553d4",
@@ -260,30 +302,32 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 7
+   "rank": 9
   },
   {
-   "id": "c872565d8e5fcd10",
-   "title": "Gold rises to near $4,100 ahead of US NFP data",
-   "summary": "Gold rose to a more than two-week high near $4,085 in early Asian trading on Friday, helped by a weaker dollar and lower oil prices after the Democrats swept the US midterm elections. Traders now await the US September payrolls report, expected to show 65,000 jobs added with unemployment steady at 4.2%, for clues on the Fed's rate path; markets price about a 71% chance of a December rate rise.",
-   "url": "https://www.fxstreet.com/news/gold-rises-to-near-4-100-ahead-of-us-nfp-data-202611052330",
-   "source": "FXStreet",
-   "source_domain": "fxstreet.com",
-   "publisher_id": "fxstreet",
-   "published_at": "2026-11-05T23:30:12Z",
-   "image_url": "https://editorial.fxsstatic.com/images/i/gold-01.jpg",
+   "id": "dbc19e2622910818",
+   "title": "Dhanteras 2026: CAIT expects ₹1 lakh crore in gold & silver sales, AIJGF projects 10% YoY increase",
+   "summary": "Traders' body CAIT expects Dhanteras gold and silver sales to cross Rs 1 lakh crore across India, Business Today reports, with the All India Gem and Jewellery Federation projecting a 10% year-on-year rise as buyers shift to smaller, value-optimised pieces rather than cutting back entirely.",
+   "url": "https://www.businesstoday.in/india/story/dhanteras-2026-cait-expects-rs1-lakh-crore-in-gold-silver-sales-aijgf-projects-10-yoy-increase-566100-2026-11-06",
+   "source": "Business Today",
+   "source_domain": "businesstoday.in",
+   "publisher_id": "business-today",
+   "published_at": "2026-11-06T04:47:47Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/dbc19e2622910818.jpg",
    "image_kind": "photo",
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
    "tags": [
     "gold",
-    "global",
-    "fed"
+    "silver",
+    "india",
+    "jewellery"
+   ],
+   "category": "festive",
+   "metals": [
+    "gold",
+    "silver"
    ],
    "breaking": false,
-   "rank": 8
+   "rank": 10
   },
   {
    "key": "silver-investors",
@@ -310,7 +354,7 @@
     "https://www.investing.com/analysis/silvers-2027-surplus-forecast-puts-the-bullish-case-for-etf-demand-to-the-test-200690958",
     "https://www.fxstreet.com/analysis/why-the-silver-price-case-now-rests-on-investors-202611052034"
    ],
-   "rank": 9
+   "rank": 11
   },
   {
    "id": "85a94b86165de9f5",
@@ -333,7 +377,7 @@
    "metals": [
     "gold"
    ],
-   "rank": 10,
+   "rank": 12,
    "breaking": false
   },
   {
@@ -357,7 +401,7 @@
     "fed"
    ],
    "breaking": false,
-   "rank": 11
+   "rank": 13
   },
   {
    "id": "884aa4b220c7acda",
@@ -382,7 +426,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 12
+   "rank": 14
   },
   {
    "key": "csr-dhanteras",
@@ -408,11 +452,11 @@
    "image_url": "https://thecsrjournal.in/wp-content/uploads/2026/11/dhanteras-052138465-16x9_0-e1793865957306.webp",
    "image_kind": "photo",
    "breaking": false,
-   "rank": 13
+   "rank": 15
   },
   {
    "id": "440c2c38e7769abb",
-   "rank": 14,
+   "rank": 16,
    "title": "Gold vs silver this Dhanteras: Price outlook, buying trends and key risks",
    "summary": "CNBC-TV18 weighs gold against silver for Dhanteras buyers: gold is about 20% below its January peak and silver roughly 50% below, after silver's much sharper October correction. The piece notes silver's higher volatility and industrial demand, and that lower prices are drawing festive buyers toward lighter gold pieces and silver jewellery.",
    "url": "https://www.cnbctv18.com/market/commodities/gold-vs-silver-this-dhanteras-price-outlook-buying-trends-risks-20027919.htm",
@@ -456,7 +500,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 15
+   "rank": 17
   },
   {
    "key": "poland",
@@ -480,7 +524,7 @@
    "image_url": "https://www.mining.com/wp-content/uploads/2026/04/AdobeStock_402869767-1024x683.jpeg",
    "image_kind": "photo",
    "breaking": false,
-   "rank": 16
+   "rank": 18
   },
   {
    "id": "a5faf2e1434354b7",
@@ -509,7 +553,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 17
+   "rank": 19
   },
   {
    "id": "7d10f6f2b7118ab2",
@@ -533,7 +577,7 @@
     "india"
    ],
    "breaking": false,
-   "rank": 18
+   "rank": 20
   },
   {
    "breaking": false,
@@ -547,7 +591,7 @@
    ],
    "published_at": "2026-11-05T02:37:00Z",
    "publisher_id": "forex",
-   "rank": 19,
+   "rank": 21,
    "related_urls": [],
    "source": "FOREX.com",
    "source_domain": "forex.com",
@@ -581,7 +625,7 @@
    "metals": [
     "gold"
    ],
-   "rank": 20,
+   "rank": 22,
    "breaking": false
   },
   {
@@ -604,37 +648,55 @@
    "metals": [
     "gold"
    ],
-   "rank": 21,
+   "rank": 23,
    "breaking": false
   },
   {
-   "key": "etv",
-   "url": "https://www.etvbharat.com/en/business/gold-futures-rise-to-rs-1-dot-45-lakh-slash-10-gm-on-firm-spot-demand-silver-futures-decline-enn26110501987",
-   "title": "Gold Futures Rise To Rs 1.45 Lakh/10 Gm On Firm Spot Demand; Silver Futures Decline",
-   "summary": "MCX December gold futures rose Rs 1,947 to Rs 1,45,181 per 10 g on firm spot demand, while December silver futures eased Rs 28 to Rs 1,87,707 per kg, PTI reports via ETV Bharat. Gold futures in New York rose 1.24% to $4,110.88 an ounce, while silver globally slipped 0.56% to $52.51.",
-   "source": "ETV Bharat",
-   "source_domain": "etvbharat.com",
-   "publisher_id": "etv-bharat",
-   "published_at": "2026-11-05T06:52:00Z",
-   "image_url": "https://imgs.etvbharat.com/etvbharat/prod-images/05-11-2026/1200-675-28042424-thumbnail-16x9-goldsilver-aspera.jpg",
+   "id": "c872565d8e5fcd10",
+   "title": "Gold rises to near $4,100 ahead of US NFP data",
+   "summary": "Gold rose to a more than two-week high near $4,085 in early Asian trading on Friday, helped by a weaker dollar and lower oil prices after the Democrats swept the US midterm elections. Traders now await the US September payrolls report, expected to show 65,000 jobs added with unemployment steady at 4.2%, for clues on the Fed's rate path; markets price about a 71% chance of a December rate rise.",
+   "url": "https://www.fxstreet.com/news/gold-rises-to-near-4-100-ahead-of-us-nfp-data-202611052330",
+   "source": "FXStreet",
+   "source_domain": "fxstreet.com",
+   "publisher_id": "fxstreet",
+   "published_at": "2026-11-05T23:30:12Z",
+   "image_url": "https://editorial.fxsstatic.com/images/i/gold-01.jpg",
+   "image_kind": "photo",
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "tags": [
+    "gold",
+    "global",
+    "fed"
+   ],
+   "breaking": false,
+   "rank": 24
+  },
+  {
+   "id": "548a8fcdf9e33a94",
+   "title": "Dhanteras 2026: Buying gold or silver? Know how jewellery, coins, ETFs and SGBs are taxed",
+   "summary": "Tax on gold and silver depends on the form bought, Moneycontrol explains: long-term capital gains are taxed at 12.5% without indexation and short-term gains at the buyer's income-tax slab rate, with different treatment for physical metal, digital gold, ETFs, mutual funds and Sovereign Gold Bonds; inherited or gifted gold is not taxed on receipt.",
+   "url": "https://www.moneycontrol.com/news/business/personal-finance/dhanteras-2026-buying-gold-or-silver-know-how-jewellery-coins-etfs-and-sgbs-are-taxed-14071715.html",
+   "source": "Moneycontrol",
+   "source_domain": "moneycontrol.com",
+   "publisher_id": "moneycontrol",
+   "published_at": "2026-11-06T04:30:15Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/548a8fcdf9e33a94.jpg",
    "image_kind": "photo",
    "tags": [
     "gold",
     "silver",
-    "mcx",
     "india"
    ],
-   "category": "mcx",
+   "category": "policy",
    "metals": [
     "gold",
     "silver"
    ],
-   "related_urls": [
-    "https://money.rediff.com/news/market/silver-futures-decline-to-rs-1-87-lakh-kg-on-mcx/57552420261105"
-   ],
-   "id": "06fbda180b0d9674",
    "breaking": false,
-   "rank": 22
+   "rank": 25
   }
  ]
 }
