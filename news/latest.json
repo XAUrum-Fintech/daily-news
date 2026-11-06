@@ -1,17 +1,17 @@
 {
  "schema": "orob-news.v1",
- "edition_id": "2026-11-06T08:00Z",
- "generated_at": "2026-11-06T08:15:30Z",
+ "edition_id": "2026-11-06T09:00Z",
+ "generated_at": "2026-11-06T09:05:46Z",
  "window": {
-  "from": "2026-11-06T07:00:00Z",
-  "to": "2026-11-06T08:00:00Z"
+  "from": "2026-11-06T08:00:00Z",
+  "to": "2026-11-06T09:00:00Z"
  },
  "insights": {
   "headline": "MCX gold slips about Rs 2,300 per 10 g on Dhanteras as Fed hike bets rise; rupee hits a six-month high",
-  "summary": "MCX December gold fell about Rs 2,300 per 10 g to Rs 1,41,808 and silver about Rs 3,440 per kg to Rs 1,83,700 on Dhanteras, as a firmer dollar and December Fed hike bets priced at 71% pulled spot gold to $4,040 an ounce. The rupee strengthened to 94.06, its best in over six months, on a softer dollar and falling crude. Jewellers report festive buying picking up as prices cool from record highs, with CAIT expecting about Rs 1 lakh crore in gold and silver sales. Markets now await the US October payrolls report tonight at 7 PM IST, which could shift December rate-hike bets.",
+  "summary": "MCX December gold fell about Rs 2,300 per 10 g to Rs 1,41,808 and silver about Rs 3,440 per kg to Rs 1,83,700 on Dhanteras, as a firmer dollar and December Fed hike bets priced at 71% pulled spot gold back from a $4,147 high. The rupee strengthened to 94.06, its best in over six months, on a softer dollar and falling crude. Jewellers report festive buying picking up as prices cool from record highs, with CAIT expecting about Rs 1 lakh crore in gold and silver sales. Markets now await the US October payrolls report tonight at 7 PM IST, which could shift December rate-hike bets.",
   "points": [
    "MCX December gold fell about Rs 2,300 per 10 g to Rs 1,41,808 and silver about Rs 3,440 per kg to Rs 1,83,700 on Dhanteras.",
-   "Spot gold eased to $4,040 an ounce and silver to $51.42 as the dollar firmed; December Fed hike bets are now priced at 71%.",
+   "Spot gold rose to $4,147 an ounce on November 5, its highest since October 20, before easing as the dollar firmed; December Fed hike bets are now priced at 71%.",
    "The rupee strengthened to 94.06, its strongest in over six months, on a softer dollar, cheaper crude and renewed foreign inflows.",
    "The World Gold Council says gold may be nearing an interim bottom after October's 6.3% fall to $3,913 an ounce.",
    "Watch tonight: the US October payrolls report at 7 PM IST, which could shift December rate-hike bets and the dollar."
@@ -70,7 +70,8 @@
    "summary": "Gold is caught between a softer dollar after the US midterms and rising December hike bets; tonight's US jobs report at 7 PM IST could tip the balance.",
    "item_ids": [
     "b9dc3ae6cc1bf515",
-    "00506f39c03283cd"
+    "00506f39c03283cd",
+    "28d468b12ec358d9"
    ]
   },
   {
@@ -83,11 +84,10 @@
    ]
   },
   {
-   "title": "India's backdrop: rupee, rates, hallmarking",
-   "summary": "The rupee hit a six-month high of 94.06, Uday Kotak flagged up to 75 bps more of RBI hikes, and BIS hallmarking crossed 65 crore articles.",
+   "title": "India's backdrop: rupee and hallmarking",
+   "summary": "The rupee hit a six-month high of 94.06 on a softer dollar and falling crude, while BIS hallmarking crossed 65 crore gold articles ahead of Dhanteras.",
    "item_ids": [
     "81a70e645a54b2b4",
-    "7d10f6f2b7118ab2",
     "2f220a33ec9a726b"
    ]
   }
@@ -195,6 +195,29 @@
    "rank": 4
   },
   {
+   "id": "28d468b12ec358d9",
+   "rank": 5,
+   "title": "Gold Price Outlook: US midterm outcome mildly positive for gold, but Fed risks persist: Analyst",
+   "summary": "Gold rose to $4,147 an ounce on November 5, its highest since October 20, rebounding from a one-year low of $3,870 on October 30 after Democrats took both chambers of Congress in the US midterms. Mirae Asset Sharekhan's Praveen Singh called the outcome mildly positive for gold, but warned gains could be limited if firm US data or higher oil keeps December Fed hike bets alive.",
+   "url": "https://www.business-standard.com/markets/news/us-midterm-outcome-mildly-positive-for-gold-but-fed-risks-persist-analyst-126110600639_1.html",
+   "source": "Business Standard",
+   "source_domain": "business-standard.com",
+   "publisher_id": "business-standard",
+   "published_at": "2026-11-06T06:19:00Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/28d468b12ec358d9.jpg",
+   "image_kind": "photo",
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "tags": [
+    "gold",
+    "fed",
+    "global"
+   ],
+   "breaking": false
+  },
+  {
    "id": "d5734da5e633d179",
    "title": "Gold price outlook: World Gold Council sees signs of an interim bottom",
    "summary": "The World Gold Council says gold may be nearing an interim bottom after a 6.3% October fall to $3,913, with two of three recovery conditions — technical dislocation and dollar strength — in place. Speculative positions have yet to wash out. The Council sees a correction as more likely than a prolonged post-2011-style downturn, citing restrictive real yields, a strong dollar and geopolitical risk.",
@@ -218,7 +241,7 @@
     "https://www.devdiscourse.com/article/business/4002501-gold-may-be-nearing-interim-bottom-broader-macro-outlook-supports-recovery-wgc",
     "https://www.gold.org/goldhub/research/gold-market-commentary-october-2026"
    ],
-   "rank": 5
+   "rank": 6
   },
   {
    "id": "00506f39c03283cd",
@@ -243,7 +266,7 @@
     "fed"
    ],
    "breaking": false,
-   "rank": 6
+   "rank": 7
   },
   {
    "id": "c872565d8e5fcd10",
@@ -266,7 +289,7 @@
     "fed"
    ],
    "breaking": false,
-   "rank": 7
+   "rank": 8
   },
   {
    "id": "343f284860a8ab07",
@@ -288,11 +311,11 @@
     "global"
    ],
    "breaking": false,
-   "rank": 8
+   "rank": 9
   },
   {
    "id": "28b5260449bd7f9c",
-   "rank": 9,
+   "rank": 10,
    "title": "Gold and Silver Forecast: Recovery Stalls Ahead of US Jobs Data",
    "summary": "FXEmpire's technical read says gold's recovery has stalled at $4,150 resistance and silver needs to clear $55 to extend its rebound, with traders pricing a 68% chance of a December Fed hike; weak hiring and slow wage growth in Friday's US jobs data could ease hike fears and support both metals.",
    "url": "https://www.fxempire.com/forecasts/article/gold-and-silver-forecast-recovery-stalls-ahead-of-us-jobs-data-1642877",
@@ -336,7 +359,7 @@
    "metals": [
     "gold"
    ],
-   "rank": 10,
+   "rank": 11,
    "breaking": false
   },
   {
@@ -360,7 +383,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 11
+   "rank": 12
   },
   {
    "id": "dbc19e2622910818",
@@ -385,7 +408,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 12
+   "rank": 13
   },
   {
    "id": "dccca55cdadac75e",
@@ -408,7 +431,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 13
+   "rank": 14
   },
   {
    "id": "884aa4b220c7acda",
@@ -433,7 +456,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 14
+   "rank": 15
   },
   {
    "id": "7354a2404ce553d4",
@@ -458,7 +481,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 15
+   "rank": 16
   },
   {
    "key": "csr-dhanteras",
@@ -484,11 +507,11 @@
    "image_url": "https://thecsrjournal.in/wp-content/uploads/2026/11/dhanteras-052138465-16x9_0-e1793865957306.webp",
    "image_kind": "photo",
    "breaking": false,
-   "rank": 16
+   "rank": 17
   },
   {
    "id": "440c2c38e7769abb",
-   "rank": 17,
+   "rank": 18,
    "title": "Gold vs silver this Dhanteras: Price outlook, buying trends and key risks",
    "summary": "CNBC-TV18 weighs gold against silver for Dhanteras buyers: gold is about 20% below its January peak and silver roughly 50% below, after silver's much sharper October correction. The piece notes silver's higher volatility and industrial demand, and that lower prices are drawing festive buyers toward lighter gold pieces and silver jewellery.",
    "url": "https://www.cnbctv18.com/market/commodities/gold-vs-silver-this-dhanteras-price-outlook-buying-trends-risks-20027919.htm",
@@ -532,7 +555,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 18
+   "rank": 19
   },
   {
    "key": "silver-investors",
@@ -559,7 +582,7 @@
     "https://www.investing.com/analysis/silvers-2027-surplus-forecast-puts-the-bullish-case-for-etf-demand-to-the-test-200690958",
     "https://www.fxstreet.com/analysis/why-the-silver-price-case-now-rests-on-investors-202611052034"
    ],
-   "rank": 19
+   "rank": 20
   },
   {
    "breaking": false,
@@ -573,7 +596,7 @@
    ],
    "published_at": "2026-11-05T02:37:00Z",
    "publisher_id": "forex",
-   "rank": 20,
+   "rank": 21,
    "related_urls": [],
    "source": "FOREX.com",
    "source_domain": "forex.com",
@@ -607,7 +630,7 @@
     "fed"
    ],
    "breaking": false,
-   "rank": 21
+   "rank": 22
   },
   {
    "id": "94c031806f93a747",
@@ -630,7 +653,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 22
+   "rank": 23
   },
   {
    "key": "poland",
@@ -653,30 +676,6 @@
    "id": "5635d6b008e779e3",
    "image_url": "https://www.mining.com/wp-content/uploads/2026/04/AdobeStock_402869767-1024x683.jpeg",
    "image_kind": "photo",
-   "breaking": false,
-   "rank": 23
-  },
-  {
-   "id": "7d10f6f2b7118ab2",
-   "title": "Reserve Bank of India may hike rates by up to 75 bps more: Uday Kotak",
-   "summary": "Uday Kotak expects the RBI to raise the repo rate by another 50-75 basis points after its first increase this year, warning the tightening is weighing on long-term bonds, Business Standard reports. He cited prolonged West Asia risks and sharply higher oil, and noted India's deficit was only $26 billion in 2025-26 even after $72 billion of gold imports.",
-   "url": "https://www.business-standard.com/markets/news/reserve-bank-of-india-may-hike-rates-by-up-to-75-bps-more-uday-kotak-126110501915_1.html",
-   "source": "Business Standard",
-   "source_domain": "business-standard.com",
-   "publisher_id": "business-standard",
-   "published_at": "2026-11-05T18:17:00Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/7d10f6f2b7118ab2.jpg",
-   "image_kind": "photo",
-   "category": "mcx",
-   "metals": [
-    "gold"
-   ],
-   "tags": [
-    "gold",
-    "rbi",
-    "rupee",
-    "india"
-   ],
    "breaking": false,
    "rank": 24
   },
