@@ -1,6 +1,6 @@
 {
   "schema": "macro-events.v1",
-  "generated_at": "2026-11-06T00:28:00Z",
+  "generated_at": "2026-11-06T13:34:51Z",
   "event_count": 20,
   "events": [
     {
@@ -251,15 +251,45 @@
       "id": "us-jobs-2026-11-06",
       "kind": "us_jobs",
       "title": "US jobs report",
-      "status": "scheduled",
+      "status": "released",
       "scheduled_at": "2026-11-06T08:30:00-05:00",
       "scheduled_tz": "America/New_York",
-      "metrics": [],
-      "revisions": [],
-      "summary": "Monthly count of US jobs added, and the unemployment rate.",
+      "metrics": [
+        {
+          "actual": 165,
+          "forecast": null,
+          "key": "nonfarm_payrolls",
+          "label": "Payrolls",
+          "previous": 72,
+          "previous_first_print": 41,
+          "unit": "thousand_jobs"
+        },
+        {
+          "actual": 4.1,
+          "forecast": null,
+          "key": "unemployment_rate",
+          "label": "Unemployment",
+          "previous": 4.2,
+          "previous_first_print": null,
+          "unit": "percent"
+        }
+      ],
+      "revisions": [
+        {
+          "from": 133,
+          "label": "August",
+          "to": 186
+        },
+        {
+          "from": 41,
+          "label": "September",
+          "to": 72
+        }
+      ],
+      "summary": "October payrolls rose 165,000; unemployment was 4.1 percent.",
       "forecast_source": null,
       "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
-      "published_at": null
+      "published_at": "2026-11-06T13:34:51Z"
     },
     {
       "id": "us-jobs-2026-12-04",
