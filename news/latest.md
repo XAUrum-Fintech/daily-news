@@ -1,14 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-11-07T18:00Z
-
-## Today's brief
-
-**Gold ends best week since August near $4,050**
-
-MCX gold ended near Rs 1,42,364 per 10 g and silver near Rs 1,84,977 per kg after payrolls of 165,000 lifted the dollar.
-
-- FXStreet says strong US payrolls lifted the dollar and yields; Kitco says gold stayed above $4,000 support despite the jobs beat.
-- Dhanteras trade hit a record Rs 1.25 lakh crore, CAIT said, as the price dip drew buyers back; the rupee strengthened past 94 per dollar.
-- Watch next: US CPI on Tuesday 10 November at 19:00 IST, the next test for Fed hike bets; UniCredit sees gold in a $3,900-$4,500 range.
+# Gold & Silver for Indian buyers · 2026-11-07T20:00Z
 
 > Gold steadies near $4,050 after payrolls shock; World Bank sees $4,000 floor through 2028
 
@@ -21,11 +11,11 @@ Spot gold steadied near $4,050 after US October payrolls of 165,000 — more tha
 - China's central bank added about 830,000 ounces of gold in October, its 24th straight month of buying.
 
 ## Trending
-- **Payrolls beat keeps Fed hike bets alive**: October payrolls of 165,000, more than double the forecast, lifted the dollar and December hike odds to 77%, pulling spot gold toward $4,050. Gold held above $4,000 support despite the jobs beat. (stories 1, 8, 7, 9)
-- **Dhanteras dip draws buyers back**: Gold eased on Dhanteras yet festive buying stayed strong: trade hit a record Rs 1.25 lakh crore. Quick commerce delivered 14,000+ gold and silver coins an hour at peak. (stories 6, 16, 13, 17, 18)
-- **Rupee past 94 as oil slides and inflows return**: The rupee strengthened past 94 per dollar to its best since April as Brent fell nearly 20% on the week and foreign investors bought nearly $3 billion of Indian equities. (stories 19, 25, 24)
-- **Big banks split on where gold goes next**: The World Bank sees gold averaging $4,600 in 2026 before easing to $4,000 by 2028, while Jefferies says an AI-spending peak could flip Fed expectations toward easing. (stories 4, 5, 12, 21)
-- **Silver's week: gains hold despite rate fears**: Silver eased with gold on Friday but stayed on track for its first weekly gain in five weeks. Metals Focus now expects a 2027 surplus, with the price case resting on fund inflows. (stories 15, 26, 21, 22)
+- **Payrolls beat keeps Fed hike bets alive**: October payrolls of 165,000, more than double the forecast, lifted the dollar and December hike odds to 77%, pulling spot gold toward $4,050. Gold held above $4,000 support despite the jobs beat. (stories 593448fbd00e0883, bfe963e447f0aaa9, 2b27189bf21c45dc, 316220f906c7cb1b)
+- **Dhanteras dip draws buyers back**: Gold eased on Dhanteras yet festive buying stayed strong: trade hit a record Rs 1.25 lakh crore. Quick commerce delivered 14,000+ gold and silver coins an hour at peak. (stories 4f1f70f33be4780f, 7e7016758097ed8f, 3ea53052daf7b184, 873c9a50414ec914, 54d6c6b81cb96d71)
+- **Rupee past 94 as oil slides and inflows return**: The rupee strengthened past 94 per dollar to its best since April as Brent fell nearly 20% on the week and foreign investors bought nearly $3 billion of Indian equities. (stories 2aff9b732b388275, 483c7a8a3e6f633e, ec930f039229503b)
+- **Big banks split on where gold goes next**: The World Bank sees gold averaging $4,600 in 2026 before easing to $4,000 by 2028, while Jefferies says an AI-spending peak could flip Fed expectations toward easing. (stories 66fb686997431dec, 39a05ef98f976b1c, 9979207ba7b98b6c, 29eb983c6c89d201)
+- **Silver's week: gains hold despite rate fears**: Silver eased with gold on Friday but stayed on track for its first weekly gain in five weeks. Metals Focus now expects a 2027 surplus, with the price case resting on fund inflows. (stories 6d8245c1cc624344, aa12c1f6a69a3ef2, 29eb983c6c89d201)
 
 ## Stories
 1. [Gold, silver turn volatile after strong US jobs data, but remain on track to snap multi-week losing streaks](https://www.livemint.com/market/stock-market-news/gold-silver-turn-volatile-after-strong-us-jobs-data-but-remain-on-track-to-snap-multi-week-losing-streaks-11793985166600.html) — *Mint*, 2026-11-06T17:25:16Z
@@ -70,17 +60,15 @@ Spot gold steadied near $4,050 after US October payrolls of 165,000 — more tha
    NSE logged its highest-ever Electronic Gold Receipt volumes on Dhanteras, with 2,27,692 units traded, as festive buyers used the exchange-traded, dematerialised route to hold gold instead of taking physical delivery.
 21. [Silver Price Prediction: BofA Forecasts $75 On Data-Centre Risks](https://www.exchangerates.org.uk/news/47701/2026-11-07-silver-price-prediction-bofa-forecasts-75-on-data-centre-risks.html) — *Exchange Rates UK*, 2026-11-07T08:00:00Z
    Bank of America still expects silver to average $75 an ounce in the second and third quarters of 2027, with a full-year average of $70, on demand from AI data centres. But delays to US data-centre construction could push equipment purchases, and the bank's expected price recovery, into later quarters. Spot silver rose 0.65% to $52.03 on Friday as investors reassessed the AI sell-off.
-22. [Why the silver price case now rests on investors](https://www.fxempire.com/forecasts/article/why-the-silver-price-case-now-rests-on-investors-1642795) — *FXEmpire*, 2026-11-05T19:47:45Z
-   Metals Focus, which compiles the World Silver Survey, now expects a 37.3-million-ounce silver surplus in 2027 as solar panel makers use less silver per panel, yet still sees a higher average price next year. Its case rests on investors: only large inflows into funds holding physical silver can absorb the surplus. Fund holdings are down about 60 million ounces this year.
-23. [Gold price gains 3% in 5 days: Why Indian investors should not rush yet](https://www.financialexpress.com/market/gold-pulse/gold-price-gains-3-in-5-days-why-indian-investors-should-not-rush-yet/4378735/) — *Financial Express*, 2026-11-07T01:37:00Z
+22. [Gold price gains 3% in 5 days: Why Indian investors should not rush yet](https://www.financialexpress.com/market/gold-pulse/gold-price-gains-3-in-5-days-why-indian-investors-should-not-rush-yet/4378735/) — *Financial Express*, 2026-11-07T01:37:00Z
    Gold in India has gained 3% in the last five trading days to about Rs 1.41 lakh per 10 g, and is up 6% since the start of 2026, the Financial Express reports, while flagging headwinds including oil near $98 a barrel and a 70% chance of a December Fed rate hike.
-24. [India's forex reserves fall by $2.69 billion to $717.05 billion as RBI steps in to defend rupee](https://www.moneycontrol.com/news/business/commodities/india-s-forex-reserves-fall-by-2-69-billion-to-717-05-billion-as-rbi-steps-in-to-defend-rupee-14073420.html) — *Moneycontrol*, 2026-11-06T11:57:00Z
+23. [India's forex reserves fall by $2.69 billion to $717.05 billion as RBI steps in to defend rupee](https://www.moneycontrol.com/news/business/commodities/india-s-forex-reserves-fall-by-2-69-billion-to-717-05-billion-as-rbi-steps-in-to-defend-rupee-14073420.html) — *Moneycontrol*, 2026-11-06T11:57:00Z
    India's forex reserves fell $2.69 billion to $717.05 billion in the week ended October 30, RBI data showed, as the central bank sold dollars to defend the rupee. Foreign currency assets fell $2.09 billion to $591.12 billion, while the value of gold reserves declined $559 million to $102.59 billion. Reserves have fallen from a record $785.71 billion in early September.
-25. [Rupee hits six-month high of 93.91 against dollar on oil price decline](https://www.business-standard.com/economy/news/rupee-hits-six-month-high-of-93-91-against-dollar-on-oil-price-decline-126110601558_1.html) — *Business Standard*, 2026-11-06T12:37:00Z
+24. [Rupee hits six-month high of 93.91 against dollar on oil price decline](https://www.business-standard.com/economy/news/rupee-hits-six-month-high-of-93-91-against-dollar-on-oil-price-decline-126110601558_1.html) — *Business Standard*, 2026-11-06T12:37:00Z
    The rupee gained 0.6% to close at 93.91 per dollar, its strongest since 22 April and a sixth straight daily gain, as falling crude oil prices and foreign inflows into equities lifted the currency. Brent crude eased to $96.84 a barrel. India's forex reserves fell to $717.06 billion in the week ended October 30.
-26. [Inflation, rate-hike woes to limit gains in silver, may retest $48: Analyst](https://www.business-standard.com/markets/news/inflation-rate-hike-woes-to-limit-gains-in-silver-may-retest-48-analyst-126110600692_1.html) — *Business Standard*, 2026-11-06T06:40:40Z
+25. [Inflation, rate-hike woes to limit gains in silver, may retest $48: Analyst](https://www.business-standard.com/markets/news/inflation-rate-hike-woes-to-limit-gains-in-silver-may-retest-48-analyst-126110600692_1.html) — *Business Standard*, 2026-11-06T06:40:40Z
    Silver may retest $48 if it fails to recover above $55, Mirae Asset Sharekhan's Praveen Singh said, after the metal broke below $54.50 support and hit a one-year low of $48.61 on 3 November. He blamed a firmer dollar, rate-hike worries after strong US jobs and ISM data, and hawkish Fed comments, though tight physical supply and ETF inflows are cushioning the fall.
-27. [Dhanteras 2026: Buying gold or silver? Know how jewellery, coins, ETFs and SGBs are taxed](https://www.moneycontrol.com/news/business/personal-finance/dhanteras-2026-buying-gold-or-silver-know-how-jewellery-coins-etfs-and-sgbs-are-taxed-14071715.html) — *Moneycontrol*, 2026-11-06T04:30:15Z
+26. [Dhanteras 2026: Buying gold or silver? Know how jewellery, coins, ETFs and SGBs are taxed](https://www.moneycontrol.com/news/business/personal-finance/dhanteras-2026-buying-gold-or-silver-know-how-jewellery-coins-etfs-and-sgbs-are-taxed-14071715.html) — *Moneycontrol*, 2026-11-06T04:30:15Z
    Tax on gold and silver depends on the form bought, Moneycontrol explains: long-term capital gains are taxed at 12.5% without indexation and short-term gains at the buyer's income-tax slab rate, with different treatment for physical metal, digital gold, ETFs, mutual funds and Sovereign Gold Bonds; inherited or gifted gold is not taxed on receipt.
-28. [BIS hallmarking crosses 65-crore gold articles as HUID system strengthens jewellery traceability](https://digitalindiatimes.com/bis-hallmarking-crosses-65-crore-gold-articles-as-huid-system-strengthens-jewellery-traceability/) — *Digital India Times*, 2026-11-06T06:46:43Z
+27. [BIS hallmarking crosses 65-crore gold articles as HUID system strengthens jewellery traceability](https://digitalindiatimes.com/bis-hallmarking-crosses-65-crore-gold-articles-as-huid-system-strengthens-jewellery-traceability/) — *Digital India Times*, 2026-11-06T06:46:43Z
    More than 65 crore gold jewellery articles have received HUID numbers since mandatory hallmarking began in 2021, the government said, with registered jewellers up to 2,36,624 and assaying centres to 1,565. BIS carried out over 30 enforcement actions against hallmark misuse in 2025–26, including seizures of fake-hallmarked jewellery. Buyers can verify the six-digit HUID in the BIS Care app.
