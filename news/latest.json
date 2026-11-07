@@ -1,20 +1,20 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-07T08:00Z",
-  "generated_at": "2026-11-07T08:04:43Z",
+  "edition_id": "2026-11-07T09:00Z",
+  "generated_at": "2026-11-07T09:06:40Z",
   "window": {
-    "from": "2026-11-07T07:00:00Z",
-    "to": "2026-11-07T08:00:00Z"
+    "from": "2026-11-07T08:00:00Z",
+    "to": "2026-11-07T09:00:00Z"
   },
   "insights": {
-    "headline": "Gold steadies near $4,050 after payrolls shock; Dhanteras trade hits record Rs 1.25 lakh crore",
-    "summary": "Spot gold steadied near $4,050 after US October payrolls of 165,000 — more than double the 65,000 forecast — lifted the dollar and December Fed hike bets to 77%. MCX gold eased Rs 1,700 per 10 g to Rs 1,42,930 and silver 1.26% to Rs 1,84,800 on Dhanteras, though both stayed on track for weekly gains. Dhanteras trade hit a record Rs 1.25 lakh crore, CAIT said, and the rupee strengthened past 94 per dollar to its best since April.",
+    "headline": "Gold steadies near $4,050 after payrolls shock; strongest weekly gain since August",
+    "summary": "Spot gold steadied near $4,050 after US October payrolls of 165,000 — more than double the 65,000 forecast — lifted the dollar and December Fed hike bets to 77%. Gold still logged its strongest weekly gain since August, up nearly 4.5%, while MCX gold ended near Rs 1,42,364 per 10 g. Dhanteras trade hit a record Rs 1.25 lakh crore, CAIT said, and the rupee strengthened past 94 per dollar to its best since April.",
     "points": [
       "US October payrolls rose 165,000, more than double the 65,000 forecast, lifting the dollar and December Fed hike bets to 77%.",
-      "Spot gold fell toward $4,050, down about 1.2% on the day, after touching a two-week high of $4,146 on Thursday; it stayed up about 4% on the week.",
-      "MCX December gold fell about Rs 1,700 per 10 g to Rs 1,42,930 and silver eased 1.26% to Rs 1,84,800, though both stayed on track for weekly gains.",
-      "Silver may retest $48 if it fails to recover above $55, Mirae Asset Sharekhan said, after spot silver hit a one-year low of $48.61 on 3 November.",
-      "India's gold demand fell 29% to 162.5 tonnes in Q3, the World Gold Council said, though its value rose 3% to Rs 2.41 lakh crore."
+      "Gold rose nearly 4.5% on the week, its strongest weekly gain since August, as crude oil plunged more than 12%.",
+      "MCX December gold ended near Rs 1,42,364 per 10 g and silver near Rs 1,84,977 per kg; gold is about 21% below its record high.",
+      "Dhanteras trade hit a record Rs 1.25 lakh crore, CAIT said, with gold and silver sales over Rs 66,000 crore.",
+      "Bank of America still sees silver averaging $75 in mid-2027 on data-centre demand, though construction delays could push the recovery later."
     ],
     "brief": {
       "schema": "orob-brief.v1",
@@ -55,10 +55,10 @@
       "summary": "October payrolls of 165,000, more than double the forecast, lifted the dollar and December hike odds, pulling spot gold toward $4,050. Wall Street is split on next week; Main Street stays bullish.",
       "item_ids": [
         "593448fbd00e0883",
+        "bfe963e447f0aaa9",
         "183dff19d6f83d59",
         "e3f52c2454a2a3d1",
         "2b27189bf21c45dc",
-        "e65a306645fb2efd",
         "2e7f4f53fd613c40"
       ]
     },
@@ -67,10 +67,9 @@
       "summary": "Gold eased on Dhanteras yet festive buying stayed strong: trade hit a record Rs 1.25 lakh crore, jewellers reported footfalls, and Reuters says demand picked up as prices slid to a seven-month low.",
       "item_ids": [
         "4f1f70f33be4780f",
-        "593448fbd00e0883",
         "7e7016758097ed8f",
-        "4e16968ed73bfad2",
-        "3ea53052daf7b184"
+        "3ea53052daf7b184",
+        "2e7f4f53fd613c40"
       ]
     },
     {
@@ -84,19 +83,21 @@
     },
     {
       "title": "Silver's week: gains hold despite rate fears",
-      "summary": "Silver eased with gold on Friday but stayed on track for its first weekly gain in five weeks; analysts warn it may retest $48 if it cannot clear $55, while next week's US CPI is the next test.",
+      "summary": "Silver eased with gold on Friday but stayed on track for its first weekly gain in five weeks; analysts warn it may retest $48 if it cannot clear $55, while BofA still sees $75 in mid-2027.",
       "item_ids": [
         "6d8245c1cc624344",
         "aa12c1f6a69a3ef2",
+        "29eb983c6c89d201",
         "593448fbd00e0883"
       ]
     },
     {
-      "title": "China's central bank keeps buying the dip",
-      "summary": "The PBOC added 830,000 ounces in October, its 24th straight month of buying, even as gold fell almost 7% in October — steady official demand under a falling price.",
+      "title": "Gold's strongest week since August",
+      "summary": "Gold rose nearly 4.5% for the week, its strongest since August, as crude oil plunged over 12% after the US midterms; MCX gold ended near Rs 1,42,364 per 10 g.",
       "item_ids": [
-        "6341f8a41049f084",
-        "da8205cec61fc511"
+        "b23b1c40ab850802",
+        "593448fbd00e0883",
+        "74ee04546586334b"
       ]
     }
   ],
@@ -128,28 +129,32 @@
       "rank": 1
     },
     {
-      "category": "festive",
+      "id": "b23b1c40ab850802",
+      "title": "Gold Logs Strongest Weekly Gain Since August As Crude Oil Plunges Over 12%",
+      "summary": "Gold rose nearly 4.5% this week, its strongest weekly gain since August, as crude oil plunged more than 12% after the US midterm elections. MCX December gold eased 1.2% on Friday to Rs 1,42,364 per 10 g, while silver edged up to Rs 1,84,977 per kg. Prices pulled back from the week's highs after strong US jobs data lifted the dollar and Treasury yields.",
+      "url": "https://www.bizzbuzz.news/market/commodities/gold-silver-rates/gold-logs-strongest-weekly-gain-since-august-as-crude-oil-plunges-over-12-pc-1414470",
+      "source": "BizzBuzz",
+      "source_domain": "bizzbuzz.news",
+      "publisher_id": "bizzbuzz",
+      "published_at": "2026-11-07T07:42:28Z",
+      "image_url": "https://assets.bizzbuzz.news/h-upload/2026/11/07/2017447-gold-logs-strongest-weekly-gain-since-august-as-crude-oil-plunges-over-12-pc.jpg",
       "image_kind": "photo",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/4f1f70f33be4780f.jpg",
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "global"
+      ],
+      "category": "global",
       "metals": [
         "gold",
         "silver"
       ],
-      "published_at": "2026-11-07T04:28:24Z",
-      "publisher_id": "cnbc-tv18",
-      "source": "CNBC-TV18",
-      "source_domain": "cnbctv18.com",
-      "summary": "Gold and silver sales crossed ₹60,000 crore on Dhanteras, the GJC estimated, with gold sales value up 15-20% on last year while volumes stayed broadly flat; silver sales rose 30% by value and 10% by volume. Jewellers from Kalyan to Senco reported higher footfalls and strong demand for lightweight jewellery and small coins after the price correction.",
-      "tags": [
-        "gold",
-        "silver",
-        "india",
-        "jewellery"
-      ],
-      "title": "Dhanteras sales 2026: How much gold and silver did Indians buy this year",
-      "url": "https://www.cnbctv18.com/personal-finance/dhanteras-sales-2026-how-much-gold-silver-did-indians-buy-20029352.htm",
-      "id": "4f1f70f33be4780f",
       "breaking": false,
+      "related_urls": [
+        "https://thefreedompress.in/gold-logs-strongest-weekly-gain-since-august-as-crude-oil-plunges-over-12-pc/",
+        "https://hiindia.com/gold-logs-strongest-weekly-gain-since-august-as-crude-oil-plunges-over-12-pc/"
+      ],
       "rank": 2
     },
     {
@@ -178,6 +183,31 @@
       "rank": 3
     },
     {
+      "category": "festive",
+      "image_kind": "photo",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/4f1f70f33be4780f.jpg",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "published_at": "2026-11-07T04:28:24Z",
+      "publisher_id": "cnbc-tv18",
+      "source": "CNBC-TV18",
+      "source_domain": "cnbctv18.com",
+      "summary": "Gold and silver sales crossed ₹60,000 crore on Dhanteras, the GJC estimated, with gold sales value up 15-20% on last year while volumes stayed broadly flat; silver sales rose 30% by value and 10% by volume. Jewellers from Kalyan to Senco reported higher footfalls and strong demand for lightweight jewellery and small coins after the price correction.",
+      "tags": [
+        "gold",
+        "silver",
+        "india",
+        "jewellery"
+      ],
+      "title": "Dhanteras sales 2026: How much gold and silver did Indians buy this year",
+      "url": "https://www.cnbctv18.com/personal-finance/dhanteras-sales-2026-how-much-gold-silver-did-indians-buy-20029352.htm",
+      "id": "4f1f70f33be4780f",
+      "breaking": false,
+      "rank": 4
+    },
+    {
       "id": "2b27189bf21c45dc",
       "title": "Gold price holds critical $4,000 support, but strong U.S. jobs data and inflation risks threaten recovery",
       "summary": "Gold held above $4,000 after the strong US jobs report, analysts told Kitco, with Saxo's Ole Hansen expecting the level to hold; Blue Line's Phillip Streible warned a hot US inflation print next week could cement December hike bets and push gold back below $4,000. US CPI is due Tuesday.",
@@ -198,11 +228,11 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "bfe963e447f0aaa9",
-      "rank": 5,
+      "rank": 6,
       "title": "Gold falls toward $4,050 as strong US NFP keeps Fed hawks in control",
       "summary": "Spot gold fell toward $4,050, down about 1.2% on the day, after US October payrolls came in at 165,000 — more than double the 65,000 forecast — with unemployment easing to 4.1%. The strong jobs data lifted the dollar and Treasury yields and strengthened the case for a December Fed rate hike, pulling gold off Thursday's two-week high of $4,146. Bullion still held on to a weekly gain of about 4%.",
       "url": "https://www.fxstreet.com/news/gold-struggles-below-4-100-as-us-nonfarm-payrolls-takes-centre-stage-202611061118",
@@ -222,29 +252,6 @@
         "gold"
       ],
       "breaking": false
-    },
-    {
-      "id": "56ee7fee4ea51ed4",
-      "title": "India gold demand falls 29% in Q3 as record prices curb jewellery and investment buying: WGC report",
-      "summary": "India's gold demand fell 29% year on year to 162.5 tonnes in the July-September quarter, the World Gold Council said, as record prices curbed jewellery and investment buying; in value terms demand still rose 3% to Rs 2.41 lakh crore, and the council sees full-year demand at 625-675 tonnes, a six-year low.",
-      "url": "https://retailjewellerindia.com/india-gold-demand-falls-29-in-q3-as-record-prices-curb-jewellery-and-investment-buying-wgc-report/",
-      "source": "The Retail Jeweller India",
-      "source_domain": "retailjewellerindia.com",
-      "publisher_id": "retail-jeweller-india",
-      "published_at": "2026-11-06T21:18:39Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "india",
-        "jewellery"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 6
     },
     {
       "id": "6341f8a41049f084",
@@ -296,22 +303,22 @@
       "rank": 8
     },
     {
-      "id": "e65a306645fb2efd",
-      "title": "Gold analysis: Buyers keep defending $4,040. Is $4,140 the next target?",
-      "summary": "COMEX December gold futures repeatedly defended $4,040 after Friday's payrolls-driven slide and recovered toward $4,080, InvestingLive's analysis said, with resistance at $4,084-$4,092 and $4,135-$4,140 above that; Friday's low was $4,035.10.",
-      "url": "https://investinglive.com/commodities/gold-analysis-buyers-keep-defending-4-040-is-4-140-the-next-target/",
-      "source": "InvestingLive",
-      "source_domain": "investinglive.com",
-      "publisher_id": "investinglive",
-      "published_at": "2026-11-07T04:08:41Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/e65a306645fb2efd.jpg",
-      "image_kind": "photo",
+      "id": "56ee7fee4ea51ed4",
+      "title": "India gold demand falls 29% in Q3 as record prices curb jewellery and investment buying: WGC report",
+      "summary": "India's gold demand fell 29% year on year to 162.5 tonnes in the July-September quarter, the World Gold Council said, as record prices curbed jewellery and investment buying; in value terms demand still rose 3% to Rs 2.41 lakh crore, and the council sees full-year demand at 625-675 tonnes, a six-year low.",
+      "url": "https://retailjewellerindia.com/india-gold-demand-falls-29-in-q3-as-record-prices-curb-jewellery-and-investment-buying-wgc-report/",
+      "source": "The Retail Jeweller India",
+      "source_domain": "retailjewellerindia.com",
+      "publisher_id": "retail-jeweller-india",
+      "published_at": "2026-11-06T21:18:39Z",
+      "image_url": null,
+      "image_kind": "none",
       "tags": [
         "gold",
-        "comex",
-        "global"
+        "india",
+        "jewellery"
       ],
-      "category": "global",
+      "category": "mcx",
       "metals": [
         "gold"
       ],
@@ -393,6 +400,28 @@
       "rank": 12
     },
     {
+      "id": "29eb983c6c89d201",
+      "title": "Silver Price Prediction: BofA Forecasts $75 On Data-Centre Risks",
+      "summary": "Bank of America still expects silver to average $75 an ounce in the second and third quarters of 2027, with a full-year average of $70, on demand from AI data centres. But delays to US data-centre construction could push equipment purchases, and the bank's expected price recovery, into later quarters. Spot silver rose 0.65% to $52.03 on Friday as investors reassessed the AI sell-off.",
+      "url": "https://www.exchangerates.org.uk/news/47701/2026-11-07-silver-price-prediction-bofa-forecasts-75-on-data-centre-risks.html",
+      "source": "Exchange Rates UK",
+      "source_domain": "exchangerates.org.uk",
+      "publisher_id": "exchange-rates-uk",
+      "published_at": "2026-11-07T08:00:00Z",
+      "image_url": "https://images.exchangerates.org.uk/img/silver-price-forecast-4.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "silver",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 13
+    },
+    {
       "title": "Wall Street split on gold following Dems’ midterm rout, Main Street bulls emboldened after post-election price rally",
       "summary": "Wall Street is split on gold after its post-election rally: in the Kitco weekly survey, 4 of 13 analysts (31%) see higher prices next week, 5 (38%) see lower and 4 (31%) expect sideways trade. Main Street is far more bullish, with 143 of 212 retail voters (68%) looking for gains. Gold rallied from about $3,900 to a high of $4,145 before payrolls pulled it back.",
       "url": "https://www.kitco.com/news/article/2026-11-06/wall-street-split-gold-following-dems-midterm-rout-main-street-bulls",
@@ -414,7 +443,7 @@
       "breaking": false,
       "new_rank": 4,
       "id": "e3f52c2454a2a3d1",
-      "rank": 13
+      "rank": 14
     },
     {
       "id": "da8205cec61fc511",
@@ -432,29 +461,6 @@
         "global",
         "fed",
         "central-banks"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 14
-    },
-    {
-      "id": "7a40158b97886725",
-      "title": "Goldman Sachs Lowers Its Price Target On Gold",
-      "summary": "Goldman Sachs cut its year-end gold forecast to $4,150 an ounce from $4,650, citing the prospect of further US rate hikes, with spot gold at $4,070 on 6 November; the bank still sees gold rebounding to $4,800 in 2027.",
-      "url": "https://www.baystreet.ca/commodities/9081/goldman-sachs-lowers-its-price-target-on-gold",
-      "source": "Baystreet",
-      "source_domain": "baystreet.ca",
-      "publisher_id": "baystreet",
-      "published_at": "2026-11-06T16:06:20Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/7a40158b97886725.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "global",
-        "fed"
       ],
       "category": "global",
       "metals": [
@@ -638,29 +644,6 @@
       "breaking": false
     },
     {
-      "id": "4e16968ed73bfad2",
-      "title": "Gold Rush On Dhanteras! Zaveri Bazaar Buyers Defy PM's Appeal Amid Record Prices",
-      "summary": "Despite record-high gold prices, buyers crowded Mumbai's Zaveri Bazaar on Dhanteras, Business Today reports, with footfall up, shoppers arriving earlier than usual and advance bookings rising. IBJA spokesperson Kumar Jain said buying sentiment stayed strong across jewellery, coins and ritual gold, even amid the Prime Minister's appeal to curb gold purchases.",
-      "url": "https://www.businesstoday.in/bt-tv/whats-hot/video/gold-rush-on-dhanteras-zaveri-bazaar-buyers-defy-pms-appeal-amid-record-prices-566202-2026-11-06",
-      "source": "Business Today",
-      "source_domain": "businesstoday.in",
-      "publisher_id": "business-today",
-      "published_at": "2026-11-06T11:38:49Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/4e16968ed73bfad2.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "india",
-        "jewellery"
-      ],
-      "category": "festive",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 23
-    },
-    {
       "id": "548a8fcdf9e33a94",
       "title": "Dhanteras 2026: Buying gold or silver? Know how jewellery, coins, ETFs and SGBs are taxed",
       "summary": "Tax on gold and silver depends on the form bought, Moneycontrol explains: long-term capital gains are taxed at 12.5% without indexation and short-term gains at the buyer's income-tax slab rate, with different treatment for physical metal, digital gold, ETFs, mutual funds and Sovereign Gold Bonds; inherited or gifted gold is not taxed on receipt.",
@@ -682,31 +665,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 24
-    },
-    {
-      "id": "f574684c2ef670d9",
-      "title": "Dhanteras Gold Buyers Turn To Informal Channels As Import Duty Fuels Smuggling",
-      "summary": "A LocalCircles survey found 29% of planned Dhanteras gold buyers may use informal channels, as the 15% import duty plus GST lifts the total levy to about 18.45%. The World Gold Council put unofficial inflows at about 50 tonnes in July-September, up from about 3 tonnes a year earlier.",
-      "url": "https://www.outlookmoney.com/personal-finance/dhanteras-gold-buyers-turn-to-informal-channels-as-import-duty-fuels-smuggling",
-      "source": "Outlook Money",
-      "source_domain": "outlookmoney.com",
-      "publisher_id": "outlook-money",
-      "published_at": "2026-11-05T11:43:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "india",
-        "import-duty",
-        "jewellery"
-      ],
-      "category": "policy",
-      "metals": [
-        "gold"
-      ],
-      "rank": 25,
-      "breaking": false
+      "rank": 23
     },
     {
       "id": "6459baa392c8729f",
@@ -729,30 +688,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 26
-    },
-    {
-      "id": "2f220a33ec9a726b",
-      "title": "BIS Hallmarking System Strengthens Consumer Trust, Over 65 Crore Gold Articles Get HUID",
-      "summary": "More than 65 crore gold articles have been hallmarked with a unique HUID since mandatory hallmarking began, the Bureau of Indian Standards said, as buyers check purity ahead of Dhanteras.",
-      "url": "https://ddnews.gov.in/en/bis-hallmarking-system-strengthens-consumer-trust-over-65-crore-gold-articles-get-huid/",
-      "source": "DD News",
-      "source_domain": "ddnews.gov.in",
-      "publisher_id": "dd-news",
-      "published_at": "2026-11-05T11:49:48Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "india",
-        "jewellery"
-      ],
-      "category": "policy",
-      "metals": [
-        "gold"
-      ],
-      "rank": 27,
-      "breaking": false
+      "rank": 24
     }
   ]
 }
