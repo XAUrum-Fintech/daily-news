@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-07T07:00Z",
-  "generated_at": "2026-11-07T07:07:48Z",
+  "edition_id": "2026-11-07T08:00Z",
+  "generated_at": "2026-11-07T08:04:43Z",
   "window": {
-    "from": "2026-11-07T05:00:00Z",
-    "to": "2026-11-07T07:00:00Z"
+    "from": "2026-11-07T07:00:00Z",
+    "to": "2026-11-07T08:00:00Z"
   },
   "insights": {
     "headline": "Gold steadies near $4,050 after payrolls shock; Dhanteras trade hits record Rs 1.25 lakh crore",
@@ -18,27 +18,26 @@
     ],
     "brief": {
       "schema": "orob-brief.v1",
-      "brief_id": "2026-11-07-0736",
+      "brief_id": "2026-11-07-1334",
       "date": "2026-11-07",
-      "generated_at": "2026-11-07T02:06:19Z",
-      "slot": "morning",
-      "expires_at": "2026-11-07T08:00:00Z",
-      "headline": "Gold steadies near $4,050 as payrolls lift hike bets",
-      "summary": "Gold held near $4,050, MCX gold eased to Rs 1,42,930 per 10 g after strong US payrolls lifted the dollar and hike bets.",
+      "generated_at": "2026-11-07T08:04:43Z",
+      "slot": "midday",
+      "expires_at": "2026-11-07T13:00:00Z",
+      "headline": "Gold 21% off record high as Samvat 2083 begins",
+      "summary": "MCX gold near Rs 1,42,364 per 10 g, 21% off its record high; spot gold at $4,050 as US payrolls lifted the dollar.",
       "bullets": [
         {
-          "text": "FXStreet says the 165,000 payrolls print, more than double the forecast, lifted the dollar and yields, pulling gold off the $4,146 high.",
+          "text": "FXStreet says strong US payrolls lifted the dollar and yields; Reuters says Diwali buying picked up as prices dipped.",
           "item_ids": [
             "bfe963e447f0aaa9",
-            "593448fbd00e0883"
+            "3ea53052daf7b184"
           ]
         },
         {
           "text": "Dhanteras trade hit a record Rs 1.25 lakh crore, CAIT said, as the price dip drew buyers back; the rupee strengthened past 94 per dollar.",
           "item_ids": [
             "7e7016758097ed8f",
-            "2aff9b732b388275",
-            "3ea53052daf7b184"
+            "2aff9b732b388275"
           ]
         },
         {
@@ -59,7 +58,8 @@
         "183dff19d6f83d59",
         "e3f52c2454a2a3d1",
         "2b27189bf21c45dc",
-        "e65a306645fb2efd"
+        "e65a306645fb2efd",
+        "2e7f4f53fd613c40"
       ]
     },
     {
@@ -153,6 +153,31 @@
       "rank": 2
     },
     {
+      "id": "2e7f4f53fd613c40",
+      "title": "Gold rate correction: 21% down from record high — is Samvat 2083 the right time to buy?",
+      "summary": "Gold has fallen about 21% from its domestic record high of Rs 1,80,779 per 10 g to around Rs 1,42,364, Mint reported, with MCX gold futures down 1.51% on Friday; silver has fallen more sharply, from a February peak near Rs 4 lakh per kg. Kedia Advisory noted central-bank buying of 321 tonnes in Q3, up 42% on the year, and stayed cautiously positive for November-December.",
+      "url": "https://www.livemint.com/market/commodities/gold-rate-correction-21-dn-from-record-high-is-samvat-2083-right-time-to-buy-what-investors-should-know-before-buying-11794030800280.html",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "publisher_id": "mint",
+      "published_at": "2026-11-07T07:32:46Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/2e7f4f53fd613c40.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 3
+    },
+    {
       "id": "2b27189bf21c45dc",
       "title": "Gold price holds critical $4,000 support, but strong U.S. jobs data and inflation risks threaten recovery",
       "summary": "Gold held above $4,000 after the strong US jobs report, analysts told Kitco, with Saxo's Ole Hansen expecting the level to hold; Blue Line's Phillip Streible warned a hot US inflation print next week could cement December hike bets and push gold back below $4,000. US CPI is due Tuesday.",
@@ -173,11 +198,11 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "bfe963e447f0aaa9",
-      "rank": 4,
+      "rank": 5,
       "title": "Gold falls toward $4,050 as strong US NFP keeps Fed hawks in control",
       "summary": "Spot gold fell toward $4,050, down about 1.2% on the day, after US October payrolls came in at 165,000 — more than double the 65,000 forecast — with unemployment easing to 4.1%. The strong jobs data lifted the dollar and Treasury yields and strengthened the case for a December Fed rate hike, pulling gold off Thursday's two-week high of $4,146. Bullion still held on to a weekly gain of about 4%.",
       "url": "https://www.fxstreet.com/news/gold-struggles-below-4-100-as-us-nonfarm-payrolls-takes-centre-stage-202611061118",
@@ -219,7 +244,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "6341f8a41049f084",
@@ -242,7 +267,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "3ea53052daf7b184",
@@ -268,7 +293,7 @@
       "related_urls": [
         "https://www.devdiscourse.com/article/international/4002828-indias-gold-demand-picks-up-as-diwali-coincides-with-price-dip"
       ],
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "e65a306645fb2efd",
@@ -291,7 +316,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 9
     },
     {
       "title": "Silver Weekly Forecast: High Rates Leave Further Downside Risk",
@@ -315,7 +340,7 @@
       "breaking": false,
       "new_rank": 6,
       "id": "6d8245c1cc624344",
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "7e7016758097ed8f",
@@ -340,7 +365,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "2aff9b732b388275",
@@ -365,7 +390,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 12
     },
     {
       "title": "Wall Street split on gold following Dems’ midterm rout, Main Street bulls emboldened after post-election price rally",
@@ -389,7 +414,7 @@
       "breaking": false,
       "new_rank": 4,
       "id": "e3f52c2454a2a3d1",
-      "rank": 12
+      "rank": 13
     },
     {
       "id": "da8205cec61fc511",
@@ -413,7 +438,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 13
+      "rank": 14
     },
     {
       "id": "7a40158b97886725",
@@ -436,7 +461,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 15
     },
     {
       "id": "74ee04546586334b",
@@ -459,7 +484,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 15
+      "rank": 16
     },
     {
       "id": "183dff19d6f83d59",
@@ -481,7 +506,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 16
+      "rank": 17
     },
     {
       "id": "d5734da5e633d179",
@@ -507,11 +532,11 @@
         "https://www.devdiscourse.com/article/business/4002501-gold-may-be-nearing-interim-bottom-broader-macro-outlook-supports-recovery-wgc",
         "https://www.gold.org/goldhub/research/gold-market-commentary-october-2026"
       ],
-      "rank": 17
+      "rank": 18
     },
     {
       "id": "d3cff56db23d6cd9",
-      "rank": 18,
+      "rank": 19,
       "title": "NSE's Dhanteras pitch: Buy gold-backed EGRs to help cut India's imports by $5–6 billion",
       "summary": "The National Stock Exchange has urged investors to buy Electronic Gold Receipts instead of physical gold this Dhanteras, saying India could avoid $5–6 billion of gold imports a year if gold funds held NSE EGRs and lent half of their combined 116-tonne holdings. Every EGR is backed by gold recycled in India and stored in SEBI-approved vaults.",
       "url": "https://www.thehindubusinessline.com/markets/gold/nse-urges-investors-to-buy-gold-backed-egrs-this-dhanteras-sees-56-billion-import-savings/article71677140.ece",
@@ -558,7 +583,7 @@
       "breaking": false,
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/ec930f039229503b.jpg",
       "image_kind": "photo",
-      "rank": 19
+      "rank": 20
     },
     {
       "id": "483c7a8a3e6f633e",
@@ -584,14 +609,14 @@
       "breaking": false,
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/483c7a8a3e6f633e.jpg",
       "image_kind": "photo",
-      "rank": 20,
+      "rank": 21,
       "related_urls": [
         "https://economictimes.indiatimes.com/markets/forex/indian-rupee-strengthens-past-94/-as-oil-slides-foreign-inflows-return/articleshow/135604040.cms"
       ]
     },
     {
       "id": "aa12c1f6a69a3ef2",
-      "rank": 21,
+      "rank": 22,
       "title": "Inflation, rate-hike woes to limit gains in silver, may retest $48: Analyst",
       "summary": "Silver may retest $48 if it fails to recover above $55, Mirae Asset Sharekhan's Praveen Singh said, after the metal broke below $54.50 support and hit a one-year low of $48.61 on 3 November. He blamed a firmer dollar, rate-hike worries after strong US jobs and ISM data, and hawkish Fed comments, though tight physical supply and ETF inflows are cushioning the fall.",
       "url": "https://www.business-standard.com/markets/news/inflation-rate-hike-woes-to-limit-gains-in-silver-may-retest-48-analyst-126110600692_1.html",
@@ -633,7 +658,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 22
+      "rank": 23
     },
     {
       "id": "548a8fcdf9e33a94",
@@ -657,7 +682,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 23
+      "rank": 24
     },
     {
       "id": "f574684c2ef670d9",
@@ -680,7 +705,7 @@
       "metals": [
         "gold"
       ],
-      "rank": 24,
+      "rank": 25,
       "breaking": false
     },
     {
@@ -704,7 +729,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 25
+      "rank": 26
     },
     {
       "id": "2f220a33ec9a726b",
@@ -726,7 +751,7 @@
       "metals": [
         "gold"
       ],
-      "rank": 26,
+      "rank": 27,
       "breaking": false
     }
   ]
