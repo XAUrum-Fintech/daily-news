@@ -1,20 +1,20 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-07T14:00Z",
-  "generated_at": "2026-11-07T14:06:02Z",
+  "edition_id": "2026-11-07T16:00Z",
+  "generated_at": "2026-11-07T16:15:05Z",
   "window": {
-    "from": "2026-11-07T12:00:00Z",
-    "to": "2026-11-07T14:00:00Z"
+    "from": "2026-11-07T14:00:00Z",
+    "to": "2026-11-07T16:00:00Z"
   },
   "insights": {
-    "headline": "Gold steadies near $4,050 after payrolls shock; strongest weekly gain since August",
-    "summary": "Spot gold steadied near $4,050 after US October payrolls of 165,000 — more than double the 65,000 forecast — lifted the dollar and December Fed hike bets to 77%. Gold still logged its strongest weekly gain since August, up nearly 4.5%, while MCX gold ended near Rs 1,42,364 per 10 g. Dhanteras trade hit a record Rs 1.25 lakh crore, CAIT said, and the rupee strengthened past 94 per dollar to its best since April.",
+    "headline": "Gold steadies near $4,050 after payrolls shock; World Bank sees $4,000 floor through 2028",
+    "summary": "Spot gold steadied near $4,050 after US October payrolls of 165,000 — more than double the 65,000 forecast — lifted the dollar and December Fed hike bets to 77%. Gold still logged its strongest weekly gain since August, up nearly 4.5%, while MCX gold ended near Rs 1,42,364 per 10 g. The World Bank sees gold averaging $4,600 an ounce in 2026 before easing to $4,000 by 2028, and Dhanteras trade hit a record Rs 1.25 lakh crore, CAIT said.",
     "points": [
       "US October payrolls rose 165,000, more than double the 65,000 forecast, lifting the dollar and December Fed hike bets to 77%.",
       "Gold rose nearly 4.5% on the week, its strongest weekly gain since August, as crude oil plunged more than 12%.",
-      "MCX December gold ended near Rs 1,42,364 per 10 g and silver near Rs 1,84,977 per kg; gold is about 21% below its record high.",
-      "Dhanteras trade hit a record Rs 1.25 lakh crore, CAIT said, with gold and silver sales over Rs 66,000 crore.",
-      "Goldman Sachs cut its end-2026 gold forecast to $4,150 an ounce from $4,650 and its end-2027 call to $4,800, citing a hawkish Fed."
+      "The World Bank sees gold averaging $4,600 an ounce in 2026, easing to $4,250 in 2027 and $4,000 in 2028; silver averages $70, then $62 and $58.",
+      "MCX December gold ended near Rs 1,42,364 per 10 g and silver near Rs 1,84,977 per kg; Dhanteras trade hit a record Rs 1.25 lakh crore, CAIT said.",
+      "China's central bank added about 830,000 ounces of gold in October, its 24th straight month of buying, while Poland's gold reserves reached 700 tonnes."
     ],
     "brief": {
       "schema": "orob-brief.v1",
@@ -52,25 +52,22 @@
   "trending": [
     {
       "title": "Payrolls beat keeps Fed hike bets alive",
-      "summary": "October payrolls of 165,000, more than double the forecast, lifted the dollar and December hike odds, pulling spot gold toward $4,050. Wall Street is split on next week; Main Street stays bullish.",
+      "summary": "October payrolls of 165,000, more than double the forecast, lifted the dollar and December hike odds to 77%, pulling spot gold toward $4,050. Gold held above $4,000 support despite the jobs beat.",
       "item_ids": [
         "593448fbd00e0883",
         "bfe963e447f0aaa9",
-        "183dff19d6f83d59",
-        "e3f52c2454a2a3d1",
         "2b27189bf21c45dc",
-        "2e7f4f53fd613c40"
+        "316220f906c7cb1b"
       ]
     },
     {
       "title": "Dhanteras dip draws buyers back",
-      "summary": "Gold eased on Dhanteras yet festive buying stayed strong: trade hit a record Rs 1.25 lakh crore, jewellers reported footfalls, and Reuters says demand picked up as prices slid to a seven-month low.",
+      "summary": "Gold eased on Dhanteras yet festive buying stayed strong: trade hit a record Rs 1.25 lakh crore. Quick commerce delivered 14,000+ gold and silver coins an hour at peak.",
       "item_ids": [
         "4f1f70f33be4780f",
         "7e7016758097ed8f",
         "3ea53052daf7b184",
-        "2e7f4f53fd613c40",
-        "5dae409fc254ad75",
+        "873c9a50414ec914",
         "54d6c6b81cb96d71"
       ]
     },
@@ -84,22 +81,23 @@
       ]
     },
     {
+      "title": "Big banks split on where gold goes next",
+      "summary": "The World Bank sees gold averaging $4,600 in 2026 before easing to $4,000 by 2028, while Jefferies says an AI-spending peak could flip Fed expectations toward easing.",
+      "item_ids": [
+        "66fb686997431dec",
+        "39a05ef98f976b1c",
+        "9979207ba7b98b6c",
+        "29eb983c6c89d201"
+      ]
+    },
+    {
       "title": "Silver's week: gains hold despite rate fears",
-      "summary": "Silver eased with gold on Friday but stayed on track for its first weekly gain in five weeks; analysts warn it may retest $48 if it cannot clear $55, while BofA still sees $75 in mid-2027.",
+      "summary": "Silver eased with gold on Friday but stayed on track for its first weekly gain in five weeks. Metals Focus now expects a 2027 surplus, with the price case resting on fund inflows.",
       "item_ids": [
         "6d8245c1cc624344",
         "aa12c1f6a69a3ef2",
         "29eb983c6c89d201",
-        "593448fbd00e0883"
-      ]
-    },
-    {
-      "title": "Gold's strongest week since August",
-      "summary": "Gold rose nearly 4.5% for the week, its strongest since August, as crude oil plunged over 12% after the US midterms; MCX gold ended near Rs 1,42,364 per 10 g.",
-      "item_ids": [
-        "b23b1c40ab850802",
-        "593448fbd00e0883",
-        "74ee04546586334b"
+        "941a776b7d74be8f"
       ]
     }
   ],
@@ -160,29 +158,57 @@
       "rank": 2
     },
     {
-      "id": "2e7f4f53fd613c40",
-      "title": "Gold rate correction: 21% down from record high — is Samvat 2083 the right time to buy?",
-      "summary": "Gold has fallen about 21% from its domestic record high of Rs 1,80,779 per 10 g to around Rs 1,42,364, Mint reported, with MCX gold futures down 1.51% on Friday; silver has fallen more sharply, from a February peak near Rs 4 lakh per kg. Kedia Advisory noted central-bank buying of 321 tonnes in Q3, up 42% on the year, and stayed cautiously positive for November-December.",
-      "url": "https://www.livemint.com/market/commodities/gold-rate-correction-21-dn-from-record-high-is-samvat-2083-right-time-to-buy-what-investors-should-know-before-buying-11794030800280.html",
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "publisher_id": "mint",
-      "published_at": "2026-11-07T07:32:46Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/2e7f4f53fd613c40.jpg",
+      "id": "66fb686997431dec",
+      "title": "World Bank sees gold holding above $4,000 through 2028, but warns silver faces steeper correction",
+      "summary": "The World Bank expects gold to average $4,600 an ounce in 2026, up 33.6% on 2025, before easing to $4,250 in 2027 and $4,000 in 2028, Kitco reported from the bank's October Commodity Markets Outlook. Silver is expected to average $70 this year, then fall to $62 in 2027 and $58 in 2028, while geopolitical risk and diversification demand keep prices historically high.",
+      "url": "https://www.kitco.com/news/article/2026-11-05/world-bank-sees-gold-holding-above-4000-through-2028-warns-silver-faces",
+      "source": "Kitco",
+      "source_domain": "kitco.com",
+      "publisher_id": "kitco",
+      "published_at": "2026-11-05T20:10:51Z",
+      "image_url": "https://image-api.prod.kitco.com/image/11f2057f-8b47-49ec-9945-4ac2733aeaea.jpeg?top=0.46212476547842&left=0&width=1000&height=562.07575046904&scale_width=1920&token=42c9d80f3729c729f6a54d04691f3ec8f2dcedce8b00b70f2bb4060dbac07810",
       "image_kind": "photo",
       "tags": [
         "gold",
         "silver",
-        "mcx",
-        "india"
+        "global"
       ],
-      "category": "mcx",
+      "category": "global",
       "metals": [
         "gold",
         "silver"
       ],
       "breaking": false,
+      "related_urls": [
+        "https://news.metal.com/newscontent/104209992-world-bank-sees-gold-holding-above-4000-through-2028-but-warns-silver-faces-steeper-correction"
+      ],
       "rank": 3
+    },
+    {
+      "id": "39a05ef98f976b1c",
+      "title": "Gold at $3,800–4,000: Could an AI spending crash trigger the next bullion rally? Jefferies explains",
+      "summary": "Jefferies' Christopher Wood says the US AI capital-spending cycle may be approaching its peak, Business Today reported. The four big hyperscalers face a $1.04 trillion consensus capex bill for 2027, and a credit-driven slowdown could shift Fed expectations toward easing. Gold traded near the lower end of Wood's $3,800–4,000 an ounce range.",
+      "url": "https://www.businesstoday.in/markets/story/gold-at-3800-4000-could-an-ai-spending-crash-trigger-the-next-bullion-rally-jefferies-explains-566338-2026-11-07",
+      "source": "Business Today",
+      "source_domain": "businesstoday.in",
+      "publisher_id": "business-today",
+      "published_at": "2026-11-07T15:04:49Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/39a05ef98f976b1c.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://www.thehindubusinessline.com/markets/jefferies-warns-ai-investment-cycle-may-have-peaked-raises-india-allocation-to-14/article71677867.ece"
+      ],
+      "rank": 4
     },
     {
       "category": "festive",
@@ -207,7 +233,7 @@
       "url": "https://www.cnbctv18.com/personal-finance/dhanteras-sales-2026-how-much-gold-silver-did-indians-buy-20029352.htm",
       "id": "4f1f70f33be4780f",
       "breaking": false,
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "2b27189bf21c45dc",
@@ -230,11 +256,11 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "bfe963e447f0aaa9",
-      "rank": 6,
+      "rank": 7,
       "title": "Gold falls toward $4,050 as strong US NFP keeps Fed hawks in control",
       "summary": "Spot gold fell toward $4,050, down about 1.2% on the day, after US October payrolls came in at 165,000 — more than double the 65,000 forecast — with unemployment easing to 4.1%. The strong jobs data lifted the dollar and Treasury yields and strengthened the case for a December Fed rate hike, pulling gold off Thursday's two-week high of $4,146. Bullion still held on to a weekly gain of about 4%.",
       "url": "https://www.fxstreet.com/news/gold-struggles-below-4-100-as-us-nonfarm-payrolls-takes-centre-stage-202611061118",
@@ -257,7 +283,7 @@
     },
     {
       "id": "316220f906c7cb1b",
-      "rank": 7,
+      "rank": 8,
       "title": "Goldman Sachs trims gold forecasts as Fed stays hawkish",
       "summary": "Goldman Sachs cut its end-2026 gold forecast to $4,150 an ounce from $4,650 and its end-2027 forecast to $4,800 from $5,400, citing the US Federal Reserve's more hawkish stance. The bank said higher oil prices could add pressure through systematic selling, while structural central-bank demand and long-term investors valuing gold as fiscal insurance remain supportive.",
       "url": "https://www.miningweekly.com/article/goldman-sachs-trims-gold-forecasts-as-fed-stays-hawkish-2026-11-06",
@@ -280,16 +306,16 @@
       "breaking": false
     },
     {
-      "id": "5dae409fc254ad75",
-      "title": "Gold Price Target ₹2 Lakh By Next Dhanteras? Ajay Kedia Expects Fresh Rally Despite Volatility",
-      "summary": "Ajay Kedia of Kedia Advisory expects gold to break its previous high of Rs 1.80 lakh per 10 g and move toward Rs 1.95–2 lakh by next Diwali, Business Today reported, calling the correction a buying opportunity. Gold is near Rs 1.45 lakh per 10 g; Kedia cited 12–13% annualised returns over the past decade but warned volatility would continue.",
-      "url": "https://www.businesstoday.in/bt-tv/whats-hot/video/gold-price-target-rs2-lakh-by-next-dhanteras-ajay-kedia-expects-fresh-rally-despite-volatility-565950-2026-11-07",
-      "source": "Business Today",
-      "source_domain": "businesstoday.in",
-      "publisher_id": "business-today",
-      "published_at": "2026-11-07T10:30:10Z",
-      "image_url": null,
-      "image_kind": "none",
+      "id": "3d401d94766ca079",
+      "title": "Gold ETF folios surge 164% in 3 years, outpacing equity mutual funds: Study warns against FOMO-driven gold investments",
+      "summary": "Gold ETF folios in India have grown 2.6 times since September 2023 — up 164% in three years — far outpacing the 1.3-fold rise in large-cap equity fund folios, an OmniScience Capital study found. Gold ETF assets stand near Rs 1.9 lakh crore, almost half of large-cap funds' roughly Rs 4 lakh crore. The study warned the rush is driven by fear of missing out rather than disciplined allocation.",
+      "url": "https://www.livemint.com/money/personal-finance/gold-etf-folios-surge-164-in-3-years-outpacing-equity-mutual-funds-study-warns-against-fomo-driven-gold-investments-11794021741009.html",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "publisher_id": "mint",
+      "published_at": "2026-11-07T04:43:37Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/3d401d94766ca079.jpg",
+      "image_kind": "photo",
       "tags": [
         "gold",
         "mcx",
@@ -300,7 +326,10 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 8
+      "related_urls": [
+        "https://www.newkerala.com/news/a/gold-etf-folios-jump-26x-years-outpacing-large-cap-990.htm"
+      ],
+      "rank": 9
     },
     {
       "id": "6341f8a41049f084",
@@ -323,7 +352,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "9979207ba7b98b6c",
@@ -346,7 +375,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "3ea53052daf7b184",
@@ -372,7 +401,7 @@
       "related_urls": [
         "https://www.devdiscourse.com/article/international/4002828-indias-gold-demand-picks-up-as-diwali-coincides-with-price-dip"
       ],
-      "rank": 11
+      "rank": 12
     },
     {
       "id": "56ee7fee4ea51ed4",
@@ -395,7 +424,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 13
     },
     {
       "title": "Silver Weekly Forecast: High Rates Leave Further Downside Risk",
@@ -417,9 +446,8 @@
         "silver"
       ],
       "breaking": false,
-      "new_rank": 6,
       "id": "6d8245c1cc624344",
-      "rank": 13
+      "rank": 14
     },
     {
       "id": "7e7016758097ed8f",
@@ -444,18 +472,18 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 15
     },
     {
-      "id": "6c4f14d3eaf4d57a",
-      "title": "Dhanteras 2026: Gold, silver coin prices on Blinkit, Instamart, Amazon Now and BigBasket",
-      "summary": "Gold and silver coins sold through Blinkit, Instamart, Amazon Now and BigBasket this Dhanteras, with 0.5 g gold coins from about Rs 7,925 and 2 g silver coins from Rs 490. Instamart listed coins from Kalyan Jewellers, Mia by Tanishq and Malabar Gold, and BigBasket listed Tanishq coins.",
-      "url": "https://upstox.com/news/personal-finance/latest-updates/dhanteras-2026-gold-silver-coin-prices-on-blinkit-instamart-amazon-now-and-big-basket-on-6-november-2026/article-203107/",
-      "source": "Upstox",
-      "source_domain": "upstox.com",
-      "publisher_id": "upstox",
-      "published_at": "2026-11-06T04:53:53Z",
-      "image_url": "https://assets.upstox.com/content/assets/images/news/gold-silver-buying-dhanteras-2026.webp",
+      "id": "873c9a50414ec914",
+      "title": "14,000+ gold, silver coins delivered per hour: Instamart, Zepto, others record rising orders as Diwali shopping shifts to q-comm",
+      "summary": "Zepto delivered more than 14,000 gold and silver coins an hour at its Dhanteras peak — about 298 coins a minute — its co-founder Aadit Palicha said. Swiggy Instamart saw gold coin orders jump 23 times in the week to Dhanteras, while silver coin orders rose seven times. Flipkart Minutes said gold coin and bar orders more than doubled.",
+      "url": "https://economictimes.indiatimes.com/industry/services/retail/happy-diwali-2026-14000-gold-silver-coins-delivered-per-hour-shopping-shifts-to-quick-commerce-zepto-instamart-flipkart/articleshow/135631310.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-11-07T08:42:54Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/873c9a50414ec914.jpg",
       "image_kind": "photo",
       "tags": [
         "gold",
@@ -469,11 +497,11 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 15
+      "rank": 16
     },
     {
       "id": "54d6c6b81cb96d71",
-      "rank": 16,
+      "rank": 17,
       "title": "Silver anklet units in Salem get a good amount of orders for this year’s Deepavali",
       "summary": "Salem’s silver anklet makers reported a sharp recovery for Deepavali, with orders rising to over 45%, nearly double the roughly 25% in 2025, The Hindu reported. The rebound followed silver easing to about Rs 2.05 lakh per kg from a volatile Rs 2.3–4 lakh range, and orders picked up in the last 15 days from buyers across five states.",
       "url": "https://www.thehindu.com/news/cities/Coimbatore/silver-anklet-units-in-salem-get-a-good-amount-of-orders-for-this-years-deepavali/article71677626.ece",
@@ -517,7 +545,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 17
+      "rank": 18
     },
     {
       "id": "d521f606c46e48af",
@@ -540,7 +568,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 18
+      "rank": 19
     },
     {
       "id": "29eb983c6c89d201",
@@ -562,47 +590,47 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 19
+      "rank": 20
     },
     {
-      "title": "Wall Street split on gold following Dems’ midterm rout, Main Street bulls emboldened after post-election price rally",
-      "summary": "Wall Street is split on gold after its post-election rally: in the Kitco weekly survey, 4 of 13 analysts (31%) see higher prices next week, 5 (38%) see lower and 4 (31%) expect sideways trade. Main Street is far more bullish, with 143 of 212 retail voters (68%) looking for gains. Gold rallied from about $3,900 to a high of $4,145 before payrolls pulled it back.",
-      "url": "https://www.kitco.com/news/article/2026-11-06/wall-street-split-gold-following-dems-midterm-rout-main-street-bulls",
-      "source": "Kitco",
-      "source_domain": "kitco.com",
-      "publisher_id": "kitco",
-      "published_at": "2026-11-06T22:33:36Z",
+      "id": "941a776b7d74be8f",
+      "title": "Why the silver price case now rests on investors",
+      "summary": "Metals Focus, which compiles the World Silver Survey, now expects a 37.3-million-ounce silver surplus in 2027 as solar panel makers use less silver per panel, yet still sees a higher average price next year. Its case rests on investors: only large inflows into funds holding physical silver can absorb the surplus. Fund holdings are down about 60 million ounces this year.",
+      "url": "https://www.fxempire.com/forecasts/article/why-the-silver-price-case-now-rests-on-investors-1642795",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "published_at": "2026-11-05T19:47:45Z",
       "image_url": null,
       "image_kind": "none",
       "tags": [
-        "gold",
-        "fed",
+        "silver",
         "global"
       ],
       "category": "global",
       "metals": [
-        "gold"
+        "silver"
       ],
       "breaking": false,
-      "new_rank": 4,
-      "id": "e3f52c2454a2a3d1",
-      "rank": 20
+      "related_urls": [
+        "https://www.kitco.com/opinion/2026-11-05/why-silver-price-case-now-rests-investors"
+      ],
+      "rank": 21
     },
     {
-      "id": "da8205cec61fc511",
-      "title": "Gold's Central Bank Backstop Faces Its Sternest Test in Washington",
-      "summary": "Gold settled at $4,055.50 on Thursday as a firmer dollar and rising crude revived inflation worries after October payrolls came in at 165,000. Goldman Sachs cut its end-2026 gold forecast to $4,150 from $4,650; Citi sees $4,800 by end-2027. Central-bank buying remains the floor: the World Gold Council logged 321 tonnes of net Q3 buying, up 42% year on year.",
-      "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/gold-s-central-bank-backstop-faces-its-sternest-test-in-washington/70472153",
-      "source": "ad-hoc-news",
-      "source_domain": "ad-hoc-news.de",
-      "publisher_id": "ad-hoc-news",
-      "published_at": "2026-11-06T21:11:07Z",
-      "image_url": "https://mdb.ad-hoc-news.de/bild/bild-2843520_1920_1080.webp",
+      "id": "5635d6b008e779e3",
+      "title": "Poland central bank chief leaves door open to more gold buying after hitting 700-ton target",
+      "summary": "Poland's central bank has hit its 700-tonne gold reserve target, Governor Adam Glapinski said, leaving the door open to further purchases. The bank has been the largest reported central-bank buyer of 2024–2026, adding 27 tonnes in October even as spot gold fell 7%. Its holdings are worth about $91.4 billion, 31% of reserves, making Poland the world's 10th-largest official gold holder.",
+      "url": "https://www.mining.com/web/poland-central-bank-chief-leaves-door-open-to-more-gold-buying-after-hitting-700-ton-target/",
+      "source": "MINING.COM",
+      "source_domain": "mining.com",
+      "publisher_id": "mining-com",
+      "published_at": "2026-11-05T17:06:44Z",
+      "image_url": "https://www.mining.com/wp-content/uploads/2026/04/AdobeStock_402869767-1024x683.jpeg",
       "image_kind": "photo",
       "tags": [
         "gold",
         "global",
-        "fed",
         "central-banks"
       ],
       "category": "global",
@@ -610,7 +638,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 21
+      "rank": 22
     },
     {
       "id": "74ee04546586334b",
@@ -629,28 +657,6 @@
         "india"
       ],
       "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 22
-    },
-    {
-      "id": "183dff19d6f83d59",
-      "title": "Gold (XAU/USD) Price Forecast: Breakout Signals Potential End to Correction",
-      "summary": "FXEmpire's Bruce Powers says gold's breakout from its downtrend channel signals a possible end to the correction, with momentum building from the recent $3,870 low, though Friday's pullback to a $4,027 low tested support and spot traded near $4,071.",
-      "url": "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-breakout-signals-potential-end-to-correction-1643107",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "publisher_id": "fxempire",
-      "published_at": "2026-11-07T02:31:56Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "global"
-      ],
-      "category": "global",
       "metals": [
         "gold"
       ],
@@ -785,56 +791,28 @@
       "rank": 28
     },
     {
-      "id": "8ab6db2d32295473",
-      "rank": 29,
-      "title": "Gold's Festival-Fuelled Demand Tests a Hawkish Fed Headwind",
-      "summary": "Indian buyers returned for Dhanteras and Diwali as cheaper prices lifted demand, Reuters reported, with the India Bullion and Jewellers Association expecting Dhanteras sales about 10% higher than last year. Gold settled at $4,063.65 an ounce, up 4.9% over seven days; central banks bought a net 321 tonnes in Q3, up 42% on the year, the World Gold Council said.",
-      "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/gold-s-festival-fuelled-demand-tests-a-hawkish-fed-headwind/70473272",
-      "source": "ad-hoc-news",
-      "source_domain": "ad-hoc-news.de",
-      "publisher_id": "ad-hoc-news",
-      "published_at": "2026-11-07T08:21:29Z",
-      "image_url": "https://mdb.ad-hoc-news.de/bild/bild-2843821_1920_1080.webp",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "india",
-        "global",
-        "fed",
-        "central-banks"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false
-    },
-    {
-      "id": "50432655c933838f",
-      "rank": 30,
-      "title": "Decline in gold price pushes jewellery sales on Dhanteras",
-      "summary": "A dip in prices drew shoppers to jewellery stores on Dhanteras, with Senco Gold reporting sales up more than 25% by value and footfall up 10-12% from last year. Kalyan Jewellers said 22-carat gold fell Rs 235 a gram to Rs 13,150. Flipkart Minutes said orders for gold coins and bars more than doubled, and quick commerce was 80% of Bigbasket's coin orders.",
-      "url": "https://saharanews.in/?p=60254",
-      "source": "Sahara News",
-      "source_domain": "saharanews.in",
-      "publisher_id": "sahara-news",
-      "published_at": "2026-11-07T00:00:00Z",
+      "id": "5672bb8c4b18b71c",
+      "title": "BIS hallmarking crosses 65-crore gold articles as HUID system strengthens jewellery traceability",
+      "summary": "More than 65 crore gold jewellery articles have received HUID numbers since mandatory hallmarking began in 2021, the government said, with registered jewellers up to 2,36,624 and assaying centres to 1,565. BIS carried out over 30 enforcement actions against hallmark misuse in 2025–26, including seizures of fake-hallmarked jewellery. Buyers can verify the six-digit HUID in the BIS Care app.",
+      "url": "https://digitalindiatimes.com/bis-hallmarking-crosses-65-crore-gold-articles-as-huid-system-strengthens-jewellery-traceability/",
+      "source": "Digital India Times",
+      "source_domain": "digitalindiatimes.com",
+      "publisher_id": "digital-india-times",
+      "published_at": "2026-11-06T06:46:43Z",
       "image_url": null,
       "image_kind": "none",
       "tags": [
         "gold",
         "silver",
-        "india",
-        "jewellery"
+        "india"
       ],
-      "category": "festive",
+      "category": "policy",
       "metals": [
         "gold",
         "silver"
       ],
-      "breaking": false
+      "breaking": false,
+      "rank": 29
     }
   ]
 }
