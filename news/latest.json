@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-07T03:00Z",
-  "generated_at": "2026-11-07T03:11:16Z",
+  "edition_id": "2026-11-07T04:00Z",
+  "generated_at": "2026-11-07T04:17:24Z",
   "window": {
-    "from": "2026-11-07T02:00:00Z",
-    "to": "2026-11-07T03:00:00Z"
+    "from": "2026-11-07T03:00:00Z",
+    "to": "2026-11-07T04:00:00Z"
   },
   "insights": {
     "headline": "Gold steadies near $4,050 after payrolls shock; Dhanteras trade hits record Rs 1.25 lakh crore",
@@ -14,7 +14,7 @@
       "Spot gold fell toward $4,050, down about 1.2% on the day, after touching a two-week high of $4,146 on Thursday; it stayed up about 4% on the week.",
       "MCX December gold fell about Rs 1,700 per 10 g to Rs 1,42,930 and silver eased 1.26% to Rs 1,84,800, though both stayed on track for weekly gains.",
       "Silver may retest $48 if it fails to recover above $55, Mirae Asset Sharekhan said, after spot silver hit a one-year low of $48.61 on 3 November.",
-      "Dhanteras trade hit a record Rs 1.25 lakh crore, CAIT said, and Reuters reports demand picked up as prices slid to a seven-month low."
+      "India's gold demand fell 29% to 162.5 tonnes in Q3, the World Gold Council said, though its value rose 3% to Rs 2.41 lakh crore."
     ],
     "brief": {
       "schema": "orob-brief.v1",
@@ -85,8 +85,7 @@
       "item_ids": [
         "6d8245c1cc624344",
         "aa12c1f6a69a3ef2",
-        "593448fbd00e0883",
-        "fb5158a3a9e9d85d"
+        "593448fbd00e0883"
       ]
     },
     {
@@ -126,6 +125,29 @@
       "rank": 1
     },
     {
+      "id": "56ee7fee4ea51ed4",
+      "title": "India gold demand falls 29% in Q3 as record prices curb jewellery and investment buying: WGC report",
+      "summary": "India's gold demand fell 29% year on year to 162.5 tonnes in the July-September quarter, the World Gold Council said, as record prices curbed jewellery and investment buying; in value terms demand still rose 3% to Rs 2.41 lakh crore, and the council sees full-year demand at 625-675 tonnes, a six-year low.",
+      "url": "https://retailjewellerindia.com/india-gold-demand-falls-29-in-q3-as-record-prices-curb-jewellery-and-investment-buying-wgc-report/",
+      "source": "The Retail Jeweller India",
+      "source_domain": "retailjewellerindia.com",
+      "publisher_id": "retail-jeweller-india",
+      "published_at": "2026-11-06T21:18:39Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 2
+    },
+    {
       "id": "6341f8a41049f084",
       "title": "China Extends Gold-Buying Streak to Two Years as Prices Drop",
       "summary": "China's central bank added about 830,000 ounces of gold in October, taking its buying streak to 24 straight months, even as bullion fell almost 7% in October to end below $4,000 an ounce. Purchases in the first ten months of 2026 total about 129 tonnes.",
@@ -146,11 +168,11 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "bfe963e447f0aaa9",
-      "rank": 3,
+      "rank": 4,
       "title": "Gold falls toward $4,050 as strong US NFP keeps Fed hawks in control",
       "summary": "Spot gold fell toward $4,050, down about 1.2% on the day, after US October payrolls came in at 165,000 — more than double the 65,000 forecast — with unemployment easing to 4.1%. The strong jobs data lifted the dollar and Treasury yields and strengthened the case for a December Fed rate hike, pulling gold off Thursday's two-week high of $4,146. Bullion still held on to a weekly gain of about 4%.",
       "url": "https://www.fxstreet.com/news/gold-struggles-below-4-100-as-us-nonfarm-payrolls-takes-centre-stage-202611061118",
@@ -170,6 +192,29 @@
         "gold"
       ],
       "breaking": false
+    },
+    {
+      "id": "7a40158b97886725",
+      "title": "Goldman Sachs Lowers Its Price Target On Gold",
+      "summary": "Goldman Sachs cut its year-end gold forecast to $4,150 an ounce from $4,650, citing the prospect of further US rate hikes, with spot gold at $4,070 on 6 November; the bank still sees gold rebounding to $4,800 in 2027.",
+      "url": "https://www.baystreet.ca/commodities/9081/goldman-sachs-lowers-its-price-target-on-gold",
+      "source": "Baystreet",
+      "source_domain": "baystreet.ca",
+      "publisher_id": "baystreet",
+      "published_at": "2026-11-06T16:06:20Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/7a40158b97886725.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 5
     },
     {
       "title": "Wall Street split on gold following Dems’ midterm rout, Main Street bulls emboldened after post-election price rally",
@@ -193,7 +238,7 @@
       "breaking": false,
       "new_rank": 4,
       "id": "e3f52c2454a2a3d1",
-      "rank": 4
+      "rank": 6
     },
     {
       "id": "3ea53052daf7b184",
@@ -219,7 +264,7 @@
       "related_urls": [
         "https://www.devdiscourse.com/article/international/4002828-indias-gold-demand-picks-up-as-diwali-coincides-with-price-dip"
       ],
-      "rank": 5
+      "rank": 7
     },
     {
       "title": "Silver Weekly Forecast: High Rates Leave Further Downside Risk",
@@ -243,7 +288,7 @@
       "breaking": false,
       "new_rank": 6,
       "id": "6d8245c1cc624344",
-      "rank": 6
+      "rank": 8
     },
     {
       "id": "74ee04546586334b",
@@ -266,7 +311,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 7
+      "rank": 9
     },
     {
       "id": "da8205cec61fc511",
@@ -290,7 +335,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 10
     },
     {
       "id": "183dff19d6f83d59",
@@ -312,7 +357,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 11
     },
     {
       "id": "7e7016758097ed8f",
@@ -337,7 +382,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 12
     },
     {
       "id": "2aff9b732b388275",
@@ -362,7 +407,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 13
     },
     {
       "id": "3aece1dacf205c4c",
@@ -384,7 +429,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 14
     },
     {
       "id": "c59a364713b489d7",
@@ -406,7 +451,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 13
+      "rank": 15
     },
     {
       "id": "483c7a8a3e6f633e",
@@ -432,14 +477,14 @@
       "breaking": false,
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/483c7a8a3e6f633e.jpg",
       "image_kind": "photo",
-      "rank": 14,
+      "rank": 16,
       "related_urls": [
         "https://economictimes.indiatimes.com/markets/forex/indian-rupee-strengthens-past-94/-as-oil-slides-foreign-inflows-return/articleshow/135604040.cms"
       ]
     },
     {
       "id": "aa12c1f6a69a3ef2",
-      "rank": 15,
+      "rank": 17,
       "title": "Inflation, rate-hike woes to limit gains in silver, may retest $48: Analyst",
       "summary": "Silver may retest $48 if it fails to recover above $55, Mirae Asset Sharekhan's Praveen Singh said, after the metal broke below $54.50 support and hit a one-year low of $48.61 on 3 November. He blamed a firmer dollar, rate-hike worries after strong US jobs and ISM data, and hawkish Fed comments, though tight physical supply and ETF inflows are cushioning the fall.",
       "url": "https://www.business-standard.com/markets/news/inflation-rate-hike-woes-to-limit-gains-in-silver-may-retest-48-analyst-126110600692_1.html",
@@ -481,7 +526,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 16
+      "rank": 18
     },
     {
       "id": "4e16968ed73bfad2",
@@ -504,7 +549,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 17
+      "rank": 19
     },
     {
       "id": "d5734da5e633d179",
@@ -530,11 +575,11 @@
         "https://www.devdiscourse.com/article/business/4002501-gold-may-be-nearing-interim-bottom-broader-macro-outlook-supports-recovery-wgc",
         "https://www.gold.org/goldhub/research/gold-market-commentary-october-2026"
       ],
-      "rank": 18
+      "rank": 20
     },
     {
       "id": "d3cff56db23d6cd9",
-      "rank": 19,
+      "rank": 21,
       "title": "NSE's Dhanteras pitch: Buy gold-backed EGRs to help cut India's imports by $5–6 billion",
       "summary": "The National Stock Exchange has urged investors to buy Electronic Gold Receipts instead of physical gold this Dhanteras, saying India could avoid $5–6 billion of gold imports a year if gold funds held NSE EGRs and lent half of their combined 116-tonne holdings. Every EGR is backed by gold recycled in India and stored in SEBI-approved vaults.",
       "url": "https://www.thehindubusinessline.com/markets/gold/nse-urges-investors-to-buy-gold-backed-egrs-this-dhanteras-sees-56-billion-import-savings/article71677140.ece",
@@ -581,53 +626,30 @@
       "breaking": false,
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/ec930f039229503b.jpg",
       "image_kind": "photo",
-      "rank": 20
-    },
-    {
-      "id": "6f363955ec43a757",
-      "title": "Gold and Silver Rise for the Week as Tech, Crude and Copper Fall",
-      "summary": "Gold and silver ended the week higher despite Friday's pullback, with bullion on track for its biggest weekly gain since August after the US midterm elections weakened the dollar and pulled Treasury yields lower. Tech stocks, crude oil and copper fell over the week as investors sold growth assets.",
-      "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-ai-tech-jobs-110620262",
-      "source": "BullionVault",
-      "source_domain": "bullionvault.co.uk",
-      "publisher_id": "bullionvault",
-      "published_at": "2026-11-06T15:44:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/6f363955ec43a757.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 21
-    },
-    {
-      "id": "fb5158a3a9e9d85d",
-      "title": "Silver’s 2027 Surplus Forecast Puts the Bullish Case for ETF Demand to the Test",
-      "summary": "Metals Focus now expects a 37.3-million-ounce silver surplus in 2027, against a 35.4-million-ounce shortfall in 2026, as solar-panel makers use less silver; even so, it forecasts an average silver price of $72.60 this year and $84.40 in 2027, resting the case on inflows into physical silver ETFs.",
-      "url": "https://www.investing.com/analysis/silvers-2027-surplus-forecast-puts-the-bullish-case-for-etf-demand-to-the-test-200690958",
-      "source": "Investing.com",
-      "source_domain": "investing.com",
-      "publisher_id": "investing",
-      "published_at": "2026-11-05T19:52:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/fb5158a3a9e9d85d.jpg",
-      "image_kind": "photo",
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "tags": [
-        "silver",
-        "global"
-      ],
-      "breaking": false,
       "rank": 22
+    },
+    {
+      "id": "6459baa392c8729f",
+      "title": "Assam: BIS raids Bijni jewellery shop over alleged fake hallmarking",
+      "summary": "BIS officials raided Ma Kali Jewellers on Bijni-Panbari Road in Assam's Chirang district after tips that the shop sold gold carrying counterfeit hallmarks, the Sentinel reported; selling fake-hallmarked jewellery is an offence under the BIS Act, 2016.",
+      "url": "https://www.sentinelassam.com/topheadlines/assam-bis-raids-bijni-jewellery-shop-over-alleged-fake-hallmarking",
+      "source": "The Sentinel",
+      "source_domain": "sentinelassam.com",
+      "publisher_id": "sentinel-assam",
+      "published_at": "2026-11-07T03:08:31Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/6459baa392c8729f.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
+      ],
+      "category": "policy",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 23
     },
     {
       "id": "f574684c2ef670d9",
@@ -650,7 +672,7 @@
       "metals": [
         "gold"
       ],
-      "rank": 23,
+      "rank": 24,
       "breaking": false
     },
     {
@@ -673,7 +695,7 @@
       "metals": [
         "gold"
       ],
-      "rank": 24,
+      "rank": 25,
       "breaking": false
     },
     {
@@ -698,7 +720,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 25
+      "rank": 26
     }
   ]
 }
