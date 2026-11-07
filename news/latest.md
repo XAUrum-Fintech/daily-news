@@ -1,14 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-11-07T09:00Z
-
-## Today's brief — midday
-
-**Gold 21% off record high as Samvat 2083 begins**
-
-MCX gold near Rs 1,42,364 per 10 g, 21% off its record high; spot gold at $4,050 as US payrolls lifted the dollar.
-
-- FXStreet says strong US payrolls lifted the dollar and yields; Reuters says Diwali buying picked up as prices dipped.
-- Dhanteras trade hit a record Rs 1.25 lakh crore, CAIT said, as the price dip drew buyers back; the rupee strengthened past 94 per dollar.
-- Watch next: US CPI on Tuesday 10 November at 19:00 IST, the next test for Fed hike bets; FXEmpire flags it after the payrolls beat.
+# Gold & Silver for Indian buyers · 2026-11-07T10:00Z
 
 > Gold steadies near $4,050 after payrolls shock; strongest weekly gain since August
 
@@ -20,12 +10,22 @@ Spot gold steadied near $4,050 after US October payrolls of 165,000 — more tha
 - Dhanteras trade hit a record Rs 1.25 lakh crore, CAIT said, with gold and silver sales over Rs 66,000 crore.
 - Bank of America still sees silver averaging $75 in mid-2027 on data-centre demand, though construction delays could push the recovery later.
 
+## Today's brief
+
+**Gold 21% off record high as Samvat 2083 begins** (midday, 2026-11-07)
+
+MCX gold near Rs 1,42,364 per 10 g, 21% off its record high; spot gold at $4,050 as US payrolls lifted the dollar.
+
+- FXStreet says strong US payrolls lifted the dollar and yields; Reuters says Diwali buying picked up as prices dipped.
+- Dhanteras trade hit a record Rs 1.25 lakh crore, CAIT said, as the price dip drew buyers back; the rupee strengthened past 94 per dollar.
+- Watch next: US CPI on Tuesday 10 November at 19:00 IST, the next test for Fed hike bets; FXEmpire flags it after the payrolls beat.
+
 ## Trending
-- **Payrolls beat keeps Fed hike bets alive**: October payrolls of 165,000, more than double the forecast, lifted the dollar and December hike odds, pulling spot gold toward $4,050. Wall Street is split on next week; Main Street stays bullish. (stories #1, #6, #17, #14, #5, #3)
-- **Dhanteras dip draws buyers back**: Gold eased on Dhanteras yet festive buying stayed strong: trade hit a record Rs 1.25 lakh crore, jewellers reported footfalls, and Reuters says demand picked up as prices slid to a seven-month low. (stories #4, #11, #8, #3)
-- **Rupee past 94 as oil slides and inflows return**: The rupee strengthened past 94 per dollar to its best since April as Brent fell nearly 20% on the week and foreign investors bought nearly $3 billion of Indian equities. (stories #12, #21, #20)
-- **Silver's week: gains hold despite rate fears**: Silver eased with gold on Friday but stayed on track for its first weekly gain in five weeks; analysts warn it may retest $48 if it cannot clear $55, while BofA still sees $75 in mid-2027. (stories #10, #22, #13, #1)
-- **Gold's strongest week since August**: Gold rose nearly 4.5% for the week, its strongest since August, as crude oil plunged over 12% after the US midterms; MCX gold ended near Rs 1,42,364 per 10 g. (stories #2, #1, #16)
+- **Payrolls beat keeps Fed hike bets alive**: October payrolls of 165,000, more than double the forecast, lifted the dollar and December hike odds, pulling spot gold toward $4,050. Wall Street is split on next week; Main Street stays bullish. (stories 593448fbd00e0883, bfe963e447f0aaa9, 183dff19d6f83d59, e3f52c2454a2a3d1, 2b27189bf21c45dc, 2e7f4f53fd613c40)
+- **Dhanteras dip draws buyers back**: Gold eased on Dhanteras yet festive buying stayed strong: trade hit a record Rs 1.25 lakh crore, jewellers reported footfalls, and Reuters says demand picked up as prices slid to a seven-month low. (stories 4f1f70f33be4780f, 7e7016758097ed8f, 3ea53052daf7b184, 2e7f4f53fd613c40)
+- **Rupee past 94 as oil slides and inflows return**: The rupee strengthened past 94 per dollar to its best since April as Brent fell nearly 20% on the week and foreign investors bought nearly $3 billion of Indian equities. (stories 2aff9b732b388275, 483c7a8a3e6f633e, ec930f039229503b)
+- **Silver's week: gains hold despite rate fears**: Silver eased with gold on Friday but stayed on track for its first weekly gain in five weeks; analysts warn it may retest $48 if it cannot clear $55, while BofA still sees $75 in mid-2027. (stories 6d8245c1cc624344, aa12c1f6a69a3ef2, 29eb983c6c89d201, 593448fbd00e0883)
+- **Gold's strongest week since August**: Gold rose nearly 4.5% for the week, its strongest since August, as crude oil plunged over 12% after the US midterms; MCX gold ended near Rs 1,42,364 per 10 g. (stories b23b1c40ab850802, 593448fbd00e0883, 74ee04546586334b)
 
 ## Stories
 1. [Gold, silver turn volatile after strong US jobs data, but remain on track to snap multi-week losing streaks](https://www.livemint.com/market/stock-market-news/gold-silver-turn-volatile-after-strong-us-jobs-data-but-remain-on-track-to-snap-multi-week-losing-streaks-11793985166600.html) — *Mint*, 2026-11-06T17:25:16Z
@@ -52,18 +52,18 @@ Spot gold steadied near $4,050 after US October payrolls of 165,000 — more tha
    Dhanteras generated a record Rs 1.25 lakh crore in business across India, CAIT said, with gold and silver sales crossing Rs 66,000 crore — about 53% of the total — according to the All India Jewellers and Goldsmith Federation. Delhi's bullion market contributed over Rs 10,000 crore, with demand strong for lightweight jewellery, silver coins and investment-led purchases despite record-high prices.
 12. [Indian rupee strengthens past 94/$ as oil slides, foreign inflows return](https://economictimes.indiatimes.com/markets/forex/indian-rupee-strengthens-past-94/-as-oil-slides-foreign-inflows-return/articleshow/135604040.cms) — *Economic Times*, 2026-11-06T10:35:18Z
    The rupee ended at 93.9050 per dollar, past 94 for the first time since 22 April and up 1.1% on the week, as foreign investors bought nearly $3 billion of Indian equities this week and Brent crude fell nearly 20%. A stronger rupee lowers the cost of importing gold and silver.
-13. [Silver Price Prediction: BofA Forecasts $75 On Data-Centre Risks](https://www.exchangerates.org.uk/news/47701/2026-11-07-silver-price-prediction-bofa-forecasts-75-on-data-centre-risks.html) — *Exchange Rates UK*, 2026-11-07T08:00:00Z
+13. [NSE records 2.27 lakh Electronic Gold Receipts traded on Dhanteras](https://www.thehindubusinessline.com/markets/gold/nse-egr-trading-hits-record-227-lakh-units-on-dhanteras/article71677643.ece) — *The Hindu BusinessLine*, 2026-11-07T08:48:07Z
+   NSE logged its highest-ever Electronic Gold Receipt volumes on Dhanteras, with 2,27,692 units traded, as festive buyers used the exchange-traded, dematerialised route to hold gold instead of taking physical delivery.
+14. [Silver Price Prediction: BofA Forecasts $75 On Data-Centre Risks](https://www.exchangerates.org.uk/news/47701/2026-11-07-silver-price-prediction-bofa-forecasts-75-on-data-centre-risks.html) — *Exchange Rates UK*, 2026-11-07T08:00:00Z
    Bank of America still expects silver to average $75 an ounce in the second and third quarters of 2027, with a full-year average of $70, on demand from AI data centres. But delays to US data-centre construction could push equipment purchases, and the bank's expected price recovery, into later quarters. Spot silver rose 0.65% to $52.03 on Friday as investors reassessed the AI sell-off.
-14. [Wall Street split on gold following Dems’ midterm rout, Main Street bulls emboldened after post-election price rally](https://www.kitco.com/news/article/2026-11-06/wall-street-split-gold-following-dems-midterm-rout-main-street-bulls) — *Kitco*, 2026-11-06T22:33:36Z
+15. [Wall Street split on gold following Dems’ midterm rout, Main Street bulls emboldened after post-election price rally](https://www.kitco.com/news/article/2026-11-06/wall-street-split-gold-following-dems-midterm-rout-main-street-bulls) — *Kitco*, 2026-11-06T22:33:36Z
    Wall Street is split on gold after its post-election rally: in the Kitco weekly survey, 4 of 13 analysts (31%) see higher prices next week, 5 (38%) see lower and 4 (31%) expect sideways trade. Main Street is far more bullish, with 143 of 212 retail voters (68%) looking for gains. Gold rallied from about $3,900 to a high of $4,145 before payrolls pulled it back.
-15. [Gold's Central Bank Backstop Faces Its Sternest Test in Washington](https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/gold-s-central-bank-backstop-faces-its-sternest-test-in-washington/70472153) — *ad-hoc-news*, 2026-11-06T21:11:07Z
+16. [Gold's Central Bank Backstop Faces Its Sternest Test in Washington](https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/gold-s-central-bank-backstop-faces-its-sternest-test-in-washington/70472153) — *ad-hoc-news*, 2026-11-06T21:11:07Z
    Gold settled at $4,055.50 on Thursday as a firmer dollar and rising crude revived inflation worries after October payrolls came in at 165,000. Goldman Sachs cut its end-2026 gold forecast to $4,150 from $4,650; Citi sees $4,800 by end-2027. Central-bank buying remains the floor: the World Gold Council logged 321 tonnes of net Q3 buying, up 42% year on year.
-16. [Gold price gains 3% in 5 days: Why Indian investors should not rush yet](https://www.financialexpress.com/market/gold-pulse/gold-price-gains-3-in-5-days-why-indian-investors-should-not-rush-yet/4378735/) — *Financial Express*, 2026-11-07T01:37:00Z
+17. [Gold price gains 3% in 5 days: Why Indian investors should not rush yet](https://www.financialexpress.com/market/gold-pulse/gold-price-gains-3-in-5-days-why-indian-investors-should-not-rush-yet/4378735/) — *Financial Express*, 2026-11-07T01:37:00Z
    Gold in India has gained 3% in the last five trading days to about Rs 1.41 lakh per 10 g, and is up 6% since the start of 2026, the Financial Express reports, while flagging headwinds including oil near $98 a barrel and a 70% chance of a December Fed rate hike.
-17. [Gold (XAU/USD) Price Forecast: Breakout Signals Potential End to Correction](https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-breakout-signals-potential-end-to-correction-1643107) — *FXEmpire*, 2026-11-07T02:31:56Z
+18. [Gold (XAU/USD) Price Forecast: Breakout Signals Potential End to Correction](https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-breakout-signals-potential-end-to-correction-1643107) — *FXEmpire*, 2026-11-07T02:31:56Z
    FXEmpire's Bruce Powers says gold's breakout from its downtrend channel signals a possible end to the correction, with momentum building from the recent $3,870 low, though Friday's pullback to a $4,027 low tested support and spot traded near $4,071.
-18. [Gold price outlook: World Gold Council sees signs of an interim bottom](https://www.thehindubusinessline.com/markets/gold/gold-prices-may-be-nearing-bottom-as-world-gold-council-sees-recovery-signals/article71673011.ece) — *The Hindu BusinessLine*, 2026-11-06T05:48:00Z
-   The World Gold Council says gold may be nearing an interim bottom after a 6.3% October fall to $3,913, with two of three recovery conditions — technical dislocation and dollar strength — in place. Speculative positions have yet to wash out. The Council sees a correction as more likely than a prolonged post-2011-style downturn, citing restrictive real yields, a strong dollar and geopolitical risk.
 19. [NSE's Dhanteras pitch: Buy gold-backed EGRs to help cut India's imports by $5–6 billion](https://www.thehindubusinessline.com/markets/gold/nse-urges-investors-to-buy-gold-backed-egrs-this-dhanteras-sees-56-billion-import-savings/article71677140.ece) — *The Hindu BusinessLine*, 2026-11-07T01:01:55Z
    The National Stock Exchange has urged investors to buy Electronic Gold Receipts instead of physical gold this Dhanteras, saying India could avoid $5–6 billion of gold imports a year if gold funds held NSE EGRs and lent half of their combined 116-tonne holdings. Every EGR is backed by gold recycled in India and stored in SEBI-approved vaults.
 20. [India's forex reserves fall by $2.69 billion to $717.05 billion as RBI steps in to defend rupee](https://www.moneycontrol.com/news/business/commodities/india-s-forex-reserves-fall-by-2-69-billion-to-717-05-billion-as-rbi-steps-in-to-defend-rupee-14073420.html) — *Moneycontrol*, 2026-11-06T11:57:00Z
