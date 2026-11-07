@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-07T02:00Z",
-  "generated_at": "2026-11-07T02:06:19Z",
+  "edition_id": "2026-11-07T03:00Z",
+  "generated_at": "2026-11-07T03:11:16Z",
   "window": {
-    "from": "2026-11-07T00:00:00Z",
-    "to": "2026-11-07T02:00:00Z"
+    "from": "2026-11-07T02:00:00Z",
+    "to": "2026-11-07T03:00:00Z"
   },
   "insights": {
     "headline": "Gold steadies near $4,050 after payrolls shock; Dhanteras trade hits record Rs 1.25 lakh crore",
@@ -56,7 +56,7 @@
       "summary": "October payrolls of 165,000, more than double the forecast, lifted the dollar and December hike odds, pulling spot gold toward $4,050. Wall Street is split on next week; Main Street stays bullish.",
       "item_ids": [
         "593448fbd00e0883",
-        "eb95d030ad7646ef",
+        "183dff19d6f83d59",
         "e3f52c2454a2a3d1"
       ]
     },
@@ -88,6 +88,14 @@
         "593448fbd00e0883",
         "fb5158a3a9e9d85d"
       ]
+    },
+    {
+      "title": "China's central bank keeps buying the dip",
+      "summary": "The PBOC added 830,000 ounces in October, its 24th straight month of buying, even as gold fell almost 7% in October — steady official demand under a falling price.",
+      "item_ids": [
+        "6341f8a41049f084",
+        "da8205cec61fc511"
+      ]
     }
   ],
   "items": [
@@ -118,8 +126,31 @@
       "rank": 1
     },
     {
+      "id": "6341f8a41049f084",
+      "title": "China Extends Gold-Buying Streak to Two Years as Prices Drop",
+      "summary": "China's central bank added about 830,000 ounces of gold in October, taking its buying streak to 24 straight months, even as bullion fell almost 7% in October to end below $4,000 an ounce. Purchases in the first ten months of 2026 total about 129 tonnes.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-07/china-extends-gold-buying-streak-to-two-years-as-prices-drop",
+      "source": "Bloomberg",
+      "source_domain": "bloomberg.com",
+      "publisher_id": "bloomberg",
+      "published_at": "2026-11-07T02:26:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "central-banks",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 2
+    },
+    {
       "id": "bfe963e447f0aaa9",
-      "rank": 2,
+      "rank": 3,
       "title": "Gold falls toward $4,050 as strong US NFP keeps Fed hawks in control",
       "summary": "Spot gold fell toward $4,050, down about 1.2% on the day, after US October payrolls came in at 165,000 — more than double the 65,000 forecast — with unemployment easing to 4.1%. The strong jobs data lifted the dollar and Treasury yields and strengthened the case for a December Fed rate hike, pulling gold off Thursday's two-week high of $4,146. Bullion still held on to a weekly gain of about 4%.",
       "url": "https://www.fxstreet.com/news/gold-struggles-below-4-100-as-us-nonfarm-payrolls-takes-centre-stage-202611061118",
@@ -139,32 +170,6 @@
         "gold"
       ],
       "breaking": false
-    },
-    {
-      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats As Dollar Rallies After NFP Report",
-      "summary": "Gold pulled back after US employers added 165,000 jobs in October, far above the 65,000 forecast, sending the dollar and Treasury yields higher and lifting December Fed hike odds to 78.8%. FXEmpire puts near-term support at $4,000–$4,020, with $3,890–$3,910 below, and resistance at $4,100 then $4,180–$4,200. Silver held up as the gold-silver ratio slipped below 78.",
-      "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-retreats-as-dollar-rallies-after-nfp-report-1643033",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "publisher_id": "fxempire",
-      "published_at": "2026-11-06T17:06:52Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "silver",
-        "fed",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "new_rank": 3,
-      "id": "eb95d030ad7646ef",
-      "rank": 3
     },
     {
       "title": "Wall Street split on gold following Dems’ midterm rout, Main Street bulls emboldened after post-election price rally",
@@ -241,6 +246,29 @@
       "rank": 6
     },
     {
+      "id": "74ee04546586334b",
+      "title": "Gold price gains 3% in 5 days: Why Indian investors should not rush yet",
+      "summary": "Gold in India has gained 3% in the last five trading days to about Rs 1.41 lakh per 10 g, and is up 6% since the start of 2026, the Financial Express reports, while flagging headwinds including oil near $98 a barrel and a 70% chance of a December Fed rate hike.",
+      "url": "https://www.financialexpress.com/market/gold-pulse/gold-price-gains-3-in-5-days-why-indian-investors-should-not-rush-yet/4378735/",
+      "source": "Financial Express",
+      "source_domain": "financialexpress.com",
+      "publisher_id": "financial-express",
+      "published_at": "2026-11-07T01:37:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/74ee04546586334b.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "mcx",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 7
+    },
+    {
       "id": "da8205cec61fc511",
       "title": "Gold's Central Bank Backstop Faces Its Sternest Test in Washington",
       "summary": "Gold settled at $4,055.50 on Thursday as a firmer dollar and rising crude revived inflation worries after October payrolls came in at 165,000. Goldman Sachs cut its end-2026 gold forecast to $4,150 from $4,650; Citi sees $4,800 by end-2027. Central-bank buying remains the floor: the World Gold Council logged 321 tonnes of net Q3 buying, up 42% year on year.",
@@ -262,7 +290,29 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 7
+      "rank": 8
+    },
+    {
+      "id": "183dff19d6f83d59",
+      "title": "Gold (XAU/USD) Price Forecast: Breakout Signals Potential End to Correction",
+      "summary": "FXEmpire's Bruce Powers says gold's breakout from its downtrend channel signals a possible end to the correction, with momentum building from the recent $3,870 low, though Friday's pullback to a $4,027 low tested support and spot traded near $4,071.",
+      "url": "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-breakout-signals-potential-end-to-correction-1643107",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "published_at": "2026-11-07T02:31:56Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 9
     },
     {
       "id": "7e7016758097ed8f",
@@ -287,7 +337,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 10
     },
     {
       "id": "2aff9b732b388275",
@@ -312,7 +362,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 11
     },
     {
       "id": "3aece1dacf205c4c",
@@ -334,7 +384,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 12
     },
     {
       "id": "c59a364713b489d7",
@@ -356,7 +406,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 13
     },
     {
       "id": "483c7a8a3e6f633e",
@@ -382,14 +432,14 @@
       "breaking": false,
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/483c7a8a3e6f633e.jpg",
       "image_kind": "photo",
-      "rank": 12,
+      "rank": 14,
       "related_urls": [
         "https://economictimes.indiatimes.com/markets/forex/indian-rupee-strengthens-past-94/-as-oil-slides-foreign-inflows-return/articleshow/135604040.cms"
       ]
     },
     {
       "id": "aa12c1f6a69a3ef2",
-      "rank": 13,
+      "rank": 15,
       "title": "Inflation, rate-hike woes to limit gains in silver, may retest $48: Analyst",
       "summary": "Silver may retest $48 if it fails to recover above $55, Mirae Asset Sharekhan's Praveen Singh said, after the metal broke below $54.50 support and hit a one-year low of $48.61 on 3 November. He blamed a firmer dollar, rate-hike worries after strong US jobs and ISM data, and hawkish Fed comments, though tight physical supply and ETF inflows are cushioning the fall.",
       "url": "https://www.business-standard.com/markets/news/inflation-rate-hike-woes-to-limit-gains-in-silver-may-retest-48-analyst-126110600692_1.html",
@@ -431,7 +481,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 16
     },
     {
       "id": "4e16968ed73bfad2",
@@ -454,7 +504,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 15
+      "rank": 17
     },
     {
       "id": "d5734da5e633d179",
@@ -480,11 +530,11 @@
         "https://www.devdiscourse.com/article/business/4002501-gold-may-be-nearing-interim-bottom-broader-macro-outlook-supports-recovery-wgc",
         "https://www.gold.org/goldhub/research/gold-market-commentary-october-2026"
       ],
-      "rank": 16
+      "rank": 18
     },
     {
       "id": "d3cff56db23d6cd9",
-      "rank": 17,
+      "rank": 19,
       "title": "NSE's Dhanteras pitch: Buy gold-backed EGRs to help cut India's imports by $5–6 billion",
       "summary": "The National Stock Exchange has urged investors to buy Electronic Gold Receipts instead of physical gold this Dhanteras, saying India could avoid $5–6 billion of gold imports a year if gold funds held NSE EGRs and lent half of their combined 116-tonne holdings. Every EGR is backed by gold recycled in India and stored in SEBI-approved vaults.",
       "url": "https://www.thehindubusinessline.com/markets/gold/nse-urges-investors-to-buy-gold-backed-egrs-this-dhanteras-sees-56-billion-import-savings/article71677140.ece",
@@ -531,7 +581,7 @@
       "breaking": false,
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/ec930f039229503b.jpg",
       "image_kind": "photo",
-      "rank": 18
+      "rank": 20
     },
     {
       "id": "6f363955ec43a757",
@@ -555,7 +605,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 19
+      "rank": 21
     },
     {
       "id": "fb5158a3a9e9d85d",
@@ -577,7 +627,7 @@
         "global"
       ],
       "breaking": false,
-      "rank": 20
+      "rank": 22
     },
     {
       "id": "f574684c2ef670d9",
@@ -600,7 +650,7 @@
       "metals": [
         "gold"
       ],
-      "rank": 21,
+      "rank": 23,
       "breaking": false
     },
     {
@@ -623,7 +673,7 @@
       "metals": [
         "gold"
       ],
-      "rank": 22,
+      "rank": 24,
       "breaking": false
     },
     {
@@ -648,7 +698,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 23
+      "rank": 25
     }
   ]
 }
