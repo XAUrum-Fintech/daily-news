@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-08T20:00Z",
-  "generated_at": "2026-11-08T20:03:34Z",
+  "edition_id": "2026-11-08T22:00Z",
+  "generated_at": "2026-11-08T22:09:25Z",
   "window": {
-    "from": "2026-11-08T18:00:00Z",
-    "to": "2026-11-08T20:00:00Z"
+    "from": "2026-11-08T20:00:00Z",
+    "to": "2026-11-08T22:00:00Z"
   },
   "insights": {
     "headline": "Gold steadies near $4,072 after strong US jobs data as MCX ends Diwali Muhurat session higher",
@@ -13,7 +13,7 @@
       "US payrolls rose 165,000 in October, far above the 65,000 forecast, lifting the dollar and December Fed hike odds; spot gold traded near $4,072.",
       "MCX December gold rose 1.2% to Rs 1,42,335 per 10 g in the Muhurat session; silver edged up 0.2% to Rs 1,85,079 per kg.",
       "Dhanteras gold and silver sales crossed Rs 60,000 crore, GJC estimated, up 15-20% in value on last year as buyers chose lighter jewellery.",
-      "Silver ended Friday at $51.89, up 5.75% on the week; FXEmpire puts support at $48-50, with Tuesday's US CPI the next test.",
+      "Silver closed Friday at $51.94, up 5.75% on the week; FXEmpire says $51.05 is the level to watch, with $55.35 above.",
       "US and Iran both reported ships hit in or near the Strait of Hormuz; US October CPI is due Tuesday 10 November."
     ],
     "brief": null
@@ -23,8 +23,7 @@
       "title": "Jobs beat resets the Fed debate",
       "summary": "US payrolls rose 165,000 in October, far above the 65,000 forecast, lifting the dollar and December hike odds; gold stayed above $4,000 and ended the week higher.",
       "item_ids": [
-        "8624d66023670fe1",
-        "2b27189bf21c45dc"
+        "8624d66023670fe1"
       ]
     },
     {
@@ -45,12 +44,13 @@
       ]
     },
     {
-      "title": "Silver's strong week, cooler forecasts",
-      "summary": "Silver ended the week at $51.89, up 5.75%, but JPMorgan and the World Bank trimmed 2027 forecasts.",
+      "title": "Silver's strong week, levels in focus",
+      "summary": "Silver ended the week at $51.94, up 5.75%, with FXEmpire watching $51.05 support and $55.35 above; the World Bank's 2028 gold forecast sits almost exactly at today's price.",
       "item_ids": [
         "edadc5398eb9e5f6",
-        "3658f8ce915f5869",
-        "c5b92c443737a54c"
+        "6feb8297b26c83de",
+        "c5b92c443737a54c",
+        "ac2b6e5448219636"
       ]
     },
     {
@@ -209,6 +209,29 @@
       "rank": 6
     },
     {
+      "id": "6feb8297b26c83de",
+      "title": "Silver Price Forecast: Holding $51.05 Could Put $55.35 on the Radar",
+      "summary": "Silver closed Friday at $51.94, FXEmpire says, with $51.05 the level to watch: holding it could set up a move toward $53.48 and $55.35, while a break below it risks a retest of $48.62. The strong US jobs report lifted rate-hike expectations, keeping the recovery under watch ahead of Tuesday's US CPI.",
+      "url": "https://www.fxempire.com/forecasts/article/silver-price-forecast-holding-51-05-could-put-55-35-on-the-radar-1643193",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "published_at": "2026-11-08T17:54:55Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "silver",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 7
+    },
+    {
       "id": "cef44a122b97c7cf",
       "title": "Gold sales during Dhanteras, Lakshmi Puja may cross Rs 62,000 crore",
       "summary": "Gold sales across India during Dhanteras and Lakshmi Puja are estimated to cross Rs 62,000 crore, the All India Gem and Jewellery Domestic Council (GJC) said on Sunday, reflecting strong festive demand despite elevated prices. GJC said gold returned about 9-14% between last year's Lakshmi Puja and this November, with prices now around Rs 1.42-1.43 lakh per 10 g.",
@@ -229,29 +252,6 @@
       "metals": [
         "gold",
         "silver"
-      ],
-      "breaking": false,
-      "rank": 7
-    },
-    {
-      "id": "2b27189bf21c45dc",
-      "title": "Gold price holds critical $4,000 support, but strong U.S. jobs data and inflation risks threaten recovery",
-      "summary": "Gold held above $4,000 after the strong US jobs report, analysts told Kitco, with Saxo's Ole Hansen expecting the level to hold; Blue Line's Phillip Streible warned a hot US inflation print next week could cement December hike bets and push gold back below $4,000. US CPI is due Tuesday.",
-      "url": "https://www.kitco.com/news/article/2026-11-06/gold-price-holds-critical-4000-support-strong-us-jobs-data-and-inflation",
-      "source": "Kitco",
-      "source_domain": "kitco.com",
-      "publisher_id": "kitco",
-      "published_at": "2026-11-06T20:45:41Z",
-      "image_url": "https://image-api.prod.kitco.com/image/71acb78f-e49a-476e-bb9c-8fbee7cd0f25.jpeg?top=0.1286563071298&left=0&width=1000&height=562.74268738574&scale_width=1920&token=42c9d80f3729c729f6a54d04691f3ec8f2dcedce8b00b70f2bb4060dbac07810",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "fed",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
       ],
       "breaking": false,
       "rank": 8
@@ -569,29 +569,6 @@
       "breaking": false
     },
     {
-      "id": "56ee7fee4ea51ed4",
-      "title": "India gold demand falls 29% in Q3 as record prices curb jewellery and investment buying: WGC report",
-      "summary": "India's gold demand fell 29% year on year to 162.5 tonnes in the July-September quarter, the World Gold Council said, as record prices curbed jewellery and investment buying; in value terms demand still rose 3% to Rs 2.41 lakh crore, and the council sees full-year demand at 625-675 tonnes, a six-year low.",
-      "url": "https://retailjewellerindia.com/india-gold-demand-falls-29-in-q3-as-record-prices-curb-jewellery-and-investment-buying-wgc-report/",
-      "source": "The Retail Jeweller India",
-      "source_domain": "retailjewellerindia.com",
-      "publisher_id": "retail-jeweller-india",
-      "published_at": "2026-11-06T21:18:39Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "india",
-        "jewellery"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 22
-    },
-    {
       "id": "873c9a50414ec914",
       "title": "14,000+ gold, silver coins delivered per hour: Instamart, Zepto, others record rising orders as Diwali shopping shifts to q-comm",
       "summary": "Zepto delivered more than 14,000 gold and silver coins an hour at its Dhanteras peak — about 298 coins a minute — its co-founder Aadit Palicha said. Swiggy Instamart saw gold coin orders jump 23 times in the week to Dhanteras, while silver coin orders rose seven times. Flipkart Minutes said gold coin and bar orders more than doubled.",
@@ -614,11 +591,11 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 23
+      "rank": 22
     },
     {
       "id": "54d6c6b81cb96d71",
-      "rank": 24,
+      "rank": 23,
       "title": "Silver anklet units in Salem get a good amount of orders for this year’s Deepavali",
       "summary": "Salem’s silver anklet makers reported a sharp recovery for Deepavali, with orders rising to over 45%, nearly double the roughly 25% in 2025, The Hindu reported. The rebound followed silver easing to about Rs 2.05 lakh per kg from a volatile Rs 2.3–4 lakh range, and orders picked up in the last 15 days from buyers across five states.",
       "url": "https://www.thehindu.com/news/cities/Coimbatore/silver-anklet-units-in-salem-get-a-good-amount-of-orders-for-this-years-deepavali/article71677626.ece",
@@ -660,29 +637,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 25
-    },
-    {
-      "id": "3658f8ce915f5869",
-      "title": "Silver Price Forecasts For 2027/28 Trimmed as Markets Shift",
-      "summary": "JPMorgan cut its 2027 average silver forecast to $63.90 an ounce from $85.80, and the World Bank sees silver averaging $62 in 2027 and $58 in 2028, as solar makers use less silver per panel and physical tightness eases. Silver traded near $51, with the gold-silver ratio back at 78.",
-      "url": "https://thebull.com.au/news/silver-price-forecasts-for-2027-28-trimmed-as-markets-shift/",
-      "source": "The Bull",
-      "source_domain": "thebull.com.au",
-      "publisher_id": "the-bull",
-      "published_at": "2026-11-08T06:35:26Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "silver",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 26
+      "rank": 24
     }
   ]
 }
