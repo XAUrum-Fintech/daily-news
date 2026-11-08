@@ -1,10 +1,10 @@
 {
  "schema": "orob-news.v1",
- "edition_id": "2026-11-08T05:00Z",
- "generated_at": "2026-11-08T05:14:34Z",
+ "edition_id": "2026-11-08T06:00Z",
+ "generated_at": "2026-11-08T06:07:16Z",
  "window": {
-  "from": "2026-11-08T03:00:00Z",
-  "to": "2026-11-08T05:00:00Z"
+  "from": "2026-11-08T05:00:00Z",
+  "to": "2026-11-08T06:00:00Z"
  },
  "insights": {
   "headline": "Gold holds near $4,050 after jobs shock; US CPI on Tuesday is the next test",
@@ -56,8 +56,8 @@
    "item_ids": [
     "593448fbd00e0883",
     "2b27189bf21c45dc",
-    "e456121ac7daf993",
-    "8624d66023670fe1"
+    "8624d66023670fe1",
+    "7a40158b97886725"
    ]
   },
   {
@@ -69,7 +69,7 @@
     "3ea53052daf7b184",
     "873c9a50414ec914",
     "54d6c6b81cb96d71",
-    "e1e413e578f01770"
+    "8a8764c86058d792"
    ]
   },
   {
@@ -89,7 +89,7 @@
     "39a05ef98f976b1c",
     "29eb983c6c89d201",
     "992f6cf66865d97f",
-    "e456121ac7daf993"
+    "7a40158b97886725"
    ]
   },
   {
@@ -231,29 +231,29 @@
    "rank": 5
   },
   {
-   "id": "e456121ac7daf993",
-   "title": "Gold prices today: Why bullion is falling as Goldman cuts forecast by $500",
-   "summary": "Goldman Sachs cut its end-2026 gold forecast to $4,150 an ounce from $4,650, and its end-2027 forecast to $4,800 from $5,400, citing a hawkish Federal Reserve outlook. Gold slipped even as Asian shares crashed, pressured by firm oil and rate-hike expectations; traders put December hike odds at 68%. The bank still sees central-bank buying as support.",
-   "url": "https://invezz.com/news/2026/11/06/gold-prices-today-goldman-sachs-forecast-cut/",
-   "source": "Invezz",
-   "source_domain": "invezz.com",
-   "publisher_id": "invezz",
-   "published_at": "2026-11-06T05:50:55Z",
-   "image_url": null,
-   "image_kind": "none",
-   "tags": [
-    "gold",
-    "fed",
-    "global"
-   ],
+   "id": "7a40158b97886725",
+   "url": "https://www.baystreet.ca/commodities/9081/goldman-sachs-lowers-its-price-target-on-gold",
+   "title": "Goldman Sachs Lowers Its Price Target On Gold",
+   "summary": "Goldman Sachs lowered its end-2026 gold forecast to $4,150 an ounce from $4,650, citing the prospect of more US interest-rate increases, and sees gold rebounding to $4,800 in 2027. Gold traded around $4,070 on 6 November, with markets pricing a 71% chance of a December Fed hike.",
+   "source": "Baystreet",
+   "source_domain": "baystreet.ca",
+   "publisher_id": "baystreet",
+   "published_at": "2026-11-06T16:06:20Z",
    "category": "global",
    "metals": [
     "gold"
    ],
+   "tags": [
+    "gold",
+    "global",
+    "fed"
+   ],
    "breaking": false,
    "related_urls": [
-    "https://www.miningweekly.com/article/goldman-sachs-trims-gold-forecasts-as-fed-stays-hawkish-2026-11-06"
+    "https://invezz.com/news/2026/11/06/gold-prices-today-goldman-sachs-forecast-cut/"
    ],
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/7a40158b97886725.jpg",
+   "image_kind": "photo",
    "rank": 6
   },
   {
@@ -330,6 +330,32 @@
    "rank": 9
   },
   {
+   "id": "234015be3be06961",
+   "url": "https://talkmarkets.com/article/etf-gold-flows-slow-in-october-but-remain-positive",
+   "title": "ETF Gold Flows Slow In October But Remain Positive",
+   "summary": "Global gold ETFs added a net 19 tonnes of gold worth $2.7 billion in October, taking holdings to a record 4,275 tonnes, though assets under management fell 6% to $542 billion as prices dropped. European funds led with 13.1 tonnes of inflows and Asian funds added 9.8 tonnes, while North American funds saw 4.5 tonnes of outflows.",
+   "source": "TalkMarkets",
+   "source_domain": "talkmarkets.com",
+   "publisher_id": "talkmarkets",
+   "published_at": "2026-11-07T15:26:00Z",
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "tags": [
+    "gold",
+    "global",
+    "central-banks"
+   ],
+   "breaking": false,
+   "related_urls": [
+    "https://www.moneymetals.com/news/2026/11/06/etf-gold-flows-slow-in-october-but-remain-positive-005348"
+   ],
+   "image_url": "https://agcoltwfivlzpiwvpapy.supabase.co/storage/v1/object/public/article-images/32428be3-9857-4141-b1a4-588ddd605433/articles/79919c08-2da3-4a3c-9490-2b08ecd65da5/1c1178f5-9437-46bc-9001-53d62e8d40de-preferred-thumbnail-crop-v2.png",
+   "image_kind": "photo",
+   "rank": 10
+  },
+  {
    "category": "festive",
    "image_kind": "photo",
    "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/4f1f70f33be4780f.jpg",
@@ -352,7 +378,32 @@
    "url": "https://www.cnbctv18.com/personal-finance/dhanteras-sales-2026-how-much-gold-silver-did-indians-buy-20029352.htm",
    "id": "4f1f70f33be4780f",
    "breaking": false,
-   "rank": 10
+   "rank": 11
+  },
+  {
+   "id": "8a8764c86058d792",
+   "url": "https://www.moneycontrol.com/news/business/dhanteras-sales-boom-or-price-illusion-why-indians-spent-more-on-gold-and-appliances-without-buying-much-more-14074800.html",
+   "title": "Dhanteras sales boom or price illusion? Why Indians spent more on gold and appliances without buying much more",
+   "summary": "Dhanteras gold sales reached about Rs 60,000 crore, up 15–20% on last year, but the quantity sold was largely flat, jewellers' body GJC told PTI, with buyers choosing lighter jewellery, 18-carat designs and smaller coins. The World Gold Council's November 3 report showed India's September-quarter jewellery consumption down 20% year on year to 99.9 tonnes even as its value rose 16%.",
+   "source": "Moneycontrol",
+   "source_domain": "moneycontrol.com",
+   "publisher_id": "moneycontrol",
+   "published_at": "2026-11-08T05:26:17Z",
+   "category": "festive",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "tags": [
+    "gold",
+    "silver",
+    "india",
+    "jewellery"
+   ],
+   "breaking": false,
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/8a8764c86058d792.jpg",
+   "image_kind": "photo",
+   "rank": 12
   },
   {
    "id": "4efa849fab375470",
@@ -375,32 +426,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 11
-  },
-  {
-   "id": "e1e413e578f01770",
-   "title": "Dhanteras gold and silver coin buying online: Know 5 points before pressing the payment button",
-   "summary": "Quick-commerce apps now deliver gold and silver coins in 10-30 minutes, but buyers should compare the final amount rather than the headline discount, read the fineness and weight, and keep the maker's assay certificate - coins carry no mandatory BIS hallmark. The app is not the seller, so buy-back and complaints sit with the named jeweller, and returns are usually not allowed.",
-   "url": "https://upstox.com/news/personal-finance/commodities/dhanteras-gold-and-silver-coin-buying-online-know-5-points-before-pressing-the-payment-button/article-203111/",
-   "source": "Upstox",
-   "source_domain": "upstox.com",
-   "publisher_id": "upstox",
-   "published_at": "2026-11-06T06:08:07Z",
-   "image_url": "https://assets.upstox.com/content/assets/images/news/gold-coin-buying-online-on-dhanteras.webp",
-   "image_kind": "photo",
-   "category": "festive",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "tags": [
-    "gold",
-    "silver",
-    "india",
-    "jewellery"
-   ],
-   "breaking": false,
-   "rank": 12
+   "rank": 13
   },
   {
    "id": "6341f8a41049f084",
@@ -423,7 +449,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 13
+   "rank": 14
   },
   {
    "id": "3ea53052daf7b184",
@@ -449,7 +475,7 @@
    "related_urls": [
     "https://www.devdiscourse.com/article/international/4002828-indias-gold-demand-picks-up-as-diwali-coincides-with-price-dip"
    ],
-   "rank": 14
+   "rank": 15
   },
   {
    "id": "56ee7fee4ea51ed4",
@@ -472,7 +498,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 15
+   "rank": 16
   },
   {
    "id": "7e7016758097ed8f",
@@ -497,7 +523,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 16
+   "rank": 17
   },
   {
    "id": "873c9a50414ec914",
@@ -522,11 +548,11 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 17
+   "rank": 18
   },
   {
    "id": "54d6c6b81cb96d71",
-   "rank": 18,
+   "rank": 19,
    "title": "Silver anklet units in Salem get a good amount of orders for this year’s Deepavali",
    "summary": "Salem’s silver anklet makers reported a sharp recovery for Deepavali, with orders rising to over 45%, nearly double the roughly 25% in 2025, The Hindu reported. The rebound followed silver easing to about Rs 2.05 lakh per kg from a volatile Rs 2.3–4 lakh range, and orders picked up in the last 15 days from buyers across five states.",
    "url": "https://www.thehindu.com/news/cities/Coimbatore/silver-anklet-units-in-salem-get-a-good-amount-of-orders-for-this-years-deepavali/article71677626.ece",
@@ -570,7 +596,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 19
+   "rank": 20
   },
   {
    "id": "d521f606c46e48af",
@@ -593,7 +619,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 20
+   "rank": 21
   },
   {
    "id": "29eb983c6c89d201",
@@ -615,7 +641,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 21
+   "rank": 22
   },
   {
    "id": "74ee04546586334b",
@@ -638,7 +664,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 22
+   "rank": 23
   },
   {
    "id": "ec930f039229503b",
@@ -663,7 +689,7 @@
    "breaking": false,
    "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/ec930f039229503b.jpg",
    "image_kind": "photo",
-   "rank": 23
+   "rank": 24
   },
   {
    "id": "483c7a8a3e6f633e",
@@ -689,14 +715,14 @@
    "breaking": false,
    "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/483c7a8a3e6f633e.jpg",
    "image_kind": "photo",
-   "rank": 24,
+   "rank": 25,
    "related_urls": [
     "https://economictimes.indiatimes.com/markets/forex/indian-rupee-strengthens-past-94/-as-oil-slides-foreign-inflows-return/articleshow/135604040.cms"
    ]
   },
   {
    "id": "aa12c1f6a69a3ef2",
-   "rank": 25,
+   "rank": 26,
    "title": "Inflation, rate-hike woes to limit gains in silver, may retest $48: Analyst",
    "summary": "Silver may retest $48 if it fails to recover above $55, Mirae Asset Sharekhan's Praveen Singh said, after the metal broke below $54.50 support and hit a one-year low of $48.61 on 3 November. He blamed a firmer dollar, rate-hike worries after strong US jobs and ISM data, and hawkish Fed comments, though tight physical supply and ETF inflows are cushioning the fall.",
    "url": "https://www.business-standard.com/markets/news/inflation-rate-hike-woes-to-limit-gains-in-silver-may-retest-48-analyst-126110600692_1.html",
