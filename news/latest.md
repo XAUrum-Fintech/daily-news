@@ -1,30 +1,31 @@
-# Gold & Silver for Indian buyers · 2026-11-08T10:00Z
+# Gold & Silver for Indian buyers · 2026-11-08T11:00Z
 
-> Gold steadies near $4,045 after the US jobs beat as MCX opens a special Diwali Muhurat session
+> Gold holds near $4,045 after strong US jobs data as MCX ticks higher in Diwali Muhurat session
 
-Spot gold held near $4,045 after US payrolls rose 165,000 in October, far above forecast, lifting the dollar and December Fed hike bets. MCX December gold ended the week near Rs 1,42,364 per 10 g and silver near Rs 1,84,977 per kg. MCX runs a special Muhurat trading session today, 2:20-3:30 pm IST, for Diwali Laxmi Pujan.
+Spot gold ended Friday at $4,045 after US payrolls rose 165,000, far above the 65,000 expected, lifting the dollar and December Fed hike odds. MCX gold rose 1.2% to Rs 1,42,335 per 10 g and silver edged up to Rs 1,85,079 per kg in Sunday's Diwali Muhurat session. Dhanteras sales crossed Rs 60,000 crore as a price dip drew festive demand, while US October CPI due on Tuesday 10 November is the next big test for bullion.
 
-- US October payrolls rose 165,000, far above the 65,000 forecast, lifting the dollar and December Fed hike bets to about 80%.
-- MCX December gold ended near Rs 1,42,364 per 10 g and silver near Rs 1,84,977 per kg; spot gold held near $4,045.
-- MCX holds its Muhurat trading session today, 2:20-3:30 pm IST, for Diwali Laxmi Pujan as Samvat 2083 begins.
-- JPMorgan cut its 2027 silver forecast to $63.90 an ounce; the World Bank sees silver averaging $62 in 2027 and $58 in 2028.
-- Dhanteras gold sales reached about Rs 60,000 crore, GJC estimated, with silver sales up 30% by value.
+- US payrolls rose 165,000 in October, far above the 65,000 forecast, lifting the dollar and Fed hike odds; spot gold ended Friday at $4,045.
+- MCX December gold rose 1.2% to Rs 1,42,335 per 10 g in the Muhurat session; silver edged up 0.2% to Rs 1,85,079 per kg.
+- Dhanteras gold and silver sales crossed Rs 60,000 crore, GJC estimated, up 15-20% in value on last year as buyers chose lighter jewellery.
+- Silver ended Friday at $51.89, up 5.75% on the week, but JPMorgan trimmed its 2027 silver forecast to $63.90 an ounce.
+- US October CPI is due Tuesday 10 November, and analysts say US-Iran tensions and inflation data will set the tone next week.
 
 ## Today's brief
 
-**Gold steady as Muhurat trading opens for Diwali**
+**Gold steadies in Muhurat session after US jobs beat**
 
-MCX runs its Muhurat session 2:20-3:30 pm IST, with gold near Rs 1,42,364 per 10 g and silver near Rs 1,84,977 per kg.
+MCX gold rose 1.2% to Rs 1,42,335 per 10 g and silver to Rs 1,85,079 per kg in the Muhurat session; spot gold $4,072.
 
-- US payrolls rose 165,000 in October, far above the 65,000 forecast, lifting the dollar and hike bets; spot gold stayed near $4,045.
-- Dhanteras gold sales reached about Rs 60,000 crore, GJC estimated, as a price dip drew festive demand; the rupee firmed past 94 per dollar.
-- MCX runs its special Muhurat session today for Diwali Laxmi Pujan as Samvat 2083 begins, after a special session from 2:05 pm.
+- A stronger-than-expected US jobs report lifted the dollar and December Fed hike odds, Mint says, yet gold held its ground.
+- Dhanteras sales crossed Rs 60,000 crore, GJC estimated, as a price dip drew festive demand for lighter jewellery and small coins.
+- Watch: US October CPI on Tuesday 10 November, and US-Iran talks, which analysts say will set the tone next week.
 
 ## Trending
-- **Muhurat trading opens Samvat 2083**: MCX holds its Diwali Muhurat session today, 2:20-3:30 pm IST, as Samvat 2083 begins; gold futures rose 1.2% to Rs 1,42,335 and silver to Rs 1,85,079 in the session. (stories 3, 2)
-- **Payrolls beat keeps Fed hike bets alive**: October payrolls of 165,000, more than double the forecast, lifted the dollar and December hike odds to 80%, pulling spot gold toward $4,050. Gold held above $4,000 support despite the jobs beat. (stories 1, 8, 5, 13, 4)
-- **Dhanteras dip draws buyers back**: Gold eased on Dhanteras yet festive buying stayed strong: trade hit a record Rs 1.25 lakh crore. Quick commerce delivered 14,000+ gold and silver coins an hour at peak. (stories 17, 23, 21, 24, 25, 18)
-- **Silver forecasts trimmed for 2027-28**: Banks have cut silver forecasts for 2027-28 as solar makers use less silver per panel, with JPMorgan at $63.90 and the World Bank at $62 for 2027; silver closed the week at $51.89, up 5.75%. (stories 6, 10, 7)
+- **Jobs beat resets the Fed debate**: A 165,000 US payrolls print lifted the dollar and December hike odds, yet gold held above $4,000 and stayed on track for a weekly gain. (stories 1, 5, 8)
+- **Muhurat session caps a festive week**: MCX gold and silver ticked higher in the Diwali Muhurat session as Samvat 2083 began, after Dhanteras sales crossed Rs 60,000 crore. (stories 2, 3, 17)
+- **Silver's strong week, cooler forecasts**: Silver gained 5.75% on the week to $51.89, but JPMorgan and the World Bank trimmed 2027-28 silver forecasts as physical tightness eases. (stories 7, 6)
+- **Rupee at a six-month high**: The rupee firmed to 93.91 per dollar, its strongest since April, as crude oil slid and foreign inflows returned. (stories 28, 27)
+- **China keeps buying gold**: China's central bank added about 830,000 ounces in October, extending its gold-buying streak to 24 straight months. (stories 20)
 
 ## Stories
 1. [Gold, silver turn volatile after strong US jobs data, but remain on track to snap multi-week losing streaks](https://www.livemint.com/market/stock-market-news/gold-silver-turn-volatile-after-strong-us-jobs-data-but-remain-on-track-to-snap-multi-week-losing-streaks-11793985166600.html) — *Mint*, 2026-11-06T17:25:16Z
@@ -71,19 +72,15 @@ MCX runs its Muhurat session 2:20-3:30 pm IST, with gold near Rs 1,42,364 per 10
    Indian gold demand picked up on Dhanteras as prices slid to a seven-month low, drawing back buyers who had waited months for a correction, Reuters reports. Local gold traded near Rs 1,41,800 per 10 g after falling to Rs 1,37,863 earlier in the week, and Dhanteras sales are expected to rise about 10% from last year, though rural demand stayed weak.
 22. [India gold demand falls 29% in Q3 as record prices curb jewellery and investment buying: WGC report](https://retailjewellerindia.com/india-gold-demand-falls-29-in-q3-as-record-prices-curb-jewellery-and-investment-buying-wgc-report/) — *The Retail Jeweller India*, 2026-11-06T21:18:39Z
    India's gold demand fell 29% year on year to 162.5 tonnes in the July-September quarter, the World Gold Council said, as record prices curbed jewellery and investment buying; in value terms demand still rose 3% to Rs 2.41 lakh crore, and the council sees full-year demand at 625-675 tonnes, a six-year low.
-23. [India's Dhanteras business hits record Rs 1.25 lakh crore: CAIT](https://ianslive.in/indias-dhanteras-business-hits-record-rs-125-lakh-crore-cait--20261106160933) — *IANS*, 2026-11-06T10:39:33Z
-   Dhanteras generated a record Rs 1.25 lakh crore in business across India, CAIT said, with gold and silver sales crossing Rs 66,000 crore — about 53% of the total — according to the All India Jewellers and Goldsmith Federation. Delhi's bullion market contributed over Rs 10,000 crore, with demand strong for lightweight jewellery, silver coins and investment-led purchases despite record-high prices.
-24. [14,000+ gold, silver coins delivered per hour: Instamart, Zepto, others record rising orders as Diwali shopping shifts to q-comm](https://economictimes.indiatimes.com/industry/services/retail/happy-diwali-2026-14000-gold-silver-coins-delivered-per-hour-shopping-shifts-to-quick-commerce-zepto-instamart-flipkart/articleshow/135631310.cms) — *Economic Times*, 2026-11-07T08:42:54Z
+23. [14,000+ gold, silver coins delivered per hour: Instamart, Zepto, others record rising orders as Diwali shopping shifts to q-comm](https://economictimes.indiatimes.com/industry/services/retail/happy-diwali-2026-14000-gold-silver-coins-delivered-per-hour-shopping-shifts-to-quick-commerce-zepto-instamart-flipkart/articleshow/135631310.cms) — *Economic Times*, 2026-11-07T08:42:54Z
    Zepto delivered more than 14,000 gold and silver coins an hour at its Dhanteras peak — about 298 coins a minute — its co-founder Aadit Palicha said. Swiggy Instamart saw gold coin orders jump 23 times in the week to Dhanteras, while silver coin orders rose seven times. Flipkart Minutes said gold coin and bar orders more than doubled.
-25. [Silver anklet units in Salem get a good amount of orders for this year’s Deepavali](https://www.thehindu.com/news/cities/Coimbatore/silver-anklet-units-in-salem-get-a-good-amount-of-orders-for-this-years-deepavali/article71677626.ece) — *The Hindu*, 2026-11-07T12:13:57Z
+24. [Silver anklet units in Salem get a good amount of orders for this year’s Deepavali](https://www.thehindu.com/news/cities/Coimbatore/silver-anklet-units-in-salem-get-a-good-amount-of-orders-for-this-years-deepavali/article71677626.ece) — *The Hindu*, 2026-11-07T12:13:57Z
    Salem’s silver anklet makers reported a sharp recovery for Deepavali, with orders rising to over 45%, nearly double the roughly 25% in 2025, The Hindu reported. The rebound followed silver easing to about Rs 2.05 lakh per kg from a volatile Rs 2.3–4 lakh range, and orders picked up in the last 15 days from buyers across five states.
-26. [Indian rupee strengthens past 94/$ as oil slides, foreign inflows return](https://economictimes.indiatimes.com/markets/forex/indian-rupee-strengthens-past-94/-as-oil-slides-foreign-inflows-return/articleshow/135604040.cms) — *Economic Times*, 2026-11-06T10:35:18Z
-   The rupee ended at 93.9050 per dollar, past 94 for the first time since 22 April and up 1.1% on the week, as foreign investors bought nearly $3 billion of Indian equities this week and Brent crude fell nearly 20%. A stronger rupee lowers the cost of importing gold and silver.
-27. [NSE records 2.27 lakh Electronic Gold Receipts traded on Dhanteras](https://www.thehindubusinessline.com/markets/gold/nse-egr-trading-hits-record-227-lakh-units-on-dhanteras/article71677643.ece) — *The Hindu BusinessLine*, 2026-11-07T08:48:07Z
+25. [NSE records 2.27 lakh Electronic Gold Receipts traded on Dhanteras](https://www.thehindubusinessline.com/markets/gold/nse-egr-trading-hits-record-227-lakh-units-on-dhanteras/article71677643.ece) — *The Hindu BusinessLine*, 2026-11-07T08:48:07Z
    NSE logged its highest-ever Electronic Gold Receipt volumes on Dhanteras, with 2,27,692 units traded, as festive buyers used the exchange-traded, dematerialised route to hold gold instead of taking physical delivery.
-28. [Gold price gains 3% in 5 days: Why Indian investors should not rush yet](https://www.financialexpress.com/market/gold-pulse/gold-price-gains-3-in-5-days-why-indian-investors-should-not-rush-yet/4378735/) — *Financial Express*, 2026-11-07T01:37:00Z
+26. [Gold price gains 3% in 5 days: Why Indian investors should not rush yet](https://www.financialexpress.com/market/gold-pulse/gold-price-gains-3-in-5-days-why-indian-investors-should-not-rush-yet/4378735/) — *Financial Express*, 2026-11-07T01:37:00Z
    Gold in India has gained 3% in the last five trading days to about Rs 1.41 lakh per 10 g, and is up 6% since the start of 2026, the Financial Express reports, while flagging headwinds including oil near $98 a barrel and a 70% chance of a December Fed rate hike.
-29. [India's forex reserves fall by $2.69 billion to $717.05 billion as RBI steps in to defend rupee](https://www.moneycontrol.com/news/business/commodities/india-s-forex-reserves-fall-by-2-69-billion-to-717-05-billion-as-rbi-steps-in-to-defend-rupee-14073420.html) — *Moneycontrol*, 2026-11-06T11:57:00Z
+27. [India's forex reserves fall by $2.69 billion to $717.05 billion as RBI steps in to defend rupee](https://www.moneycontrol.com/news/business/commodities/india-s-forex-reserves-fall-by-2-69-billion-to-717-05-billion-as-rbi-steps-in-to-defend-rupee-14073420.html) — *Moneycontrol*, 2026-11-06T11:57:00Z
    India's forex reserves fell $2.69 billion to $717.05 billion in the week ended October 30, RBI data showed, as the central bank sold dollars to defend the rupee. Foreign currency assets fell $2.09 billion to $591.12 billion, while the value of gold reserves declined $559 million to $102.59 billion. Reserves have fallen from a record $785.71 billion in early September.
-30. [Rupee hits six-month high of 93.91 against dollar on oil price decline](https://www.business-standard.com/economy/news/rupee-hits-six-month-high-of-93-91-against-dollar-on-oil-price-decline-126110601558_1.html) — *Business Standard*, 2026-11-06T12:37:00Z
+28. [Rupee hits six-month high of 93.91 against dollar on oil price decline](https://www.business-standard.com/economy/news/rupee-hits-six-month-high-of-93-91-against-dollar-on-oil-price-decline-126110601558_1.html) — *Business Standard*, 2026-11-06T12:37:00Z
    The rupee gained 0.6% to close at 93.91 per dollar, its strongest since 22 April and a sixth straight daily gain, as falling crude oil prices and foreign inflows into equities lifted the currency. Brent crude eased to $96.84 a barrel. India's forex reserves fell to $717.06 billion in the week ended October 30.
