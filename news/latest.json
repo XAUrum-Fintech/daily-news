@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-08T18:00Z",
-  "generated_at": "2026-11-08T18:03:31Z",
+  "edition_id": "2026-11-08T20:00Z",
+  "generated_at": "2026-11-08T20:03:34Z",
   "window": {
-    "from": "2026-11-08T16:00:00Z",
-    "to": "2026-11-08T18:00:00Z"
+    "from": "2026-11-08T18:00:00Z",
+    "to": "2026-11-08T20:00:00Z"
   },
   "insights": {
     "headline": "Gold steadies near $4,072 after strong US jobs data as MCX ends Diwali Muhurat session higher",
@@ -13,42 +13,10 @@
       "US payrolls rose 165,000 in October, far above the 65,000 forecast, lifting the dollar and December Fed hike odds; spot gold traded near $4,072.",
       "MCX December gold rose 1.2% to Rs 1,42,335 per 10 g in the Muhurat session; silver edged up 0.2% to Rs 1,85,079 per kg.",
       "Dhanteras gold and silver sales crossed Rs 60,000 crore, GJC estimated, up 15-20% in value on last year as buyers chose lighter jewellery.",
-      "Silver ended Friday at $51.89, up 5.75% on the week; JPMorgan and the World Bank trimmed 2027 forecasts.",
+      "Silver ended Friday at $51.89, up 5.75% on the week; FXEmpire puts support at $48-50, with Tuesday's US CPI the next test.",
       "US and Iran both reported ships hit in or near the Strait of Hormuz; US October CPI is due Tuesday 10 November."
     ],
-    "brief": {
-      "schema": "orob-brief.v1",
-      "brief_id": "2026-11-08-2333",
-      "date": "2026-11-08",
-      "generated_at": "2026-11-08T18:03:31Z",
-      "slot": "evening",
-      "expires_at": "2026-11-08T18:29:00Z",
-      "headline": "Gold holds above $4,000 as Hormuz strikes stir haven bid",
-      "summary": "MCX gold rose 1.2% to Rs 1,42,335 per 10 g in Muhurat trade; spot gold near $4,071 as Hormuz ship strikes flared.",
-      "bullets": [
-        {
-          "text": "Strong US jobs data lifted the dollar and hike odds, FinanceFeeds says, while Hormuz ship strikes kept safe-haven demand in view.",
-          "item_ids": [
-            "8624d66023670fe1",
-            "8a17aad35a29975b"
-          ]
-        },
-        {
-          "text": "Dhanteras and Lakshmi Puja sales may cross Rs 62,000 crore, GJC said, as a price dip drew festive demand for lighter jewellery.",
-          "item_ids": [
-            "cef44a122b97c7cf",
-            "4f1f70f33be4780f"
-          ]
-        },
-        {
-          "text": "Watch: US October CPI on Tuesday 10 November at 19:00 IST; analysts say it and US-Iran tensions will set the tone next week.",
-          "item_ids": [
-            "8624d66023670fe1",
-            "7fa52ed71e3569f0"
-          ]
-        }
-      ]
-    }
+    "brief": null
   },
   "trending": [
     {
@@ -81,7 +49,8 @@
       "summary": "Silver ended the week at $51.89, up 5.75%, but JPMorgan and the World Bank trimmed 2027 forecasts.",
       "item_ids": [
         "edadc5398eb9e5f6",
-        "3658f8ce915f5869"
+        "3658f8ce915f5869",
+        "c5b92c443737a54c"
       ]
     },
     {
@@ -217,6 +186,29 @@
       "rank": 5
     },
     {
+      "id": "c5b92c443737a54c",
+      "title": "Silver Price Forecast: Rally Faces US CPI Test After Dollar Jump",
+      "summary": "Silver held its rebound from the $48-50 support zone after Friday's dollar rally, FXEmpire says, but a hotter-than-expected US CPI reading on Tuesday could push the dollar toward 104 and stall the recovery. A break below $48 would raise the risk of a slide to $45, while the gold-to-silver ratio's resistance at 80 is the other level to watch.",
+      "url": "https://www.fxempire.com/forecasts/article/silver-price-forecast-rally-faces-us-cpi-test-after-dollar-jump-1643197",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "published_at": "2026-11-08T18:11:40Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "silver",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 6
+    },
+    {
       "id": "cef44a122b97c7cf",
       "title": "Gold sales during Dhanteras, Lakshmi Puja may cross Rs 62,000 crore",
       "summary": "Gold sales across India during Dhanteras and Lakshmi Puja are estimated to cross Rs 62,000 crore, the All India Gem and Jewellery Domestic Council (GJC) said on Sunday, reflecting strong festive demand despite elevated prices. GJC said gold returned about 9-14% between last year's Lakshmi Puja and this November, with prices now around Rs 1.42-1.43 lakh per 10 g.",
@@ -239,7 +231,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "2b27189bf21c45dc",
@@ -262,7 +254,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "42a6b5888c1f094f",
@@ -286,7 +278,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "d6c8c3d52bd41f9e",
@@ -309,11 +301,11 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "1fe201241eb50e96",
-      "rank": 10,
+      "rank": 11,
       "title": "Global Gold Prices Down 24% From Record. In India, It's Down 20%. Here's What Makes Up The Difference",
       "summary": "Spot gold closed at $4,068.71 an ounce, about 24% below its Jan 29 record of $5,379, while Delhi gold fell only about 20% from its record. NDTV Profit puts the gap down to the duty rising from 6% to 15% in May and a rupee about 2% weaker since January, plus a January premium that has since vanished. The World Gold Council expects India's demand near 650 tonnes this year, the lowest since 2020.",
       "url": "https://www.ndtvprofit.com/markets/global-gold-prices-down-24-from-record-in-india-its-down-20-heres-what-makes-up-the-difference-12299005",
@@ -356,7 +348,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 12
     },
     {
       "id": "d641f8c2e60818af",
@@ -380,7 +372,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 13
     },
     {
       "id": "dafe847ddcde9c70",
@@ -403,7 +395,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 13
+      "rank": 14
     },
     {
       "id": "992f6cf66865d97f",
@@ -427,7 +419,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 15
     },
     {
       "id": "234015be3be06961",
@@ -453,7 +445,7 @@
       ],
       "image_url": "https://agcoltwfivlzpiwvpapy.supabase.co/storage/v1/object/public/article-images/32428be3-9857-4141-b1a4-588ddd605433/articles/79919c08-2da3-4a3c-9490-2b08ecd65da5/1c1178f5-9437-46bc-9001-53d62e8d40de-preferred-thumbnail-crop-v2.png",
       "image_kind": "photo",
-      "rank": 15
+      "rank": 16
     },
     {
       "category": "festive",
@@ -478,7 +470,7 @@
       "url": "https://www.cnbctv18.com/personal-finance/dhanteras-sales-2026-how-much-gold-silver-did-indians-buy-20029352.htm",
       "id": "4f1f70f33be4780f",
       "breaking": false,
-      "rank": 16
+      "rank": 17
     },
     {
       "id": "8a8764c86058d792",
@@ -503,7 +495,7 @@
       "breaking": false,
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/8a8764c86058d792.jpg",
       "image_kind": "photo",
-      "rank": 17
+      "rank": 18
     },
     {
       "id": "4efa849fab375470",
@@ -526,7 +518,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 18
+      "rank": 19
     },
     {
       "id": "6341f8a41049f084",
@@ -549,11 +541,11 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 19
+      "rank": 20
     },
     {
       "id": "674f78b4d4d2ab52",
-      "rank": 20,
+      "rank": 21,
       "title": "Global developments to keep commodity prices volatile in Samvat 2083",
       "summary": "Analysts expect geopolitics, global rates and supply-demand to keep commodity prices volatile in Samvat 2083. Anand Rathi's Vedika Narvekar sees MCX gold in a Rs 1.3 lakh-Rs 1.75 lakh range; Motilal Oswal's Navneet Damani sees $4,200 short-term and $4,500-4,700 medium-term. Silver, down over 55% from its record highs, could stay volatile with $48 as support.",
       "url": "https://www.business-standard.com/markets/news/markets-commodities-samvat-2083-commodity-outlook-crude-oil-gold-silver-global-risks-126110800289_1.html",
@@ -597,7 +589,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 21
+      "rank": 22
     },
     {
       "id": "873c9a50414ec914",
@@ -622,11 +614,11 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 22
+      "rank": 23
     },
     {
       "id": "54d6c6b81cb96d71",
-      "rank": 23,
+      "rank": 24,
       "title": "Silver anklet units in Salem get a good amount of orders for this year’s Deepavali",
       "summary": "Salem’s silver anklet makers reported a sharp recovery for Deepavali, with orders rising to over 45%, nearly double the roughly 25% in 2025, The Hindu reported. The rebound followed silver easing to about Rs 2.05 lakh per kg from a volatile Rs 2.3–4 lakh range, and orders picked up in the last 15 days from buyers across five states.",
       "url": "https://www.thehindu.com/news/cities/Coimbatore/silver-anklet-units-in-salem-get-a-good-amount-of-orders-for-this-years-deepavali/article71677626.ece",
@@ -668,7 +660,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 24
+      "rank": 25
     },
     {
       "id": "3658f8ce915f5869",
@@ -690,7 +682,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 25
+      "rank": 26
     }
   ]
 }
