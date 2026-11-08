@@ -1,4 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-11-08T00:00Z
+# Gold & Silver for Indian buyers · 2026-11-08T02:00Z
 
 > Gold holds near $4,050 after jobs shock; US CPI on Tuesday is the next test
 
@@ -6,9 +6,15 @@ Spot gold ended Friday near $4,045 after US October payrolls of 165,000 — far 
 
 - US October payrolls rose 165,000, far above the 65,000 forecast, lifting the dollar and December Fed hike bets to about 80%.
 - Gold gained about 4.4% on the week, its strongest since August, as crude oil plunged more than 12%.
-- Goldman Sachs cut its end-2026 gold forecast to $4,150 from $4,650; Citi's 0–3 month forecast is $4,500.
+- Goldman Sachs cut its end-2026 gold forecast to $4,150 from $4,650.
 - India approved about 6,500 tonnes of silver imports over six months, but US Mint Silver Eagle sales fell 52% in September.
 - MCX December gold ended near Rs 1,42,364 per 10 g and silver near Rs 1,84,977 per kg; Dhanteras trade hit a record Rs 1.25 lakh crore, CAIT said.
+
+## Today's brief
+**Gold steadies near $4,045 after jobs beat** — Spot gold held near $4,045 and MCX gold near Rs 1,42,364 per 10 g after US payrolls of 165,000 lifted the dollar.
+- A US jobs report far stronger than forecast lifted the dollar and December hike bets, capping gold even as it held key support.
+- Dhanteras demand stayed strong despite high prices, while the rupee firmed past 94 per dollar as oil slid and foreign inflows returned.
+- Watch Tuesday 10 November: the US October CPI report is the next big test for Fed hike bets after the payrolls beat.
 
 ## Trending
 - **Payrolls beat keeps Fed hike bets alive**: October payrolls of 165,000, more than double the forecast, lifted the dollar and December hike odds to 80%, pulling spot gold toward $4,050. Gold held above $4,000 support despite the jobs beat. (stories 1, 9, 8, 5, 2)

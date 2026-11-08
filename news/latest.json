@@ -1,10 +1,10 @@
 {
  "schema": "orob-news.v1",
- "edition_id": "2026-11-08T00:00Z",
- "generated_at": "2026-11-08T00:10:39Z",
+ "edition_id": "2026-11-08T02:00Z",
+ "generated_at": "2026-11-08T02:05:09Z",
  "window": {
-  "from": "2026-11-07T22:00:00Z",
-  "to": "2026-11-08T00:00:00Z"
+  "from": "2026-11-08T00:00:00Z",
+  "to": "2026-11-08T02:00:00Z"
  },
  "insights": {
   "headline": "Gold holds near $4,050 after jobs shock; US CPI on Tuesday is the next test",
@@ -12,11 +12,42 @@
   "points": [
    "US October payrolls rose 165,000, far above the 65,000 forecast, lifting the dollar and December Fed hike bets to about 80%.",
    "Gold gained about 4.4% on the week, its strongest since August, as crude oil plunged more than 12%.",
-   "Goldman Sachs cut its end-2026 gold forecast to $4,150 from $4,650; Citi's 0–3 month forecast is $4,500.",
+   "Goldman Sachs cut its end-2026 gold forecast to $4,150 from $4,650.",
    "India approved about 6,500 tonnes of silver imports over six months, but US Mint Silver Eagle sales fell 52% in September.",
    "MCX December gold ended near Rs 1,42,364 per 10 g and silver near Rs 1,84,977 per kg; Dhanteras trade hit a record Rs 1.25 lakh crore, CAIT said."
   ],
-  "brief": null
+  "brief": {
+   "schema": "orob-brief.v1",
+   "brief_id": "2026-11-08-0735",
+   "date": "2026-11-08",
+   "generated_at": "2026-11-08T02:05:09Z",
+   "slot": "morning",
+   "expires_at": "2026-11-08T08:00:00Z",
+   "headline": "Gold steadies near $4,045 after jobs beat",
+   "summary": "Spot gold held near $4,045 and MCX gold near Rs 1,42,364 per 10 g after US payrolls of 165,000 lifted the dollar.",
+   "bullets": [
+    {
+     "text": "A US jobs report far stronger than forecast lifted the dollar and December hike bets, capping gold even as it held key support.",
+     "item_ids": [
+      "593448fbd00e0883",
+      "2b27189bf21c45dc"
+     ]
+    },
+    {
+     "text": "Dhanteras demand stayed strong despite high prices, while the rupee firmed past 94 per dollar as oil slid and foreign inflows returned.",
+     "item_ids": [
+      "7e7016758097ed8f",
+      "2aff9b732b388275"
+     ]
+    },
+    {
+     "text": "Watch Tuesday 10 November: the US October CPI report is the next big test for Fed hike bets after the payrolls beat.",
+     "item_ids": [
+      "8624d66023670fe1"
+     ]
+    }
+   ]
+  }
  },
  "trending": [
   {
