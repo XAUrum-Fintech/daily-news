@@ -1,20 +1,20 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-09T16:00Z",
-  "generated_at": "2026-11-09T16:18:05Z",
+  "edition_id": "2026-11-09T18:00Z",
+  "generated_at": "2026-11-09T18:13:24Z",
   "window": {
-    "from": "2026-11-09T14:00:00Z",
-    "to": "2026-11-09T16:00:00Z"
+    "from": "2026-11-09T16:00:00Z",
+    "to": "2026-11-09T18:00:00Z"
   },
   "insights": {
-    "headline": "Gold and silver extend Monday's rally as softer oil and a weaker dollar lift bullion",
-    "summary": "MCX December gold touched Rs 1,44,400 per 10 g and silver Rs 1,88,979 per kg on Monday, while spot gold traded near $4,124.74 an ounce and silver near $52.759 as Brent crude eased toward $94.76 on Iran diplomacy hopes. Friday's US jobs report, with 165,000 payrolls against about 65,000 expected, lifted December Fed hike odds to about 80%; traders now await US October CPI on Tuesday at 19:00 IST.",
+    "headline": "Gold and silver extend Monday’s rally; MCX shut for Tuesday morning session",
+    "summary": "MCX December gold touched Rs 1,44,400 per 10 g and silver Rs 1,88,979 per kg on Monday, while spot gold traded near $4,124.74 an ounce and silver near $52.759 as Brent crude eased toward $94.76 on Iran diplomacy hopes. COMEX gold futures reached $4,143.17 after reclaiming support at $4,038. MCX stays shut for the morning session on Tuesday for Diwali-Balipratipada, and traders await US October CPI on Tuesday at 19:00 IST, with PPI on Friday and Fed meeting minutes on November 18.",
     "points": [
       "MCX December gold hit Rs 1,44,400 per 10 g on Monday, up about Rs 1,400, as oil fell and the dollar eased.",
       "Spot gold traded near $4,124.74 an ounce, up 1.33%, and spot silver near $52.759, up 1.57%.",
-      "US payrolls rose 165,000 in October, well above the roughly 65,000 expected, lifting December Fed hike odds to about 80%.",
+      "COMEX gold futures touched $4,143.17 after reclaiming support at $4,038, while COMEX silver neared $53.45.",
       "Dhanteras gold sales are estimated above Rs 62,000 crore, with festive demand staying firm despite elevated prices.",
-      "Traders await US October CPI on Tuesday at 19:00 IST, the next test for December Fed hike expectations."
+      "MCX stays shut Tuesday morning for Diwali-Balipratipada; US October CPI is due Tuesday at 19:00 IST, PPI Friday, Fed minutes November 18."
     ],
     "brief": {
       "schema": "orob-brief.v1",
@@ -61,7 +61,8 @@
         "1643cf0ea297d35e",
         "2334d98ca6e225cd",
         "f67626b4f941d87c",
-        "5f7b5edb443ff52c"
+        "5f7b5edb443ff52c",
+        "ba802521942f3c77"
       ]
     },
     {
@@ -70,7 +71,8 @@
       "item_ids": [
         "b7a9188d43253b61",
         "e5b48ee18cc70398",
-        "1643cf0ea297d35e"
+        "1643cf0ea297d35e",
+        "66289c9ddb6d9e09"
       ]
     },
     {
@@ -89,13 +91,6 @@
         "7183461173bd7cfc",
         "edadc5398eb9e5f6",
         "1643cf0ea297d35e"
-      ]
-    },
-    {
-      "title": "Banks split on gold's 2027 path",
-      "summary": "JPMorgan sees gold at $6,300 an ounce in 2027, the most bullish major-bank call, while UBS sees $5,200 by mid-2027 and Bank of America trimmed its 2027 average to $5,250.",
-      "item_ids": [
-        "a31460f04c77c021"
       ]
     }
   ],
@@ -264,6 +259,31 @@
       "rank": 6
     },
     {
+      "id": "ba802521942f3c77",
+      "title": "Gold Reclaims Long-Term Support. Silver Challenges Its Triangle. What’s Next?",
+      "summary": "Gold reclaimed its long-term rising support line and held above the $4,038 consolidation boundary, with COMEX gold futures reaching $4,143.17 on Monday; silver pushed to $53.45 on COMEX as it challenged its triangle’s upper boundary. A daily close above $4,113 for gold and $52.38 for silver would confirm the breakouts, the analysis says.",
+      "url": "https://www.fxempire.com/forecasts/article/gold-reclaims-long-term-support-silver-challenges-its-triangle-whats-next-1643378",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "published_at": "2026-11-09T17:35:55Z",
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "comex",
+        "global"
+      ],
+      "image_url": null,
+      "image_kind": "none",
+      "breaking": false,
+      "rank": 7
+    },
+    {
       "breaking": false,
       "category": "global",
       "id": "e5b48ee18cc70398",
@@ -286,30 +306,32 @@
       ],
       "title": "US October CPI Preview: Inflation Growth May Slow, How Will US Stocks, Dollar and Gold React?",
       "url": "https://www.tradingkey.com/analysis/economic/indicators/262295678-us-october-cpi-preview-inflation-slowdown-us-stocks-dollar-gold-reaction-tradingkey",
-      "rank": 7
+      "rank": 8
     },
     {
-      "id": "a31460f04c77c021",
-      "rank": 8,
-      "title": "Gold prices may stay volatile in 2027; JPMorgan sees $6,300 an ounce",
-      "summary": "JPMorgan sees gold reaching $6,300 an ounce in 2027, the most bullish call among major brokerages, while UBS sees $5,200 by mid-2027 and Bank of America has trimmed its 2027 average to $5,250. Brokerages still expect central-bank buying of 600-800 tonnes to support prices despite the sharp correction from January's record, with markets pricing in a further Fed rate rise in December.",
-      "url": "https://www.cnbctv18.com/market/commodities/gold-price-outlook-jpmorgan-2026-and-2027-should-you-buy-gold-alpha-article-20030131.htm",
+      "id": "66289c9ddb6d9e09",
+      "title": "Buying gold or silver in November? 3 key dates to watch before making a purchase",
+      "summary": "CNBC-TV18 lists three dates for gold and silver watchers in November: US October CPI on Tuesday, November 10; US October PPI on Friday, November 13; and minutes of the Fed’s October 27–28 meeting on Wednesday, November 18. It notes prices move with the dollar, rates, yields, geopolitics and demand, and that the rupee also shapes domestic prices.",
+      "url": "https://www.cnbctv18.com/personal-finance/buying-gold-or-silver-in-november-3-key-dates-to-watch-before-making-a-purchase-20030732.htm",
       "source": "CNBC-TV18",
       "source_domain": "cnbctv18.com",
       "publisher_id": "cnbc-tv18",
-      "published_at": "2026-11-09T06:20:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/a31460f04c77c021.jpg",
-      "image_kind": "photo",
+      "published_at": "2026-11-09T17:52:03Z",
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
       "tags": [
         "gold",
-        "global",
-        "central-banks"
+        "silver",
+        "india",
+        "fed"
       ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/66289c9ddb6d9e09.jpg",
+      "image_kind": "photo",
+      "breaking": false,
+      "rank": 9
     },
     {
       "id": "fb498c6ffdf4a6f2",
@@ -332,11 +354,11 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "5f7b5edb443ff52c",
-      "rank": 10,
+      "rank": 11,
       "title": "Gold trades near $4,100 as focus turns to US inflation and Fed speeches",
       "summary": "Gold held near $4,100 on Monday, up about 1% after an intraday high of $4,134, as the dollar gave back some post-jobs-report gains. Traders now look to Tuesday's US CPI, Friday's PPI and Fed speeches for clues on a December rate rise, priced at about an 80% chance. China also extended its suspension of an extra 24% tariff on US imports by two months.",
       "url": "https://www.fxstreet.com/news/gold-trades-near-4-100-as-focus-turns-to-us-inflation-and-fed-speeches-202611091126",
@@ -379,7 +401,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 12
     },
     {
       "breaking": false,
@@ -403,7 +425,7 @@
       ],
       "title": "Indian rupee breaks six-day winning streak on state banks' dollar bids",
       "url": "https://economictimes.indiatimes.com/markets/forex/indian-rupee-breaks-six-day-winning-streak-on-state-banks-dollar-bids/articleshow/135678769.cms",
-      "rank": 12
+      "rank": 13
     },
     {
       "id": "7fa52ed71e3569f0",
@@ -430,7 +452,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 13
+      "rank": 14
     },
     {
       "id": "edadc5398eb9e5f6",
@@ -453,7 +475,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 15
     },
     {
       "id": "cef44a122b97c7cf",
@@ -478,7 +500,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 15,
+      "rank": 16,
       "related_urls": [
         "https://www.thehindubusinessline.com/markets/gold/festival-boost-indian-gold-jewellery-sales-top-66-billion-in-2-days/article71682622.ece"
       ]
@@ -504,11 +526,11 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 16
+      "rank": 17
     },
     {
       "id": "1fe201241eb50e96",
-      "rank": 17,
+      "rank": 18,
       "title": "Global Gold Prices Down 24% From Record. In India, It's Down 20%. Here's What Makes Up The Difference",
       "summary": "Spot gold closed at $4,068.71 an ounce, about 24% below its Jan 29 record of $5,379, while Delhi gold fell only about 20% from its record. NDTV Profit puts the gap down to the duty rising from 6% to 15% in May and a rupee about 2% weaker since January, plus a January premium that has since vanished. The World Gold Council expects India's demand near 650 tonnes this year, the lowest since 2020.",
       "url": "https://www.ndtvprofit.com/markets/global-gold-prices-down-24-from-record-in-india-its-down-20-heres-what-makes-up-the-difference-12299005",
@@ -553,7 +575,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 18
+      "rank": 19
     },
     {
       "id": "dafe847ddcde9c70",
@@ -576,7 +598,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 19
+      "rank": 20
     },
     {
       "id": "8a8764c86058d792",
@@ -601,7 +623,7 @@
       "breaking": false,
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/8a8764c86058d792.jpg",
       "image_kind": "photo",
-      "rank": 20
+      "rank": 21
     }
   ]
 }
