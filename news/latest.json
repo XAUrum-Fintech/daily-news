@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-09T14:00Z",
-  "generated_at": "2026-11-09T14:05:34Z",
+  "edition_id": "2026-11-09T16:00Z",
+  "generated_at": "2026-11-09T16:18:05Z",
   "window": {
-    "from": "2026-11-09T12:00:00Z",
-    "to": "2026-11-09T14:00:00Z"
+    "from": "2026-11-09T14:00:00Z",
+    "to": "2026-11-09T16:00:00Z"
   },
   "insights": {
     "headline": "Gold and silver extend Monday's rally as softer oil and a weaker dollar lift bullion",
@@ -56,10 +56,10 @@
       "summary": "Softer oil and a weaker dollar lifted spot gold 1.33% to $4,124.74 on Monday, with silver up 1.57% to $52.759, extending last week's gains.",
       "item_ids": [
         "b7a9188d43253b61",
+        "7183461173bd7cfc",
         "5caf3525e90268aa",
         "1643cf0ea297d35e",
         "2334d98ca6e225cd",
-        "a0e804d8f2eb87a2",
         "f67626b4f941d87c",
         "5f7b5edb443ff52c"
       ]
@@ -70,9 +70,7 @@
       "item_ids": [
         "b7a9188d43253b61",
         "e5b48ee18cc70398",
-        "a0e804d8f2eb87a2",
-        "1643cf0ea297d35e",
-        "c5b92c443737a54c"
+        "1643cf0ea297d35e"
       ]
     },
     {
@@ -88,19 +86,16 @@
       "summary": "Silver traded near $52.759 on Monday, up 1.57%, after a 5.75% weekly gain, with traders watching Tuesday's CPI and the $48 support zone.",
       "item_ids": [
         "b7a9188d43253b61",
+        "7183461173bd7cfc",
         "edadc5398eb9e5f6",
-        "c5b92c443737a54c",
-        "6ca0c6203bcfb8fa",
         "1643cf0ea297d35e"
       ]
     },
     {
       "title": "Banks split on gold's 2027 path",
-      "summary": "JPMorgan sees $6,300 an ounce in 2027 while other banks see $5,200-$5,250, and near-term forecasts put gold near $4,150 with MCX ranges of Rs 1,38,000-1,49,400.",
+      "summary": "JPMorgan sees gold at $6,300 an ounce in 2027, the most bullish major-bank call, while UBS sees $5,200 by mid-2027 and Bank of America trimmed its 2027 average to $5,250.",
       "item_ids": [
-        "a31460f04c77c021",
-        "6ca0c6203bcfb8fa",
-        "f101c8c741526ab9"
+        "a31460f04c77c021"
       ]
     }
   ],
@@ -131,8 +126,33 @@
       "breaking": false
     },
     {
+      "id": "7183461173bd7cfc",
+      "title": "Gold and silver prices extend post-election rebound, central banks on pace to beat 2025 purchases – Heraeus",
+      "summary": "Gold and silver extended last week's post-election rebound, Heraeus analysts said, with spot gold near $4,124.86 an ounce and silver near $52.682. Central banks added 321 tonnes in Q3, 42% more than a year earlier, taking nine-month buying to 675 tonnes, 6% ahead of 2025, per the World Gold Council. Friday's strong US jobs data has markets pricing about a 79% chance of a December Fed hike.",
+      "url": "https://www.kitco.com/news/article/2026-11-09/gold-and-silver-prices-extend-post-election-rebound-central-banks-pace-beat",
+      "source": "Kitco",
+      "source_domain": "kitco.com",
+      "publisher_id": "kitco",
+      "published_at": "2026-11-09T15:02:11Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/7183461173bd7cfc.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "global",
+        "central-banks"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 2
+    },
+    {
       "id": "5caf3525e90268aa",
-      "rank": 2,
+      "rank": 3,
       "title": "MCX gold prices rise Rs 1,400/10g; silver up Rs 4,000/kg as fall in oil ease rate hike bets",
       "summary": "MCX December gold rose Rs 1,400 to Rs 1,43,933 per 10 g and silver gained Rs 4,000 to Rs 1,88,979 per kg on Monday, as falling crude oil eased inflation worries and cooled rate-hike bets while a weaker dollar supported bullion. Spot gold climbed 1.6% to $4,129.69 and silver 2.8% to $53.31; traders now await US CPI on Tuesday, with CME FedWatch pricing a 79% chance of a December Fed hike.",
       "url": "https://economictimes.indiatimes.com/markets/commodities/news/mcx-gold-prices-rise-rs-1400/10g-silver-up-rs-4000/kg-as-fall-in-oil-ease-rate-hike-bets-buy-sell-or-hold/articleshow/135670680.cms",
@@ -182,11 +202,11 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "1643cf0ea297d35e",
-      "rank": 4,
+      "rank": 5,
       "title": "Gold gains more than 1% as softer oil prices ease inflation worries",
       "summary": "Spot gold climbed 1.6% to $4,129.69 an ounce on Monday and December futures rose 1.6% to $4,139, as softer oil prices eased inflation worries. Oil fell after Trump said further attacks on Iran were highly unlikely while talks continue, and the dollar softened. Traders see a 79% chance of a December Fed hike; US CPI is due Tuesday and PPI on Friday. Silver rose 2.8% to $53.31.",
       "url": "https://www.reuters.com/world/india/gold-gains-more-than-1-softer-oil-prices-ease-inflation-worries-2026-11-09/",
@@ -241,7 +261,7 @@
       "related_urls": [
         "https://www.7globe.in/gold-silver-prices-rise-up-to-2-6-on-comex-what-investors-are-watching-this-week/"
       ],
-      "rank": 5
+      "rank": 6
     },
     {
       "breaking": false,
@@ -266,32 +286,7 @@
       ],
       "title": "US October CPI Preview: Inflation Growth May Slow, How Will US Stocks, Dollar and Gold React?",
       "url": "https://www.tradingkey.com/analysis/economic/indicators/262295678-us-october-cpi-preview-inflation-slowdown-us-stocks-dollar-gold-reaction-tradingkey",
-      "rank": 6
-    },
-    {
-      "id": "6ca0c6203bcfb8fa",
-      "rank": 7,
-      "title": "Gold and Silver Price Forecast: Rebound Puts $4,150 and $55 in Focus",
-      "summary": "FXEmpire's forecast puts gold's immediate resistance at $4,150 after Monday's rebound to near $4,130, with a break above it seen opening the way toward $4,250 and $4,400; silver needs to clear $55 to head toward $60, with support at $48. A softer dollar and falling oil drove the rebound, while Tuesday's US CPI is the next test.",
-      "url": "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-rebound-puts-4150-and-55-in-focus-1643222",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "publisher_id": "fxempire",
-      "published_at": "2026-11-09T04:12:44Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "silver",
-        "global",
-        "fed"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false
+      "rank": 7
     },
     {
       "id": "a31460f04c77c021",
@@ -317,20 +312,20 @@
       "breaking": false
     },
     {
-      "id": "a0e804d8f2eb87a2",
-      "title": "Gold rebounds above $4,100 despite strong US NFP data",
-      "summary": "Spot gold climbed back above $4,100 in early Asian trading on Monday, recovering from Friday's payrolls-driven slide, as speculation grew that Democrats who won majorities in both chambers would push to end the Iran war. The rebound came despite October payrolls rising 165,000, far above the 65,000 forecast, which lifted December Fed hike odds to about 79.6%, FXStreet reports.",
-      "url": "https://www.fxstreet.com/news/gold-rebounds-above-4-100-despite-strong-us-nfp-data-202611090109",
-      "source": "FXStreet",
-      "source_domain": "fxstreet.com",
-      "publisher_id": "fxstreet",
-      "published_at": "2026-11-09T01:09:07Z",
-      "image_url": "https://editorial.fxsstatic.com/images/i/gold-03.jpg",
+      "id": "fb498c6ffdf4a6f2",
+      "title": "Russia Sends Record 165 Tons of Gold to China as Moscow Sells Off Reserves to Fund War",
+      "summary": "Russia exported a record 165 tonnes of gold to Hong Kong in January-September, more than triple a year earlier, The Moscow Times reported, citing customs data analysed by Gazprombank. The metal flows largely onward to China as Moscow draws down reserves to fund spending; the central bank has sold about 60 tonnes in 2026, its largest reserve reduction since 1998.",
+      "url": "https://united24media.com/war-in-ukraine/russia-sends-record-165-tons-of-gold-to-china-as-moscow-sells-off-reserves-to-fund-war-24206",
+      "source": "United24 Media",
+      "source_domain": "united24media.com",
+      "publisher_id": "united24-media",
+      "published_at": "2026-11-09T14:57:44Z",
+      "image_url": "https://storage.united24media.com/og/5/2c/0c3dfed15031f2f6c8f250880c88f2c5.jpg",
       "image_kind": "photo",
       "tags": [
         "gold",
         "global",
-        "fed"
+        "central-banks"
       ],
       "category": "global",
       "metals": [
@@ -387,31 +382,6 @@
       "rank": 11
     },
     {
-      "id": "fb01d3c6b16c2494",
-      "title": "Gold Price Today, November 8: Precious metals tick higher on MCX during Diwali special trading session",
-      "summary": "MCX December gold futures rose 1.2% to Rs 1,42,335 per 10 g in the Diwali Muhurat session, while silver futures edged up 0.2% to Rs 1,85,079 per kg after touching Rs 1,85,339. Spot gold held above $4,000 at about $4,071.67 an ounce and spot silver traded near $51.97.",
-      "url": "https://www.etnownews.com/markets/gold-price-today-november-8-precious-metals-tick-higher-on-mcx-during-diwali-special-trading-session-article-156482377",
-      "source": "ET Now",
-      "source_domain": "etnownews.com",
-      "publisher_id": "et-now",
-      "published_at": "2026-11-08T09:18:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/fb01d3c6b16c2494.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 12
-    },
-    {
       "breaking": false,
       "category": "mcx",
       "id": "776f7630a46830e3",
@@ -433,32 +403,7 @@
       ],
       "title": "Indian rupee breaks six-day winning streak on state banks' dollar bids",
       "url": "https://economictimes.indiatimes.com/markets/forex/indian-rupee-breaks-six-day-winning-streak-on-state-banks-dollar-bids/articleshow/135678769.cms",
-      "rank": 13
-    },
-    {
-      "breaking": false,
-      "category": "global",
-      "id": "b63a6e3bd893abc8",
-      "image_kind": "none",
-      "image_url": null,
-      "metals": [
-        "gold"
-      ],
-      "published_at": "2026-11-09T11:15:00Z",
-      "publisher_id": "morningstar",
-      "source": "Morningstar",
-      "source_domain": "morningstar.com",
-      "summary": "Barrick Mining's Q3 net earnings rose to $1.32 billion from $1.30 billion a year earlier, as its average realised gold price climbed 23% to $4,243 an ounce, Morningstar reports. Production slipped to 816,000 ounces from 829,000 on extreme weather and delayed access to higher-grade ore; revenue rose 22% to $5.07 billion. Spot gold averaged $4,204.59 in the quarter, up 17.6% year on year.",
-      "tags": [
-        "gold",
-        "global"
-      ],
-      "title": "Barrick Quarterly Earnings Benefit from Higher Prices as Production Remains On Track for Annual Target",
-      "url": "https://www.morningstar.com/news/dow-jones/202611092805/barrick-quarterly-earnings-benefit-from-higher-prices-as-production-remains-on-track-for-annual-target",
-      "rank": 14,
-      "related_urls": [
-        "https://www.reuters.com/business/barrick-profit-rises-higher-gold-prices-2026-11-09/"
-      ]
+      "rank": 12
     },
     {
       "id": "7fa52ed71e3569f0",
@@ -485,54 +430,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 15
-    },
-    {
-      "id": "f101c8c741526ab9",
-      "rank": 16,
-      "title": "Informist Poll: Gold seen with lower bias Nov; upside if peace in West Asia",
-      "summary": "Brokerages polled by Informist see MCX gold trading Rs 1,38,000–1,49,400 per 10 g in November and COMEX gold at $3,900–$4,250 an ounce, with a lower bias but upside if West Asia peace talks progress. Brent crude fell over 16% last week to $98.32 a barrel and the 10-year US yield eased to near 4.9%, while analysts say Indian festive demand has picked up on dip buying but remains subdued.",
-      "url": "https://informistmedia.com/MoneyWire/64414/Informist-Poll-Gold-seen-with-lower-bias-Nov-upside-if-peace-in-West-Asia",
-      "source": "Informist Media",
-      "source_domain": "informistmedia.com",
-      "publisher_id": "informist-media",
-      "published_at": "2026-11-07T14:31:45Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "mcx",
-        "comex",
-        "india",
-        "global"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false
-    },
-    {
-      "id": "8a17aad35a29975b",
-      "title": "Iran suggests blasts are not US attacks as both sides report ships hit",
-      "summary": "Iranian media said blasts in southern Iran on Saturday evening were linked to Iranian military activity rather than US strikes, while both sides reported shipping hit in or near the Strait of Hormuz. Iran said two oil tankers caught fire after hitting mines; the US said its air force disabled a vessel in the Gulf of Oman.",
-      "url": "https://www.reuters.com/world/middle-east/iran-suggests-blasts-are-not-us-attacks-both-sides-report-ships-hit-2026-11-08/",
-      "source": "Reuters",
-      "source_domain": "reuters.com",
-      "publisher_id": "reuters",
-      "published_at": "2026-11-08T14:34:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 17
+      "rank": 13
     },
     {
       "id": "edadc5398eb9e5f6",
@@ -555,33 +453,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 18
-    },
-    {
-      "id": "c5b92c443737a54c",
-      "title": "Silver Price Forecast: Rally Faces US CPI Test After Dollar Jump",
-      "summary": "Silver held its rebound from the $48-50 support zone after Friday's dollar rally, FXEmpire says, but a hotter-than-expected US CPI reading on Tuesday could push the dollar toward 104 and stall the recovery. A break below $48 would raise the risk of a slide to $45, while the gold-to-silver ratio's resistance at 80 is the other level to watch.",
-      "url": "https://www.fxempire.com/forecasts/article/silver-price-forecast-rally-faces-us-cpi-test-after-dollar-jump-1643197",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "publisher_id": "fxempire",
-      "published_at": "2026-11-08T18:11:40Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "silver",
-        "global",
-        "fed"
-      ],
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 19,
-      "related_urls": [
-        "https://www.fxempire.com/forecasts/article/silver-price-forecast-holding-51-05-could-put-55-35-on-the-radar-1643193"
-      ]
+      "rank": 14
     },
     {
       "id": "cef44a122b97c7cf",
@@ -606,7 +478,10 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 20
+      "rank": 15,
+      "related_urls": [
+        "https://www.thehindubusinessline.com/markets/gold/festival-boost-indian-gold-jewellery-sales-top-66-billion-in-2-days/article71682622.ece"
+      ]
     },
     {
       "id": "d6c8c3d52bd41f9e",
@@ -629,34 +504,11 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 21
-    },
-    {
-      "breaking": false,
-      "category": "policy",
-      "id": "c37c690a7c10848a",
-      "image_kind": "none",
-      "image_url": null,
-      "metals": [
-        "gold"
-      ],
-      "published_at": "2026-11-09T08:03:28Z",
-      "publisher_id": "zee-business",
-      "source": "Zee Business",
-      "source_domain": "zeebiz.com",
-      "summary": "BIS seized 2.085 kg of gold jewellery worth about Rs 3 crore in raids on 4 November at four Coimbatore shops, after finding jewellery on display without the mandatory six-digit hallmark unique identification (HUID) number. BIS is preparing legal action, and advised buyers to check the HUID and verify hallmarks on the BIS Care app.",
-      "tags": [
-        "gold",
-        "india",
-        "jewellery"
-      ],
-      "title": "BIS raids 4 jewellery shops in Coimbatore, seizes gold worth Rs 3 crore",
-      "url": "https://www.zeebiz.com/india/news-bis-raids-4-jewellery-shops-in-coimbatore-seizes-gold-worth-rs-3-crore-krt-jewellers-anubhav-jewellers-sree-vasavi-chains-kk-chains-jewels-405320",
-      "rank": 22
+      "rank": 16
     },
     {
       "id": "1fe201241eb50e96",
-      "rank": 23,
+      "rank": 17,
       "title": "Global Gold Prices Down 24% From Record. In India, It's Down 20%. Here's What Makes Up The Difference",
       "summary": "Spot gold closed at $4,068.71 an ounce, about 24% below its Jan 29 record of $5,379, while Delhi gold fell only about 20% from its record. NDTV Profit puts the gap down to the duty rising from 6% to 15% in May and a rupee about 2% weaker since January, plus a January premium that has since vanished. The World Gold Council expects India's demand near 650 tonnes this year, the lowest since 2020.",
       "url": "https://www.ndtvprofit.com/markets/global-gold-prices-down-24-from-record-in-india-its-down-20-heres-what-makes-up-the-difference-12299005",
@@ -701,7 +553,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 24
+      "rank": 18
     },
     {
       "id": "dafe847ddcde9c70",
@@ -724,33 +576,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 25
-    },
-    {
-      "id": "234015be3be06961",
-      "url": "https://talkmarkets.com/article/etf-gold-flows-slow-in-october-but-remain-positive",
-      "title": "ETF Gold Flows Slow In October But Remain Positive",
-      "summary": "Global gold ETFs added a net 19 tonnes of gold worth $2.7 billion in October, taking holdings to a record 4,275 tonnes, though assets under management fell 6% to $542 billion as prices dropped. European funds led with 13.1 tonnes of inflows and Asian funds added 9.8 tonnes, while North American funds saw 4.5 tonnes of outflows.",
-      "source": "TalkMarkets",
-      "source_domain": "talkmarkets.com",
-      "publisher_id": "talkmarkets",
-      "published_at": "2026-11-07T15:26:00Z",
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "global",
-        "central-banks"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://www.moneymetals.com/news/2026/11/06/etf-gold-flows-slow-in-october-but-remain-positive-005348"
-      ],
-      "image_url": "https://agcoltwfivlzpiwvpapy.supabase.co/storage/v1/object/public/article-images/32428be3-9857-4141-b1a4-588ddd605433/articles/79919c08-2da3-4a3c-9490-2b08ecd65da5/1c1178f5-9437-46bc-9001-53d62e8d40de-preferred-thumbnail-crop-v2.png",
-      "image_kind": "photo",
-      "rank": 26
+      "rank": 19
     },
     {
       "id": "8a8764c86058d792",
@@ -775,30 +601,7 @@
       "breaking": false,
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/8a8764c86058d792.jpg",
       "image_kind": "photo",
-      "rank": 27
-    },
-    {
-      "id": "4efa849fab375470",
-      "title": "India's silver import window opens as coin sales halve and London stocks build",
-      "summary": "India has opened a simplified route for silver import licences covering about 6,500 tonnes over six months, which could ease supply in the world's most price-sensitive bullion market — if buyers use the permits. Physical demand stays muted, US Mint Silver Eagle sales fell 52% in September from a year earlier, and Metals Focus expects industrial silver demand to fall 3% in 2026.",
-      "url": "https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/india-s-silver-import-window-opens-as-coin-sales-halve-and-london-stocks-build/70475147",
-      "source": "ad-hoc-news",
-      "source_domain": "ad-hoc-news.de",
-      "publisher_id": "ad-hoc-news",
-      "published_at": "2026-11-07T16:03:19Z",
-      "image_url": "https://mdb.ad-hoc-news.de/bild/bild-2844095_1920_1080.webp",
-      "image_kind": "photo",
-      "tags": [
-        "silver",
-        "india",
-        "import-duty"
-      ],
-      "category": "policy",
-      "metals": [
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 28
+      "rank": 20
     }
   ]
 }
