@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-09T05:00Z",
-  "generated_at": "2026-11-09T05:08:58Z",
+  "edition_id": "2026-11-09T06:00Z",
+  "generated_at": "2026-11-09T06:07:10Z",
   "window": {
-    "from": "2026-11-09T04:00:00Z",
-    "to": "2026-11-09T05:00:00Z"
+    "from": "2026-11-09T05:00:00Z",
+    "to": "2026-11-09T06:00:00Z"
   },
   "insights": {
     "headline": "MCX gold climbs Rs 1,400 as softer oil and a weaker dollar lift bullion; silver up Rs 4,000",
@@ -14,7 +14,7 @@
       "Spot gold rose 1.6% to $4,129.69 on Monday; December futures gained 1.6% to $4,139 as oil fell.",
       "Silver climbed 2.8% to $53.31 an ounce, extending a 5.75% weekly gain; COMEX gold rose 1.45% to $4,134.10.",
       "October US payrolls rose 165,000, lifting December Fed hike odds to about 79%; US CPI is due Tuesday.",
-      "Dhanteras and Lakshmi Puja gold sales are estimated above Rs 62,000 crore; MCX is shut Tuesday morning for Diwali-Balipratipada."
+      "Dhanteras sales are estimated above Rs 62,000 crore; brokerages polled by Informist see MCX gold at Rs 1,38,000–1,49,400 per 10 g in November."
     ],
     "brief": {
       "schema": "orob-brief.v1",
@@ -66,7 +66,8 @@
       "item_ids": [
         "a0e804d8f2eb87a2",
         "8624d66023670fe1",
-        "1643cf0ea297d35e"
+        "1643cf0ea297d35e",
+        "f101c8c741526ab9"
       ]
     },
     {
@@ -173,7 +174,8 @@
       ],
       "breaking": false,
       "related_urls": [
-        "https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-up-as-softer-crude-tempers-inflation-concerns/articleshow/135667365.cms"
+        "https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-up-as-softer-crude-tempers-inflation-concerns/articleshow/135667365.cms",
+        "https://www.thehindubusinessline.com/markets/commodities/gold-rises-over-1-as-softer-oil-prices-ease-inflation-worries/article71681460.ece"
       ]
     },
     {
@@ -331,6 +333,31 @@
       "rank": 9
     },
     {
+      "id": "f101c8c741526ab9",
+      "rank": 10,
+      "title": "Informist Poll: Gold seen with lower bias Nov; upside if peace in West Asia",
+      "summary": "Brokerages polled by Informist see MCX gold trading Rs 1,38,000–1,49,400 per 10 g in November and COMEX gold at $3,900–$4,250 an ounce, with a lower bias but upside if West Asia peace talks progress. Brent crude fell over 16% last week to $98.32 a barrel and the 10-year US yield eased to near 4.9%, while analysts say Indian festive demand has picked up on dip buying but remains subdued.",
+      "url": "https://informistmedia.com/MoneyWire/64414/Informist-Poll-Gold-seen-with-lower-bias-Nov-upside-if-peace-in-West-Asia",
+      "source": "Informist Media",
+      "source_domain": "informistmedia.com",
+      "publisher_id": "informist-media",
+      "published_at": "2026-11-07T14:31:45Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "mcx",
+        "comex",
+        "india",
+        "global"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false
+    },
+    {
       "id": "8a17aad35a29975b",
       "title": "Iran suggests blasts are not US attacks as both sides report ships hit",
       "summary": "Iranian media said blasts in southern Iran on Saturday evening were linked to Iranian military activity rather than US strikes, while both sides reported shipping hit in or near the Strait of Hormuz. Iran said two oil tankers caught fire after hitting mines; the US said its air force disabled a vessel in the Gulf of Oman.",
@@ -350,7 +377,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "8624d66023670fe1",
@@ -373,7 +400,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 12
     },
     {
       "id": "edadc5398eb9e5f6",
@@ -396,7 +423,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 13
     },
     {
       "id": "c5b92c443737a54c",
@@ -419,7 +446,10 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 13
+      "rank": 14,
+      "related_urls": [
+        "https://www.fxempire.com/forecasts/article/silver-price-forecast-holding-51-05-could-put-55-35-on-the-radar-1643193"
+      ]
     },
     {
       "id": "cef44a122b97c7cf",
@@ -444,7 +474,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 15
     },
     {
       "id": "d6c8c3d52bd41f9e",
@@ -467,11 +497,11 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 15
+      "rank": 16
     },
     {
       "id": "1fe201241eb50e96",
-      "rank": 16,
+      "rank": 17,
       "title": "Global Gold Prices Down 24% From Record. In India, It's Down 20%. Here's What Makes Up The Difference",
       "summary": "Spot gold closed at $4,068.71 an ounce, about 24% below its Jan 29 record of $5,379, while Delhi gold fell only about 20% from its record. NDTV Profit puts the gap down to the duty rising from 6% to 15% in May and a rupee about 2% weaker since January, plus a January premium that has since vanished. The World Gold Council expects India's demand near 650 tonnes this year, the lowest since 2020.",
       "url": "https://www.ndtvprofit.com/markets/global-gold-prices-down-24-from-record-in-india-its-down-20-heres-what-makes-up-the-difference-12299005",
@@ -514,7 +544,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 17
+      "rank": 18
     },
     {
       "id": "d641f8c2e60818af",
@@ -538,7 +568,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 18
+      "rank": 19
     },
     {
       "id": "dafe847ddcde9c70",
@@ -561,7 +591,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 19
+      "rank": 20
     },
     {
       "id": "234015be3be06961",
@@ -587,7 +617,7 @@
       ],
       "image_url": "https://agcoltwfivlzpiwvpapy.supabase.co/storage/v1/object/public/article-images/32428be3-9857-4141-b1a4-588ddd605433/articles/79919c08-2da3-4a3c-9490-2b08ecd65da5/1c1178f5-9437-46bc-9001-53d62e8d40de-preferred-thumbnail-crop-v2.png",
       "image_kind": "photo",
-      "rank": 20
+      "rank": 21
     },
     {
       "id": "8a8764c86058d792",
@@ -612,11 +642,11 @@
       "breaking": false,
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/8a8764c86058d792.jpg",
       "image_kind": "photo",
-      "rank": 21
+      "rank": 22
     },
     {
       "id": "1cfd616399d649a0",
-      "rank": 22,
+      "rank": 23,
       "title": "Buying gold or silver this Diwali? Which precious metal offers bigger upside in Samvat 2083?",
       "summary": "Mint compares gold and silver for Diwali buyers in Samvat 2083, citing Religare Broking's Diwali report, which sets accumulation ranges of Rs 1,30,000-1,35,000 per 10 g for gold and Rs 1,50,000-1,63,000 per kg for silver.",
       "url": "https://www.livemint.com/market/commodities/buying-gold-or-silver-this-diwali-which-precious-metal-offers-bigger-upside-in-samvat-2083-check-targets-strategy-11794124125357.html",
@@ -660,11 +690,11 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 23
+      "rank": 24
     },
     {
       "id": "54d6c6b81cb96d71",
-      "rank": 24,
+      "rank": 25,
       "title": "Silver anklet units in Salem get a good amount of orders for this year’s Deepavali",
       "summary": "Salem’s silver anklet makers reported a sharp recovery for Deepavali, with orders rising to over 45%, nearly double the roughly 25% in 2025, The Hindu reported. The rebound followed silver easing to about Rs 2.05 lakh per kg from a volatile Rs 2.3–4 lakh range, and orders picked up in the last 15 days from buyers across five states.",
       "url": "https://www.thehindu.com/news/cities/Coimbatore/silver-anklet-units-in-salem-get-a-good-amount-of-orders-for-this-years-deepavali/article71677626.ece",
@@ -706,7 +736,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 25
+      "rank": 26
     }
   ]
 }
