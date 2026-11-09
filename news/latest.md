@@ -1,4 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-11-09T12:00Z
+# Gold & Silver for Indian buyers · 2026-11-09T13:00Z
 
 > MCX gold hits Rs 1,44,400 as softer oil and a weaker dollar lift bullion; silver up Rs 4,000
 
@@ -12,18 +12,18 @@ MCX December gold touched Rs 1,44,400 per 10 g and silver rose Rs 4,000 to Rs 1,
 
 ## Today's brief
 
-**Gold steady near Rs 1.44 lakh as softer oil lifts MCX**
+**Gold steady near Rs 1.44 lakh as oil eases; CPI next**
 
-MCX gold rose Rs 1,400 to Rs 1,43,933 per 10 g and silver Rs 4,000 to Rs 1,88,979 per kg as oil eased rate-hike bets.
+MCX gold touched Rs 1,44,400 per 10 g and silver Rs 1,88,979 per kg as softer oil and a weaker dollar lifted bullion.
 
-- Reuters says softer oil eased inflation worries and cooled rate-hike bets, while a weaker dollar also supported gold and silver.
-- Dhanteras gold sales are estimated above Rs 62,000 crore, with festive demand staying firm despite elevated prices.
-- US October CPI is due Tuesday 10 November at 19:00 IST, the next test for December Fed hike bets.
+- Softer oil after Trump said further Iran strikes were highly unlikely eased inflation worries, and a weaker dollar also lifted bullion.
+- Dhanteras sales are estimated above Rs 62,000 crore, while the rupee snapped a six-session winning streak on state banks' dollar bids.
+- US October CPI is due Tuesday at 19:00 IST, with PPI on Friday and a busy slate of Fed speeches through the week.
 
 ## Trending
-- **Gold's Monday rebound**: Softer oil and a weaker dollar lifted spot gold 1.6% to $4,129.69 on Monday, with silver up 2.8% to $53.31, extending last week's gains. (stories #1, #3, #4, #8, #2)
+- **Gold's Monday rebound**: Softer oil and a weaker dollar lifted spot gold 1.6% to $4,129.69 on Monday, with silver up 2.8% to $53.31, extending last week's gains. (stories #1, #3, #4, #8, #2, #9)
 - **US CPI is Tuesday's big test**: Strong US jobs data has kept December Fed hike bets in focus, and Tuesday's October CPI is the next test for gold; a hot print could lift the dollar and yields. (stories #5, #8, #3, #19)
-- **Dhanteras demand tops Rs 60,000 crore**: Festive gold sales beat last year by value even as buyers chose lighter jewellery and smaller coins; Salem's silver anklet orders nearly doubled for Deepavali. (stories #20, #28, #30)
+- **Dhanteras demand tops Rs 60,000 crore**: Festive gold sales beat last year by value even as buyers chose lighter jewellery and smaller coins. (stories #20, #27)
 - **Silver outpaces gold into the week**: Silver rose 2.8% to $53.31 on Monday after a 5.75% weekly gain, with traders watching Tuesday's CPI and the $48 support zone. (stories #18, #19, #6, #3)
 - **Banks split on gold's 2027 path**: JPMorgan sees $6,300 an ounce in 2027 while other banks see $5,200-$5,250, and near-term forecasts put gold near $4,150 with MCX ranges of Rs 1,38,000-1,49,400. (stories #7, #6, #16)
 
@@ -44,8 +44,8 @@ MCX gold rose Rs 1,400 to Rs 1,43,933 per 10 g and silver Rs 4,000 to Rs 1,88,97
    JPMorgan sees gold reaching $6,300 an ounce in 2027, the most bullish call among major brokerages, while UBS sees $5,200 by mid-2027 and Bank of America has trimmed its 2027 average to $5,250. Brokerages still expect central-bank buying of 600-800 tonnes to support prices despite the sharp correction from January's record, with markets pricing in a further Fed rate rise in December.
 8. [Gold rebounds above $4,100 despite strong US NFP data] (https://www.fxstreet.com/news/gold-rebounds-above-4-100-despite-strong-us-nfp-data-202611090109) — *FXStreet*, 2026-11-09T01:09:07Z
    Spot gold climbed back above $4,100 in early Asian trading on Monday, recovering from Friday's payrolls-driven slide, as speculation grew that Democrats who won majorities in both chambers would push to end the Iran war. The rebound came despite October payrolls rising 165,000, far above the 65,000 forecast, which lifted December Fed hike odds to about 79.6%, FXStreet reports.
-9. [Gold Is Up 4% Since Midterms: Here's Where Markets Think The Precious Metal Prices Are Headed] (https://stocktwits.com/news-articles/markets/equity/gold-is-up-4-since-midterms-here-s-where-markets-think-the-precious-metal-prices-are-headed/cNGAH02R9Iy) — *Stocktwits*, 2026-11-09T02:18:37Z
-   Goldman Sachs cut its year-end 2026 gold forecast to $4,150 an ounce from $4,650, and its 2027 forecast to $4,800 from $5,400, citing the Fed's hawkish shift, even as gold rose about 4% and silver over 5% since the US midterms. The bank still sees central-bank buying of about 60 tonnes a month as the main support. Peter Schiff argued a Democratic Congress means more spending and bigger deficits.
+9. [Gold trades near $4,100 as focus turns to US inflation and Fed speeches] (https://www.fxstreet.com/news/gold-trades-near-4-100-as-focus-turns-to-us-inflation-and-fed-speeches-202611091126) — *FXStreet*, 2026-11-09T11:26:48Z
+   Gold held near $4,100 on Monday, up about 1% after an intraday high of $4,134, as the dollar gave back some post-jobs-report gains. Traders now look to Tuesday's US CPI, Friday's PPI and Fed speeches for clues on a December rate rise, priced at about an 80% chance. China also extended its suspension of an extra 24% tariff on US imports by two months.
 10. [CAS weighs on NSE, BSE Q2 earnings; MCX rides gold, silver volatility] (https://www.livemint.com/market/cas-weighs-on-nse-bse-q2-earnings-mcx-rides-gold-silver-volatility-11794206165459.html) — *Mint*, 2026-11-09T08:37:48Z
    NSE and BSE reported sequential declines in July-September earnings as trading volumes fell after the common account statement rule, while MCX benefited from gold and silver volatility, widening the earnings divide among Indian exchanges. SEBI's rollback of the CAS rule could revive trading volumes and profitability at the equity exchanges.
 11. [Gold Price Today, November 8: Precious metals tick higher on MCX during Diwali special trading session] (https://www.etnownews.com/markets/gold-price-today-november-8-precious-metals-tick-higher-on-mcx-during-diwali-special-trading-session-article-156482377) — *ET Now*, 2026-11-08T09:18:00Z
@@ -74,17 +74,13 @@ MCX gold rose Rs 1,400 to Rs 1,43,933 per 10 g and silver Rs 4,000 to Rs 1,88,97
    BIS seized 2.085 kg of gold jewellery worth about Rs 3 crore in raids on 4 November at four Coimbatore shops, after finding jewellery on display without the mandatory six-digit hallmark unique identification (HUID) number. BIS is preparing legal action, and advised buyers to check the HUID and verify hallmarks on the BIS Care app.
 23. [Global Gold Prices Down 24% From Record. In India, It's Down 20%. Here's What Makes Up The Difference] (https://www.ndtvprofit.com/markets/global-gold-prices-down-24-from-record-in-india-its-down-20-heres-what-makes-up-the-difference-12299005) — *NDTV Profit*, 2026-11-08T03:17:09Z
    Spot gold closed at $4,068.71 an ounce, about 24% below its Jan 29 record of $5,379, while Delhi gold fell only about 20% from its record. NDTV Profit puts the gap down to the duty rising from 6% to 15% in May and a rupee about 2% weaker since January, plus a January premium that has since vanished. The World Gold Council expects India's demand near 650 tonnes this year, the lowest since 2020.
-24. [World Bank's Gold Forecast For 2028 Is Almost Exactly Today's Price] (https://www.ndtvprofit.com/markets/world-banks-gold-forecast-for-2028-is-almost-exactly-todays-price-12299325) — *NDTV Profit*, 2026-11-08T05:13:00Z
-   The World Bank expects gold to average $4,000 an ounce in 2028 — barely below Friday's spot close of $4,068.71 — after $4,600 in 2026 and $4,250 in 2027. The bank cites tighter monetary policy, higher yields and a firmer dollar; the figures are annual averages, not end-year targets.
-25. [Silver May Rebound Faster Than Gold, Ajay Kedia Sees ₹3 Lakh By Next Diwali] (https://www.businesstoday.in/bt-tv/whats-hot/video/silver-may-rebound-faster-than-gold-ajay-kedia-sees-rs3-lakh-by-next-diwali-565951-2026-11-08) — *Business Today*, 2026-11-08T08:30:00Z
+24. [Silver May Rebound Faster Than Gold, Ajay Kedia Sees ₹3 Lakh By Next Diwali] (https://www.businesstoday.in/bt-tv/whats-hot/video/silver-may-rebound-faster-than-gold-ajay-kedia-sees-rs3-lakh-by-next-diwali-565951-2026-11-08) — *Business Today*, 2026-11-08T08:30:00Z
    Silver has corrected sharply from its January peak of Rs 4.20 lakh per kg to around Rs 1.90 lakh, and Kedia Advisory's Ajay Kedia expects it to recover faster than gold, moving towards Rs 2.80-3 lakh by next Diwali, while cautioning that volatility will continue.
-26. [Gold near interim bottom, but World Gold Council says three conditions associated with price recovery 'already in place'] (https://www.livemint.com/money/gold-nears-interim-bottom-world-gold-council-broader-economy-three-historical-conditions-price-recovery-in-place-markets-11794108175909.html) — *Mint*, 2026-11-08T04:22:00Z
+25. [Gold near interim bottom, but World Gold Council says three conditions associated with price recovery 'already in place'] (https://www.livemint.com/money/gold-nears-interim-bottom-world-gold-council-broader-economy-three-historical-conditions-price-recovery-in-place-markets-11794108175909.html) — *Mint*, 2026-11-08T04:22:00Z
    The World Gold Council says gold may be nearing an interim bottom, with two of three historical recovery signals in place: gold about 10% below its 200-day average and a strong dollar. Speculative positioning remains elevated, so the third signal is missing. Gold closed October at $3,913, down 6.3% in the month.
-27. [ETF Gold Flows Slow In October But Remain Positive] (https://talkmarkets.com/article/etf-gold-flows-slow-in-october-but-remain-positive) — *TalkMarkets*, 2026-11-07T15:26:00Z
+26. [ETF Gold Flows Slow In October But Remain Positive] (https://talkmarkets.com/article/etf-gold-flows-slow-in-october-but-remain-positive) — *TalkMarkets*, 2026-11-07T15:26:00Z
    Global gold ETFs added a net 19 tonnes of gold worth $2.7 billion in October, taking holdings to a record 4,275 tonnes, though assets under management fell 6% to $542 billion as prices dropped. European funds led with 13.1 tonnes of inflows and Asian funds added 9.8 tonnes, while North American funds saw 4.5 tonnes of outflows.
-28. [Dhanteras sales boom or price illusion? Why Indians spent more on gold and appliances without buying much more] (https://www.moneycontrol.com/news/business/dhanteras-sales-boom-or-price-illusion-why-indians-spent-more-on-gold-and-appliances-without-buying-much-more-14074800.html) — *Moneycontrol*, 2026-11-08T05:26:17Z
+27. [Dhanteras sales boom or price illusion? Why Indians spent more on gold and appliances without buying much more] (https://www.moneycontrol.com/news/business/dhanteras-sales-boom-or-price-illusion-why-indians-spent-more-on-gold-and-appliances-without-buying-much-more-14074800.html) — *Moneycontrol*, 2026-11-08T05:26:17Z
    Dhanteras gold sales reached about Rs 60,000 crore, up 15–20% on last year, but the quantity sold was largely flat, jewellers' body GJC told PTI, with buyers choosing lighter jewellery, 18-carat designs and smaller coins. The World Gold Council's November 3 report showed India's September-quarter jewellery consumption down 20% year on year to 99.9 tonnes even as its value rose 16%.
-29. [India's silver import window opens as coin sales halve and London stocks build] (https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/india-s-silver-import-window-opens-as-coin-sales-halve-and-london-stocks-build/70475147) — *ad-hoc-news*, 2026-11-07T16:03:19Z
+28. [India's silver import window opens as coin sales halve and London stocks build] (https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/india-s-silver-import-window-opens-as-coin-sales-halve-and-london-stocks-build/70475147) — *ad-hoc-news*, 2026-11-07T16:03:19Z
    India has opened a simplified route for silver import licences covering about 6,500 tonnes over six months, which could ease supply in the world's most price-sensitive bullion market — if buyers use the permits. Physical demand stays muted, US Mint Silver Eagle sales fell 52% in September from a year earlier, and Metals Focus expects industrial silver demand to fall 3% in 2026.
-30. [Silver anklet units in Salem get a good amount of orders for this year’s Deepavali] (https://www.thehindu.com/news/cities/Coimbatore/silver-anklet-units-in-salem-get-a-good-amount-of-orders-for-this-years-deepavali/article71677626.ece) — *The Hindu*, 2026-11-07T12:13:57Z
-   Salem’s silver anklet makers reported a sharp recovery for Deepavali, with orders rising to over 45%, nearly double the roughly 25% in 2025, The Hindu reported. The rebound followed silver easing to about Rs 2.05 lakh per kg from a volatile Rs 2.3–4 lakh range, and orders picked up in the last 15 days from buyers across five states.

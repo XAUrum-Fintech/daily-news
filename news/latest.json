@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-09T12:00Z",
-  "generated_at": "2026-11-09T12:02:16Z",
+  "edition_id": "2026-11-09T13:00Z",
+  "generated_at": "2026-11-09T13:04:04Z",
   "window": {
     "from": "2026-11-09T11:00:00Z",
-    "to": "2026-11-09T12:00:00Z"
+    "to": "2026-11-09T13:00:00Z"
   },
   "insights": {
     "headline": "MCX gold hits Rs 1,44,400 as softer oil and a weaker dollar lift bullion; silver up Rs 4,000",
@@ -18,32 +18,33 @@
     ],
     "brief": {
       "schema": "orob-brief.v1",
-      "brief_id": "2026-11-09-1541",
+      "brief_id": "2026-11-09-1834",
       "date": "2026-11-09",
-      "generated_at": "2026-11-09T10:11:44Z",
-      "slot": "midday",
-      "expires_at": "2026-11-09T13:00:00Z",
-      "headline": "Gold steady near Rs 1.44 lakh as softer oil lifts MCX",
-      "summary": "MCX gold rose Rs 1,400 to Rs 1,43,933 per 10 g and silver Rs 4,000 to Rs 1,88,979 per kg as oil eased rate-hike bets.",
+      "generated_at": "2026-11-09T13:04:04Z",
+      "slot": "evening",
+      "expires_at": "2026-11-09T18:29:00Z",
+      "headline": "Gold steady near Rs 1.44 lakh as oil eases; CPI next",
+      "summary": "MCX gold touched Rs 1,44,400 per 10 g and silver Rs 1,88,979 per kg as softer oil and a weaker dollar lifted bullion.",
       "bullets": [
         {
-          "text": "Reuters says softer oil eased inflation worries and cooled rate-hike bets, while a weaker dollar also supported gold and silver.",
+          "text": "Softer oil after Trump said further Iran strikes were highly unlikely eased inflation worries, and a weaker dollar also lifted bullion.",
           "item_ids": [
             "1643cf0ea297d35e",
             "5caf3525e90268aa"
           ]
         },
         {
-          "text": "Dhanteras gold sales are estimated above Rs 62,000 crore, with festive demand staying firm despite elevated prices.",
+          "text": "Dhanteras sales are estimated above Rs 62,000 crore, while the rupee snapped a six-session winning streak on state banks' dollar bids.",
           "item_ids": [
             "cef44a122b97c7cf",
-            "8a8764c86058d792"
+            "776f7630a46830e3"
           ]
         },
         {
-          "text": "US October CPI is due Tuesday 10 November at 19:00 IST, the next test for December Fed hike bets.",
+          "text": "US October CPI is due Tuesday at 19:00 IST, with PPI on Friday and a busy slate of Fed speeches through the week.",
           "item_ids": [
-            "e5b48ee18cc70398"
+            "e5b48ee18cc70398",
+            "5f7b5edb443ff52c"
           ]
         }
       ]
@@ -58,7 +59,8 @@
         "1643cf0ea297d35e",
         "2334d98ca6e225cd",
         "a0e804d8f2eb87a2",
-        "f67626b4f941d87c"
+        "f67626b4f941d87c",
+        "5f7b5edb443ff52c"
       ]
     },
     {
@@ -73,11 +75,10 @@
     },
     {
       "title": "Dhanteras demand tops Rs 60,000 crore",
-      "summary": "Festive gold sales beat last year by value even as buyers chose lighter jewellery and smaller coins; Salem's silver anklet orders nearly doubled for Deepavali.",
+      "summary": "Festive gold sales beat last year by value even as buyers chose lighter jewellery and smaller coins.",
       "item_ids": [
         "cef44a122b97c7cf",
-        "8a8764c86058d792",
-        "54d6c6b81cb96d71"
+        "8a8764c86058d792"
       ]
     },
     {
@@ -311,32 +312,26 @@
       "rank": 8
     },
     {
-      "id": "faae1bb24af405e6",
-      "title": "Gold Is Up 4% Since Midterms: Here's Where Markets Think The Precious Metal Prices Are Headed",
-      "summary": "Goldman Sachs cut its year-end 2026 gold forecast to $4,150 an ounce from $4,650, and its 2027 forecast to $4,800 from $5,400, citing the Fed's hawkish shift, even as gold rose about 4% and silver over 5% since the US midterms. The bank still sees central-bank buying of about 60 tonnes a month as the main support. Peter Schiff argued a Democratic Congress means more spending and bigger deficits.",
-      "url": "https://stocktwits.com/news-articles/markets/equity/gold-is-up-4-since-midterms-here-s-where-markets-think-the-precious-metal-prices-are-headed/cNGAH02R9Iy",
-      "source": "Stocktwits",
-      "source_domain": "stocktwits.com",
-      "publisher_id": "stocktwits",
-      "published_at": "2026-11-09T02:18:37Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/faae1bb24af405e6.jpg",
+      "id": "5f7b5edb443ff52c",
+      "rank": 9,
+      "title": "Gold trades near $4,100 as focus turns to US inflation and Fed speeches",
+      "summary": "Gold held near $4,100 on Monday, up about 1% after an intraday high of $4,134, as the dollar gave back some post-jobs-report gains. Traders now look to Tuesday's US CPI, Friday's PPI and Fed speeches for clues on a December rate rise, priced at about an 80% chance. China also extended its suspension of an extra 24% tariff on US imports by two months.",
+      "url": "https://www.fxstreet.com/news/gold-trades-near-4-100-as-focus-turns-to-us-inflation-and-fed-speeches-202611091126",
+      "source": "FXStreet",
+      "source_domain": "fxstreet.com",
+      "publisher_id": "fxstreet",
+      "published_at": "2026-11-09T11:26:48Z",
+      "image_url": "https://editorial.fxsstatic.com/images/i/gold-march-01.jpg",
       "image_kind": "photo",
       "tags": [
         "gold",
-        "silver",
-        "fed",
-        "global"
+        "global",
+        "fed"
       ],
       "category": "global",
       "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://www.tradingview.com/news/stocktwits:34ccb0987094b:0-gold-is-up-4-since-midterms-here-s-where-markets-think-the-precious-metal-prices-are-headed/"
-      ],
-      "rank": 9
+        "gold"
+      ]
     },
     {
       "id": "617735e9889c20b4",
@@ -677,28 +672,6 @@
       "breaking": false
     },
     {
-      "id": "ac2b6e5448219636",
-      "title": "World Bank's Gold Forecast For 2028 Is Almost Exactly Today's Price",
-      "summary": "The World Bank expects gold to average $4,000 an ounce in 2028 — barely below Friday's spot close of $4,068.71 — after $4,600 in 2026 and $4,250 in 2027. The bank cites tighter monetary policy, higher yields and a firmer dollar; the figures are annual averages, not end-year targets.",
-      "url": "https://www.ndtvprofit.com/markets/world-banks-gold-forecast-for-2028-is-almost-exactly-todays-price-12299325",
-      "source": "NDTV Profit",
-      "source_domain": "ndtvprofit.com",
-      "publisher_id": "ndtv-profit",
-      "published_at": "2026-11-08T05:13:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 24
-    },
-    {
       "id": "d641f8c2e60818af",
       "title": "Silver May Rebound Faster Than Gold, Ajay Kedia Sees ₹3 Lakh By Next Diwali",
       "summary": "Silver has corrected sharply from its January peak of Rs 4.20 lakh per kg to around Rs 1.90 lakh, and Kedia Advisory's Ajay Kedia expects it to recover faster than gold, moving towards Rs 2.80-3 lakh by next Diwali, while cautioning that volatility will continue.",
@@ -720,7 +693,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 25
+      "rank": 24
     },
     {
       "id": "dafe847ddcde9c70",
@@ -743,7 +716,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 26
+      "rank": 25
     },
     {
       "id": "234015be3be06961",
@@ -769,7 +742,7 @@
       ],
       "image_url": "https://agcoltwfivlzpiwvpapy.supabase.co/storage/v1/object/public/article-images/32428be3-9857-4141-b1a4-588ddd605433/articles/79919c08-2da3-4a3c-9490-2b08ecd65da5/1c1178f5-9437-46bc-9001-53d62e8d40de-preferred-thumbnail-crop-v2.png",
       "image_kind": "photo",
-      "rank": 27
+      "rank": 26
     },
     {
       "id": "8a8764c86058d792",
@@ -794,7 +767,7 @@
       "breaking": false,
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/8a8764c86058d792.jpg",
       "image_kind": "photo",
-      "rank": 28
+      "rank": 27
     },
     {
       "id": "4efa849fab375470",
@@ -817,30 +790,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 29
-    },
-    {
-      "id": "54d6c6b81cb96d71",
-      "rank": 30,
-      "title": "Silver anklet units in Salem get a good amount of orders for this year’s Deepavali",
-      "summary": "Salem’s silver anklet makers reported a sharp recovery for Deepavali, with orders rising to over 45%, nearly double the roughly 25% in 2025, The Hindu reported. The rebound followed silver easing to about Rs 2.05 lakh per kg from a volatile Rs 2.3–4 lakh range, and orders picked up in the last 15 days from buyers across five states.",
-      "url": "https://www.thehindu.com/news/cities/Coimbatore/silver-anklet-units-in-salem-get-a-good-amount-of-orders-for-this-years-deepavali/article71677626.ece",
-      "source": "The Hindu",
-      "source_domain": "thehindu.com",
-      "publisher_id": "the-hindu",
-      "published_at": "2026-11-07T12:13:57Z",
-      "image_url": "https://th-i.thgim.com/public/incoming/f8comc/article71678217.ece/alternates/LANDSCAPE_1200/9868_7_11_2026_16_15_17_2_SILVER_1.JPEG",
-      "image_kind": "photo",
-      "tags": [
-        "silver",
-        "india",
-        "jewellery"
-      ],
-      "category": "festive",
-      "metals": [
-        "silver"
-      ],
-      "breaking": false
+      "rank": 28
     }
   ]
 }
