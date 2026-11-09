@@ -1,24 +1,66 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-08T22:00Z",
-  "generated_at": "2026-11-08T22:09:25Z",
+  "edition_id": "2026-11-09T02:00Z",
+  "generated_at": "2026-11-09T02:13:35Z",
   "window": {
-    "from": "2026-11-08T20:00:00Z",
-    "to": "2026-11-08T22:00:00Z"
+    "from": "2026-11-09T00:00:00Z",
+    "to": "2026-11-09T02:00:00Z"
   },
   "insights": {
-    "headline": "Gold steadies near $4,072 after strong US jobs data as MCX ends Diwali Muhurat session higher",
-    "summary": "MCX December gold rose 1.2% to Rs 1,42,335 per 10 g and silver edged up 0.2% to Rs 1,85,079 per kg in Sunday's Diwali Muhurat session, while spot gold traded near $4,072. US payrolls rose 165,000 in October, far above the 65,000 forecast, lifting the dollar and December Fed hike odds, yet gold ended the week about 4.4% higher and silver 5.75% higher. Dhanteras sales crossed Rs 60,000 crore as a price dip drew festive demand, and the US October CPI due on Tuesday 10 November is the next big test for bullion.",
+    "headline": "Gold climbs back above $4,100 as Iran tensions ease; MCX ends Muhurat session higher",
+    "summary": "Spot gold rose back above $4,100 in early Asian trading on Monday, recovering Friday's payrolls-driven slide as speculation grew that the push to end the Iran war would advance and softer crude eased inflation fears. MCX December gold rose 1.2% to Rs 1,42,335 per 10 g and silver edged up 0.2% to Rs 1,85,079 per kg in Sunday's Diwali Muhurat session. US payrolls rose 165,000 in October, far above the 65,000 forecast, lifting December Fed hike odds to about 79%. Dhanteras sales crossed Rs 60,000 crore, and the US October CPI due on Tuesday 10 November is the next big test for bullion.",
     "points": [
-      "US payrolls rose 165,000 in October, far above the 65,000 forecast, lifting the dollar and December Fed hike odds; spot gold traded near $4,072.",
+      "Spot gold climbed back above $4,100 early Monday as speculation grew that Democrats would push to end the Iran war; silver rose 0.9% to $52.32.",
       "MCX December gold rose 1.2% to Rs 1,42,335 per 10 g in the Muhurat session; silver edged up 0.2% to Rs 1,85,079 per kg.",
+      "US payrolls rose 165,000 in October, far above the 65,000 forecast; December Fed hike odds rose to about 79%, FXStreet and Reuters report.",
       "Dhanteras gold and silver sales crossed Rs 60,000 crore, GJC estimated, up 15-20% in value on last year as buyers chose lighter jewellery.",
-      "Silver closed Friday at $51.94, up 5.75% on the week; FXEmpire says $51.05 is the level to watch, with $55.35 above.",
-      "US and Iran both reported ships hit in or near the Strait of Hormuz; US October CPI is due Tuesday 10 November."
+      "US October CPI is due Tuesday 10 November at 18:00 IST, the next big test; Trump said fresh Iran strikes were highly unlikely while talks continue."
     ],
-    "brief": null
+    "brief": {
+      "schema": "orob-brief.v1",
+      "brief_id": "2026-11-09-0743",
+      "date": "2026-11-09",
+      "generated_at": "2026-11-09T02:13:35Z",
+      "slot": "morning",
+      "expires_at": "2026-11-09T08:00:00Z",
+      "headline": "Gold tops $4,100 as Iran tensions ease",
+      "summary": "Spot gold rose back above $4,100 as Iran tensions eased; MCX gold ended the Muhurat session at Rs 1,42,335 per 10 g.",
+      "bullets": [
+        {
+          "text": "Democrats pushing to end the Iran war lifted gold, FXStreet says; softer crude eased inflation fears and silver rose 0.9% to $52.32.",
+          "item_ids": [
+            "a0e804d8f2eb87a2",
+            "76a5065cee9f56a3"
+          ]
+        },
+        {
+          "text": "MCX silver closed the Muhurat session at Rs 1,85,079 per kg, and GJC estimated Dhanteras gold and silver sales crossed Rs 60,000 crore.",
+          "item_ids": [
+            "fb01d3c6b16c2494",
+            "4f1f70f33be4780f"
+          ]
+        },
+        {
+          "text": "US October CPI is due Tuesday 10 November at 18:00 IST, the next big test after Friday's strong payrolls lifted December Fed hike odds.",
+          "item_ids": [
+            "c5b92c443737a54c",
+            "a0e804d8f2eb87a2"
+          ]
+        }
+      ]
+    }
   },
   "trending": [
+    {
+      "title": "Gold reclaims $4,100 as Iran-war fears ease",
+      "summary": "Bullion bounced back above $4,100 in early Asian trading as speculation grew that the Iran war could end and Trump said fresh strikes were highly unlikely, with softer crude easing inflation fears.",
+      "item_ids": [
+        "a0e804d8f2eb87a2",
+        "76a5065cee9f56a3",
+        "8a17aad35a29975b",
+        "7fa52ed71e3569f0"
+      ]
+    },
     {
       "title": "Jobs beat resets the Fed debate",
       "summary": "US payrolls rose 165,000 in October, far above the 65,000 forecast, lifting the dollar and December hike odds; gold stayed above $4,000 and ended the week higher.",
@@ -32,15 +74,6 @@
       "item_ids": [
         "fb01d3c6b16c2494",
         "4f1f70f33be4780f"
-      ]
-    },
-    {
-      "title": "Hormuz strikes keep safe-haven risk in view",
-      "summary": "Both the US and Iran reported ships hit in or near the Strait of Hormuz on Saturday, and analysts say US-Iran tensions will set the tone for bullion next week alongside US inflation data.",
-      "item_ids": [
-        "8a17aad35a29975b",
-        "7fa52ed71e3569f0",
-        "674f78b4d4d2ab52"
       ]
     },
     {
@@ -66,6 +99,29 @@
   ],
   "items": [
     {
+      "id": "a0e804d8f2eb87a2",
+      "title": "Gold rebounds above $4,100 despite strong US NFP data",
+      "summary": "Spot gold climbed back above $4,100 in early Asian trading on Monday, recovering from Friday's payrolls-driven slide, as speculation grew that Democrats who won majorities in both chambers would push to end the Iran war. The rebound came despite October payrolls rising 165,000, far above the 65,000 forecast, which lifted December Fed hike odds to about 79.6%, FXStreet reports.",
+      "url": "https://www.fxstreet.com/news/gold-rebounds-above-4-100-despite-strong-us-nfp-data-202611090109",
+      "source": "FXStreet",
+      "source_domain": "fxstreet.com",
+      "publisher_id": "fxstreet",
+      "published_at": "2026-11-09T01:09:07Z",
+      "image_url": "https://editorial.fxsstatic.com/images/i/gold-03.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 1
+    },
+    {
       "id": "fb01d3c6b16c2494",
       "title": "Gold Price Today, November 8: Precious metals tick higher on MCX during Diwali special trading session",
       "summary": "MCX December gold futures rose 1.2% to Rs 1,42,335 per 10 g in the Diwali Muhurat session, while silver futures edged up 0.2% to Rs 1,85,079 per kg after touching Rs 1,85,339. Spot gold held above $4,000 at about $4,071.67 an ounce and spot silver traded near $51.97.",
@@ -88,7 +144,32 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 1
+      "rank": 2
+    },
+    {
+      "id": "76a5065cee9f56a3",
+      "title": "Gold edges up as softer crude tempers inflation concerns",
+      "summary": "Spot gold edged up 0.2% to $4,073.59 an ounce early on Monday as softer oil prices eased inflation concerns, Reuters reports, after Trump said he was highly unlikely to order more attacks on Iran while talks continue. Silver rose 0.9% to $52.32 an ounce, while strong US payrolls kept December Fed hike odds near 79% and capped gains.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-up-as-softer-crude-tempers-inflation-concerns/articleshow/135667365.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-11-09T01:01:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/76a5065cee9f56a3.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 3
     },
     {
       "id": "8a17aad35a29975b",
@@ -110,7 +191,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 2
+      "rank": 4
     },
     {
       "id": "7fa52ed71e3569f0",
@@ -137,7 +218,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 3
+      "rank": 5
     },
     {
       "id": "8624d66023670fe1",
@@ -160,7 +241,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 4
+      "rank": 6
     },
     {
       "id": "edadc5398eb9e5f6",
@@ -183,7 +264,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 5
+      "rank": 7
     },
     {
       "id": "c5b92c443737a54c",
@@ -206,7 +287,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 8
     },
     {
       "id": "6feb8297b26c83de",
@@ -229,7 +310,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 7
+      "rank": 9
     },
     {
       "id": "cef44a122b97c7cf",
@@ -254,31 +335,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 8
-    },
-    {
-      "id": "42a6b5888c1f094f",
-      "title": "Gold's Central Bank Bid Holds the Floor as Rate Fears Weigh on the Tape",
-      "summary": "Gold finished Friday at $4,063.65 an ounce, caught between heavy official-sector buying and a macro backdrop pushing yields and the dollar higher after strong US jobs data. The World Gold Council said central banks added a net 321 tonnes in the third quarter, 42% more than a year earlier, while gold ETFs took in 211 tonnes; total demand slipped 1% to 1,369 tonnes.",
-      "url": "https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/gold-s-central-bank-bid-holds-the-floor-as-rate-fears-weigh-on-the-tape/70477675",
-      "source": "ad-hoc-news",
-      "source_domain": "ad-hoc-news.de",
-      "publisher_id": "ad-hoc-news",
-      "published_at": "2026-11-08T15:51:00Z",
-      "image_url": "https://mdb.ad-hoc-news.de/bild/bild-2844782_1920_1080.webp",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "central-banks",
-        "fed",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "d6c8c3d52bd41f9e",
@@ -301,11 +358,11 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "1fe201241eb50e96",
-      "rank": 11,
+      "rank": 12,
       "title": "Global Gold Prices Down 24% From Record. In India, It's Down 20%. Here's What Makes Up The Difference",
       "summary": "Spot gold closed at $4,068.71 an ounce, about 24% below its Jan 29 record of $5,379, while Delhi gold fell only about 20% from its record. NDTV Profit puts the gap down to the duty rising from 6% to 15% in May and a rupee about 2% weaker since January, plus a January premium that has since vanished. The World Gold Council expects India's demand near 650 tonnes this year, the lowest since 2020.",
       "url": "https://www.ndtvprofit.com/markets/global-gold-prices-down-24-from-record-in-india-its-down-20-heres-what-makes-up-the-difference-12299005",
@@ -348,7 +405,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 13
     },
     {
       "id": "d641f8c2e60818af",
@@ -372,7 +429,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 13
+      "rank": 14
     },
     {
       "id": "dafe847ddcde9c70",
@@ -395,7 +452,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 15
     },
     {
       "id": "992f6cf66865d97f",
@@ -419,7 +476,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 15
+      "rank": 16
     },
     {
       "id": "234015be3be06961",
@@ -445,7 +502,7 @@
       ],
       "image_url": "https://agcoltwfivlzpiwvpapy.supabase.co/storage/v1/object/public/article-images/32428be3-9857-4141-b1a4-588ddd605433/articles/79919c08-2da3-4a3c-9490-2b08ecd65da5/1c1178f5-9437-46bc-9001-53d62e8d40de-preferred-thumbnail-crop-v2.png",
       "image_kind": "photo",
-      "rank": 16
+      "rank": 17
     },
     {
       "category": "festive",
@@ -470,7 +527,7 @@
       "url": "https://www.cnbctv18.com/personal-finance/dhanteras-sales-2026-how-much-gold-silver-did-indians-buy-20029352.htm",
       "id": "4f1f70f33be4780f",
       "breaking": false,
-      "rank": 17
+      "rank": 18
     },
     {
       "id": "8a8764c86058d792",
@@ -495,7 +552,7 @@
       "breaking": false,
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/8a8764c86058d792.jpg",
       "image_kind": "photo",
-      "rank": 18
+      "rank": 19
     },
     {
       "id": "4efa849fab375470",
@@ -518,7 +575,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 19
+      "rank": 20
     },
     {
       "id": "6341f8a41049f084",
@@ -541,32 +598,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 20
-    },
-    {
-      "id": "674f78b4d4d2ab52",
-      "rank": 21,
-      "title": "Global developments to keep commodity prices volatile in Samvat 2083",
-      "summary": "Analysts expect geopolitics, global rates and supply-demand to keep commodity prices volatile in Samvat 2083. Anand Rathi's Vedika Narvekar sees MCX gold in a Rs 1.3 lakh-Rs 1.75 lakh range; Motilal Oswal's Navneet Damani sees $4,200 short-term and $4,500-4,700 medium-term. Silver, down over 55% from its record highs, could stay volatile with $48 as support.",
-      "url": "https://www.business-standard.com/markets/news/markets-commodities-samvat-2083-commodity-outlook-crude-oil-gold-silver-global-risks-126110800289_1.html",
-      "source": "Business Standard",
-      "source_domain": "business-standard.com",
-      "publisher_id": "business-standard",
-      "published_at": "2026-11-08T08:36:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/674f78b4d4d2ab52.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "global",
-        "fed"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false
+      "rank": 21
     },
     {
       "id": "873c9a50414ec914",
