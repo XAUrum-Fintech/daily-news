@@ -1,20 +1,20 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-09T13:00Z",
-  "generated_at": "2026-11-09T13:04:04Z",
+  "edition_id": "2026-11-09T14:00Z",
+  "generated_at": "2026-11-09T14:05:34Z",
   "window": {
-    "from": "2026-11-09T11:00:00Z",
-    "to": "2026-11-09T13:00:00Z"
+    "from": "2026-11-09T12:00:00Z",
+    "to": "2026-11-09T14:00:00Z"
   },
   "insights": {
-    "headline": "MCX gold hits Rs 1,44,400 as softer oil and a weaker dollar lift bullion; silver up Rs 4,000",
-    "summary": "MCX December gold touched Rs 1,44,400 per 10 g and silver rose Rs 4,000 to Rs 1,88,979 per kg on Monday as softer oil eased inflation worries and the dollar softened; spot gold rose 1.6% to $4,129.69 and silver 2.8% to $53.31, with COMEX December gold up to $4,143.30. Dhanteras gold sales are estimated above Rs 62,000 crore, and traders await US October CPI on Tuesday, the next test for December Fed hike bets.",
+    "headline": "Gold and silver extend Monday's rally as softer oil and a weaker dollar lift bullion",
+    "summary": "MCX December gold touched Rs 1,44,400 per 10 g and silver Rs 1,88,979 per kg on Monday, while spot gold traded near $4,124.74 an ounce and silver near $52.759 as Brent crude eased toward $94.76 on Iran diplomacy hopes. Friday's US jobs report, with 165,000 payrolls against about 65,000 expected, lifted December Fed hike odds to about 80%; traders now await US October CPI on Tuesday at 19:00 IST.",
     "points": [
-      "MCX December gold hit Rs 1,44,400 per 10 g on Monday, up about Rs 1,400 from Friday's close, as oil fell and the dollar eased.",
-      "Silver rose Rs 4,000 to Rs 1,88,979 per kg on MCX, while spot silver climbed 2.8% to $53.31 an ounce.",
-      "COMEX December gold climbed as much as $68.40 to $4,143.30 an ounce as crude fell after Trump said further Iran strikes were highly unlikely.",
+      "MCX December gold hit Rs 1,44,400 per 10 g on Monday, up about Rs 1,400, as oil fell and the dollar eased.",
+      "Spot gold traded near $4,124.74 an ounce, up 1.33%, and spot silver near $52.759, up 1.57%.",
+      "US payrolls rose 165,000 in October, well above the roughly 65,000 expected, lifting December Fed hike odds to about 80%.",
       "Dhanteras gold sales are estimated above Rs 62,000 crore, with festive demand staying firm despite elevated prices.",
-      "Traders await US October CPI on Tuesday, the next test for December Fed hike expectations after strong US jobs data."
+      "Traders await US October CPI on Tuesday at 19:00 IST, the next test for December Fed hike expectations."
     ],
     "brief": {
       "schema": "orob-brief.v1",
@@ -53,8 +53,9 @@
   "trending": [
     {
       "title": "Gold's Monday rebound",
-      "summary": "Softer oil and a weaker dollar lifted spot gold 1.6% to $4,129.69 on Monday, with silver up 2.8% to $53.31, extending last week's gains.",
+      "summary": "Softer oil and a weaker dollar lifted spot gold 1.33% to $4,124.74 on Monday, with silver up 1.57% to $52.759, extending last week's gains.",
       "item_ids": [
+        "b7a9188d43253b61",
         "5caf3525e90268aa",
         "1643cf0ea297d35e",
         "2334d98ca6e225cd",
@@ -67,6 +68,7 @@
       "title": "US CPI is Tuesday's big test",
       "summary": "Strong US jobs data has kept December Fed hike bets in focus, and Tuesday's October CPI is the next test for gold; a hot print could lift the dollar and yields.",
       "item_ids": [
+        "b7a9188d43253b61",
         "e5b48ee18cc70398",
         "a0e804d8f2eb87a2",
         "1643cf0ea297d35e",
@@ -83,8 +85,9 @@
     },
     {
       "title": "Silver outpaces gold into the week",
-      "summary": "Silver rose 2.8% to $53.31 on Monday after a 5.75% weekly gain, with traders watching Tuesday's CPI and the $48 support zone.",
+      "summary": "Silver traded near $52.759 on Monday, up 1.57%, after a 5.75% weekly gain, with traders watching Tuesday's CPI and the $48 support zone.",
       "item_ids": [
+        "b7a9188d43253b61",
         "edadc5398eb9e5f6",
         "c5b92c443737a54c",
         "6ca0c6203bcfb8fa",
@@ -103,8 +106,33 @@
   ],
   "items": [
     {
-      "id": "5caf3525e90268aa",
+      "id": "b7a9188d43253b61",
       "rank": 1,
+      "title": "Gold, silver rise as Iran diplomacy pressures crude, dollar weakens",
+      "summary": "Spot gold and silver rose in early US trading on Monday as a softer dollar, easing crude and hopes for a US-Iran diplomatic deal lifted bullion. Spot gold traded near $4,124.74 an ounce, up 1.33%, and silver near $52.759, up 1.57%, with Brent crude easing toward $94.76. Friday's strong US jobs report kept December Fed hike odds near 80%, with Tuesday's US CPI the week's key test.",
+      "url": "https://www.kitco.com/news/article/2026-11-09/gold-silver-rise-iran-diplomacy-pressures-crude-dollar-weakens-kitco-am",
+      "source": "Kitco",
+      "source_domain": "kitco.com",
+      "publisher_id": "kitco",
+      "published_at": "2026-11-09T13:35:03Z",
+      "image_url": "https://image-api.prod.kitco.com/image/8329ee1b-e903-4905-90ce-ccd6fe5d1c38.jpeg?top=0.13162705667276&left=0&width=1024&height=575.73674588665&scale_width=1920&token=a7b62a4bdbe4eb40c4ae930cc942945d8b2d90733179653b02eccbb003adebd2",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "5caf3525e90268aa",
+      "rank": 2,
       "title": "MCX gold prices rise Rs 1,400/10g; silver up Rs 4,000/kg as fall in oil ease rate hike bets",
       "summary": "MCX December gold rose Rs 1,400 to Rs 1,43,933 per 10 g and silver gained Rs 4,000 to Rs 1,88,979 per kg on Monday, as falling crude oil eased inflation worries and cooled rate-hike bets while a weaker dollar supported bullion. Spot gold climbed 1.6% to $4,129.69 and silver 2.8% to $53.31; traders now await US CPI on Tuesday, with CME FedWatch pricing a 79% chance of a December Fed hike.",
       "url": "https://economictimes.indiatimes.com/markets/commodities/news/mcx-gold-prices-rise-rs-1400/10g-silver-up-rs-4000/kg-as-fall-in-oil-ease-rate-hike-bets-buy-sell-or-hold/articleshow/135670680.cms",
@@ -154,11 +182,11 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "1643cf0ea297d35e",
-      "rank": 3,
+      "rank": 4,
       "title": "Gold gains more than 1% as softer oil prices ease inflation worries",
       "summary": "Spot gold climbed 1.6% to $4,129.69 an ounce on Monday and December futures rose 1.6% to $4,139, as softer oil prices eased inflation worries. Oil fell after Trump said further attacks on Iran were highly unlikely while talks continue, and the dollar softened. Traders see a 79% chance of a December Fed hike; US CPI is due Tuesday and PPI on Friday. Silver rose 2.8% to $53.31.",
       "url": "https://www.reuters.com/world/india/gold-gains-more-than-1-softer-oil-prices-ease-inflation-worries-2026-11-09/",
@@ -213,7 +241,7 @@
       "related_urls": [
         "https://www.7globe.in/gold-silver-prices-rise-up-to-2-6-on-comex-what-investors-are-watching-this-week/"
       ],
-      "rank": 4
+      "rank": 5
     },
     {
       "breaking": false,
@@ -238,11 +266,11 @@
       ],
       "title": "US October CPI Preview: Inflation Growth May Slow, How Will US Stocks, Dollar and Gold React?",
       "url": "https://www.tradingkey.com/analysis/economic/indicators/262295678-us-october-cpi-preview-inflation-slowdown-us-stocks-dollar-gold-reaction-tradingkey",
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "6ca0c6203bcfb8fa",
-      "rank": 6,
+      "rank": 7,
       "title": "Gold and Silver Price Forecast: Rebound Puts $4,150 and $55 in Focus",
       "summary": "FXEmpire's forecast puts gold's immediate resistance at $4,150 after Monday's rebound to near $4,130, with a break above it seen opening the way toward $4,250 and $4,400; silver needs to clear $55 to head toward $60, with support at $48. A softer dollar and falling oil drove the rebound, while Tuesday's US CPI is the next test.",
       "url": "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-rebound-puts-4150-and-55-in-focus-1643222",
@@ -267,7 +295,7 @@
     },
     {
       "id": "a31460f04c77c021",
-      "rank": 7,
+      "rank": 8,
       "title": "Gold prices may stay volatile in 2027; JPMorgan sees $6,300 an ounce",
       "summary": "JPMorgan sees gold reaching $6,300 an ounce in 2027, the most bullish call among major brokerages, while UBS sees $5,200 by mid-2027 and Bank of America has trimmed its 2027 average to $5,250. Brokerages still expect central-bank buying of 600-800 tonnes to support prices despite the sharp correction from January's record, with markets pricing in a further Fed rate rise in December.",
       "url": "https://www.cnbctv18.com/market/commodities/gold-price-outlook-jpmorgan-2026-and-2027-should-you-buy-gold-alpha-article-20030131.htm",
@@ -309,11 +337,11 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "5f7b5edb443ff52c",
-      "rank": 9,
+      "rank": 10,
       "title": "Gold trades near $4,100 as focus turns to US inflation and Fed speeches",
       "summary": "Gold held near $4,100 on Monday, up about 1% after an intraday high of $4,134, as the dollar gave back some post-jobs-report gains. Traders now look to Tuesday's US CPI, Friday's PPI and Fed speeches for clues on a December rate rise, priced at about an 80% chance. China also extended its suspension of an extra 24% tariff on US imports by two months.",
       "url": "https://www.fxstreet.com/news/gold-trades-near-4-100-as-focus-turns-to-us-inflation-and-fed-speeches-202611091126",
@@ -356,7 +384,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "fb01d3c6b16c2494",
@@ -381,29 +409,6 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 11
-    },
-    {
-      "breaking": false,
-      "category": "global",
-      "id": "f3217f47c7e93c88",
-      "image_kind": "photo",
-      "image_url": "https://www.cointribune.com/app/uploads/2026/11/Or-Banques.png?nowebp",
-      "metals": [
-        "gold"
-      ],
-      "published_at": "2026-11-09T08:05:00Z",
-      "publisher_id": "cointribune",
-      "source": "Cointribune",
-      "source_domain": "cointribune.com",
-      "summary": "Global gold demand hit a record $188 billion in the third quarter, the World Gold Council said, up 22% on the year even as volumes slipped 1% to 1,369 tonnes. Central banks bought 321 tonnes, up 42% and more than jewellery demand of 313 tonnes for the first time, while ETFs added 211 tonnes to a record 4,256 tonnes. Bar and coin buying fell 19% and jewellery demand 17%.",
-      "tags": [
-        "gold",
-        "global",
-        "central-banks"
-      ],
-      "title": "Gold Demand Hits Record As Retail Buyers Retreat",
-      "url": "https://www.cointribune.com/en/gold-demand-hits-record-as-retail-buyers-retreat/",
       "rank": 12
     },
     {
@@ -450,7 +455,10 @@
       ],
       "title": "Barrick Quarterly Earnings Benefit from Higher Prices as Production Remains On Track for Annual Target",
       "url": "https://www.morningstar.com/news/dow-jones/202611092805/barrick-quarterly-earnings-benefit-from-higher-prices-as-production-remains-on-track-for-annual-target",
-      "rank": 14
+      "rank": 14,
+      "related_urls": [
+        "https://www.reuters.com/business/barrick-profit-rises-higher-gold-prices-2026-11-09/"
+      ]
     },
     {
       "id": "7fa52ed71e3569f0",
