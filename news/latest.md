@@ -1,14 +1,14 @@
-# Gold & Silver for Indian buyers · 2026-11-09T07:00Z
+# Gold & Silver for Indian buyers · 2026-11-09T08:00Z
 
 ## Today’s brief
 
-**Gold tops $4,130 as oil slide eases inflation fears**
+**MCX gold near Rs 1.44 lakh as oil slide lifts bullion**
 
-Spot gold rose 1.6% to $4,129.69 as softer oil eased inflation fears, while MCX gold stayed near Rs 1.42 lakh per 10 g.
+MCX gold rose Rs 1,400 to Rs 1,43,933 per 10 g, silver Rs 4,000 to Rs 1,88,979 per kg, as oil fell and dollar eased.
 
-- Reuters says Trump's softer tone on Iran pulled oil lower, easing inflation worries, while a softer dollar also supported bullion.
-- Dhanteras gold sales are estimated above Rs 62,000 crore, and MCX is shut Tuesday morning for Diwali-Balipratipada.
-- US October CPI is due Tuesday 10 November at 18:00 IST, the next big test after Friday's strong payrolls.
+- Reuters says softer oil eased inflation worries and cooled rate-hike bets, while a weaker dollar also supported gold and silver.
+- Dhanteras gold sales are estimated above Rs 62,000 crore, with festive demand staying firm despite elevated prices.
+- US October CPI is due Tuesday 10 November at 19:00 IST, the next test for December Fed hike odds near 79%.
 
 > MCX gold climbs Rs 1,400 as softer oil and a weaker dollar lift bullion; silver up Rs 4,000
 

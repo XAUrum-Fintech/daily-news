@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-09T07:00Z",
-  "generated_at": "2026-11-09T07:08:57Z",
+  "edition_id": "2026-11-09T08:00Z",
+  "generated_at": "2026-11-09T08:09:36Z",
   "window": {
-    "from": "2026-11-09T06:00:00Z",
-    "to": "2026-11-09T07:00:00Z"
+    "from": "2026-11-09T07:00:00Z",
+    "to": "2026-11-09T08:00:00Z"
   },
   "insights": {
     "headline": "MCX gold climbs Rs 1,400 as softer oil and a weaker dollar lift bullion; silver up Rs 4,000",
@@ -18,29 +18,30 @@
     ],
     "brief": {
       "schema": "orob-brief.v1",
-      "brief_id": "2026-11-09-0950",
+      "brief_id": "2026-11-09-1339",
       "date": "2026-11-09",
-      "generated_at": "2026-11-09T04:20:36Z",
-      "slot": "morning",
-      "expires_at": "2026-11-09T08:00:00Z",
-      "headline": "Gold tops $4,130 as oil slide eases inflation fears",
-      "summary": "Spot gold rose 1.6% to $4,129.69 as softer oil eased inflation fears, while MCX gold stayed near Rs 1.42 lakh per 10 g.",
+      "generated_at": "2026-11-09T08:09:36Z",
+      "slot": "midday",
+      "expires_at": "2026-11-09T13:00:00Z",
+      "headline": "MCX gold near Rs 1.44 lakh as oil slide lifts bullion",
+      "summary": "MCX gold rose Rs 1,400 to Rs 1,43,933 per 10 g, silver Rs 4,000 to Rs 1,88,979 per kg, as oil fell and dollar eased.",
       "bullets": [
         {
-          "text": "Reuters says Trump's softer tone on Iran pulled oil lower, easing inflation worries, while a softer dollar also supported bullion.",
+          "text": "Reuters says softer oil eased inflation worries and cooled rate-hike bets, while a weaker dollar also supported gold and silver.",
           "item_ids": [
-            "1643cf0ea297d35e"
+            "1643cf0ea297d35e",
+            "5caf3525e90268aa"
           ]
         },
         {
-          "text": "Dhanteras gold sales are estimated above Rs 62,000 crore, and MCX is shut Tuesday morning for Diwali-Balipratipada.",
+          "text": "Dhanteras gold sales are estimated above Rs 62,000 crore, with festive demand staying firm despite elevated prices.",
           "item_ids": [
             "cef44a122b97c7cf",
-            "2334d98ca6e225cd"
+            "8a8764c86058d792"
           ]
         },
         {
-          "text": "US October CPI is due Tuesday 10 November at 18:00 IST, the next big test after Friday's strong payrolls.",
+          "text": "US October CPI is due Tuesday 10 November at 19:00 IST, the next test for December Fed hike odds near 79%.",
           "item_ids": [
             "8624d66023670fe1",
             "1643cf0ea297d35e"
