@@ -1,50 +1,49 @@
 {
  "schema": "orob-news.v1",
- "edition_id": "2026-11-09T03:00Z",
- "generated_at": "2026-11-09T03:27:12Z",
+ "edition_id": "2026-11-09T04:00Z",
+ "generated_at": "2026-11-09T04:20:36Z",
  "window": {
-  "from": "2026-11-09T01:00:00Z",
-  "to": "2026-11-09T03:00:00Z"
+  "from": "2026-11-09T02:00:00Z",
+  "to": "2026-11-09T04:00:00Z"
  },
  "insights": {
-  "headline": "COMEX gold tops $4,134 as Iran tensions ease; MCX shut Tuesday morning",
-  "summary": "COMEX gold rose 1.45% to $4,134.10 an ounce on Monday and silver 2.63% to $53.31, extending last week's gains as Iran-war fears eased and softer crude tempered inflation worries. MCX December gold gained about 3% on the week to Rs 1.42 lakh per 10 g and silver 3.15% to Rs 1.84 lakh per kg, with the domestic market shut on Tuesday morning for Diwali-Balipratipada. Goldman Sachs cut its year-end gold forecast to $4,150 an ounce, citing the Federal Reserve's hawkish shift, while US October CPI due on Tuesday is the next big test for bullion.",
+  "headline": "Gold climbs past $4,130 as softer oil and a weaker dollar lift bullion; silver tops $53",
+  "summary": "Spot gold rose 1.6% to $4,129.69 on Monday as softer oil prices eased inflation worries and the dollar softened, with silver up 2.8% to $53.31. MCX December gold stayed near Rs 1.42 lakh per 10 g after gaining about 3% last week, and Dhanteras gold sales are estimated above Rs 62,000 crore. Traders now await US October CPI on Tuesday, the next test for December Fed hike odds near 79%.",
   "points": [
-   "COMEX gold rose 1.45% to $4,134.10 on Monday and silver 2.63% to $53.31, extending last week's gains of about 4.5% and 5.4%.",
-   "MCX December gold gained about 3% on the week to Rs 1.42 lakh per 10 g; silver rose 3.15% to Rs 1.84 lakh per kg; MCX is shut Tuesday morning.",
-   "Goldman Sachs cut its year-end 2026 gold forecast to $4,150 an ounce from $4,650, citing the Fed's hawkish shift.",
-   "Spot gold climbed back above $4,100 in early Asian trading as Iran-war fears eased; softer crude tempered inflation worries.",
-   "Dhanteras gold and silver sales crossed Rs 60,000 crore, GJC estimated, up 15-20% in value on last year."
+   "Spot gold rose 1.6% to $4,129.69 on Monday; December futures gained 1.6% to $4,139 as oil fell.",
+   "Silver climbed 2.8% to $53.31 an ounce, extending a 5.75% weekly gain; COMEX gold rose 1.45% to $4,134.10.",
+   "MCX December gold gained about 3% on the week to Rs 1.42 lakh per 10 g; silver rose 3.15% to Rs 1.84 lakh per kg.",
+   "October US payrolls rose 165,000, lifting December Fed hike odds to about 79%; US CPI is due Tuesday.",
+   "Dhanteras and Lakshmi Puja gold sales are estimated above Rs 62,000 crore; MCX is shut Tuesday morning for Diwali-Balipratipada."
   ],
   "brief": {
    "schema": "orob-brief.v1",
-   "brief_id": "2026-11-09-0743",
+   "brief_id": "2026-11-09-0950",
    "date": "2026-11-09",
-   "generated_at": "2026-11-09T02:13:35Z",
+   "generated_at": "2026-11-09T04:20:36Z",
    "slot": "morning",
    "expires_at": "2026-11-09T08:00:00Z",
-   "headline": "Gold tops $4,100 as Iran tensions ease",
-   "summary": "Spot gold rose back above $4,100 as Iran tensions eased; MCX gold ended the Muhurat session at Rs 1,42,335 per 10 g.",
+   "headline": "Gold tops $4,130 as oil slide eases inflation fears",
+   "summary": "Spot gold rose 1.6% to $4,129.69 as softer oil eased inflation fears, while MCX gold stayed near Rs 1.42 lakh per 10 g.",
    "bullets": [
     {
-     "text": "Democrats pushing to end the Iran war lifted gold, FXStreet says; softer crude eased inflation fears and silver rose 0.9% to $52.32.",
+     "text": "Reuters says Trump's softer tone on Iran pulled oil lower, easing inflation worries, while a softer dollar also supported bullion.",
      "item_ids": [
-      "a0e804d8f2eb87a2",
-      "76a5065cee9f56a3"
+      "1643cf0ea297d35e"
      ]
     },
     {
-     "text": "MCX silver closed the Muhurat session at Rs 1,85,079 per kg, and GJC estimated Dhanteras gold and silver sales crossed Rs 60,000 crore.",
+     "text": "Dhanteras gold sales are estimated above Rs 62,000 crore, and MCX is shut Tuesday morning for Diwali-Balipratipada.",
      "item_ids": [
-      "fb01d3c6b16c2494",
-      "4f1f70f33be4780f"
+      "cef44a122b97c7cf",
+      "2334d98ca6e225cd"
      ]
     },
     {
-     "text": "US October CPI is due Tuesday 10 November at 18:00 IST, the next big test after Friday's strong payrolls lifted December Fed hike odds.",
+     "text": "US October CPI is due Tuesday 10 November at 18:00 IST, the next big test after Friday's strong payrolls.",
      "item_ids": [
-      "c5b92c443737a54c",
-      "a0e804d8f2eb87a2"
+      "8624d66023670fe1",
+      "1643cf0ea297d35e"
      ]
     }
    ]
@@ -52,49 +51,39 @@
  },
  "trending": [
   {
-   "title": "Gold extends gains above $4,130 as Iran-war fears ease",
-   "summary": "COMEX gold rose to $4,134.10 and silver to $53.31 on Monday, extending last week's gains as speculation grew that the Iran war could end and softer crude eased inflation fears.",
+   "title": "Gold's Monday rebound",
+   "summary": "Softer oil and a weaker dollar lifted spot gold 1.6% to $4,129.69 on Monday, with silver up 2.8% to $53.31, extending last week's gains.",
    "item_ids": [
+    "1643cf0ea297d35e",
     "2334d98ca6e225cd",
+    "a0e804d8f2eb87a2"
+   ]
+  },
+  {
+   "title": "December Fed hike odds near 79%",
+   "summary": "October payrolls rose 165,000, well above forecasts, lifting December hike odds to about 79%; Tuesday's US CPI is the next test.",
+   "item_ids": [
     "a0e804d8f2eb87a2",
-    "76a5065cee9f56a3",
-    "8a17aad35a29975b"
-   ]
-  },
-  {
-   "title": "Jobs beat resets the Fed debate",
-   "summary": "US payrolls rose 165,000 in October, far above the 65,000 forecast, lifting the dollar and December hike odds; Goldman Sachs has cut its year-end gold forecast, and Tuesday's US CPI is the next test.",
-   "item_ids": [
     "8624d66023670fe1",
-    "faae1bb24af405e6",
-    "c5b92c443737a54c"
+    "1643cf0ea297d35e"
    ]
   },
   {
-   "title": "Muhurat session caps a festive week",
-   "summary": "MCX gold rose 1.2% to Rs 1,42,335 per 10 g and silver edged up in the Diwali Muhurat session, closing a week in which bullion recovered from multi-week lows.",
+   "title": "Dhanteras demand tops Rs 60,000 crore",
+   "summary": "Festive gold sales beat last year by value even as buyers chose lighter jewellery and smaller coins; Salem's silver anklet orders nearly doubled for Deepavali.",
    "item_ids": [
-    "fb01d3c6b16c2494",
-    "4f1f70f33be4780f",
-    "a3b6596f24ef9722"
+    "cef44a122b97c7cf",
+    "8a8764c86058d792",
+    "54d6c6b81cb96d71"
    ]
   },
   {
-   "title": "Silver's strong week, levels in focus",
-   "summary": "Silver ended the week at $51.94, up 5.75%, and faces the US CPI test after the dollar's jump; the World Bank's 2028 gold forecast sits almost exactly at today's price.",
+   "title": "Silver outpaces gold into the week",
+   "summary": "Silver rose 2.8% to $53.31 on Monday after a 5.75% weekly gain, with traders watching Tuesday's CPI and the $48 support zone.",
    "item_ids": [
     "edadc5398eb9e5f6",
     "c5b92c443737a54c",
-    "ac2b6e5448219636"
-   ]
-  },
-  {
-   "title": "Dhanteras demand, lighter buying",
-   "summary": "Dhanteras and Lakshmi Puja sales are estimated to cross Rs 62,000 crore, GJC said, but volumes stayed broadly flat as buyers chose lighter jewellery and small coins.",
-   "item_ids": [
-    "4f1f70f33be4780f",
-    "8a8764c86058d792",
-    "cef44a122b97c7cf"
+    "1643cf0ea297d35e"
    ]
   }
  ],
@@ -130,6 +119,34 @@
    "rank": 1
   },
   {
+   "id": "1643cf0ea297d35e",
+   "rank": 2,
+   "title": "Gold gains more than 1% as softer oil prices ease inflation worries",
+   "summary": "Spot gold climbed 1.6% to $4,129.69 an ounce on Monday and December futures rose 1.6% to $4,139, as softer oil prices eased inflation worries. Oil fell after Trump said further attacks on Iran were highly unlikely while talks continue, and the dollar softened. Traders see a 79% chance of a December Fed hike; US CPI is due Tuesday and PPI on Friday. Silver rose 2.8% to $53.31.",
+   "url": "https://www.reuters.com/world/india/gold-gains-more-than-1-softer-oil-prices-ease-inflation-worries-2026-11-09/",
+   "source": "Reuters",
+   "source_domain": "reuters.com",
+   "publisher_id": "reuters",
+   "published_at": "2026-11-09T02:20:00Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "gold",
+    "silver",
+    "global",
+    "fed"
+   ],
+   "category": "global",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "related_urls": [
+    "https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-up-as-softer-crude-tempers-inflation-concerns/articleshow/135667365.cms"
+   ]
+  },
+  {
    "id": "a0e804d8f2eb87a2",
    "title": "Gold rebounds above $4,100 despite strong US NFP data",
    "summary": "Spot gold climbed back above $4,100 in early Asian trading on Monday, recovering from Friday's payrolls-driven slide, as speculation grew that Democrats who won majorities in both chambers would push to end the Iran war. The rebound came despite October payrolls rising 165,000, far above the 65,000 forecast, which lifted December Fed hike odds to about 79.6%, FXStreet reports.",
@@ -148,31 +165,6 @@
    "category": "global",
    "metals": [
     "gold"
-   ],
-   "breaking": false,
-   "rank": 2
-  },
-  {
-   "id": "76a5065cee9f56a3",
-   "title": "Gold edges up as softer crude tempers inflation concerns",
-   "summary": "Spot gold edged up 0.2% to $4,073.59 an ounce early on Monday as softer oil prices eased inflation concerns, Reuters reports, after Trump said he was highly unlikely to order more attacks on Iran while talks continue. Silver rose 0.9% to $52.32 an ounce, while strong US payrolls kept December Fed hike odds near 79% and capped gains.",
-   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-up-as-softer-crude-tempers-inflation-concerns/articleshow/135667365.cms",
-   "source": "Economic Times",
-   "source_domain": "economictimes.indiatimes.com",
-   "publisher_id": "economic-times",
-   "published_at": "2026-11-09T01:01:00Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/76a5065cee9f56a3.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "silver",
-    "global",
-    "fed"
-   ],
-   "category": "global",
-   "metals": [
-    "gold",
-    "silver"
    ],
    "breaking": false,
    "rank": 3
@@ -204,29 +196,6 @@
    "rank": 4
   },
   {
-   "id": "07e7f73cac0e6e64",
-   "title": "Gold's short-term volatility contrasts with long-term bullishness",
-   "summary": "Gold looks to be finding a floor near $4,000 an ounce, caught between short-term forces — equity weakness, the dollar and rate expectations — and longer-term support from central-bank buying. Spot ended at $4,065.63 on November 6, after this year's low of $3,869.85 on October 30. Central banks bought 321.2 tonnes in the third quarter, the most since late 2024, World Gold Council figures show.",
-   "url": "https://www.reuters.com/commentary/reuters-open-interest/golds-short-term-volatility-contrasts-with-long-term-bullishness-2026-11-08/",
-   "source": "Reuters",
-   "source_domain": "reuters.com",
-   "publisher_id": "reuters",
-   "published_at": "2026-11-08T23:59:00Z",
-   "image_url": null,
-   "image_kind": "none",
-   "tags": [
-    "gold",
-    "central-banks",
-    "global"
-   ],
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "rank": 5
-  },
-  {
    "id": "faae1bb24af405e6",
    "title": "Gold Is Up 4% Since Midterms: Here's Where Markets Think The Precious Metal Prices Are Headed",
    "summary": "Goldman Sachs cut its year-end 2026 gold forecast to $4,150 an ounce from $4,650, and its 2027 forecast to $4,800 from $5,400, citing the Fed's hawkish shift, even as gold rose about 4% and silver over 5% since the US midterms. The bank still sees central-bank buying of about 60 tonnes a month as the main support. Peter Schiff argued a Democratic Congress means more spending and bigger deficits.",
@@ -252,7 +221,7 @@
    "related_urls": [
     "https://www.tradingview.com/news/stocktwits:34ccb0987094b:0-gold-is-up-4-since-midterms-here-s-where-markets-think-the-precious-metal-prices-are-headed/"
    ],
-   "rank": 6
+   "rank": 5
   },
   {
    "id": "fb01d3c6b16c2494",
@@ -277,7 +246,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 7
+   "rank": 6
   },
   {
    "id": "7fa52ed71e3569f0",
@@ -304,7 +273,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 8
+   "rank": 7
   },
   {
    "id": "8a17aad35a29975b",
@@ -326,7 +295,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 9
+   "rank": 8
   },
   {
    "id": "8624d66023670fe1",
@@ -349,7 +318,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 10
+   "rank": 9
   },
   {
    "id": "edadc5398eb9e5f6",
@@ -372,7 +341,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 11
+   "rank": 10
   },
   {
    "id": "c5b92c443737a54c",
@@ -395,7 +364,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 12
+   "rank": 11
   },
   {
    "id": "cef44a122b97c7cf",
@@ -420,7 +389,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 13
+   "rank": 12
   },
   {
    "id": "d6c8c3d52bd41f9e",
@@ -443,11 +412,11 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 14
+   "rank": 13
   },
   {
    "id": "1fe201241eb50e96",
-   "rank": 15,
+   "rank": 14,
    "title": "Global Gold Prices Down 24% From Record. In India, It's Down 20%. Here's What Makes Up The Difference",
    "summary": "Spot gold closed at $4,068.71 an ounce, about 24% below its Jan 29 record of $5,379, while Delhi gold fell only about 20% from its record. NDTV Profit puts the gap down to the duty rising from 6% to 15% in May and a rupee about 2% weaker since January, plus a January premium that has since vanished. The World Gold Council expects India's demand near 650 tonnes this year, the lowest since 2020.",
    "url": "https://www.ndtvprofit.com/markets/global-gold-prices-down-24-from-record-in-india-its-down-20-heres-what-makes-up-the-difference-12299005",
@@ -490,7 +459,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 16
+   "rank": 15
   },
   {
    "id": "d641f8c2e60818af",
@@ -514,7 +483,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 17
+   "rank": 16
   },
   {
    "id": "dafe847ddcde9c70",
@@ -537,7 +506,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 18
+   "rank": 17
   },
   {
    "id": "234015be3be06961",
@@ -563,32 +532,7 @@
    ],
    "image_url": "https://agcoltwfivlzpiwvpapy.supabase.co/storage/v1/object/public/article-images/32428be3-9857-4141-b1a4-588ddd605433/articles/79919c08-2da3-4a3c-9490-2b08ecd65da5/1c1178f5-9437-46bc-9001-53d62e8d40de-preferred-thumbnail-crop-v2.png",
    "image_kind": "photo",
-   "rank": 19
-  },
-  {
-   "category": "festive",
-   "image_kind": "photo",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/4f1f70f33be4780f.jpg",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "published_at": "2026-11-07T04:28:24Z",
-   "publisher_id": "cnbc-tv18",
-   "source": "CNBC-TV18",
-   "source_domain": "cnbctv18.com",
-   "summary": "Gold and silver sales crossed ₹60,000 crore on Dhanteras, the GJC estimated, with gold sales value up 15-20% on last year while volumes stayed broadly flat; silver sales rose 30% by value and 10% by volume. Jewellers from Kalyan to Senco reported higher footfalls and strong demand for lightweight jewellery and small coins after the price correction.",
-   "tags": [
-    "gold",
-    "silver",
-    "india",
-    "jewellery"
-   ],
-   "title": "Dhanteras sales 2026: How much gold and silver did Indians buy this year",
-   "url": "https://www.cnbctv18.com/personal-finance/dhanteras-sales-2026-how-much-gold-silver-did-indians-buy-20029352.htm",
-   "id": "4f1f70f33be4780f",
-   "breaking": false,
-   "rank": 20
+   "rank": 18
   },
   {
    "id": "8a8764c86058d792",
@@ -613,7 +557,32 @@
    "breaking": false,
    "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/8a8764c86058d792.jpg",
    "image_kind": "photo",
-   "rank": 21
+   "rank": 19
+  },
+  {
+   "id": "1cfd616399d649a0",
+   "rank": 20,
+   "title": "Buying gold or silver this Diwali? Which precious metal offers bigger upside in Samvat 2083?",
+   "summary": "Mint compares gold and silver for Diwali buyers in Samvat 2083, citing Religare Broking's Diwali report, which sets accumulation ranges of Rs 1,30,000-1,35,000 per 10 g for gold and Rs 1,50,000-1,63,000 per kg for silver.",
+   "url": "https://www.livemint.com/market/commodities/buying-gold-or-silver-this-diwali-which-precious-metal-offers-bigger-upside-in-samvat-2083-check-targets-strategy-11794124125357.html",
+   "source": "Mint",
+   "source_domain": "livemint.com",
+   "publisher_id": "mint",
+   "published_at": "2026-11-08T08:12:26Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/1cfd616399d649a0.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "silver",
+    "india",
+    "jewellery"
+   ],
+   "category": "festive",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false
   },
   {
    "id": "4efa849fab375470",
@@ -636,11 +605,11 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 22
+   "rank": 21
   },
   {
    "id": "54d6c6b81cb96d71",
-   "rank": 23,
+   "rank": 22,
    "title": "Silver anklet units in Salem get a good amount of orders for this year’s Deepavali",
    "summary": "Salem’s silver anklet makers reported a sharp recovery for Deepavali, with orders rising to over 45%, nearly double the roughly 25% in 2025, The Hindu reported. The rebound followed silver easing to about Rs 2.05 lakh per kg from a volatile Rs 2.3–4 lakh range, and orders picked up in the last 15 days from buyers across five states.",
    "url": "https://www.thehindu.com/news/cities/Coimbatore/silver-anklet-units-in-salem-get-a-good-amount-of-orders-for-this-years-deepavali/article71677626.ece",
@@ -682,7 +651,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 24
+   "rank": 23
   }
  ]
 }
