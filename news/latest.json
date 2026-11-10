@@ -1,20 +1,20 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-10T14:00Z",
-  "generated_at": "2026-11-10T14:11:45Z",
+  "edition_id": "2026-11-10T16:00Z",
+  "generated_at": "2026-11-10T16:14:28Z",
   "window": {
-    "from": "2026-11-10T12:00:00Z",
-    "to": "2026-11-10T14:00:00Z"
+    "from": "2026-11-10T14:00:00Z",
+    "to": "2026-11-10T16:00:00Z"
   },
   "insights": {
-    "headline": "Gold plunges 2% after hotter US CPI as December hike bets harden",
-    "summary": "Spot gold fell about 2% to $4,054.90 an ounce after US October CPI rose 0.4% on the month and core CPI 0.3%, both above forecasts, with no 12-month change published. The print put Fed Governor Waller's half-point December hike warning in play, with traders pricing about a 95% chance of a December hike. MCX gold slipped below Rs 1,42,000 per 10 g in the evening session and silver fell over Rs 2,000 per kg, while Delhi gold had earlier fallen Rs 500 to Rs 1,46,400. Singapore's central bank said it will open a 500-tonne gold vault to foreign central banks.",
+    "headline": "Gold steadies near $4,055 after hot CPI as traders price a possible 50 bp December hike",
+    "summary": "Spot gold steadied near $4,054.90 an ounce after falling about 2% on US October CPI of 0.4% on the month and core CPI of 0.3%, both above forecasts, with no 12-month change published. Traders lifted the odds of a 50-basis-point December hike to nearly 15% after Fed Governor Waller's warning, and MCX gold slipped below Rs 1,42,000 per 10 g with silver near $52. Brent crude fell below $90 as Trump signalled a pause in military action against Iran, while festive demand stayed strong, with BlueStone reporting 45% business growth over Dhanteras-Diwali.",
     "points": [
       "US October CPI rose 0.4% on the month and core CPI 0.3%, both above forecasts; the BLS published no 12-month change.",
-      "Spot gold fell about 2% to $4,054.90 an ounce and silver 2.8% to $51.90 after the hotter CPI print.",
-      "MCX gold hit an evening low of Rs 1,41,815 per 10 g and silver Rs 1,84,841 per kg, down Rs 2,286.",
-      "Traders priced about a 95% chance of a December Fed hike; Waller had backed a half-point move if core CPI hit 0.3%.",
-      "Singapore's MAS will open a 500-tonne gold vault to foreign central banks, with tax relief on wholesale gold services from April 2027."
+      "Spot gold fell about 2% to $4,054.90 an ounce; silver held near $52, with futures around $51.90.",
+      "Traders lifted the odds of a 50 bp December hike to nearly 15% after Waller's warning; MCX gold slipped below Rs 1,42,000 per 10 g.",
+      "Brent crude fell below $90 as Trump signalled a pause in military action against Iran, easing inflation pressure.",
+      "Festive demand stayed strong: BlueStone reported 45% business growth over Dhanteras-Diwali, driven by more buyers."
     ],
     "brief": {
       "schema": "orob-brief.v1",
@@ -51,47 +51,39 @@
   },
   "trending": [
     {
-      "title": "Hot CPI sinks gold 2% as hike bets harden",
-      "summary": "October CPI came in above forecasts at 0.4% headline and 0.3% core, sending spot gold to $4,054.90 and lifting December hike odds to about 95%, with Waller's half-point warning now live.",
+      "title": "Hot CPI sinks gold 2% as 50 bp hike odds jump",
+      "summary": "October CPI beat forecasts at 0.4% headline and 0.3% core, sending spot gold to $4,054.90; traders now price a nearly 15% chance of a 50 bp December hike after Waller's warning.",
       "item_ids": [
         "cf045a79f494b1f1",
-        "5c885ab10bbb52d5",
-        "bd4fe7a3b399bc8d"
+        "ce87ded0dfeaec4e",
+        "5c885ab10bbb52d5"
       ]
     },
     {
-      "title": "MCX evening session slides below Rs 1,42,000",
-      "summary": "MCX gold fell to Rs 1,41,815 per 10 g and silver to Rs 1,84,841 per kg in the evening session after the Balipratipada holiday, with Delhi gold down Rs 500.",
+      "title": "MCX slides below Rs 1,42,000 as silver nears $52",
+      "summary": "MCX gold fell to Rs 1,41,815 per 10 g in the evening session and silver to about Rs 1,85,729 per kg, tracking the global slide, while Delhi gold had earlier eased Rs 500.",
       "item_ids": [
         "bd4fe7a3b399bc8d",
-        "ec919d704c2884a6",
-        "3d3cbd80863fe985"
+        "f11b4701e93408ee",
+        "ec919d704c2884a6"
       ]
     },
     {
-      "title": "Festive demand: jewellery sales top Rs 62,000 crore",
-      "summary": "Dhanteras and Lakshmi Pooja jewellery sales rose 15-20% to Rs 62,000 crore as lower prices drew buyers, with jewellers expecting a strong wedding season ahead.",
+      "title": "Oil below $90 as Iran tensions ease",
+      "summary": "Brent slipped below $90 for the first time since August as Trump signalled a pause in military action against Iran, easing the inflation pressure that had been pushing hike bets higher.",
       "item_ids": [
-        "32d20a7f6a27c330",
+        "8044c0c29f6b4575",
+        "f11b4701e93408ee"
+      ]
+    },
+    {
+      "title": "Festive demand: more buyers, smaller hauls",
+      "summary": "Dhanteras jewellery sales stayed strong as lower prices drew buyers, but Rs 1 lakh bought only about 7 g of gold this Dhanteras versus 33 g in 2016; BlueStone's festive business grew 45%.",
+      "item_ids": [
         "3f7615c11b4d0a7f",
+        "920957de05ca9dbc",
+        "04bb5443ef352095",
         "ae7355a54316221f"
-      ]
-    },
-    {
-      "title": "Singapore opens a 500-tonne vault to central banks",
-      "summary": "MAS will hold bullion for foreign central banks in its national vault and extend tax relief on wholesale gold services, while China added gold for a 24th straight month.",
-      "item_ids": [
-        "9d64e804988675ab",
-        "d2350c82177dcd96"
-      ]
-    },
-    {
-      "title": "Rupee steadies near 94 as RBI forwards cap gains",
-      "summary": "The rupee snapped a six-day winning streak to close near 93.93, and the RBI's $239 bn forward book is expected to limit further gains even as the rupee cushioned gold's fall for Indian buyers.",
-      "item_ids": [
-        "776f7630a46830e3",
-        "e7de63c2761b8be7",
-        "3b0c73c49b49c143"
       ]
     }
   ],
@@ -123,6 +115,31 @@
       "rank": 1
     },
     {
+      "id": "ce87ded0dfeaec4e",
+      "title": "Traders raise odds of 50 bps Fed rate hike as CPI rise exceeds expectations",
+      "summary": "Traders lifted the odds of a 50-basis-point Fed hike in December to nearly 15% by midmorning, from about 11% late on Monday, after US October CPI rose 0.4% on the month and core CPI rose 0.3% for a third straight month. Fed Governor Waller had said a core CPI rise of 0.3% or more could prompt a half-point move at the December 8-9 meeting; the odds touched a session high of 17%.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/traders-raise-odds-of-50-bps-fed-rate-hike-as-cpi-rise-exceeds-expectations/articleshow/135714586.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-11-10T15:15:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/ce87ded0dfeaec4e.jpg",
+      "image_kind": "photo",
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "fed",
+        "global"
+      ],
+      "breaking": false,
+      "rank": 2
+    },
+    {
       "id": "bd4fe7a3b399bc8d",
       "title": "Bullion Market Slides In Evening: Gold Drops Below Rs 1,42,000 And Silver Plunges Over Rs 2,000 On MCX",
       "summary": "MCX gold fell to an evening low of Rs 1,41,815 per 10 g, down Rs 1,351 from the previous close of Rs 1,43,166, and was near Rs 1,42,027 in late evening trade. MCX silver dropped to a low of Rs 1,84,841 per kg, down Rs 2,286, and was near Rs 1,85,104. Retail 24-karat gold was Rs 1,42,470 per 10 g and silver Rs 1,85,820 per kg.",
@@ -145,7 +162,33 @@
         "india"
       ],
       "breaking": false,
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "id": "f11b4701e93408ee",
+      "title": "Gold slips below $4,100, silver at $52 as Brent crude falls below $90; Fed rate hike bets rise",
+      "summary": "International gold fell 1.61% to near $4,074 an ounce and silver 1.91% to just above $52 as December Fed hike bets hardened after the hot CPI print. MCX gold futures for December 4 fell 0.78% to Rs 1,42,054 per 10 g and silver 0.75% to Rs 1,85,729 per kg, while Brent crude slipped 3.1% to $89.62, below $90 for the first time since August.",
+      "url": "https://www.moneycontrol.com/news/business/personal-finance/gold-slips-below-4-100-silver-at-52-as-brent-crude-falls-below-90-fed-rate-hike-bets-rise-14076373.html",
+      "source": "Moneycontrol",
+      "source_domain": "moneycontrol.com",
+      "publisher_id": "moneycontrol",
+      "published_at": "2026-11-10T12:10:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/f11b4701e93408ee.jpg",
+      "image_kind": "photo",
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "fed",
+        "global"
+      ],
+      "breaking": false,
+      "rank": 4
     },
     {
       "id": "5c885ab10bbb52d5",
@@ -171,7 +214,30 @@
       "related_urls": [
         "https://www.reuters.com/business/feds-waller-plans-support-least-quarter-point-rate-hike-december-2026-11-10/"
       ],
-      "rank": 3
+      "rank": 5
+    },
+    {
+      "id": "a4c2f849c46f7680",
+      "title": "Silver Outlook Stays Cautious as CPI and Real Yields Remain Firm",
+      "summary": "Silver stayed cautious after the hot US CPI print, with futures near $51.90 and spot around $51.56, below the $55 resistance level and a short-term moving average near $58. FXEmpire notes firm real yields and the stronger December hike case are capping the metal, with $52 as the near-term pivot.",
+      "url": "https://www.fxempire.com/forecasts/article/silver-outlook-stays-cautious-as-cpi-and-real-yields-remain-firm-1643635",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "published_at": "2026-11-10T14:58:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "tags": [
+        "silver",
+        "fed",
+        "global"
+      ],
+      "breaking": false,
+      "rank": 6
     },
     {
       "id": "ec919d704c2884a6",
@@ -196,7 +262,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 4
+      "rank": 7
     },
     {
       "id": "9d64e804988675ab",
@@ -219,7 +285,7 @@
         "global"
       ],
       "breaking": false,
-      "rank": 5
+      "rank": 8
     },
     {
       "id": "69ef0d1e604de98d",
@@ -245,11 +311,11 @@
       "image_url": "https://bl-i.thgim.com/public/todays-paper/tp-others/4u96qd/article71679564.ece/alternates/LANDSCAPE_1200/Bullion-Cues_-SGJQGP6GOI.4.jpg.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 6
+      "rank": 9
     },
     {
       "id": "ba1c7ff7fe720e66",
-      "rank": 7,
+      "rank": 10,
       "title": "Gold, silver advance as dollar weakens, Fed rate expectations face inflation test",
       "summary": "Spot gold closed near $4,140.40 an ounce, up 1.70%, and silver near $53.32, up 2.60%, as a weaker dollar and falling crude lifted bullion. Brent fell 5.85% to $92.57 a barrel on hopes for US-Iran diplomacy, easing inflation worries ahead of Tuesday's US October CPI. December Fed hike odds held near 82.2% after payrolls rose 165,000, well above the roughly 65,000 expected.",
       "url": "https://www.kitco.com/news/article/2026-11-09/gold-silver-advance-dollar-weakens-fed-rate-expectations-face-inflation",
@@ -297,7 +363,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 11
     },
     {
       "id": "2e87b5d1d2636164",
@@ -321,7 +387,29 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 12
+    },
+    {
+      "id": "8044c0c29f6b4575",
+      "title": "Oil prices fall as Trump signals pause in military action against Iran",
+      "summary": "Brent crude fell 1.7% to $90.99 a barrel and US WTI 1.8% to $85.20 after President Trump said he would 'watch and see' on military action against Iran, easing the war premium that had lifted oil and fed inflation worries. Brent had already settled down 5.85% in the previous session and sits about 22% below its $118 high of October 30.",
+      "url": "https://www.business-standard.com/markets/commodities/oil-prices-fall-as-trump-signals-pause-in-military-action-against-iran-126111000067_1.html",
+      "source": "Business Standard",
+      "source_domain": "business-standard.com",
+      "publisher_id": "business-standard",
+      "published_at": "2026-11-10T09:37:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/8044c0c29f6b4575.jpg",
+      "image_kind": "photo",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "global"
+      ],
+      "breaking": false,
+      "rank": 13
     },
     {
       "id": "776f7630a46830e3",
@@ -345,32 +433,7 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/776f7630a46830e3.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 10
-    },
-    {
-      "id": "e7de63c2761b8be7",
-      "title": "RBI's $239 bn forward dollar position to limit rupee gains despite FPI inflows: Report",
-      "summary": "The RBI's net short dollar forward position stood at $239 billion as of September, an IDFC First Bank report says, likely capping rupee gains even as foreign portfolio inflows recover. About $40 billion matures within a year and $143 billion in three to five years. IDFC First expects the rupee at 92-94 per dollar by December 2026, weakening to 94-95 by March 2027.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rbis-usd-239-bn-forward-dollar-position-to-limit-rupee-gains-despite-fpi-inflows-report/articleshow/135678171.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "publisher_id": "economic-times",
-      "published_at": "2026-11-09T10:04:00Z",
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "rupee",
-        "rbi",
-        "india",
-        "mcx"
-      ],
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/e7de63c2761b8be7.jpg",
-      "image_kind": "photo",
-      "breaking": false,
-      "rank": 11
+      "rank": 14
     },
     {
       "id": "3b0c73c49b49c143",
@@ -393,35 +456,7 @@
       "image_url": null,
       "image_kind": "none",
       "breaking": false,
-      "rank": 12
-    },
-    {
-      "id": "32d20a7f6a27c330",
-      "title": "Festival boost: Indian gold jewellery sales top $6.6 billion in 2 days",
-      "summary": "Gold jewellery sales rose 15-20% to Rs 62,000 crore ($6.6 billion) during Lakshmi Pooja and Dhanteras, the All-India Gem and Jewellery Domestic Council estimated, as lower prices drew buyers including younger shoppers. Gold was about Rs 1.41 lakh per 10 g, down from Rs 1.81-1.85 lakh in January.",
-      "url": "https://www.thehindubusinessline.com/markets/gold/festival-boost-indian-gold-jewellery-sales-top-66-billion-in-2-days/article71682622.ece",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "publisher_id": "hindu-businessline",
-      "published_at": "2026-11-09T14:42:43Z",
-      "image_url": "https://bl-i.thgim.com/public/incoming/5f9b3u/article71680773.ece/alternates/LANDSCAPE_1200/2025-03-20T115948Z_756916634_RC2XGDARLB4K_RTRMADP_3_PRECIOUS-GOLD-JEWELLERY.JPG",
-      "image_kind": "photo",
-      "category": "festive",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "india",
-        "jewellery"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://ianslive.in/gold-sales-during-dhanteras-lakshmi-puja-may-cross-rs-62000-crore--20261108184841"
-      ],
-      "rank": 13
+      "rank": 15
     },
     {
       "id": "3f7615c11b4d0a7f",
@@ -447,7 +482,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 14
+      "rank": 16
     },
     {
       "id": "ae7355a54316221f",
@@ -473,7 +508,53 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 15
+      "rank": 17
+    },
+    {
+      "id": "04bb5443ef352095",
+      "title": "BlueStone shares jump 3% after jeweller reports 45% festive season sales surge",
+      "summary": "BlueStone Jewellery reported 45% year-on-year business growth for October 1 to November 8, covering Dhanteras and Diwali, driven by more buyer transactions rather than higher ticket sizes. Shares rose 3.27% to Rs 737.40 on the NSE after the update, with the company noting stronger traction at entry-level price points.",
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets/bluestone-shares-jump-3-after-jeweller-reports-45-festive-season-sales-surge/article71681712.ece",
+      "source": "The Hindu BusinessLine",
+      "source_domain": "thehindubusinessline.com",
+      "publisher_id": "hindu-businessline",
+      "published_at": "2026-11-09T07:02:00Z",
+      "image_url": "https://bl-i.thgim.com/public/incoming/izlj6d/article71681717.ece/alternates/LANDSCAPE_1200/PO09_Dominos_arrow.jpg",
+      "image_kind": "photo",
+      "category": "festive",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
+      ],
+      "breaking": false,
+      "rank": 18
+    },
+    {
+      "id": "920957de05ca9dbc",
+      "title": "₹1 lakh bought 33 grams of gold on Dhanteras 2016. This year it bought about 7grams",
+      "summary": "At about Rs 30,590 per 10 g on Dhanteras 2016, Rs 1 lakh bought roughly 33 g of 24-carat gold in Delhi; on Dhanteras 2026, at about Rs 1,41,613 per 10 g, the same sum bought about 7.1 g. Business Today calculates the 2016 holding would now be worth about Rs 4.63 lakh, roughly 4.6 times its value.",
+      "url": "https://www.businesstoday.in/latest/trends/photo/rs1-lakh-bought-33-grams-of-gold-on-dhanteras-2016-this-year-it-bought-about-7grams-566698-2026-11-10",
+      "source": "Business Today",
+      "source_domain": "businesstoday.in",
+      "publisher_id": "business-today",
+      "published_at": "2026-11-10T09:57:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/920957de05ca9dbc.jpg",
+      "image_kind": "photo",
+      "category": "festive",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
+      ],
+      "breaking": false,
+      "rank": 19
     },
     {
       "id": "d2350c82177dcd96",
@@ -496,7 +577,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 16
+      "rank": 20
     },
     {
       "id": "3d3cbd80863fe985",
@@ -521,7 +602,7 @@
         "india"
       ],
       "breaking": false,
-      "rank": 17
+      "rank": 21
     },
     {
       "id": "617735e9889c20b4",
@@ -546,7 +627,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 18
+      "rank": 22
     },
     {
       "id": "66289c9ddb6d9e09",
@@ -571,7 +652,7 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/66289c9ddb6d9e09.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 19
+      "rank": 23
     }
   ]
 }
