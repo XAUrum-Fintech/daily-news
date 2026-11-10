@@ -1,14 +1,14 @@
-# Gold & Silver for Indian buyers · 2026-11-09T22:00Z
+# Gold & Silver for Indian buyers · 2026-11-10T00:00Z
 
-> Gold tops $4,130 despite 84% December hike odds as oil rout and central-bank buying lift bullion
+> Gold closes near $4,140 and silver near $53.32 as oil rout and softer dollar lift bullion into Tuesday's US CPI
 
-MCX December gold touched Rs 1,44,400 per 10 g and silver Rs 1,88,979 per kg, while spot gold traded near $4,130 and silver near $52.759 as crude eased on Iran hopes. Gold rose even as December Fed hike odds hit about 84% after strong US jobs data; China's central bank added about 25.8 tonnes in October. Axis Mutual Fund puts the January 30-October 30 fall at 21.4% in dollars but only 14.9% in rupees, as the rupee slid from about Rs 89 to Rs 96 in 2026. MCX stays shut Tuesday morning for Diwali-Balipratipada; US October CPI is due Tuesday at 19:00 IST, PPI Friday, Fed minutes November 18.
+Spot gold closed near $4,140.40 an ounce, up 1.70%, and silver near $53.32, up 2.60%, as Brent crude fell 5.85% to $92.57 a barrel on hopes for US-Iran diplomacy and the dollar index eased to about 101.88. MCX December gold touched Rs 1,44,400 per 10 g and silver Rs 1,88,979 per kg on Monday. December Fed hike odds held near 82% after US payrolls rose 165,000 in October, well above the roughly 65,000 expected. US October CPI is due Tuesday at 19:00 IST, PPI on Friday, and Fed minutes on November 18.
 
-- MCX December gold hit Rs 1,44,400 per 10 g on Monday, up about Rs 1,400, as oil fell and the dollar eased.
-- Spot gold traded near $4,130 an ounce, up about 1.5%, and spot silver near $52.759, up 1.57%.
-- Poland's central bank reached its 700-tonne gold reserve goal, buying about 27 tonnes in October, and left the door open to more purchases.
-- China's central bank bought about 25.8 tonnes of gold in October, its largest monthly purchase in three years, the World Gold Council says.
-- MCX stays shut Tuesday morning for Diwali-Balipratipada; US October CPI is due Tuesday at 19:00 IST, PPI Friday, Fed minutes November 18.
+- Spot gold closed near $4,140.40 an ounce, up 1.70%, and spot silver near $53.32, up 2.60%, in late US trading.
+- Brent crude settled at $92.57 a barrel, down 5.85%, and WTI at $86.85, as hopes for US-Iran diplomacy eased supply fears.
+- The dollar index eased to about 101.88 while December Fed hike odds held near 82% after US payrolls rose 165,000 in October.
+- MCX December gold touched Rs 1,44,400 per 10 g and silver Rs 1,88,979 per kg on Monday.
+- US October CPI is due Tuesday at 19:00 IST, with headline prices expected up 0.3% on the month after September's 0.6% rise.
 
 ## Trending
 - **Gold's Monday rebound**: Softer oil and a weaker dollar lifted spot gold 1.33% to $4,124.74 on Monday, with silver up 1.57% to $52.759, extending last week's gains. (stories 1, 3, 4, 7, 8, 6, 9, 10, 2)
@@ -18,8 +18,8 @@ MCX December gold touched Rs 1,44,400 per 10 g and silver Rs 1,88,979 per kg, wh
 - **The rupee cushioned India's fall**: Indian gold fell only 14.9% in rupees from January 30 to October 30, against a 21.4% dollar fall, Axis Mutual Fund calculates, as the rupee slid from Rs 89 to Rs 96 and the import duty rose to 15%. (stories 5, 21, 16)
 
 ## Stories
-1. [Gold, silver rise as Iran diplomacy pressures crude, dollar weakens](https://www.kitco.com/news/article/2026-11-09/gold-silver-rise-iran-diplomacy-pressures-crude-dollar-weakens-kitco-am) — *Kitco*, 2026-11-09T13:35:03Z
-   Spot gold and silver rose in early US trading on Monday as a softer dollar, easing crude and hopes for a US-Iran diplomatic deal lifted bullion. Spot gold traded near $4,124.74 an ounce, up 1.33%, and silver near $52.759, up 1.57%, with Brent crude easing toward $94.76. Friday's strong US jobs report kept December Fed hike odds near 80%, with Tuesday's US CPI the week's key test.
+1. [Gold, silver advance as dollar weakens, Fed rate expectations face inflation test](https://www.kitco.com/news/article/2026-11-09/gold-silver-advance-dollar-weakens-fed-rate-expectations-face-inflation) — *Kitco*, 2026-11-09T22:03:15Z
+   Spot gold closed near $4,140.40 an ounce, up 1.70%, and silver near $53.32, up 2.60%, as a weaker dollar and falling crude lifted bullion. Brent fell 5.85% to $92.57 a barrel on hopes for US-Iran diplomacy, easing inflation worries ahead of Tuesday's US October CPI. December Fed hike odds held near 82.2% after payrolls rose 165,000, well above the roughly 65,000 expected.
 2. [Gold defies Fed hike bets, tops $4,100 as Oil rout hits the USD](https://www.fxstreet.com/news/gold-defies-fed-hike-bets-tops-4-100-as-oil-rout-hits-the-usd-202611092026) — *FXStreet*, 2026-11-09T20:26:52Z
    Gold rose over 1.5% to above $4,130 on Monday as crude tumbled and the dollar weakened, even as strong US jobs data put December Fed hike odds at about 84%, FXStreet reports. WTI fell nearly 6% to $85 after Trump said further strikes on Iran were highly unlikely, and the dollar index eased to 101.81. China's central bank added about 25.8 tonnes in October, its largest monthly buy in three years.
 3. [Gold and silver prices extend post-election rebound, central banks on pace to beat 2025 purchases – Heraeus](https://www.kitco.com/news/article/2026-11-09/gold-and-silver-prices-extend-post-election-rebound-central-banks-pace-beat) — *Kitco*, 2026-11-09T15:02:11Z
@@ -66,3 +66,4 @@ MCX December gold touched Rs 1,44,400 per 10 g and silver Rs 1,88,979 per kg, wh
    The World Gold Council says gold may be nearing an interim bottom, with two of three historical recovery signals in place: gold about 10% below its 200-day average and a strong dollar. Speculative positioning remains elevated, so the third signal is missing. Gold closed October at $3,913, down 6.3% in the month.
 24. [Dhanteras sales boom or price illusion? Why Indians spent more on gold and appliances without buying much more](https://www.moneycontrol.com/news/business/dhanteras-sales-boom-or-price-illusion-why-indians-spent-more-on-gold-and-appliances-without-buying-much-more-14074800.html) — *Moneycontrol*, 2026-11-08T05:26:17Z
    Dhanteras gold sales reached about Rs 60,000 crore, up 15–20% on last year, but the quantity sold was largely flat, jewellers' body GJC told PTI, with buyers choosing lighter jewellery, 18-carat designs and smaller coins. The World Gold Council's November 3 report showed India's September-quarter jewellery consumption down 20% year on year to 99.9 tonnes even as its value rose 16%.
+
