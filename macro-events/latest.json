@@ -1,6 +1,6 @@
 {
   "schema": "macro-events.v1",
-  "generated_at": "2026-11-10T15:22:28Z",
+  "generated_at": "2026-11-10T16:05:45Z",
   "event_count": 21,
   "events": [
     {
@@ -292,6 +292,39 @@
       "published_at": "2026-11-06T13:34:51Z"
     },
     {
+      "id": "us-cpi-2026-11-10",
+      "kind": "us_cpi",
+      "title": "US inflation (CPI)",
+      "status": "released",
+      "scheduled_at": "2026-11-10T08:30:00-05:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [
+        {
+          "actual": 0.4,
+          "forecast": null,
+          "key": "cpi_mom",
+          "label": "Inflation, month on month",
+          "previous": 0.6,
+          "previous_first_print": null,
+          "unit": "percent"
+        },
+        {
+          "actual": 0.3,
+          "forecast": null,
+          "key": "core_cpi_mom",
+          "label": "Core inflation, month on month",
+          "previous": 0.3,
+          "previous_first_print": null,
+          "unit": "percent"
+        }
+      ],
+      "revisions": [],
+      "summary": "US October CPI rose 0.4 percent on the month and core rose 0.3 percent; BLS published no 12-month change.",
+      "forecast_source": null,
+      "source_url": "https://www.bls.gov/news.release/archives/cpi_11102026.htm",
+      "published_at": "2026-11-10T15:22:28Z"
+    },
+    {
       "id": "us-jobs-2026-12-04",
       "kind": "us_jobs",
       "title": "US jobs report",
@@ -346,39 +379,6 @@
       "forecast_source": null,
       "source_url": "https://www.bls.gov/schedule/2027/03_sched.htm",
       "published_at": null
-    },
-    {
-      "id": "us-cpi-2026-11-10",
-      "kind": "us_cpi",
-      "title": "US inflation (CPI)",
-      "status": "released",
-      "scheduled_at": "2026-11-10T08:30:00-05:00",
-      "scheduled_tz": "America/New_York",
-      "metrics": [
-        {
-          "actual": 0.4,
-          "forecast": null,
-          "key": "cpi_mom",
-          "label": "Inflation, month on month",
-          "previous": 0.6,
-          "previous_first_print": null,
-          "unit": "percent"
-        },
-        {
-          "actual": 0.3,
-          "forecast": null,
-          "key": "core_cpi_mom",
-          "label": "Core inflation, month on month",
-          "previous": 0.3,
-          "previous_first_print": null,
-          "unit": "percent"
-        }
-      ],
-      "revisions": [],
-      "summary": "US October CPI rose 0.4 percent on the month and core rose 0.3 percent; BLS published no 12-month change.",
-      "forecast_source": null,
-      "source_url": "https://www.bls.gov/news.release/archives/cpi_11102026.htm",
-      "published_at": "2026-11-10T15:22:28Z"
     },
     {
       "id": "us-cpi-2026-12-10",
