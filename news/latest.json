@@ -1,20 +1,20 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-10T20:00Z",
-  "generated_at": "2026-11-10T20:07:13Z",
+  "edition_id": "2026-11-10T22:00Z",
+  "generated_at": "2026-11-10T22:13:36Z",
   "window": {
-    "from": "2026-11-10T18:00:00Z",
-    "to": "2026-11-10T20:00:00Z"
+    "from": "2026-11-10T20:00:00Z",
+    "to": "2026-11-10T22:00:00Z"
   },
   "insights": {
     "headline": "Gold slides nearly 3% to $4,021 as hot CPI and hawkish Fed sink bullion",
-    "summary": "Spot gold fell nearly 3% to $4,021.36 an ounce, touching a low of $4,015, after US October CPI rose 0.4% on the month and core CPI 0.3%, both above forecasts, with no 12-month change published. Dallas Fed President Logan said at least two more quarter-point hikes are needed, possibly rapidly this winter, while Governor Waller put a half-point December move in play and the 10-year Treasury yield topped 5%. MCX gold slid to Rs 1,41,815 per 10 g in the evening session and silver fell over Rs 2,000 per kg, while China's central bank bought 26 tonnes of gold in October.",
+    "summary": "Spot gold fell nearly 3% to $4,021.36 an ounce after US October CPI rose 0.4% on the month and core CPI 0.3%, both above forecasts, with no 12-month change published. Dallas Fed President Logan said at least two more quarter-point hikes are needed, possibly rapidly, while Governor Waller put a half-point December move in play and the 10-year Treasury yield topped 5%. MCX gold slid to Rs 1,41,815 per 10 g and silver fell over Rs 2,000 per kg, while China bought 26 tonnes of gold in October. Q3 mine output hit a record 1,071 tonnes, yet total supply fell 1% as recycling slid 8%.",
     "points": [
       "Spot gold fell nearly 3% to $4,021.36 an ounce, touching a low of $4,015; silver fell more than 3% to $51.72.",
       "October CPI rose 0.4% on the month and core CPI 0.3%, both above forecasts; the BLS published no 12-month change.",
       "Dallas Fed's Logan called for at least two more quarter-point hikes, possibly rapidly; Waller raised a half-point December move.",
       "The 10-year Treasury yield topped 5% and the dollar strengthened as a December hike was fully priced.",
-      "MCX gold fell to Rs 1,41,815 per 10 g and silver to Rs 1,84,841 per kg; China's central bank bought 26 tonnes in October."
+      "MCX gold fell to Rs 1,41,815 per 10 g and silver to Rs 1,84,841 per kg; Q3 mine output hit a record 1,071 tonnes yet total supply fell 1%."
     ],
     "brief": null
   },
@@ -25,8 +25,7 @@
       "item_ids": [
         "0669fb08fa3f0880",
         "a31c60a502584e04",
-        "ce87ded0dfeaec4e",
-        "cf045a79f494b1f1"
+        "ce87ded0dfeaec4e"
       ]
     },
     {
@@ -39,11 +38,12 @@
       ]
     },
     {
-      "title": "Central banks keep buying gold",
-      "summary": "China bought 26 tonnes in October, taking reserves to 2,435 tonnes, and Uzbekistan added 7 tonnes; Singapore will vault gold for foreign central banks.",
+      "title": "Central banks keep buying gold; repatriation is not de-dollarisation",
+      "summary": "China bought 26 tonnes in October and Uzbekistan added 7 tonnes; Singapore will vault gold for foreign central banks. A Fed paper says European gold repatriations did not cut dollar allocations.",
       "item_ids": [
         "204dbd1b027ab916",
-        "9d64e804988675ab"
+        "9d64e804988675ab",
+        "670399e697449069"
       ]
     },
     {
@@ -88,7 +88,7 @@
         "fed",
         "global"
       ],
-      "breaking": false,
+      "breaking": true,
       "related_urls": [
         "https://www.fxstreet.com/news/gold-crashes-toward-4-000-as-hot-us-inflation-sends-treasury-yields-above-5-202611101815"
       ],
@@ -143,32 +143,6 @@
       "rank": 3
     },
     {
-      "id": "cf045a79f494b1f1",
-      "title": "Gold prices down 2% on the day as US CPI rises more than expected",
-      "summary": "Spot gold fell about 2% to $4,054.90 an ounce after US October CPI came in hotter than expected: headline CPI rose 0.4% on the month against a 0.3% forecast and core CPI rose 0.3% against 0.2% expected, with no 12-month change published. Waller had backed a possible half-point December hike if core CPI hit 0.3%; traders priced about a 95% chance of a December hike.",
-      "url": "https://www.kitco.com/news/article/2026-11-10/gold-prices-down-2-day-us-cpi-rises-more-expected",
-      "source": "Kitco",
-      "source_domain": "kitco.com",
-      "publisher_id": "kitco",
-      "published_at": "2026-11-10T13:30:00Z",
-      "image_url": "https://image-api.prod.kitco.com/image/5f83994b-2be3-4a04-9eb6-3fc3964e5517.jpeg?top=32.043269230769&left=0&width=650&height=365.91346153846&scale_width=1920&token=<redacted>",
-      "image_kind": "photo",
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "fed",
-        "global"
-      ],
-      "breaking": true,
-      "related_urls": [
-        "https://www.aa.com.tr/en/economy/gold-plunges-over-2-as-us-inflation-exceeds-expectations/4119007"
-      ],
-      "rank": 4
-    },
-    {
       "id": "bd4fe7a3b399bc8d",
       "title": "Bullion Market Slides In Evening: Gold Drops Below Rs 1,42,000 And Silver Plunges Over Rs 2,000 On MCX",
       "summary": "MCX gold fell to an evening low of Rs 1,41,815 per 10 g, down Rs 1,351 from the previous close of Rs 1,43,166, and was near Rs 1,42,027 in late evening trade. MCX silver dropped to a low of Rs 1,84,841 per kg, down Rs 2,286, and was near Rs 1,85,104. Retail 24-karat gold was Rs 1,42,470 per 10 g and silver Rs 1,85,820 per kg.",
@@ -191,7 +165,7 @@
         "india"
       ],
       "breaking": false,
-      "rank": 5
+      "rank": 4
     },
     {
       "id": "3b16a5016d6da088",
@@ -214,7 +188,55 @@
         "global"
       ],
       "breaking": false,
+      "rank": 5
+    },
+    {
+      "id": "670399e697449069",
+      "title": "Gold reserve repatriations don’t mean central banks are de-dollarizing – Fed’s Weiss",
+      "summary": "A Federal Reserve research note says France, Germany and the Netherlands bringing gold reserves home has barely changed their dollar holdings. France repatriated all its US-held gold in 2025 and early 2026 yet kept a steady 60% dollar share of reserves, and Germany kept its share near 90%. Author Colin Weiss argues custody choices reflect sanctions risk, not de-dollarisation.",
+      "url": "https://www.kitco.com/news/article/2026-11-10/gold-reserve-repatriations-dont-mean-central-banks-are-de-dollarizing-feds",
+      "source": "Kitco",
+      "source_domain": "kitco.com",
+      "publisher_id": "kitco",
+      "published_at": "2026-11-10T16:05:46Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/670399e697449069.jpg",
+      "image_kind": "photo",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "global",
+        "central-banks"
+      ],
+      "breaking": false,
       "rank": 6
+    },
+    {
+      "id": "3d699b73a8325818",
+      "title": "Gold supply falls in Q3 despite record mine production; What happened?",
+      "summary": "Global gold mine output hit a record 1,071 tonnes in the third quarter, up 3% on a year earlier, yet total supply fell 1% to 1,369 tonnes because recycling dropped 8% to 314 tonnes — its lowest since late 2023 — and producers cut hedging by 17 tonnes. Recycling in India stayed depressed, down 12% on the year, and the World Gold Council expects supply to contract slightly in 2026.",
+      "url": "https://www.fxstreet.com/analysis/gold-supply-falls-in-q3-despite-record-mine-production-what-happened-202611101707",
+      "source": "FXStreet",
+      "source_domain": "fxstreet.com",
+      "publisher_id": "fxstreet",
+      "published_at": "2026-11-10T17:07:42Z",
+      "image_url": "https://editorial.fxsstatic.com/images/i/gold-march-03.jpg",
+      "image_kind": "photo",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "global"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q3-2026/supply"
+      ],
+      "rank": 7
     },
     {
       "id": "f11b4701e93408ee",
@@ -240,7 +262,7 @@
         "global"
       ],
       "breaking": false,
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "75d48d9bf97bd634",
@@ -265,32 +287,6 @@
         "global"
       ],
       "breaking": false,
-      "rank": 8
-    },
-    {
-      "id": "5c885ab10bbb52d5",
-      "title": "Waller says half-point rate hike may be needed if CPI comes in hot",
-      "summary": "Fed Governor Christopher Waller said he would back at least a quarter-point rate rise in December even if October CPI cools, and would consider a half-point move if core CPI rises 0.3% or more. Markets price about an 85% chance of a December hike to 4.00-4.25% at the December 8-9 meeting.",
-      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-rally-nvidia-scandal-shares-inflation-data-cpi/card/waller-says-half-point-rate-hike-may-be-needed-if-cpi-comes-in-hot-5c1aboTvtTNWDjuDh2Oj",
-      "source": "MarketWatch",
-      "source_domain": "marketwatch.com",
-      "publisher_id": "marketwatch",
-      "published_at": "2026-11-10T09:00:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "fed",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://www.reuters.com/business/feds-waller-plans-support-least-quarter-point-rate-hike-december-2026-11-10/"
-      ],
       "rank": 9
     },
     {
