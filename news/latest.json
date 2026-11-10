@@ -1,20 +1,20 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-10T02:00Z",
-  "generated_at": "2026-11-10T02:15:46Z",
+  "edition_id": "2026-11-10T03:00Z",
+  "generated_at": "2026-11-10T03:08:42Z",
   "window": {
-    "from": "2026-11-10T00:00:00Z",
-    "to": "2026-11-10T02:00:00Z"
+    "from": "2026-11-10T02:00:00Z",
+    "to": "2026-11-10T03:00:00Z"
   },
   "insights": {
-    "headline": "Gold steadies near $4,130 ahead of US October CPI as oil slide cools rate-hike bets",
-    "summary": "Spot gold held near $4,128 an ounce in early Asian trade after rising more than 1% on Monday, as a slump in oil eased inflation worries ahead of the US October CPI due at 13:30 GMT. MCX gold closed Monday up Rs 1,400 at Rs 1,43,933 per 10 g and silver up Rs 4,000 at Rs 1,88,979 per kg, with MCX shut on Tuesday morning for Diwali-Balipratipada. Traders see an 84% chance of a December Fed hike, while central banks bought a net 321 tonnes of gold in the third quarter.",
+    "headline": "Gold holds near $4,130 into US CPI day as rotation talk lifts bullion",
+    "summary": "Spot gold held near $4,128 an ounce in early Asian trade after rising more than 1% on Monday, as a slump in oil eased inflation worries ahead of the US October CPI due at 13:30 GMT. MCX gold closed Monday up Rs 1,400 at Rs 1,43,933 per 10 g and silver up Rs 4,000 at Rs 1,88,979 per kg, with MCX shut on Tuesday morning for Diwali-Balipratipada. Traders see an 84% chance of a December Fed hike; gold and silver added about $1 trillion in market value in under a day after the US midterms, the Gold & Silver Club says.",
     "points": [
       "Spot gold $4,128.48, down 0.3% in early Asia; December futures $4,137.60, up 0.6%.",
       "MCX December gold rose Rs 1,400 to Rs 1,43,933 per 10 g; silver rose Rs 4,000 to Rs 1,88,979 per kg.",
       "US October CPI is due at 13:30 GMT today; traders see an 84% chance of a December Fed hike.",
-      "Central banks bought a net 321 tonnes of gold in the third quarter, 42% more than a year earlier.",
-      "Brent fell more than $7 after Trump said he would hold off new strikes on Iran."
+      "Gold and silver added about $1 trillion in market value in under 24 hours after the US midterms, per Gold & Silver Club research.",
+      "Central banks bought a net 321 tonnes of gold in the third quarter, 42% more than a year earlier."
     ],
     "brief": {
       "schema": "orob-brief.v1",
@@ -83,11 +83,11 @@
       ]
     },
     {
-      "title": "Silver tests its turning point",
-      "summary": "Silver rose to $53.55 after finding support near $48.62, with analysts watching the 20-day average near $54.18 for confirmation of a reversal.",
+      "title": "Rotation talk: gold, silver add $1 trillion",
+      "summary": "Gold and silver added about $1 trillion in market value in under 24 hours after the US midterms, as analysts ask whether money is rotating out of AI stocks into hard assets.",
       "item_ids": [
-        "74f61a2953a5ac00",
-        "ba802521942f3c77"
+        "f677c88a01098cee",
+        "74f61a2953a5ac00"
       ]
     }
   ],
@@ -224,35 +224,6 @@
       "rank": 5
     },
     {
-      "id": "1643cf0ea297d35e",
-      "rank": 6,
-      "title": "Gold gains more than 1% as softer oil prices ease inflation worries",
-      "summary": "Spot gold climbed 1.6% to $4,129.69 an ounce on Monday and December futures rose 1.6% to $4,139, as softer oil prices eased inflation worries. Oil fell after Trump said further attacks on Iran were highly unlikely while talks continue, and the dollar softened. Traders see a 79% chance of a December Fed hike; US CPI is due Tuesday and PPI on Friday. Silver rose 2.8% to $53.31.",
-      "url": "https://www.reuters.com/world/india/gold-gains-more-than-1-softer-oil-prices-ease-inflation-worries-2026-11-09/",
-      "source": "Reuters",
-      "source_domain": "reuters.com",
-      "publisher_id": "reuters",
-      "published_at": "2026-11-09T02:20:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "silver",
-        "global",
-        "fed"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-up-as-softer-crude-tempers-inflation-concerns/articleshow/135667365.cms",
-        "https://www.thehindubusinessline.com/markets/commodities/gold-rises-over-1-as-softer-oil-prices-ease-inflation-worries/article71681460.ece"
-      ]
-    },
-    {
       "id": "7183461173bd7cfc",
       "title": "Gold and silver prices extend post-election rebound, central banks on pace to beat 2025 purchases – Heraeus",
       "summary": "Gold and silver extended last week's post-election rebound, Heraeus analysts said, with spot gold near $4,124.86 an ounce and silver near $52.682. Central banks added 321 tonnes in Q3, 42% more than a year earlier, taking nine-month buying to 675 tonnes, 6% ahead of 2025, per the World Gold Council. Friday's strong US jobs data has markets pricing about a 79% chance of a December Fed hike.",
@@ -274,6 +245,30 @@
         "gold",
         "silver"
       ],
+      "breaking": false,
+      "rank": 6
+    },
+    {
+      "id": "f677c88a01098cee",
+      "title": "From AI Stocks To Gold – Has the Great Rotation Begun?",
+      "summary": "Gold and silver added an estimated combined $1 trillion in market value in under 24 hours after the US midterms, Gold & Silver Club research says, as gold rebounded about 7% from its 30 October low near $3,870 toward $4,150 on 5 November while tech stocks fell. The firm sees a possible turn toward hard assets, citing Chinese bar and coin demand up 7% in Q3 and central banks buying 321 tonnes.",
+      "url": "https://www.fxempire.com/forecasts/article/from-ai-stocks-to-gold-has-the-great-rotation-begun-1643433",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "published_at": "2026-11-09T21:03:06Z",
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "global"
+      ],
+      "image_url": null,
+      "image_kind": "none",
       "breaking": false,
       "rank": 7
     },
@@ -330,31 +325,6 @@
       "rank": 9
     },
     {
-      "id": "ba802521942f3c77",
-      "title": "Gold Reclaims Long-Term Support. Silver Challenges Its Triangle. What’s Next?",
-      "summary": "Gold reclaimed its long-term rising support line and held above the $4,038 consolidation boundary, with COMEX gold futures reaching $4,143.17 on Monday; silver pushed to $53.45 on COMEX as it challenged its triangle’s upper boundary. A daily close above $4,113 for gold and $52.38 for silver would confirm the breakouts, the analysis says.",
-      "url": "https://www.fxempire.com/forecasts/article/gold-reclaims-long-term-support-silver-challenges-its-triangle-whats-next-1643378",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "publisher_id": "fxempire",
-      "published_at": "2026-11-09T17:35:55Z",
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "comex",
-        "global"
-      ],
-      "image_url": null,
-      "image_kind": "none",
-      "breaking": false,
-      "rank": 10
-    },
-    {
       "id": "181fefb0240ac410",
       "title": "Bank of Poland hits Gold reserve goal, hints at plans to buy more",
       "summary": "Poland’s central bank has reached its 700-tonne gold reserve goal, set in January, after buying about 27 tonnes in October, Governor Adam Glapiński said last week, leaving the door open to further purchases. Poland bought more gold than any other central bank in 2025 and leads again in 2026, adding 123 tonnes this year; the holdings are valued at 356 billion zlotys ($91.4 billion).",
@@ -375,7 +345,7 @@
       "image_url": "https://editorial.fxsstatic.com/images/i/gold-02.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 11
+      "rank": 10
     },
     {
       "id": "fb498c6ffdf4a6f2",
@@ -398,7 +368,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 11
     },
     {
       "id": "f67626b4f941d87c",
@@ -424,7 +394,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 13
+      "rank": 12
     },
     {
       "id": "66289c9ddb6d9e09",
@@ -449,7 +419,7 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/66289c9ddb6d9e09.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 14
+      "rank": 13
     },
     {
       "id": "617735e9889c20b4",
@@ -474,7 +444,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 15
+      "rank": 14
     },
     {
       "id": "7fa52ed71e3569f0",
@@ -501,7 +471,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 16
+      "rank": 15
     },
     {
       "id": "cef44a122b97c7cf",
@@ -526,7 +496,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 17,
+      "rank": 16,
       "related_urls": [
         "https://www.thehindubusinessline.com/markets/gold/festival-boost-indian-gold-jewellery-sales-top-66-billion-in-2-days/article71682622.ece"
       ]
@@ -553,32 +523,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 18
-    },
-    {
-      "id": "1fe201241eb50e96",
-      "rank": 19,
-      "title": "Global Gold Prices Down 24% From Record. In India, It's Down 20%. Here's What Makes Up The Difference",
-      "summary": "Spot gold closed at $4,068.71 an ounce, about 24% below its Jan 29 record of $5,379, while Delhi gold fell only about 20% from its record. NDTV Profit puts the gap down to the duty rising from 6% to 15% in May and a rupee about 2% weaker since January, plus a January premium that has since vanished. The World Gold Council expects India's demand near 650 tonnes this year, the lowest since 2020.",
-      "url": "https://www.ndtvprofit.com/markets/global-gold-prices-down-24-from-record-in-india-its-down-20-heres-what-makes-up-the-difference-12299005",
-      "source": "NDTV Profit",
-      "source_domain": "ndtvprofit.com",
-      "publisher_id": "ndtv-profit",
-      "published_at": "2026-11-08T03:17:09Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "india",
-        "mcx",
-        "rupee",
-        "import-duty"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false
+      "rank": 17
     },
     {
       "id": "dafe847ddcde9c70",
@@ -601,7 +546,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 20
+      "rank": 18
     },
     {
       "id": "8a8764c86058d792",
@@ -626,7 +571,7 @@
       "breaking": false,
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/8a8764c86058d792.jpg",
       "image_kind": "photo",
-      "rank": 21
+      "rank": 19
     },
     {
       "id": "d6c8c3d52bd41f9e",
@@ -649,7 +594,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 22
+      "rank": 20
     }
   ]
 }
