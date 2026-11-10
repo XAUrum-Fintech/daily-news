@@ -1,20 +1,20 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-10T16:00Z",
-  "generated_at": "2026-11-10T16:14:28Z",
+  "edition_id": "2026-11-10T18:00Z",
+  "generated_at": "2026-11-10T19:04:14Z",
   "window": {
-    "from": "2026-11-10T14:00:00Z",
-    "to": "2026-11-10T16:00:00Z"
+    "from": "2026-11-10T16:00:00Z",
+    "to": "2026-11-10T18:00:00Z"
   },
   "insights": {
-    "headline": "Gold steadies near $4,055 after hot CPI as traders price a possible 50 bp December hike",
-    "summary": "Spot gold steadied near $4,054.90 an ounce after falling about 2% on US October CPI of 0.4% on the month and core CPI of 0.3%, both above forecasts, with no 12-month change published. Traders lifted the odds of a 50-basis-point December hike to nearly 15% after Fed Governor Waller's warning, and MCX gold slipped below Rs 1,42,000 per 10 g with silver near $52. Brent crude fell below $90 as Trump signalled a pause in military action against Iran, while festive demand stayed strong, with BlueStone reporting 45% business growth over Dhanteras-Diwali.",
+    "headline": "Gold extends CPI slide as December hike bets firm",
+    "summary": "Spot gold slid to a low of $4,033 an ounce after US October CPI rose 0.4% on the month and core CPI 0.3%, both above forecasts, with no 12-month change published. Traders priced a December hike as near-certain, with about 15% odds of a half-point move after Fed Governor Waller's warning, while MCX gold slipped below Rs 1,42,000 per 10 g. China's central bank bought 26 tonnes in October and Indian gold smuggling hit about 50 tonnes in July-September after the duty rise to 15%.",
     "points": [
-      "US October CPI rose 0.4% on the month and core CPI 0.3%, both above forecasts; the BLS published no 12-month change.",
-      "Spot gold fell about 2% to $4,054.90 an ounce; silver held near $52, with futures around $51.90.",
-      "Traders lifted the odds of a 50 bp December hike to nearly 15% after Waller's warning; MCX gold slipped below Rs 1,42,000 per 10 g.",
-      "Brent crude fell below $90 as Trump signalled a pause in military action against Iran, easing inflation pressure.",
-      "Festive demand stayed strong: BlueStone reported 45% business growth over Dhanteras-Diwali, driven by more buyers."
+      "Spot gold fell about 2% after hot US October CPI, touching a low of $4,033 an ounce; silver slipped back below $52.",
+      "October CPI rose 0.4% on the month and core CPI 0.3%, both above forecasts; the BLS published no 12-month change.",
+      "Traders put December hike odds near 85% for a quarter point and about 15% for a half point after Waller's warning.",
+      "MCX gold fell below Rs 1,42,000 per 10 g and Delhi gold eased Rs 500; Delhi silver held steady at Rs 1,92,500 per kg.",
+      "China's central bank bought 26 tonnes of gold in October, taking reserves to 2,435 tonnes; Indian smuggling hit 50 tonnes in Q3."
     ],
     "brief": {
       "schema": "orob-brief.v1",
@@ -51,29 +51,38 @@
   },
   "trending": [
     {
-      "title": "Hot CPI sinks gold 2% as 50 bp hike odds jump",
-      "summary": "October CPI beat forecasts at 0.4% headline and 0.3% core, sending spot gold to $4,054.90; traders now price a nearly 15% chance of a 50 bp December hike after Waller's warning.",
+      "title": "Hot CPI sinks gold as 50 bp hike odds jump",
+      "summary": "October CPI beat forecasts at 0.4% headline and 0.3% core, sending spot gold to a $4,033 low; traders price about 15% odds of a 50 bp December hike after Waller's warning.",
       "item_ids": [
         "cf045a79f494b1f1",
         "ce87ded0dfeaec4e",
-        "5c885ab10bbb52d5"
+        "3b16a5016d6da088",
+        "75d48d9bf97bd634"
       ]
     },
     {
-      "title": "MCX slides below Rs 1,42,000 as silver nears $52",
-      "summary": "MCX gold fell to Rs 1,41,815 per 10 g in the evening session and silver to about Rs 1,85,729 per kg, tracking the global slide, while Delhi gold had earlier eased Rs 500.",
+      "title": "MCX slides below Rs 1,42,000 as Delhi gold eases Rs 500",
+      "summary": "MCX gold fell to Rs 1,41,815 per 10 g in the evening session and silver to about Rs 1,84,841 per kg, while Delhi gold eased Rs 500 to Rs 1,46,400 and silver held steady at Rs 1,92,500 per kg.",
       "item_ids": [
         "bd4fe7a3b399bc8d",
-        "f11b4701e93408ee",
-        "ec919d704c2884a6"
+        "ec919d704c2884a6",
+        "f11b4701e93408ee"
       ]
     },
     {
-      "title": "Oil below $90 as Iran tensions ease",
-      "summary": "Brent slipped below $90 for the first time since August as Trump signalled a pause in military action against Iran, easing the inflation pressure that had been pushing hike bets higher.",
+      "title": "Central banks keep buying gold",
+      "summary": "China bought 26 tonnes in October, taking reserves to 2,435 tonnes, and Uzbekistan added 7 tonnes; Singapore will vault gold for foreign central banks.",
       "item_ids": [
-        "8044c0c29f6b4575",
-        "f11b4701e93408ee"
+        "204dbd1b027ab916",
+        "9d64e804988675ab"
+      ]
+    },
+    {
+      "title": "Duty hike feeds smuggling, squeezes organised trade",
+      "summary": "Smuggling hit about 50 tonnes in July-September, about 37% of India's supply, after the duty rise to 15%, while official imports fell 70% to 64 tonnes.",
+      "item_ids": [
+        "154a010a05a3f0b1",
+        "3b0c73c49b49c143"
       ]
     },
     {
@@ -165,6 +174,29 @@
       "rank": 3
     },
     {
+      "id": "3b16a5016d6da088",
+      "title": "Gold slumps after firm U.S. inflation data, hawkish comments from Fed's Waller",
+      "summary": "Spot gold fell 2.2% to $4,051.36 an ounce and December futures eased 1.3% to $4,060.57 as the dollar index rose 0.3% to 101.98, leaving gold on course for its biggest one-day fall since late January. Fed Governor Waller said a strong case could be made for a 50-basis-point hike at the December meeting, and traders priced in at least a quarter-point rise.",
+      "url": "https://in.investing.com/news/commodities-news/gold-holds-near-4130-as-oil-retreat-eases-inflation-concerns-5692557",
+      "source": "Investing.com",
+      "source_domain": "investing.com",
+      "publisher_id": "investing",
+      "published_at": "2026-11-10T16:24:04Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "fed",
+        "global"
+      ],
+      "breaking": false,
+      "rank": 4
+    },
+    {
       "id": "f11b4701e93408ee",
       "title": "Gold slips below $4,100, silver at $52 as Brent crude falls below $90; Fed rate hike bets rise",
       "summary": "International gold fell 1.61% to near $4,074 an ounce and silver 1.91% to just above $52 as December Fed hike bets hardened after the hot CPI print. MCX gold futures for December 4 fell 0.78% to Rs 1,42,054 per 10 g and silver 0.75% to Rs 1,85,729 per kg, while Brent crude slipped 3.1% to $89.62, below $90 for the first time since August.",
@@ -188,7 +220,32 @@
         "global"
       ],
       "breaking": false,
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "id": "75d48d9bf97bd634",
+      "title": "Gold, Silver Fall as Rate-Hike Betting Jumps on Strong Inflation Data",
+      "summary": "Gold fell to a low of $4,033 an ounce in volatile London trade and silver slipped back below $52 as betting on a December Fed hike jumped after strong US inflation data. Markets put about 85% odds on a quarter-point December rise and about 15% on a half-point move, while platinum and palladium held firmer than gold or silver.",
+      "url": "https://www.bullionvault.co.uk/gold-news/gold-price-news/gold-silver-inflation-fed-hike-111020261",
+      "source": "BullionVault",
+      "source_domain": "bullionvault.co.uk",
+      "publisher_id": "bullionvault",
+      "published_at": "2026-11-10T15:06:59Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/75d48d9bf97bd634.jpg",
+      "image_kind": "photo",
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "fed",
+        "global"
+      ],
+      "breaking": false,
+      "rank": 6
     },
     {
       "id": "5c885ab10bbb52d5",
@@ -214,7 +271,7 @@
       "related_urls": [
         "https://www.reuters.com/business/feds-waller-plans-support-least-quarter-point-rate-hike-december-2026-11-10/"
       ],
-      "rank": 5
+      "rank": 7
     },
     {
       "id": "a4c2f849c46f7680",
@@ -237,7 +294,7 @@
         "global"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 8
     },
     {
       "id": "ec919d704c2884a6",
@@ -262,7 +319,10 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 7
+      "rank": 9,
+      "related_urls": [
+        "https://www.moneycontrol.com/news/business/personal-finance/gold-prices-fall-rs-500-per-10-gm-on-subdued-festive-demand-weak-global-cues-silver-remains-steady-14076452.html"
+      ]
     },
     {
       "id": "9d64e804988675ab",
@@ -285,7 +345,30 @@
         "global"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 10
+    },
+    {
+      "id": "154a010a05a3f0b1",
+      "title": "Customs duty hike takes the shine off organised gold trade; smuggling rises",
+      "summary": "Gold smuggling rose to about 50 tonnes in July-September, more than 16 times the roughly 3 tonnes a year earlier and about 37% of India's 136-tonne total supply, after the import duty rise from 6% to 15%, World Gold Council demand data show. Official bullion imports fell 70% to 64 tonnes, and evading the duty on 1 kg of gold saved about Rs 18.3 lakh, or about Rs 22.5 lakh with GST avoided.",
+      "url": "https://www.business-standard.com/economy/news/customs-duty-hike-takes-the-shine-off-organised-gold-trade-smuggling-rises-126111000631_1.html",
+      "source": "Business Standard",
+      "source_domain": "business-standard.com",
+      "publisher_id": "business-standard",
+      "published_at": "2026-11-10T16:47:36Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/154a010a05a3f0b1.jpg",
+      "image_kind": "photo",
+      "category": "policy",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "india",
+        "import-duty"
+      ],
+      "breaking": false,
+      "rank": 11
     },
     {
       "id": "69ef0d1e604de98d",
@@ -311,36 +394,33 @@
       "image_url": "https://bl-i.thgim.com/public/todays-paper/tp-others/4u96qd/article71679564.ece/alternates/LANDSCAPE_1200/Bullion-Cues_-SGJQGP6GOI.4.jpg.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 9
+      "rank": 12
     },
     {
-      "id": "ba1c7ff7fe720e66",
-      "rank": 10,
-      "title": "Gold, silver advance as dollar weakens, Fed rate expectations face inflation test",
-      "summary": "Spot gold closed near $4,140.40 an ounce, up 1.70%, and silver near $53.32, up 2.60%, as a weaker dollar and falling crude lifted bullion. Brent fell 5.85% to $92.57 a barrel on hopes for US-Iran diplomacy, easing inflation worries ahead of Tuesday's US October CPI. December Fed hike odds held near 82.2% after payrolls rose 165,000, well above the roughly 65,000 expected.",
-      "url": "https://www.kitco.com/news/article/2026-11-09/gold-silver-advance-dollar-weakens-fed-rate-expectations-face-inflation",
+      "id": "204dbd1b027ab916",
+      "title": "China buys gold for two straight years as central bank demand remains a key pillar of support",
+      "summary": "China bought 26 tonnes of gold in October, taking its reserves to 2,435 tonnes, just 2 tonnes behind France, and Uzbekistan added 7 tonnes, World Gold Council data show. Central banks bought 321 tonnes in the third quarter, up 42% on the year and well above the five-year quarterly average of 227 tonnes, and the Council expects official buying to stay active.",
+      "url": "https://www.kitco.com/news/article/2026-11-10/china-buys-gold-two-straight-years-central-bank-demand-remains-key-pillar",
       "source": "Kitco",
       "source_domain": "kitco.com",
       "publisher_id": "kitco",
-      "published_at": "2026-11-09T22:03:15Z",
+      "published_at": "2026-11-10T16:50:34Z",
+      "image_url": "https://image-api.prod.kitco.com/image/2949e47c-7d81-4384-bf8a-1eb6202968cf.jpeg?top=0.36515330188679&left=0&width=1000&height=562.26969339623&scale_width=1920&token=4289d2184c7ac6593dc13a5a5fb3d47c12cf35aa99c9a3dc5b84510b866d4c8e",
+      "image_kind": "photo",
       "category": "global",
       "metals": [
-        "gold",
-        "silver"
+        "gold"
       ],
       "tags": [
         "gold",
-        "silver",
-        "comex",
         "global",
-        "fed"
+        "central-banks"
       ],
-      "image_url": "https://image-api.prod.kitco.com/image/5768df25-c265-4c2d-a489-e51917a45667.jpeg?top=0&left=0.30227889951594&width=1023.395442201&height=576&scale_width=1920&token=6cf3a9d390a1d72c730ba300fe44fdf5e66aacd55f32eaf3f0877fbe04e5f4df",
-      "image_kind": "photo",
       "breaking": false,
       "related_urls": [
-        "https://www.kitco.com/news/article/2026-11-09/gold-silver-rise-iran-diplomacy-pressures-crude-dollar-weakens-kitco-am"
-      ]
+        "https://www.australianresourcesandinvestment.com.au/china-keeps-buying-gold-despite-price-volatility/"
+      ],
+      "rank": 13
     },
     {
       "id": "6a9decded0662d6a",
@@ -363,7 +443,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 14
     },
     {
       "id": "2e87b5d1d2636164",
@@ -387,7 +467,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 15
     },
     {
       "id": "8044c0c29f6b4575",
@@ -409,7 +489,7 @@
         "global"
       ],
       "breaking": false,
-      "rank": 13
+      "rank": 16
     },
     {
       "id": "776f7630a46830e3",
@@ -433,7 +513,7 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/776f7630a46830e3.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 14
+      "rank": 17
     },
     {
       "id": "3b0c73c49b49c143",
@@ -456,7 +536,7 @@
       "image_url": null,
       "image_kind": "none",
       "breaking": false,
-      "rank": 15
+      "rank": 18
     },
     {
       "id": "3f7615c11b4d0a7f",
@@ -482,7 +562,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 16
+      "rank": 19
     },
     {
       "id": "ae7355a54316221f",
@@ -508,7 +588,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 17
+      "rank": 20
     },
     {
       "id": "04bb5443ef352095",
@@ -531,7 +611,7 @@
         "jewellery"
       ],
       "breaking": false,
-      "rank": 18
+      "rank": 21
     },
     {
       "id": "920957de05ca9dbc",
@@ -554,30 +634,7 @@
         "jewellery"
       ],
       "breaking": false,
-      "rank": 19
-    },
-    {
-      "id": "d2350c82177dcd96",
-      "title": "China keeps buying gold despite price volatility",
-      "summary": "China's central bank added about 25.8 tonnes of gold to its reserves in October, its 24th straight monthly increase, taking holdings to 78.3 million ounces; the value of the reserves fell to $306.41 billion from $323.52 billion as bullion prices dropped.",
-      "url": "https://www.australianresourcesandinvestment.com.au/china-keeps-buying-gold-despite-price-volatility/",
-      "source": "Australian Resources & Investment",
-      "source_domain": "australianresourcesandinvestment.com.au",
-      "publisher_id": "australian-resources-investment",
-      "published_at": "2026-11-09T23:44:38Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/d2350c82177dcd96.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "central-banks",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 20
+      "rank": 22
     },
     {
       "id": "3d3cbd80863fe985",
@@ -602,7 +659,7 @@
         "india"
       ],
       "breaking": false,
-      "rank": 21
+      "rank": 23
     },
     {
       "id": "617735e9889c20b4",
@@ -627,7 +684,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 22
+      "rank": 24
     },
     {
       "id": "66289c9ddb6d9e09",
@@ -652,7 +709,7 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/66289c9ddb6d9e09.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 23
+      "rank": 25
     }
   ]
 }
