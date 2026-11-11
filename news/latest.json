@@ -1,10 +1,10 @@
 {
  "schema": "orob-news.v1",
- "edition_id": "2026-11-11T10:00Z",
- "generated_at": "2026-11-11T10:24:06Z",
+ "edition_id": "2026-11-11T11:00Z",
+ "generated_at": "2026-11-11T11:02:07Z",
  "window": {
-  "from": "2026-11-11T09:00:00Z",
-  "to": "2026-11-11T10:00:00Z"
+  "from": "2026-11-11T10:00:00Z",
+  "to": "2026-11-11T11:00:00Z"
  },
  "insights": {
   "headline": "Gold steadies above $4,050 as MCX climbs; December Fed hike bets cap the rebound",
@@ -71,11 +71,12 @@
   },
   {
    "title": "Central banks keep buying — and bringing gold home",
-   "summary": "China bought 26 tonnes in October and central banks took 321 tonnes in Q3, while European banks moved gold out of US vaults; a Fed note says it reflects sanctions risk, not de-dollarisation.",
+   "summary": "China bought 26 tonnes and central banks took 321 tonnes in Q3; Singapore opened its vault to foreign central banks, and a Fed note says repatriation reflects sanctions risk, not de-dollarisation.",
    "item_ids": [
     "204dbd1b027ab916",
     "670399e697449069",
-    "ecd5748785c4b169"
+    "ecd5748785c4b169",
+    "3cfb5f7c2ba20973"
    ]
   },
   {
@@ -83,8 +84,7 @@
    "summary": "India's gold demand fell 12% in January-September as record prices and the duty hike curbed buying, with full-year demand seen at a six-year low — though Dhanteras shoppers still came out.",
    "item_ids": [
     "0c7b73dca9b9d0c3",
-    "3f7615c11b4d0a7f",
-    "ae7355a54316221f"
+    "3f7615c11b4d0a7f"
    ]
   }
  ],
@@ -396,6 +396,29 @@
    "rank": 12
   },
   {
+   "id": "3cfb5f7c2ba20973",
+   "title": "MAS launches gold vaulting service for foreign central banks",
+   "summary": "Singapore's central bank launched a gold vaulting service for foreign central banks, international financial institutions and sovereign entities, storing gold in its national currency vault with capacity for up to 500 tonnes. MAS also plans wider GST waivers for wholesale gold services from April 2027, and SGX's gold clearing system is set for live trading in early 2027.",
+   "url": "https://sbr.com.sg/news/mas-launches-gold-vaulting-service-foreign-central-banks",
+   "source": "Singapore Business Review",
+   "source_domain": "sbr.com.sg",
+   "publisher_id": "singapore-business-review",
+   "published_at": "2026-11-10T04:12:59Z",
+   "image_url": "https://www.cmgassets.com/s3fs-public/styles/opengraph/public/2026-11/closeup-shot-pile-shiny-gold-coins-bars-2-1.jpg?VersionId=N_WeDu.aogSzzOrxsLpRCDaSc6Xc3pNI&h=b69037aa&itok=t-FIyy-3",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "global",
+    "central-banks"
+   ],
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "rank": 13
+  },
+  {
    "id": "ecd5748785c4b169",
    "title": "Why European Central Banks Want Their Gold Back",
    "summary": "European central banks are stepping up gold repatriation from US vaults as geopolitical tensions strain trust: the Dutch central bank moved about 86 tonnes to London in early September, and the Banque de France now holds all 2,437 tonnes of its gold in Paris. Central banks have bought about 1,000 tonnes a year since 2022.",
@@ -416,7 +439,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 13
+   "rank": 14
   },
   {
    "id": "670399e697449069",
@@ -439,7 +462,7 @@
     "central-banks"
    ],
    "breaking": false,
-   "rank": 14
+   "rank": 15
   },
   {
    "id": "3d699b73a8325818",
@@ -464,7 +487,7 @@
    "related_urls": [
     "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q3-2026/supply"
    ],
-   "rank": 15
+   "rank": 16
   },
   {
    "id": "f11b4701e93408ee",
@@ -490,7 +513,7 @@
     "global"
    ],
    "breaking": false,
-   "rank": 16
+   "rank": 17
   },
   {
    "id": "a4c2f849c46f7680",
@@ -513,7 +536,7 @@
     "global"
    ],
    "breaking": false,
-   "rank": 17
+   "rank": 18
   },
   {
    "id": "ec919d704c2884a6",
@@ -538,7 +561,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 18,
+   "rank": 19,
    "related_urls": [
     "https://www.moneycontrol.com/news/business/personal-finance/gold-prices-fall-rs-500-per-10-gm-on-subdued-festive-demand-weak-global-cues-silver-remains-steady-14076452.html"
    ]
@@ -564,7 +587,7 @@
     "import-duty"
    ],
    "breaking": false,
-   "rank": 19
+   "rank": 20
   },
   {
    "id": "204dbd1b027ab916",
@@ -590,7 +613,7 @@
    "related_urls": [
     "https://www.australianresourcesandinvestment.com.au/china-keeps-buying-gold-despite-price-volatility/"
    ],
-   "rank": 20
+   "rank": 21
   },
   {
    "id": "2e87b5d1d2636164",
@@ -614,7 +637,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 21
+   "rank": 22
   },
   {
    "id": "3b0c73c49b49c143",
@@ -637,7 +660,7 @@
    "image_url": null,
    "image_kind": "none",
    "breaking": false,
-   "rank": 22
+   "rank": 23
   },
   {
    "id": "3f7615c11b4d0a7f",
@@ -649,32 +672,6 @@
    "publisher_id": "times-of-india",
    "published_at": "2026-11-09T13:08:00Z",
    "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/3f7615c11b4d0a7f.jpg",
-   "image_kind": "photo",
-   "category": "festive",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "tags": [
-    "gold",
-    "silver",
-    "india",
-    "jewellery"
-   ],
-   "breaking": false,
-   "related_urls": [],
-   "rank": 23
-  },
-  {
-   "id": "ae7355a54316221f",
-   "title": "Dhanteras brings cheer to jewellery industry; GJC expects strong wedding demand",
-   "summary": "Jewellery outsold coins on Dhanteras, with sales almost the same as last year, All India Gem and Jewellery Domestic Council vice-chairman Avinash Gupta said, and gold-exchange deals rose to 60-65% of transactions as high prices pushed buyers to trade in old jewellery. Gupta expects fresh bridal buying to dominate a strong wedding season ahead, with 18-carat jewellery gaining wider acceptance.",
-   "url": "https://www.cnbctv18.com/market/jewellery-sales-outshine-coins-on-dhanteras-gjc-sees-strong-wedding-season-ahead-gold-silver-prices-20030348.htm",
-   "source": "CNBC-TV18",
-   "source_domain": "cnbctv18.com",
-   "publisher_id": "cnbc-tv18",
-   "published_at": "2026-11-09T10:35:00Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/ae7355a54316221f.jpg",
    "image_kind": "photo",
    "category": "festive",
    "metals": [
