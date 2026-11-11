@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-11T04:00Z",
-  "generated_at": "2026-11-11T04:25:25Z",
+  "edition_id": "2026-11-11T05:00Z",
+  "generated_at": "2026-11-11T05:04:12Z",
   "window": {
-    "from": "2026-11-11T03:00:00Z",
-    "to": "2026-11-11T04:00:00Z"
+    "from": "2026-11-11T04:00:00Z",
+    "to": "2026-11-11T05:00:00Z"
   },
   "insights": {
     "headline": "Gold steadies near $4,045 after CPI slide as Indian gold ETFs hold up",
@@ -88,8 +88,9 @@
     },
     {
       "title": "Festive demand holds up as prices cool",
-      "summary": "Jewellery sales rose on Dhanteras as prices eased from peaks, the GJC expects strong wedding-season demand, and BlueStone's festive sales jumped 45%.",
+      "summary": "Jewellery sales rose on Dhanteras as prices eased; Kalyan's profit jumped 64% on strong festive demand, the GJC expects strong wedding demand, and BlueStone's festive sales rose 45%.",
       "item_ids": [
+        "01c4f17c22fe95ea",
         "3f7615c11b4d0a7f",
         "ae7355a54316221f",
         "04bb5443ef352095"
@@ -541,6 +542,29 @@
       "rank": 18
     },
     {
+      "id": "01c4f17c22fe95ea",
+      "title": "Kalyan Jewellers surges 10%, hits 52-week high post Q2 results",
+      "summary": "Kalyan Jewellers shares rose about 10% to a 52-week high of Rs 672.10 after September-quarter profit jumped 64% to Rs 427 crore and revenue rose 31% to Rs 10,323 crore, with same-store sales up 20%. Management said festive demand during Navratri and Dhanteras was strong and it was upbeat about the wedding season.",
+      "url": "https://www.business-standard.com/markets/news/kalyan-jewellers-surges-10-hits-52-week-high-post-q2-results-126111100244_1.html",
+      "source": "Business Standard",
+      "source_domain": "business-standard.com",
+      "publisher_id": "business-standard",
+      "published_at": "2026-11-11T04:41:56Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/01c4f17c22fe95ea.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
+      ],
+      "category": "festive",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 19
+    },
+    {
       "id": "3f7615c11b4d0a7f",
       "title": "Decline in gold price pushes jewellery sales on Dhanteras",
       "summary": "A dip in gold prices drew shoppers to jewellery stores on Dhanteras: Senco Gold reported sales up more than 25% by value with footfall 10-12% higher than last year, and Kalyan Jewellers cut its 22-carat price by Rs 235 a gram to Rs 13,150. Buyers favoured lighter pendants, bangles and chains and smaller gold and silver coins.",
@@ -564,7 +588,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 19
+      "rank": 20
     },
     {
       "id": "ae7355a54316221f",
@@ -590,7 +614,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 20
+      "rank": 21
     },
     {
       "id": "04bb5443ef352095",
@@ -613,7 +637,7 @@
         "jewellery"
       ],
       "breaking": false,
-      "rank": 21
+      "rank": 22
     },
     {
       "id": "920957de05ca9dbc",
@@ -636,7 +660,7 @@
         "jewellery"
       ],
       "breaking": false,
-      "rank": 22
+      "rank": 23
     }
   ]
 }
