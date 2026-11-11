@@ -1,69 +1,37 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-11T16:00Z",
-  "generated_at": "2026-11-11T16:06:36Z",
+  "edition_id": "2026-11-11T20:00Z",
+  "generated_at": "2026-11-11T20:06:21Z",
   "window": {
-    "from": "2026-11-11T14:00:00Z",
-    "to": "2026-11-11T16:00:00Z"
+    "from": "2026-11-11T18:00:00Z",
+    "to": "2026-11-11T20:00:00Z"
   },
   "insights": {
-    "headline": "Gold holds above $4,000 after CPI selloff as StanChart keeps $4,650 call",
-    "summary": "Spot gold held above $4,000, last near $4,032, after falling nearly 3% on hot October US CPI, up 0.4% on the month with core up 0.3%, both above forecasts. MCX gold rose to Rs 1,41,855 per 10 g and silver jumped to Rs 1,86,723 per kg, while Delhi gold fell Rs 800 to Rs 1,45,600 and silver tumbled Rs 5,000. Standard Chartered kept its call for gold to average $4,650 in Q4 and $4,850 in early 2027, seeing $4,200 as the next resistance and only a 25bp December hike. Traders price a December Fed hike at close to 100%, and Indian gold ETF inflows hit a record Rs 49,399 crore in January-October.",
+    "headline": "Gold slips below $4,000 as hot CPI locks in a December Fed hike",
+    "summary": "Spot gold fell below $4,000 to about $3,999 in the evening, giving back the morning rebound to $4,055, after October US CPI rose 0.4% on the month and core CPI 0.3%, both above forecasts, left traders fully pricing a December Fed hike. The dollar index hit a yearly high near 102.90 and the 10-year Treasury yield held near 5%. On MCX, gold held near Rs 1.41 lakh per 10 g and silver near Rs 1.87 lakh per kg after the morning rebound, while Indian gold ETF inflows hit a record Rs 49,399 crore in January-October.",
     "points": [
-      "Spot gold near $4,032, holding above $4,000 after falling nearly 3% to $4,021.36 on hot October CPI; silver near $53.03, up 3%.",
-      "MCX gold rose to Rs 1,41,855 per 10 g and silver jumped to Rs 1,86,723 per kg; Delhi gold fell Rs 800 to Rs 1,45,600 and silver Rs 5,000 to Rs 1,87,500.",
-      "October CPI rose 0.4% on the month and core CPI 0.3%, both above forecasts; the BLS published no 12-month change.",
-      "Standard Chartered kept its call for gold to average $4,650 in Q4 and $4,850 in early 2027, seeing $4,200 as the next resistance.",
-      "Indian gold ETF inflows hit Rs 49,399 crore in January-October, beating the Rs 42,961 crore of all of 2025; the rupee hit 93.69, its strongest since April."
+      "Spot gold fell below $4,000 to about $3,999, down 0.7%, after rebounding to $4,055 in the morning.",
+      "October CPI rose 0.4% on the month and core CPI 0.3%, both above forecasts; a December Fed hike is fully priced.",
+      "MCX gold held near Rs 1.41 lakh per 10 g and silver near Rs 1.87 lakh per kg; Delhi gold fell Rs 800 to Rs 1,45,600.",
+      "Standard Chartered still sees gold averaging $4,650 in Q4 and $4,850 in early 2027, with $4,200 the next resistance.",
+      "Indian gold ETF inflows hit a record Rs 49,399 crore in January-October, beating all of 2025; the rupee hit 93.69."
     ],
-    "brief": {
-      "schema": "orob-brief.v1",
-      "brief_id": "2026-11-11-1841",
-      "date": "2026-11-11",
-      "generated_at": "2026-11-11T13:11:57Z",
-      "slot": "evening",
-      "expires_at": "2026-11-11T18:29:00Z",
-      "headline": "Gold steadies above $4,050 as hike bets cap rebound",
-      "summary": "MCX gold held at Rs 1,41,855 per 10 g and silver at Rs 1,86,723 per kg as spot gold steadied near $4,048 after US CPI.",
-      "bullets": [
-        {
-          "text": "Hot October CPI and Fed remarks drove Tuesday's near-3% slide; traders now price a December hike as near-certain, capping the rebound.",
-          "item_ids": [
-            "0669fb08fa3f0880",
-            "714d00170768e918"
-          ]
-        },
-        {
-          "text": "MCX silver jumped over Rs 4,000 in the morning while Delhi physical gold fell Rs 800; the rupee hit its strongest since April at 93.69.",
-          "item_ids": [
-            "0eea204d144f86f6",
-            "161ce66814c9ba4a",
-            "6ab700f5b0515a7c"
-          ]
-        },
-        {
-          "text": "Watch: US jobless claims on Thursday and October PPI on Friday, both at 19:00 IST; the Fed's next decision is on December 9.",
-          "item_ids": []
-        }
-      ]
-    }
+    "brief": null
   },
   "trending": [
     {
-      "title": "Gold steadies but the Fed caps the rebound",
-      "summary": "Gold held above $4,000 after Tuesday's near-3% slide on hot October CPI, but a December hike priced as near-certain keeps the recovery in check; StanChart sees $4,200 as the next resistance.",
+      "title": "Gold breaks below $4,000 as hike bets harden",
+      "summary": "The morning rebound to $4,055 faded as hot October CPI and hawkish Fed remarks pushed the dollar to a yearly high and yields to 5%, dragging spot gold under $4,000 with a December hike fully priced.",
       "item_ids": [
-        "3112fa0f352565af",
-        "648ecb6e9e36755b",
-        "b43e0dfb2837ea53",
+        "02307d4975b234c5",
         "0669fb08fa3f0880",
-        "bfe43ec7cee0cfac",
+        "3112fa0f352565af",
         "714d00170768e918"
       ]
     },
     {
       "title": "India's ETF rush sets a record",
-      "summary": "Gold ETF inflows hit Rs 49,399 crore in January-October, already more than all of 2025, though October slowed 22% as fund houses halted bulk subscriptions and silver funds drew more.",
+      "summary": "Indian gold ETFs drew a record Rs 49,399 crore in the first ten months of 2026, already more than all of 2025, even as October inflows cooled after fund houses halted bulk subscriptions.",
       "item_ids": [
         "54dfaf82d699d904",
         "a9ecd8a429c98d87",
@@ -72,104 +40,59 @@
     },
     {
       "title": "Two Indias: MCX jumps, Delhi falls",
-      "summary": "MCX gold and silver jumped in the morning session while Delhi physical prices fell by the evening close; the rupee's rise to its strongest since April cushioned Indian buyers.",
+      "summary": "MCX gold rose to Rs 1,41,855 per 10 g and silver to Rs 1,86,723 per kg in the morning, while Delhi physical gold fell Rs 800 and silver Rs 5,000 as the market gave back ground.",
       "item_ids": [
         "0eea204d144f86f6",
         "161ce66814c9ba4a",
-        "6ab700f5b0515a7c",
         "744bb0ae57b14e73"
       ]
     },
     {
       "title": "Central banks keep buying, and bringing gold home",
-      "summary": "Standard Chartered expects central-bank demand to beat its full-year forecast, Singapore opened its vault to foreign central banks, and European central banks want their gold back.",
+      "summary": "Central banks bought about 1,000 tonnes a year since 2022 and are now repatriating reserves, while Singapore's MAS opened a vaulting service for foreign central banks.",
       "item_ids": [
-        "648ecb6e9e36755b",
+        "ecd5748785c4b169",
         "3cfb5f7c2ba20973",
-        "ecd5748785c4b169"
+        "648ecb6e9e36755b"
       ]
     },
     {
       "title": "Silver leads the rebound",
-      "summary": "Silver erased its whole Tuesday slide while gold regained only a third of its drop, pushing the gold-to-silver ratio below 77; ING sees silver averaging $66.5 an ounce in 2027.",
+      "summary": "Silver erased its whole Tuesday slide while gold regained about a third of its $84 drop, pushing the gold-to-silver ratio below 77 from 78.7.",
       "item_ids": [
         "89f964751494d60c",
-        "aff440e14ceae6bb",
+        "0eea204d144f86f6",
         "3112fa0f352565af"
       ]
     }
   ],
   "items": [
     {
-      "id": "3112fa0f352565af",
-      "title": "Gold gains after steep drop, but hawkish central bank signals weigh",
-      "summary": "Gold climbed 0.6% to $4,055 an ounce on Wednesday after Tuesday's near-3% slide, with silver up 3% to $53.03, as buyers stepped in after hot October US CPI. Reuters reports traders now price a December Fed hike at 100%, with a larger half-point move more likely, and Fed officials kept a hawkish tone, limiting the rebound.",
-      "url": "https://www.kitco.com/news/off-the-wire/2026-11-11/gold-gains-after-steep-drop-hawkish-central-bank-signals-weigh",
-      "source": "Kitco",
-      "source_domain": "kitco.com",
-      "publisher_id": "kitco",
-      "published_at": "2026-11-11T11:22:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/3112fa0f352565af.jpg",
+      "id": "02307d4975b234c5",
+      "title": "Gold drifts below $4,000 as high US yields fuel December Fed hike odds",
+      "summary": "Spot gold slipped below $4,000 to about $3,999, down 0.7%, extending losses for a second day as traders fully priced in a December Fed rate hike after hot October US CPI. The dollar index rose to a yearly high near 102.90 and the 10-year Treasury yield held near 5%. CME FedWatch put an 87% chance on a 25-basis-point hike and 13% on a half-point move.",
+      "url": "https://www.fxstreet.com/news/gold-drifts-below-4-000-as-high-us-yields-fuel-december-fed-hike-odds-202611111838",
+      "source": "FXStreet",
+      "source_domain": "fxstreet.com",
+      "publisher_id": "fxstreet",
+      "published_at": "2026-11-11T18:38:29Z",
+      "image_url": "https://editorial.fxsstatic.com/images/i/gold-02.jpg",
       "image_kind": "photo",
       "tags": [
         "gold",
-        "silver",
         "global",
         "fed"
       ],
       "category": "global",
       "metals": [
-        "gold",
-        "silver"
+        "gold"
       ],
       "breaking": false,
+      "related_urls": [
+        "https://www.tradingview.com/news/dpa_afx:9b95c4045d887:0-gold-slides-as-u-s-dollar-moves-higher-due-to-renewed-inflation-concerns/",
+        "https://www.moneyweb.co.za/mineweb/gold-holds-loss-near-4-000-on-hot-us-inflation-fed-remarks/"
+      ],
       "rank": 1
-    },
-    {
-      "id": "648ecb6e9e36755b",
-      "title": "Gold prices find solid support at $4,000 as Standard Chartered sees rally to $4,650 by year-end",
-      "summary": "Gold held above $4,000 after Tuesday's CPI-driven selloff, Kitco reports. Standard Chartered's Suki Cooper kept her call for gold to average $4,650 in Q4 and $4,850 in early 2027, citing firm central-bank demand and improving flows. She sees $4,200 as the next resistance and expects only a 25bp Fed hike in December, then no moves through 2027.",
-      "url": "https://www.kitco.com/news/article/2026-11-11/gold-prices-find-solid-support-4000-standard-chartered-sees-rally-4650-year",
-      "source": "Kitco",
-      "source_domain": "kitco.com",
-      "publisher_id": "kitco",
-      "published_at": "2026-11-11T14:59:53Z",
-      "image_url": "https://image-api.prod.kitco.com/image/6cc04f99-2777-4f4f-b51d-ffe912d3ba29.jpeg?top=0.36515330188679&left=0&width=1000&height=562.26969339623&scale_width=1920&token=db3fa4bdd55a267bbdc61c4600a765b05b43501f7f0ef1ae55b36d5333ecfa68",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "global",
-        "fed"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 2
-    },
-    {
-      "id": "b43e0dfb2837ea53",
-      "title": "Gold faces inflation headwinds on hawkish Fed tilt; $4,150 stays key hurdle",
-      "summary": "Gold edged above $4,050 an ounce after Tuesday's near-3% slide, as hot October US inflation and hawkish Fed remarks lifted the dollar and Treasury yields. Markets now price a December hike as close to certain, with the chance of a half-point move above 10%, and $4,150 has capped recent recoveries.",
-      "url": "https://www.business-standard.com/markets/news/gold-futures-gold-faces-inflation-headwinds-on-hawkish-fed-tilt-4-150-stays-key-hurdle-126111100555_1.html",
-      "source": "Business Standard",
-      "source_domain": "business-standard.com",
-      "publisher_id": "business-standard",
-      "published_at": "2026-11-11T03:33:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/b43e0dfb2837ea53.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "global",
-        "fed"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 3
     },
     {
       "id": "0669fb08fa3f0880",
@@ -199,7 +122,32 @@
         "https://www.kitco.com/news/article/2026-11-10/gold-silver-plunge-hotter-us-inflation-raises-prospect-larger-fed-rate-hike",
         "https://www.bullionvault.co.uk/gold-news/gold-price-news/gold-silver-inflation-fed-hike-111020261"
       ],
-      "rank": 4
+      "rank": 2
+    },
+    {
+      "id": "3112fa0f352565af",
+      "title": "Gold gains after steep drop, but hawkish central bank signals weigh",
+      "summary": "Gold climbed 0.6% to $4,055 an ounce on Wednesday after Tuesday's near-3% slide, with silver up 3% to $53.03, as buyers stepped in after hot October US CPI. Reuters reports traders now price a December Fed hike at 100%, with a larger half-point move more likely, and Fed officials kept a hawkish tone, limiting the rebound.",
+      "url": "https://www.kitco.com/news/off-the-wire/2026-11-11/gold-gains-after-steep-drop-hawkish-central-bank-signals-weigh",
+      "source": "Kitco",
+      "source_domain": "kitco.com",
+      "publisher_id": "kitco",
+      "published_at": "2026-11-11T11:22:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/3112fa0f352565af.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 3
     },
     {
       "id": "54dfaf82d699d904",
@@ -218,6 +166,29 @@
         "india"
       ],
       "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 4
+    },
+    {
+      "id": "b43e0dfb2837ea53",
+      "title": "Gold faces inflation headwinds on hawkish Fed tilt; $4,150 stays key hurdle",
+      "summary": "Gold edged above $4,050 an ounce after Tuesday's near-3% slide, as hot October US inflation and hawkish Fed remarks lifted the dollar and Treasury yields. Markets now price a December hike as close to certain, with the chance of a half-point move above 10%, and $4,150 has capped recent recoveries.",
+      "url": "https://www.business-standard.com/markets/news/gold-futures-gold-faces-inflation-headwinds-on-hawkish-fed-tilt-4-150-stays-key-hurdle-126111100555_1.html",
+      "source": "Business Standard",
+      "source_domain": "business-standard.com",
+      "publisher_id": "business-standard",
+      "published_at": "2026-11-11T03:33:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/b43e0dfb2837ea53.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "global",
+        "fed"
+      ],
+      "category": "global",
       "metals": [
         "gold"
       ],
@@ -278,55 +249,51 @@
       "rank": 7
     },
     {
-      "id": "744bb0ae57b14e73",
-      "title": "Gold price in India opens mixed as global prices rebound despite Fed rate hike fears",
-      "summary": "MCX gold futures rose to Rs 1,41,855 per 10 g, up nearly 1%, as spot gold steadied near $4,050 after Tuesday's near-3% slide. Financial Express says hot October US CPI lifted gold as an inflation hedge even as traders price a December Fed hike at close to 100%, with a firm dollar and 10-year yields above 5% capping gains.",
-      "url": "https://www.financialexpress.com/market/gold-pulse/gold-price-in-india-opens-mixed-as-global-prices-rebound-despite-fed-rate-hike-fears/4381396/",
-      "source": "Financial Express",
-      "source_domain": "financialexpress.com",
-      "publisher_id": "financial-express",
-      "published_at": "2026-11-11T08:03:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/744bb0ae57b14e73.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "mcx",
-        "fed",
-        "india"
-      ],
-      "category": "mcx",
+      "id": "714d00170768e918",
+      "title": "Investors boost odds of half-point Fed hike as core CPI rise meets Waller's bar",
+      "summary": "Odds of a half-point Fed hike in December jumped to about 15% at midmorning after October core CPI rose 0.3%, the level Fed Governor Waller had said would warrant considering a bigger move; a quarter-point rise is now seen as certain, with the 2-year Treasury yield rising the most since early April 2025.",
+      "url": "https://www.reuters.com/business/finance/investors-boost-odds-half-point-fed-hike-core-cpi-rise-meets-wallers-bar-2026-11-10/",
+      "source": "Reuters",
+      "source_domain": "reuters.com",
+      "publisher_id": "reuters",
+      "published_at": "2026-11-10T15:00:00Z",
+      "category": "global",
       "metals": [
-        "gold"
+        "gold",
+        "silver"
       ],
-      "breaking": false,
-      "rank": 8
-    },
-    {
-      "id": "bfe43ec7cee0cfac",
-      "title": "Gold Rises Despite 100% December Fed Hike Bets",
-      "summary": "Spot gold rose 0.3% to $4,043.62 an ounce and silver 1.7% to $52.38 after Tuesday's low of $4,017.21, as technical buying followed the selloff. The rebound was capped by hot October US inflation, which lifted the chance of a December Fed hike to 100% from 84%, with hawkish remarks from Fed officials adding pressure.",
-      "url": "https://www.businessworld.in/article/gold-rises-despite-100-december-fed-hike-bets-633068",
-      "source": "BW Businessworld",
-      "source_domain": "businessworld.in",
-      "publisher_id": "bw-businessworld",
-      "published_at": "2026-11-11T08:42:00Z",
-      "image_url": null,
-      "image_kind": "none",
       "tags": [
         "gold",
         "silver",
         "fed",
         "global"
       ],
+      "image_url": null,
+      "image_kind": "none",
+      "breaking": false,
+      "rank": 8
+    },
+    {
+      "id": "648ecb6e9e36755b",
+      "title": "Gold prices find solid support at $4,000 as Standard Chartered sees rally to $4,650 by year-end",
+      "summary": "Gold held above $4,000 after Tuesday's CPI-driven selloff, Kitco reports. Standard Chartered's Suki Cooper kept her call for gold to average $4,650 in Q4 and $4,850 in early 2027, citing firm central-bank demand and improving flows. She sees $4,200 as the next resistance and expects only a 25bp Fed hike in December, then no moves through 2027.",
+      "url": "https://www.kitco.com/news/article/2026-11-11/gold-prices-find-solid-support-4000-standard-chartered-sees-rally-4650-year",
+      "source": "Kitco",
+      "source_domain": "kitco.com",
+      "publisher_id": "kitco",
+      "published_at": "2026-11-11T14:59:53Z",
+      "image_url": "https://image-api.prod.kitco.com/image/6cc04f99-2777-4f4f-b51d-ffe912d3ba29.jpeg?top=0.36515330188679&left=0&width=1000&height=562.26969339623&scale_width=1920&token=db3fa4bdd55a267bbdc61c4600a765b05b43501f7f0ef1ae55b36d5333ecfa68",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "global",
+        "fed"
+      ],
       "category": "global",
       "metals": [
-        "gold",
-        "silver"
+        "gold"
       ],
       "breaking": false,
-      "related_urls": [
-        "https://profit.pakistantoday.com.pk/2026/11/11/gold-rebounds-to-dollar4057-after-sharp-selloff-as-us-rate-hike-expectations-limit-gains"
-      ],
       "rank": 9
     },
     {
@@ -354,31 +321,6 @@
       "rank": 10
     },
     {
-      "id": "714d00170768e918",
-      "title": "Investors boost odds of half-point Fed hike as core CPI rise meets Waller's bar",
-      "summary": "Odds of a half-point Fed hike in December jumped to about 15% at midmorning after October core CPI rose 0.3%, the level Fed Governor Waller had said would warrant considering a bigger move; a quarter-point rise is now seen as certain, with the 2-year Treasury yield rising the most since early April 2025.",
-      "url": "https://www.reuters.com/business/finance/investors-boost-odds-half-point-fed-hike-core-cpi-rise-meets-wallers-bar-2026-11-10/",
-      "source": "Reuters",
-      "source_domain": "reuters.com",
-      "publisher_id": "reuters",
-      "published_at": "2026-11-10T15:00:00Z",
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "fed",
-        "global"
-      ],
-      "image_url": null,
-      "image_kind": "none",
-      "breaking": false,
-      "rank": 11
-    },
-    {
       "id": "a9799aed4335e657",
       "title": "Dollar gains traction as Fed speakers warn of risks from inflation",
       "summary": "The dollar held near a two-week high in early Asian trade, with the dollar index steady at 102.22 after rising 0.5% on Tuesday. Fed funds futures imply a 91.9% chance of a quarter-point December hike and a 9.1% chance of a half-point move, with no pause priced in, as Fed officials warned inflation risks remain.",
@@ -401,7 +343,7 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/a9799aed4335e657.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 12
+      "rank": 11
     },
     {
       "id": "6ab700f5b0515a7c",
@@ -425,7 +367,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 13
+      "rank": 12
     },
     {
       "id": "a9ecd8a429c98d87",
@@ -453,7 +395,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 13
     },
     {
       "id": "d0841cab47f749e4",
@@ -476,7 +418,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 15
+      "rank": 14
     },
     {
       "id": "3b0c73c49b49c143",
@@ -499,7 +441,7 @@
       "image_url": null,
       "image_kind": "none",
       "breaking": false,
-      "rank": 16
+      "rank": 15
     },
     {
       "id": "154a010a05a3f0b1",
@@ -522,7 +464,7 @@
         "import-duty"
       ],
       "breaking": false,
-      "rank": 17
+      "rank": 16
     },
     {
       "id": "3bb0aa94fd55bbb5",
@@ -544,7 +486,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 18
+      "rank": 17
     },
     {
       "id": "0c7b73dca9b9d0c3",
@@ -567,7 +509,59 @@
         "gold"
       ],
       "breaking": false,
+      "rank": 18
+    },
+    {
+      "id": "744bb0ae57b14e73",
+      "title": "Gold price in India opens mixed as global prices rebound despite Fed rate hike fears",
+      "summary": "MCX gold futures rose to Rs 1,41,855 per 10 g, up nearly 1%, as spot gold steadied near $4,050 after Tuesday's near-3% slide. Financial Express says hot October US CPI lifted gold as an inflation hedge even as traders price a December Fed hike at close to 100%, with a firm dollar and 10-year yields above 5% capping gains.",
+      "url": "https://www.financialexpress.com/market/gold-pulse/gold-price-in-india-opens-mixed-as-global-prices-rebound-despite-fed-rate-hike-fears/4381396/",
+      "source": "Financial Express",
+      "source_domain": "financialexpress.com",
+      "publisher_id": "financial-express",
+      "published_at": "2026-11-11T08:03:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/744bb0ae57b14e73.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "mcx",
+        "fed",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
       "rank": 19
+    },
+    {
+      "id": "bfe43ec7cee0cfac",
+      "title": "Gold Rises Despite 100% December Fed Hike Bets",
+      "summary": "Spot gold rose 0.3% to $4,043.62 an ounce and silver 1.7% to $52.38 after Tuesday's low of $4,017.21, as technical buying followed the selloff. The rebound was capped by hot October US inflation, which lifted the chance of a December Fed hike to 100% from 84%, with hawkish remarks from Fed officials adding pressure.",
+      "url": "https://www.businessworld.in/article/gold-rises-despite-100-december-fed-hike-bets-633068",
+      "source": "BW Businessworld",
+      "source_domain": "businessworld.in",
+      "publisher_id": "bw-businessworld",
+      "published_at": "2026-11-11T08:42:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "silver",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://profit.pakistantoday.com.pk/2026/11/11/gold-rebounds-to-dollar4057-after-sharp-selloff-as-us-rate-hike-expectations-limit-gains"
+      ],
+      "rank": 20
     },
     {
       "id": "3cfb5f7c2ba20973",
@@ -593,7 +587,7 @@
       "related_urls": [
         "https://www.wsj.com/finance/singapore-central-bank-rolls-out-gold-vaulting-services-8a2d4f0d"
       ],
-      "rank": 20
+      "rank": 21
     },
     {
       "id": "ecd5748785c4b169",
@@ -616,7 +610,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 21
+      "rank": 22
     },
     {
       "id": "aff440e14ceae6bb",
@@ -640,7 +634,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 22
+      "rank": 23
     },
     {
       "id": "3d699b73a8325818",
@@ -665,28 +659,6 @@
       "related_urls": [
         "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q3-2026/supply"
       ],
-      "rank": 23
-    },
-    {
-      "id": "4e8b418517ddf6cb",
-      "title": "Barrick Mining files IPO for a new company to hold its North American gold assets",
-      "summary": "Barrick Mining filed to list a new company, American Barrick Gold Corp., holding its North American gold assets, the Canadian Press reports. The unit is slated to trade on the New York Stock Exchange as ABGC, with the number of shares and price range still to be set and proceeds earmarked for shareholders.",
-      "url": "https://www.bnnbloomberg.ca/business/company-news/2026/11/11/barrick-mining-files-ipo-for-a-new-company-to-hold-its-north-american-gold-assets/",
-      "source": "BNN Bloomberg",
-      "source_domain": "bnnbloomberg.ca",
-      "publisher_id": "bnn-bloomberg",
-      "published_at": "2026-11-11T12:44:00Z",
-      "image_url": "https://www.bnnbloomberg.ca/resizer/v2/KKW4F65IQ3AHV2OPQI3R2V3TJE.jpg?smart=true&auth=cc301480bbe6a95d495366707876ece4102df30a3a1c63b9dc51157510ddd429&width=1200&height=630",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
       "rank": 24
     },
     {
