@@ -1,36 +1,68 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-10T22:00Z",
-  "generated_at": "2026-11-10T22:13:36Z",
+  "edition_id": "2026-11-11T02:00Z",
+  "generated_at": "2026-11-11T02:19:49Z",
   "window": {
-    "from": "2026-11-10T20:00:00Z",
-    "to": "2026-11-10T22:00:00Z"
+    "from": "2026-11-11T00:00:00Z",
+    "to": "2026-11-11T02:00:00Z"
   },
   "insights": {
-    "headline": "Gold slides nearly 3% to $4,021 as hot CPI and hawkish Fed sink bullion",
-    "summary": "Spot gold fell nearly 3% to $4,021.36 an ounce after US October CPI rose 0.4% on the month and core CPI 0.3%, both above forecasts, with no 12-month change published. Dallas Fed President Logan said at least two more quarter-point hikes are needed, possibly rapidly, while Governor Waller put a half-point December move in play and the 10-year Treasury yield topped 5%. MCX gold slid to Rs 1,41,815 per 10 g and silver fell over Rs 2,000 per kg, while China bought 26 tonnes of gold in October. Q3 mine output hit a record 1,071 tonnes, yet total supply fell 1% as recycling slid 8%.",
+    "headline": "Gold steadies near $4,039 after hot CPI fuels bets on a December Fed hike",
+    "summary": "Spot gold steadied at $4,039.07 an ounce in early Asian trade after falling nearly 3% to $4,021.36 on hot October US CPI, which rose 0.4% on the month with core up 0.3%, both above forecasts; the BLS published no 12-month change. Traders now price a December Fed hike at 100%, the dollar index held at 102.22 near a two-week high, and the 10-year Treasury yield briefly topped 5%. MCX gold fell to Rs 1,41,815 per 10 g and silver to Rs 1,84,841 per kg in the evening session, while Dallas Fed's Logan called for at least two more hikes and China kept buying gold.",
     "points": [
-      "Spot gold fell nearly 3% to $4,021.36 an ounce, touching a low of $4,015; silver fell more than 3% to $51.72.",
+      "Spot gold steadied at $4,039.07 an ounce after falling nearly 3% to $4,021.36; silver held at $51.52.",
       "October CPI rose 0.4% on the month and core CPI 0.3%, both above forecasts; the BLS published no 12-month change.",
-      "Dallas Fed's Logan called for at least two more quarter-point hikes, possibly rapidly; Waller raised a half-point December move.",
-      "The 10-year Treasury yield topped 5% and the dollar strengthened as a December hike was fully priced.",
-      "MCX gold fell to Rs 1,41,815 per 10 g and silver to Rs 1,84,841 per kg; Q3 mine output hit a record 1,071 tonnes yet total supply fell 1%."
+      "Traders price a December Fed hike at 100%, with a 9.1% chance of a half-point move; the dollar index stood at 102.22.",
+      "MCX gold fell to Rs 1,41,815 per 10 g and silver to Rs 1,84,841 per kg; Delhi gold eased Rs 500.",
+      "Dallas Fed's Logan called for at least two more quarter-point hikes, possibly rapidly; Waller raised a half-point December move."
     ],
-    "brief": null
+    "brief": {
+      "schema": "orob-brief.v1",
+      "brief_id": "2026-11-11-0749",
+      "date": "2026-11-11",
+      "generated_at": "2026-11-11T02:19:49Z",
+      "slot": "morning",
+      "expires_at": "2026-11-11T08:00:00Z",
+      "headline": "Gold steadies near $4,039 as Fed hike bets harden",
+      "summary": "MCX gold slid to Rs 1,41,815 per 10 g as hot US CPI put a December Fed hike fully in play.",
+      "bullets": [
+        {
+          "text": "Hot October CPI lifted December hike bets to a certainty, Reuters says, with the dollar near a two-week high and yields above 5%.",
+          "item_ids": [
+            "55cb972fcfa9695c",
+            "0669fb08fa3f0880",
+            "a9799aed4335e657"
+          ]
+        },
+        {
+          "text": "MCX gold and silver slipped in the evening session; Business Today says the rupee cushioned the global fall for Indian buyers.",
+          "item_ids": [
+            "bd4fe7a3b399bc8d",
+            "3b0c73c49b49c143"
+          ]
+        },
+        {
+          "text": "Watch: US jobless claims Thursday and October PPI Friday, both at 19:00 IST; Treasury markets shut today for Veterans Day.",
+          "item_ids": [
+            "0669fb08fa3f0880"
+          ]
+        }
+      ]
+    }
   },
   "trending": [
     {
-      "title": "Gold's CPI slide deepens toward $4,000",
-      "summary": "Spot gold fell nearly 3% to $4,021.36 as hot October CPI and hawkish Fed voices — Logan for two more hikes, Waller raising a half-point move — pushed the 10-year yield above 5%.",
+      "title": "Gold's CPI slide steadies near $4,000",
+      "summary": "Spot gold steadied at $4,039 after a nearly 3% plunge on hot October CPI, with a December Fed hike now fully priced and the dollar near a two-week high.",
       "item_ids": [
+        "55cb972fcfa9695c",
         "0669fb08fa3f0880",
-        "a31c60a502584e04",
-        "ce87ded0dfeaec4e"
+        "a9799aed4335e657"
       ]
     },
     {
-      "title": "MCX slides below Rs 1,42,000 as Delhi gold eases Rs 500",
-      "summary": "MCX gold fell to Rs 1,41,815 per 10 g in the evening session and silver to about Rs 1,84,841 per kg, while Delhi gold eased Rs 500 to Rs 1,46,400 and silver held steady at Rs 1,92,500 per kg.",
+      "title": "MCX slides below Rs 1,42,000",
+      "summary": "MCX gold fell to Rs 1,41,815 per 10 g and silver to Rs 1,84,841 per kg in the evening session, while Delhi gold eased Rs 500.",
       "item_ids": [
         "bd4fe7a3b399bc8d",
         "ec919d704c2884a6",
@@ -38,8 +70,8 @@
       ]
     },
     {
-      "title": "Central banks keep buying gold; repatriation is not de-dollarisation",
-      "summary": "China bought 26 tonnes in October and Uzbekistan added 7 tonnes; Singapore will vault gold for foreign central banks. A Fed paper says European gold repatriations did not cut dollar allocations.",
+      "title": "Central banks keep buying; Singapore builds a vault",
+      "summary": "China bought gold for a second straight year, Singapore will open a bullion vault for foreign central banks, and a Fed official says reserve repatriation is not de-dollarisation.",
       "item_ids": [
         "204dbd1b027ab916",
         "9d64e804988675ab",
@@ -47,25 +79,41 @@
       ]
     },
     {
-      "title": "Duty hike feeds smuggling, squeezes organised trade",
-      "summary": "Smuggling hit about 50 tonnes in July-September, about 37% of India's supply, after the duty rise to 15%, while official imports fell 70% to 64 tonnes.",
-      "item_ids": [
-        "154a010a05a3f0b1",
-        "3b0c73c49b49c143"
-      ]
-    },
-    {
-      "title": "Festive demand: more buyers, smaller hauls",
-      "summary": "Dhanteras jewellery sales stayed strong as lower prices drew buyers, but Rs 1 lakh bought only about 7 g of gold this Dhanteras versus 33 g in 2016; BlueStone's festive business grew 45%.",
+      "title": "Festive demand holds up as prices cool",
+      "summary": "Jewellery sales rose on Dhanteras as prices eased from peaks, the GJC expects strong wedding-season demand, and BlueStone's festive sales jumped 45%.",
       "item_ids": [
         "3f7615c11b4d0a7f",
-        "920957de05ca9dbc",
-        "04bb5443ef352095",
-        "ae7355a54316221f"
+        "ae7355a54316221f",
+        "04bb5443ef352095"
       ]
     }
   ],
   "items": [
+    {
+      "id": "55cb972fcfa9695c",
+      "title": "Gold holds near one-week low as hot US inflation boosts Fed hike bets",
+      "summary": "Gold steadied in early Asian trade after falling nearly 3% in the previous session, with spot gold at $4,039.07 an ounce and silver at $51.52. Hot October US inflation lifted bets on a December Fed rate rise to a 100% chance, with the odds of a half-point move surging, while Fed Vice Chair Bowman stressed that bringing inflation down remains the top priority.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-holds-near-one-week-low-as-hot-us-inflation-boosts-fed-hike-bets/articleshow/135722357.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-11-10T18:05:00Z",
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "fed",
+        "global"
+      ],
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/55cb972fcfa9695c.jpg",
+      "image_kind": "photo",
+      "breaking": false,
+      "rank": 1
+    },
     {
       "id": "0669fb08fa3f0880",
       "title": "Gold falls nearly 3% as CPI tops forecasts, lifting dollar and yields",
@@ -90,33 +138,9 @@
       ],
       "breaking": true,
       "related_urls": [
-        "https://www.fxstreet.com/news/gold-crashes-toward-4-000-as-hot-us-inflation-sends-treasury-yields-above-5-202611101815"
+        "https://www.fxstreet.com/news/gold-crashes-toward-4-000-as-hot-us-inflation-sends-treasury-yields-above-5-202611101815",
+        "https://www.kitco.com/news/article/2026-11-10/gold-silver-plunge-hotter-us-inflation-raises-prospect-larger-fed-rate-hike"
       ],
-      "rank": 1
-    },
-    {
-      "id": "ce87ded0dfeaec4e",
-      "title": "Traders raise odds of 50 bps Fed rate hike as CPI rise exceeds expectations",
-      "summary": "Traders lifted the odds of a 50-basis-point Fed hike in December to nearly 15% by midmorning, from about 11% late on Monday, after US October CPI rose 0.4% on the month and core CPI rose 0.3% for a third straight month. Fed Governor Waller had said a core CPI rise of 0.3% or more could prompt a half-point move at the December 8-9 meeting; the odds touched a session high of 17%.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/traders-raise-odds-of-50-bps-fed-rate-hike-as-cpi-rise-exceeds-expectations/articleshow/135714586.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "publisher_id": "economic-times",
-      "published_at": "2026-11-10T15:15:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/ce87ded0dfeaec4e.jpg",
-      "image_kind": "photo",
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "fed",
-        "global"
-      ],
-      "breaking": false,
       "rank": 2
     },
     {
@@ -143,6 +167,31 @@
       "rank": 3
     },
     {
+      "id": "a9799aed4335e657",
+      "title": "Dollar gains traction as Fed speakers warn of risks from inflation",
+      "summary": "The dollar held near a two-week high in early Asian trade, with the dollar index steady at 102.22 after rising 0.5% on Tuesday. Fed funds futures imply a 91.9% chance of a quarter-point December hike and a 9.1% chance of a half-point move, with no pause priced in, as Fed officials warned inflation risks remain.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-gains-traction-as-fed-speakers-warn-of-risks-from-inflation/articleshow/135722346.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-11-11T01:25:00Z",
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "fed",
+        "global"
+      ],
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/a9799aed4335e657.jpg",
+      "image_kind": "photo",
+      "breaking": false,
+      "rank": 4
+    },
+    {
       "id": "bd4fe7a3b399bc8d",
       "title": "Bullion Market Slides In Evening: Gold Drops Below Rs 1,42,000 And Silver Plunges Over Rs 2,000 On MCX",
       "summary": "MCX gold fell to an evening low of Rs 1,41,815 per 10 g, down Rs 1,351 from the previous close of Rs 1,43,166, and was near Rs 1,42,027 in late evening trade. MCX silver dropped to a low of Rs 1,84,841 per kg, down Rs 2,286, and was near Rs 1,85,104. Retail 24-karat gold was Rs 1,42,470 per 10 g and silver Rs 1,85,820 per kg.",
@@ -165,30 +214,29 @@
         "india"
       ],
       "breaking": false,
-      "rank": 4
+      "rank": 5
     },
     {
-      "id": "3b16a5016d6da088",
-      "title": "Gold slumps after firm U.S. inflation data, hawkish comments from Fed's Waller",
-      "summary": "Spot gold fell 2.2% to $4,051.36 an ounce and December futures eased 1.3% to $4,060.57 as the dollar index rose 0.3% to 101.98, leaving gold on course for its biggest one-day fall since late January. Fed Governor Waller said a strong case could be made for a 50-basis-point hike at the December meeting, and traders priced in at least a quarter-point rise.",
-      "url": "https://in.investing.com/news/commodities-news/gold-holds-near-4130-as-oil-retreat-eases-inflation-concerns-5692557",
-      "source": "Investing.com",
-      "source_domain": "investing.com",
-      "publisher_id": "investing",
-      "published_at": "2026-11-10T16:24:04Z",
-      "image_url": null,
-      "image_kind": "none",
+      "id": "aa87e5be5e7ba4fb",
+      "title": "Gold Price Forecast: Failed Breakdown Fuels Bullish Reversal",
+      "summary": "FXEmpire's technical view says gold's failed break below support has shifted control toward buyers, after the metal pulled back to a four-day low of $4,014 on Tuesday and held a $4,014-$4,149 range. The analyst sees recovery toward $4,217 and $4,399 if gold clears last week's high of $4,147.",
+      "url": "https://www.fxempire.com/forecasts/article/gold-price-forecast-failed-breakdown-fuels-bullish-reversal-1643741",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "published_at": "2026-11-10T21:46:00Z",
       "category": "global",
       "metals": [
         "gold"
       ],
       "tags": [
         "gold",
-        "fed",
         "global"
       ],
+      "image_url": null,
+      "image_kind": "none",
       "breaking": false,
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "670399e697449069",
@@ -211,7 +259,7 @@
         "central-banks"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "3d699b73a8325818",
@@ -236,7 +284,7 @@
       "related_urls": [
         "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q3-2026/supply"
       ],
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "f11b4701e93408ee",
@@ -249,7 +297,7 @@
       "published_at": "2026-11-10T12:10:00Z",
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/f11b4701e93408ee.jpg",
       "image_kind": "photo",
-      "category": "global",
+      "category": "mcx",
       "metals": [
         "gold",
         "silver"
@@ -262,7 +310,7 @@
         "global"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "75d48d9bf97bd634",
@@ -287,7 +335,7 @@
         "global"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "a4c2f849c46f7680",
@@ -310,7 +358,7 @@
         "global"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "ec919d704c2884a6",
@@ -335,7 +383,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 11,
+      "rank": 12,
       "related_urls": [
         "https://www.moneycontrol.com/news/business/personal-finance/gold-prices-fall-rs-500-per-10-gm-on-subdued-festive-demand-weak-global-cues-silver-remains-steady-14076452.html"
       ]
@@ -361,7 +409,7 @@
         "global"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 13
     },
     {
       "id": "154a010a05a3f0b1",
@@ -384,7 +432,7 @@
         "import-duty"
       ],
       "breaking": false,
-      "rank": 13
+      "rank": 14
     },
     {
       "id": "204dbd1b027ab916",
@@ -410,7 +458,7 @@
       "related_urls": [
         "https://www.australianresourcesandinvestment.com.au/china-keeps-buying-gold-despite-price-volatility/"
       ],
-      "rank": 14
+      "rank": 15
     },
     {
       "id": "2e87b5d1d2636164",
@@ -434,53 +482,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 15
-    },
-    {
-      "id": "8044c0c29f6b4575",
-      "title": "Oil prices fall as Trump signals pause in military action against Iran",
-      "summary": "Brent crude fell 1.7% to $90.99 a barrel and US WTI 1.8% to $85.20 after President Trump said he would 'watch and see' on military action against Iran, easing the war premium that had lifted oil and fed inflation worries. Brent had already settled down 5.85% in the previous session and sits about 22% below its $118 high of October 30.",
-      "url": "https://www.business-standard.com/markets/commodities/oil-prices-fall-as-trump-signals-pause-in-military-action-against-iran-126111000067_1.html",
-      "source": "Business Standard",
-      "source_domain": "business-standard.com",
-      "publisher_id": "business-standard",
-      "published_at": "2026-11-10T09:37:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/8044c0c29f6b4575.jpg",
-      "image_kind": "photo",
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "global"
-      ],
-      "breaking": false,
       "rank": 16
-    },
-    {
-      "id": "776f7630a46830e3",
-      "title": "Indian rupee breaks six-day winning streak on state banks' dollar bids",
-      "summary": "The rupee hit a six-month high of 93.69 per dollar before closing at 93.9275 on Monday, snapping a six-session winning run as dollar bids from state-run banks outweighed the positive momentum. Traders said the purchases may have been on behalf of the central bank. Emkay Global expects the RBI to use inflows to rebuild forex buffers rather than allow a sharp rupee rise.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/indian-rupee-breaks-six-day-winning-streak-on-state-banks-dollar-bids/articleshow/135678769.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "publisher_id": "economic-times",
-      "published_at": "2026-11-09T10:24:00Z",
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "rupee",
-        "india",
-        "mcx"
-      ],
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/776f7630a46830e3.jpg",
-      "image_kind": "photo",
-      "breaking": false,
-      "rank": 17
     },
     {
       "id": "3b0c73c49b49c143",
@@ -503,7 +505,7 @@
       "image_url": null,
       "image_kind": "none",
       "breaking": false,
-      "rank": 18
+      "rank": 17
     },
     {
       "id": "3f7615c11b4d0a7f",
@@ -529,7 +531,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 19
+      "rank": 18
     },
     {
       "id": "ae7355a54316221f",
@@ -555,7 +557,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 20
+      "rank": 19
     },
     {
       "id": "04bb5443ef352095",
@@ -578,7 +580,7 @@
         "jewellery"
       ],
       "breaking": false,
-      "rank": 21
+      "rank": 20
     },
     {
       "id": "920957de05ca9dbc",
@@ -601,7 +603,7 @@
         "jewellery"
       ],
       "breaking": false,
-      "rank": 22
+      "rank": 21
     },
     {
       "id": "617735e9889c20b4",
@@ -626,32 +628,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 23
-    },
-    {
-      "id": "66289c9ddb6d9e09",
-      "title": "Buying gold or silver in November? 3 key dates to watch before making a purchase",
-      "summary": "CNBC-TV18 lists three dates for gold and silver watchers in November: US October CPI on Tuesday, November 10; US October PPI on Friday, November 13; and minutes of the Fed’s October 27–28 meeting on Wednesday, November 18. It notes prices move with the dollar, rates, yields, geopolitics and demand, and that the rupee also shapes domestic prices.",
-      "url": "https://www.cnbctv18.com/personal-finance/buying-gold-or-silver-in-november-3-key-dates-to-watch-before-making-a-purchase-20030732.htm",
-      "source": "CNBC-TV18",
-      "source_domain": "cnbctv18.com",
-      "publisher_id": "cnbc-tv18",
-      "published_at": "2026-11-09T17:52:03Z",
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "india",
-        "fed"
-      ],
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/66289c9ddb6d9e09.jpg",
-      "image_kind": "photo",
-      "breaking": false,
-      "rank": 24
+      "rank": 22
     }
   ]
 }
