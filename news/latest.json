@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-11T08:00Z",
-  "generated_at": "2026-11-11T08:14:46Z",
+  "edition_id": "2026-11-11T09:00Z",
+  "generated_at": "2026-11-11T09:08:38Z",
   "window": {
-    "from": "2026-11-11T06:00:00Z",
-    "to": "2026-11-11T08:00:00Z"
+    "from": "2026-11-11T08:00:00Z",
+    "to": "2026-11-11T09:00:00Z"
   },
   "insights": {
     "headline": "Gold rebounds above $4,050 after CPI slide as MCX gains; Fed hike bets cap the rally",
@@ -61,10 +61,11 @@
     },
     {
       "title": "Indian gold ETFs beat the global slide",
-      "summary": "Indian gold ETFs held up far better than global gold in 2026, the best returning about 7.5% in rupees, as a weaker rupee and the import duty rise cushioned the fall in dollar terms.",
+      "summary": "Indian gold ETFs held up far better than global gold in 2026, the best returning about 7.5% in rupees — but October inflows fell 22% as fund houses halted bulk subscriptions.",
       "item_ids": [
         "d0841cab47f749e4",
-        "3b0c73c49b49c143"
+        "3b0c73c49b49c143",
+        "a9ecd8a429c98d87"
       ]
     },
     {
@@ -193,6 +194,34 @@
       "rank": 4
     },
     {
+      "id": "a9ecd8a429c98d87",
+      "title": "India gold ETF inflows drop 22% in October as fund houses halt bulk subscriptions",
+      "summary": "Net inflows into Indian gold ETFs fell nearly 22% month-on-month to Rs 3,474 crore ($371 million) in October, AMFI data showed, after fund houses suspended bulk subscriptions to gold fund-of-funds from mid-October. Silver ETFs moved the other way, with inflows rising about 56% to Rs 3,092 crore.",
+      "url": "https://www.reuters.com/business/indias-gold-etf-inflows-drop-22-october-fund-houses-halt-bulk-subscriptions-2026-11-11/",
+      "source": "Reuters",
+      "source_domain": "reuters.com",
+      "publisher_id": "reuters",
+      "published_at": "2026-11-11T06:52:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "related_urls": [
+        "https://upstox.com/news/personal-finance/mutual-funds/amfi-october-2026-data-8-key-takeaways-on-equity-mf-inflows-debt-funds-gold-and-silver-et-fs/article-203285/"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "india",
+        "mcx"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 5
+    },
+    {
       "id": "714d00170768e918",
       "title": "Investors boost odds of half-point Fed hike as core CPI rise meets Waller's bar",
       "summary": "Odds of a half-point Fed hike in December jumped to about 15% at midmorning after October core CPI rose 0.3%, the level Fed Governor Waller had said would warrant considering a bigger move; a quarter-point rise is now seen as certain, with the 2-year Treasury yield rising the most since early April 2025.",
@@ -215,7 +244,7 @@
       "image_url": null,
       "image_kind": "none",
       "breaking": false,
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "d0841cab47f749e4",
@@ -236,29 +265,6 @@
       "category": "mcx",
       "metals": [
         "gold"
-      ],
-      "breaking": false,
-      "rank": 6
-    },
-    {
-      "id": "a31c60a502584e04",
-      "title": "Fed's Logan calls for two more rate hikes, possibly rapidly",
-      "summary": "Dallas Fed President Lorie Logan said the Fed needs at least two more quarter-point rate hikes, and may need to move promptly, to keep broadening price pressures from taking hold after October core CPI rose 0.3% — a pace that, sustained, would mean annual inflation above 4%. She said the Fed could move more rapidly this winter, then pause to assess, ahead of the December 8-9 meeting.",
-      "url": "https://www.reuters.com/business/feds-logan-calls-two-more-rate-hikes-possibly-rapidly-2026-11-10/",
-      "source": "Reuters",
-      "source_domain": "reuters.com",
-      "publisher_id": "reuters",
-      "published_at": "2026-11-10T15:51:18Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "fed",
-        "global"
       ],
       "breaking": false,
       "rank": 7
