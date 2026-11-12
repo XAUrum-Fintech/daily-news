@@ -1,10 +1,10 @@
 {
  "schema": "orob-news.v1",
- "edition_id": "2026-11-12T16:00Z",
- "generated_at": "2026-11-12T16:15:53Z",
+ "edition_id": "2026-11-12T18:00Z",
+ "generated_at": "2026-11-12T18:08:05Z",
  "window": {
-  "from": "2026-11-12T14:00:00Z",
-  "to": "2026-11-12T16:00:00Z"
+  "from": "2026-11-12T16:00:00Z",
+  "to": "2026-11-12T18:00:00Z"
  },
  "insights": {
   "headline": "Gold slides below $3,900 to about $3,865 as weak US home sales deepen the rout",
@@ -13,7 +13,7 @@
    "Spot gold fell to about $3,865 an ounce, down 3.08% on the day, after US existing-home sales fell 5.5% to 3.75 million in October.",
    "US jobless claims rose to 200,000, and traders put 88-91% odds on a 25-basis-point Fed hike in December.",
    "The 10-year real yield rose to 2.78% after October CPI rose 0.4% month on month and core CPI 0.3%.",
-   "MCX gold traded about Rs 1.38 lakh per 10 g and silver near Rs 1.81 lakh per kg.",
+   "Silver slid 3% to about $50.15 an ounce, while MCX gold held about Rs 1.38 lakh per 10 g and silver near Rs 1.81 lakh per kg.",
    "India's October CPI rose to 6.09% from 5.54%, above the RBI's 6% limit, with food inflation at 8.94%."
   ],
   "brief": {
@@ -58,7 +58,8 @@
     "558d32776497b7f2",
     "88f691e0dfd5e359",
     "d2ece576bdb45369",
-    "2bb724b346d5e0ed"
+    "2bb724b346d5e0ed",
+    "700e03bdbe5a0de1"
    ]
   },
   {
@@ -88,11 +89,12 @@
   },
   {
    "title": "Silver tests $50 support",
-   "summary": "Silver fell to about $50.19, down 2.8%, as rising real yields overshadowed supply deficits. Support sits at $50.44-$50.12, JP Morgan says positioning is light, and rallies stay capped below $55.",
+   "summary": "Silver slid 3% to about $50.15 as rising real yields overshadowed supply deficits. Support sits at $50.44-$50.12, JP Morgan says positioning is light, and rallies stay capped below $55.",
    "item_ids": [
     "40d685f77bf1bf7f",
     "05750765802d5710",
-    "bd23174ccc6a2e1e"
+    "bd23174ccc6a2e1e",
+    "cfcb158ac72e8ffc"
    ]
   }
  ],
@@ -106,8 +108,8 @@
    "source_domain": "kitco.com",
    "publisher_id": "kitco",
    "published_at": "2026-11-12T15:00:31Z",
-   "image_url": null,
-   "image_kind": "none",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/0e16c42704bbafde.jpg",
+   "image_kind": "photo",
    "tags": [
     "gold",
     "global"
@@ -118,6 +120,55 @@
    ],
    "breaking": false,
    "rank": 1
+  },
+  {
+   "url": "https://www.fxstreet.com/news/silver-tumbles-over-3-as-fed-rate-hike-bets-fuel-us-dollar-rally-202611121711",
+   "title": "Silver tumbles over 3% as hot US inflation boosts Fed hike bets",
+   "summary": "Silver fell 3% on Thursday to about $50.15 an ounce as the dollar index neared 103.10, its highest since April 2025, and traders fully priced a December Fed rate rise. Core US CPI rose 0.3% in October, above forecasts, and hawkish remarks from Fed officials including Christopher Waller and Beth Hammack weighed on the metal; traders now await Friday's US producer price data.",
+   "source": "FXStreet",
+   "source_domain": "fxstreet.com",
+   "publisher_id": "fxstreet",
+   "published_at": "2026-11-12T17:11:58Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "silver",
+    "fed",
+    "global"
+   ],
+   "category": "global",
+   "metals": [
+    "silver"
+   ],
+   "breaking": false,
+   "id": "cfcb158ac72e8ffc",
+   "rank": 2
+  },
+  {
+   "url": "https://informistmedia.com/CommodityWire/64676/India-Bullion-Down-as-dollar-hits-19-month-high-hawkish-Fed-also-weighs",
+   "title": "India Bullion: Down as dollar hits 19-month high; hawkish Fed also weighs",
+   "summary": "Gold and silver futures on MCX and COMEX fell for a third straight session as the dollar rose to a 19-month high above 103 and traders fully priced a December Fed rate rise. At 18:49 IST, MCX December gold stood at Rs 1,41,185 per 10 g and silver at Rs 1,80,800 per kg; jewellers cut domestic discounts to Rs 500 as lower prices drew buying, with the rupee at 94.04 per dollar.",
+   "source": "Informist Media",
+   "source_domain": "informistmedia.com",
+   "publisher_id": "informist-media",
+   "published_at": "2026-11-12T15:16:21Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "gold",
+    "silver",
+    "mcx",
+    "rupee",
+    "india"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "id": "700e03bdbe5a0de1",
+   "rank": 3
   },
   {
    "id": "558d32776497b7f2",
@@ -142,7 +193,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 2
+   "rank": 4
   },
   {
    "id": "88f691e0dfd5e359",
@@ -165,7 +216,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 3
+   "rank": 5
   },
   {
    "id": "a00aa158437cadf7",
@@ -190,7 +241,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 4
+   "rank": 6
   },
   {
    "id": "d2ece576bdb45369",
@@ -215,11 +266,11 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 5
+   "rank": 7
   },
   {
    "id": "405b79fabf3af04d",
-   "rank": 6,
+   "rank": 8,
    "title": "Gold falls below ₹1.39 lakh per 10 grams, silver drops 1.3%: What’s driving the latest correction",
    "summary": "MCX gold slipped below ₹1.39 lakh per 10 g and silver fell 1.3% in the latest session, with December gold around ₹1,38,599 and silver near ₹1,82,110 per kg. CNBC-TV18 puts the slide down to a dollar at a 19-month high and traders fully pricing a December Fed rate rise after hot US inflation data.",
    "url": "https://www.cnbctv18.com/market/commodities/gold-falls-silver-drops-1-3-pc-india-mcx-what-driving-the-correction-20032615.htm",
@@ -264,7 +315,7 @@
    "image_url": null,
    "image_kind": "none",
    "breaking": false,
-   "rank": 7
+   "rank": 9
   },
   {
    "id": "a6f47272fc213841",
@@ -288,7 +339,7 @@
     "gold",
     "silver"
    ],
-   "rank": 8
+   "rank": 10
   },
   {
    "id": "3e3452ea0249e898",
@@ -311,7 +362,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 9
+   "rank": 11
   },
   {
    "id": "70c144ea7430a4ef",
@@ -337,7 +388,7 @@
     "rupee"
    ],
    "breaking": false,
-   "rank": 10
+   "rank": 12
   },
   {
    "id": "4661040c6225a0e6",
@@ -362,7 +413,7 @@
     "fed"
    ],
    "breaking": false,
-   "rank": 11
+   "rank": 13
   },
   {
    "id": "0537bfe4f89db79a",
@@ -386,7 +437,7 @@
    "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/0537bfe4f89db79a.jpg",
    "image_kind": "photo",
    "breaking": false,
-   "rank": 12,
+   "rank": 14,
    "related_urls": [
     "https://www.thedailyjagran.com/lite/business/news/bullion-rate-slump-gold-slides-below-rs-1-39-lakh-silver-declines-rs-2600-24k-22k-gold-rates-10336008"
    ]
@@ -414,7 +465,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 13
+   "rank": 15
   },
   {
    "id": "40d685f77bf1bf7f",
@@ -437,7 +488,7 @@
    "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/40d685f77bf1bf7f.jpg",
    "image_kind": "photo",
    "breaking": false,
-   "rank": 14
+   "rank": 16
   },
   {
    "id": "05750765802d5710",
@@ -459,7 +510,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 15
+   "rank": 17
   },
   {
    "id": "bd23174ccc6a2e1e",
@@ -481,7 +532,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 16
+   "rank": 18
   },
   {
    "id": "2e6d8cc510e3464d",
@@ -507,7 +558,7 @@
    "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/2e6d8cc510e3464d.jpg",
    "image_kind": "photo",
    "breaking": false,
-   "rank": 17
+   "rank": 19
   },
   {
    "id": "524109ddeaa45561",
@@ -530,11 +581,11 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 18
+   "rank": 20
   },
   {
    "id": "3e7f3330527b7771",
-   "rank": 19,
+   "rank": 21,
    "title": "Gold purchases rose 30% as prices fell 21%: 52 tonnes of gold worth ₹72,000 crore sold during Diwali-Dhanteras; silver purchases also rose 10%",
    "summary": "Gold buying rose 30% by volume during Dhanteras and Diwali compared with last year, the India Bullion and Jewellers Association says, with about 52 tonnes worth ₹72,000 crore sold and silver purchases up 10% to 300 tonnes worth ₹5,400 crore. The rebound followed a price correction from about ₹1.8 lakh to ₹1.42 lakh per 10 g, with jewellers also citing advance wedding-season buying.",
    "url": "https://www.bhaskarenglish.in/business/news/india-diwali-dhanteras-gold-silver-sales-price-drop-data-139665087.html",
@@ -580,7 +631,7 @@
    "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/cb424b51df43cc48.jpg",
    "image_kind": "photo",
    "breaking": false,
-   "rank": 20,
+   "rank": 22,
    "related_urls": [
     "https://www.reuters.com/business/indias-gold-etf-inflows-drop-22-october-fund-houses-halt-bulk-subscriptions-2026-11-11/"
    ]
@@ -606,11 +657,11 @@
    "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/54dfaf82d699d904.jpg",
    "image_kind": "photo",
    "breaking": false,
-   "rank": 21
+   "rank": 23
   },
   {
    "id": "08a89fe329e2172f",
-   "rank": 22,
+   "rank": 24,
    "title": "What's Gold price future in India? Will it touch ₹1.50 lakh per 10 grams again by December 2026? Experts' view",
    "summary": "Experts are split on whether MCX gold can return to Rs 1.50 lakh per 10 g by December. Kotak Neo's Kaynat Chainwala says it needs an 8% rise and a spot break above $4,220 an ounce; Choice Broking's Kaveri More calls it achievable above Rs 1,42,800-1,46,100. SEBI-registered analyst Anuj Gupta is cautious, warning of more selling if the Fed hikes 50 basis points and flagging $3,800 as key support.",
    "url": "https://www.livemint.com/market/commodities/whats-gold-price-future-in-india-will-it-touch-1-50-lakh-per-10-grams-again-by-december-2026-experts-view-11794468408702.html",
@@ -631,30 +682,6 @@
    "metals": [
     "gold",
     "silver"
-   ],
-   "breaking": false
-  },
-  {
-   "id": "a4324c2c6de1e811",
-   "rank": 23,
-   "title": "Gold under the pump as dollar sensitivity surges",
-   "summary": "Gold’s sensitivity to the dollar is near historical extremes, FOREX.com’s StoneX analysis finds: the 252-session beta to the dollar index is -2.47, in the 99th percentile since 1976, and gold has been about 5.42 times as volatile as the dollar. Tuesday’s 2.61% slide came as the two-year Treasury yield jumped 18 basis points, the largest single-session rise of 2026.",
-   "url": "https://www.forex.com/en-us/news-and-analysis/gold-under-the-pump-as-dollar-sensitivity-surges/",
-   "source": "FOREX.com",
-   "source_domain": "forex.com",
-   "publisher_id": "forex",
-   "published_at": "2026-11-12T01:35:00Z",
-   "image_url": null,
-   "image_kind": "none",
-   "tags": [
-    "gold",
-    "fed",
-    "global",
-    "comex"
-   ],
-   "category": "global",
-   "metals": [
-    "gold"
    ],
    "breaking": false
   },
@@ -680,7 +707,7 @@
    "image_url": "https://mdb.ad-hoc-news.de/bild/bild-2847857_1200_675.webp",
    "image_kind": "photo",
    "breaking": false,
-   "rank": 24
+   "rank": 25
   },
   {
    "id": "c827455386fc6303",
@@ -703,7 +730,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 25
+   "rank": 26
   },
   {
    "id": "0c7b73dca9b9d0c3",
@@ -724,29 +751,6 @@
     "jewellery"
    ],
    "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/0c7b73dca9b9d0c3.jpg",
-   "image_kind": "photo",
-   "breaking": false,
-   "rank": 26
-  },
-  {
-   "id": "154a010a05a3f0b1",
-   "title": "Customs duty hike takes the shine off organised gold trade; smuggling rises",
-   "summary": "Gold smuggling rose to about 50 tonnes in July-September, more than 16 times the roughly 3 tonnes a year earlier and about 37% of India's 136-tonne total supply, after the import duty rise from 6% to 15%, World Gold Council demand data show. Official bullion imports fell 70% to 64 tonnes, and evading the duty on 1 kg of gold saved about Rs 18.3 lakh, or about Rs 22.5 lakh with GST avoided.",
-   "url": "https://www.business-standard.com/economy/news/customs-duty-hike-takes-the-shine-off-organised-gold-trade-smuggling-rises-126111000631_1.html",
-   "source": "Business Standard",
-   "source_domain": "business-standard.com",
-   "publisher_id": "business-standard",
-   "published_at": "2026-11-10T16:47:36Z",
-   "category": "policy",
-   "metals": [
-    "gold"
-   ],
-   "tags": [
-    "gold",
-    "india",
-    "import-duty"
-   ],
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/154a010a05a3f0b1.jpg",
    "image_kind": "photo",
    "breaking": false,
    "rank": 27
