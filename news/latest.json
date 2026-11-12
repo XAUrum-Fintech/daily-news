@@ -1,20 +1,20 @@
 {
  "schema": "orob-news.v1",
- "edition_id": "2026-11-12T05:00Z",
- "generated_at": "2026-11-12T05:07:53Z",
+ "edition_id": "2026-11-12T06:00Z",
+ "generated_at": "2026-11-12T06:17:30Z",
  "window": {
-  "from": "2026-11-12T03:00:00Z",
-  "to": "2026-11-12T05:00:00Z"
+  "from": "2026-11-12T05:00:00Z",
+  "to": "2026-11-12T06:00:00Z"
  },
  "insights": {
-  "headline": "Gold hits one-week low below $4,000 as dollar firms on Fed hike bets",
-  "summary": "Spot gold fell to $3,981.49 an ounce in early Asian trade on Thursday, its lowest since November 4, holding below $4,000 after Tuesday's near-3% slide on hot October US inflation. The dollar stayed near a one-month high with a December Fed hike fully priced, while silver eased to $51.40 an ounce. Indian ETF flows split in October — gold inflows fell 22% as silver inflows jumped 56% — and Delhi gold eased to Rs 1.45 lakh per 10 g. Goldman Sachs cut its end-2026 gold target to $4,150 from $4,650, citing the Fed's tighter stance.",
+  "headline": "MCX gold slips below Rs 1.4 lakh as spot gold hits one-week low",
+  "summary": "Spot gold fell to $3,981.49 an ounce in early Asian trade on Thursday, its lowest since November 4, holding below $4,000 after Tuesday's near-3% slide on hot October US inflation. MCX gold fell Rs 635 to Rs 1,39,081 per 10 g, below Rs 1.4 lakh, and silver slipped Rs 2,320 to Rs 1,82,205 per kg. Silver swung 3.4% in a session, between $51.44 and $53.19, while the dollar stayed near a one-month high with a December Fed hike fully priced. Indian ETF flows split in October — gold inflows fell 22% as silver inflows jumped 56% — and Goldman Sachs cut its end-2026 gold target to $4,150 from $4,650.",
   "points": [
    "Spot gold fell to $3,981.49 an ounce, its lowest since November 4, holding below $4,000 after Tuesday's near-3% slide.",
+   "MCX gold fell Rs 635 to Rs 1,39,081 per 10 g, below Rs 1.4 lakh; silver slipped Rs 2,320 to Rs 1,82,205 per kg.",
+   "Silver swung 3.4% in a session, between $51.44 and $53.19, trading near $51.56 late in US hours.",
    "Dollar index near 102.85-102.90, a one-month high, with a December Fed hike priced at 100%.",
-   "Silver near $51.40 an ounce; MCX silver had jumped Rs 4,147 per kg in Wednesday's rebound.",
-   "Indian precious-metals ETFs drew Rs 6,566 crore in October; gold inflows fell 22%, silver inflows rose 56%.",
-   "Goldman Sachs cut its end-2026 gold forecast to $4,150 from $4,650; US jobless claims come tonight and October producer prices on Friday."
+   "Indian precious-metals ETFs drew Rs 6,566 crore in October; gold inflows fell 22%, silver inflows rose 56%."
   ],
   "brief": {
    "schema": "orob-brief.v1",
@@ -51,9 +51,10 @@
  "trending": [
   {
    "title": "Fed hike bets sink gold below $4,000",
-   "summary": "Hot October CPI and hawkish Fed remarks pushed the dollar to a one-month high, dragging spot gold under $4,000 after Tuesday's near-3% slide, with a December hike fully priced.",
+   "summary": "Hot October CPI and hawkish Fed remarks pushed the dollar to a one-month high, dragging spot gold under $4,000 after Tuesday's near-3% slide; MCX gold slipped below Rs 1.4 lakh.",
    "item_ids": [
     "2bb724b346d5e0ed",
+    "0537bfe4f89db79a",
     "312a17e7c22bc7f4",
     "21e3d6a019c7f10a",
     "0669fb08fa3f0880"
@@ -69,8 +70,9 @@
   },
   {
    "title": "Silver's wild ride: rebound, then retreat",
-   "summary": "Silver swung from a $53.03 rebound to $51.40 as Fed hike bets hardened; MCX silver had jumped Rs 4,147 per kg on Wednesday before Delhi silver tumbled Rs 5,000.",
+   "summary": "Silver swung 3.4% in a session, between $51.44 and $53.19, before settling near $51.56; MCX silver had jumped Rs 4,147 per kg on Wednesday before Delhi silver tumbled Rs 5,000.",
    "item_ids": [
+    "8d54c8a9b3c73c54",
     "0eea204d144f86f6",
     "161ce66814c9ba4a",
     "312a17e7c22bc7f4"
@@ -117,6 +119,33 @@
    "rank": 1
   },
   {
+   "id": "0537bfe4f89db79a",
+   "title": "Gold prices drop below Rs 1.4 lakh/10g, silver falls Rs 2,320/kg on MCX on firm dollar, Fed hike bets",
+   "summary": "MCX gold futures for December fell Rs 635 to Rs 1,39,081 per 10 g, below Rs 1.4 lakh, while silver futures fell about 1.3%, or Rs 2,320, to Rs 1,82,205 per kg, as a firm dollar and rising Fed hike bets pressured bullion. Spot gold held near $3,981.49 an ounce, its lowest since November 4. Delhi 24-carat gold was quoted at Rs 1,39,950 per 10 g.",
+   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-drop-below-rs-1-4-lakh/10g-silver-jumps-by-rs-2300/kg-on-mcx-on-firm-dollar-fed-rate-hike-bets-check-rates-in-your-city/articleshow/135755752.cms",
+   "source": "Economic Times",
+   "source_domain": "economictimes.indiatimes.com",
+   "publisher_id": "economic-times",
+   "published_at": "2026-11-12T04:52:00Z",
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "tags": [
+    "gold",
+    "silver",
+    "mcx"
+   ],
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/0537bfe4f89db79a.jpg",
+   "image_kind": "photo",
+   "breaking": false,
+   "rank": 2,
+   "related_urls": [
+    "https://www.thedailyjagran.com/lite/business/news/bullion-rate-slump-gold-slides-below-rs-1-39-lakh-silver-declines-rs-2600-24k-22k-gold-rates-10336008"
+   ]
+  },
+  {
    "id": "312a17e7c22bc7f4",
    "title": "Gold slips as strong US inflation data bolsters dollar, Fed hike expectations",
    "summary": "Gold edged lower in early Asian trade on Thursday, with spot gold down 0.2% at $3,979.09 an ounce and December futures at $3,984.50, after hotter-than-expected October US inflation and hawkish Fed remarks lifted the dollar to near a one-month high. Traders price a December rate rise at 100%, while silver fell 0.6% to $51.40 an ounce.",
@@ -139,7 +168,7 @@
    "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/312a17e7c22bc7f4.jpg",
    "image_kind": "photo",
    "breaking": false,
-   "rank": 2
+   "rank": 3
   },
   {
    "id": "21e3d6a019c7f10a",
@@ -164,7 +193,7 @@
    "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/21e3d6a019c7f10a.jpg",
    "image_kind": "photo",
    "breaking": false,
-   "rank": 3
+   "rank": 4
   },
   {
    "id": "02d7b95b931f9f77",
@@ -188,32 +217,30 @@
    "image_url": "https://mdb.ad-hoc-news.de/bild/bild-2847857_1200_675.webp",
    "image_kind": "photo",
    "breaking": false,
-   "rank": 4
+   "rank": 5
   },
   {
-   "id": "20c8cba929d2cb96",
-   "title": "Dollar near one-month high as yen edges toward 160",
-   "summary": "The dollar index rose 0.63% to 102.85, its highest since October 14, holding near a one-month high in early Asian trade as growing expectations of a Fed rate hike supported the greenback, while the yen edged toward 160 per dollar.",
-   "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-near-one-month-high-as-yen-edges-toward-160/articleshow/135751707.cms",
-   "source": "Economic Times",
-   "source_domain": "economictimes.indiatimes.com",
-   "publisher_id": "economic-times",
-   "published_at": "2026-11-12T00:49:00Z",
+   "id": "8d54c8a9b3c73c54",
+   "title": "A 3.4% Swing in a Single Session: Silver Whipsaws on Fed Fears, with Fresnillo (LSE:FRES) and Pan American Silver (TSX:PAAS) Watching",
+   "summary": "Silver swung 3.4% in a single session, between $51.44 and $53.19, as traders repriced Fed hike odds after hot US inflation; December COMEX silver had settled near $51.23 on Tuesday before rebounding. Shares of miners Fresnillo and Pan American Silver tracked the metal, and Indian silver demand rose 10% year on year over Dhanteras-Diwali.",
+   "url": "https://kalkine.com.au/news/commodities/a-34-swing-in-a-single-session-silver-whipsaws-on-fed-fears-with-fresnillo-lsefres-and-pan-american-silver-tsxpaas-watching",
+   "source": "Kalkine",
+   "source_domain": "kalkine.com.au",
+   "publisher_id": "kalkine",
+   "published_at": "2026-11-12T05:40:00Z",
    "category": "global",
    "metals": [
-    "gold",
     "silver"
    ],
    "tags": [
-    "gold",
     "silver",
-    "fed",
-    "global"
+    "global",
+    "fed"
    ],
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/20c8cba929d2cb96.jpg",
-   "image_kind": "photo",
+   "image_url": null,
+   "image_kind": "none",
    "breaking": false,
-   "rank": 5
+   "rank": 6
   },
   {
    "id": "cb424b51df43cc48",
@@ -238,10 +265,10 @@
    "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/cb424b51df43cc48.jpg",
    "image_kind": "photo",
    "breaking": false,
+   "rank": 7,
    "related_urls": [
     "https://www.reuters.com/business/indias-gold-etf-inflows-drop-22-october-fund-houses-halt-bulk-subscriptions-2026-11-11/"
-   ],
-   "rank": 6
+   ]
   },
   {
    "id": "0669fb08fa3f0880",
@@ -252,8 +279,6 @@
    "source_domain": "livemint.com",
    "publisher_id": "mint",
    "published_at": "2026-11-10T19:11:39Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/0669fb08fa3f0880.jpg",
-   "image_kind": "photo",
    "category": "global",
    "metals": [
     "gold",
@@ -265,13 +290,15 @@
     "fed",
     "global"
    ],
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/0669fb08fa3f0880.jpg",
+   "image_kind": "photo",
    "breaking": true,
+   "rank": 8,
    "related_urls": [
     "https://www.fxstreet.com/news/gold-crashes-toward-4-000-as-hot-us-inflation-sends-treasury-yields-above-5-202611101815",
     "https://www.kitco.com/news/article/2026-11-10/gold-silver-plunge-hotter-us-inflation-raises-prospect-larger-fed-rate-hike",
     "https://www.bullionvault.co.uk/gold-news/gold-price-news/gold-silver-inflation-fed-hike-111020261"
-   ],
-   "rank": 7
+   ]
   },
   {
    "id": "714d00170768e918",
@@ -296,7 +323,7 @@
    "image_url": null,
    "image_kind": "none",
    "breaking": false,
-   "rank": 8
+   "rank": 9
   },
   {
    "id": "bd147c6d3577c214",
@@ -307,19 +334,19 @@
    "source_domain": "livemint.com",
    "publisher_id": "mint",
    "published_at": "2026-11-11T21:10:00Z",
-   "image_url": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
-   "image_kind": "photo",
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
    "tags": [
     "gold",
     "global",
     "fed"
    ],
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
+   "image_url": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+   "image_kind": "photo",
    "breaking": false,
-   "rank": 9
+   "rank": 10
   },
   {
    "id": "54dfaf82d699d904",
@@ -330,19 +357,19 @@
    "source_domain": "moneycontrol.com",
    "publisher_id": "moneycontrol",
    "published_at": "2026-11-11T12:12:00Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/54dfaf82d699d904.jpg",
-   "image_kind": "photo",
+   "category": "mcx",
+   "metals": [
+    "gold"
+   ],
    "tags": [
     "gold",
     "mcx",
     "india"
    ],
-   "category": "mcx",
-   "metals": [
-    "gold"
-   ],
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/54dfaf82d699d904.jpg",
+   "image_kind": "photo",
    "breaking": false,
-   "rank": 10
+   "rank": 11
   },
   {
    "id": "161ce66814c9ba4a",
@@ -353,21 +380,21 @@
    "source_domain": "deccanherald.com",
    "publisher_id": "deccan-herald",
    "published_at": "2026-11-11T12:36:00Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/161ce66814c9ba4a.jpg",
-   "image_kind": "photo",
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
    "tags": [
     "gold",
     "silver",
     "mcx",
     "india"
    ],
-   "category": "mcx",
-   "metals": [
-    "gold",
-    "silver"
-   ],
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/161ce66814c9ba4a.jpg",
+   "image_kind": "photo",
    "breaking": false,
-   "rank": 11
+   "rank": 12
   },
   {
    "id": "0eea204d144f86f6",
@@ -378,24 +405,24 @@
    "source_domain": "zeebiz.com",
    "publisher_id": "zee-business",
    "published_at": "2026-11-11T05:44:00Z",
-   "image_url": null,
-   "image_kind": "none",
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
    "tags": [
     "gold",
     "silver",
     "mcx",
     "india"
    ],
-   "category": "mcx",
-   "metals": [
-    "gold",
-    "silver"
-   ],
+   "image_url": null,
+   "image_kind": "none",
    "breaking": false,
+   "rank": 13,
    "related_urls": [
     "https://www.reuters.com/world/india/gold-edges-higher-after-sharp-selloff-fed-hike-bets-weigh-2026-11-11/"
-   ],
-   "rank": 12
+   ]
   },
   {
    "id": "0c7b73dca9b9d0c3",
@@ -406,19 +433,19 @@
    "source_domain": "businessoutreach.in",
    "publisher_id": "business-outreach",
    "published_at": "2026-11-11T08:14:00Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/0c7b73dca9b9d0c3.jpg",
-   "image_kind": "photo",
+   "category": "mcx",
+   "metals": [
+    "gold"
+   ],
    "tags": [
     "gold",
     "india",
     "jewellery"
    ],
-   "category": "mcx",
-   "metals": [
-    "gold"
-   ],
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/0c7b73dca9b9d0c3.jpg",
+   "image_kind": "photo",
    "breaking": false,
-   "rank": 13
+   "rank": 14
   },
   {
    "id": "154a010a05a3f0b1",
@@ -429,8 +456,6 @@
    "source_domain": "business-standard.com",
    "publisher_id": "business-standard",
    "published_at": "2026-11-10T16:47:36Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/154a010a05a3f0b1.jpg",
-   "image_kind": "photo",
    "category": "policy",
    "metals": [
     "gold"
@@ -440,8 +465,10 @@
     "india",
     "import-duty"
    ],
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/154a010a05a3f0b1.jpg",
+   "image_kind": "photo",
    "breaking": false,
-   "rank": 14
+   "rank": 15
   },
   {
    "id": "3bb0aa94fd55bbb5",
@@ -452,18 +479,18 @@
    "source_domain": "rediff.com",
    "publisher_id": "rediff",
    "published_at": "2026-11-11T12:24:00Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/3bb0aa94fd55bbb5.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "india"
-   ],
    "category": "policy",
    "metals": [
     "gold"
    ],
+   "tags": [
+    "gold",
+    "india"
+   ],
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/3bb0aa94fd55bbb5.jpg",
+   "image_kind": "photo",
    "breaking": false,
-   "rank": 15
+   "rank": 16
   },
   {
    "id": "d1238114479b934c",
@@ -486,7 +513,7 @@
    "image_url": null,
    "image_kind": "none",
    "breaking": false,
-   "rank": 16
+   "rank": 17
   }
  ]
 }
