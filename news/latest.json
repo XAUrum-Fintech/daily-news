@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-12T11:00Z",
-  "generated_at": "2026-11-12T11:10:23Z",
+  "edition_id": "2026-11-12T12:00Z",
+  "generated_at": "2026-11-12T12:07:27Z",
   "window": {
-    "from": "2026-11-12T10:00:00Z",
-    "to": "2026-11-12T11:00:00Z"
+    "from": "2026-11-12T11:00:00Z",
+    "to": "2026-11-12T12:00:00Z"
   },
   "insights": {
     "headline": "MCX gold slides to Rs 1,37,755 as hike bets hit 100% and rupee offers no relief",
@@ -55,7 +55,7 @@
       "title": "Fed hike bets keep gold pinned below $4,000",
       "summary": "October US inflation and hawkish Fed remarks have traders fully pricing a December rise, lifting the dollar and yields and keeping spot gold under $4,000 for a third day; $4,150 now caps recoveries.",
       "item_ids": [
-        "70c144ea7430a4ef",
+        "405b79fabf3af04d",
         "70c144ea7430a4ef",
         "a6f47272fc213841",
         "2bb724b346d5e0ed",
@@ -70,8 +70,7 @@
       "title": "MCX slides ahead of India's inflation data",
       "summary": "MCX gold fell below Rs 1.39 lakh per 10 g and silver slipped over Rs 2,300 per kg as traders await India's October retail inflation data due later today.",
       "item_ids": [
-        "70c144ea7430a4ef",
-        "4661040c6225a0e6",
+        "405b79fabf3af04d",
         "70c144ea7430a4ef",
         "4661040c6225a0e6",
         "1ec87d1316b7d841",
@@ -97,9 +96,43 @@
         "b43e0dfb2837ea53",
         "02d7b95b931f9f77"
       ]
+    },
+    {
+      "title": "Festive demand rebounds as prices correct",
+      "summary": "Gold buying rose 30% by volume over Dhanteras-Diwali as prices corrected from about Rs 1.8 lakh, with 52 tonnes worth Rs 72,000 crore sold; silver buying rose 10% ahead of the wedding season.",
+      "item_ids": [
+        "3e7f3330527b7771",
+        "0c7b73dca9b9d0c3"
+      ]
     }
   ],
   "items": [
+    {
+      "id": "405b79fabf3af04d",
+      "rank": 1,
+      "title": "Gold falls below ₹1.39 lakh per 10 grams, silver drops 1.3%: What’s driving the latest correction",
+      "summary": "MCX gold slipped below ₹1.39 lakh per 10 g and silver fell 1.3% in the latest session, with December gold around ₹1,38,599 and silver near ₹1,82,110 per kg. CNBC-TV18 puts the slide down to a dollar at a 19-month high and traders fully pricing a December Fed rate rise after hot US inflation data.",
+      "url": "https://www.cnbctv18.com/market/commodities/gold-falls-silver-drops-1-3-pc-india-mcx-what-driving-the-correction-20032615.htm",
+      "source": "CNBC-TV18",
+      "source_domain": "cnbctv18.com",
+      "publisher_id": "cnbc-tv18",
+      "published_at": "2026-11-12T11:16:53Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/405b79fabf3af04d.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "fed",
+        "rupee"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false
+    },
     {
       "id": "70c144ea7430a4ef",
       "title": "Gold, silver slide in India as Fed rate hike bets hit 100%, rupee offers little relief",
@@ -124,7 +157,7 @@
         "rupee"
       ],
       "breaking": false,
-      "rank": 1
+      "rank": 2
     },
     {
       "id": "a6f47272fc213841",
@@ -148,7 +181,7 @@
         "gold",
         "silver"
       ],
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "2bb724b346d5e0ed",
@@ -171,7 +204,32 @@
       "image_url": null,
       "image_kind": "none",
       "breaking": false,
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "id": "3e7f3330527b7771",
+      "rank": 5,
+      "title": "Gold purchases rose 30% as prices fell 21%: 52 tonnes of gold worth ₹72,000 crore sold during Diwali-Dhanteras; silver purchases also rose 10%",
+      "summary": "Gold buying rose 30% by volume during Dhanteras and Diwali compared with last year, the India Bullion and Jewellers Association says, with about 52 tonnes worth ₹72,000 crore sold and silver purchases up 10% to 300 tonnes worth ₹5,400 crore. The rebound followed a price correction from about ₹1.8 lakh to ₹1.42 lakh per 10 g, with jewellers also citing advance wedding-season buying.",
+      "url": "https://www.bhaskarenglish.in/business/news/india-diwali-dhanteras-gold-silver-sales-price-drop-data-139665087.html",
+      "source": "Bhaskar English",
+      "source_domain": "bhaskarenglish.in",
+      "publisher_id": "bhaskar-english",
+      "published_at": "2026-11-12T11:32:26Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/3e7f3330527b7771.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "india",
+        "jewellery"
+      ],
+      "category": "festive",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false
     },
     {
       "id": "4661040c6225a0e6",
@@ -196,7 +254,7 @@
         "fed"
       ],
       "breaking": false,
-      "rank": 4
+      "rank": 6
     },
     {
       "id": "b43e0dfb2837ea53",
@@ -220,7 +278,31 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/b43e0dfb2837ea53.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 5
+      "rank": 7
+    },
+    {
+      "id": "a4324c2c6de1e811",
+      "rank": 8,
+      "title": "Gold under the pump as dollar sensitivity surges",
+      "summary": "Gold’s sensitivity to the dollar is near historical extremes, FOREX.com’s StoneX analysis finds: the 252-session beta to the dollar index is -2.47, in the 99th percentile since 1976, and gold has been about 5.42 times as volatile as the dollar. Tuesday’s 2.61% slide came as the two-year Treasury yield jumped 18 basis points, the largest single-session rise of 2026.",
+      "url": "https://www.forex.com/en-us/news-and-analysis/gold-under-the-pump-as-dollar-sensitivity-surges/",
+      "source": "FOREX.com",
+      "source_domain": "forex.com",
+      "publisher_id": "forex",
+      "published_at": "2026-11-12T01:35:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "fed",
+        "global",
+        "comex"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false
     },
     {
       "id": "1ec87d1316b7d841",
@@ -244,7 +326,7 @@
         "gold",
         "silver"
       ],
-      "rank": 6
+      "rank": 9
     },
     {
       "id": "0537bfe4f89db79a",
@@ -268,7 +350,7 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/0537bfe4f89db79a.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 7,
+      "rank": 10,
       "related_urls": [
         "https://www.thedailyjagran.com/lite/business/news/bullion-rate-slump-gold-slides-below-rs-1-39-lakh-silver-declines-rs-2600-24k-22k-gold-rates-10336008"
       ]
@@ -294,7 +376,7 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/40d685f77bf1bf7f.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 8
+      "rank": 11
     },
     {
       "id": "2e6d8cc510e3464d",
@@ -320,7 +402,7 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/2e6d8cc510e3464d.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 9
+      "rank": 12
     },
     {
       "id": "21e3d6a019c7f10a",
@@ -345,11 +427,11 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/21e3d6a019c7f10a.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 10
+      "rank": 13
     },
     {
       "id": "08a89fe329e2172f",
-      "rank": 11,
+      "rank": 14,
       "title": "What's Gold price future in India? Will it touch ₹1.50 lakh per 10 grams again by December 2026? Experts' view",
       "summary": "Experts are split on whether MCX gold can return to Rs 1.50 lakh per 10 g by December. Kotak Neo's Kaynat Chainwala says it needs an 8% rise and a spot break above $4,220 an ounce; Choice Broking's Kaveri More calls it achievable above Rs 1,42,800-1,46,100. SEBI-registered analyst Anuj Gupta is cautious, warning of more selling if the Fed hikes 50 basis points and flagging $3,800 as key support.",
       "url": "https://www.livemint.com/market/commodities/whats-gold-price-future-in-india-will-it-touch-1-50-lakh-per-10-grams-again-by-december-2026-experts-view-11794468408702.html",
@@ -395,7 +477,7 @@
       "image_url": "https://mdb.ad-hoc-news.de/bild/bild-2847857_1200_675.webp",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 12
+      "rank": 15
     },
     {
       "id": "ec0d9dd476e53716",
@@ -417,7 +499,7 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/ec0d9dd476e53716.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 13
+      "rank": 16
     },
     {
       "id": "8d54c8a9b3c73c54",
@@ -440,7 +522,7 @@
       "image_url": null,
       "image_kind": "none",
       "breaking": false,
-      "rank": 14
+      "rank": 17
     },
     {
       "id": "cb424b51df43cc48",
@@ -465,7 +547,7 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/cb424b51df43cc48.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 15,
+      "rank": 18,
       "related_urls": [
         "https://www.reuters.com/business/indias-gold-etf-inflows-drop-22-october-fund-houses-halt-bulk-subscriptions-2026-11-11/"
       ]
@@ -491,7 +573,7 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/54dfaf82d699d904.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 16
+      "rank": 19
     },
     {
       "id": "0c7b73dca9b9d0c3",
@@ -514,7 +596,7 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/0c7b73dca9b9d0c3.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 17
+      "rank": 20
     },
     {
       "id": "161ce66814c9ba4a",
@@ -539,7 +621,7 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/161ce66814c9ba4a.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 18
+      "rank": 21
     },
     {
       "id": "154a010a05a3f0b1",
@@ -562,7 +644,7 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/154a010a05a3f0b1.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 19
+      "rank": 22
     },
     {
       "id": "3bb0aa94fd55bbb5",
@@ -584,7 +666,7 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/3bb0aa94fd55bbb5.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 20
+      "rank": 23
     }
   ]
 }
