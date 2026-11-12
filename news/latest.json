@@ -1,60 +1,29 @@
 {
  "schema": "orob-news.v1",
- "edition_id": "2026-11-12T18:00Z",
- "generated_at": "2026-11-12T18:08:05Z",
+ "edition_id": "2026-11-12T20:00Z",
+ "generated_at": "2026-11-12T20:08:20Z",
  "window": {
-  "from": "2026-11-12T16:00:00Z",
-  "to": "2026-11-12T18:00:00Z"
+  "from": "2026-11-12T18:00:00Z",
+  "to": "2026-11-12T20:00:00Z"
  },
  "insights": {
-  "headline": "Gold slides below $3,900 to about $3,865 as weak US home sales deepen the rout",
-  "summary": "Spot gold fell to about $3,865 an ounce, down more than 3% on the day, after US existing-home sales fell 5.5% to 3.75 million in October and jobless claims rose to 200,000. MCX gold held about Rs 1.38 lakh per 10 g and silver near Rs 1.81 lakh per kg as the dollar stayed near a 19-month high and traders priced a December Fed hike. India's October CPI rose to 6.09%, breaching the RBI's 6% limit, while Friday's US producer prices at 19:00 IST are the next test for bullion.",
+  "headline": "Gold hits lowest since October 2025 as Iran hopes fade and Fed hike bets harden",
+  "summary": "Spot gold fell about 3% to $3,881 an ounce, its lowest since October 2025, with silver down 3% to $50.12, after Donald Trump said the US does not need a deal with Iran, lifting oil and fanning inflation fears. MCX gold held about Rs 1.38 lakh per 10 g and silver near Rs 1.82 lakh per kg as the dollar stayed near a 19-month high and traders priced an 87% chance of a December Fed hike. India's October CPI rose to 6.09%, breaching the RBI's 6% limit, while Friday's US producer prices at 19:00 IST are the next test for bullion.",
   "points": [
-   "Spot gold fell to about $3,865 an ounce, down 3.08% on the day, after US existing-home sales fell 5.5% to 3.75 million in October.",
-   "US jobless claims rose to 200,000, and traders put 88-91% odds on a 25-basis-point Fed hike in December.",
-   "The 10-year real yield rose to 2.78% after October CPI rose 0.4% month on month and core CPI 0.3%.",
-   "Silver slid 3% to about $50.15 an ounce, while MCX gold held about Rs 1.38 lakh per 10 g and silver near Rs 1.81 lakh per kg.",
-   "India's October CPI rose to 6.09% from 5.54%, above the RBI's 6% limit, with food inflation at 8.94%."
+   "Spot gold fell about 3% to $3,881 an ounce, its lowest since October 2025, with December futures settling 2.9% lower at $3,885.30.",
+   "Silver slid 3% to $50.12 an ounce after touching its lowest since 4 November, as the dollar held near a 19-month high.",
+   "MCX gold held about Rs 1.38 lakh per 10 g and silver near Rs 1.82 lakh per kg, with India's October CPI at 6.09% breaching the RBI's 6% limit.",
+   "Traders see an 87% chance of a December Fed hike, with US producer prices due Friday at 19:00 IST the next test for bullion.",
+   "Central banks bought 321 tonnes in the September quarter and ETF holdings hit a record 4,256 tonnes, even as managed-money longs fell to a 21-week low."
   ],
-  "brief": {
-   "schema": "orob-brief.v1",
-   "brief_id": "2026-11-12-1845",
-   "date": "2026-11-12",
-   "generated_at": "2026-11-12T13:15:27Z",
-   "slot": "evening",
-   "expires_at": "2026-11-12T18:29:00Z",
-   "headline": "Gold slides as Fed hike bets build and India CPI tops 6%",
-   "summary": "Spot gold held near $3,935, MCX gold about Rs 1.38 lakh per 10 g, as US and Indian inflation hardened rate-hike bets.",
-   "bullets": [
-    {
-     "text": "Reuters says hot US inflation left a December Fed hike fully priced, lifting the dollar to a 19-month high as gold fell a third day.",
-     "item_ids": [
-      "2bb724b346d5e0ed",
-      "d2ece576bdb45369"
-     ]
-    },
-    {
-     "text": "India's October CPI rose to 6.09%, above the RBI's 6% limit, strengthening December rate-rise bets; the rupee slipped.",
-     "item_ids": [
-      "a00aa158437cadf7",
-      "3db2bc0978bab5da"
-     ]
-    },
-    {
-     "text": "Watch Friday: US producer prices at 19:00 IST, ahead of the Fed's December 9 decision, with a hike now fully priced.",
-     "item_ids": [
-      "d2ece576bdb45369"
-     ]
-    }
-   ]
-  }
+  "brief": null
  },
  "trending": [
   {
-   "title": "Gold breaks below $3,900",
-   "summary": "Spot gold slid to about $3,865, down over 3% on the day, as weak US home sales and rising jobless claims hardened December Fed hike bets, with real yields up and the dollar near a 19-month high.",
+   "title": "Gold hits its lowest since October 2025",
+   "summary": "Spot gold slid about 3% to $3,881, its lowest since October 2025, as fading US-Iran deal hopes lifted oil and fanned inflation fears, with the dollar near a 19-month high.",
    "item_ids": [
-    "0e16c42704bbafde",
+    "6a2f464480864f8d",
     "558d32776497b7f2",
     "88f691e0dfd5e359",
     "d2ece576bdb45369",
@@ -100,25 +69,31 @@
  ],
  "items": [
   {
-   "id": "0e16c42704bbafde",
-   "title": "Spot gold slides to $3,864/oz after U.S. existing-home sales fall 5.5% to 3.75 million in October",
-   "summary": "Spot gold fell to $3,864.78 an ounce, down 3.08% on the day, after US existing-home sales fell 5.5% to a seasonally adjusted annual rate of 3.75 million in October, below the 3.85 million economists expected and the lowest since August 2010. The National Association of Realtors blamed mortgage rates at their highest since 2000, with sales down year on year in all four regions.",
-   "url": "https://www.kitco.com/news/article/2026-11-12/spot-gold-slides-3864oz-after-us-existing-home-sales-fall-55-375-million",
-   "source": "Kitco",
-   "source_domain": "kitco.com",
-   "publisher_id": "kitco",
-   "published_at": "2026-11-12T15:00:31Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/0e16c42704bbafde.jpg",
+   "id": "6a2f464480864f8d",
+   "title": "Gold drops to over one-year low as fading Middle East peace hopes fan inflation fears",
+   "summary": "Gold slid about 3% to $3,881 an ounce, its lowest since October 2025, with December futures settling 2.9% lower at $3,885.30 and silver down 3% to $50.12. Reuters reports Donald Trump saying the US does not need a deal with Iran quashed hopes of an end to the conflict, lifting oil and fanning inflation fears, while hot US inflation and a dollar near a 19-month high kept Fed hike bets near 87%.",
+   "url": "https://www.livemint.com/market/gold-drops-to-over-one-year-low-as-fading-middle-east-peace-hopes-fan-inflation-fears-11794511222562.html",
+   "source": "Mint",
+   "source_domain": "livemint.com",
+   "publisher_id": "mint",
+   "published_at": "2026-11-12T19:20:22Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/6a2f464480864f8d.jpg",
    "image_kind": "photo",
    "tags": [
     "gold",
-    "global"
+    "silver",
+    "global",
+    "fed"
    ],
    "category": "global",
    "metals": [
-    "gold"
+    "gold",
+    "silver"
    ],
    "breaking": false,
+   "related_urls": [
+    "https://www.kitco.com/news/article/2026-11-12/spot-gold-slides-3864oz-after-us-existing-home-sales-fall-55-375-million"
+   ],
    "rank": 1
   },
   {

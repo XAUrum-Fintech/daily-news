@@ -1,35 +1,25 @@
-# Gold & Silver for Indian buyers · 2026-11-12T18:00Z
+# Gold & Silver for Indian buyers · 2026-11-12T20:00Z
 
-> Gold slides below $3,900 to about $3,865 as weak US home sales deepen the rout
+> Gold hits lowest since October 2025 as Iran hopes fade and Fed hike bets harden
 
-Spot gold fell to about $3,865 an ounce, down more than 3% on the day, after US existing-home sales fell 5.5% to 3.75 million in October and jobless claims rose to 200,000. MCX gold held about Rs 1.38 lakh per 10 g and silver near Rs 1.81 lakh per kg as the dollar stayed near a 19-month high and traders priced a December Fed hike. India's October CPI rose to 6.09%, breaching the RBI's 6% limit, while Friday's US producer prices at 19:00 IST are the next test for bullion.
+Spot gold fell about 3% to $3,881 an ounce, its lowest since October 2025, with silver down 3% to $50.12, after Donald Trump said the US does not need a deal with Iran, lifting oil and fanning inflation fears. MCX gold held about Rs 1.38 lakh per 10 g and silver near Rs 1.82 lakh per kg as the dollar stayed near a 19-month high and traders priced an 87% chance of a December Fed hike. India's October CPI rose to 6.09%, breaching the RBI's 6% limit, while Friday's US producer prices at 19:00 IST are the next test for bullion.
 
-- Spot gold fell to about $3,865 an ounce, down 3.08% on the day, after US existing-home sales fell 5.5% to 3.75 million in October.
-- US jobless claims rose to 200,000, and traders put 88-91% odds on a 25-basis-point Fed hike in December.
-- The 10-year real yield rose to 2.78% after October CPI rose 0.4% month on month and core CPI 0.3%.
-- Silver slid 3% to about $50.15 an ounce, while MCX gold held about Rs 1.38 lakh per 10 g and silver near Rs 1.81 lakh per kg.
-- India's October CPI rose to 6.09% from 5.54%, above the RBI's 6% limit, with food inflation at 8.94%.
-
-## Today's brief
-
-**Gold slides as Fed hike bets build and India CPI tops 6%**
-
-Spot gold held near $3,935, MCX gold about Rs 1.38 lakh per 10 g, as US and Indian inflation hardened rate-hike bets.
-
-- Reuters says hot US inflation left a December Fed hike fully priced, lifting the dollar to a 19-month high as gold fell a third day.
-- India's October CPI rose to 6.09%, above the RBI's 6% limit, strengthening December rate-rise bets; the rupee slipped.
-- Watch Friday: US producer prices at 19:00 IST, ahead of the Fed's December 9 decision, with a hike now fully priced.
+- Spot gold fell about 3% to $3,881 an ounce, its lowest since October 2025, with December futures settling 2.9% lower at $3,885.30.
+- Silver slid 3% to $50.12 an ounce after touching its lowest since 4 November, as the dollar held near a 19-month high.
+- MCX gold held about Rs 1.38 lakh per 10 g and silver near Rs 1.82 lakh per kg, with India's October CPI at 6.09% breaching the RBI's 6% limit.
+- Traders see an 87% chance of a December Fed hike, with US producer prices due Friday at 19:00 IST the next test for bullion.
+- Central banks bought 321 tonnes in the September quarter and ETF holdings hit a record 4,256 tonnes, even as managed-money longs fell to a 21-week low.
 
 ## Trending
-- **Gold breaks below $3,900**: Spot gold slid to about $3,865, down over 3% on the day, as weak US home sales and rising jobless claims hardened December Fed hike bets, with real yields up and the dollar near a 19-month high. (stories 1, 4, 5, 7, 9, 3)
+- **Gold hits its lowest since October 2025**: Spot gold slid about 3% to $3,881, its lowest since October 2025, as fading US-Iran deal hopes lifted oil and fanned inflation fears, with the dollar near a 19-month high. (stories 1, 4, 5, 7, 9, 3)
 - **India's inflation breaches the RBI's 6% limit**: October CPI rose to 6.09% from 5.54%, the highest since October 2024, as food inflation hit 8.94%. The print strengthens the case for a rate rise at the RBI's December 2-4 meeting. (stories 6, 15)
 - **Momentum exits, strategic buyers stay**: Managed-money gold longs fell to a 21-week low as trend-following accounts sold, but central banks bought 321 tonnes in the September quarter and ETF holdings hit a record 4,256 tonnes. (stories 26, 22, 23)
 - **Diwali demand held up as prices fell**: Indians bought 30% more gold by volume during Diwali as prices fell 21% from their peak, spending about Rs 72,000 crore on 52 tonnes, while Titan says lower prices are lifting footfalls. (stories 21, 20)
 - **Silver tests $50 support**: Silver slid 3% to about $50.15 as rising real yields overshadowed supply deficits. Support sits at $50.44-$50.12, JP Morgan says positioning is light, and rallies stay capped below $55. (stories 16, 17, 18, 2)
 
 ## Stories
-1. [Spot gold slides to $3,864/oz after U.S. existing-home sales fall 5.5% to 3.75 million in October](https://www.kitco.com/news/article/2026-11-12/spot-gold-slides-3864oz-after-us-existing-home-sales-fall-55-375-million) — *Kitco*, 2026-11-12T15:00:31Z
-   Spot gold fell to $3,864.78 an ounce, down 3.08% on the day, after US existing-home sales fell 5.5% to a seasonally adjusted annual rate of 3.75 million in October, below the 3.85 million economists expected and the lowest since August 2010. The National Association of Realtors blamed mortgage rates at their highest since 2000, with sales down year on year in all four regions.
+1. [Gold drops to over one-year low as fading Middle East peace hopes fan inflation fears](https://www.livemint.com/market/gold-drops-to-over-one-year-low-as-fading-middle-east-peace-hopes-fan-inflation-fears-11794511222562.html) — *Mint*, 2026-11-12T19:20:22Z
+   Gold slid about 3% to $3,881 an ounce, its lowest since October 2025, with December futures settling 2.9% lower at $3,885.30 and silver down 3% to $50.12. Reuters reports Donald Trump saying the US does not need a deal with Iran quashed hopes of an end to the conflict, lifting oil and fanning inflation fears, while hot US inflation and a dollar near a 19-month high kept Fed hike bets near 87%.
 2. [Silver tumbles over 3% as hot US inflation boosts Fed hike bets](https://www.fxstreet.com/news/silver-tumbles-over-3-as-fed-rate-hike-bets-fuel-us-dollar-rally-202611121711) — *FXStreet*, 2026-11-12T17:11:58Z
    Silver fell 3% on Thursday to about $50.15 an ounce as the dollar index neared 103.10, its highest since April 2025, and traders fully priced a December Fed rate rise. Core US CPI rose 0.3% in October, above forecasts, and hawkish remarks from Fed officials including Christopher Waller and Beth Hammack weighed on the metal; traders now await Friday's US producer price data.
 3. [India Bullion: Down as dollar hits 19-month high; hawkish Fed also weighs](https://informistmedia.com/CommodityWire/64676/India-Bullion-Down-as-dollar-hits-19-month-high-hawkish-Fed-also-weighs) — *Informist Media*, 2026-11-12T15:16:21Z
