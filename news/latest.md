@@ -1,4 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-11-12T02:00Z
+# Gold & Silver for Indian buyers · 2026-11-12T03:00Z
 
 > Gold slips below $4,000 as dollar hits one-month high on Fed hike bets
 
@@ -55,3 +55,5 @@ Spot gold fell to $3,979 an ounce and silver to $51.40 as hot US inflation lifte
    Gold smuggling rose to about 50 tonnes in July-September, more than 16 times the roughly 3 tonnes a year earlier and about 37% of India's 136-tonne total supply, after the import duty rise from 6% to 15%, World Gold Council demand data show. Official bullion imports fell 70% to 64 tonnes, and evading the duty on 1 kg of gold saved about Rs 18.3 lakh, or about Rs 22.5 lakh with GST avoided.
 14. [India Needs Better Gold Mining Evaluation: NITI Aayog CEO](https://money.rediff.com/news/market/india-needs-better-gold-mining-evaluation-niti-aayog-ceo/57899320261111) — *Rediff*, 2026-11-11T12:24:00Z
    NITI Aayog chief executive Anurag Jain called for a proper evaluation matrix for awarding gold exploration and mining projects, PTI reports, to build technical competence and cut India's import dependence. A meeting on the Pahle India Foundation report cited geological data gaps, limited exploration, long project timelines and auction design as hurdles.
+15. [Singapore's Central Bank Rolls Out Gold-Vaulting in Bid to Boost Hub's Appeal](https://www.morningstar.com/news/dow-jones/202611102116/singapores-central-bank-rolls-out-gold-vaulting-in-bid-to-boost-hubs-appeal) — *Morningstar*, 2026-11-10T08:09:00Z
+   Singapore's central bank has launched a gold-vaulting service for foreign central banks and sovereign entities, holding bullion in its national currency vault with capacity for up to 500 tonnes. MAS also plans a wider GST waiver for wholesale gold services from April 2027, and its OTC gold-clearing system starts live trading in early 2027.
