@@ -1,20 +1,20 @@
 {
  "schema": "orob-news.v1",
- "edition_id": "2026-11-12T14:00Z",
- "generated_at": "2026-11-12T14:21:16Z",
+ "edition_id": "2026-11-12T16:00Z",
+ "generated_at": "2026-11-12T16:15:53Z",
  "window": {
-  "from": "2026-11-12T12:00:00Z",
-  "to": "2026-11-12T14:00:00Z"
+  "from": "2026-11-12T14:00:00Z",
+  "to": "2026-11-12T16:00:00Z"
  },
  "insights": {
-  "headline": "Gold tests $3,900 as jobless claims rise; India's October CPI breaches 6%",
-  "summary": "Spot gold fell to about $3,904 an ounce, testing $3,900 after US weekly jobless claims rose to 200,000, while MCX gold held about Rs 1.38 lakh per 10 g. India's retail inflation rose to 6.09% in October, breaching the RBI's 6% limit and strengthening the case for a rate rise at the December 2-4 meeting, as hot US inflation left traders fully pricing a December Fed hike. Silver tracked gold lower, with MCX silver near Rs 1.81 lakh per kg, while central banks kept buying and gold ETF holdings stood at a record.",
+  "headline": "Gold slides below $3,900 to about $3,865 as weak US home sales deepen the rout",
+  "summary": "Spot gold fell to about $3,865 an ounce, down more than 3% on the day, after US existing-home sales fell 5.5% to 3.75 million in October and jobless claims rose to 200,000. MCX gold held about Rs 1.38 lakh per 10 g and silver near Rs 1.81 lakh per kg as the dollar stayed near a 19-month high and traders priced a December Fed hike. India's October CPI rose to 6.09%, breaching the RBI's 6% limit, while Friday's US producer prices at 19:00 IST are the next test for bullion.",
   "points": [
-   "Spot gold fell to about $3,904 an ounce, down over 2% on the day, after US weekly jobless claims rose to 200,000.",
-   "MCX gold traded about Rs 1.38 lakh per 10 g and silver near Rs 1.81 lakh per kg after a third day of falls.",
-   "India's October CPI rose to 6.09% from 5.54%, above the RBI's 6% limit, with food inflation at 8.94%.",
-   "The dollar index hit a 19-month high of 103.08 as traders fully priced a December Fed hike.",
-   "Central banks bought 321 tonnes in the September quarter, up 42% on the year; gold ETF holdings hit a record 4,256 tonnes."
+   "Spot gold fell to about $3,865 an ounce, down 3.08% on the day, after US existing-home sales fell 5.5% to 3.75 million in October.",
+   "US jobless claims rose to 200,000, and traders put 88-91% odds on a 25-basis-point Fed hike in December.",
+   "The 10-year real yield rose to 2.78% after October CPI rose 0.4% month on month and core CPI 0.3%.",
+   "MCX gold traded about Rs 1.38 lakh per 10 g and silver near Rs 1.81 lakh per kg.",
+   "India's October CPI rose to 6.09% from 5.54%, above the RBI's 6% limit, with food inflation at 8.94%."
   ],
   "brief": {
    "schema": "orob-brief.v1",
@@ -51,13 +51,14 @@
  },
  "trending": [
   {
-   "title": "Fed hike bets hammer bullion",
-   "summary": "Hot October US inflation left traders fully pricing a December Fed hike, lifting the dollar to a 19-month high. Gold fell below $4,000 a third day, testing $3,900 after jobless claims rose to 200,000.",
+   "title": "Gold breaks below $3,900",
+   "summary": "Spot gold slid to about $3,865, down over 3% on the day, as weak US home sales and rising jobless claims hardened December Fed hike bets, with real yields up and the dollar near a 19-month high.",
    "item_ids": [
-    "9469a376da8c53e3",
+    "0e16c42704bbafde",
+    "558d32776497b7f2",
+    "88f691e0dfd5e359",
     "d2ece576bdb45369",
-    "2bb724b346d5e0ed",
-    "a6f47272fc213841"
+    "2bb724b346d5e0ed"
    ]
   },
   {
@@ -86,17 +87,86 @@
    ]
   },
   {
-   "title": "Silver tests $50-52 support",
-   "summary": "Silver tracked gold lower, MCX silver near Rs 1.81 lakh per kg. Support sits at $51.22-$50.44, JP Morgan says positioning has turned light, and rising real yields cap rallies below $55.",
+   "title": "Silver tests $50 support",
+   "summary": "Silver fell to about $50.19, down 2.8%, as rising real yields overshadowed supply deficits. Support sits at $50.44-$50.12, JP Morgan says positioning is light, and rallies stay capped below $55.",
    "item_ids": [
     "40d685f77bf1bf7f",
     "05750765802d5710",
-    "bd23174ccc6a2e1e",
-    "ec0d9dd476e53716"
+    "bd23174ccc6a2e1e"
    ]
   }
  ],
  "items": [
+  {
+   "id": "0e16c42704bbafde",
+   "title": "Spot gold slides to $3,864/oz after U.S. existing-home sales fall 5.5% to 3.75 million in October",
+   "summary": "Spot gold fell to $3,864.78 an ounce, down 3.08% on the day, after US existing-home sales fell 5.5% to a seasonally adjusted annual rate of 3.75 million in October, below the 3.85 million economists expected and the lowest since August 2010. The National Association of Realtors blamed mortgage rates at their highest since 2000, with sales down year on year in all four regions.",
+   "url": "https://www.kitco.com/news/article/2026-11-12/spot-gold-slides-3864oz-after-us-existing-home-sales-fall-55-375-million",
+   "source": "Kitco",
+   "source_domain": "kitco.com",
+   "publisher_id": "kitco",
+   "published_at": "2026-11-12T15:00:31Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "gold",
+    "global"
+   ],
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "rank": 1
+  },
+  {
+   "id": "558d32776497b7f2",
+   "title": "Gold, silver extend losses as Fed hike bets lift dollar, Treasury yields",
+   "summary": "Spot gold fell to $3,890.46 an ounce, down 2.38%, and silver to $50.19, down 2.8%, as hot October inflation and rising jobless claims kept a December Fed hike in focus. Traders put 88-91% odds on a 25-basis-point rise at the December 8-9 meeting, the 10-year yield traded near 5.00% and the dollar held near 102.85 after a 19-month high. Friday's October producer prices are the next test.",
+   "url": "https://www.kitco.com/news/article/2026-11-12/gold-silver-extend-losses-fed-hike-bets-lift-dollar-treasury-yields-kitco",
+   "source": "Kitco",
+   "source_domain": "kitco.com",
+   "publisher_id": "kitco",
+   "published_at": "2026-11-12T13:59:41Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "gold",
+    "silver",
+    "global",
+    "fed"
+   ],
+   "category": "global",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "rank": 2
+  },
+  {
+   "id": "88f691e0dfd5e359",
+   "title": "Gold Faces Pressure as Real Yields Climb After October CPI Report",
+   "summary": "Gold faced a potential break below $3,900 as US real yields climbed after the October CPI report, FXEmpire's analysis says. The 5-year real yield rose to 2.56% and the 10-year to 2.78%, up from 2.35% and 2.63% the previous week, lifting the cost of holding non-yielding gold. October CPI rose 0.4% month on month and core CPI 0.3%; the BLS published no 12-month changes.",
+   "url": "https://www.fxempire.com/forecasts/article/gold-faces-pressure-as-real-yields-climb-after-october-cpi-report-1644236",
+   "source": "FXEmpire",
+   "source_domain": "fxempire.com",
+   "publisher_id": "fxempire",
+   "published_at": "2026-11-12T15:23:00Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "gold",
+    "global",
+    "fed"
+   ],
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "rank": 3
+  },
   {
    "id": "a00aa158437cadf7",
    "title": "India's retail inflation rises to 6.09% in October, breaches RBI limit",
@@ -120,30 +190,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 1
-  },
-  {
-   "id": "9469a376da8c53e3",
-   "title": "Gold price tests $3,900/oz after U.S. weekly jobless claims rise to 200k",
-   "summary": "Spot gold slid to about $3,904 an ounce, down more than 2% on the day, after US weekly jobless claims rose to 200,000 for the week to November 7, above the 195,000 consensus. The four-week average of claims rose to 195,250, keeping December Fed hike bets in focus ahead of Friday's producer price report.",
-   "url": "https://www.kitco.com/news/article/2026-11-12/gold-price-tests-3900oz-after-us-weekly-jobless-claims-rise-200k",
-   "source": "Kitco",
-   "source_domain": "kitco.com",
-   "publisher_id": "kitco",
-   "published_at": "2026-11-12T13:31:08Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/9469a376da8c53e3.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "global",
-    "fed"
-   ],
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "rank": 2
+   "rank": 4
   },
   {
    "id": "d2ece576bdb45369",
@@ -168,11 +215,11 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 3
+   "rank": 5
   },
   {
    "id": "405b79fabf3af04d",
-   "rank": 4,
+   "rank": 6,
    "title": "Gold falls below ₹1.39 lakh per 10 grams, silver drops 1.3%: What’s driving the latest correction",
    "summary": "MCX gold slipped below ₹1.39 lakh per 10 g and silver fell 1.3% in the latest session, with December gold around ₹1,38,599 and silver near ₹1,82,110 per kg. CNBC-TV18 puts the slide down to a dollar at a 19-month high and traders fully pricing a December Fed rate rise after hot US inflation data.",
    "url": "https://www.cnbctv18.com/market/commodities/gold-falls-silver-drops-1-3-pc-india-mcx-what-driving-the-correction-20032615.htm",
@@ -217,7 +264,7 @@
    "image_url": null,
    "image_kind": "none",
    "breaking": false,
-   "rank": 5
+   "rank": 7
   },
   {
    "id": "a6f47272fc213841",
@@ -241,7 +288,7 @@
     "gold",
     "silver"
    ],
-   "rank": 6
+   "rank": 8
   },
   {
    "id": "3e3452ea0249e898",
@@ -264,7 +311,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 7
+   "rank": 9
   },
   {
    "id": "70c144ea7430a4ef",
@@ -290,7 +337,7 @@
     "rupee"
    ],
    "breaking": false,
-   "rank": 8
+   "rank": 10
   },
   {
    "id": "4661040c6225a0e6",
@@ -315,7 +362,7 @@
     "fed"
    ],
    "breaking": false,
-   "rank": 9
+   "rank": 11
   },
   {
    "id": "0537bfe4f89db79a",
@@ -339,7 +386,7 @@
    "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/0537bfe4f89db79a.jpg",
    "image_kind": "photo",
    "breaking": false,
-   "rank": 10,
+   "rank": 12,
    "related_urls": [
     "https://www.thedailyjagran.com/lite/business/news/bullion-rate-slump-gold-slides-below-rs-1-39-lakh-silver-declines-rs-2600-24k-22k-gold-rates-10336008"
    ]
@@ -367,7 +414,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 11
+   "rank": 13
   },
   {
    "id": "40d685f77bf1bf7f",
@@ -390,7 +437,7 @@
    "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/40d685f77bf1bf7f.jpg",
    "image_kind": "photo",
    "breaking": false,
-   "rank": 12
+   "rank": 14
   },
   {
    "id": "05750765802d5710",
@@ -412,7 +459,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 13
+   "rank": 15
   },
   {
    "id": "bd23174ccc6a2e1e",
@@ -434,7 +481,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 14
+   "rank": 16
   },
   {
    "id": "2e6d8cc510e3464d",
@@ -460,7 +507,7 @@
    "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/2e6d8cc510e3464d.jpg",
    "image_kind": "photo",
    "breaking": false,
-   "rank": 15
+   "rank": 17
   },
   {
    "id": "524109ddeaa45561",
@@ -483,11 +530,11 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 16
+   "rank": 18
   },
   {
    "id": "3e7f3330527b7771",
-   "rank": 17,
+   "rank": 19,
    "title": "Gold purchases rose 30% as prices fell 21%: 52 tonnes of gold worth ₹72,000 crore sold during Diwali-Dhanteras; silver purchases also rose 10%",
    "summary": "Gold buying rose 30% by volume during Dhanteras and Diwali compared with last year, the India Bullion and Jewellers Association says, with about 52 tonnes worth ₹72,000 crore sold and silver purchases up 10% to 300 tonnes worth ₹5,400 crore. The rebound followed a price correction from about ₹1.8 lakh to ₹1.42 lakh per 10 g, with jewellers also citing advance wedding-season buying.",
    "url": "https://www.bhaskarenglish.in/business/news/india-diwali-dhanteras-gold-silver-sales-price-drop-data-139665087.html",
@@ -533,7 +580,7 @@
    "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/cb424b51df43cc48.jpg",
    "image_kind": "photo",
    "breaking": false,
-   "rank": 18,
+   "rank": 20,
    "related_urls": [
     "https://www.reuters.com/business/indias-gold-etf-inflows-drop-22-october-fund-houses-halt-bulk-subscriptions-2026-11-11/"
    ]
@@ -559,11 +606,11 @@
    "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/54dfaf82d699d904.jpg",
    "image_kind": "photo",
    "breaking": false,
-   "rank": 19
+   "rank": 21
   },
   {
    "id": "08a89fe329e2172f",
-   "rank": 20,
+   "rank": 22,
    "title": "What's Gold price future in India? Will it touch ₹1.50 lakh per 10 grams again by December 2026? Experts' view",
    "summary": "Experts are split on whether MCX gold can return to Rs 1.50 lakh per 10 g by December. Kotak Neo's Kaynat Chainwala says it needs an 8% rise and a spot break above $4,220 an ounce; Choice Broking's Kaveri More calls it achievable above Rs 1,42,800-1,46,100. SEBI-registered analyst Anuj Gupta is cautious, warning of more selling if the Fed hikes 50 basis points and flagging $3,800 as key support.",
    "url": "https://www.livemint.com/market/commodities/whats-gold-price-future-in-india-will-it-touch-1-50-lakh-per-10-grams-again-by-december-2026-experts-view-11794468408702.html",
@@ -589,7 +636,7 @@
   },
   {
    "id": "a4324c2c6de1e811",
-   "rank": 21,
+   "rank": 23,
    "title": "Gold under the pump as dollar sensitivity surges",
    "summary": "Gold’s sensitivity to the dollar is near historical extremes, FOREX.com’s StoneX analysis finds: the 252-session beta to the dollar index is -2.47, in the 99th percentile since 1976, and gold has been about 5.42 times as volatile as the dollar. Tuesday’s 2.61% slide came as the two-year Treasury yield jumped 18 basis points, the largest single-session rise of 2026.",
    "url": "https://www.forex.com/en-us/news-and-analysis/gold-under-the-pump-as-dollar-sensitivity-surges/",
@@ -610,52 +657,6 @@
     "gold"
    ],
    "breaking": false
-  },
-  {
-   "id": "1ec87d1316b7d841",
-   "title": "MCX gold falls 0.4% to Rs 1,39,160 ahead of India's October retail inflation data",
-   "summary": "MCX gold futures fell 0.4% to Rs 1,39,160 per 10 g and silver 0.77% to Rs 1,83,113 per kg ahead of India's October retail inflation data due later today. Spot gold was near $3,979 an ounce, its lowest since November 4, while 24-carat gold in most cities fell Rs 218 to Rs 1,39,800 per 10 g.",
-   "url": "https://www.analyticsinsight.net/business/gold/mcx-gold-falls-04-to-rs-139160-ahead-of-indias-october-retail-inflation-data-brent-at-usd-9175",
-   "source": "Analytics Insight",
-   "source_domain": "analyticsinsight.net",
-   "publisher_id": "analytics-insight",
-   "published_at": "2026-11-12T05:30:00Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/1ec87d1316b7d841.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "silver",
-    "mcx",
-    "india"
-   ],
-   "category": "mcx",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "rank": 22
-  },
-  {
-   "id": "ec0d9dd476e53716",
-   "title": "BMO says silver's solar boom is fading, investment demand unlikely to compensate",
-   "summary": "BMO Capital Markets says silver is losing its main growth driver as solar demand fades and panel makers use less silver per cell, lifting the gold-silver ratio structurally towards 85 from 76. BMO expects weakening solar demand to turn years of silver supply deficits into a record consumption surplus by 2030, with investment demand unlikely to absorb the excess.",
-   "url": "https://www.kitco.com/news/article/2026-11-11/bmo-says-silvers-solar-boom-fading-investment-demand-unlikely-compensate",
-   "source": "Kitco",
-   "source_domain": "kitco.com",
-   "publisher_id": "kitco",
-   "published_at": "2026-11-11T20:10:34Z",
-   "category": "global",
-   "metals": [
-    "silver"
-   ],
-   "tags": [
-    "silver",
-    "global"
-   ],
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/ec0d9dd476e53716.jpg",
-   "image_kind": "photo",
-   "breaking": false,
-   "rank": 23
   },
   {
    "id": "02d7b95b931f9f77",
@@ -705,31 +706,6 @@
    "rank": 25
   },
   {
-   "id": "161ce66814c9ba4a",
-   "title": "Gold falls Rs 800 to Rs 1.45 lakh/10gm in Delhi; silver tumbles Rs 5,000",
-   "summary": "Gold fell Rs 800 to Rs 1,45,600 per 10 g in Delhi and silver tumbled Rs 5,000 to Rs 1,87,500 per kg, PTI reports, as the physical market gave back ground after the morning's MCX rebound. Spot gold stood near $4,048 an ounce, with silver up about 3% at $52.86.",
-   "url": "https://www.deccanherald.com/business/markets/gold-falls-rs-800-to-rs-145-lakh10gm-in-delhi-silver-tumbles-rs-5000-4214933",
-   "source": "Deccan Herald",
-   "source_domain": "deccanherald.com",
-   "publisher_id": "deccan-herald",
-   "published_at": "2026-11-11T12:36:00Z",
-   "category": "mcx",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "tags": [
-    "gold",
-    "silver",
-    "mcx",
-    "india"
-   ],
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/161ce66814c9ba4a.jpg",
-   "image_kind": "photo",
-   "breaking": false,
-   "rank": 26
-  },
-  {
    "id": "0c7b73dca9b9d0c3",
    "title": "India Gold Demand 2026: Why Are Indians Buying Less Gold?",
    "summary": "India's gold demand fell 12% to 443.9 tonnes in January-September 2026, with jewellery demand down 18% to 241.1 tonnes, as record prices and the May import-duty hike curbed buying, Business Outreach reports from World Gold Council data. Full-year demand is estimated at about 650 tonnes, the lowest since 2020, while gold ETF inflows rose 47%.",
@@ -750,7 +726,7 @@
    "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/0c7b73dca9b9d0c3.jpg",
    "image_kind": "photo",
    "breaking": false,
-   "rank": 27
+   "rank": 26
   },
   {
    "id": "154a010a05a3f0b1",
@@ -773,7 +749,7 @@
    "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/154a010a05a3f0b1.jpg",
    "image_kind": "photo",
    "breaking": false,
-   "rank": 28
+   "rank": 27
   },
   {
    "id": "3bb0aa94fd55bbb5",
@@ -795,7 +771,7 @@
    "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/3bb0aa94fd55bbb5.jpg",
    "image_kind": "photo",
    "breaking": false,
-   "rank": 29
+   "rank": 28
   }
  ]
 }
