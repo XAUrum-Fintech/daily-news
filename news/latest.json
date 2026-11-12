@@ -1,20 +1,20 @@
 {
  "schema": "orob-news.v1",
- "edition_id": "2026-11-12T04:00Z",
- "generated_at": "2026-11-12T04:07:43Z",
+ "edition_id": "2026-11-12T05:00Z",
+ "generated_at": "2026-11-12T05:07:53Z",
  "window": {
-  "from": "2026-11-12T02:00:00Z",
-  "to": "2026-11-12T04:00:00Z"
+  "from": "2026-11-12T03:00:00Z",
+  "to": "2026-11-12T05:00:00Z"
  },
  "insights": {
   "headline": "Gold hits one-week low below $4,000 as dollar firms on Fed hike bets",
-  "summary": "Spot gold fell to $3,981.49 an ounce in early Asian trade on Thursday, its lowest since November 4, holding below $4,000 after Tuesday's near-3% slide on hot October US inflation. The dollar stayed near a one-month high with a December Fed hike fully priced, while silver eased to $51.40 an ounce. Indian ETF flows split in October — gold inflows fell 22% as silver inflows jumped 56% — and Delhi gold eased to Rs 1.45 lakh per 10 g.",
+  "summary": "Spot gold fell to $3,981.49 an ounce in early Asian trade on Thursday, its lowest since November 4, holding below $4,000 after Tuesday's near-3% slide on hot October US inflation. The dollar stayed near a one-month high with a December Fed hike fully priced, while silver eased to $51.40 an ounce. Indian ETF flows split in October — gold inflows fell 22% as silver inflows jumped 56% — and Delhi gold eased to Rs 1.45 lakh per 10 g. Goldman Sachs cut its end-2026 gold target to $4,150 from $4,650, citing the Fed's tighter stance.",
   "points": [
    "Spot gold fell to $3,981.49 an ounce, its lowest since November 4, holding below $4,000 after Tuesday's near-3% slide.",
    "Dollar index near 102.85-102.90, a one-month high, with a December Fed hike priced at 100%.",
    "Silver near $51.40 an ounce; MCX silver had jumped Rs 4,147 per kg in Wednesday's rebound.",
    "Indian precious-metals ETFs drew Rs 6,566 crore in October; gold inflows fell 22%, silver inflows rose 56%.",
-   "Thursday's US jobless claims and Friday's October producer prices are the next tests for Fed expectations."
+   "Goldman Sachs cut its end-2026 gold forecast to $4,150 from $4,650; US jobless claims come tonight and October producer prices on Friday."
   ],
   "brief": {
    "schema": "orob-brief.v1",
@@ -82,6 +82,13 @@
    "item_ids": [
     "154a010a05a3f0b1",
     "3bb0aa94fd55bbb5"
+   ]
+  },
+  {
+   "title": "Goldman cuts targets as central banks keep buying",
+   "summary": "Goldman Sachs cut its end-2026 gold target to $4,150 from $4,650 on a hawkish Fed, while China extended its buying streak to a 24th month and September buying hit 61 tonnes, the year's high.",
+   "item_ids": [
+    "02d7b95b931f9f77"
    ]
   }
  ],
@@ -160,6 +167,30 @@
    "rank": 3
   },
   {
+   "id": "02d7b95b931f9f77",
+   "title": "Goldman Trims Gold Targets as Central Bank Buying Collides With a Hawkish Fed",
+   "summary": "Goldman Sachs cut its year-end 2026 gold forecast to $4,150 an ounce from $4,650, and its end-2027 call to $4,800 from $5,400, citing the Federal Reserve's tighter stance. The bank still sees structural central-bank buying as long-term support: China added gold for a 24th straight month in October, and the World Gold Council put September net central-bank buying at 61 tonnes, the highest of 2026.",
+   "url": "https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/goldman-trims-gold-targets-as-central-bank-buying-collides-with-a-hawkish-fed/70494896",
+   "source": "ad-hoc-news",
+   "source_domain": "ad-hoc-news.de",
+   "publisher_id": "ad-hoc-news",
+   "published_at": "2026-11-12T04:02:10Z",
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "tags": [
+    "gold",
+    "global",
+    "central-banks",
+    "fed"
+   ],
+   "image_url": "https://mdb.ad-hoc-news.de/bild/bild-2847857_1200_675.webp",
+   "image_kind": "photo",
+   "breaking": false,
+   "rank": 4
+  },
+  {
    "id": "20c8cba929d2cb96",
    "title": "Dollar near one-month high as yen edges toward 160",
    "summary": "The dollar index rose 0.63% to 102.85, its highest since October 14, holding near a one-month high in early Asian trade as growing expectations of a Fed rate hike supported the greenback, while the yen edged toward 160 per dollar.",
@@ -182,7 +213,7 @@
    "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/20c8cba929d2cb96.jpg",
    "image_kind": "photo",
    "breaking": false,
-   "rank": 4
+   "rank": 5
   },
   {
    "id": "cb424b51df43cc48",
@@ -210,7 +241,7 @@
    "related_urls": [
     "https://www.reuters.com/business/indias-gold-etf-inflows-drop-22-october-fund-houses-halt-bulk-subscriptions-2026-11-11/"
    ],
-   "rank": 5
+   "rank": 6
   },
   {
    "id": "0669fb08fa3f0880",
@@ -240,7 +271,7 @@
     "https://www.kitco.com/news/article/2026-11-10/gold-silver-plunge-hotter-us-inflation-raises-prospect-larger-fed-rate-hike",
     "https://www.bullionvault.co.uk/gold-news/gold-price-news/gold-silver-inflation-fed-hike-111020261"
    ],
-   "rank": 6
+   "rank": 7
   },
   {
    "id": "714d00170768e918",
@@ -265,7 +296,7 @@
    "image_url": null,
    "image_kind": "none",
    "breaking": false,
-   "rank": 7
+   "rank": 8
   },
   {
    "id": "bd147c6d3577c214",
@@ -286,31 +317,6 @@
    "category": "global",
    "metals": [
     "gold"
-   ],
-   "breaking": false,
-   "rank": 8
-  },
-  {
-   "id": "3112fa0f352565af",
-   "title": "Gold gains after steep drop, but hawkish central bank signals weigh",
-   "summary": "Gold climbed 0.6% to $4,055 an ounce on Wednesday after Tuesday's near-3% slide, with silver up 3% to $53.03, as buyers stepped in after hot October US CPI. Reuters reports traders now price a December Fed hike at 100%, with a larger half-point move more likely, and Fed officials kept a hawkish tone, limiting the rebound.",
-   "url": "https://www.kitco.com/news/off-the-wire/2026-11-11/gold-gains-after-steep-drop-hawkish-central-bank-signals-weigh",
-   "source": "Kitco",
-   "source_domain": "kitco.com",
-   "publisher_id": "kitco",
-   "published_at": "2026-11-11T11:22:00Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/3112fa0f352565af.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "silver",
-    "global",
-    "fed"
-   ],
-   "category": "global",
-   "metals": [
-    "gold",
-    "silver"
    ],
    "breaking": false,
    "rank": 9

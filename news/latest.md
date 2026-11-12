@@ -1,14 +1,14 @@
-# Gold & Silver for Indian buyers · 2026-11-12T04:00Z
+# Gold & Silver for Indian buyers · 2026-11-12T05:00Z
 
 > Gold hits one-week low below $4,000 as dollar firms on Fed hike bets
 
-Spot gold fell to $3,981.49 an ounce in early Asian trade on Thursday, its lowest since November 4, holding below $4,000 after Tuesday's near-3% slide on hot October US inflation. The dollar stayed near a one-month high with a December Fed hike fully priced, while silver eased to $51.40 an ounce. Indian ETF flows split in October — gold inflows fell 22% as silver inflows jumped 56% — and Delhi gold eased to Rs 1.45 lakh per 10 g.
+Spot gold fell to $3,981.49 an ounce in early Asian trade on Thursday, its lowest since November 4, holding below $4,000 after Tuesday's near-3% slide on hot October US inflation. The dollar stayed near a one-month high with a December Fed hike fully priced, while silver eased to $51.40 an ounce. Indian ETF flows split in October — gold inflows fell 22% as silver inflows jumped 56% — and Delhi gold eased to Rs 1.45 lakh per 10 g. Goldman Sachs cut its end-2026 gold target to $4,150 from $4,650, citing the Fed's tighter stance.
 
 - Spot gold fell to $3,981.49 an ounce, its lowest since November 4, holding below $4,000 after Tuesday's near-3% slide.
 - Dollar index near 102.85-102.90, a one-month high, with a December Fed hike priced at 100%.
 - Silver near $51.40 an ounce; MCX silver had jumped Rs 4,147 per kg in Wednesday's rebound.
 - Indian precious-metals ETFs drew Rs 6,566 crore in October; gold inflows fell 22%, silver inflows rose 56%.
-- Thursday's US jobless claims and Friday's October producer prices are the next tests for Fed expectations.
+- Goldman Sachs cut its end-2026 gold forecast to $4,150 from $4,650; US jobless claims come tonight and October producer prices on Friday.
 
 ## Today's brief
 
@@ -21,10 +21,11 @@ Spot gold fell to $3,979 an ounce and silver to $51.40 as hot US inflation lifte
 - Watch today: US jobless claims at 19:00 IST, then October producer prices on Friday, the next tests of Fed expectations.
 
 ## Trending
-- **Fed hike bets sink gold below $4,000**: Hot October CPI and hawkish Fed remarks pushed the dollar to a one-month high, dragging spot gold under $4,000 after Tuesday's near-3% slide, with a December hike fully priced. (stories 1, 2, 3, 6)
-- **India's ETF money splits: gold cools, silver surges**: October AMFI data show gold ETF inflows down 22% to Rs 3,474 crore while silver ETF inflows jumped 56% to Rs 3,092 crore; gold ETFs' ten-month total already beat all of 2025. (stories 5, 10)
+- **Fed hike bets sink gold below $4,000**: Hot October CPI and hawkish Fed remarks pushed the dollar to a one-month high, dragging spot gold under $4,000 after Tuesday's near-3% slide, with a December hike fully priced. (stories 1, 2, 3, 7)
+- **India's ETF money splits: gold cools, silver surges**: October AMFI data show gold ETF inflows down 22% to Rs 3,474 crore while silver ETF inflows jumped 56% to Rs 3,092 crore; gold ETFs' ten-month total already beat all of 2025. (stories 6, 10)
 - **Silver's wild ride: rebound, then retreat**: Silver swung from a $53.03 rebound to $51.40 as Fed hike bets hardened; MCX silver had jumped Rs 4,147 per kg on Wednesday before Delhi silver tumbled Rs 5,000. (stories 12, 11, 2)
 - **Duty hike feeds a parallel trade**: Gold smuggling rose to about 50 tonnes in July-September, over 16 times a year earlier, after the import duty rose from 6% to 15%; NITI Aayog called for better gold mining evaluation. (stories 14, 15)
+- **Goldman cuts targets as central banks keep buying**: Goldman Sachs cut its end-2026 gold target to $4,150 from $4,650 on a hawkish Fed, while China extended its buying streak to a 24th month and September buying hit 61 tonnes, the year's high. (stories 4)
 
 ## Stories
 1. [Gold falls to over one-week low on firm dollar, Fed rate hike bets](https://www.reuters.com/world/india/gold-falls-over-one-week-low-firm-dollar-fed-rate-hike-bets-2026-11-12/) — *Reuters*, 2026-11-12T03:31:32Z
@@ -33,18 +34,18 @@ Spot gold fell to $3,979 an ounce and silver to $51.40 as hot US inflation lifte
    Gold edged lower in early Asian trade on Thursday, with spot gold down 0.2% at $3,979.09 an ounce and December futures at $3,984.50, after hotter-than-expected October US inflation and hawkish Fed remarks lifted the dollar to near a one-month high. Traders price a December rate rise at 100%, while silver fell 0.6% to $51.40 an ounce.
 3. [Gold falls below $4,000 as dollar surges, Fed hike bets rise - Kitco PM Report](https://www.kitco.com/news/article/2026-11-11/gold-falls-below-4000-dollar-surges-fed-hike-bets-rise-kitco-pm-report) — *Kitco*, 2026-11-11T22:00:14Z
    Spot gold fell below $4,000 in late US trading on Wednesday, near $3,983.20 an ounce, down 1.2%, while silver held near $51.56, as a stronger dollar and Fed hike expectations pressured bullion after Tuesday's hot inflation report. The dollar index neared 102.90; markets price an 87.1% chance of a quarter-point December hike, with jobless claims due Thursday and October producer prices on Friday.
-4. [Dollar near one-month high as yen edges toward 160](https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-near-one-month-high-as-yen-edges-toward-160/articleshow/135751707.cms) — *Economic Times*, 2026-11-12T00:49:00Z
+4. [Goldman Trims Gold Targets as Central Bank Buying Collides With a Hawkish Fed](https://www.ad-hoc-news.de/boerse/unternehmensnachrichten/goldman-trims-gold-targets-as-central-bank-buying-collides-with-a-hawkish-fed/70494896) — *ad-hoc-news*, 2026-11-12T04:02:10Z
+   Goldman Sachs cut its year-end 2026 gold forecast to $4,150 an ounce from $4,650, and its end-2027 call to $4,800 from $5,400, citing the Federal Reserve's tighter stance. The bank still sees structural central-bank buying as long-term support: China added gold for a 24th straight month in October, and the World Gold Council put September net central-bank buying at 61 tonnes, the highest of 2026.
+5. [Dollar near one-month high as yen edges toward 160](https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-near-one-month-high-as-yen-edges-toward-160/articleshow/135751707.cms) — *Economic Times*, 2026-11-12T00:49:00Z
    The dollar index rose 0.63% to 102.85, its highest since October 14, holding near a one-month high in early Asian trade as growing expectations of a Fed rate hike supported the greenback, while the yen edged toward 160 per dollar.
-5. [Precious Metals Attract Rs 6,566 Cr; Gold ETF Inflows Fall 22%, Silver ETFs See 56% Surge](https://www.businessworld.in/article/precious-metals-attract-rs-6-566-cr-gold-etf-inflows-fall-22-silver-etfs-see-56-surge-633109) — *BW Businessworld*, 2026-11-11T22:06:49Z
+6. [Precious Metals Attract Rs 6,566 Cr; Gold ETF Inflows Fall 22%, Silver ETFs See 56% Surge](https://www.businessworld.in/article/precious-metals-attract-rs-6-566-cr-gold-etf-inflows-fall-22-silver-etfs-see-56-surge-633109) — *BW Businessworld*, 2026-11-11T22:06:49Z
    Indian precious-metals ETFs drew about Rs 6,566 crore in October, AMFI data show: gold ETF inflows fell nearly 22% to Rs 3,474.03 crore from September's Rs 4,450.61 crore, while silver ETF inflows jumped over 56% to Rs 3,092.22 crore. Gold ETFs have taken in about Rs 49,399 crore in January-October 2026, already more than all of 2025.
-6. [Gold falls nearly 3% as CPI tops forecasts, lifting dollar and yields](https://www.livemint.com/market/gold-falls-nearly-3-as-cpi-tops-forecasts-lifting-dollar-and-yields-11794337899940.html) — *Mint*, 2026-11-10T19:11:39Z
+7. [Gold falls nearly 3% as CPI tops forecasts, lifting dollar and yields](https://www.livemint.com/market/gold-falls-nearly-3-as-cpi-tops-forecasts-lifting-dollar-and-yields-11794337899940.html) — *Mint*, 2026-11-10T19:11:39Z
    Spot gold fell 2.8% to $4,021.36 an ounce, touching a low of $4,015, after hotter-than-expected US October CPI lifted the dollar and Treasury yields and reinforced bets on a bigger December Fed hike. Silver fell more than 3% to $51.72 an ounce, and the 10-year Treasury yield topped 5% as markets fully priced a quarter-point December rise.
-7. [Investors boost odds of half-point Fed hike as core CPI rise meets Waller's bar](https://www.reuters.com/business/finance/investors-boost-odds-half-point-fed-hike-core-cpi-rise-meets-wallers-bar-2026-11-10/) — *Reuters*, 2026-11-10T15:00:00Z
+8. [Investors boost odds of half-point Fed hike as core CPI rise meets Waller's bar](https://www.reuters.com/business/finance/investors-boost-odds-half-point-fed-hike-core-cpi-rise-meets-wallers-bar-2026-11-10/) — *Reuters*, 2026-11-10T15:00:00Z
    Odds of a half-point Fed hike in December jumped to about 15% at midmorning after October core CPI rose 0.3%, the level Fed Governor Waller had said would warrant considering a bigger move; a quarter-point rise is now seen as certain, with the 2-year Treasury yield rising the most since early April 2025.
-8. [Dollar climbs as traders raise December Fed hike bets](https://www.livemint.com/market/dollar-climbs-as-traders-raise-december-fed-hike-bets-11794431410639.html) — *Mint*, 2026-11-11T21:10:00Z
+9. [Dollar climbs as traders raise December Fed hike bets](https://www.livemint.com/market/dollar-climbs-as-traders-raise-december-fed-hike-bets-11794431410639.html) — *Mint*, 2026-11-11T21:10:00Z
    The dollar index rose 0.68% to 102.90, its highest since April 2025, as traders raised bets on a December Fed rate rise after US consumer prices rose more than expected in October for a third straight month. CME's FedWatch put the chance of a 25-basis-point December hike at 87%, and Goldman Sachs now expects hikes in December and March while Deutsche Bank expects December, January and March.
-9. [Gold gains after steep drop, but hawkish central bank signals weigh](https://www.kitco.com/news/off-the-wire/2026-11-11/gold-gains-after-steep-drop-hawkish-central-bank-signals-weigh) — *Kitco*, 2026-11-11T11:22:00Z
-   Gold climbed 0.6% to $4,055 an ounce on Wednesday after Tuesday's near-3% slide, with silver up 3% to $53.03, as buyers stepped in after hot October US CPI. Reuters reports traders now price a December Fed hike at 100%, with a larger half-point move more likely, and Fed officials kept a hawkish tone, limiting the rebound.
 10. [Gold ETF inflows beat full-year 2025 total in just 10 months, cross Rs 49,000 crore](https://www.moneycontrol.com/news/business/personal-finance/gold-etf-inflows-beat-full-year-2025-total-in-just-10-months-cross-rs-49-000-crore-14077312.html) — *Moneycontrol*, 2026-11-11T12:12:00Z
    Indian gold ETFs drew Rs 49,399 crore in the first ten months of 2026, already about Rs 6,400 crore more than the Rs 42,961 crore they took in during all of 2025, Moneycontrol reports from AMFI data. October inflows slowed after September's quarter-end bunching, but the ten-month total still set a record.
 11. [Gold falls Rs 800 to Rs 1.45 lakh/10gm in Delhi; silver tumbles Rs 5,000](https://www.deccanherald.com/business/markets/gold-falls-rs-800-to-rs-145-lakh10gm-in-delhi-silver-tumbles-rs-5000-4214933) — *Deccan Herald*, 2026-11-11T12:36:00Z
