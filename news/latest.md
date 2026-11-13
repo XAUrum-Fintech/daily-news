@@ -1,47 +1,37 @@
-# Gold & Silver for Indian buyers · 2026-11-13T18:00Z
+# Gold & Silver for Indian buyers · 2026-11-13T20:00Z
 
-> Gold posts worst weekly run in four decades as silver tests $50; India festive demand stays firm
+> Gold steadies near $3,880 after cooler US producer prices; worst week since June
 
-Gold fell 3.5% on the week to about $3,890 an ounce, its worst 10-in-12-weeks stretch since 1989, as hot US producer prices and Fed hike bets pushed 10-year yields to 5.13%; silver slid 3.8% and dipped below $50 before holding the level. In India, MCX gold held near Rs 1.37 lakh per 10 g and silver near Rs 1.78 lakh per kg, with festive buying firm and premiums up to $8 an ounce. Fed Governor Christopher Waller put a 50-point December hike on the table if core inflation stays near 0.3%; Treasury Secretary Scott Bessent said the Fed should not hike over an energy shock.
+Spot gold held near $3,880 an ounce on Friday after a cooler-than-expected US producer-price report, but stayed on course for a weekly drop of about 4.5%, its worst week since early June. October PPI rose 0.3% on the month, below the 0.4% forecast, and traders trimmed December hike odds to 91.4% for a quarter-point rise. Silver fell 1.9% to $49.05 an ounce. In India, MCX gold held near Rs 1.37 lakh per 10 g and festive demand stayed firm even as October gold imports fell 62% on the year.
 
-- Gold fell 3.5% on the week to fix near $3,890 an ounce, its worst 10-in-12-weeks run since 1989; silver slid 3.8% and dipped below $50.
-- US producer prices rose 0.3% in October and 6.5% over the year; the 10-year Treasury yield hit 5.13% and the real yield 2.87%.
-- Fed Governor Christopher Waller said a 50-basis-point December hike should be considered if core CPI stays near 0.3%; October core CPI rose 0.3%.
-- India's gold demand stayed firm in Diwali week as lower prices drew buyers; domestic gold traded near Rs 1.37 lakh per 10 g with premiums up to $8.
-- MCX gold held near Rs 1.37 lakh per 10 g and silver near Rs 1.78 lakh per kg; India's forex reserves rose $2.49 billion to $719.55 billion.
-
-## Today's brief
-
-**Gold steadies near $3,890 as hike bets cap rebound**
-
-Spot gold steadied near $3,889 after Thursday's $3,852 low as hike bets capped the rebound; MCX gold near Rs 1.37 lakh.
-
-- Bargain hunting lifted gold after Thursday's slide to a one-year low, while hot US inflation kept December hike bets firm, Reuters reports.
-- In India, MCX gold tracked the rebound while RBI gold reserves rose $2.21 billion to $104.80 billion as forex reserves recovered.
-- Watch tonight: US producer prices at 19:00 IST, the next test of December hike bets after hot October CPI.
+- Spot gold near $3,880, down about 4.5% on the week — its worst week since early June — after Thursday's slide to a more-than-one-year low.
+- US producer prices rose 0.3% in October, below the 0.4% forecast; December hike odds eased to 91.4% for a quarter-point move.
+- Silver fell 1.9% to $49.05 an ounce and was also set for a weekly loss; a 35-million-ounce deficit is forecast for 2026.
+- MCX gold held near Rs 1.37 lakh per 10 g as festive demand stayed firm; October gold imports fell 62% on the year.
+- India's retail inflation rose to 6.09% in October, breaching the RBI's 6% limit, while forex reserves recovered to $719.55 billion.
 
 ## Trending
-- **Gold's worst weekly run in four decades**: Gold fell 3.5% on the week to about $3,890, its worst stretch since 1989, as hot US inflation and Fed hike bets lifted yields; Friday bargain hunting could not erase the week's losses. (stories 1, 7, 3)
-- **December hike: 25 or 50 basis points?**: Waller put a 50-point December hike on the table if core inflation stays near 0.3%, and October core CPI did just that; Bessent said the Fed should not hike into an energy shock. (stories 4, 5, 8)
-- **India's festive demand holds firm**: Lower prices drew Diwali buyers back, with premiums up to $8 and 52 tonnes sold over Dhanteras-Diwali, even as October gold imports fell 62% on the year. (stories 2, 22, 12)
-- **Silver's deficit meets higher yields**: The Silver Institute sees a 35-million-ounce deficit in 2026, the sixth straight year, but rising real yields and ETP outflows are capping silver near $50. (stories 6, 7)
+- **Gold's worst weekly run in four decades**: Gold fell 3.5% on the week to about $3,890, its worst stretch since 1989, as hot US inflation and Fed hike bets lifted yields; Friday bargain hunting could not erase the week's losses. (stories 1, 2, 4)
+- **December hike: 25 or 50 basis points?**: Waller put a 50-point December hike on the table if core inflation stays near 0.3%; Bessent said the Fed should not hike into an energy shock. After cooler PPI, quarter-point odds stood at 91.4%. (stories 5, 6, 8, 2)
+- **India's festive demand holds firm**: Lower prices drew Diwali buyers back, with premiums up to $8 and 52 tonnes sold over Dhanteras-Diwali, even as October gold imports fell 62% on the year. (stories 3, 22, 12)
+- **Silver's deficit meets higher yields**: The Silver Institute sees a 35-million-ounce deficit in 2026, the sixth straight year, but rising real yields and ETP outflows are capping silver near $50. (stories 7, 2)
 - **India's macro cross-currents**: Retail inflation rose to 6.09%, breaching the RBI's limit, while forex reserves recovered to $719.55 billion and the RBI's gold holdings rose to $104.80 billion. (stories 17, 9)
 
 ## Stories
 1. [Gold Makes Worst Losing Run in 4 Decades, Silver Plunge Tests $50 Again](https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-price-week-111320261) — *BullionVault*, 2026-11-13T16:54:07Z
    Gold fell 3.5% on the week to fix near $3,890 an ounce, its lowest week-end level since October 2025, matching its worst 10-in-12-weeks run since 1989. Silver slid 3.8% and dipped below $50 before holding the level at the London fix, down more than 50% from January's all-time high. Hot US inflation data pushed the 10-year Treasury yield to 5.13% and the real yield to 2.87%.
-2. [India gold demand stays firm as lower prices draw festive buying](https://www.kitco.com/news/off-the-wire/2026-11-13/india-gold-demand-stays-firm-lower-prices-draw-festive-buying) — *Kitco*, 2026-11-13T16:08:28Z
+2. [Rate-hike bets keep gold on track for worst week in four months](https://www.livemint.com/market/ratehike-bets-keep-gold-on-track-for-worst-week-in-four-months-11794598496469.html) — *Mint*, 2026-11-13T19:34:56Z
+   Spot gold held near $3,880 an ounce on Friday, up 0.1% after briefly touching $3,923 on the US producer-price data, and stayed set for a weekly drop of about 4.5%, its worst week since early June. October producer prices rose 0.3% on the month, below the 0.4% forecast, and traders put December quarter-point hike odds at 91.4%. Silver fell 1.9% to $49.05 an ounce, also headed for a weekly loss.
+3. [India gold demand stays firm as lower prices draw festive buying](https://www.kitco.com/news/off-the-wire/2026-11-13/india-gold-demand-stays-firm-lower-prices-draw-festive-buying) — *Kitco*, 2026-11-13T16:08:28Z
    India's gold demand stayed firm this week as lower prices drew festive buying during Diwali, dealers told Reuters. Domestic gold traded near Rs 1.37 lakh per 10 g after falling to Rs 1,35,530 on Thursday, its lowest since March 23, with dealer premiums up to $8 an ounce over official prices, against $4 last week. Wedding-season demand is also gaining momentum, dealers said.
-3. [Gold prices testing resistance at $3,900 as producers prices continue to rise](https://www.kitco.com/news/article/2026-11-13/gold-prices-testing-resistance-3900-producers-prices-continue-rise) — *Kitco*, 2026-11-13T13:41:43Z
+4. [Gold prices testing resistance at $3,900 as producers prices continue to rise](https://www.kitco.com/news/article/2026-11-13/gold-prices-testing-resistance-3900-producers-prices-continue-rise) — *Kitco*, 2026-11-13T13:41:43Z
    US producer prices rose 0.3% in October, after September's revised 1.4% increase, and 6.5% over the last 12 months, the largest annual rise since November 2022; core producer prices rose 4.9% on the year. Spot gold caught a modest bid after the data and traded at $3,897.90, up 0.57% on the day, testing resistance at $3,900, though analysts warned sticky inflation could keep pressure on bullion.
-4. [Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows “No Silver Lining”](https://www.schiffgold.com/commentaries/fed-governor-warns-of-bigger-rate-hike-as-inflation-data-shows-no-silver-lining) — *SchiffGold*, 2026-11-13T16:22:24Z
+5. [Fed Governor Warns of Bigger Rate Hike as Inflation Data Shows “No Silver Lining”](https://www.schiffgold.com/commentaries/fed-governor-warns-of-bigger-rate-hike-as-inflation-data-shows-no-silver-lining) — *SchiffGold*, 2026-11-13T16:22:24Z
    Fed Governor Christopher Waller said on November 10 he would back a 25-basis-point hike at the Fed's December meeting even if October inflation improved, and a 50-point move should be considered if core CPI ran near 0.3% or higher. October core CPI, released the same day, rose 0.3%; September PCE inflation was 3.7% on the year, which Waller called bad with “no silver lining”.
-5. [US Treasury chief says Fed should not hike rates over energy shock tied to Iran war](https://www.reuters.com/business/us-treasury-chief-says-fed-should-not-hike-rates-over-energy-shock-tied-iran-war-2026-11-13/) — *Reuters*, 2026-11-13T14:02:32Z
+6. [US Treasury chief says Fed should not hike rates over energy shock tied to Iran war](https://www.reuters.com/business/us-treasury-chief-says-fed-should-not-hike-rates-over-energy-shock-tied-iran-war-2026-11-13/) — *Reuters*, 2026-11-13T14:02:32Z
    US Treasury Secretary Scott Bessent said on Friday the Federal Reserve should keep an open mind and not raise rates over an 'energy supply shock' tied to the Iran war, calling the inflation figures noisy. The Fed held rates last month, with Chair Kevin Warsh saying officials would watch incoming data before deciding on further tightening.
-6. [Silver’s 35 Million Ounce Deficit Faces a Higher-Yield Headwind](https://www.fxempire.com/forecasts/article/silvers-35-million-ounce-deficit-faces-a-higher-yield-headwind-1644553) — *FXEmpire*, 2026-11-13T17:10:00Z
+7. [Silver’s 35 Million Ounce Deficit Faces a Higher-Yield Headwind](https://www.fxempire.com/forecasts/article/silvers-35-million-ounce-deficit-faces-a-higher-yield-headwind-1644553) — *FXEmpire*, 2026-11-13T17:10:00Z
    The Silver Institute and Metals Focus see a 35-million-ounce silver deficit in 2026 as demand of 1,081 million ounces outruns supply of 1,045 million, the sixth straight annual shortfall. But rising real yields are pressing silver: the 10-year real yield rose to 2.86%, futures traded near $49.67, and net ETP flows of 45 million ounces are forecast for the year.
-7. [Gold rises on bargain hunting but heads for weekly decline](https://www.reuters.com/world/india/gold-rises-bargain-hunting-heads-weekly-decline-2026-11-13/) — *Reuters*, 2026-11-13T03:43:00Z
-   Spot gold rose 1% to $3,915.31 an ounce on Friday as bargain hunting emerged after Thursday's slide to its lowest since October 2025, though it stayed down 3.5% for the week. Silver rose 1% to $50.49 an ounce, also headed for a weekly fall, as markets priced an 89% chance of a 25-basis-point December Fed hike and awaited US producer prices at 19:00 IST.
 8. [Gold struggles below $3,900 ahead of US PPI data](https://www.fxstreet.com/news/gold-struggles-below-3-900-ahead-of-us-ppi-data-202611131111) — *FXStreet*, 2026-11-13T11:11:03Z
    Gold trimmed its gains on Friday after briefly climbing above $3,900, holding near $3,889 an ounce. The metal fell to $3,852 on Thursday, its lowest since October 2025, and is down more than 4% this week as hawkish Fed remarks fuel bets on extended tightening, lifting the dollar to a near 19-month high around 103.23. US producer prices due at 19:00 IST are the next test.
 9. [India's forex reserves rise by $2.49 billion to $719.55 billion: RBI data](https://www.business-standard.com/finance/news/india-s-forex-reserves-rise-by-2-49-billion-to-719-55-billion-rbi-data-126111301246_1.html) — *Business Standard*, 2026-11-13T12:47:35Z
@@ -72,5 +62,3 @@ Spot gold steadied near $3,889 after Thursday's $3,852 low as hike bets capped t
    Gold and silver slid further: MCX gold fell 1.4% to Rs 1,37,755 per 10 g and silver 1.69% to Rs 1,81,400 per kg. CME FedWatch puts a December Fed rise at 100% - about 91% for 25 basis points and 9.2% for 50 - after hot October US inflation and hawkish Fed remarks lifted the dollar index briefly above 103 and the 10-year US yield near 5%. The rupee, at Rs 93.8075, offered little relief.
 22. [Gold purchases rose 30% as prices fell 21%: 52 tonnes of gold worth ₹72,000 crore sold during Diwali-Dhanteras; silver purchases also rose 10%](https://www.bhaskarenglish.in/business/news/india-diwali-dhanteras-gold-silver-sales-price-drop-data-139665087.html) — *Bhaskar English*, 2026-11-12T11:32:26Z
    Gold buying rose 30% by volume during Dhanteras and Diwali compared with last year, the India Bullion and Jewellers Association says, with about 52 tonnes worth ₹72,000 crore sold and silver purchases up 10% to 300 tonnes worth ₹5,400 crore. The rebound followed a price correction from about ₹1.8 lakh to ₹1.42 lakh per 10 g, with jewellers also citing advance wedding-season buying.
-23. [Jewellers' strong Q2 growth masks a continued drop in gold volumes](https://www.livemint.com/industry/retail/jewellers-gold-volumes-q2-growth-buyers-jewellery-titan-kalyan-bluestone-11794457231277.html) — *Mint*, 2026-11-13T00:30:07Z
-   Organised jewellers reported strong revenue growth in the September quarter, but India's gold jewellery demand by volume fell 20% from a year earlier even as its value rose 16%, the World Gold Council says. Crisil expects retailer revenue to grow 21-23% in FY27 while volumes fall 4-6%, with gold prices averaging 25-27% higher than last year.
