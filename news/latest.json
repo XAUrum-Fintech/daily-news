@@ -1,20 +1,20 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-13T03:00Z",
-  "generated_at": "2026-11-13T03:09:35Z",
+  "edition_id": "2026-11-13T04:00Z",
+  "generated_at": "2026-11-13T04:07:41Z",
   "window": {
-    "from": "2026-11-13T01:00:00Z",
-    "to": "2026-11-13T03:00:00Z"
+    "from": "2026-11-13T02:00:00Z",
+    "to": "2026-11-13T04:00:00Z"
   },
   "insights": {
-    "headline": "Gold steadies near one-year low after 3% slide as Fed hike bets harden",
-    "summary": "COMEX front-month gold settled 2.85% lower at $3,878.40 an ounce, its lowest since October 2, 2025, with silver down 3.68% to $49.97, as a dollar near a 19-month high and rising Treasury yields followed hot US inflation data and hawkish Fed remarks. Spot gold edged up to $3,883 on Friday but stayed on course for a 4.4% weekly fall, with silver at $50.07. MCX December gold held near Rs 1.39 lakh per 10 g and silver near Rs 1.82 lakh per kg, while traders await October US producer prices at 19:00 IST.",
+    "headline": "Gold rebounds 1% to $3,915 after one-year low, still set for weekly loss",
+    "summary": "Spot gold rose 1% to $3,915.31 an ounce on Friday as bargain hunting followed Thursday's slide to its lowest since October 2025, but stayed down 3.5% for the week as markets priced an 89% chance of a December Fed hike. Silver rose 1% to $50.49, MCX gold held near Rs 1.39 lakh per 10 g, and traders await US producer prices at 19:00 IST.",
     "points": [
-      "COMEX front-month gold settled 2.85% lower at $3,878.40, its lowest since October 2, 2025 and the largest one-day fall since October 30.",
-      "Spot gold edged up 0.2% to $3,883 on Friday after Thursday's 3% slide, but is down 4.4% so far this week; December futures steadied at $3,887.",
-      "Silver settled 3.68% lower at $49.97 an ounce, its lowest settlement since November 3, as the dollar index neared 103.10; spot silver was $50.07 on Friday.",
+      "Spot gold rose 1% to $3,915.31 an ounce on Friday after hitting its lowest since October 2025 on Thursday, but is down 3.5% so far this week.",
+      "Silver rose 1% to $50.49 an ounce, also headed for a weekly decline; palladium gained 2.1% to $1,014.50.",
+      "Markets see an 89% chance of a 25-basis-point December Fed hike and 11% for a 50-point move, after hot October US inflation and hawkish Fed remarks.",
       "MCX December gold held near Rs 1.39 lakh per 10 g and silver near Rs 1.82 lakh per kg, with the rupee near 94 per dollar.",
-      "Traders price a 14.5% chance of a 50-basis-point December Fed hike, up from 0% last week, with US producer prices due at 19:00 IST."
+      "US producer prices are due at 19:00 IST, the next test of Fed hike expectations after October CPI came in hot at 0.4%."
     ],
     "brief": {
       "schema": "orob-brief.v1",
@@ -51,17 +51,17 @@
   },
   "trending": [
     {
-      "title": "Gold hits its lowest since October 2025",
-      "summary": "Bullion slid to a more than one-year low as hot US inflation hardened December hike bets; spot gold steadied at $3,883 on Friday but is down 4.4% on the week.",
+      "title": "Gold rebounds from one-year low but heads for weekly loss",
+      "summary": "Spot gold rose 1% to $3,915.31 on Friday as bargain hunting emerged after Thursday's slide to its lowest since October 2025, but stayed down 3.5% for the week with a December Fed hike priced at 89%.",
       "item_ids": [
+        "110ede51eda2f5ea",
         "5d700f8da7feb1bd",
-        "6a2f464480864f8d",
-        "a8b83dd593b1a344"
+        "6a2f464480864f8d"
       ]
     },
     {
       "title": "December hike bets harden after hot CPI",
-      "summary": "October CPI rose 0.4% with core up 0.3%, and Fed officials signalled further rises may be needed; markets price an 85% chance of a 25-basis-point December hike and 14.5% for 50.",
+      "summary": "October CPI rose 0.4% with core up 0.3%, and Fed officials signalled further rises may be needed; markets price an 89% chance of a 25-basis-point December hike and 11% for 50.",
       "item_ids": [
         "558d32776497b7f2",
         "49dc59c33b3ab2b4",
@@ -79,18 +79,42 @@
     },
     {
       "title": "Silver tests $50 support",
-      "summary": "Silver settled at $49.97, its lowest since November 3, and steadied at $50.07 on Friday; positioning has turned light, JP Morgan says.",
+      "summary": "Silver rose 1% to $50.49 on Friday after sliding over 3% on hot US inflation; positioning has turned light, JP Morgan says.",
       "item_ids": [
+        "110ede51eda2f5ea",
         "cfcb158ac72e8ffc",
-        "bd23174ccc6a2e1e",
-        "05750765802d5710"
+        "bd23174ccc6a2e1e"
       ]
     }
   ],
   "items": [
     {
+      "id": "110ede51eda2f5ea",
+      "title": "Gold rises on bargain hunting but heads for weekly decline",
+      "summary": "Spot gold rose 1% to $3,915.31 an ounce on Friday as bargain hunting emerged after Thursday's slide to its lowest since October 2025, though it stayed down 3.5% for the week. Silver rose 1% to $50.49 an ounce, also headed for a weekly fall, as markets priced an 89% chance of a 25-basis-point December Fed hike and awaited US producer prices at 19:00 IST.",
+      "url": "https://www.reuters.com/world/india/gold-rises-bargain-hunting-heads-weekly-decline-2026-11-13/",
+      "source": "Reuters",
+      "source_domain": "reuters.com",
+      "publisher_id": "reuters",
+      "published_at": "2026-11-13T03:43:00Z",
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "global"
+      ],
+      "image_url": null,
+      "image_kind": "none",
+      "breaking": false,
+      "rank": 1
+    },
+    {
       "id": "5d700f8da7feb1bd",
-      "rank": 1,
+      "rank": 2,
       "title": "Gold inches higher but heads for weekly loss on Fed hike concerns",
       "summary": "Spot gold edged up 0.2% to $3,883 an ounce after Thursday's 3% slide to a more than one-year low, but stayed on course for a 4.4% weekly fall. Oil jumped after attacks on Saudi energy infrastructure and Hormuz shipping risks, stoking inflation fears, while Fed officials signalled further rises may be needed and markets priced an 85% chance of a December hike. Spot silver steadied at $50.07.",
       "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-inches-higher-but-heads-for-weekly-loss-on-fed-hike-concerns/articleshow/135785994.cms",
@@ -138,7 +162,7 @@
       "related_urls": [
         "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-near-19-month-high-on-fed-hike-bets-yen-tests-160/articleshow/135786354.cms"
       ],
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "6a2f464480864f8d",
@@ -166,7 +190,7 @@
       "related_urls": [
         "https://www.kitco.com/news/article/2026-11-12/spot-gold-slides-3864oz-after-us-existing-home-sales-fall-55-375-million"
       ],
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "a8b83dd593b1a344",
@@ -187,32 +211,6 @@
       "category": "global",
       "metals": [
         "gold"
-      ],
-      "breaking": false,
-      "rank": 4
-    },
-    {
-      "id": "81393ba89fe80605",
-      "title": "Gold Falls to More Than 1-Year Low As U.S. Dollar, Yields Rise",
-      "summary": "COMEX front-month gold settled 2.85% lower at $3,878.40 an ounce, its lowest settlement since October 2, 2025 and the largest one-day fall since October 30, after a firm dollar and rising yields followed hotter US inflation data and hawkish Fed remarks. Silver settled 3.68% lower at $49.97 an ounce.",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-dims-amid-rising-fed-rate-hike-expectations-22fab6f0",
-      "source": "Wall Street Journal",
-      "source_domain": "wsj.com",
-      "publisher_id": "wsj",
-      "published_at": "2026-11-12T19:31:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "silver",
-        "comex",
-        "fed",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
       ],
       "breaking": false,
       "rank": 5
@@ -317,33 +315,8 @@
       "rank": 9
     },
     {
-      "id": "d2ece576bdb45369",
-      "title": "Gold price today slides 1.6% below $4,000 as dollar hits 19-month high",
-      "summary": "Gold fell for a third straight session as the dollar index hit a 19-month high of 103.08 and hot US inflation kept a December Fed hike fully priced. December COMEX gold dropped 1.6% to $3,936.40 an ounce and spot gold stood at $3,934.40, with attention turning to Friday's US producer price report.",
-      "url": "https://invezz.com/news/2026/11/12/gold-price-today-below-4000-dollar-19-month-high/",
-      "source": "Invezz",
-      "source_domain": "invezz.com",
-      "publisher_id": "invezz",
-      "published_at": "2026-11-12T10:33:29Z",
-      "image_url": "https://invezz-wp-media.lon1.digitaloceanspaces.com/2026/11/2-3.png",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "global",
-        "fed"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 10
-    },
-    {
       "id": "405b79fabf3af04d",
-      "rank": 11,
+      "rank": 10,
       "title": "Gold falls below ₹1.39 lakh per 10 grams, silver drops 1.3%: What’s driving the latest correction",
       "summary": "MCX gold slipped below ₹1.39 lakh per 10 g and silver fell 1.3% in the latest session, with December gold around ₹1,38,599 and silver near ₹1,82,110 per kg. CNBC-TV18 puts the slide down to a dollar at a 19-month high and traders fully pricing a December Fed rate rise after hot US inflation data.",
       "url": "https://www.cnbctv18.com/market/commodities/gold-falls-silver-drops-1-3-pc-india-mcx-what-driving-the-correction-20032615.htm",
@@ -388,7 +361,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 11
     },
     {
       "id": "70c144ea7430a4ef",
@@ -414,7 +387,7 @@
         "rupee"
       ],
       "breaking": false,
-      "rank": 13
+      "rank": 12
     },
     {
       "id": "4661040c6225a0e6",
@@ -439,7 +412,7 @@
         "fed"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 13
     },
     {
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-fed-sets-new-meeting-schedule-for-2027-as-foretold-by-chairman-kevin-warsh/articleshow/135781878.cms",
@@ -461,7 +434,7 @@
       ],
       "breaking": false,
       "id": "49dc59c33b3ab2b4",
-      "rank": 15
+      "rank": 14
     },
     {
       "id": "40d685f77bf1bf7f",
@@ -484,7 +457,7 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/40d685f77bf1bf7f.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 16
+      "rank": 15
     },
     {
       "id": "05750765802d5710",
@@ -506,7 +479,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 17
+      "rank": 16
     },
     {
       "id": "bd23174ccc6a2e1e",
@@ -528,34 +501,11 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 18
-    },
-    {
-      "id": "524109ddeaa45561",
-      "title": "Titan H2 Outlook: Can Falling Gold Prices Pressure Profitability?",
-      "summary": "Titan's jewellery margins face a test in the second half of FY27 as lower bullion prices cut average transaction values, though festive footfalls are rising and the company is pushing lighter, lower-carat pieces. Titan kept its jewellery margin target at about 11% after a strong September quarter, with jewellery revenue up 24%.",
-      "url": "https://tradebrains.in/indian-markets/titan-h2-outlook-can-falling-gold-prices-pressure-profitability-12795968",
-      "source": "TradeBrains",
-      "source_domain": "tradebrains.in",
-      "publisher_id": "tradebrains",
-      "published_at": "2026-11-11T04:03:50Z",
-      "image_url": "https://img-cdn.publive.online/fit-in/1200x675/trade-brains/media/media_files/2026/09/22/titan-company-tanishq-1-2026-09-22-15-45-01.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "india",
-        "jewellery"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 19
+      "rank": 17
     },
     {
       "id": "3e7f3330527b7771",
-      "rank": 20,
+      "rank": 18,
       "title": "Gold purchases rose 30% as prices fell 21%: 52 tonnes of gold worth ₹72,000 crore sold during Diwali-Dhanteras; silver purchases also rose 10%",
       "summary": "Gold buying rose 30% by volume during Dhanteras and Diwali compared with last year, the India Bullion and Jewellers Association says, with about 52 tonnes worth ₹72,000 crore sold and silver purchases up 10% to 300 tonnes worth ₹5,400 crore. The rebound followed a price correction from about ₹1.8 lakh to ₹1.42 lakh per 10 g, with jewellers also citing advance wedding-season buying.",
       "url": "https://www.bhaskarenglish.in/business/news/india-diwali-dhanteras-gold-silver-sales-price-drop-data-139665087.html",
@@ -601,7 +551,7 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/cb424b51df43cc48.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 21,
+      "rank": 19,
       "related_urls": [
         "https://www.reuters.com/business/indias-gold-etf-inflows-drop-22-october-fund-houses-halt-bulk-subscriptions-2026-11-11/"
       ]
@@ -627,11 +577,11 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/54dfaf82d699d904.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 22
+      "rank": 20
     },
     {
       "id": "08a89fe329e2172f",
-      "rank": 23,
+      "rank": 21,
       "title": "What's Gold price future in India? Will it touch ₹1.50 lakh per 10 grams again by December 2026? Experts' view",
       "summary": "Experts are split on whether MCX gold can return to Rs 1.50 lakh per 10 g by December. Kotak Neo's Kaynat Chainwala says it needs an 8% rise and a spot break above $4,220 an ounce; Choice Broking's Kaveri More calls it achievable above Rs 1,42,800-1,46,100. SEBI-registered analyst Anuj Gupta is cautious, warning of more selling if the Fed hikes 50 basis points and flagging $3,800 as key support.",
       "url": "https://www.livemint.com/market/commodities/whats-gold-price-future-in-india-will-it-touch-1-50-lakh-per-10-grams-again-by-december-2026-experts-view-11794468408702.html",
@@ -676,7 +626,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 24
+      "rank": 22
     },
     {
       "id": "0c7b73dca9b9d0c3",
@@ -699,7 +649,7 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/0c7b73dca9b9d0c3.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 25
+      "rank": 23
     },
     {
       "id": "3bb0aa94fd55bbb5",
@@ -721,7 +671,7 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/3bb0aa94fd55bbb5.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 26
+      "rank": 24
     }
   ]
 }
