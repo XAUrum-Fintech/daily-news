@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-13T08:00Z",
-  "generated_at": "2026-11-13T08:10:56Z",
+  "edition_id": "2026-11-13T09:00Z",
+  "generated_at": "2026-11-13T09:04:06Z",
   "window": {
-    "from": "2026-11-13T07:00:00Z",
-    "to": "2026-11-13T08:00:00Z"
+    "from": "2026-11-13T08:00:00Z",
+    "to": "2026-11-13T09:00:00Z"
   },
   "insights": {
     "headline": "Gold steadies near $3,915 after one-year low as MCX rebounds in morning trade",
@@ -171,7 +171,10 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 3
+      "rank": 3,
+      "related_urls": [
+        "https://www.livemint.com/market/gold-drops-to-over-one-year-low-as-fading-middle-east-peace-hopes-fan-inflation-fears-11794511222562.html"
+      ]
     },
     {
       "id": "5d700f8da7feb1bd",
@@ -226,6 +229,29 @@
       "rank": 5
     },
     {
+      "id": "cb49d8cf370b47fd",
+      "title": "Gold oversold, but further fall to $3,750 likely: Mirae Asset Sharekhan",
+      "summary": "Mirae Asset Sharekhan says gold looks oversold after three straight days of falls, but further weakness is likely as a stronger dollar and higher yields keep pressure on, with traders positioning for the December Fed meeting. It sees support around $3,750 an ounce in the short run, with a break below opening the way to $3,600.",
+      "url": "https://www.business-standard.com/markets/news/gold-oversold-but-further-fall-to-3-750-likely-mirae-asset-sharekhan-126111300668_1.html",
+      "source": "Business Standard",
+      "source_domain": "business-standard.com",
+      "publisher_id": "business-standard",
+      "published_at": "2026-11-13T07:22:53Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/cb49d8cf370b47fd.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 6
+    },
+    {
       "id": "7990f7a275197ec1",
       "title": "India's gem and jewellery exports jump 34% to $2.92 billion in October on festive demand",
       "summary": "India's gem and jewellery exports surged 34.01% year on year to $2.92 billion in October, from $2.18 billion a year earlier, per GJEPC data. In rupee terms shipments rose 44.71% to Rs 27,862.82 crore, led by gold jewellery, silver jewellery and lab-grown diamonds on strong orders ahead of the Christmas and year-end holiday season.",
@@ -248,7 +274,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "065d7b30fdc34b2c",
@@ -273,7 +299,7 @@
       "image_url": null,
       "image_kind": "none",
       "breaking": false,
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "9809f4b802a19fc7",
@@ -295,7 +321,7 @@
         "global"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "aee4fbff7bdf325a",
@@ -319,7 +345,7 @@
         "jewellery"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "a8b83dd593b1a344",
@@ -342,7 +368,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 11
     },
     {
       "url": "https://www.fxstreet.com/news/silver-tumbles-over-3-as-fed-rate-hike-bets-fuel-us-dollar-rally-202611121711",
@@ -365,7 +391,7 @@
       ],
       "breaking": false,
       "id": "cfcb158ac72e8ffc",
-      "rank": 11
+      "rank": 12
     },
     {
       "id": "a46ea587618d6fc3",
@@ -391,7 +417,7 @@
       "related_urls": [
         "https://www.moneycontrol.com/news/business/personal-finance/sgb-2018-19-series-iii-redemption-price-set-at-rs-14024-353-gain-for-investors-14078537.html"
       ],
-      "rank": 12
+      "rank": 13
     },
     {
       "url": "https://informistmedia.com/CommodityWire/64676/India-Bullion-Down-as-dollar-hits-19-month-high-hawkish-Fed-also-weighs",
@@ -417,7 +443,7 @@
       ],
       "breaking": false,
       "id": "700e03bdbe5a0de1",
-      "rank": 13
+      "rank": 14
     },
     {
       "id": "558d32776497b7f2",
@@ -442,7 +468,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 15
     },
     {
       "id": "a00aa158437cadf7",
@@ -467,7 +493,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 15
+      "rank": 16
     },
     {
       "id": "405b79fabf3af04d",
@@ -493,7 +519,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 16
+      "rank": 17
     },
     {
       "id": "a42b5477653e6dba",
@@ -516,7 +542,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 17
+      "rank": 18
     },
     {
       "id": "70c144ea7430a4ef",
@@ -542,7 +568,7 @@
         "rupee"
       ],
       "breaking": false,
-      "rank": 18
+      "rank": 19
     },
     {
       "id": "4661040c6225a0e6",
@@ -567,7 +593,7 @@
         "fed"
       ],
       "breaking": false,
-      "rank": 19
+      "rank": 20
     },
     {
       "id": "05750765802d5710",
@@ -589,7 +615,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 20
+      "rank": 21
     },
     {
       "id": "3e7f3330527b7771",
@@ -614,7 +640,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 21
+      "rank": 22
     },
     {
       "id": "cb424b51df43cc48",
@@ -642,7 +668,7 @@
       "related_urls": [
         "https://www.reuters.com/business/indias-gold-etf-inflows-drop-22-october-fund-houses-halt-bulk-subscriptions-2026-11-11/"
       ],
-      "rank": 22
+      "rank": 23
     },
     {
       "id": "54dfaf82d699d904",
@@ -665,7 +691,7 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/54dfaf82d699d904.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 23
+      "rank": 24
     },
     {
       "id": "3bb0aa94fd55bbb5",
@@ -687,7 +713,7 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/3bb0aa94fd55bbb5.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 24
+      "rank": 25
     }
   ]
 }
