@@ -1,19 +1,19 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-13T14:00Z",
-  "generated_at": "2026-11-13T14:07:48Z",
+  "edition_id": "2026-11-13T16:00Z",
+  "generated_at": "2026-11-13T16:11:07Z",
   "window": {
-    "from": "2026-11-13T12:00:00Z",
-    "to": "2026-11-13T14:00:00Z"
+    "from": "2026-11-13T14:00:00Z",
+    "to": "2026-11-13T16:00:00Z"
   },
   "insights": {
-    "headline": "Gold tests $3,900 after October US producer prices rise 0.3%; RBI reserves recover",
-    "summary": "US producer prices rose 0.3% in October and 6.5% over the year, the largest annual rise since November 2022, with core producer prices up 4.9% on the year. Spot gold traded at $3,897.90, up 0.6% on the day, testing resistance at $3,900 after Thursday's slide to $3,852, its lowest since October 2025. In India, MCX gold held near Rs 1.37 lakh per 10 g, while October's trade deficit hit a one-year high of $39.88 billion and the RBI's forex reserves rose $2.49 billion to $719.55 billion.",
+    "headline": "Gold steadies near $3,900 after October US producer prices rise 0.3%; Bessent pushes back on Fed hikes",
+    "summary": "US producer prices rose 0.3% in October and 6.5% over the year, the largest annual rise since November 2022, with core producer prices up 4.9% on the year. Spot gold traded near $3,898, testing resistance at $3,900 after Thursday's slide to $3,852, its lowest since October 2025. US Treasury Secretary Scott Bessent said the Fed should not raise rates over an energy supply shock tied to the Iran war. In India, MCX gold held near Rs 1.37 lakh per 10 g and silver near Rs 1.78 lakh per kg.",
     "points": [
       "US producer prices rose 0.3% in October and 6.5% over the year, the largest annual rise since November 2022; core producer prices rose 4.9% on the year.",
       "Spot gold traded at $3,897.90, up 0.6% on the day, testing resistance at $3,900 after Thursday's slide to $3,852, its lowest since October 2025.",
+      "US Treasury Secretary Scott Bessent said the Fed should not raise rates over an energy supply shock tied to the Iran war, calling the figures noisy.",
       "MCX gold held near Rs 1.37 lakh per 10 g after touching Rs 1,37,587, while silver stayed near $50 an ounce and MCX silver near Rs 1.78 lakh per kg.",
-      "October's trade deficit hit a one-year high of $39.88 billion as gold imports nearly tripled from September to $5.51 billion on festive buying.",
       "India's forex reserves rose $2.49 billion to $719.55 billion in the week ended November 6; the RBI's gold holdings rose $2.21 billion to $104.80 billion."
     ],
     "brief": {
@@ -51,17 +51,8 @@
   },
   "trending": [
     {
-      "title": "October trade data: gold imports rebound from September lows",
-      "summary": "Gold imports nearly tripled month-on-month to $5.51 billion on festive buying, pushing the trade deficit to a one-year high of $39.88 billion, though imports were still down 63% from a year earlier.",
-      "item_ids": [
-        "a50e9df49c2989a1",
-        "62c371e44b4f506d",
-        "7990f7a275197ec1"
-      ]
-    },
-    {
       "title": "Gold rebounds from one-year low but heads for weekly loss",
-      "summary": "Bargain hunting lifted gold from its lowest since October 2025, with MCX gold back near Rs 1.37 lakh, but the metal remains on course for a weekly decline as Fed hike bets stay firm.",
+      "summary": "Bargain hunting lifted gold about 1% from Thursday's one-year low near $3,852, with MCX gold back near Rs 1.37 lakh, but the metal stays on course for a weekly decline as hike bets stay firm.",
       "item_ids": [
         "b0990b59ee5f18cd",
         "110ede51eda2f5ea",
@@ -70,20 +61,12 @@
       ]
     },
     {
-      "title": "December hike bets harden after hot CPI",
-      "summary": "Hot October inflation has traders pricing a December Fed hike, lifting Treasury yields and the dollar to a 19-month high and keeping bullion under pressure.",
+      "title": "Bessent pushes back on December hike bets",
+      "summary": "Treasury Secretary Scott Bessent said the Fed should not hike into an energy supply shock tied to the Iran war, countering hike bets hardened by hot October CPI and PPI.",
       "item_ids": [
-        "5d700f8da7feb1bd",
-        "e4155f7e85494098"
-      ]
-    },
-    {
-      "title": "Silver's sixth straight deficit year",
-      "summary": "Silver demand is forecast down 5% in 2026 even as the market heads for a sixth consecutive annual deficit, with jewellery demand hit hardest by high prices.",
-      "item_ids": [
-        "9809f4b802a19fc7",
-        "cfcb158ac72e8ffc",
-        "05750765802d5710"
+        "bd303b91c7e0b527",
+        "7addc9da03eb4c92",
+        "c5afb3ca89265cc6"
       ]
     },
     {
@@ -93,6 +76,22 @@
         "c5afb3ca89265cc6",
         "e4155f7e85494098",
         "110ede51eda2f5ea"
+      ]
+    },
+    {
+      "title": "October trade data: gold imports down 62% on year",
+      "summary": "India's October gold imports fell 62.57% from a year earlier to $5.51 billion as prices corrected, while gem and jewellery exports jumped 34% to $2.92 billion on festive demand.",
+      "item_ids": [
+        "62c371e44b4f506d",
+        "7990f7a275197ec1"
+      ]
+    },
+    {
+      "title": "Silver's sixth straight deficit year",
+      "summary": "The Silver Institute expects a 35-million-ounce deficit in 2026, the sixth straight year, but the gap is smaller than last year's as ETP outflows ease tightness and rising real yields cap rallies.",
+      "item_ids": [
+        "9809f4b802a19fc7",
+        "55d62a999256d8ef"
       ]
     }
   ],
@@ -121,29 +120,26 @@
       "rank": 1
     },
     {
-      "id": "a50e9df49c2989a1",
-      "title": "India's October merchandise trade deficit rose to one-year high of $39.88 billion",
-      "summary": "India's merchandise trade deficit widened to a one-year high of $39.88 billion in October, above the $32.25 billion economists expected, as imports hit a record $89.35 billion. Gold imports nearly tripled from September's $1.8 billion to $5.51 billion on festive-season purchases, while exports hit a record $49.47 billion.",
-      "url": "https://www.reuters.com/world/india/indias-october-merchandise-trade-deficit-rose-one-year-high-3988-billion-2026-11-13/",
+      "id": "bd303b91c7e0b527",
+      "title": "US Treasury chief says Fed should not hike rates over energy shock tied to Iran war",
+      "summary": "US Treasury Secretary Scott Bessent said on Friday the Federal Reserve should keep an open mind and not raise rates over an 'energy supply shock' tied to the Iran war, calling the inflation figures noisy. The Fed held rates last month, with Chair Kevin Warsh saying officials would watch incoming data before deciding on further tightening.",
+      "url": "https://www.reuters.com/business/us-treasury-chief-says-fed-should-not-hike-rates-over-energy-shock-tied-iran-war-2026-11-13/",
       "source": "Reuters",
       "source_domain": "reuters.com",
       "publisher_id": "reuters",
-      "published_at": "2026-11-13T08:50:54Z",
+      "published_at": "2026-11-13T14:02:32Z",
       "image_url": null,
       "image_kind": "none",
       "tags": [
         "gold",
-        "india",
-        "mcx"
+        "fed",
+        "global"
       ],
-      "category": "mcx",
+      "category": "global",
       "metals": [
         "gold"
       ],
       "breaking": false,
-      "related_urls": [
-        "https://www.thehindubusinessline.com/economy/indias-october-merchandise-trade-deficit-rose-to-one-year-high-of-3988-billion/article71697264.ece"
-      ],
       "rank": 2
     },
     {
@@ -249,6 +245,29 @@
       "rank": 6
     },
     {
+      "id": "7addc9da03eb4c92",
+      "title": "Gold today: 3 analysts see more downside, but one calls it a buying opportunity",
+      "summary": "Three analysts see gold under more near-term pressure after its slide to a 13-month low near $3,850, with rebounds capped by hot US inflation, hawkish Fed talk and a firm dollar. RoboForex sees a retest of $3,852 opening the way to $3,777, while FXStreet's Sagar Dua puts $3,800 and $3,700 below the $3,850 line; Money Metals' Mike Maharrey sees weakness as a chance for long-term buyers.",
+      "url": "https://www.fxstreet.com/analysis/gold-today-3-analysts-see-more-downside-but-one-calls-it-a-buying-opportunity-202611131253",
+      "source": "FXStreet",
+      "source_domain": "fxstreet.com",
+      "publisher_id": "fxstreet",
+      "published_at": "2026-11-13T12:53:00Z",
+      "image_url": "https://editorial.fxsstatic.com/images/i/Commodities_Gold-1.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 7
+    },
+    {
       "id": "62c371e44b4f506d",
       "title": "India's October gold imports plunge 62.57% to $5.51 billion amid global price correction",
       "summary": "India's gold imports fell 62.57% from a year earlier to $5.51 billion in October, Commerce Department data showed, with prices below $4,000 an ounce; April-October imports were down 39.9% at $24.78 billion. The World Gold Council said gold may be nearing a temporary bottom after ending October at $3,913 an ounce, down 6.3% in the month.",
@@ -272,7 +291,7 @@
       "related_urls": [
         "https://www.devdiscourse.com/article/business/4006487-indias-gold-imports-plunge-6257-pc-to-usd-551-billion-in-october-as-prices-fall-below-usd-4000oz"
       ],
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "5d700f8da7feb1bd",
@@ -297,11 +316,11 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "6fe536420b07bb6a",
-      "rank": 9,
+      "rank": 10,
       "title": "Gold rebounds after sharp fall, silver lags: What should Indian investors watch",
       "summary": "MCX December gold rose 0.39% to Rs 1.36 lakh per 10 g as bargain hunting followed Thursday's slide, while silver eased 0.14% to Rs 1.78 lakh per kg; spot gold gained 1.1% to $3,918.59 an ounce.",
       "url": "https://www.cnbctv18.com/market/commodities/gold-rebounds-after-sharp-fall-silver-lags-what-indian-investors-watch-20033386.htm",
@@ -345,31 +364,6 @@
         "gold",
         "silver"
       ],
-      "breaking": false,
-      "rank": 10
-    },
-    {
-      "id": "065d7b30fdc34b2c",
-      "title": "Gold and Silver Price Forecast: Gold Hits 13-Month Low Before US PPI",
-      "summary": "Gold fell 2.76% on Thursday to a 13-month low before rebounding in early Asian trade, with silver testing support near $50. FXEmpire notes the 10-year Treasury yield at 5.10% and the dollar at a 19-month high, with markets pricing an 89% chance of a 25-basis-point December Fed hike. US producer prices due at 19:00 IST are the next test; a hot print could push gold toward $3,780, it says.",
-      "url": "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-gold-hits-13-month-low-before-us-ppi-1644401",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "publisher_id": "fxempire",
-      "published_at": "2026-11-13T04:31:00Z",
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "fed",
-        "global"
-      ],
-      "image_url": null,
-      "image_kind": "none",
       "breaking": false,
       "rank": 11
     },
@@ -427,6 +421,28 @@
       ]
     },
     {
+      "id": "55d62a999256d8ef",
+      "title": "Silver Faces a Smaller Supply Deficit as ETP Outflows and Yields Rise",
+      "summary": "The Silver Institute's November 12 data puts the 2026 silver deficit smaller than last year's, with industrial demand forecast down 3% to 640 million ounces. Silver-backed ETP holdings stood at 1.25 billion ounces on November 3, down 55 million ounces this year, and forecast net outflows of 450 million ounces have eased physical tightness, while US 10-year real yields rose to 2.86%.",
+      "url": "https://www.fxempire.com/forecasts/article/silver-faces-a-smaller-supply-deficit-as-etp-outflows-and-yields-rise-1644491",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "published_at": "2026-11-13T14:25:23Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "silver",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 14
+    },
+    {
       "id": "cb49d8cf370b47fd",
       "title": "Gold oversold, but further fall to $3,750 likely: Mirae Asset Sharekhan",
       "summary": "Mirae Asset Sharekhan says gold looks oversold after three straight days of falls, but further weakness is likely as a stronger dollar and higher yields keep pressure on, with traders positioning for the December Fed meeting. It sees support around $3,750 an ounce in the short run, with a break below opening the way to $3,600.",
@@ -447,29 +463,6 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 14
-    },
-    {
-      "url": "https://www.fxstreet.com/news/silver-tumbles-over-3-as-fed-rate-hike-bets-fuel-us-dollar-rally-202611121711",
-      "title": "Silver tumbles over 3% as hot US inflation boosts Fed hike bets",
-      "summary": "Silver fell 3% on Thursday to about $50.15 an ounce as the dollar index neared 103.10, its highest since April 2025, and traders fully priced a December Fed rate rise. Core US CPI rose 0.3% in October, above forecasts, and hawkish remarks from Fed officials including Christopher Waller and Beth Hammack weighed on the metal; traders now await Friday's US producer price data.",
-      "source": "FXStreet",
-      "source_domain": "fxstreet.com",
-      "publisher_id": "fxstreet",
-      "published_at": "2026-11-12T17:11:58Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "silver",
-        "fed",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "breaking": false,
-      "id": "cfcb158ac72e8ffc",
       "rank": 15
     },
     {
@@ -599,28 +592,6 @@
       "rank": 20
     },
     {
-      "id": "05750765802d5710",
-      "title": "Silver Falls as Rising Real Yields Overshadow Supply Deficits",
-      "summary": "Silver fell 3.9% to $51.32 an ounce on Tuesday as rising real yields overshadowed a fifth straight year of structural supply deficits, the Silver Institute's data shows. The 10-year real yield rose to 2.78% from 2.63% the previous week, leaving rallies capped below $55, FXEmpire's analysis says.",
-      "url": "https://www.fxempire.com/forecasts/article/silver-falls-as-rising-real-yields-overshadow-supply-deficits-1644169",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "publisher_id": "fxempire",
-      "published_at": "2026-11-12T13:18:38Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "silver",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 21
-    },
-    {
       "id": "3e7f3330527b7771",
       "title": "Gold purchases rose 30% as prices fell 21%: 52 tonnes of gold worth ₹72,000 crore sold during Diwali-Dhanteras; silver purchases also rose 10%",
       "summary": "Gold buying rose 30% by volume during Dhanteras and Diwali compared with last year, the India Bullion and Jewellers Association says, with about 52 tonnes worth ₹72,000 crore sold and silver purchases up 10% to 300 tonnes worth ₹5,400 crore. The rebound followed a price correction from about ₹1.8 lakh to ₹1.42 lakh per 10 g, with jewellers also citing advance wedding-season buying.",
@@ -643,7 +614,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 22
+      "rank": 21
     },
     {
       "id": "aee4fbff7bdf325a",
@@ -667,7 +638,7 @@
         "jewellery"
       ],
       "breaking": false,
-      "rank": 23
+      "rank": 22
     }
   ]
 }
