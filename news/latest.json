@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-14T02:00Z",
-  "generated_at": "2026-11-14T02:07:12Z",
+  "edition_id": "2026-11-14T03:00Z",
+  "generated_at": "2026-11-14T03:12:30Z",
   "window": {
-    "from": "2026-11-14T00:00:00Z",
-    "to": "2026-11-14T02:00:00Z"
+    "from": "2026-11-14T02:00:00Z",
+    "to": "2026-11-14T03:00:00Z"
   },
   "insights": {
     "headline": "Gold steadies near $3,890 after its worst week since June as Fed hike bets grip markets",
@@ -13,7 +13,7 @@
       "Spot gold near $3,890, down about 4% on the week - its worst week since June - with the lowest weekly close since October 2025.",
       "December gold futures broke below the October low of $3,879 to $3,857 on Thursday; Kitco's Radomski sees the next move toward about $3,500.",
       "US producer prices rose 0.3% in October, below the 0.4% forecast, but 6.5% on the year - the largest annual rise since November 2022.",
-      "Silver held near $49 an ounce, below $50 and on track for a weekly loss of more than 5%; demand is forecast down 5% in 2026.",
+      "Silver near $49, below $50, set for a weekly loss over 5%; Metals Focus sees the 2026 deficit at 35 million ounces, but fund selling flips it to surplus.",
       "MCX gold held near Rs 1.37 lakh per 10 g as festive demand stayed firm; October gold imports fell 62% on the year. Next: the Fed's December 8-9 meeting."
     ],
     "brief": {
@@ -60,12 +60,12 @@
         "c16fe6bd1b2f7f6d",
         "393616012c2be9ab",
         "355d87ad228d7c8c",
-        "a68f8e55bf07e7ad"
+        "d02220ec4771ef8c"
       ]
     },
     {
       "title": "December hike: 25 or 50 basis points?",
-      "summary": "Waller put a 50-point December hike on the table if core inflation stays near 0.3%; Bessent said the Fed should not hike into an energy shock. After cooler PPI, quarter-point odds stood near 90%.",
+      "summary": "Waller put a 50-point December hike on the table if core inflation stays near 0.3%; Bessent argued against hiking into an energy shock. After cooler PPI, quarter-point odds stood near 90%.",
       "item_ids": [
         "4ceb659f671535f8",
         "bd303b91c7e0b527",
@@ -74,21 +74,24 @@
     },
     {
       "title": "Silver slips below $50",
-      "summary": "Silver fell below $50 and is on track for a weekly loss of more than 5%, with the dollar at its highest since April 2025 and yields above 5%.",
+      "summary": "Silver fell below $50, on track for a weekly loss over 5% as the dollar hit its highest since April 2025. Metals Focus sees the 2026 deficit narrowing to 35 million ounces.",
       "item_ids": [
         "615d4318ae63c068",
         "9e2d6adcbfcb1536",
-        "58c73fbd449a3835"
+        "58c73fbd449a3835",
+        "349edcf0d8da7b91",
+        "d02220ec4771ef8c"
       ]
     },
     {
-      "title": "India's festive demand holds firm",
-      "summary": "Lower prices drew firm festive buying during Diwali and jewellery exports jumped 34% in October, even as October gold imports fell 62% after the duty rise.",
+      "title": "India's festive demand cools after the rush",
+      "summary": "Festive buying was firm while prices fell, but Delhi bullion trade is now fading on subdued post-Diwali demand; jewellery exports still jumped 34% in October.",
       "item_ids": [
         "5e1c70975cd6ac7c",
         "7990f7a275197ec1",
         "3e7f3330527b7771",
-        "62c371e44b4f506d"
+        "62c371e44b4f506d",
+        "8e9439d54a01561a"
       ]
     }
   ],
@@ -219,6 +222,28 @@
       "rank": 5
     },
     {
+      "id": "349edcf0d8da7b91",
+      "title": "Silver's 6th Annual Deficit Masks a Surplus as ETF Selling Adds Supply",
+      "summary": "Metals Focus and the Silver Institute now expect a sixth straight annual silver deficit of 35 million ounces in 2026, narrower than the 46.3 million ounces forecast in April. But silver funds are expected to release 45 million ounces over the year, flipping the balance to a 10 million ounce surplus. Coin and bar demand is forecast at 215 million ounces, down 2%.",
+      "url": "https://www.investing.com/analysis/silvers-6th-annual-deficit-masks-a-surplus-as-etf-selling-adds-supply-200691562",
+      "source": "Investing.com",
+      "source_domain": "investing.com",
+      "publisher_id": "investing",
+      "published_at": "2026-11-13T21:06:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "silver",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 6
+    },
+    {
       "id": "5e1c70975cd6ac7c",
       "title": "India gold demand stays firm as lower prices draw festive buying",
       "summary": "India's gold demand stayed firm this week as lower prices drew festive buying during Diwali, dealers told Reuters. Domestic gold traded near Rs 1.37 lakh per 10 g after falling to Rs 1,35,530 on Thursday, its lowest since March 23, with dealer premiums up to $8 an ounce over official prices, against $4 last week. Wedding-season demand is also gaining momentum, dealers said.",
@@ -239,30 +264,31 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 7
     },
     {
-      "id": "a68f8e55bf07e7ad",
-      "title": "Gold's $3,850 Weekly Support Matters as Real Yields Climb to 2.86%",
-      "summary": "Gold faces a critical test at $3,850 as the US 10-year real yield climbed to 2.86% from 2.63% in a week, lifting the cost of holding bullion. Futures near $3,886, below $4,000-$4,200 resistance; a break could put $3,500 in focus. October PPI rose 0.3% on the month but 6.5% on the year, the biggest annual rise since Nov 2022. Next: CFTC positioning data on Monday and Fed minutes on Wednesday.",
-      "url": "https://www.fxempire.com/forecasts/article/golds-3850-weekly-support-matters-as-real-yields-climb-to-2-86-1644571",
+      "id": "d02220ec4771ef8c",
+      "title": "The Dollar Hits Its Targets. Is Silver Approaching a Major Breakout?",
+      "summary": "The dollar closed at 103.09, meeting its upside targets near 103.08-103.20, while silver broke below $50 intraday to $49.67 and now sits at a decision point inside a narrowing weekly triangle. Support lies near $48.61-48.90, and a daily close above $52.27-52.32 is needed to turn the outlook bullish, Kitco Commentary says.",
+      "url": "https://www.fxempire.com/forecasts/article/the-dollar-hits-its-targets-is-silver-approaching-a-major-breakout-1644631",
       "source": "FXEmpire",
       "source_domain": "fxempire.com",
       "publisher_id": "fxempire",
-      "published_at": "2026-11-13T17:27:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/a68f8e55bf07e7ad.jpg",
-      "image_kind": "photo",
+      "published_at": "2026-11-13T19:29:14Z",
+      "image_url": null,
+      "image_kind": "none",
       "tags": [
         "gold",
-        "global",
-        "fed"
+        "silver",
+        "global"
       ],
       "category": "global",
       "metals": [
-        "gold"
+        "gold",
+        "silver"
       ],
       "breaking": false,
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "4ceb659f671535f8",
@@ -285,7 +311,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "bd303b91c7e0b527",
@@ -308,7 +334,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "9e2d6adcbfcb1536",
@@ -334,7 +360,7 @@
       "related_urls": [
         "https://rss.globenewswire.com/news-release/2026/11/13/3402349/0/en/silver-market-set-for-sixth-consecutive-annual-deficit-in-2026.html"
       ],
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "124bda66bcce4010",
@@ -358,7 +384,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 12
     },
     {
       "id": "b0990b59ee5f18cd",
@@ -383,7 +409,31 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 13
+    },
+    {
+      "id": "8e9439d54a01561a",
+      "title": "Fading festive demand weighs on bullion trade",
+      "summary": "Gold in New Delhi fell Rs 2,500 to Rs 1,40,900 per 10 g for a fourth straight session as post-Diwali demand stayed subdued, the All India Sarafa Association said, while silver plunged Rs 3,500 to Rs 1,84,000 per kg on weak demand from industrial units and coin makers.",
+      "url": "https://www.thehansindia.com/business/fading-festive-demand-weighs-on-bullion-trade-1141989",
+      "source": "The Hans India",
+      "source_domain": "thehansindia.com",
+      "publisher_id": "hans-india",
+      "published_at": "2026-11-14T00:36:00Z",
+      "image_url": "https://assets.thehansindia.com/h-upload/2026/11/14/1724554-jewellery.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "india"
+      ],
+      "category": "festive",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 14
     },
     {
       "id": "7addc9da03eb4c92",
@@ -406,7 +456,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 13
+      "rank": 15
     },
     {
       "id": "62c371e44b4f506d",
@@ -432,7 +482,7 @@
       "related_urls": [
         "https://www.devdiscourse.com/article/business/4006487-indias-gold-imports-plunge-6257-pc-to-usd-551-billion-in-october-as-prices-fall-below-usd-4000oz"
       ],
-      "rank": 14
+      "rank": 16
     },
     {
       "id": "5d700f8da7feb1bd",
@@ -457,11 +507,11 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 15
+      "rank": 17
     },
     {
       "id": "6fe536420b07bb6a",
-      "rank": 16,
+      "rank": 18,
       "title": "Gold rebounds after sharp fall, silver lags: What should Indian investors watch",
       "summary": "MCX December gold rose 0.39% to Rs 1.36 lakh per 10 g as bargain hunting followed Thursday's slide, while silver eased 0.14% to Rs 1.78 lakh per kg; spot gold gained 1.1% to $3,918.59 an ounce.",
       "url": "https://www.cnbctv18.com/market/commodities/gold-rebounds-after-sharp-fall-silver-lags-what-indian-investors-watch-20033386.htm",
@@ -506,7 +556,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 17
+      "rank": 19
     },
     {
       "id": "a00aa158437cadf7",
@@ -531,7 +581,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 18
+      "rank": 20
     },
     {
       "id": "a46ea587618d6fc3",
@@ -557,7 +607,7 @@
       "related_urls": [
         "https://www.moneycontrol.com/news/business/personal-finance/sgb-2018-19-series-iii-redemption-price-set-at-rs-14024-353-gain-for-investors-14078537.html"
       ],
-      "rank": 19
+      "rank": 21
     },
     {
       "url": "https://informistmedia.com/CommodityWire/64676/India-Bullion-Down-as-dollar-hits-19-month-high-hawkish-Fed-also-weighs",
@@ -583,7 +633,7 @@
       ],
       "breaking": false,
       "id": "700e03bdbe5a0de1",
-      "rank": 20
+      "rank": 22
     },
     {
       "id": "70c144ea7430a4ef",
@@ -609,7 +659,7 @@
         "rupee"
       ],
       "breaking": false,
-      "rank": 21
+      "rank": 23
     },
     {
       "id": "3e7f3330527b7771",
@@ -634,7 +684,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 22
+      "rank": 24
     }
   ]
 }
