@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-14T09:00Z",
-  "generated_at": "2026-11-14T09:08:44Z",
+  "edition_id": "2026-11-14T11:00Z",
+  "generated_at": "2026-11-14T11:02:22Z",
   "window": {
-    "from": "2026-11-14T08:00:00Z",
-    "to": "2026-11-14T09:00:00Z"
+    "from": "2026-11-14T10:00:00Z",
+    "to": "2026-11-14T11:00:00Z"
   },
   "insights": {
     "headline": "Gold steadies near $3,883 after its worst week in months as Fed hike bets lift the dollar",
@@ -60,7 +60,6 @@
       "item_ids": [
         "1a7fd2f153bcfda5",
         "393616012c2be9ab",
-        "c16fe6bd1b2f7f6d",
         "3f7940a4587d8780",
         "b6826dde5266a3e2"
       ]
@@ -80,8 +79,7 @@
       "summary": "Silver slid about 3.8% on the week despite a sixth straight annual supply deficit, as fund selling and higher yields outweigh jewellery demand.",
       "item_ids": [
         "58c73fbd449a3835",
-        "349edcf0d8da7b91",
-        "c16fe6bd1b2f7f6d"
+        "349edcf0d8da7b91"
       ]
     },
     {
@@ -91,6 +89,13 @@
         "b0990b59ee5f18cd",
         "700e03bdbe5a0de1",
         "6fe536420b07bb6a"
+      ]
+    },
+    {
+      "title": "Major gold discoveries are drying up",
+      "summary": "Only nine deposits found since 2020 met S&P Global's major-discovery bar, holding 38 million ounces combined, against 371 deposits and 3.2 billion ounces from 1990 to 2025.",
+      "item_ids": [
+        "0fc680836f7e2379"
       ]
     }
   ],
@@ -170,31 +175,6 @@
       "rank": 3
     },
     {
-      "id": "c16fe6bd1b2f7f6d",
-      "title": "Gold Makes Worst Losing Run in 4 Decades, Silver Plunge Tests $50 Again",
-      "summary": "Gold fell 3.5% on the week to fix near $3,890 an ounce, its lowest week-end level since October 2025, matching its worst 10-in-12-weeks run since 1989. Silver slid 3.8% and dipped below $50 before holding the level at the London fix, down more than 50% from January's all-time high. Hot US inflation data pushed the 10-year Treasury yield to 5.13% and the real yield to 2.87%.",
-      "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-price-week-111320261",
-      "source": "BullionVault",
-      "source_domain": "bullionvault.com",
-      "publisher_id": "bullionvault",
-      "published_at": "2026-11-13T16:54:07Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/c16fe6bd1b2f7f6d.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "global",
-        "fed"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 4
-    },
-    {
       "id": "3f7940a4587d8780",
       "title": "Goldman Sachs cuts year-end gold price target to $4,150/oz, 2027 target to $4,800/oz",
       "summary": "Goldman Sachs cut its end-2026 gold forecast to $4,150 an ounce from $4,650 and its end-2027 target to $4,800 from $5,400, blaming the Fed's hawkish shift for weaker investor demand. The bank still expects central banks to buy about 60 tonnes a month through 2027 and sees rate cuts from late 2027 supporting gold later.",
@@ -216,7 +196,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 5
+      "rank": 4
     },
     {
       "id": "b6826dde5266a3e2",
@@ -240,30 +220,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 6
-    },
-    {
-      "url": "https://www.reuters.com/business/feds-jefferson-says-he-is-taking-his-policy-cues-inflation-2026-11-14/",
-      "title": "Fed's Jefferson says he is taking his policy cues from inflation",
-      "summary": "Federal Reserve Vice Chair Philip Jefferson said on Friday he is taking his policy cues from inflation, a signal he may support further rate hikes with the economy growing and the labour market stabilised. Jefferson said inflation readings showed persistent price pressures; other Fed officials have said elevated inflation likely means more hikes.",
-      "source": "Reuters",
-      "source_domain": "reuters.com",
-      "publisher_id": "reuters",
-      "published_at": "2026-11-14T00:03:19Z",
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "fed",
-        "global"
-      ],
-      "image_url": null,
-      "image_kind": "none",
-      "id": "c6efb8cc50bc1d99",
-      "breaking": false,
-      "rank": 7
+      "rank": 5
     },
     {
       "url": "https://www.streetwisereports.com/article/2026/11/13/central-bank-gold-buying-surges-42-as-prices-dip-below-us-4-000.html",
@@ -286,7 +243,7 @@
       "image_kind": "photo",
       "id": "b79208a5675a80a3",
       "breaking": false,
-      "rank": 8
+      "rank": 6
     },
     {
       "url": "https://www.maritimegateway.com/oil-and-gold-imports-push-indias-october-trade-deficit-to-us39-88-billion/",
@@ -309,7 +266,7 @@
       "image_kind": "photo",
       "id": "91788802d2bc8e76",
       "breaking": false,
-      "rank": 9
+      "rank": 7
     },
     {
       "id": "62c371e44b4f506d",
@@ -335,7 +292,29 @@
       "related_urls": [
         "https://www.devdiscourse.com/article/business/4006487-indias-gold-imports-plunge-6257-pc-to-usd-551-billion-in-october-as-prices-fall-below-usd-4000oz"
       ],
-      "rank": 10
+      "rank": 8
+    },
+    {
+      "id": "0fc680836f7e2379",
+      "title": "Gold Prices Hit Records. Where Are the Major Discoveries?",
+      "summary": "Only nine gold deposits discovered between 2020 and 2025 reached S&P Global's major-discovery threshold, holding a combined 38 million ounces — a fraction of the 371 deposits and roughly 3.2 billion ounces found from 1990 to 2025 — even as gold cleared $5,000 an ounce early in 2026, underscoring how thin the long-term supply pipeline has become.",
+      "url": "https://www.streetwisereports.com/article/2026/11/13/gold-prices-hit-records-where-are-the-major-discoveries.html",
+      "source": "Streetwise Reports",
+      "source_domain": "streetwisereports.com",
+      "publisher_id": "streetwise-reports",
+      "published_at": "2026-11-13T10:30:00Z",
+      "image_url": "https://www.streetwisereports.com/images/gold-prices-hit-records-where-are-the-major-discoveries-article-feature-image.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 9
     },
     {
       "id": "b0990b59ee5f18cd",
@@ -360,7 +339,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 10
     },
     {
       "url": "https://trak.in/stories/gold-prices-fall-to-rs-1-40-lakh-per-10-grams-as-post-diwali-demand-weakens/",
@@ -385,7 +364,7 @@
       "image_kind": "photo",
       "id": "59219e908f574c2a",
       "breaking": false,
-      "rank": 12
+      "rank": 11
     },
     {
       "url": "https://informistmedia.com/CommodityWire/64676/India-Bullion-Down-as-dollar-hits-19-month-high-hawkish-Fed-also-weighs",
@@ -411,11 +390,11 @@
       ],
       "breaking": false,
       "id": "700e03bdbe5a0de1",
-      "rank": 13
+      "rank": 12
     },
     {
       "id": "6fe536420b07bb6a",
-      "rank": 14,
+      "rank": 13,
       "title": "Gold rebounds after sharp fall, silver lags: What should Indian investors watch",
       "summary": "MCX December gold rose 0.39% to Rs 1.36 lakh per 10 g as bargain hunting followed Thursday's slide, while silver eased 0.14% to Rs 1.78 lakh per kg; spot gold gained 1.1% to $3,918.59 an ounce.",
       "url": "https://www.cnbctv18.com/market/commodities/gold-rebounds-after-sharp-fall-silver-lags-what-indian-investors-watch-20033386.htm",
@@ -459,7 +438,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 15
+      "rank": 14
     },
     {
       "id": "349edcf0d8da7b91",
@@ -481,7 +460,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 16
+      "rank": 15
     },
     {
       "id": "7990f7a275197ec1",
@@ -506,32 +485,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 17
-    },
-    {
-      "id": "a00aa158437cadf7",
-      "title": "India's retail inflation rises to 6.09% in October, breaches RBI limit",
-      "summary": "India's retail inflation rose to 6.09% in October from 5.54% in September, crossing the RBI's 6% upper tolerance limit for the first time under the new series, as food inflation climbed to 8.94% on onion prices up 116%. The print strengthens the case for another rate rise at the RBI's December 2-4 meeting, after the repo rate was raised to 5.50% in October.",
-      "url": "https://www.thehindubusinessline.com/economy/indias-retail-inflation-rises-to-609-in-october-breaches-rbis-upper-tolerance-limit/article71693402.ece",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "publisher_id": "hindu-businessline",
-      "published_at": "2026-11-12T11:00:00Z",
-      "image_url": "https://bl-i.thgim.com/public/incoming/1tt05m/article71693417.ece/alternates/LANDSCAPE_1200/IMG_iStock-1488883191.jp_2_1_55C17SK5.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "rbi",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 18
+      "rank": 16
     },
     {
       "id": "124bda66bcce4010",
@@ -555,7 +509,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 19
+      "rank": 17
     },
     {
       "id": "a46ea587618d6fc3",
@@ -581,7 +535,7 @@
       "related_urls": [
         "https://www.moneycontrol.com/news/business/personal-finance/sgb-2018-19-series-iii-redemption-price-set-at-rs-14024-353-gain-for-investors-14078537.html"
       ],
-      "rank": 20
+      "rank": 18
     }
   ]
 }
