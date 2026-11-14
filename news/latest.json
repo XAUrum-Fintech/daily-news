@@ -1,17 +1,17 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-14T03:00Z",
-  "generated_at": "2026-11-14T03:12:30Z",
+  "edition_id": "2026-11-14T04:00Z",
+  "generated_at": "2026-11-14T04:02:11Z",
   "window": {
-    "from": "2026-11-14T02:00:00Z",
-    "to": "2026-11-14T03:00:00Z"
+    "from": "2026-11-14T03:00:00Z",
+    "to": "2026-11-14T04:00:00Z"
   },
   "insights": {
     "headline": "Gold steadies near $3,890 after its worst week since June as Fed hike bets grip markets",
     "summary": "Spot gold held near $3,890 an ounce on Friday after a cooler-than-expected US producer-price report, still set for a weekly fall of about 4%, its worst week since June. October PPI rose 0.3% on the month, below the 0.4% forecast, but 6.5% on the year, the largest annual rise since November 2022. The 10-year Treasury yield held above 5% and the dollar index traded near a 19-month high, keeping December Fed hike bets fully priced. Silver held near $49 an ounce, below $50, and MCX gold held near Rs 1.37 lakh per 10 g as festive demand stayed firm.",
     "points": [
       "Spot gold near $3,890, down about 4% on the week - its worst week since June - with the lowest weekly close since October 2025.",
-      "December gold futures broke below the October low of $3,879 to $3,857 on Thursday; Kitco's Radomski sees the next move toward about $3,500.",
+      "Goldman Sachs cut its year-end gold target to $4,150 from $4,650 and its end-2027 call to $4,800; Standard Chartered holds $4,650.",
       "US producer prices rose 0.3% in October, below the 0.4% forecast, but 6.5% on the year - the largest annual rise since November 2022.",
       "Silver near $49, below $50, set for a weekly loss over 5%; Metals Focus sees the 2026 deficit at 35 million ounces, but fund selling flips it to surplus.",
       "MCX gold held near Rs 1.37 lakh per 10 g as festive demand stayed firm; October gold imports fell 62% on the year. Next: the Fed's December 8-9 meeting."
@@ -65,11 +65,12 @@
     },
     {
       "title": "December hike: 25 or 50 basis points?",
-      "summary": "Waller put a 50-point December hike on the table if core inflation stays near 0.3%; Bessent argued against hiking into an energy shock. After cooler PPI, quarter-point odds stood near 90%.",
+      "summary": "Waller put a 50-point December hike on the table; Bessent argued against hiking into an energy shock. Quarter-point odds stood near 90% after cooler PPI, and Goldman cut its year-end target to $4,150.",
       "item_ids": [
         "4ceb659f671535f8",
         "bd303b91c7e0b527",
-        "393616012c2be9ab"
+        "393616012c2be9ab",
+        "dc1a56f3fb49411a"
       ]
     },
     {
@@ -171,6 +172,34 @@
       "rank": 3
     },
     {
+      "id": "dc1a56f3fb49411a",
+      "title": "Gold price: Two major banks, two scenarios - who will be right?",
+      "summary": "Goldman Sachs cut its year-end gold target to $4,150 an ounce from $4,650 and its end-2027 call to $4,800, citing a hawkish Fed and higher real rates, while Standard Chartered held its $4,650 year-end view and sees support at $4,000. Goldman still expects central banks to buy about 60 tonnes of gold a month through 2027.",
+      "url": "https://goldinvest.de/en/gold-price-two-major-banks-two-scenarios-who-will-be-right",
+      "source": "GoldInvest.de",
+      "source_domain": "goldinvest.de",
+      "publisher_id": "goldinvest-de",
+      "published_at": "2026-11-12T06:03:32Z",
+      "image_url": "https://cdn.sanity.io/images/ei7u545l/production/845222d46203a3643520dd8942fdfd99f8549d5c-1920x1080.webp?w=1200&h=630&fit=crop&q=80&auto=format",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "global",
+        "fed",
+        "central-banks"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://www.kitco.com/news/article/2026-11-13/goldman-sachs-cuts-year-end-gold-price-target-4150oz-2027-target-4800oz",
+        "https://www.marketwatch.com/story/goldmans-new-gold-target-why-the-wall-street-bank-is-saying-its-early-to-buy-the-yellow-metal-d8ae35e0"
+      ],
+      "rank": 4
+    },
+    {
       "id": "615d4318ae63c068",
       "title": "Silver Price Forecast: XAG/USD Remains Trapped In Descending Channel",
       "summary": "Silver slid back below $50 on Friday and is on track for a weekly loss of more than 5% as traders fully price a December Fed rate rise, FXStreet reports. The metal traded near $49, just above its October 30 low of $48.87, with the dollar index near 103.40 - its highest since April 2025 - and the 10-year Treasury yield back above 5%.",
@@ -195,7 +224,7 @@
       "related_urls": [
         "https://talkmarkets.com/article/silver-price-forecast-xagusd-remains-trapped-in-descending-channel"
       ],
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "58c73fbd449a3835",
@@ -219,7 +248,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "349edcf0d8da7b91",
@@ -241,7 +270,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "5e1c70975cd6ac7c",
@@ -264,7 +293,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "d02220ec4771ef8c",
@@ -288,7 +317,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "4ceb659f671535f8",
@@ -311,7 +340,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "bd303b91c7e0b527",
@@ -334,7 +363,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "9e2d6adcbfcb1536",
@@ -360,7 +389,7 @@
       "related_urls": [
         "https://rss.globenewswire.com/news-release/2026/11/13/3402349/0/en/silver-market-set-for-sixth-consecutive-annual-deficit-in-2026.html"
       ],
-      "rank": 11
+      "rank": 12
     },
     {
       "id": "124bda66bcce4010",
@@ -384,7 +413,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 13
     },
     {
       "id": "b0990b59ee5f18cd",
@@ -409,7 +438,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 13
+      "rank": 14
     },
     {
       "id": "8e9439d54a01561a",
@@ -431,29 +460,6 @@
       "metals": [
         "gold",
         "silver"
-      ],
-      "breaking": false,
-      "rank": 14
-    },
-    {
-      "id": "7addc9da03eb4c92",
-      "title": "Gold today: 3 analysts see more downside, but one calls it a buying opportunity",
-      "summary": "Three analysts see gold under more near-term pressure after its slide to a 13-month low near $3,850, with rebounds capped by hot US inflation, hawkish Fed talk and a firm dollar. RoboForex sees a retest of $3,852 opening the way to $3,777, while FXStreet's Sagar Dua puts $3,800 and $3,700 below the $3,850 line; Money Metals' Mike Maharrey sees weakness as a chance for long-term buyers.",
-      "url": "https://www.fxstreet.com/analysis/gold-today-3-analysts-see-more-downside-but-one-calls-it-a-buying-opportunity-202611131253",
-      "source": "FXStreet",
-      "source_domain": "fxstreet.com",
-      "publisher_id": "fxstreet",
-      "published_at": "2026-11-13T12:53:00Z",
-      "image_url": "https://editorial.fxsstatic.com/images/i/Commodities_Gold-1.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "fed",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
       ],
       "breaking": false,
       "rank": 15
