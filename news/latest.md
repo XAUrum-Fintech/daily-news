@@ -1,4 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-11-14T14:00Z
+# Gold & Silver for Indian buyers · 2026-11-14T16:00Z
 
 > Gold steadies near $3,883 after its worst week in months as Fed hike bets lift the dollar
 
@@ -25,7 +25,7 @@ Spot gold steadied near $3,883 after a 4.5% weekly fall on Fed hike bets, while 
 ## Trending
 
 - **Fed hike bets drive the sell-off**: Hot October inflation has traders pricing a December hike as near certain, lifting the dollar to a 19-month high and yields higher — and gold below $4,000 for its worst week in four months. (stories 1, 2, 3, 6, 4)
-- **India's imports slump, exports shine**: October gold imports fell 62% to $5.51 billion as high prices curbed buying, while gem and jewellery exports jumped 34% to $2.92 billion — and the wider trade deficit hit $39.88 billion. (stories 10, 18, 12, 13)
+- **India's imports slump, exports shine**: October gold imports fell 62% to $5.51 billion as high prices curbed buying, while gem and jewellery exports jumped 34% to $2.92 billion — and the wider trade deficit hit $39.88 billion. (stories 10, 17, 12, 13)
 - **MCX steadies after the slide**: MCX gold held near Rs 1.37 lakh per 10 g after jumping Rs 1,300 in a session, with Delhi prices easing as post-Diwali demand faded and silver lagging the rebound. (stories 14, 15, 16, 11)
 - **Silver's deficit story holds**: Silver is set for a sixth straight annual deficit, though ETF selling has added supply, and silver futures eased to $49.89 as rate-hike fears weighed. (stories 9, 2)
 
@@ -63,11 +63,9 @@ Spot gold steadied near $3,883 after a 4.5% weekly fall on Fed hike bets, while 
    Gold fell Rs 2,500 to Rs 1,40,900 per 10 grams in Delhi on Friday, a fourth straight session of losses, as weak global cues and fading demand after Diwali weighed on prices. Silver fell Rs 3,500 to Rs 1,84,000 per kg. HDFC Securities' Saumil Gandhi cited soft retail demand, a stronger dollar and rising US yields.
 16. [Gold rebounds after sharp fall, silver lags: What should Indian investors watch](https://www.cnbctv18.com/market/commodities/gold-rebounds-after-sharp-fall-silver-lags-what-indian-investors-watch-20033386.htm) — *CNBC-TV18*, 2026-11-13T07:51:02Z
    MCX December gold rose 0.39% to Rs 1.36 lakh per 10 g as bargain hunting followed Thursday's slide, while silver eased 0.14% to Rs 1.78 lakh per kg; spot gold gained 1.1% to $3,918.59 an ounce.
-17. [India Bullion: Down as dollar hits 19-month high; hawkish Fed also weighs](https://informistmedia.com/CommodityWire/64676/India-Bullion-Down-as-dollar-hits-19-month-high-hawkish-Fed-also-weighs) — *Informist Media*, 2026-11-12T15:16:21Z
-   Gold and silver futures on MCX and COMEX fell for a third straight session as the dollar rose to a 19-month high above 103 and traders fully priced a December Fed rate rise. At 18:49 IST, MCX December gold stood at Rs 1,41,185 per 10 g and silver at Rs 1,80,800 per kg; jewellers cut domestic discounts to Rs 500 as lower prices drew buying, with the rupee at 94.04 per dollar.
-18. [India's gem and jewellery exports jump 34% to $2.92 billion in October on festive demand](https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/indias-gem-and-jewellery-exports-jump-34-to-2-92-billion-in-october-on-festive-demand/articleshow/135794088.cms) — *Economic Times*, 2026-11-13T07:31:00Z
+17. [India's gem and jewellery exports jump 34% to $2.92 billion in October on festive demand](https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/indias-gem-and-jewellery-exports-jump-34-to-2-92-billion-in-october-on-festive-demand/articleshow/135794088.cms) — *Economic Times*, 2026-11-13T07:31:00Z
    India's gem and jewellery exports surged 34.01% year on year to $2.92 billion in October, from $2.18 billion a year earlier, per GJEPC data. In rupee terms shipments rose 44.71% to Rs 27,862.82 crore, led by gold jewellery, silver jewellery and lab-grown diamonds on strong orders ahead of the Christmas and year-end holiday season.
-19. [India's forex reserves rise by $2.49 billion to $719.55 billion: RBI data](https://www.business-standard.com/finance/news/india-s-forex-reserves-rise-by-2-49-billion-to-719-55-billion-rbi-data-126111301246_1.html) — *Business Standard*, 2026-11-13T12:47:35Z
+18. [India's forex reserves rise by $2.49 billion to $719.55 billion: RBI data](https://www.business-standard.com/finance/news/india-s-forex-reserves-rise-by-2-49-billion-to-719-55-billion-rbi-data-126111301246_1.html) — *Business Standard*, 2026-11-13T12:47:35Z
    India's foreign exchange reserves rose $2.49 billion to $719.55 billion in the week ended November 6, the RBI's weekly data showed, recovering after two straight weekly declines. The value of the RBI's gold holdings rose $2.21 billion to $104.80 billion.
-20. [SGB 2018-19 Series III final redemption today: Investors to earn up to 348% return; check RBI fixed price, interest rate](https://www.livemint.com/money/personal-finance/sgb-2018-19-series-iii-final-redemption-today-investors-to-earn-up-to-348-return-check-rbi-fixed-price-interest-rate-11794529119186.html) — *Mint*, 2026-11-13T02:27:28Z
+19. [SGB 2018-19 Series III final redemption today: Investors to earn up to 348% return; check RBI fixed price, interest rate](https://www.livemint.com/money/personal-finance/sgb-2018-19-series-iii-final-redemption-today-investors-to-earn-up-to-348-return-check-rbi-fixed-price-interest-rate-11794529119186.html) — *Mint*, 2026-11-13T02:27:28Z
    The RBI has fixed the final redemption price for Sovereign Gold Bond 2018-19 Series-III at ₹14,024 per unit as the tranche matures on November 13, 2026, eight years after issue. Holders who bought at ₹3,183 a gram gain about 341%, and online buyers at ₹3,133 up to 348%, before the 2.5% annual interest.
