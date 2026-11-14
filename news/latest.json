@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-14T04:00Z",
-  "generated_at": "2026-11-14T04:02:11Z",
+  "edition_id": "2026-11-14T05:00Z",
+  "generated_at": "2026-11-14T05:02:22Z",
   "window": {
-    "from": "2026-11-14T03:00:00Z",
-    "to": "2026-11-14T04:00:00Z"
+    "from": "2026-11-14T04:00:00Z",
+    "to": "2026-11-14T05:00:00Z"
   },
   "insights": {
     "headline": "Gold steadies near $3,890 after its worst week since June as Fed hike bets grip markets",
@@ -65,12 +65,13 @@
     },
     {
       "title": "December hike: 25 or 50 basis points?",
-      "summary": "Waller put a 50-point December hike on the table; Bessent argued against hiking into an energy shock. Quarter-point odds stood near 90% after cooler PPI, and Goldman cut its year-end target to $4,150.",
+      "summary": "Waller put a 50-point December hike on the table; Jefferson takes his cues from inflation; Bessent argued against hiking into an energy shock. Quarter-point odds stood near 90% after cooler PPI.",
       "item_ids": [
         "4ceb659f671535f8",
         "bd303b91c7e0b527",
         "393616012c2be9ab",
-        "dc1a56f3fb49411a"
+        "dc1a56f3fb49411a",
+        "c42412fdb9af58ba"
       ]
     },
     {
@@ -200,6 +201,29 @@
       "rank": 4
     },
     {
+      "id": "c42412fdb9af58ba",
+      "title": "Fed's Jefferson says he is taking his policy cues from inflation",
+      "summary": "Fed Vice Chair Philip Jefferson said on Friday he is taking his policy cues from inflation, suggesting he may back further rate rises to bring price pressures under control. He joined the 10-2 October majority that voted to wait for more data before considering a hike.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-jefferson-says-he-is-taking-his-policy-cues-from-inflation/articleshow/135821792.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-11-14T03:50:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/c42412fdb9af58ba.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 5
+    },
+    {
       "id": "615d4318ae63c068",
       "title": "Silver Price Forecast: XAG/USD Remains Trapped In Descending Channel",
       "summary": "Silver slid back below $50 on Friday and is on track for a weekly loss of more than 5% as traders fully price a December Fed rate rise, FXStreet reports. The metal traded near $49, just above its October 30 low of $48.87, with the dollar index near 103.40 - its highest since April 2025 - and the 10-year Treasury yield back above 5%.",
@@ -224,7 +248,7 @@
       "related_urls": [
         "https://talkmarkets.com/article/silver-price-forecast-xagusd-remains-trapped-in-descending-channel"
       ],
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "58c73fbd449a3835",
@@ -248,7 +272,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "349edcf0d8da7b91",
@@ -270,7 +294,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "5e1c70975cd6ac7c",
@@ -293,7 +317,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "d02220ec4771ef8c",
@@ -317,7 +341,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "4ceb659f671535f8",
@@ -340,7 +364,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "bd303b91c7e0b527",
@@ -363,7 +387,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 12
     },
     {
       "id": "9e2d6adcbfcb1536",
@@ -389,7 +413,7 @@
       "related_urls": [
         "https://rss.globenewswire.com/news-release/2026/11/13/3402349/0/en/silver-market-set-for-sixth-consecutive-annual-deficit-in-2026.html"
       ],
-      "rank": 12
+      "rank": 13
     },
     {
       "id": "124bda66bcce4010",
@@ -413,7 +437,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 13
+      "rank": 14
     },
     {
       "id": "b0990b59ee5f18cd",
@@ -438,7 +462,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 15
     },
     {
       "id": "8e9439d54a01561a",
@@ -462,7 +486,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 15
+      "rank": 16
     },
     {
       "id": "62c371e44b4f506d",
@@ -488,31 +512,6 @@
       "related_urls": [
         "https://www.devdiscourse.com/article/business/4006487-indias-gold-imports-plunge-6257-pc-to-usd-551-billion-in-october-as-prices-fall-below-usd-4000oz"
       ],
-      "rank": 16
-    },
-    {
-      "id": "5d700f8da7feb1bd",
-      "title": "Gold inches higher but heads for weekly loss on Fed hike concerns",
-      "summary": "Spot gold edged up 0.2% to $3,883 an ounce after Thursday's 3% slide to a more than one-year low, but stayed on course for a 4.4% weekly fall. Oil jumped after attacks on Saudi energy infrastructure and Hormuz shipping risks, stoking inflation fears, while Fed officials signalled further rises may be needed and markets priced an 85% chance of a December hike. Spot silver steadied at $50.07.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-inches-higher-but-heads-for-weekly-loss-on-fed-hike-concerns/articleshow/135785994.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "publisher_id": "economic-times",
-      "published_at": "2026-11-13T01:31:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/5d700f8da7feb1bd.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "fed",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
       "rank": 17
     },
     {
