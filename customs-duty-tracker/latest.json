@@ -1,8 +1,8 @@
 {
   "schema": "customs-tracker.v4",
-  "generated_at": "2026-11-05T15:54:41Z",
+  "generated_at": "2026-11-15T16:13:10Z",
   "duty_rate": 0.15,
-  "row_count": 69,
+  "row_count": 70,
   "source_notes": "Tariff values: CBIC 'Fixation of Tariff Value' notifications amending 36/2001-Customs (N.T.). Exchange rates: ICEGATE ERAM notifications. London fix: LBMA gold PM / silver price.",
   "columns": [
     "Published",
@@ -1893,6 +1893,33 @@
       "source_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
       "source_kind": "portal",
       "notice_url": "https://foservices.icegate.gov.in/#/services/notifyPublishScreen",
+      "duty_rate": 0.15
+    },
+    {
+      "published": "2026-11-13",
+      "effective": "2026-11-14",
+      "event": "Tariff value",
+      "tariff_notification": "91/2026-Customs (N.T)",
+      "eram_notification": null,
+      "duty_notification": null,
+      "gold_tariff_usd_10g": 1245.0,
+      "silver_tariff_usd_kg": 1663.0,
+      "usd_inr_import": 95.35,
+      "usd_inr_export": 93.65,
+      "gold_london_fix_usd_oz": 3890.85,
+      "gold_tariff_usd_troy_oz": 3872.382862,
+      "silver_london_fix_usd_oz": 50.045,
+      "silver_tariff_usd_troy_oz": 51.725082,
+      "fix_date": "2026-11-13",
+      "gold_value_inr_kg": 11871075.0,
+      "gold_duty_inr_kg": 1780661.25,
+      "gold_duty_change_inr_kg": -71512.5,
+      "silver_value_inr_kg": 158567.05,
+      "silver_duty_inr_kg": 23785.06,
+      "silver_duty_change_inr_kg": -686.52,
+      "source_url": null,
+      "source_kind": null,
+      "notice_url": null,
       "duty_rate": 0.15
     }
   ]
