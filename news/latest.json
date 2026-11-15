@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-14T20:00Z",
-  "generated_at": "2026-11-14T20:15:47Z",
+  "edition_id": "2026-11-15T02:00Z",
+  "generated_at": "2026-11-15T02:15:29Z",
   "window": {
-    "from": "2026-11-14T18:00:00Z",
-    "to": "2026-11-14T20:00:00Z"
+    "from": "2026-11-15T00:00:00Z",
+    "to": "2026-11-15T02:00:00Z"
   },
   "insights": {
     "headline": "Gold holds near $3,883 after its worst week in months; Goldman cuts targets as Fed hike bets build",
@@ -16,7 +16,38 @@
       "Singapore opened a 500-tonne sovereign gold vault to foreign central banks, with a GST waiver for wholesale gold from April 2027.",
       "Silver closed near $48.77 an ounce, down 2.6% on Friday, with long-term support at $46.48; MCX gold held near Rs 1.37 lakh per 10 g."
     ],
-    "brief": null
+    "brief": {
+      "schema": "orob-brief.v1",
+      "brief_id": "2026-11-15-0745",
+      "date": "2026-11-15",
+      "generated_at": "2026-11-15T02:15:29Z",
+      "slot": "morning",
+      "expires_at": "2026-11-15T08:00:00Z",
+      "headline": "Gold steadies near $3,883 after its worst week in months",
+      "summary": "Spot gold steadied near $3,883 and MCX gold near Rs 1.37 lakh per 10 g after a 4.5% weekly fall on Fed rate-hike bets.",
+      "bullets": [
+        {
+          "text": "Hot October inflation lifted bets on a December Fed hike, pushing Treasury yields and the dollar higher, Kitco and Mint report.",
+          "item_ids": [
+            "1a7fd2f153bcfda5",
+            "393616012c2be9ab"
+          ]
+        },
+        {
+          "text": "Gold ETF inflows fell 22% in October as fund houses curbed subscriptions, while gold imports fell 62.6% on the price correction.",
+          "item_ids": [
+            "a2752870f506da12",
+            "62c371e44b4f506d"
+          ]
+        },
+        {
+          "text": "Watch the Fed's 9 December decision, with markets pricing a hike after hot October inflation data.",
+          "item_ids": [
+            "382dc689a3580273"
+          ]
+        }
+      ]
+    }
   },
   "trending": [
     {
@@ -36,7 +67,8 @@
       "item_ids": [
         "41d66d9987396d1e",
         "b79208a5675a80a3",
-        "3f7940a4587d8780"
+        "3f7940a4587d8780",
+        "82c31e26e4793269"
       ]
     },
     {
@@ -47,7 +79,8 @@
         "91788802d2bc8e76",
         "1d719be5a0785434",
         "3b60d04cf687431b",
-        "124bda66bcce4010"
+        "124bda66bcce4010",
+        "a2752870f506da12"
       ]
     },
     {
@@ -202,7 +235,33 @@
       ],
       "breaking": false,
       "id": "41d66d9987396d1e",
-      "rank": 6
+      "rank": 6,
+      "related_urls": [
+        "https://news.ssbcrack.com/singapore-opens-500-ton-gold-vault-as-global-bullion-custody-shifts-east/"
+      ]
+    },
+    {
+      "id": "a2752870f506da12",
+      "title": "India gold ETF, equity fund inflows ease in Oct",
+      "summary": "Investments in Indian gold ETFs fell 22% in October to Rs 3,474 crore ($370.57 million), AMFI data showed, after fund houses suspended fresh subscriptions and bulk purchases ahead of the festive season. Equity fund inflows also eased about 14% to Rs 32,994 crore, as the curbs aim to limit gold imports while the rupee hovers near record lows.",
+      "url": "https://www.brecorder.com/news/40448955/india-gold-etf-equity-fund-inflows-ease-in-oct",
+      "source": "Business Recorder",
+      "source_domain": "brecorder.com",
+      "publisher_id": "business-recorder",
+      "published_at": "2026-11-14T21:35:32Z",
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "mcx",
+        "india"
+      ],
+      "image_url": "https://i.brecorder.com/large/2025/10/18065236a3752f4.webp",
+      "image_kind": "photo",
+      "breaking": false,
+      "rank": 7
     },
     {
       "id": "62c371e44b4f506d",
@@ -228,7 +287,7 @@
       "related_urls": [
         "https://www.devdiscourse.com/article/business/4006487-indias-gold-imports-plunge-6257-pc-to-usd-551-billion-in-october-as-prices-fall-below-usd-4000oz"
       ],
-      "rank": 7
+      "rank": 8
     },
     {
       "url": "https://economictimes.indiatimes.com/news/economy/indicators/rupee-outlook-improves-as-foreign-inflows-return-despite-wider-october-trade-deficit-axis-bank/articleshow/135828764.cms",
@@ -252,7 +311,30 @@
       ],
       "breaking": false,
       "id": "1d719be5a0785434",
-      "rank": 8
+      "rank": 9
+    },
+    {
+      "id": "82c31e26e4793269",
+      "title": "Bank of Korea Buys Gold ETF Shares as Prices Fall",
+      "summary": "The Bank of Korea lifted its SPDR Gold Shares holding to 956,869 shares at the end of September, up 40.8% from 679,765 at the end of June and valued at $364.41 million, its third-quarter SEC filing shows. The buying is part of a medium- to long-term plan to raise gold exposure; preparations to buy domestically produced physical gold are expected to be largely complete after mid-December.",
+      "url": "https://en.sedaily.com/economy/2026/11/15/bank-of-korea-buys-gold-etf-shares-as-prices-fall",
+      "source": "Seoul Economic Daily",
+      "source_domain": "en.sedaily.com",
+      "publisher_id": "seoul-economic-daily",
+      "published_at": "2026-11-15T00:54:10Z",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "central-banks",
+        "global"
+      ],
+      "image_url": "https://wimg.sedaily.com/news/cms/2026/11/15/rcv.YNA.20260113.PYH2026011311870001300_P1.jpg",
+      "image_kind": "photo",
+      "breaking": false,
+      "rank": 10
     },
     {
       "url": "https://www.fxempire.com/forecasts/article/silver-xag-forecast-long-term-support-levels-in-focus-as-rate-hike-fears-grow-1644672",
@@ -275,7 +357,7 @@
       ],
       "breaking": false,
       "id": "28bdff250d0244ed",
-      "rank": 9
+      "rank": 11
     },
     {
       "id": "349edcf0d8da7b91",
@@ -297,7 +379,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 12
     },
     {
       "url": "https://www.streetwisereports.com/article/2026/11/13/central-bank-gold-buying-surges-42-as-prices-dip-below-us-4-000.html",
@@ -320,11 +402,11 @@
       "image_kind": "photo",
       "id": "b79208a5675a80a3",
       "breaking": false,
-      "rank": 11
+      "rank": 13
     },
     {
       "id": "c6efb8cc50bc1d99",
-      "rank": 12,
+      "rank": 14,
       "title": "Fed's Jefferson says he is taking his policy cues from inflation",
       "summary": "Federal Reserve Vice Chair Philip Jefferson said on Friday that, with the economy growing and the labour market stabilised, he is taking his policy cues from inflation — a signal read as leaning toward further rate hikes to bring price pressures under control. Jefferson gave no guidance on the timing or size of any move, unlike other policymakers who have backed bigger or faster hikes.",
       "url": "https://www.reuters.com/business/feds-jefferson-says-he-is-taking-his-policy-cues-inflation-2026-11-14/",
@@ -344,29 +426,6 @@
         "gold"
       ],
       "breaking": false
-    },
-    {
-      "id": "cb49d8cf370b47fd",
-      "title": "Gold oversold, but further fall to $3,750 likely: Mirae Asset Sharekhan",
-      "summary": "Mirae Asset Sharekhan's Praveen Singh says gold, at $3,873 after breaking below $4,000, looks oversold but may fall further toward $3,750 support, and toward $3,600 if that gives way. Hot October CPI — 0.4% against 0.3% expected — has lifted December Fed hike bets, pushing the dollar index past 103 and the 10-year yield to 5.08%.",
-      "url": "https://www.business-standard.com/markets/news/gold-oversold-but-further-fall-to-3-750-likely-mirae-asset-sharekhan-126111300668_1.html",
-      "source": "Business Standard",
-      "source_domain": "business-standard.com",
-      "publisher_id": "business-standard",
-      "published_at": "2026-11-13T07:22:53Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/cb49d8cf370b47fd.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "global",
-        "fed"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 13
     },
     {
       "url": "https://www.maritimegateway.com/oil-and-gold-imports-push-indias-october-trade-deficit-to-us39-88-billion/",
@@ -389,7 +448,7 @@
       "image_kind": "photo",
       "id": "91788802d2bc8e76",
       "breaking": false,
-      "rank": 14
+      "rank": 15
     },
     {
       "id": "3b60d04cf687431b",
@@ -412,7 +471,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 15
+      "rank": 16
     },
     {
       "id": "124bda66bcce4010",
@@ -436,7 +495,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 16
+      "rank": 17
     },
     {
       "id": "b0990b59ee5f18cd",
@@ -461,11 +520,11 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 17
+      "rank": 18
     },
     {
       "id": "6fe536420b07bb6a",
-      "rank": 18,
+      "rank": 19,
       "title": "Gold rebounds after sharp fall, silver lags: What should Indian investors watch",
       "summary": "MCX December gold rose 0.39% to Rs 1.36 lakh per 10 g as bargain hunting followed Thursday's slide, while silver eased 0.14% to Rs 1.78 lakh per kg; spot gold gained 1.1% to $3,918.59 an ounce.",
       "url": "https://www.cnbctv18.com/market/commodities/gold-rebounds-after-sharp-fall-silver-lags-what-indian-investors-watch-20033386.htm",
@@ -510,7 +569,7 @@
       "image_kind": "photo",
       "id": "59219e908f574c2a",
       "breaking": false,
-      "rank": 19
+      "rank": 20
     },
     {
       "id": "8e9439d54a01561a",
@@ -535,7 +594,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 20
+      "rank": 21
     },
     {
       "id": "7990f7a275197ec1",
@@ -560,32 +619,6 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 21
-    },
-    {
-      "id": "a46ea587618d6fc3",
-      "title": "SGB 2018-19 Series III final redemption today: Investors to earn up to 348% return; check RBI fixed price, interest rate",
-      "summary": "The RBI has fixed the final redemption price for Sovereign Gold Bond 2018-19 Series-III at ₹14,024 per unit as the tranche matures on November 13, 2026, eight years after issue. Holders who bought at ₹3,183 a gram gain about 341%, and online buyers at ₹3,133 up to 348%, before the 2.5% annual interest.",
-      "url": "https://www.livemint.com/money/personal-finance/sgb-2018-19-series-iii-final-redemption-today-investors-to-earn-up-to-348-return-check-rbi-fixed-price-interest-rate-11794529119186.html",
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "publisher_id": "mint",
-      "published_at": "2026-11-13T02:27:28Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/a46ea587618d6fc3.jpg",
-      "image_kind": "photo",
-      "category": "policy",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "rbi",
-        "india"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://www.moneycontrol.com/news/business/personal-finance/sgb-2018-19-series-iii-redemption-price-set-at-rs-14024-353-gain-for-investors-14078537.html"
-      ],
       "rank": 22
     }
   ]
