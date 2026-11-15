@@ -59,7 +59,7 @@ GH_API = os.path.expanduser("~/workspace/skills/github/bin/gh-api")
 
 RETENTION_PAST_DAYS = 90
 RETENTION_FUTURE_DAYS = 120
-WINDOW_BEFORE_MIN = 15
+WINDOW_BEFORE_MIN = 30  # 2026-11-14 (ORO-401): dense polling opens 30 min early
 WINDOW_AFTER_MIN = 90
 STALE_COMMIT_HOURS = 30
 
@@ -117,6 +117,13 @@ VERIFIED_SCHEDULE = [
     ("rbi_policy", 2027, 2, 5, 10, 0, "+05:30",
      "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62422"),
 ]
+
+# Removed events (2026-11-14, ORO-401): ids listed here stay removed forever.
+# build_file() never re-adds them from VERIFIED_SCHEDULE and never carries
+# them over from the committed file, so a later run cannot resurrect one.
+# To remove an event: add its id here (with a dated comment saying why)
+# and the next refresh/rebuild drops it from latest.json. Empty for now.
+REMOVED_IDS = set()
 # kind -> date string for the slug date part of the id.
 ID_SLUGS = {"us_jobs": "us-jobs", "us_cpi": "us-cpi", "fed_rate": "fed",
             "rbi_policy": "rbi", "union_budget": "budget"}
@@ -305,6 +312,8 @@ def build_file(committed):
 
     # 1. Carry over released/cancelled records inside the retention window.
     for r in committed["events"]:
+        if r["id"] in REMOVED_IDS:
+            continue  # removed stays removed
         if r["status"] in ("released", "cancelled"):
             try:
                 sched = parse_ts(r["scheduled_at"])
@@ -316,6 +325,8 @@ def build_file(committed):
     # 2. Scheduled records from the verified table inside the future window.
     for (kind, y, mo, d, hh, mm, off, surl) in VERIFIED_SCHEDULE:
         rec = scheduled_record(kind, y, mo, d, hh, mm, off, surl)
+        if rec["id"] in REMOVED_IDS:
+            continue  # removed stays removed
         sched = parse_ts(rec["scheduled_at"])
         if sched > cutoff_future:
             continue  # enters the window later
@@ -343,6 +354,7 @@ def build_file(committed):
                  for (k, y, mo, d, hh, mm, off, s) in VERIFIED_SCHEDULE}
     for r in committed["events"]:
         if (r["status"] == "scheduled" and r["id"] not in known_ids
+                and r["id"] not in REMOVED_IDS
                 and r["id"] not in {x["id"] for x in out}):
             try:
                 sched = parse_ts(r["scheduled_at"])
