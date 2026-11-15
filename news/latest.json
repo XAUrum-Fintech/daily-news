@@ -1,14 +1,14 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-15T11:00Z",
-  "generated_at": "2026-11-15T11:06:44Z",
+  "edition_id": "2026-11-15T13:00Z",
+  "generated_at": "2026-11-15T13:06:12Z",
   "window": {
-    "from": "2026-11-15T10:00:00Z",
-    "to": "2026-11-15T11:00:00Z"
+    "from": "2026-11-15T11:00:00Z",
+    "to": "2026-11-15T13:00:00Z"
   },
   "insights": {
     "headline": "Gold steadies near $3,890 after its worst run in decades; festive buying holds firm in India",
-    "summary": "Spot gold steadied near $3,890 an ounce after falling for a 10th week in 12, its worst stretch since 1989, as hot US inflation data kept December Fed hike bets alive and 10-year yields near 5.13%. In India, lower prices drew firm festive and wedding-season buying, with dealers quoting premiums up to $8 an ounce, and the rupee outlook improved on returning foreign inflows. Silver slipped below $50, down 3.8% on the week, with the market still facing its sixth straight annual supply deficit.",
+    "summary": "Spot gold steadied near $3,890 after a 10th weekly fall in 12, its worst stretch since 1989, as US inflation kept December Fed hike bets alive and 10-year yields near 5.13%. MarketWatch notes jobs, CPI and PPI reports since November 6 pushed rates and the dollar higher; gold is down from a peak near $5,500 early in the year. In India, lower prices drew firm festive and wedding-season buying, with premiums up to $8 an ounce, and the rupee outlook improved on returning inflows. Silver slipped below $50, down 3.8% on the week, with the market still facing a sixth straight annual supply deficit.",
     "points": [
       "Gold fixed around $3,890 an ounce after a 10th weekly fall in 12, the worst run since 1989.",
       "Silver slipped below $50, down 3.8% on the week, even as the market heads for a sixth straight annual supply deficit.",
@@ -18,18 +18,18 @@
     ],
     "brief": {
       "schema": "orob-brief.v1",
-      "brief_id": "2026-11-15-1636",
+      "brief_id": "2026-11-15-1836",
       "date": "2026-11-15",
-      "generated_at": "2026-11-15T11:06:44Z",
-      "slot": "midday",
-      "expires_at": "2026-11-15T13:00:00Z",
-      "headline": "Gold steadies near $3,890 as Fed hike bets cap gains",
-      "summary": "Spot gold held near $3,890 after a 10th weekly fall in 12, MCX gold near Rs 1.37 lakh per 10 g on Fed hike bets.",
+      "generated_at": "2026-11-15T13:06:12Z",
+      "slot": "evening",
+      "expires_at": "2026-11-15T18:29:00Z",
+      "headline": "Gold steadies near $3,890 after worst run since 1989",
+      "summary": "Spot gold held near $3,890, MCX gold near Rs 1.36 lakh per 10 g after a 10th weekly fall in 12; silver below $50.",
       "bullets": [
         {
-          "text": "Strong US inflation kept December Fed hike bets alive and 10-year yields near 5.13%, pressuring bullion, BullionVault and Mint report.",
+          "text": "MarketWatch says US jobs, CPI and PPI data since November 6 lifted the dollar and yields near 5.13%, keeping December Fed hike bets alive.",
           "item_ids": [
-            "c16fe6bd1b2f7f6d",
+            "d026e47fc3ef4029",
             "393616012c2be9ab"
           ]
         },
@@ -41,10 +41,9 @@
           ]
         },
         {
-          "text": "Watch the Fed's December 9 decision, due 00:30 IST on December 10, for clues on whether December hike bets stay alive.",
+          "text": "Watch the Fed's December 9 decision, due 00:30 IST on December 10, and US jobs data on December 4 for the next steer on rates.",
           "item_ids": [
-            "c6efb8cc50bc1d99",
-            "393616012c2be9ab"
+            "d026e47fc3ef4029"
           ]
         }
       ]
@@ -53,12 +52,12 @@
   "trending": [
     {
       "title": "Fed hike bets keep bullion under pressure",
-      "summary": "Hot October inflation has markets pricing a December Fed hike, lifting yields and the dollar; gold just posted its worst run of weekly losses since 1989 and Goldman Sachs has cut its price targets.",
+      "summary": "Hot US jobs, CPI and PPI data has markets pricing a December Fed hike, lifting yields and the dollar; gold posted its worst run of losses since 1989 and Goldman Sachs has cut its price targets.",
       "item_ids": [
         "c16fe6bd1b2f7f6d",
         "3f7940a4587d8780",
         "393616012c2be9ab",
-        "c6efb8cc50bc1d99"
+        "d026e47fc3ef4029"
       ]
     },
     {
@@ -75,7 +74,8 @@
       "summary": "Silver slipped below $50, down 3.8% on the week, but the market still faces a sixth straight annual supply deficit.",
       "item_ids": [
         "c16fe6bd1b2f7f6d",
-        "349edcf0d8da7b91"
+        "349edcf0d8da7b91",
+        "d026e47fc3ef4029"
       ]
     }
   ],
@@ -134,6 +134,34 @@
       "rank": 2
     },
     {
+      "id": "d026e47fc3ef4029",
+      "rank": 3,
+      "title": "Gold and silver are supposed to protect against inflation. So why are both metals tumbling instead?",
+      "summary": "MarketWatch's Michael Kramer writes that jobs, CPI and PPI data since November 6 pushed rates and the dollar higher, giving the Fed reason to raise rates in December and signal more hikes in 2027. Gold has slipped from a peak near $5,500 early in the year toward $3,900-$4,000 support, and silver has dipped back below $50.",
+      "url": "https://www.marketwatch.com/story/gold-and-silver-are-supposed-to-protect-against-inflation-so-why-are-both-metals-tumbling-instead-1735eca7",
+      "source": "MarketWatch",
+      "source_domain": "marketwatch.com",
+      "publisher_id": "marketwatch",
+      "published_at": "2026-11-15T12:30:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "fed",
+        "global"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://www.morningstar.com/news/marketwatch/2026111586/gold-and-silver-are-supposed-to-protect-against-inflation-so-why-are-both-metals-tumbling-instead"
+      ]
+    },
+    {
       "url": "https://www.kitco.com/news/article/2026-11-13/goldman-sachs-cuts-year-end-gold-price-target-4150oz-2027-target-4800oz",
       "title": "Goldman Sachs cuts year-end gold price target to $4,150/oz, 2027 target to $4,800/oz",
       "summary": "Goldman Sachs has cut its year-end gold target to $4,150 an ounce from $4,650 and its end-2027 target to $4,800 from $5,400, citing the Federal Reserve's hawkish shift and another expected hike in December. The bank still sees central-bank buying averaging 60 tonnes a month supporting prices, with support returning once the Fed starts cutting rates in the second half of 2027.",
@@ -155,7 +183,7 @@
       ],
       "breaking": false,
       "id": "3f7940a4587d8780",
-      "rank": 3
+      "rank": 4
     },
     {
       "url": "https://www.kitco.com/news/off-the-wire/2026-11-13/india-gold-demand-stays-firm-lower-prices-draw-festive-buying",
@@ -181,30 +209,7 @@
         "https://www.mining.com/web/india-gold-demand-stays-firm-as-lower-prices-draw-festive-buying/"
       ],
       "id": "5e1c70975cd6ac7c",
-      "rank": 4
-    },
-    {
-      "id": "c6efb8cc50bc1d99",
-      "rank": 5,
-      "title": "Fed's Jefferson says he is taking his policy cues from inflation",
-      "summary": "Federal Reserve Vice Chair Philip Jefferson said on Friday that, with the economy growing and the labour market stabilised, he is taking his policy cues from inflation — a signal read as leaning toward further rate hikes to bring price pressures under control. Jefferson gave no guidance on the timing or size of any move, unlike other policymakers who have backed bigger or faster hikes.",
-      "url": "https://www.reuters.com/business/feds-jefferson-says-he-is-taking-his-policy-cues-inflation-2026-11-14/",
-      "source": "Reuters",
-      "source_domain": "reuters.com",
-      "publisher_id": "reuters",
-      "published_at": "2026-11-14T00:03:19Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "fed",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false
+      "rank": 5
     },
     {
       "id": "349edcf0d8da7b91",
@@ -229,29 +234,6 @@
       "rank": 6
     },
     {
-      "id": "82c31e26e4793269",
-      "title": "Bank of Korea Buys Gold ETF Shares as Prices Fall",
-      "summary": "The Bank of Korea lifted its SPDR Gold Shares holding to 956,869 shares at the end of September, up 40.8% from 679,765 at the end of June and valued at $364.41 million, its third-quarter SEC filing shows. The buying is part of a medium- to long-term plan to raise gold exposure; preparations to buy domestically produced physical gold are expected to be largely complete after mid-December.",
-      "url": "https://en.sedaily.com/economy/2026/11/15/bank-of-korea-buys-gold-etf-shares-as-prices-fall",
-      "source": "Seoul Economic Daily",
-      "source_domain": "en.sedaily.com",
-      "publisher_id": "seoul-economic-daily",
-      "published_at": "2026-11-15T00:54:10Z",
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "central-banks",
-        "global"
-      ],
-      "image_url": "https://wimg.sedaily.com/news/cms/2026/11/15/rcv.YNA.20260113.PYH2026011311870001300_P1.jpg",
-      "image_kind": "photo",
-      "breaking": false,
-      "rank": 7
-    },
-    {
       "url": "https://www.business-standard.com/markets/news/govt-notifies-commodity-contracts-as-financial-products-at-gift-ifsc-126111301641_1.html",
       "title": "Govt notifies commodity contracts as financial products at GIFT IFSC",
       "summary": "The government has notified commodity trading contracts as financial products under the IFSCA Act, bringing commodity trading by IFSC units within the financial-products framework at GIFT City and paving the way for global trading firms to operate from there.",
@@ -273,7 +255,7 @@
       "image_kind": "photo",
       "breaking": false,
       "id": "63a231aeb6ff9d6e",
-      "rank": 8
+      "rank": 7
     },
     {
       "url": "https://economictimes.indiatimes.com/news/economy/indicators/rupee-outlook-improves-as-foreign-inflows-return-despite-wider-october-trade-deficit-axis-bank/articleshow/135828764.cms",
@@ -297,7 +279,7 @@
       ],
       "breaking": false,
       "id": "1d719be5a0785434",
-      "rank": 9
+      "rank": 8
     },
     {
       "id": "a2752870f506da12",
@@ -320,7 +302,7 @@
       "image_url": "https://i.brecorder.com/large/2025/10/18065236a3752f4.webp",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 10
+      "rank": 9
     },
     {
       "id": "3b60d04cf687431b",
@@ -343,31 +325,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 11
-    },
-    {
-      "id": "124bda66bcce4010",
-      "title": "India's forex reserves rise by $2.49 billion to $719.55 billion: RBI data",
-      "summary": "India's foreign exchange reserves rose $2.49 billion to $719.55 billion in the week ended November 6, the RBI's weekly data showed, recovering after two straight weekly declines. The value of the RBI's gold holdings rose $2.21 billion to $104.80 billion.",
-      "url": "https://www.business-standard.com/finance/news/india-s-forex-reserves-rise-by-2-49-billion-to-719-55-billion-rbi-data-126111301246_1.html",
-      "source": "Business Standard",
-      "source_domain": "business-standard.com",
-      "publisher_id": "business-standard",
-      "published_at": "2026-11-13T12:47:35Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/124bda66bcce4010.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "rbi",
-        "india",
-        "central-banks"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 12
+      "rank": 10
     }
   ]
 }
