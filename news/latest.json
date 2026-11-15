@@ -1,54 +1,22 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-15T18:00Z",
-  "generated_at": "2026-11-15T18:12:35Z",
+  "edition_id": "2026-11-15T20:00Z",
+  "generated_at": "2026-11-15T20:06:06Z",
   "window": {
-    "from": "2026-11-15T16:00:00Z",
-    "to": "2026-11-15T18:00:00Z"
+    "from": "2026-11-15T18:00:00Z",
+    "to": "2026-11-15T20:00:00Z"
   },
   "insights": {
-    "headline": "MCX gold holds near Rs 1.36 lakh after a 4.1% weekly fall; silver tests $50 as Fed hike bets persist",
-    "summary": "Spot gold steadied near $3,890 after its worst run since 1989, with MCX gold 4.1% lower on the week at Rs 1.36 lakh per 10 g and silver nearly 5% lower at Rs 1.76 lakh per kg. December COMEX gold settled at $3,886 an ounce and silver at $49.12, as hot US inflation kept December Fed hike bets near 90% and the 10-year yield above 5.1%. India's October trade deficit widened to a one-year high of $39.88 billion as Diwali gold imports more than tripled to $5.51 billion, while Metals Focus still sees a sixth straight annual silver deficit of 35 million ounces in 2026.",
+    "headline": "MCX gold holds near Rs 1.36 lakh after a 4.1% weekly fall; Fed minutes and retail sales due this week",
+    "summary": "Spot gold steadied near $3,890 after its worst run since 1989, with MCX gold 4.1% lower on the week at Rs 1.36 lakh per 10 g and silver nearly 5% lower at Rs 1.76 lakh per kg. December COMEX gold settled at $3,886 an ounce and silver at $49.12, as hot US inflation kept December Fed hike bets alive. This week brings US retail sales Tuesday and Fed October meeting minutes Wednesday. India's October trade deficit hit a one-year high of $39.88 billion as Diwali gold imports tripled to $5.51 billion, while Metals Focus sees a sixth straight annual silver deficit of 35 million ounces in 2026.",
     "points": [
       "MCX gold fell 4.1% on the week to Rs 1.36 lakh per 10 g; silver slid nearly 5% to Rs 1.76 lakh per kg.",
       "Spot gold held near $3,890 after a 10th weekly fall in 12, the worst run since 1989.",
+      "US retail sales land Tuesday and Fed October meeting minutes Wednesday, with December hike bets strengthened by hot inflation.",
       "India's October trade deficit hit a one-year high of $39.88 billion as gold imports tripled to $5.51 billion.",
-      "Silver closed below $50 at $48.77, with support eyed at $46.48; Metals Focus still sees a 35-million-ounce deficit in 2026.",
-      "Lower prices drew wedding-season buying, and Titan said stable prices could bring back buyers who stayed away."
+      "Silver settled at $49.12 on COMEX, below $50; Metals Focus still sees a 35-million-ounce deficit in 2026."
     ],
-    "brief": {
-      "schema": "orob-brief.v1",
-      "brief_id": "2026-11-15-2137",
-      "date": "2026-11-15",
-      "generated_at": "2026-11-15T16:07:20Z",
-      "slot": "evening",
-      "expires_at": "2026-11-15T18:29:00Z",
-      "headline": "Gold steadies near $3,890 after worst run since 1989",
-      "summary": "Spot gold held near $3,890, MCX gold near Rs 1.36 lakh per 10 g after a 10th weekly fall in 12; silver below $50.",
-      "bullets": [
-        {
-          "text": "MarketWatch says US jobs, CPI and PPI data since November 6 lifted the dollar and yields near 5.13%, keeping December Fed hike bets alive.",
-          "item_ids": [
-            "d026e47fc3ef4029",
-            "393616012c2be9ab"
-          ]
-        },
-        {
-          "text": "Lower prices drew wedding-season buying, Titan said stable prices could bring back buyers; the rupee outlook improved on inflows.",
-          "item_ids": [
-            "bb232fc841bff8ab",
-            "1c85479c9f87ba90",
-            "1d719be5a0785434"
-          ]
-        },
-        {
-          "text": "Watch the Fed's December 9 decision, due 00:30 IST on December 10, and US jobs data on December 4 for the next steer on rates.",
-          "item_ids": [
-            "d026e47fc3ef4029"
-          ]
-        }
-      ]
-    }
+    "brief": null
   },
   "trending": [
     {
@@ -56,7 +24,7 @@
       "summary": "Hotter US jobs, CPI and PPI data since November 6 lifted the dollar and yields, keeping December hike bets alive; gold fell about 4-5% on the week and silver slipped below $50.",
       "item_ids": [
         "d026e47fc3ef4029",
-        "393616012c2be9ab",
+        "4e467f4d3015671a",
         "f455ead29a25100a",
         "382dc689a3580273"
       ]
@@ -127,33 +95,8 @@
       "rank": 1
     },
     {
-      "id": "393616012c2be9ab",
-      "title": "Rate-hike bets keep gold on track for worst week in four months",
-      "summary": "Spot gold held near $3,880 an ounce on Friday, up 0.1% after briefly touching $3,923 on the US producer-price data, and stayed set for a weekly drop of about 4.5%, its worst week since early June. October producer prices rose 0.3% on the month, below the 0.4% forecast, and traders put December quarter-point hike odds at 91.4%. Silver fell 1.9% to $49.05 an ounce, also headed for a weekly loss.",
-      "url": "https://www.livemint.com/market/ratehike-bets-keep-gold-on-track-for-worst-week-in-four-months-11794598496469.html",
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "publisher_id": "mint",
-      "published_at": "2026-11-13T19:34:56Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/393616012c2be9ab.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "fed",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 2
-    },
-    {
       "id": "d026e47fc3ef4029",
-      "rank": 3,
+      "rank": 2,
       "title": "Gold and silver are supposed to protect against inflation. So why are both metals tumbling instead?",
       "summary": "MarketWatch's Michael Kramer writes that jobs, CPI and PPI data since November 6 pushed rates and the dollar higher, giving the Fed reason to raise rates in December and signal more hikes in 2027. Gold has slipped from a peak near $5,500 early in the year toward $3,900-$4,000 support, and silver has dipped back below $50.",
       "url": "https://www.marketwatch.com/story/gold-and-silver-are-supposed-to-protect-against-inflation-so-why-are-both-metals-tumbling-instead-1735eca7",
@@ -200,7 +143,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 4
+      "rank": 3
     },
     {
       "id": "28bdff250d0244ed",
@@ -222,7 +165,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 5
+      "rank": 4
     },
     {
       "url": "https://www.livemint.com/market/commodities/gold-silver-prices-ahead-of-wedding-season-down-over-4-this-week-investors-guide-before-us-fed-dec-meeting-11794742802767.html",
@@ -248,7 +191,7 @@
       ],
       "id": "bb232fc841bff8ab",
       "breaking": false,
-      "rank": 6
+      "rank": 5
     },
     {
       "url": "https://www.benzinga.com/markets/commodities/26/11/63273900/gold-price-slips-to-key-support-as-fed-rate-risks-and-gld-etf-outflows-build",
@@ -271,7 +214,7 @@
       ],
       "id": "382dc689a3580273",
       "breaking": false,
-      "rank": 7
+      "rank": 6
     },
     {
       "id": "349edcf0d8da7b91",
@@ -293,7 +236,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 7
     },
     {
       "id": "ea11b1a1ceaffe01",
@@ -315,7 +258,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 8
     },
     {
       "url": "https://money.rediff.com/news/market/gold-silver-volatility-ahead-inflation-fed-west-asia/58128920261115",
@@ -340,7 +283,31 @@
       ],
       "id": "f455ead29a25100a",
       "breaking": false,
-      "rank": 10
+      "rank": 9
+    },
+    {
+      "id": "4e467f4d3015671a",
+      "rank": 10,
+      "title": "Wall Street Week Ahead: Nvidia earnings, Anthropic IPO, Federal Reserve minutes, retail sales - Top things to watch",
+      "summary": "Wall Street heads into a big week for the Fed outlook: US retail sales land Tuesday and minutes of the Federal Reserve's October meeting come Wednesday, with December hike bets strengthened after strong jobs data and hotter-than-expected inflation. Nvidia's earnings on Tuesday and Anthropic's IPO are the week's other market tests.",
+      "url": "https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-nvidia-earnings-anthropic-ipo-federal-reserve-minutes-retail-sales-top-things-to-watch-11794763105921.html",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "publisher_id": "mint",
+      "published_at": "2026-11-15T18:32:58Z",
+      "image_url": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/wallstnyse_1794763539668_Umek_1794763581566_nQJf_291441e5-be74-4484-811a-d9d935b13cb6_5d9g.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "related_urls": []
     },
     {
       "url": "https://oilprice.com/Metals/Gold/Singapore-Makes-a-65-Billion-Bet-on-the-Future-of-Gold.html",
