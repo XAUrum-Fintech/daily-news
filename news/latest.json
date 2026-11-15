@@ -1,16 +1,16 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-15T08:00Z",
-  "generated_at": "2026-11-15T08:16:37Z",
+  "edition_id": "2026-11-15T11:00Z",
+  "generated_at": "2026-11-15T11:06:44Z",
   "window": {
-    "from": "2026-11-15T07:00:00Z",
-    "to": "2026-11-15T08:00:00Z"
+    "from": "2026-11-15T10:00:00Z",
+    "to": "2026-11-15T11:00:00Z"
   },
   "insights": {
     "headline": "Gold steadies near $3,890 after its worst run in decades; festive buying holds firm in India",
-    "summary": "Spot gold steadied near $3,890 an ounce after falling for a 10th week in 12, its worst stretch since 1989, as hot US inflation data kept December Fed hike bets alive and 10-year yields near 5.13%. In India, lower prices drew firm festive and wedding-season buying, with dealers quoting premiums up to $8 an ounce, even as October gold imports plunged 62.6% and the rupee outlook improved on returning foreign inflows. Silver held near $50 after a 6% weekly fall, with the market still facing its sixth straight annual supply deficit.",
+    "summary": "Spot gold steadied near $3,890 an ounce after falling for a 10th week in 12, its worst stretch since 1989, as hot US inflation data kept December Fed hike bets alive and 10-year yields near 5.13%. In India, lower prices drew firm festive and wedding-season buying, with dealers quoting premiums up to $8 an ounce, and the rupee outlook improved on returning foreign inflows. Silver slipped below $50, down 3.8% on the week, with the market still facing its sixth straight annual supply deficit.",
     "points": [
-      "Gold fixed around $3,890 an ounce, down 3.5% on the week — its 10th weekly fall in 12, the worst run since 1989.",
+      "Gold fixed around $3,890 an ounce after a 10th weekly fall in 12, the worst run since 1989.",
       "Silver slipped below $50, down 3.8% on the week, even as the market heads for a sixth straight annual supply deficit.",
       "India’s gold demand stayed firm on festive buying; premiums rose to $8 an ounce as prices fell to Rs 135,530 per 10 g.",
       "Goldman Sachs cut its year-end gold call to $4,150 an ounce and its 2027 call to $4,800 an ounce.",
@@ -18,26 +18,33 @@
     ],
     "brief": {
       "schema": "orob-brief.v1",
-      "brief_id": "2026-11-15-1346",
+      "brief_id": "2026-11-15-1636",
       "date": "2026-11-15",
-      "generated_at": "2026-11-15T08:16:37Z",
+      "generated_at": "2026-11-15T11:06:44Z",
       "slot": "midday",
       "expires_at": "2026-11-15T13:00:00Z",
       "headline": "Gold steadies near $3,890 as Fed hike bets cap gains",
-      "summary": "Spot gold held near $3,890 after a 10th weekly fall in 12, with MCX gold near Rs 1.37 lakh per 10 g on Fed hike bets.",
+      "summary": "Spot gold held near $3,890 after a 10th weekly fall in 12, MCX gold near Rs 1.37 lakh per 10 g on Fed hike bets.",
       "bullets": [
         {
-          "text": "Strong US inflation kept December Fed hike bets alive and 10-year yields near 5.13%, pressuring bullion, BullionVault and Kitco report.",
+          "text": "Strong US inflation kept December Fed hike bets alive and 10-year yields near 5.13%, pressuring bullion, BullionVault and Mint report.",
           "item_ids": [
             "c16fe6bd1b2f7f6d",
             "393616012c2be9ab"
           ]
         },
         {
-          "text": "Lower prices drew festive and wedding-season buying in India as dealer premiums doubled to $8 an ounce; October gold imports fell 62.6%.",
+          "text": "Lower prices drew festive and wedding-season buying as premiums doubled to $8 an ounce; the rupee outlook improved on returning inflows.",
           "item_ids": [
             "5e1c70975cd6ac7c",
-            "62c371e44b4f506d"
+            "1d719be5a0785434"
+          ]
+        },
+        {
+          "text": "Watch the Fed's December 9 decision, due 00:30 IST on December 10, for clues on whether December hike bets stay alive.",
+          "item_ids": [
+            "c6efb8cc50bc1d99",
+            "393616012c2be9ab"
           ]
         }
       ]
@@ -56,21 +63,19 @@
     },
     {
       "title": "India buys the dip",
-      "summary": "Lower prices drew firm festive and wedding-season buying, with dealer premiums doubling to $8 an ounce — even as October gold imports plunged 62.6% and fund inflows eased.",
+      "summary": "Lower prices drew firm festive and wedding-season buying, with dealer premiums doubling to $8 an ounce — even as gold ETF inflows eased and the rupee outlook improved on returning foreign inflows.",
       "item_ids": [
         "5e1c70975cd6ac7c",
-        "62c371e44b4f506d",
         "a2752870f506da12",
         "1d719be5a0785434"
       ]
     },
     {
       "title": "Silver’s $50 test",
-      "summary": "Silver slipped below $50 and fell about 6% on the week, but the market still faces a sixth straight annual supply deficit while long-term support levels come into focus.",
+      "summary": "Silver slipped below $50, down 3.8% on the week, but the market still faces a sixth straight annual supply deficit.",
       "item_ids": [
         "c16fe6bd1b2f7f6d",
-        "349edcf0d8da7b91",
-        "28bdff250d0244ed"
+        "349edcf0d8da7b91"
       ]
     }
   ],
@@ -104,30 +109,6 @@
       "rank": 1
     },
     {
-      "url": "https://www.kitco.com/news/article/2026-11-13/goldman-sachs-cuts-year-end-gold-price-target-4150oz-2027-target-4800oz",
-      "title": "Goldman Sachs cuts year-end gold price target to $4,150/oz, 2027 target to $4,800/oz",
-      "summary": "Goldman Sachs has cut its year-end gold target to $4,150 an ounce from $4,650 and its end-2027 target to $4,800 from $5,400, citing the Federal Reserve's hawkish shift and another expected hike in December. The bank still sees central-bank buying averaging 60 tonnes a month supporting prices, with support returning once the Fed starts cutting rates in the second half of 2027.",
-      "source": "Kitco",
-      "source_domain": "kitco.com",
-      "publisher_id": "kitco",
-      "published_at": "2026-11-13T15:25:53Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/3f7940a4587d8780.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "global",
-        "fed",
-        "central-banks"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "id": "3f7940a4587d8780",
-      "rank": 2
-    },
-    {
       "id": "393616012c2be9ab",
       "title": "Rate-hike bets keep gold on track for worst week in four months",
       "summary": "Spot gold held near $3,880 an ounce on Friday, up 0.1% after briefly touching $3,923 on the US producer-price data, and stayed set for a weekly drop of about 4.5%, its worst week since early June. October producer prices rose 0.3% on the month, below the 0.4% forecast, and traders put December quarter-point hike odds at 91.4%. Silver fell 1.9% to $49.05 an ounce, also headed for a weekly loss.",
@@ -150,6 +131,30 @@
         "silver"
       ],
       "breaking": false,
+      "rank": 2
+    },
+    {
+      "url": "https://www.kitco.com/news/article/2026-11-13/goldman-sachs-cuts-year-end-gold-price-target-4150oz-2027-target-4800oz",
+      "title": "Goldman Sachs cuts year-end gold price target to $4,150/oz, 2027 target to $4,800/oz",
+      "summary": "Goldman Sachs has cut its year-end gold target to $4,150 an ounce from $4,650 and its end-2027 target to $4,800 from $5,400, citing the Federal Reserve's hawkish shift and another expected hike in December. The bank still sees central-bank buying averaging 60 tonnes a month supporting prices, with support returning once the Fed starts cutting rates in the second half of 2027.",
+      "source": "Kitco",
+      "source_domain": "kitco.com",
+      "publisher_id": "kitco",
+      "published_at": "2026-11-13T15:25:53Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/3f7940a4587d8780.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "global",
+        "fed",
+        "central-banks"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "id": "3f7940a4587d8780",
       "rank": 3
     },
     {
@@ -179,34 +184,8 @@
       "rank": 4
     },
     {
-      "id": "62c371e44b4f506d",
-      "title": "India's October gold imports plunge 62.57% to $5.51 billion amid global price correction",
-      "summary": "India's gold imports fell 62.57% from a year earlier to $5.51 billion in October, Commerce Department data showed, with prices below $4,000 an ounce; April-October imports were down 39.9% at $24.78 billion. The World Gold Council said gold may be nearing a temporary bottom after ending October at $3,913 an ounce, down 6.3% in the month.",
-      "url": "https://www.thehindubusinessline.com/markets/gold/indias-gold-imports-plunge-6257-to-551-billion-in-october-as-prices-fall-below-4000oz/article71697565.ece",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "publisher_id": "hindu-businessline",
-      "published_at": "2026-11-13T10:27:00Z",
-      "image_url": "https://bl-i.thgim.com/public/todays-paper/tp-news/ntp8wo/article67563588.ece/alternates/LANDSCAPE_1200/Ease-of-Doing-BGGEC22P5V.4.jpg.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "india",
-        "mcx"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://www.devdiscourse.com/article/business/4006487-indias-gold-imports-plunge-6257-pc-to-usd-551-billion-in-october-as-prices-fall-below-usd-4000oz"
-      ],
-      "rank": 5
-    },
-    {
       "id": "c6efb8cc50bc1d99",
-      "rank": 6,
+      "rank": 5,
       "title": "Fed's Jefferson says he is taking his policy cues from inflation",
       "summary": "Federal Reserve Vice Chair Philip Jefferson said on Friday that, with the economy growing and the labour market stabilised, he is taking his policy cues from inflation — a signal read as leaning toward further rate hikes to bring price pressures under control. Jefferson gave no guidance on the timing or size of any move, unlike other policymakers who have backed bigger or faster hikes.",
       "url": "https://www.reuters.com/business/feds-jefferson-says-he-is-taking-his-policy-cues-inflation-2026-11-14/",
@@ -226,6 +205,51 @@
         "gold"
       ],
       "breaking": false
+    },
+    {
+      "id": "349edcf0d8da7b91",
+      "title": "Silver's 6th Annual Deficit Masks a Surplus as ETF Selling Adds Supply",
+      "summary": "Metals Focus and the Silver Institute now expect a sixth straight annual silver deficit of 35 million ounces in 2026, narrower than the 46.3 million ounces forecast in April. But silver funds are expected to release 45 million ounces over the year, flipping the balance to a 10 million ounce surplus. Coin and bar demand is forecast at 215 million ounces, down 2%.",
+      "url": "https://www.investing.com/analysis/silvers-6th-annual-deficit-masks-a-surplus-as-etf-selling-adds-supply-200691562",
+      "source": "Investing.com",
+      "source_domain": "investing.com",
+      "publisher_id": "investing",
+      "published_at": "2026-11-13T21:06:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "silver",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 6
+    },
+    {
+      "id": "82c31e26e4793269",
+      "title": "Bank of Korea Buys Gold ETF Shares as Prices Fall",
+      "summary": "The Bank of Korea lifted its SPDR Gold Shares holding to 956,869 shares at the end of September, up 40.8% from 679,765 at the end of June and valued at $364.41 million, its third-quarter SEC filing shows. The buying is part of a medium- to long-term plan to raise gold exposure; preparations to buy domestically produced physical gold are expected to be largely complete after mid-December.",
+      "url": "https://en.sedaily.com/economy/2026/11/15/bank-of-korea-buys-gold-etf-shares-as-prices-fall",
+      "source": "Seoul Economic Daily",
+      "source_domain": "en.sedaily.com",
+      "publisher_id": "seoul-economic-daily",
+      "published_at": "2026-11-15T00:54:10Z",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "central-banks",
+        "global"
+      ],
+      "image_url": "https://wimg.sedaily.com/news/cms/2026/11/15/rcv.YNA.20260113.PYH2026011311870001300_P1.jpg",
+      "image_kind": "photo",
+      "breaking": false,
+      "rank": 7
     },
     {
       "url": "https://www.business-standard.com/markets/news/govt-notifies-commodity-contracts-as-financial-products-at-gift-ifsc-126111301641_1.html",
@@ -249,98 +273,7 @@
       "image_kind": "photo",
       "breaking": false,
       "id": "63a231aeb6ff9d6e",
-      "rank": 7
-    },
-    {
-      "id": "349edcf0d8da7b91",
-      "title": "Silver's 6th Annual Deficit Masks a Surplus as ETF Selling Adds Supply",
-      "summary": "Metals Focus and the Silver Institute now expect a sixth straight annual silver deficit of 35 million ounces in 2026, narrower than the 46.3 million ounces forecast in April. But silver funds are expected to release 45 million ounces over the year, flipping the balance to a 10 million ounce surplus. Coin and bar demand is forecast at 215 million ounces, down 2%.",
-      "url": "https://www.investing.com/analysis/silvers-6th-annual-deficit-masks-a-surplus-as-etf-selling-adds-supply-200691562",
-      "source": "Investing.com",
-      "source_domain": "investing.com",
-      "publisher_id": "investing",
-      "published_at": "2026-11-13T21:06:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "silver",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "breaking": false,
       "rank": 8
-    },
-    {
-      "url": "https://www.fxempire.com/forecasts/article/silver-xag-forecast-long-term-support-levels-in-focus-as-rate-hike-fears-grow-1644672",
-      "title": "Silver (XAG) Forecast: Long-Term Support Levels in Focus as Rate Hike Fears Grow",
-      "summary": "Spot silver closed Friday at $48.77 an ounce, down 2.6%, after breaking below $50 as rate-hike fears and a strong dollar weighed; December Comex silver settled at $49.12. FXEmpire's James Hyerczyk puts long-term support at $46.48, the 61.8% retracement of the all-time high, with the main trend down while silver stays below $53.73.",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "publisher_id": "fxempire",
-      "published_at": "2026-11-14T09:33:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "silver",
-        "global",
-        "fed"
-      ],
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "breaking": false,
-      "id": "28bdff250d0244ed",
-      "rank": 9
-    },
-    {
-      "id": "82c31e26e4793269",
-      "title": "Bank of Korea Buys Gold ETF Shares as Prices Fall",
-      "summary": "The Bank of Korea lifted its SPDR Gold Shares holding to 956,869 shares at the end of September, up 40.8% from 679,765 at the end of June and valued at $364.41 million, its third-quarter SEC filing shows. The buying is part of a medium- to long-term plan to raise gold exposure; preparations to buy domestically produced physical gold are expected to be largely complete after mid-December.",
-      "url": "https://en.sedaily.com/economy/2026/11/15/bank-of-korea-buys-gold-etf-shares-as-prices-fall",
-      "source": "Seoul Economic Daily",
-      "source_domain": "en.sedaily.com",
-      "publisher_id": "seoul-economic-daily",
-      "published_at": "2026-11-15T00:54:10Z",
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "central-banks",
-        "global"
-      ],
-      "image_url": "https://wimg.sedaily.com/news/cms/2026/11/15/rcv.YNA.20260113.PYH2026011311870001300_P1.jpg",
-      "image_kind": "photo",
-      "breaking": false,
-      "rank": 10
-    },
-    {
-      "id": "a2752870f506da12",
-      "title": "India gold ETF, equity fund inflows ease in Oct",
-      "summary": "Investments in Indian gold ETFs fell 22% in October to Rs 3,474 crore ($370.57 million), AMFI data showed, after fund houses suspended fresh subscriptions and bulk purchases ahead of the festive season. Equity fund inflows also eased about 14% to Rs 32,994 crore, as the curbs aim to limit gold imports while the rupee hovers near record lows.",
-      "url": "https://www.brecorder.com/news/40448955/india-gold-etf-equity-fund-inflows-ease-in-oct",
-      "source": "Business Recorder",
-      "source_domain": "brecorder.com",
-      "publisher_id": "business-recorder",
-      "published_at": "2026-11-14T21:35:32Z",
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "mcx",
-        "india"
-      ],
-      "image_url": "https://i.brecorder.com/large/2025/10/18065236a3752f4.webp",
-      "image_kind": "photo",
-      "breaking": false,
-      "rank": 11
     },
     {
       "url": "https://economictimes.indiatimes.com/news/economy/indicators/rupee-outlook-improves-as-foreign-inflows-return-despite-wider-october-trade-deficit-axis-bank/articleshow/135828764.cms",
@@ -364,7 +297,30 @@
       ],
       "breaking": false,
       "id": "1d719be5a0785434",
-      "rank": 12
+      "rank": 9
+    },
+    {
+      "id": "a2752870f506da12",
+      "title": "India gold ETF, equity fund inflows ease in Oct",
+      "summary": "Investments in Indian gold ETFs fell 22% in October to Rs 3,474 crore ($370.57 million), AMFI data showed, after fund houses suspended fresh subscriptions and bulk purchases ahead of the festive season. Equity fund inflows also eased about 14% to Rs 32,994 crore, as the curbs aim to limit gold imports while the rupee hovers near record lows.",
+      "url": "https://www.brecorder.com/news/40448955/india-gold-etf-equity-fund-inflows-ease-in-oct",
+      "source": "Business Recorder",
+      "source_domain": "brecorder.com",
+      "publisher_id": "business-recorder",
+      "published_at": "2026-11-14T21:35:32Z",
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "mcx",
+        "india"
+      ],
+      "image_url": "https://i.brecorder.com/large/2025/10/18065236a3752f4.webp",
+      "image_kind": "photo",
+      "breaking": false,
+      "rank": 10
     },
     {
       "id": "3b60d04cf687431b",
@@ -387,7 +343,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 13
+      "rank": 11
     },
     {
       "id": "124bda66bcce4010",
@@ -411,7 +367,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 12
     }
   ]
 }
