@@ -1,20 +1,20 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-15T13:00Z",
-  "generated_at": "2026-11-15T13:06:12Z",
+  "edition_id": "2026-11-15T14:00Z",
+  "generated_at": "2026-11-15T14:43:43Z",
   "window": {
-    "from": "2026-11-15T11:00:00Z",
-    "to": "2026-11-15T13:00:00Z"
+    "from": "2026-11-15T12:00:00Z",
+    "to": "2026-11-15T14:00:00Z"
   },
   "insights": {
-    "headline": "Gold steadies near $3,890 after its worst run in decades; festive buying holds firm in India",
-    "summary": "Spot gold steadied near $3,890 after a 10th weekly fall in 12, its worst stretch since 1989, as US inflation kept December Fed hike bets alive and 10-year yields near 5.13%. MarketWatch notes jobs, CPI and PPI reports since November 6 pushed rates and the dollar higher; gold is down from a peak near $5,500 early in the year. In India, lower prices drew firm festive and wedding-season buying, with premiums up to $8 an ounce, and the rupee outlook improved on returning inflows. Silver slipped below $50, down 3.8% on the week, with the market still facing a sixth straight annual supply deficit.",
+    "headline": "MCX gold ends the week 4.1% lower at Rs 1.36 lakh as Fed hike bets keep bullion under pressure",
+    "summary": "Spot gold steadied near $3,890 after a 10th weekly fall in 12, its worst stretch since 1989, as US inflation kept December Fed hike bets alive and 10-year yields near 5.13%. MCX gold fell 4.1% on the week to Rs 1.36 lakh per 10 g and silver nearly 5% to Rs 1.76 lakh per kg, with COMEX gold down almost 5% to $3,886 an ounce. In India, lower prices drew firm festive and wedding-season buying, with premiums up to $8 an ounce, while Senco Gold's first-half revenue rose 52% and gemstone sales surged 40%. Silver slipped below $50, down 3.8% on the week on the London fix.",
     "points": [
-      "Gold fixed around $3,890 an ounce after a 10th weekly fall in 12, the worst run since 1989.",
+      "MCX gold fell 4.1% on the week to Rs 1.36 lakh per 10 g; silver slid nearly 5% to Rs 1.76 lakh per kg.",
+      "Spot gold held near $3,890 after a 10th weekly fall in 12, the worst run since 1989.",
       "Silver slipped below $50, down 3.8% on the week, even as the market heads for a sixth straight annual supply deficit.",
-      "India’s gold demand stayed firm on festive buying; premiums rose to $8 an ounce as prices fell to Rs 135,530 per 10 g.",
-      "Goldman Sachs cut its year-end gold call to $4,150 an ounce and its 2027 call to $4,800 an ounce.",
-      "The government notified commodity trading contracts as financial products at GIFT IFSC under the IFSCA Act."
+      "India's gold demand stayed firm on festive buying; premiums rose to $8 an ounce as prices fell.",
+      "Goldman Sachs cut its year-end gold call to $4,150 an ounce and its 2027 call to $4,800 an ounce."
     ],
     "brief": {
       "schema": "orob-brief.v1",
@@ -52,34 +52,69 @@
   "trending": [
     {
       "title": "Fed hike bets keep bullion under pressure",
-      "summary": "Hot US jobs, CPI and PPI data has markets pricing a December Fed hike, lifting yields and the dollar; gold posted its worst run of losses since 1989 and Goldman Sachs has cut its price targets.",
+      "summary": "Hotter US jobs, CPI and PPI data since November 6 lifted the dollar and yields, keeping December hike bets alive; gold fell about 4-5% on the week and silver slipped below $50.",
       "item_ids": [
-        "c16fe6bd1b2f7f6d",
-        "3f7940a4587d8780",
+        "d026e47fc3ef4029",
         "393616012c2be9ab",
-        "d026e47fc3ef4029"
+        "f455ead29a25100a",
+        "382dc689a3580273"
       ]
     },
     {
       "title": "India buys the dip",
-      "summary": "Lower prices drew firm festive and wedding-season buying, with dealer premiums doubling to $8 an ounce — even as gold ETF inflows eased and the rupee outlook improved on returning foreign inflows.",
+      "summary": "Lower prices drew firm festive and wedding-season buying, premiums doubled to $8 an ounce, and jeweller Senco Gold's first-half revenue rose 52%.",
       "item_ids": [
         "5e1c70975cd6ac7c",
-        "a2752870f506da12",
-        "1d719be5a0785434"
+        "bb232fc841bff8ab",
+        "bc0117d216b0f903"
       ]
     },
     {
-      "title": "Silver’s $50 test",
-      "summary": "Silver slipped below $50, down 3.8% on the week, but the market still faces a sixth straight annual supply deficit.",
+      "title": "Silver's $50 test",
+      "summary": "Silver fell below $50 an ounce and closed the week near $49.12, down more than 5%, even as ETF selling masked a sixth straight annual supply deficit.",
       "item_ids": [
-        "c16fe6bd1b2f7f6d",
         "349edcf0d8da7b91",
-        "d026e47fc3ef4029"
+        "c16fe6bd1b2f7f6d",
+        "a91495db10f7f681"
+      ]
+    },
+    {
+      "title": "Custody shifts east",
+      "summary": "Singapore opened a 500-tonne sovereign gold vault for foreign central banks, with tax relief from April 2027 and a clearing system due by March 2027.",
+      "item_ids": [
+        "41d66d9987396d1e"
       ]
     }
   ],
   "items": [
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-prices-drop-4-1-to-rs-1-36-lakh-silver-slides-nearly-5-to-rs-1-76-lakh-on-mcx-inflation-data-fed-signals-and-us-iran-tensions-could-keep-bullion-prices-volatile/articleshow/135857019.cms",
+      "title": "Gold prices drop 4.1% to Rs 1.36 lakh, silver slides nearly 5% to Rs 1.76 lakh on MCX",
+      "summary": "December gold futures fell Rs 5,847, or 4.1%, to Rs 1.36 lakh per 10 g this week, while silver slid Rs 8,791, nearly 5%, to Rs 1.76 lakh per kg. COMEX gold dropped almost 5% to $3,886 an ounce and silver 5.4% to $49.12, as a firm dollar and rising yields kept December Fed hike bets alive. Analysts expect volatility ahead, with inflation data, FOMC minutes and US jobs figures due.",
+      "source": "Times of India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "publisher_id": "times-of-india",
+      "published_at": "2026-11-15T13:34:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/a91495db10f7f681.jpg",
+      "image_kind": "photo",
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "india"
+      ],
+      "related_urls": [
+        "https://www.newindianexpress.com/business/2026/Nov/14/golds-sharp-weekly-correction-persistent-selling-pressure-erases-over-5-of-market-value"
+      ],
+      "id": "a91495db10f7f681",
+      "breaking": false,
+      "rank": 1
+    },
     {
       "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-price-week-111320261",
       "title": "Gold Makes Worst Losing Run in 4 Decades, Silver Plunge Tests $50 Again",
@@ -106,7 +141,7 @@
         "https://www.kitco.com/news/article/2026-11-13/gold-posts-steep-weekly-loss-treasury-yields-rise-fed-tightening-bets"
       ],
       "id": "c16fe6bd1b2f7f6d",
-      "rank": 1
+      "rank": 2
     },
     {
       "id": "393616012c2be9ab",
@@ -131,11 +166,11 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "d026e47fc3ef4029",
-      "rank": 3,
+      "rank": 4,
       "title": "Gold and silver are supposed to protect against inflation. So why are both metals tumbling instead?",
       "summary": "MarketWatch's Michael Kramer writes that jobs, CPI and PPI data since November 6 pushed rates and the dollar higher, giving the Fed reason to raise rates in December and signal more hikes in 2027. Gold has slipped from a peak near $5,500 early in the year toward $3,900-$4,000 support, and silver has dipped back below $50.",
       "url": "https://www.marketwatch.com/story/gold-and-silver-are-supposed-to-protect-against-inflation-so-why-are-both-metals-tumbling-instead-1735eca7",
@@ -162,6 +197,32 @@
       ]
     },
     {
+      "url": "https://www.livemint.com/market/commodities/gold-silver-prices-ahead-of-wedding-season-down-over-4-this-week-investors-guide-before-us-fed-dec-meeting-11794742802767.html",
+      "title": "Gold, silver prices ahead of wedding season: Down over 4% this week - Investors guide before US Fed Dec meeting",
+      "summary": "Gold and silver fell sharply ahead of India's wedding season, offering some relief to buyers, but the correction has raised questions over whether the sell-off has further to run. MCX gold ended Friday at Rs 1,36,750 per 10 g, down about 4.6% on the week, and silver at Rs 1,76,543 per kg, down nearly 5%, after hotter-than-expected US inflation strengthened bets on a December Fed rate hike.",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "publisher_id": "mint",
+      "published_at": "2026-11-15T12:15:14Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/bb232fc841bff8ab.jpg",
+      "image_kind": "photo",
+      "category": "festive",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "india",
+        "jewellery"
+      ],
+      "id": "bb232fc841bff8ab",
+      "breaking": false,
+      "rank": 5
+    },
+    {
       "url": "https://www.kitco.com/news/article/2026-11-13/goldman-sachs-cuts-year-end-gold-price-target-4150oz-2027-target-4800oz",
       "title": "Goldman Sachs cuts year-end gold price target to $4,150/oz, 2027 target to $4,800/oz",
       "summary": "Goldman Sachs has cut its year-end gold target to $4,150 an ounce from $4,650 and its end-2027 target to $4,800 from $5,400, citing the Federal Reserve's hawkish shift and another expected hike in December. The bank still sees central-bank buying averaging 60 tonnes a month supporting prices, with support returning once the Fed starts cutting rates in the second half of 2027.",
@@ -183,7 +244,7 @@
       ],
       "breaking": false,
       "id": "3f7940a4587d8780",
-      "rank": 4
+      "rank": 6
     },
     {
       "url": "https://www.kitco.com/news/off-the-wire/2026-11-13/india-gold-demand-stays-firm-lower-prices-draw-festive-buying",
@@ -209,7 +270,55 @@
         "https://www.mining.com/web/india-gold-demand-stays-firm-as-lower-prices-draw-festive-buying/"
       ],
       "id": "5e1c70975cd6ac7c",
-      "rank": 5
+      "rank": 7
+    },
+    {
+      "url": "https://money.rediff.com/news/market/gold-silver-volatility-ahead-inflation-fed-west-asia/58128920261115",
+      "title": "Gold & Silver Volatility Ahead: Inflation, Fed, West Asia",
+      "summary": "Analysts expect a volatile week for gold and silver as traders weigh inflation readings from major economies, signals from the US Federal Reserve and developments in West Asia. Both metals fell sharply last week on domestic and international exchanges as a firmer dollar and higher bond yields kept December Fed hike bets alive.",
+      "source": "Rediff Money",
+      "source_domain": "money.rediff.com",
+      "publisher_id": "rediff-money",
+      "published_at": "2026-11-15T13:29:49Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/f455ead29a25100a.jpg",
+      "image_kind": "photo",
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "global",
+        "fed"
+      ],
+      "id": "f455ead29a25100a",
+      "breaking": false,
+      "rank": 8
+    },
+    {
+      "url": "https://www.benzinga.com/markets/commodities/26/11/63273900/gold-price-slips-to-key-support-as-fed-rate-risks-and-gld-etf-outflows-build",
+      "title": "Gold Price Slips to Key Support as Fed Rate Risks and GLD ETF Outflows Build",
+      "summary": "Gold slipped to a key support level as risks of a December Federal Reserve rate hike and outflows from the SPDR Gold Shares ETF (GLD) built, adding to the selling pressure on bullion after a week of sharp losses.",
+      "source": "Benzinga",
+      "source_domain": "benzinga.com",
+      "publisher_id": "benzinga",
+      "published_at": "2026-11-14T15:30:05Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "global",
+        "fed"
+      ],
+      "id": "382dc689a3580273",
+      "breaking": false,
+      "rank": 9
     },
     {
       "id": "349edcf0d8da7b91",
@@ -231,7 +340,76 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 10
+    },
+    {
+      "url": "https://oilprice.com/Metals/Gold/Singapore-Makes-a-65-Billion-Bet-on-the-Future-of-Gold.html",
+      "title": "Singapore Makes a $65 Billion Bet on the Future of Gold",
+      "summary": "Singapore has launched a sovereign gold custody service with capacity for 500 tonnes of bullion, targeting foreign central banks and sovereign institutions, as investors shift metal to Asia amid geopolitical uncertainty. Tax relief on wholesale gold services takes effect in April 2027, and the Singapore Exchange's clearing system is due to start live trading by March 2027.",
+      "source": "OilPrice.com",
+      "source_domain": "oilprice.com",
+      "publisher_id": "oilprice",
+      "published_at": "2026-11-14T18:00:00Z",
+      "image_url": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-13_iatc1ajols.jpg",
+      "image_kind": "photo",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "global",
+        "central-banks"
+      ],
+      "id": "41d66d9987396d1e",
+      "breaking": false,
+      "rank": 11
+    },
+    {
+      "url": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/senco-gold-h1-revenue-rises-52-pc-to-rs-5115-crore-adds-14-showrooms/135831613",
+      "title": "Senco Gold H1 revenue rises 52 pc to Rs 5,115 crore; adds 14 showrooms",
+      "summary": "Senco Gold's consolidated revenue rose 52% year on year to Rs 5,114.8 crore in the first half of FY27, with retail revenue up 40% and same-store sales up 30%, as festive demand stayed firm despite high prices. The jeweller added 14 showrooms to reach 215 across India and plans 10-12 more in the second half. Profit after tax rose 22% to Rs 187.8 crore in the half year.",
+      "source": "ET Retail",
+      "source_domain": "retail.economictimes.indiatimes.com",
+      "publisher_id": "et-retail",
+      "published_at": "2026-11-15T01:10:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/bc0117d216b0f903.jpg",
+      "image_kind": "photo",
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
+      ],
+      "id": "bc0117d216b0f903",
+      "breaking": false,
+      "rank": 12
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/indians-look-beyond-gold-and-diamonds-as-coloured-gemstone-sales-surge-40-rare-paraiba-tourmalines-cost-rs-5-lakh-per-carat-and-bespoke-jewellery-starts-at-rs-7-lakh/articleshow/135834228.cms",
+      "title": "Indians look beyond gold and diamonds as coloured gemstone sales surge 40%",
+      "summary": "Coloured gemstone sales rose 40% during the festive season as affluent Indian buyers looked beyond gold and diamond jewellery for exclusivity and distinctive designs, jewellers say. Rare Paraiba tourmalines cost about Rs 5 lakh per carat, and bespoke jewellery starts at about Rs 7 lakh, with studded jewellery taking a growing share of organised retailers' sales.",
+      "source": "Times of India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "publisher_id": "times-of-india",
+      "published_at": "2026-11-14T17:30:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/259bb0f25aa01dfd.jpg",
+      "image_kind": "photo",
+      "category": "festive",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
+      ],
+      "id": "259bb0f25aa01dfd",
+      "breaking": false,
+      "rank": 13
     },
     {
       "url": "https://www.business-standard.com/markets/news/govt-notifies-commodity-contracts-as-financial-products-at-gift-ifsc-126111301641_1.html",
@@ -255,7 +433,7 @@
       "image_kind": "photo",
       "breaking": false,
       "id": "63a231aeb6ff9d6e",
-      "rank": 7
+      "rank": 14
     },
     {
       "url": "https://economictimes.indiatimes.com/news/economy/indicators/rupee-outlook-improves-as-foreign-inflows-return-despite-wider-october-trade-deficit-axis-bank/articleshow/135828764.cms",
@@ -279,7 +457,7 @@
       ],
       "breaking": false,
       "id": "1d719be5a0785434",
-      "rank": 8
+      "rank": 15
     },
     {
       "id": "a2752870f506da12",
@@ -302,7 +480,7 @@
       "image_url": "https://i.brecorder.com/large/2025/10/18065236a3752f4.webp",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 9
+      "rank": 16
     },
     {
       "id": "3b60d04cf687431b",
@@ -325,7 +503,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 17
     }
   ]
 }
