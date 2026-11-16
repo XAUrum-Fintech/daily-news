@@ -1,18 +1,18 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-16T05:00Z",
-  "generated_at": "2026-11-16T05:08:15Z",
+  "edition_id": "2026-11-16T06:00Z",
+  "generated_at": "2026-11-16T06:26:56Z",
   "window": {
     "from": "2026-11-16T04:00:00Z",
-    "to": "2026-11-16T05:00:00Z"
+    "to": "2026-11-16T06:00:00Z"
   },
   "insights": {
-    "headline": "MCX gold and silver slide to multi-month lows as Fed hike bets firm; silver hits a one-year low",
-    "summary": "MCX December gold fell to Rs 1,35,612 per 10 g and silver to Rs 1,71,127 per kg on Monday morning, with spot silver below $48 an ounce at a one-year low. Spot gold traded near $3,880 as markets priced a near-certain December Fed hike and awaited Chair Warsh's remarks later today. Goldman Sachs cut its end-2027 gold forecast to $4,650 an ounce, while traders see $3,850-$4,000 near term and the rupee outlook improved on returning foreign inflows.",
+    "headline": "MCX gold and silver slide again as Fed hike bets harden",
+    "summary": "MCX gold slipped to Rs 1,35,728 per 10 g and silver to Rs 1,70,849 per kg on Monday as a firm dollar and hotter US inflation kept a December Fed hike firmly priced. Spot gold held near $3,867-3,900 and silver below $48 after last week's near-5% slide, with markets awaiting Fed Chair Warsh's remarks later today.",
     "points": [
-      "MCX Dec gold -0.8% to Rs 1,35,612 per 10 g; Dec silver -2.94% to Rs 1,71,127 per kg, a one-year low below $48/oz.",
-      "Spot gold near $3,880 in Asian trade; markets fully price a 25bp Fed hike on Dec 8-9, with Warsh speaking at 17:00 GMT today.",
-      "Silver hit a fresh yearly low of $47.34 in Asia, its third straight daily loss on a stronger dollar and higher yields.",
+      "MCX gold fell Rs 977 to Rs 1,35,728 per 10 g and silver Rs 5,460 to Rs 1,70,849 per kg in Monday trade.",
+      "Spot gold near $3,867-3,900 and silver below $48 after gold's 4.7% weekly slide to a near-one-year low.",
+      "Markets price a 90-92% chance of a 25bp Fed hike in December; Fed Chair Warsh speaks later today.",
       "Goldman Sachs cut its end-2027 gold forecast to $4,650/oz from $4,800 and now expects a March 2027 Fed hike.",
       "MCX gold fell 4.1% last week to Rs 1.36 lakh per 10 g and silver nearly 5% to Rs 1.76 lakh per kg."
     ],
@@ -52,43 +52,66 @@
   "trending": [
     {
       "title": "Fed hike bets drive Monday's slide",
-      "summary": "MCX gold and silver fell to multi-month lows as December hike odds neared 90%; gold traded near $3,880, silver hit a one-year low, Warsh speaks today and the FOMC minutes land on Wednesday.",
+      "summary": "Hot US inflation and hawkish Fed remarks have markets pricing a 90-92% chance of a December hike, pushing the dollar to its highest since April and bullion lower.",
       "item_ids": [
-        "dd0a22dea250d634",
-        "23e44dbd347f3c25",
+        "165a42194031c9d8",
         "29082414105c2eec",
-        "517e36c7f9d85488"
+        "e6fc6255957e6b92"
       ]
     },
     {
       "title": "Silver hits a one-year low below $48",
-      "summary": "Silver fell to $47.34 in Asia, its third straight daily loss, and MCX silver slid to Rs 1,71,127 per kg as a stronger dollar and higher yields weighed; analysts see $44-$45 if $48 breaks.",
+      "summary": "Silver fell below $48 an ounce and MCX silver slid 3.1% in a day, while high prices are also pushing solar makers to look for alternatives to the metal.",
       "item_ids": [
         "43cb934b6cdf33df",
         "77a49ba67055ec16",
-        "dd0a22dea250d634"
+        "aa4217d2b345dcfb"
       ]
     },
     {
       "title": "Asia buys the dip as the US sells",
-      "summary": "Hourly price data since September shows gold gaining in Asian hours while falling sharply in US hours; $3,870 support held into the new week as Asian traders bought the dip again.",
+      "summary": "Asian buyers stepped in as gold slid, while US selling drove the weekly drop; MCX moves and wedding-season demand shape the local picture.",
       "item_ids": [
         "9e2200c8e303dfaf",
-        "29082414105c2eec"
+        "bb232fc841bff8ab",
+        "dd0a22dea250d634"
       ]
     },
     {
       "title": "India's week ahead: rupee, weddings and US data",
-      "summary": "MCX gold and silver closed last week sharply lower, but the rupee outlook improved on returning foreign inflows; wedding-season demand, easing ETF inflows and the week's US data set the domestic tone.",
+      "summary": "A steadier rupee, wedding-season buying and Fed Chair Warsh's remarks set the tone for Indian buyers this week.",
       "item_ids": [
-        "bb232fc841bff8ab",
         "1d719be5a0785434",
-        "a2752870f506da12",
+        "bb232fc841bff8ab",
         "29082414105c2eec"
       ]
     }
   ],
   "items": [
+    {
+      "id": "165a42194031c9d8",
+      "title": "Precious Metals Crash: Silver falls Rs 5,000, gold drops nearly 1%; What's triggering the sell-off?",
+      "summary": "MCX silver fell Rs 5,460 (3.1%) to Rs 1,70,849 per kg and gold slipped Rs 977 to Rs 1,35,728 per 10 g in Monday trade, as hawkish Fed signals and a likely December rate hike weighed on bullion; spot gold held near $3,900 and silver below $48.",
+      "url": "https://www.zeebiz.com/market-news/news-precious-metals-crash-silver-falls-rs-5000-gold-drops-nearly-1-whats-triggering-the-sell-off-405591",
+      "source": "Zee Business",
+      "source_domain": "zeebiz.com",
+      "publisher_id": "zee-business",
+      "published_at": "2026-11-16T04:41:54Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "silver",
+        "mcx"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 1
+    },
     {
       "id": "dd0a22dea250d634",
       "title": "MCX gold, silver prices drop: What led to rates slide; multi-month lows ahead of wedding season - Details for investors",
@@ -111,29 +134,6 @@
       ],
       "image_url": null,
       "image_kind": "none",
-      "breaking": false,
-      "rank": 1
-    },
-    {
-      "id": "23e44dbd347f3c25",
-      "title": "Gold slips toward $3,876 ahead of Warsh as Fed speakers line up behind tighter policy",
-      "summary": "Gold slipped to around $3,876 an ounce in Asian trade, extending a slide of almost 7% since last Tuesday after Goldman Sachs cut its end-2027 forecast. Fed Chair Kevin Warsh gives opening remarks at the Fed's productivity conference at 17:00 GMT on Monday, and markets are fully priced for a quarter-point hike on December 8-9.",
-      "url": "https://investinglive.com/commodities/gold-slips-toward-3-876-ahead-of-warsh-as-fed-speakers-line-up-behind-tighter-policy/",
-      "source": "InvestingLive",
-      "source_domain": "investinglive.com",
-      "publisher_id": "investinglive",
-      "published_at": "2026-11-16T01:40:19Z",
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "fed",
-        "global"
-      ],
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/23e44dbd347f3c25.jpg",
-      "image_kind": "photo",
       "breaking": false,
       "rank": 2
     },
@@ -186,6 +186,76 @@
       "rank": 4
     },
     {
+      "id": "e6fc6255957e6b92",
+      "title": "Gold and Silver Price Forecast: Strong Dollar Puts Key Support at Risk",
+      "summary": "Gold traded below $3,900 and silver eyed $45 as a strong dollar, near its highest since April 2025, and high Treasury yields kept both metals under pressure; markets price a 92% chance of a December Fed hike and await Chair Warsh's remarks.",
+      "url": "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-strong-dollar-puts-key-support-at-risk-1644743",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "published_at": "2026-11-16T03:30:20Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "silver",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 5
+    },
+    {
+      "id": "08f5831042cc095a",
+      "title": "Gold Plunged Nearly 5% Last Week to Near One-Year Low: Can Cooling US October PPI Spark a Rebound?",
+      "summary": "Gold fell 4.68% last week to a near-one-year low after breaking below its October 30 low, as a 35-basis-point jump in the two-year Treasury yield and a firm dollar lifted the cost of holding bullion; October PPI rose 0.3%, below the 0.4% expected, but firm inflation kept December hike bets near 92%.",
+      "url": "https://www.tradingkey.com/analysis/commodities/metal/262306236-gold-price-plunges-5pct-one-year-low-ppi-cooling-rebound-test-tradingkey",
+      "source": "TradingKey",
+      "source_domain": "tradingkey.com",
+      "publisher_id": "tradingkey",
+      "published_at": "2026-11-16T02:27:45Z",
+      "image_url": "https://resource.tradingkey.com/uploads/20261015/xauusd-3e2f13d635024bc5b2aca4e79291c236.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 6
+    },
+    {
+      "title": "Goldman's second gold forecast downgrade in a month turns its bear case into the base case",
+      "url": "https://investinglive.com/commodities/goldman-s-second-gold-forecast-downgrade-in-a-month-turns-its-bear-case-into-the-base-case/",
+      "source": "InvestingLive",
+      "source_domain": "investinglive.com",
+      "publisher_id": "investinglive",
+      "published_at": "2026-11-16T01:15:00Z",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "fed",
+        "central-banks",
+        "global"
+      ],
+      "summary": "Goldman Sachs cut its end-2027 gold forecast to $4,650 an ounce from $4,800, its second cut in a month, and now expects a third Fed hike in March 2027 after December's. The bank still sees about 16% upside by December 2027 on central-bank buying of around 60 tonnes a month, but warns ETF investors could sell into the weakness.",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/2a9d2d25ac65ae89.jpg",
+      "image_kind": "photo",
+      "id": "2a9d2d25ac65ae89",
+      "breaking": false,
+      "rank": 7
+    },
+    {
       "url": "https://timesofindia.indiatimes.com/business/india-business/gold-prices-drop-4-1-to-rs-1-36-lakh-silver-slides-nearly-5-to-rs-1-76-lakh-on-mcx-inflation-data-fed-signals-and-us-iran-tensions-could-keep-bullion-prices-volatile/articleshow/135857019.cms",
       "title": "Gold prices drop 4.1% to Rs 1.36 lakh, silver slides nearly 5% to Rs 1.76 lakh on MCX",
       "summary": "December gold futures fell Rs 5,847, or 4.1%, to Rs 1.36 lakh per 10 g this week, while silver slid Rs 8,791, nearly 5%, to Rs 1.76 lakh per kg. COMEX gold dropped almost 5% to $3,886 an ounce and silver 5.4% to $49.12, as a firm dollar and rising yields kept December Fed hike bets alive. Analysts expect volatility ahead, with inflation data, FOMC minutes and US jobs figures due.",
@@ -211,81 +281,7 @@
       ],
       "id": "a91495db10f7f681",
       "breaking": false,
-      "rank": 5
-    },
-    {
-      "title": "Goldman's second gold forecast downgrade in a month turns its bear case into the base case",
-      "url": "https://investinglive.com/commodities/goldman-s-second-gold-forecast-downgrade-in-a-month-turns-its-bear-case-into-the-base-case/",
-      "source": "InvestingLive",
-      "source_domain": "investinglive.com",
-      "publisher_id": "investinglive",
-      "published_at": "2026-11-16T01:15:00Z",
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "fed",
-        "central-banks",
-        "global"
-      ],
-      "summary": "Goldman Sachs cut its end-2027 gold forecast to $4,650 an ounce from $4,800, its second cut in a month, and now expects a third Fed hike in March 2027 after December's. The bank still sees about 16% upside by December 2027 on central-bank buying of around 60 tonnes a month, but warns ETF investors could sell into the weakness.",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/2a9d2d25ac65ae89.jpg",
-      "image_kind": "photo",
-      "id": "2a9d2d25ac65ae89",
-      "breaking": false,
-      "rank": 6
-    },
-    {
-      "id": "80d1870964c1a541",
-      "title": "Gold price prediction: Bullion traders pin hope on Gold rate to hit USD 4000-mark, silver eyes positive trading amidst volatile circumstances",
-      "summary": "Bullion traders expect gold to trade between $3,850 and $4,000 an ounce in the near term, with markets pricing a nearly 90% chance of a December Fed hike. Spot gold was at $3,879.71 an ounce; December COMEX gold fell nearly 5% on the week to $3,886.30 and silver slid 5.43% to $49.12. Indian wedding demand and steady central-bank buying are seen limiting the downside, the report says.",
-      "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-prediction-bullion-traders-pin-hope-on-gold-rate-to-hit-usd-4000-mark-silver-eye-positive-trading-amidst-volatile-circumstances/articleshow/135868182.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "publisher_id": "economic-times",
-      "published_at": "2026-11-15T23:19:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/80d1870964c1a541.jpg",
-      "image_kind": "photo",
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "fed",
-        "global"
-      ],
-      "breaking": false,
-      "rank": 7
-    },
-    {
-      "id": "517e36c7f9d85488",
-      "rank": 8,
-      "title": "Fed 'has some work to do on inflation,' KC Fed chief says",
-      "summary": "Kansas City Fed President Jeff Schmid said on Sunday that US inflation is 'uncomfortably above' the 2% target and moving in the wrong direction, and that the Fed has the tools and the responsibility to bring it down. He did not call for more hikes outright, but rate futures are now fully priced for a quarter-point rise at the December meeting, with a small chance of a half-point move.",
-      "url": "https://www.reuters.com/world/us/fed-has-some-work-do-inflation-kc-fed-chief-says-2026-11-15/",
-      "source": "Reuters",
-      "source_domain": "reuters.com",
-      "publisher_id": "reuters",
-      "published_at": "2026-11-15T18:40:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "fed",
-        "global"
-      ],
-      "breaking": false
+      "rank": 8
     },
     {
       "title": "Gold Outlook: Asia Buys the Dip, US Hammers the Rip",
@@ -311,6 +307,31 @@
       "rank": 9
     },
     {
+      "id": "517e36c7f9d85488",
+      "rank": 10,
+      "title": "Fed 'has some work to do on inflation,' KC Fed chief says",
+      "summary": "Kansas City Fed President Jeff Schmid said on Sunday that US inflation is 'uncomfortably above' the 2% target and moving in the wrong direction, and that the Fed has the tools and the responsibility to bring it down. He did not call for more hikes outright, but rate futures are now fully priced for a quarter-point rise at the December meeting, with a small chance of a half-point move.",
+      "url": "https://www.reuters.com/world/us/fed-has-some-work-do-inflation-kc-fed-chief-says-2026-11-15/",
+      "source": "Reuters",
+      "source_domain": "reuters.com",
+      "publisher_id": "reuters",
+      "published_at": "2026-11-15T18:40:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "fed",
+        "global"
+      ],
+      "breaking": false
+    },
+    {
       "url": "https://www.fxempire.com/forecasts/article/silver-price-forecast-silver-slides-below-50-as-treasury-yields-jump-1644724",
       "title": "Silver Price Forecast: Silver Slides Below $50 as Treasury Yields Jump",
       "summary": "Spot silver closed the week at $48.77, down 6.1%, after hot US producer inflation lifted December Fed hike bets, the dollar and Treasury yields. FXEmpire notes the 10-year yield rose to 5.16% and markets price an 88% chance of a December hike, while the Silver Institute expects demand to fall 5% this year. A break below $48 could open the way to $44–$45, the analysis says.",
@@ -333,35 +354,29 @@
       ],
       "id": "77a49ba67055ec16",
       "breaking": false,
-      "rank": 10
+      "rank": 11
     },
     {
-      "id": "d026e47fc3ef4029",
-      "rank": 11,
-      "title": "Gold and silver are supposed to protect against inflation. So why are both metals tumbling instead?",
-      "summary": "MarketWatch's Michael Kramer writes that jobs, CPI and PPI data since November 6 pushed rates and the dollar higher, giving the Fed reason to raise rates in December and signal more hikes in 2027. Gold has slipped from a peak near $5,500 early in the year toward $3,900-$4,000 support, and silver has dipped back below $50.",
-      "url": "https://www.marketwatch.com/story/gold-and-silver-are-supposed-to-protect-against-inflation-so-why-are-both-metals-tumbling-instead-1735eca7",
-      "source": "MarketWatch",
-      "source_domain": "marketwatch.com",
-      "publisher_id": "marketwatch",
-      "published_at": "2026-11-15T12:30:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
+      "id": "aa4217d2b345dcfb",
+      "title": "Solar Researchers Develop Plan to Reduce Silver Use",
+      "summary": "UNSW Sydney researchers are testing aluminium, nickel and copper alternatives to silver in solar cells, after silver paste reached up to 30% of a cell's manufacturing cost when silver prices peaked in early 2026 — a sign of how high silver prices are reshaping industrial demand.",
+      "url": "https://www.miragenews.com/solar-researchers-develop-plan-to-reduce-silver-1777506/",
+      "source": "Mirage News",
+      "source_domain": "mirage.news",
+      "publisher_id": "mirage-news",
+      "published_at": "2026-11-15T22:44:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/aa4217d2b345dcfb.jpg",
+      "image_kind": "photo",
       "tags": [
-        "gold",
         "silver",
-        "fed",
         "global"
       ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
       "breaking": false,
-      "related_urls": [
-        "https://www.morningstar.com/news/marketwatch/2026111586/gold-and-silver-are-supposed-to-protect-against-inflation-so-why-are-both-metals-tumbling-instead"
-      ]
+      "rank": 12
     },
     {
       "url": "https://www.livemint.com/market/commodities/gold-silver-prices-ahead-of-wedding-season-down-over-4-this-week-investors-guide-before-us-fed-dec-meeting-11794742802767.html",
@@ -387,7 +402,7 @@
       ],
       "id": "bb232fc841bff8ab",
       "breaking": false,
-      "rank": 12
+      "rank": 13
     },
     {
       "url": "https://economictimes.indiatimes.com/news/economy/indicators/rupee-outlook-improves-as-foreign-inflows-return-despite-wider-october-trade-deficit-axis-bank/articleshow/135828764.cms",
@@ -411,7 +426,7 @@
       ],
       "breaking": false,
       "id": "1d719be5a0785434",
-      "rank": 13
+      "rank": 14
     },
     {
       "id": "a2752870f506da12",
@@ -433,29 +448,6 @@
       ],
       "image_url": "https://i.brecorder.com/large/2025/10/18065236a3752f4.webp",
       "image_kind": "photo",
-      "breaking": false,
-      "rank": 14
-    },
-    {
-      "id": "3b60d04cf687431b",
-      "title": "India's current account deficit seen widening to USD 57 billion in FY27 on higher imports: ICICI Bank",
-      "summary": "ICICI Bank expects India's current account deficit to widen to $57 billion, or 1.4% of GDP, in FY27, with the goods trade deficit at $380 billion. October's merchandise deficit hit a 12-month high near $40 billion even as exports rose 45% to a record $49 billion, and the bank expects gold imports to stay moderate.",
-      "url": "https://www.tribuneindia.com/news/business/indias-current-account-deficit-seen-widening-to-usd-57-billion-in-fy27-on-higher-imports-icici-bank/",
-      "source": "The Tribune",
-      "source_domain": "tribuneindia.com",
-      "publisher_id": "tribune",
-      "published_at": "2026-11-14T05:27:37Z",
-      "image_url": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTFlMmZlZmQwLWRmZWMtMTFmMS1hNzhjLWJmZGZhODg2ZTA2Yy5qcGc=",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "india",
-        "rupee"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
       "breaking": false,
       "rank": 15
     },
