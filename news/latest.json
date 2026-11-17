@@ -1,20 +1,20 @@
 {
  "schema": "orob-news.v1",
- "edition_id": "2026-11-17T05:00Z",
- "generated_at": "2026-11-17T05:31:23Z",
+ "edition_id": "2026-11-17T06:00Z",
+ "generated_at": "2026-11-17T06:08:04Z",
  "window": {
-  "from": "2026-11-17T04:00:00Z",
-  "to": "2026-11-17T05:00:00Z"
+  "from": "2026-11-17T05:00:00Z",
+  "to": "2026-11-17T06:00:00Z"
  },
  "insights": {
   "headline": "Gold steadies near a one-year low on Fed hike bets; MCX silver ends 5% lower",
-  "summary": "Spot gold was little changed at $3,856.52 an ounce early on Tuesday, staying near its lowest since October 2025 after Monday's slide, as markets priced a 96.6% chance of a 25-basis-point Fed hike in December. MCX December silver closed 5.14% lower at ₹1,67,239 per kg and gold ended at ₹1,35,801 per 10 g. Goldman Sachs cut its end-2027 gold forecast to $4,650 an ounce, its second cut in a month, while jewellers reported record Dhanteras sales even as Indian buyers bought 29% less gold last quarter.",
+  "summary": "Spot gold was little changed at $3,856.52 an ounce early on Tuesday, staying near its lowest since October 2025 after Monday's slide, as markets priced a 96.6% chance of a 25-basis-point Fed hike in December. MCX December silver closed 5.14% lower at ₹1,67,239 per kg and gold ended at ₹1,35,801 per 10 g, while jewellers reported record Dhanteras sales even as Indian buyers bought 29% less gold last quarter.",
   "points": [
    "Spot gold was little changed at $3,856.52 early on Tuesday after hitting its lowest since October 2025 on Monday.",
    "MCX silver fell 5.14% to ₹1,67,239 per kg after touching ₹1,66,650; gold ended at ₹1,35,801 per 10 g.",
    "Markets see a 96.6% chance of a 25-basis-point December Fed hike, with a 3.4% chance of a 50-point move.",
    "Gold is down over 23% from its January peak and silver nearly 55% from its record high, Fortune India reports.",
-   "Silver broke below $48 support to a $46.55 low on Monday, FXEmpire reports, with risks toward $45.55."
+   "Silver has fallen nearly 60% from its January record above ₹4 lakh per kg, Mint reports, on forced selling, weaker demand and Fed hike bets."
   ],
   "brief": {
    "schema": "orob-brief.v1",
@@ -92,7 +92,8 @@
     "991775bde916378b",
     "178b0d89b508aaad",
     "f155380b4a9cf82d",
-    "9b1e5e747b603d20"
+    "9b1e5e747b603d20",
+    "f5843eba90ca5398"
    ]
   },
   {
@@ -190,8 +191,33 @@
    "rank": 3
   },
   {
-   "id": "c40832814ac90dda",
+   "id": "f5843eba90ca5398",
    "rank": 4,
+   "title": "Why Silver rates crashed from record high of ₹4 lakh per kg price to below ₹1.75 lakh? Experts explain 3 key reasons",
+   "summary": "Silver has plunged nearly 60% from its January record above ₹4 lakh per kg to below ₹1.75 lakh, Mint reports. MCX December silver traded around ₹1,70,065 per kg on Tuesday, up 1.3% from Monday's close, after COMEX silver hit a fresh 52-week low near $47.22 an ounce. Experts blame forced selling and margin calls, a roughly 5% fall in demand, further US rate hike expectations and a stronger dollar.",
+   "url": "https://www.livemint.com/market/commodities/why-silver-rates-crashed-from-record-high-of-rs-4-lakh-per-kg-price-to-below-rs-1-75-lakh-experts-explain-3-key-reasons-11794890469861.html",
+   "source": "Mint",
+   "source_domain": "livemint.com",
+   "publisher_id": "mint",
+   "published_at": "2026-11-17T05:33:17Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "silver",
+    "mcx",
+    "fed",
+    "global"
+   ],
+   "category": "mcx",
+   "metals": [
+    "silver"
+   ],
+   "breaking": false,
+   "related_urls": []
+  },
+  {
+   "id": "c40832814ac90dda",
+   "rank": 5,
    "title": "Gold hovers near over one-year low as firm dollar, Fed-hike bets weigh",
    "summary": "Spot gold was little changed at $3,856.52 an ounce early on Tuesday, staying near its lowest since October 2025 after Monday's slide, putting bullion on course for its worst year in more than a decade. Markets see a 96.6% chance of a 25-basis-point Fed hike in December and await the minutes of the Fed's October 27-28 meeting due on Wednesday. Spot silver steadied at $47.05 an ounce.",
    "url": "https://www.reuters.com/world/india/gold-hovers-near-over-one-year-low-firm-dollar-fed-hike-bets-weigh-2026-11-17/",
@@ -219,7 +245,7 @@
   },
   {
    "id": "a47db0179ac0db3c",
-   "rank": 5,
+   "rank": 6,
    "title": "US dollar hits 19-month peak on Fed hike bets; Aussie dips",
    "summary": "The dollar index rose to 103.66 on Tuesday, its highest since April 2025 and a sixth straight daily gain, as traders now see a December Fed hike as a certainty, with only around 4% odds on a half-point move. The euro slipped to a 19-month low of $1.0985 and the Aussie to its lowest since January. US retail sales due later on Tuesday could offer further clues on the Fed's path.",
    "url": "https://www.reuters.com/world/africa/us-dollar-hits-19-month-peak-fed-hike-bets-aussie-dips-2026-11-17/",
@@ -265,7 +291,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 6
+   "rank": 7
   },
   {
    "title": "MCX gold falls 2% to record low at ₹1.34 lakh/10 gms, silver tumbles 4% amid growing bets of Fed rate hike",
@@ -293,7 +319,7 @@
    ],
    "id": "9a3f9870561e44f9",
    "breaking": false,
-   "rank": 7
+   "rank": 8
   },
   {
    "id": "9478cb17a4d71fe4",
@@ -318,7 +344,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 8
+   "rank": 9
   },
   {
    "id": "9b1e5e747b603d20",
@@ -341,7 +367,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 9
+   "rank": 10
   },
   {
    "title": "Silver prices crash by Rs 7,000; dollar strength, rate hike prospects weigh",
@@ -364,7 +390,7 @@
    "image_kind": "photo",
    "id": "8e51c9e506bee6c6",
    "breaking": false,
-   "rank": 10
+   "rank": 11
   },
   {
    "id": "6e4b6d77c8b7bc40",
@@ -387,7 +413,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 11
+   "rank": 12
   },
   {
    "title": "Gold price slides as Fed hike bets rise, silver bar and coin sales drop despite lower prices – Heraeus",
@@ -412,7 +438,7 @@
    "image_kind": "photo",
    "breaking": false,
    "id": "a968de6f80174539",
-   "rank": 12
+   "rank": 13
   },
   {
    "title": "'Plenty of Reasons to Sell' as Gold Sinks 15% in 12 Weeks",
@@ -437,7 +463,7 @@
    "image_kind": "photo",
    "breaking": false,
    "id": "8f314df4395a2c97",
-   "rank": 13
+   "rank": 14
   },
   {
    "title": "From Above Rs 4 Lakh To Below Rs 1.75 Lakh: Why Silver Prices Have Fallen So Sharply",
@@ -460,7 +486,7 @@
    "image_kind": "none",
    "id": "a90e3b977f48cf9d",
    "breaking": false,
-   "rank": 14
+   "rank": 15
   },
   {
    "id": "8d8a5ac20f5aae8b",
@@ -483,31 +509,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 15
-  },
-  {
-   "id": "47cd3819f12de917",
-   "rank": 16,
-   "title": "Goldman Forecasts Gold to Take Two Years to Recapture All-Time Highs",
-   "summary": "Goldman Sachs expects gold to take about two years to reclaim its all-time high of nearly $5,600 an ounce, set in late January, with further weakness and volatility in the near term as continued Fed tightening weighs on non-yielding bullion. Strategists led by Lina Thomas see Western ETF demand recovering once the Fed starts cutting, supporting a rally to $5,600 an ounce by end-2028.",
-   "url": "https://www.livemint.com/market/goldman-forecasts-gold-to-take-two-years-to-recapture-all-time-highs-11794862583269.html",
-   "source": "Mint",
-   "source_domain": "livemint.com",
-   "publisher_id": "mint",
-   "published_at": "2026-11-16T20:56:22Z",
-   "image_url": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "fed",
-    "global"
-   ],
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "related_urls": []
+   "rank": 16
   },
   {
    "title": "Senco Gold reports record ₹2,426 crore Dhanteras sales, up 26%; retail revenue rises 25%",
