@@ -1,18 +1,18 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-17T20:00Z",
-  "generated_at": "2026-11-17T20:13:45Z",
+  "edition_id": "2026-11-17T22:00Z",
+  "generated_at": "2026-11-17T22:10:57Z",
   "window": {
-    "from": "2026-11-17T18:00:00Z",
-    "to": "2026-11-17T20:00:00Z"
+    "from": "2026-11-17T20:00:00Z",
+    "to": "2026-11-17T22:00:00Z"
   },
   "insights": {
-    "headline": "Gold pinned near one-year low as dollar, yields climb; silver steadies as buyers return",
-    "summary": "Spot gold held near $3,850, just above its 13-month low of $3,830.74, as the dollar hit a fresh 19-month peak and the 10-year Treasury yield stayed near 5.14%, with markets pricing a 96% chance of a December Fed hike. On MCX, gold was near ₹1,35,341 per 10 g and silver near ₹1,70,300 per kg, with buyers returning after silver's slide from its January record. The Fed's October meeting minutes are due Wednesday.",
+    "headline": "Gold pinned near one-year low as dollar, yields climb; silver down 11% in a week",
+    "summary": "Spot gold held near $3,850, just above its 13-month low of $3,830.74, as the dollar hit a fresh 19-month peak and the 10-year Treasury yield stayed near 5.14%, with markets pricing a 96% chance of a December Fed hike. Silver fell about 11% in a week to near $47.24, against a 6% drop for gold, as the cost of money rose on the hot October inflation report. On MCX, gold was near ₹1,35,341 per 10 g and silver near ₹1,70,300 per kg, with buyers returning after silver's slide from its January record. The Fed's October meeting minutes are due Wednesday.",
     "points": [
       "Spot gold near $3,853, just above Monday's 13-month low of $3,830.74; US gold futures settled at $3,864.20.",
+      "Silver fell about 11% in a week to about $47.24, against gold's 6% drop, as a December Fed hike turned near-certain.",
       "MCX gold near ₹1,35,341 per 10 g; silver near ₹1,70,300 per kg after rising ₹1,930.",
-      "Dollar at a fresh 19-month peak and the 10-year yield near 5.14% keep bullion pinned, Reuters reports.",
       "Silver buyers return after a near-57% slide from January's ₹4 lakh peak; gold-silver ratio near 82.",
       "WGC: India festive gold demand strong, ETFs saw a fifth straight month of inflows in October."
     ],
@@ -31,10 +31,10 @@
     },
     {
       "title": "Silver's correction brings buyers back",
-      "summary": "Silver is down nearly 57% from January's ₹4 lakh peak, and jewellers say buyers are returning for coins and smaller denominations in staggered purchases, though industrial demand is softening.",
+      "summary": "Silver is down nearly 57% from January's ₹4 lakh peak; jewellers say buyers are returning for coins in staggered purchases, and FXEmpire blames the week's 11% slide on rate bets, not demand.",
       "item_ids": [
         "30b0448b03029512",
-        "3c9667685afe8a34",
+        "61a963e6ede025f7",
         "f5843eba90ca5398"
       ]
     },
@@ -140,7 +140,7 @@
     {
       "id": "a31f7535ebeb3042",
       "title": "Gold and Silver Rally as Nvidia, Deutsche Bank Scandals Hit Equities",
-      "summary": "Gold rose to $3,870 an ounce and silver to $47.60 as equities fell on scandals at Nvidia and Deutsche Bank, with the S&P 500 down 1.2%. Both metals remain well below last week's levels — gold is 5.8% under its November 13 close and silver 15.2% below November 14 — while the dollar edged up and 10-year Treasury yields eased to 4.02%.",
+      "summary": "Gold rose to $3,870 an ounce and silver to $47.60 as equities fell on scandals at Nvidia and Deutsche Bank, with the S&P 500 down 1.2%. Both metals remain well below last week's levels — gold is 5.8% under its November 13 close and silver 15.2% below November 14 — while the dollar edged up and US Treasury yields rose towards autumn's two-decade highs.",
       "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-nvda-deutsche-111720261",
       "source": "BullionVault",
       "source_domain": "bullionvault.com",
@@ -160,6 +160,33 @@
       ],
       "breaking": false,
       "rank": 4
+    },
+    {
+      "id": "61a963e6ede025f7",
+      "title": "Silver Is Paying for a Rate Rise That Has Not Happened Yet",
+      "summary": "Silver lost about 11% in a week, against 6% for gold, because the cost of money is rising, not because silver's supply shortfall has ended, FXEmpire argues. A hot October US inflation report pushed markets to treat a December Fed rate rise as close to certain; silver traded near $47.24. Metals Focus and the Silver Institute still forecast a sixth straight annual deficit.",
+      "url": "https://www.fxempire.com/forecasts/article/silver-is-paying-for-a-rate-rise-that-has-not-happened-yet-1645279",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "published_at": "2026-11-17T20:42:54Z",
+      "image_url": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/silver-precious-metal-price-chart-04-5.jpg?width=1201",
+      "image_kind": "photo",
+      "tags": [
+        "silver",
+        "gold",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://www.fxstreet.com/analysis/silver-is-paying-for-a-rate-rise-that-has-not-happened-yet-202611172037"
+      ],
+      "rank": 5
     },
     {
       "id": "ae1d05bb0e608d01",
@@ -182,7 +209,7 @@
         "global"
       ],
       "breaking": false,
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "30b0448b03029512",
@@ -207,11 +234,11 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "c40832814ac90dda",
-      "rank": 7,
+      "rank": 8,
       "title": "Gold hovers near over one-year low as firm dollar, Fed-hike bets weigh",
       "summary": "Spot gold was little changed at $3,856.52 an ounce early on Tuesday, staying near its lowest since October 2025 after Monday's slide, putting bullion on course for its worst year in more than a decade. Markets see a 96.6% chance of a 25-basis-point Fed hike in December and await the minutes of the Fed's October 27-28 meeting due on Wednesday. Spot silver steadied at $47.05 an ounce.",
       "url": "https://www.reuters.com/world/india/gold-hovers-near-over-one-year-low-firm-dollar-fed-hike-bets-weigh-2026-11-17/",
@@ -258,7 +285,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "4d19b82d0f7fb9bd",
@@ -281,11 +308,11 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "05423c163a4bb304",
-      "rank": 10,
+      "rank": 11,
       "title": "Gold below $4,000/oz attracts ETF inflows, led by US",
       "summary": "Physically backed gold ETFs took in a net $672.8 million in the week to November 13 as gold slipped below $4,000 an ounce, World Gold Council data show. US investors led with $766 million of inflows while the UK, Japan and China redeemed, and inflows are net positive at $40.8 billion so far in 2026.",
       "url": "https://www.thehindubusinessline.com/markets/gold/gold-below-4000oz-attracts-etf-inflows-led-by-us/article71708410.ece",
@@ -304,29 +331,6 @@
         "gold"
       ],
       "breaking": false
-    },
-    {
-      "id": "4694b4d063037bc8",
-      "title": "Silver Price Forecast: XAG/USD picks up to $47.50 but remains near yearly lows",
-      "summary": "Silver steadied near $47.50 on Tuesday after bouncing from a yearly low of $46.56, FXStreet notes, with the rebound capped by a firm dollar and elevated Treasury yields as markets price a December Fed hike and more tightening in early 2027; the broader bearish trend stays intact, with silver still well below its late-August peak near $71.",
-      "url": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-picks-up-to-4750-but-remains-near-yearly-lows-202611170829",
-      "source": "FXStreet",
-      "source_domain": "fxstreet.com",
-      "publisher_id": "fxstreet",
-      "published_at": "2026-11-17T08:29:01Z",
-      "image_url": "https://editorial.fxsstatic.com/images/i/discover-54.png",
-      "image_kind": "photo",
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "tags": [
-        "silver",
-        "global",
-        "fed"
-      ],
-      "breaking": false,
-      "rank": 11
     },
     {
       "id": "6ed09807d4975359",
