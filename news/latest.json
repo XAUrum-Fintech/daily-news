@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-17T08:00Z",
-  "generated_at": "2026-11-17T08:21:46Z",
+  "edition_id": "2026-11-17T09:00Z",
+  "generated_at": "2026-11-17T09:07:27Z",
   "window": {
-    "from": "2026-11-17T06:00:00Z",
-    "to": "2026-11-17T08:00:00Z"
+    "from": "2026-11-17T08:00:00Z",
+    "to": "2026-11-17T09:00:00Z"
   },
   "insights": {
     "headline": "MCX gold and silver steady near one-year lows as the dollar holds a 19-month high",
@@ -68,8 +68,7 @@
         "c40832814ac90dda",
         "56cfaf133dfd456f",
         "a47db0179ac0db3c",
-        "dcab9cbc1d613ed8",
-        "b0bbfcb0cd4174d9"
+        "dcab9cbc1d613ed8"
       ]
     },
     {
@@ -80,16 +79,18 @@
         "3f0992aa611b1563",
         "9b1e5e747b603d20",
         "178b0d89b508aaad",
-        "f5843eba90ca5398"
+        "f5843eba90ca5398",
+        "4694b4d063037bc8"
       ]
     },
     {
       "title": "Festive demand holds up as jewellers report records",
-      "summary": "Jewellers posted record Dhanteras sales even as Indian gold buying fell 29% last quarter, with wedding-season demand now in focus as prices sit near one-year lows.",
+      "summary": "Jewellers posted record Dhanteras sales and gems exports jumped 34% in October, even as Indian gold buying fell 29% last quarter, with wedding-season demand in focus as prices sit near one-year lows.",
       "item_ids": [
         "e50d8c2d85033c5d",
         "36b0b1b8b9029263",
-        "79932336a460333f"
+        "79932336a460333f",
+        "fe96a20b414b6d7f"
       ]
     }
   ],
@@ -204,26 +205,24 @@
       ]
     },
     {
-      "id": "b0bbfcb0cd4174d9",
-      "title": "Gold Heads for Worst Year Since 2015. Why Is It Losing to a 5% Treasury?",
-      "summary": "Gold fell to $3,830 an ounce on Monday, its lowest in over a year and 31.5% below January's record, putting it on course for its worst year since 2015 as the 10-year Treasury yield topped 5% and the dollar hit a 19-month high; Goldman Sachs has cut its end-2026 gold call to $4,150.",
-      "url": "https://beincrypto.com/gold-price-treasury-yields-fed-hike/",
-      "source": "BeInCrypto",
-      "source_domain": "beincrypto.com",
-      "publisher_id": "beincrypto",
-      "published_at": "2026-11-17T04:30:00Z",
-      "image_url": null,
-      "image_kind": "none",
+      "id": "4694b4d063037bc8",
+      "title": "Silver Price Forecast: XAG/USD picks up to $47.50 but remains near yearly lows",
+      "summary": "Silver steadied near $47.50 on Tuesday after bouncing from a yearly low of $46.56, FXStreet notes, with the rebound capped by a firm dollar and elevated Treasury yields as markets price a December Fed hike and more tightening in early 2027; the broader bearish trend stays intact, with silver still well below its late-August peak near $71.",
+      "url": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-picks-up-to-4750-but-remains-near-yearly-lows-202611170829",
+      "source": "FXStreet",
+      "source_domain": "fxstreet.com",
+      "publisher_id": "fxstreet",
+      "published_at": "2026-11-17T08:29:01Z",
+      "image_url": "https://editorial.fxsstatic.com/images/i/discover-54.png",
+      "image_kind": "photo",
       "category": "global",
       "metals": [
-        "gold",
         "silver"
       ],
       "tags": [
-        "gold",
         "silver",
-        "fed",
-        "global"
+        "global",
+        "fed"
       ],
       "breaking": false,
       "rank": 5
@@ -672,25 +671,27 @@
       "breaking": false
     },
     {
-      "title": "Silver: Rebound faces renewed selling pressure – OCBC",
-      "url": "https://www.fxstreet.com/news/silver-rebound-faces-renewed-selling-pressure-ocbc-202611160739",
-      "source": "FXStreet",
-      "source_domain": "fxstreet.com",
-      "publisher_id": "fxstreet",
-      "published_at": "2026-11-16T07:39:41Z",
+      "id": "fe96a20b414b6d7f",
+      "title": "India's Jewelry Exports Surge 34% in October",
+      "summary": "India's gem and jewellery exports jumped 34% year on year to $2.92 billion in October, GJEPC data shows, with gold jewellery exports up 48.2% to $1.26 billion, studded gold jewellery up 67.3% and silver jewellery up 55.5%; GJEPC cautioned the gain was flattered by last October's Diwali factory shutdowns and higher gold prices, and expects about 10% export growth in FY27.",
+      "url": "https://www.jckonline.com/editorial-article/indias-jewelry-exports-surge/",
+      "source": "JCK",
+      "source_domain": "jckonline.com",
+      "publisher_id": "jck",
+      "published_at": "2026-11-16T18:39:41Z",
+      "image_url": null,
+      "image_kind": "none",
       "category": "global",
       "metals": [
+        "gold",
         "silver"
       ],
       "tags": [
+        "gold",
         "silver",
-        "fed",
-        "global"
+        "india",
+        "jewellery"
       ],
-      "summary": "OCBC says silver's post-midterms rebound proved short-lived, with prices slipping below $50 and falling about 6% over the week as elevated US yields, a firm dollar and Fed tightening expectations weighed. The silver market is set for a sixth straight annual supply deficit in 2026, but it is narrowing to 35 million ounces from 54 million, with total demand forecast down 5%.",
-      "image_url": "https://editorial.fxsstatic.com/images/i/Silver3.png",
-      "image_kind": "photo",
-      "id": "6824d9b30dd5c8c6",
       "breaking": false,
       "rank": 24
     },
@@ -718,24 +719,25 @@
       "rank": 25
     },
     {
-      "title": "SGB 2018-19 III delivers 348% return: Rs 1 lakh grows to Rs 4.48 lakh",
-      "url": "https://www.business-standard.com/finance/personal-finance/sgb-2018-19-iii-delivers-348-return-rs-1-lakh-grows-to-rs-4-48-lakh-126111600983_1.html",
-      "source": "Business Standard",
-      "source_domain": "business-standard.com",
-      "publisher_id": "business-standard",
-      "published_at": "2026-11-16T07:35:47Z",
+      "id": "669996602c78c6bb",
+      "title": "Gold hallmarking: CAG flags inspection gaps at jewellery shops; experts share 5 checks buyers should know",
+      "summary": "A draft CAG audit has flagged weak oversight of hallmarked gold jewellery, finding BIS inspected only 5,444 of 28,865 licensed jewellers in 2024-25, with over 81% going unchecked over five years, and missing 43.7% of its surveillance target for hallmarking centres; the findings raise questions over purity assurance for buyers, and the report is expected to be tabled in Parliament.",
+      "url": "https://www.7globe.in/gold-hallmarking-cag-flags-inspection-gaps-at-jewellery-shops-experts-share-5-checks-buyers-should-know/",
+      "source": "7Globe",
+      "source_domain": "7globe.in",
+      "publisher_id": "7globe",
+      "published_at": "2026-11-16T16:34:51Z",
+      "image_url": null,
+      "image_kind": "none",
       "category": "policy",
       "metals": [
         "gold"
       ],
       "tags": [
         "gold",
-        "rbi"
+        "india",
+        "jewellery"
       ],
-      "summary": "Sovereign Gold Bond 2018-19 Series III matured on November 13 at an RBI-fixed redemption price of Rs 14,024 per gram, turning Rs 1 lakh invested at Rs 3,133 a gram in 2018 into about Rs 4.48 lakh, a 348% gain before the 2.5% annual interest. Capital gains on maturity are tax-exempt; the government has stopped fresh SGB issues for now.",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/8ce41a7dd6ede901.jpg",
-      "image_kind": "photo",
-      "id": "8ce41a7dd6ede901",
       "breaking": false,
       "rank": 26
     },
