@@ -1,19 +1,19 @@
-# Customs duty update — 91/2026-Customs (N.T)
+# Customs duty update — ERAM 31/2026
 
-**Effective:** 14 Nov 2026 (published 13 Nov 2026)
-**Event:** Tariff-value notification 91/2026-Customs (N.T)
+**Effective:** 18 Nov 2026 (published 17 Nov 2026)
+**Event:** Exchange-rate circular 31/2026
+**USD/INR import: 95.35 → 95.35**
 
-- Gold: tariff $1,295 → $1,245/10g · duty ₹17,80,661.25/kg (-₹71,512.50)
-- Silver: tariff $1,711 → $1,663/kg · duty ₹23,785.06/kg (-₹686.52)
+- Gold: tariff $1,245/10g (no change) · duty ₹17,80,661.25/kg (+₹0)
+- Silver: tariff $1,663/kg (no change) · duty ₹23,785.06/kg (+₹0)
 
 ## Why it moved
 
-CBIC revised tariff values: gold $1,295 → $1,245/10g, silver $1,711 → $1,663/kg. The exchange rate is unchanged, so the duty move comes from the tariff revision alone. Gold duty now works out to about ₹17,807 per 10g.
+Neither tariff values nor the exchange rate moved versus the previous event. Gold duty now works out to about ₹17,807 per 10g.
 
 ## Verify
 
-- [CBIC tax information portal](https://taxinformation.cbic.gov.in/) — Non-Tariff notifications; search 91/2026-Customs (N.T).
-- [LBMA gold fix](https://prices.lbma.org.uk/json/gold_pm.json) / [LBMA silver fix](https://prices.lbma.org.uk/json/silver.json) — full history, v[0] is USD.
+- [Official notifications portal](https://foservices.icegate.gov.in/#/services/notifyPublishScreen) — find 31/2026, Download PDF.
 
 ---
 *Generated from `latest.json` (schema customs-tracker.v4). Machine-owned — do not hand-edit.*
