@@ -1,19 +1,29 @@
-# Gold & Silver for Indian buyers · 2026-11-17T00:00Z
+# Gold & Silver for Indian buyers · 2026-11-17T02:00Z
 
-> Gold and silver hit new 2026 lows as Fed hike bets lift the dollar; MCX silver slides 5%
+> Gold steadies near a one-year low on Fed hike bets; MCX silver ends 5% lower
 
-Gold sank to a one-year low and silver slid 5% on MCX on Monday as expectations of a December Fed rate hike pushed Treasury yields and the dollar higher. December gold futures touched $3,835.20 and silver $46.885, with the gold-to-silver ratio near 82.7, its highest since November 2025. Goldman Sachs cut its end-2027 gold forecast to $4,650 an ounce, its second cut in a month, while jewellers reported strong festive sales even as Indian buyers bought 29% less gold last quarter.
+Spot gold was little changed at $3,856.52 an ounce early on Tuesday, staying near its lowest since October 2025 after Monday's slide, as markets priced a 96.6% chance of a 25-basis-point Fed hike in December. MCX December silver closed 5.14% lower at ₹1,67,239 per kg and gold ended at ₹1,35,801 per 10 g. Goldman Sachs cut its end-2027 gold forecast to $4,650 an ounce, its second cut in a month, while jewellers reported record Dhanteras sales even as Indian buyers bought 29% less gold last quarter.
 
-- Spot gold hit $3,830.74, its lowest since October 2, 2025, and is down 31.5% from January's record $5,594.82 high.
-- MCX silver fell 5.14% to Rs 1,67,239 per kg after touching Rs 1,66,650; gold ended at Rs 1,35,801 per 10 g.
-- December gold futures slid to $3,835.20 and silver to $46.885, with the gold-to-silver ratio near 82.7, its highest since November 2025.
-- A December Fed hike of 25 basis points is fully expected, with about a 10% chance of a 50-point move.
+- Spot gold was little changed at $3,856.52 early on Tuesday after hitting its lowest since October 2025 on Monday.
+- MCX silver fell 5.14% to ₹1,67,239 per kg after touching ₹1,66,650; gold ended at ₹1,35,801 per 10 g.
+- Markets see a 96.6% chance of a 25-basis-point December Fed hike, with a 3.4% chance of a 50-point move.
 - Goldman Sachs cut its end-2027 gold forecast to $4,650 an ounce from $4,800, its second cut in a month.
+- Senco Gold's Dhanteras sales hit a record ₹2,426 crore, up 26%, even as India bought 29% less gold last quarter.
+
+## Today's brief
+
+**Gold steadies near one-year low on Fed hike bets**
+
+Spot gold stayed near $3,857 and MCX gold near ₹1.36 lakh per 10 g after Monday's slide, with Fed hike bets weighing.
+
+- A firm dollar near its strongest since April 2025, high Treasury yields and December Fed hike bets weighed on bullion, Reuters says.
+- MCX silver fell harder than gold as the slide deepened, while jewellers reported record Dhanteras sales despite lower prices.
+- Watch today: US retail sales and import prices are due at 19:00 IST, ahead of Wednesday's Fed meeting minutes.
 
 ## Trending
 - **MCX metals end a brutal Monday near their lows**: MCX December silver closed 5.14% lower at Rs 1,67,239 per kg after a low of Rs 1,66,650, while gold recovered to Rs 1,35,801 per 10 g after touching Rs 1,34,385. (stories 3f0992aa611b1563, 9a3f9870561e44f9, 9478cb17a4d71fe4, 8e51c9e506bee6c6)
-- **Gold sinks to a one-year low, worst year since 2015**: Spot gold hit $3,830.74, its lowest since October 2, 2025, and is down 31.5% from January's record $5,594.82 high; BullionVault notes a 15.1% fall in 12 weeks, the fifth-steepest in 20 years. (stories e82c91fb0e416a69, 8f314df4395a2c97, 4002cd49dcfc2f94, f155380b4a9cf82d, 56cfaf133dfd456f)
-- **Fed hike bets and a 19-month-high dollar cap bullion**: Markets fully expect a 25-basis-point December Fed hike, with about a 10% chance of a larger move, as the dollar holds near its strongest since April 2025 and 10-year yields stay above 5%. (stories a968de6f80174539, e82c91fb0e416a69, 8f314df4395a2c97, 56cfaf133dfd456f)
+- **Gold steadies near a one-year low after Monday's slide**: Spot gold was little changed at $3,856.52 early on Tuesday after hitting its lowest since October 2025 on Monday; BullionVault notes a 15.1% fall in 12 weeks, the fifth-steepest in 20 years. (stories c40832814ac90dda, 8f314df4395a2c97, 4002cd49dcfc2f94, f155380b4a9cf82d, 56cfaf133dfd456f)
+- **Fed hike bets and a 19-month-high dollar cap bullion**: Markets see a 96.6% chance of a 25-basis-point December Fed hike, with a 3.4% chance of a larger move, as the dollar holds near its strongest since April 2025 and 10-year yields stay above 5%. (stories a968de6f80174539, c40832814ac90dda, 8f314df4395a2c97, 56cfaf133dfd456f)
 - **Silver demand softens even as supply stays short**: Silver demand is seen falling 5% in 2026 as jewellery demand contracts and solar makers use less of the metal, though a 35-million-ounce deficit persists and BofA sees a $70 average in 2027. (stories 6e4b6d77c8b7bc40, 3f0992aa611b1563, 991775bde916378b, 178b0d89b508aaad, f155380b4a9cf82d)
 - **Festive demand holds up as jewellers report records**: Senco Gold's Dhanteras sales hit a record Rs 2,426 crore, up 26%, and Titan's profit more than doubled as lower prices drew buyers back, even as jewellers' margins stayed mixed. (stories e50d8c2d85033c5d, 36b0b1b8b9029263, 1c85479c9f87ba90)
 
@@ -22,8 +32,8 @@ Gold sank to a one-year low and silver slid 5% on MCX on Monday as expectations 
    Gold and silver futures settled Monday at their lowest in more than a year as the dollar held near its strongest since April 2025 and Treasury yields rose on Fed hike bets. Front-month Comex gold fell 0.8% to $3,847.40 an ounce and silver slumped 4.6% to $46.785, their lowest settlements since October 2 and October 27, 2025. Traders see a 94% chance of a 25-basis-point Fed hike in December.
 2. [Silver slides below ₹1.69 lakh as Fed rate fears hit bullion. Could prices fall further?](https://boldvoices.in/silver-price-falls-mcx-fed-rate-fears-november-16-2026/) — *Boldvoices*, 2026-11-16 17:00:00 UTC
    MCX silver fell 5.14% to Rs 1,67,239 per kg in evening trade after touching Rs 1,66,650, while December gold recovered some losses to Rs 1,35,801 per 10 g after an intraday low of Rs 1,34,385. The Silver Institute expects total silver demand to fall 5% in 2026, with industrial demand down 3%, even as a 35-million-ounce supply deficit persists.
-3. [Gold sinks to 1-year low as Treasury yields and dollar bite, set for worst year since 2015](https://www.reuters.com/markets/europe/gold-sinks-1-year-low-treasury-yields-dollar-bite-set-worst-year-since-2015-2026-11-16/) — *Reuters*, 2026-11-16 17:55:00 UTC
-   Gold hit $3,830.74 an ounce, its lowest since October 2, 2025, and is down 31.5% from January's record high of $5,594.82, putting it on course for its worst year since 2015. High Treasury yields, a dollar near its strongest since April 2025 and expectations of a December Fed hike are weighing on bullion, though physically backed gold ETFs still drew 211 tonnes in the third quarter.
+3. [Gold hovers near over one-year low as firm dollar, Fed-hike bets weigh](https://www.reuters.com/world/india/gold-hovers-near-over-one-year-low-firm-dollar-fed-hike-bets-weigh-2026-11-17/) — *Reuters*, 2026-11-17 00:41:20 UTC
+   Spot gold was little changed at $3,856.52 an ounce early on Tuesday, staying near its lowest since October 2025 after Monday's slide, putting bullion on course for its worst year in more than a decade. Markets see a 96.6% chance of a 25-basis-point Fed hike in December and await the minutes of the Fed's October 27-28 meeting due on Wednesday. Spot silver steadied at $47.05 an ounce.
 4. [MCX gold falls 2% to record low at ₹1.34 lakh/10 gms, silver tumbles 4% amid growing bets of Fed rate hike](https://upstox.com/news/market-news/commodities/mcx-gold-falls-2-to-record-low-at-1-34-lakh-10-gms-silver-tumbles-4-amid-growing-bets-of-fed-rate-hike/article-203505/) — *Upstox*, 2026-11-16 06:57:47 UTC
    MCX December gold fell as much as 1.7% to a fresh intraday low of Rs 1,34,385 per 10 g, while silver slid 4% to a record low of Rs 1,69,194 per kg. COMEX December gold hit a fresh 52-week low of $3,835.20 an ounce and silver $47.07. Markets price a 92% chance of a 25-basis-point Fed hike in December.
 5. [Gold falls to Rs 1.33 lakh, silver under Rs 1.70 lakh as sell-off deepens in precious metal prices](https://www.financialexpress.com/market/gold-pulse/gold-silver-prices-hit-one-year-lows-globally-what-is-driving-the-fall/4385800/) — *Financial Express*, 2026-11-16 08:28:30 UTC
