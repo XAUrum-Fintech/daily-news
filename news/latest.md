@@ -1,10 +1,10 @@
-# Gold & Silver for Indian buyers · 2026-11-17T12:00Z
+# Gold & Silver for Indian buyers · 2026-11-17T13:00Z
 
 ## Today's brief
 
-**Gold steadies near one-year low as dollar stays firm**
+**Gold steadies after Monday's slide; dollar stays firm**
 
-MCX gold held near ₹1,35,341 per 10 g and silver near ₹1,71,025 per kg on Tuesday as spot gold stayed near $3,857.
+MCX gold rose to ₹1,35,341 per 10 g and silver to ₹1,71,025 per kg on Tuesday as spot gold held near $3,857.
 
 - Gold and silver steadied in Tuesday trade after Monday's slide to one-year lows, with silver recovering more sharply than gold on MCX.
 - A 19-month-high dollar, 10-year yields above 5% and near-certain December Fed hike bets kept bullion pinned, Reuters says.
@@ -21,11 +21,11 @@ MCX December gold held near ₹1,35,000 per 10 g and silver near ₹1,70,000 per
 - Goldman Sachs cut its end-2027 gold forecast to $4,650 an ounce from $4,800, citing further Fed hikes and soft private demand.
 
 ## Trending
-- **Gold and silver steady after Monday's slide**: Tuesday's session opened with a steadying on MCX after Monday's rout to one-year lows, helped by a softer dollar and safe-haven buying, though both metals remain near their lows. (stories #1, #5, #2, #4)
-- **Fed hike bets and a 19-month-high dollar cap bullion**: A 19-month-high dollar and a near-certain December Fed hike keep bullion under pressure, with gold on course for its worst year in more than a decade. (stories #2, #30, #9, #3)
-- **Silver demand softens even as supply stays short**: Silver has fallen further than gold from its record, hit by ETF outflows and softer industrial demand, even as solar demand and a $50 floor draw attention. (stories #17, #11, #23, #13, #6)
-- **Festive demand holds up as jewellers report records**: Record Dhanteras sales and a 34% jump in October gems exports, even as Indian gold buying fell 29% last quarter; the World Gold Council says festive buying was healthy. (stories #22, #26, #12, #10, #27)
-- **Foreign gold at the New York Fed hits a seven-decade low**: Gold held for foreign governments at the New York Fed is at its smallest since 1957, as central banks spread custody risk away from the US. (stories #7)
+- **Gold and silver steady after Monday's slide**: Tuesday's session opened with a steadying on MCX after Monday's rout to one-year lows, helped by a softer dollar and safe-haven buying, though both metals remain near their lows. (stories #683198, #1c758f, #c40832, #4d7bec)
+- **Fed hike bets and a 19-month-high dollar cap bullion**: A 19-month-high dollar and a near-certain December Fed hike keep bullion under pressure, with gold on course for its worst year in more than a decade. (stories #c40832, #a47db0, #dcab9c, #81fbb0)
+- **Silver demand softens even as supply stays short**: Silver has fallen further than gold from its record, hit by ETF outflows and softer industrial demand, even as solar demand and a $50 floor draw attention. (stories #6e4b6d, #8125b8, #178b0d, #f5843e, #4694b4)
+- **Festive demand holds up as jewellers report records**: Record Dhanteras sales and a 34% jump in October gems exports, even as Indian gold buying fell 29% last quarter; the World Gold Council says festive buying was healthy. (stories #e50d8c, #fe96a2, #799323, #4d19b8, #36b0b1)
+- **Foreign gold at the New York Fed hits a seven-decade low**: Gold held for foreign governments at the New York Fed is at its smallest since 1957, as central banks spread custody risk away from the US. (stories #6ed098)
 
 ## Stories
 1. [Gold price today, Nov 17: MCX Gold rises to ₹1,35,341/10 grams, silver jumps ₹3,162/kg; why are prices rising today?](https://upstox.com/news/market-news/commodities/gold-price-today-nov-17-mcx-gold-rises-to-1-35-341-10-grams-silver-jumps-3-162-kg-why-are-prices-rising-today/article-203562/) — *Upstox*, 2026-11-17T06:10:07Z
