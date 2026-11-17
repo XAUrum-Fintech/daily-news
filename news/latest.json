@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-17T10:00Z",
-  "generated_at": "2026-11-17T10:06:17Z",
+  "edition_id": "2026-11-17T12:00Z",
+  "generated_at": "2026-11-17T12:07:40Z",
   "window": {
-    "from": "2026-11-17T09:00:00Z",
-    "to": "2026-11-17T10:00:00Z"
+    "from": "2026-11-17T11:00:00Z",
+    "to": "2026-11-17T12:00:00Z"
   },
   "insights": {
     "headline": "MCX gold and silver steady near one-year lows as the dollar holds a 19-month high",
@@ -63,10 +63,9 @@
     },
     {
       "title": "Fed hike bets and a 19-month-high dollar cap bullion",
-      "summary": "A 19-month-high dollar and a near-certain December Fed hike keep pressure on bullion, with Goldman now expecting a third hike in March 2027 and gold on course for its worst year since 2015.",
+      "summary": "A 19-month-high dollar and a near-certain December Fed hike keep bullion under pressure, with gold on course for its worst year in more than a decade.",
       "item_ids": [
         "c40832814ac90dda",
-        "56cfaf133dfd456f",
         "a47db0179ac0db3c",
         "dcab9cbc1d613ed8",
         "81fbb0f0cc0d83ba"
@@ -77,7 +76,7 @@
       "summary": "Silver has fallen further than gold from its record, hit by ETF outflows and softer industrial demand, even as solar demand and a $50 floor draw attention.",
       "item_ids": [
         "6e4b6d77c8b7bc40",
-        "3f0992aa611b1563",
+        "8125b8a08aa16d05",
         "178b0d89b508aaad",
         "f5843eba90ca5398",
         "4694b4d063037bc8"
@@ -85,12 +84,20 @@
     },
     {
       "title": "Festive demand holds up as jewellers report records",
-      "summary": "Jewellers posted record Dhanteras sales and gems exports jumped 34% in October, even as Indian gold buying fell 29% last quarter, with wedding-season demand in focus as prices sit near one-year lows.",
+      "summary": "Record Dhanteras sales and a 34% jump in October gems exports, even as Indian gold buying fell 29% last quarter; the World Gold Council says festive buying was healthy.",
       "item_ids": [
         "e50d8c2d85033c5d",
-        "36b0b1b8b9029263",
+        "fe96a20b414b6d7f",
         "79932336a460333f",
-        "fe96a20b414b6d7f"
+        "4d19b82d0f7fb9bd",
+        "36b0b1b8b9029263"
+      ]
+    },
+    {
+      "title": "Foreign gold at the New York Fed hits a seven-decade low",
+      "summary": "Gold held for foreign governments at the New York Fed is at its smallest since 1957, as central banks spread custody risk away from the US.",
+      "item_ids": [
+        "6ed09807d4975359"
       ]
     }
   ],
@@ -251,33 +258,27 @@
       "rank": 6
     },
     {
-      "id": "56cfaf133dfd456f",
-      "rank": 7,
-      "title": "Gold and silver settle at new 52-week lows as U.S. rate hike bets boost dollar",
-      "summary": "Gold and silver futures settled Monday at their lowest in more than a year as the dollar held near its strongest since April 2025 and Treasury yields rose on Fed hike bets. Front-month Comex gold fell 0.8% to $3,847.40 an ounce and silver slumped 4.6% to $46.785, their lowest settlements since October 2 and October 27, 2025. Traders see a 94% chance of a 25-basis-point Fed hike in December.",
-      "url": "https://www.tradingview.com/news/seekingalpha:36a3031ca094b:0-gold-and-silver-settle-at-new-52-week-lows-as-u-s-rate-hike-bets-boost-dollar/",
-      "source": "TradingView",
-      "source_domain": "tradingview.com",
-      "publisher_id": "tradingview",
-      "published_at": "2026-11-16T22:50:53Z",
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
+      "id": "6ed09807d4975359",
+      "title": "Foreign Gold in New York Fed Hits 7-Decade Low",
+      "summary": "Foreign governments and central banks now hold the least gold at the New York Fed since 1957, BullionVault reports, as central banks spread custody risk away from the US; France sold its New York holdings and the Netherlands moved bars to London, while the share of central banks keeping any gold at the Fed fell to 14%.",
+      "url": "https://www.bullionvault.com/gold-news/opinion-analysis/gold-central-bank-locations-111720261",
+      "source": "BullionVault",
+      "source_domain": "bullionvault.com",
+      "publisher_id": "bullionvault",
+      "published_at": "2026-11-17T11:14:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/6ed09807d4975359.jpg",
+      "image_kind": "photo",
       "tags": [
         "gold",
-        "silver",
-        "comex",
-        "fed",
-        "global"
+        "global",
+        "central-banks"
       ],
-      "image_url": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "image_kind": "photo",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
       "breaking": false,
-      "related_urls": [
-        "https://seekingalpha.com/news/4673341-gold-and-silver-settle-at-new-52-week-lows-as-us-rate-hike-bets-boost-dollar"
-      ]
+      "rank": 7
     },
     {
       "id": "2db665c26f1fc9c4",
@@ -328,6 +329,52 @@
       "rank": 9
     },
     {
+      "id": "4d19b82d0f7fb9bd",
+      "title": "India gold market update: Gold demand gets festive boost",
+      "summary": "The World Gold Council says festive demand was healthy across regions in jewellery and bars and coins, helped by softer prices; Indian gold ETFs saw a fifth straight month of net inflows in October at Rs 35bn, imports rebounded to a six-month high, and domestic discounts narrowed to $5/oz by 12 November.",
+      "url": "https://www.gold.org/goldhub/gold-focus/2026/11/india-gold-market-update-gold-demand-gets-festive-boost",
+      "source": "World Gold Council",
+      "source_domain": "gold.org",
+      "publisher_id": "world-gold-council",
+      "published_at": "2026-11-17T08:54:09Z",
+      "image_url": "https://www.gold.org/sites/default/files/default_images/WGC-Social-1200x630.jpeg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
+      ],
+      "category": "festive",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 10
+    },
+    {
+      "id": "8125b8a08aa16d05",
+      "title": "Silver Price Forecast: Slide Continues as Dollar Strengthens",
+      "summary": "FXEmpire's silver outlook stays downbeat: with the dollar strong and Treasury yields rising, spot silver has no durable bottom until the dollar tops, it says; the $46.48-$45.55 zone is the next test, with the 52-week moving average at $68.98 as resistance.",
+      "url": "https://www.fxempire.com/forecasts/article/silver-price-forecast-slide-continues-as-dollar-strengthens-1645114",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "published_at": "2026-11-17T11:31:17Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "silver",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 11
+    },
+    {
       "id": "79932336a460333f",
       "title": "Gold, Silver Hits 1-Year Low Amid Dollar Rally; Should You Buy Before Wedding Season?",
       "summary": "Gold and silver stayed under pressure on Tuesday after Monday's slide, with spot gold near $3,857 and silver near $47.17; MCX December gold settled near ₹1,34,550 per 10 g on Monday and silver near ₹1,68,001 per kg, with wedding-season demand in focus as prices sit near one-year lows.",
@@ -351,11 +398,11 @@
         "jewellery"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 12
     },
     {
       "id": "f5843eba90ca5398",
-      "rank": 11,
+      "rank": 13,
       "title": "Why Silver rates crashed from record high of ₹4 lakh per kg price to below ₹1.75 lakh? Experts explain 3 key reasons",
       "summary": "Silver has plunged nearly 60% from its January record above ₹4 lakh per kg to below ₹1.75 lakh, Mint reports. MCX December silver traded around ₹1,70,065 per kg on Tuesday, up 1.3% from Monday's close, after COMEX silver hit a fresh 52-week low near $47.22 an ounce. Experts blame forced selling and margin calls, a roughly 5% fall in demand, further US rate hike expectations and a stronger dollar.",
       "url": "https://www.livemint.com/market/commodities/why-silver-rates-crashed-from-record-high-of-rs-4-lakh-per-kg-price-to-below-rs-1-75-lakh-experts-explain-3-key-reasons-11794890469861.html",
@@ -401,7 +448,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 14
     },
     {
       "id": "9478cb17a4d71fe4",
@@ -426,7 +473,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 13
+      "rank": 15
     },
     {
       "title": "Silver prices crash by Rs 7,000; dollar strength, rate hike prospects weigh",
@@ -449,7 +496,7 @@
       "image_kind": "photo",
       "id": "8e51c9e506bee6c6",
       "breaking": false,
-      "rank": 14
+      "rank": 16
     },
     {
       "id": "6e4b6d77c8b7bc40",
@@ -472,7 +519,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 15
+      "rank": 17
     },
     {
       "title": "Gold price slides as Fed hike bets rise, silver bar and coin sales drop despite lower prices – Heraeus",
@@ -497,7 +544,7 @@
       "image_kind": "photo",
       "breaking": false,
       "id": "a968de6f80174539",
-      "rank": 16
+      "rank": 18
     },
     {
       "title": "'Plenty of Reasons to Sell' as Gold Sinks 15% in 12 Weeks",
@@ -522,7 +569,7 @@
       "image_kind": "photo",
       "breaking": false,
       "id": "8f314df4395a2c97",
-      "rank": 17
+      "rank": 19
     },
     {
       "title": "From Above Rs 4 Lakh To Below Rs 1.75 Lakh: Why Silver Prices Have Fallen So Sharply",
@@ -545,7 +592,7 @@
       "image_kind": "none",
       "id": "a90e3b977f48cf9d",
       "breaking": false,
-      "rank": 18
+      "rank": 20
     },
     {
       "id": "8d8a5ac20f5aae8b",
@@ -568,7 +615,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 19
+      "rank": 21
     },
     {
       "title": "Senco Gold reports record ₹2,426 crore Dhanteras sales, up 26%; retail revenue rises 25%",
@@ -593,7 +640,7 @@
       "image_kind": "photo",
       "breaking": false,
       "id": "e50d8c2d85033c5d",
-      "rank": 20,
+      "rank": 22,
       "related_urls": [
         "https://www.business-standard.com/markets/news/senco-gold-shares-jump-8-on-record-festive-sales-of-2-426-crore-126111700328_1.html",
         "https://www.business-standard.com/markets/news/senco-gold-shares-jump-8-on-record-festive-sales-of-2-426-crore-126111700328_1.html"
@@ -619,11 +666,11 @@
       "image_kind": "photo",
       "breaking": false,
       "id": "178b0d89b508aaad",
-      "rank": 21
+      "rank": 23
     },
     {
       "id": "f155380b4a9cf82d",
-      "rank": 22,
+      "rank": 24,
       "title": "Silver leads Gold to new 2026 lows: What the ratio says",
       "summary": "December gold futures traded near $3,880 after sliding to $3,835.20, their lowest since September 19, 2025, while December silver traded near $47 after touching $46.885, its lowest since September 25, 2025. Silver fell faster than gold, pushing the gold-to-silver ratio to about 82.7, its highest since November 2025. The slide is attributed to hawkish Fed talk and a dollar index at new 2026 highs.",
       "url": "https://www.fxstreet.com/analysis/silver-leads-gold-to-new-2026-lows-what-the-ratio-says-202611161725",
@@ -648,7 +695,7 @@
     },
     {
       "id": "f5cdb9db3e71ab9c",
-      "rank": 23,
+      "rank": 25,
       "title": "Rupee rises 27 paise to close at 93.92 against US dollar",
       "summary": "The rupee rose 27 paise to close at 93.92 per dollar on Monday, snapping a two-day decline, as foreign fund inflows, a rally in domestic equities and softer crude oil prices supported the currency. Foreign investors have bought nearly $10 billion of Indian shares in November, while the dollar index stayed near a 19-month high at 103.44.",
       "url": "https://www.thehindubusinessline.com/markets/forex/rupee-rises-27-paise-to-close-at-9392-against-us-dollar/article71707584.ece",
@@ -693,7 +740,7 @@
         "jewellery"
       ],
       "breaking": false,
-      "rank": 24
+      "rank": 26
     },
     {
       "title": "Gold prices boost jewellers' sales, but profits tell a mixed story",
@@ -716,7 +763,31 @@
       "image_kind": "photo",
       "id": "36b0b1b8b9029263",
       "breaking": false,
-      "rank": 25
+      "rank": 27
+    },
+    {
+      "id": "64917c6ece9baa4a",
+      "title": "Planning to buy wedding gold in Dubai? Women get higher duty-free limits than men: Customs rules explained",
+      "summary": "Dubai gold looks cheaper than Delhi - 24k at about Rs 11,872 a gram against about Rs 13,620 in Delhi - but Indian customs duty-free limits cover jewellery only: 40 g for women and 20 g for men, with 15% duty above the allowance, the Economic Times explains.",
+      "url": "https://economictimes.indiatimes.com/wealth/spend/planning-to-buy-wedding-gold-in-dubai-women-get-higher-duty-free-limits-than-men-customs-rules-explained/slideshow/135916213.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-11-17T07:48:55Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/64917c6ece9baa4a.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "india",
+        "import-duty",
+        "jewellery"
+      ],
+      "category": "policy",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 28
     },
     {
       "id": "669996602c78c6bb",
@@ -739,11 +810,11 @@
         "jewellery"
       ],
       "breaking": false,
-      "rank": 26
+      "rank": 29
     },
     {
       "id": "a47db0179ac0db3c",
-      "rank": 27,
+      "rank": 30,
       "title": "US dollar hits 19-month peak on Fed hike bets; Aussie dips",
       "summary": "The dollar index rose to 103.66 on Tuesday, its highest since April 2025 and a sixth straight daily gain, as traders now see a December Fed hike as a certainty, with only around 4% odds on a half-point move. The euro slipped to a 19-month low of $1.0985 and the Aussie to its lowest since January. US retail sales due later on Tuesday could offer further clues on the Fed's path.",
       "url": "https://www.reuters.com/world/africa/us-dollar-hits-19-month-peak-fed-hike-bets-aussie-dips-2026-11-17/",
@@ -765,31 +836,6 @@
         "silver"
       ],
       "breaking": false
-    },
-    {
-      "id": "3f0992aa611b1563",
-      "title": "Silver slides below ₹1.69 lakh as Fed rate fears hit bullion. Could prices fall further?",
-      "summary": "MCX silver fell 5.14% to Rs 1,67,239 per kg in evening trade after touching Rs 1,66,650, while December gold recovered some losses to Rs 1,35,801 per 10 g after an intraday low of Rs 1,34,385. The Silver Institute expects total silver demand to fall 5% in 2026, with industrial demand down 3%, even as a 35-million-ounce supply deficit persists.",
-      "url": "https://boldvoices.in/silver-price-falls-mcx-fed-rate-fears-november-16-2026/",
-      "source": "Boldvoices",
-      "source_domain": "boldvoices.in",
-      "publisher_id": "boldvoices",
-      "published_at": "2026-11-16T17:00:00Z",
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "fed"
-      ],
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/3f0992aa611b1563.jpg",
-      "image_kind": "photo",
-      "breaking": false,
-      "rank": 28
     }
   ]
 }
