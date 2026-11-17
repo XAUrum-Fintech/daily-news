@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-16T22:00Z",
-  "generated_at": "2026-11-16T22:10:34Z",
+  "edition_id": "2026-11-17T00:00Z",
+  "generated_at": "2026-11-17T00:16:21Z",
   "window": {
-    "from": "2026-11-16T20:00:00Z",
-    "to": "2026-11-16T22:00:00Z"
+    "from": "2026-11-16T22:00:00Z",
+    "to": "2026-11-17T00:00:00Z"
   },
   "insights": {
     "headline": "Gold and silver hit new 2026 lows as Fed hike bets lift the dollar; MCX silver slides 5%",
@@ -36,7 +36,8 @@
         "e82c91fb0e416a69",
         "8f314df4395a2c97",
         "4002cd49dcfc2f94",
-        "f155380b4a9cf82d"
+        "f155380b4a9cf82d",
+        "56cfaf133dfd456f"
       ]
     },
     {
@@ -45,8 +46,8 @@
       "item_ids": [
         "a968de6f80174539",
         "e82c91fb0e416a69",
-        "ae126af4a6d8c752",
-        "8f314df4395a2c97"
+        "8f314df4395a2c97",
+        "56cfaf133dfd456f"
       ]
     },
     {
@@ -72,6 +73,35 @@
   ],
   "items": [
     {
+      "id": "56cfaf133dfd456f",
+      "rank": 1,
+      "title": "Gold and silver settle at new 52-week lows as U.S. rate hike bets boost dollar",
+      "summary": "Gold and silver futures settled Monday at their lowest in more than a year as the dollar held near its strongest since April 2025 and Treasury yields rose on Fed hike bets. Front-month Comex gold fell 0.8% to $3,847.40 an ounce and silver slumped 4.6% to $46.785, their lowest settlements since October 2 and October 27, 2025. Traders see a 94% chance of a 25-basis-point Fed hike in December.",
+      "url": "https://www.tradingview.com/news/seekingalpha:36a3031ca094b:0-gold-and-silver-settle-at-new-52-week-lows-as-u-s-rate-hike-bets-boost-dollar/",
+      "source": "TradingView",
+      "source_domain": "tradingview.com",
+      "publisher_id": "tradingview",
+      "published_at": "2026-11-16T22:50:53Z",
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "comex",
+        "fed",
+        "global"
+      ],
+      "image_url": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "image_kind": "photo",
+      "breaking": false,
+      "related_urls": [
+        "https://seekingalpha.com/news/4673341-gold-and-silver-settle-at-new-52-week-lows-as-us-rate-hike-bets-boost-dollar"
+      ]
+    },
+    {
       "id": "3f0992aa611b1563",
       "title": "Silver slides below ₹1.69 lakh as Fed rate fears hit bullion. Could prices fall further?",
       "summary": "MCX silver fell 5.14% to Rs 1,67,239 per kg in evening trade after touching Rs 1,66,650, while December gold recovered some losses to Rs 1,35,801 per 10 g after an intraday low of Rs 1,34,385. The Silver Institute expects total silver demand to fall 5% in 2026, with industrial demand down 3%, even as a 35-million-ounce supply deficit persists.",
@@ -94,7 +124,7 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/3f0992aa611b1563.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 1
+      "rank": 2
     },
     {
       "id": "e82c91fb0e416a69",
@@ -117,7 +147,7 @@
       "image_url": null,
       "image_kind": "none",
       "breaking": false,
-      "rank": 2
+      "rank": 3
     },
     {
       "title": "MCX gold falls 2% to record low at ₹1.34 lakh/10 gms, silver tumbles 4% amid growing bets of Fed rate hike",
@@ -145,7 +175,7 @@
       ],
       "id": "9a3f9870561e44f9",
       "breaking": false,
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "9478cb17a4d71fe4",
@@ -170,7 +200,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 4
+      "rank": 5
     },
     {
       "title": "Silver prices crash by Rs 7,000; dollar strength, rate hike prospects weigh",
@@ -193,7 +223,7 @@
       "image_kind": "photo",
       "id": "8e51c9e506bee6c6",
       "breaking": false,
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "6e4b6d77c8b7bc40",
@@ -216,7 +246,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 7
     },
     {
       "title": "Gold price slides as Fed hike bets rise, silver bar and coin sales drop despite lower prices – Heraeus",
@@ -241,7 +271,7 @@
       "image_kind": "photo",
       "breaking": false,
       "id": "a968de6f80174539",
-      "rank": 7
+      "rank": 8
     },
     {
       "title": "'Plenty of Reasons to Sell' as Gold Sinks 15% in 12 Weeks",
@@ -266,7 +296,7 @@
       "image_kind": "photo",
       "breaking": false,
       "id": "8f314df4395a2c97",
-      "rank": 8
+      "rank": 9
     },
     {
       "title": "From Above Rs 4 Lakh To Below Rs 1.75 Lakh: Why Silver Prices Have Fallen So Sharply",
@@ -289,7 +319,7 @@
       "image_kind": "none",
       "id": "a90e3b977f48cf9d",
       "breaking": false,
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "8d8a5ac20f5aae8b",
@@ -312,7 +342,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 11
     },
     {
       "title": "Senco Gold reports record ₹2,426 crore Dhanteras sales, up 26%; retail revenue rises 25%",
@@ -337,7 +367,7 @@
       "image_kind": "photo",
       "breaking": false,
       "id": "e50d8c2d85033c5d",
-      "rank": 11
+      "rank": 12
     },
     {
       "title": "Silver prices find $50 floor as solar industry seeks to accelerate shift toward copper",
@@ -359,11 +389,11 @@
       "image_kind": "photo",
       "breaking": false,
       "id": "178b0d89b508aaad",
-      "rank": 12
+      "rank": 13
     },
     {
       "id": "f155380b4a9cf82d",
-      "rank": 13,
+      "rank": 14,
       "title": "Silver leads Gold to new 2026 lows: What the ratio says",
       "summary": "December gold futures traded near $3,880 after sliding to $3,835.20, their lowest since September 19, 2025, while December silver traded near $47 after touching $46.885, its lowest since September 25, 2025. Silver fell faster than gold, pushing the gold-to-silver ratio to about 82.7, its highest since November 2025. The slide is attributed to hawkish Fed talk and a dollar index at new 2026 highs.",
       "url": "https://www.fxstreet.com/analysis/silver-leads-gold-to-new-2026-lows-what-the-ratio-says-202611161725",
@@ -388,7 +418,7 @@
     },
     {
       "id": "f5cdb9db3e71ab9c",
-      "rank": 14,
+      "rank": 15,
       "title": "Rupee rises 27 paise to close at 93.92 against US dollar",
       "summary": "The rupee rose 27 paise to close at 93.92 per dollar on Monday, snapping a two-day decline, as foreign fund inflows, a rally in domestic equities and softer crude oil prices supported the currency. Foreign investors have bought nearly $10 billion of Indian shares in November, while the dollar index stayed near a 19-month high at 103.44.",
       "url": "https://www.thehindubusinessline.com/markets/forex/rupee-rises-27-paise-to-close-at-9392-against-us-dollar/article71707584.ece",
@@ -433,7 +463,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 15
+      "rank": 16
     },
     {
       "id": "3c06c8f5eb19438b",
@@ -455,7 +485,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 16
+      "rank": 17
     },
     {
       "id": "165a42194031c9d8",
@@ -479,7 +509,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 17
+      "rank": 18
     },
     {
       "title": "Goldman's second gold forecast downgrade in a month turns its bear case into the base case",
@@ -503,7 +533,7 @@
       "image_kind": "photo",
       "id": "2a9d2d25ac65ae89",
       "breaking": false,
-      "rank": 18,
+      "rank": 19,
       "related_urls": [
         "https://www.livemint.com/market/goldman-forecasts-gold-to-take-two-years-to-recapture-all-time-highs-11794862583269.html"
       ]
@@ -534,7 +564,7 @@
       ],
       "id": "a91495db10f7f681",
       "breaking": false,
-      "rank": 19
+      "rank": 20
     },
     {
       "title": "Banking giant sets silver price for 2027",
@@ -556,11 +586,11 @@
       "image_kind": "photo",
       "breaking": false,
       "id": "991775bde916378b",
-      "rank": 20
+      "rank": 21
     },
     {
       "id": "517e36c7f9d85488",
-      "rank": 21,
+      "rank": 22,
       "title": "Fed 'has some work to do on inflation,' KC Fed chief says",
       "summary": "Kansas City Fed President Jeff Schmid said on Sunday that US inflation is 'uncomfortably above' the 2% target and moving in the wrong direction, and that the Fed has the tools and the responsibility to bring it down. He did not call for more hikes outright, but rate futures are now fully priced for a quarter-point rise at the December meeting, with a small chance of a half-point move.",
       "url": "https://www.reuters.com/world/us/fed-has-some-work-do-inflation-kc-fed-chief-says-2026-11-15/",
@@ -604,7 +634,7 @@
       "image_kind": "photo",
       "id": "6824d9b30dd5c8c6",
       "breaking": false,
-      "rank": 22
+      "rank": 23
     },
     {
       "url": "https://www.fxempire.com/forecasts/article/silver-price-forecast-silver-slides-below-50-as-treasury-yields-jump-1644724",
@@ -629,7 +659,7 @@
       ],
       "id": "77a49ba67055ec16",
       "breaking": false,
-      "rank": 23
+      "rank": 24
     },
     {
       "title": "Gold prices boost jewellers' sales, but profits tell a mixed story",
@@ -652,7 +682,7 @@
       "image_kind": "photo",
       "id": "36b0b1b8b9029263",
       "breaking": false,
-      "rank": 24
+      "rank": 25
     },
     {
       "title": "Why solar researchers are working to devise a silver reduction playbook",
@@ -674,7 +704,7 @@
       "image_kind": "none",
       "breaking": false,
       "id": "c008fea5039d1898",
-      "rank": 25
+      "rank": 26
     },
     {
       "url": "https://www.thehindubusinessline.com/companies/titan-shifts-focus-to-buyer-growth-as-gold-price-gains-become-less-reliable/article71705027.ece",
@@ -700,7 +730,7 @@
       ],
       "id": "1c85479c9f87ba90",
       "breaking": false,
-      "rank": 26
+      "rank": 27
     },
     {
       "title": "SGB 2018-19 III delivers 348% return: Rs 1 lakh grows to Rs 4.48 lakh",
@@ -721,30 +751,6 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/8ce41a7dd6ede901.jpg",
       "image_kind": "photo",
       "id": "8ce41a7dd6ede901",
-      "breaking": false,
-      "rank": 27
-    },
-    {
-      "id": "ae126af4a6d8c752",
-      "title": "US Dollar Just Hit a 19-Month High - Here's What It Means for Gold and Silver",
-      "summary": "The US dollar index has hit a 19-month high near 103.44, and this piece sets out what a strong dollar means for gold and silver, which have both slid as markets price a December Fed rate hike.",
-      "url": "https://www.investing.com/analysis/us-dollar-just-hit-a-19month-high--heres-what-it-means-for-gold-and-silver-200691579",
-      "source": "Investing.com",
-      "source_domain": "investing.com",
-      "publisher_id": "investing",
-      "published_at": "2026-11-15T13:16:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "silver",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
       "breaking": false,
       "rank": 28
     }
