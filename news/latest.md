@@ -1,14 +1,14 @@
-# Gold & Silver for Indian buyers · 2026-11-18T11:00Z
+# Gold & Silver for Indian buyers · 2026-11-18T12:00Z
 
 > MCX gold at one-year low as Fed hike bets build
 
-Spot gold fell to $3,772 an ounce, its lowest in over a year, as a firm dollar and bets on further Fed rate hikes kept pressure on bullion; silver slid to $45.90. In India, MCX December gold stood at Rs 1,31,060 per 10 g and silver at Rs 1,63,533 per kg, with IBJA gold opening at Rs 1,31,505 per 10 g. Jewellery and gold-lending stocks fell up to 5% despite cheaper metal, while the World Gold Council said lower prices and the wedding season should support jewellery demand. The Fed's October meeting minutes, due at 00:30 IST Thursday, are the next test for rate-hike bets.
+Spot gold fell to $3,772 an ounce, its lowest in over a year, as a firm dollar and bets on further Fed rate hikes kept pressure on bullion; silver slid to $45.90. In India, MCX December gold stood at Rs 1,31,060 per 10 g and silver at Rs 1,63,533 per kg. Jewellery and gold-lending stocks fell up to 5% despite cheaper metal, while the World Gold Council said lower prices and the wedding season should support jewellery demand. UBS is holding its $5,000 gold call for 2027 despite the sell-off. The Fed's October meeting minutes, due at 00:30 IST Thursday, are the next test for rate-hike bets.
 
 - Spot gold fell to $3,772, its lowest in over a year; silver slid to $45.90 an ounce.
 - MCX December gold stood at Rs 1,31,060 per 10 g; silver at Rs 1,63,533 per kg.
 - The dollar held near a 19-month high at 103.66; markets price a 95.7% chance of a December Fed hike.
 - Titan fell 4.8% and Kalyan Jewellers 5.3% as jewellery stocks slid despite cheaper gold.
-- The World Gold Council says lower prices and the wedding season should support jewellery demand; festive demand rose 15-25% in value terms.
+- UBS still sees gold at $5,000 in 2027 despite the sell-off; Goldman Sachs sees $5,600 by end-2028.
 
 ## Today's brief
 
@@ -58,16 +58,16 @@ MCX gold fell to Rs 1,31,063 per 10 g, a one-year low, as Fed hike bets kept spo
    World Gold Council data shows India's gold demand fell 29% to 162.5 tonnes in July-September even as its value rose 3% to Rs 2.42 lakh crore, with jewellery volumes down 20% while spending rose 16%, a rise the WGC called entirely price-led. Buyers are choosing lighter, lower-carat jewellery and exchanging old gold; Dhanteras sales were put at about Rs 60,000 crore, up 15-20% with quantity flat.
 15. [Gold will reclaim $5,600/oz in 2028 as rate cuts bring Western investors back to precious metals – Goldman Sachs](https://www.kitco.com/news/article/2026-11-17/gold-will-reclaim-5600oz-2028-rate-cuts-bring-western-investors-back) — *Kitco*, 2026-11-17T16:22:43Z
    Goldman Sachs expects gold to reclaim its record above $5,600 an ounce by the end of 2028 once the Federal Reserve starts cutting rates and Western investors return. The bank sees gold at $4,650 by the end of 2027, with central banks buying about 60 tonnes a month, but warns of more volatility while the Fed keeps raising rates.
-16. [China gold market update: Robust demand in October](https://www.gold.org/goldhub/gold-focus/2026/11/china-gold-market-update-robust-demand-october) — *World Gold Council*, 2026-11-17T13:30:00Z
+16. [Gold still heading for $5,000 despite sharp sell-off, UBS says](https://uk.finance.yahoo.com/news/gold-still-heading-5-000-111500941.html) — *Yahoo Finance*, 2026-11-18T11:15:00Z
+   UBS is standing by its call for gold to reach $5,000 an ounce in 2027 even after the metal's sharp sell-off, holding that longer-term demand will outweigh the near-term drag from higher US rates and a firm dollar.
+17. [China gold market update: Robust demand in October](https://www.gold.org/goldhub/gold-focus/2026/11/china-gold-market-update-robust-demand-october) — *World Gold Council*, 2026-11-17T13:30:00Z
    China's central bank stretched its gold-buying streak to 24 months with its largest monthly addition since late 2023, adding 25.8 tonnes in October, the World Gold Council says; Chinese gold ETFs drew inflows for a fourth straight month to another record, and Shanghai Gold Exchange withdrawals rose month on month.
-17. [India gold market update: Gold demand gets festive boost](https://www.gold.org/goldhub/gold-focus/2026/11/india-gold-market-update-gold-demand-gets-festive-boost) — *World Gold Council*, 2026-11-17T08:54:09Z
+18. [India gold market update: Gold demand gets festive boost](https://www.gold.org/goldhub/gold-focus/2026/11/india-gold-market-update-gold-demand-gets-festive-boost) — *World Gold Council*, 2026-11-17T08:54:09Z
    The World Gold Council says festive demand was healthy across regions in jewellery and bars and coins, helped by softer prices; Indian gold ETFs saw a fifth straight month of net inflows in October at Rs 35bn, imports rebounded to a six-month high, and domestic discounts narrowed to $5/oz by 12 November.
-18. [Senco Gold reports record ₹2,426 crore Dhanteras sales, up 26%; retail revenue rises 25%](https://www.cnbctv18.com/market/stocks/senco-gold-share-price-reports-record-rs-2426-crore-dhanteras-sales-up-26-retail-revenue-rises-25-20035148.htm) — *CNBC-TV18*, 2026-11-16T12:57:25Z
+19. [Senco Gold reports record ₹2,426 crore Dhanteras sales, up 26%; retail revenue rises 25%](https://www.cnbctv18.com/market/stocks/senco-gold-share-price-reports-record-rs-2426-crore-dhanteras-sales-up-26-retail-revenue-rises-25-20035148.htm) — *CNBC-TV18*, 2026-11-16T12:57:25Z
    Senco Gold posted record festive-season retail sales of over ₹2,426 crore between 1 October and 11 November, up 26% on last year, despite volatile and elevated gold prices. Retail revenue rose 25%, and the jeweller crossed ₹10,000 crore in sales on a trailing 12-month basis. The company credited higher footfalls, new customers and its Dhanteras campaign.
-19. [India's Jewelry Exports Surge 34% in October](https://www.jckonline.com/editorial-article/indias-jewelry-exports-surge/) — *JCK*, 2026-11-16T18:39:41Z
+20. [India's Jewelry Exports Surge 34% in October](https://www.jckonline.com/editorial-article/indias-jewelry-exports-surge/) — *JCK*, 2026-11-16T18:39:41Z
    India's gem and jewellery exports jumped 34% year on year to $2.92 billion in October, GJEPC data shows, with gold jewellery exports up 48.2% to $1.26 billion, studded gold jewellery up 67.3% and silver jewellery up 55.5%; GJEPC cautioned the gain was flattered by last October's Diwali factory shutdowns and higher gold prices, and expects about 10% export growth in FY27.
-20. [Silver prices find $50 floor as solar industry seeks to accelerate shift toward copper](https://www.pv-magazine.com/2026/11/16/silver-prices-find-50-floor-as-solar-industry-seeks-to-accelerate-shift-toward-copper/) — *pv magazine*, 2026-11-16T11:37:58Z
-   Metals Focus sees silver holding a floor near $50 an ounce after its retreat from January's record $121.65, though it warns prices can still dip below that level. The Silver Institute and Metals Focus expect a sixth straight annual deficit in 2026, with demand beating supply by 35 million ounces, while solar makers speed a shift to copper to cut silver use.
 21. [Foreign Gold in New York Fed Hits 7-Decade Low](https://www.bullionvault.com/gold-news/opinion-analysis/gold-central-bank-locations-111720261) — *BullionVault*, 2026-11-17T11:14:00Z
    Foreign governments and central banks now hold the least gold at the New York Fed since 1957, BullionVault reports, as central banks spread custody risk away from the US; France sold its New York holdings and the Netherlands moved bars to London, while the share of central banks keeping any gold at the Fed fell to 14%.
 22. [SEBI revises minimum margin norms for commodity derivatives](https://www.thehindubusinessline.com/markets/sebi-revises-minimum-margin-norms-for-commodity-derivatives/article71712951.ece) — *The Hindu BusinessLine*, 2026-11-17T15:47:30Z
