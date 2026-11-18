@@ -1,17 +1,17 @@
 {
  "schema": "orob-news.v1",
- "edition_id": "2026-11-18T08:00Z",
- "generated_at": "2026-11-18T08:04:54Z",
+ "edition_id": "2026-11-18T09:00Z",
+ "generated_at": "2026-11-18T09:16:45Z",
  "window": {
-  "from": "2026-11-18T07:00:00Z",
-  "to": "2026-11-18T08:00:00Z"
+  "from": "2026-11-18T08:00:00Z",
+  "to": "2026-11-18T09:00:00Z"
  },
  "insights": {
   "headline": "MCX gold at one-year low as Fed hike bets build",
-  "summary": "MCX gold fell nearly 2.5% to Rs 1,31,063 per 10 g, its lowest in over a year, as spot gold stayed below $3,800 and silver slid. Titan fell 4.8% and Kalyan Jewellers 5.3% as jewellery stocks slid despite cheaper gold, while Delhi silver crashed 5.3% to Rs 1,69,500 per kg, a one-year low. The Fed's October meeting minutes, due at 00:30 IST Thursday, are the next test for rate-hike bets.",
+  "summary": "Spot gold fell to $3,772 an ounce, its lowest in over a year, as a firm dollar and bets on further Fed rate hikes kept pressure on bullion; silver slid to $45.90. In India, MCX December gold stood at Rs 1,31,060 per 10 g and silver at Rs 1,63,533 per kg, with IBJA gold opening at Rs 1,31,505 per 10 g. Jewellery and gold-lending stocks fell up to 5% despite cheaper metal, while buyers returned to silver at lower levels. The Fed's October meeting minutes, due at 00:30 IST Thursday, are the next test for rate-hike bets.",
   "points": [
-   "Spot gold held below $3,800 at $3,795.55, its lowest since September 2025; silver slipped 2.6% to $46.18.",
-   "MCX gold fell nearly 2.5% to Rs 1,31,063 per 10 g, its lowest in over a year.",
+   "Spot gold fell to $3,772, its lowest in over a year; silver slid to $45.90 an ounce.",
+   "MCX December gold stood at Rs 1,31,060 per 10 g; silver at Rs 1,63,533 per kg.",
    "The dollar held near a 19-month high at 103.66; markets price a 95.7% chance of a December Fed hike.",
    "Titan fell 4.8% and Kalyan Jewellers 5.3% as jewellery stocks slid despite cheaper gold.",
    "In Delhi, silver crashed 5.3% to Rs 1,69,500 per kg, a one-year low; silver ETFs fell nearly 5%."
@@ -54,10 +54,10 @@
  "trending": [
   {
    "title": "Gold breaks below $3,800",
-   "summary": "Spot gold fell below $3,800 to $3,784, its lowest since September 2025, as the dollar held near a 19-month high and markets priced a near-certain December Fed hike.",
+   "summary": "Spot gold fell to $3,772, its lowest in over a year, as the dollar held near a 19-month high and markets priced a near-certain December Fed hike.",
    "item_ids": [
+    "d80861db62a1db94",
     "3398c8bb9491fc70",
-    "6fb6622d398e1258",
     "1259c76ac36a68cf",
     "57004e211a3999f1"
    ]
@@ -73,11 +73,11 @@
   },
   {
    "title": "Silver's sharper fall",
-   "summary": "Silver slipped 2.9% to $46.01 globally and crashed 5.3% in Delhi to Rs 1,69,500 per kg, a one-year low, even as buyers return to the metal at lower prices; silver ETFs fell nearly 5%.",
+   "summary": "Silver slipped to $45.90 an ounce, its lowest in a year, and fell in Delhi too, even as buyers return to the metal at lower prices; silver ETFs fell nearly 5%.",
    "item_ids": [
+    "d80861db62a1db94",
     "1259c76ac36a68cf",
     "30b0448b03029512",
-    "61a963e6ede025f7",
     "6e4b6d77c8b7bc40"
    ]
   },
@@ -101,6 +101,33 @@
   }
  ],
  "items": [
+  {
+   "breaking": false,
+   "category": "mcx",
+   "id": "d80861db62a1db94",
+   "image_kind": "photo",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/d80861db62a1db94.jpg",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "paywall": "free (isAccessibleForFree true)",
+   "published_at": "2026-11-18T08:15:00Z",
+   "publisher_id": "hindu-businessline",
+   "source": "The Hindu BusinessLine",
+   "source_domain": "thehindubusinessline.com",
+   "summary": "Indian gold and silver fell to their lowest in a year, tracking the slide. IBJA data showed gold opening at Rs 1,31,505 per 10 g and silver at Rs 1,64,506 per kg; spot gold was $3,772 at 13:00 IST and silver $45.90. MCX December gold stood at Rs 1,31,060 per 10 g. Gold has shed about Rs 10,000 per 10 g since November began, and traders await the Fed's October minutes, due 00:30 IST Thursday.",
+   "tags": [
+    "gold",
+    "silver",
+    "mcx",
+    "india",
+    "fed"
+   ],
+   "title": "Gold, silver prices in Indian markets crash to nearly a year's low",
+   "url": "https://www.thehindubusinessline.com/markets/gold/gold-silver-prices-in-indian-markets-crash-to-nearly-a-years-low/article71714989.ece",
+   "rank": 1
+  },
   {
    "id": "3398c8bb9491fc70",
    "title": "Gold slumps below $3,800 as Fed officials signal more rate hikes",
@@ -127,29 +154,6 @@
    "related_urls": [
     "https://www.reuters.com/world/india/gold-slides-over-one-year-low-firm-dollar-us-rate-outlook-2026-11-18/"
    ],
-   "rank": 1
-  },
-  {
-   "id": "6fb6622d398e1258",
-   "title": "Gold Hits Near 1.5-Year Low Below $3,800 as Bears Threaten Drop to $3,500",
-   "summary": "Spot gold broke below $3,800 to $3,784, its lowest since September 2025, as bearish momentum took hold, TradingKey reports. The metal has fallen about 16% over six months from highs near $4,500-$4,600, and TradingKey notes $3,500 as the next major level if selling continues.",
-   "url": "https://www.tradingkey.com/analysis/commodities/metal/262310424-metal-gold-xau-price-3800-3500-cpi-ppi-fed-oil-tradingkey",
-   "source": "TradingKey",
-   "source_domain": "tradingkey.com",
-   "publisher_id": "tradingkey",
-   "published_at": "2026-11-18T06:25:43Z",
-   "image_url": "https://resource.tradingkey.com/uploads/20261015/xauusd-3e2f13d635024bc5b2aca4e79291c236.jpg",
-   "image_kind": "photo",
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "tags": [
-    "gold",
-    "fed",
-    "global"
-   ],
-   "breaking": false,
    "rank": 2
   },
   {
@@ -232,156 +236,6 @@
    "rank": 5
   },
   {
-   "id": "30b0448b03029512",
-   "title": "Silver's sharp correction brings buyers back to the market",
-   "summary": "Silver's steep correction — down nearly 57% to about ₹1.7 lakh per kg from January's ₹4 lakh record — is bringing buyers back for coins, bars and smaller denominations, jewellers say, with staggered purchases rather than bulk buying. Augmont's Renisha Chainani expects silver to consolidate between $44 and $53 an ounce; the gold-silver ratio is around 82, up from about 46 at January's peak.",
-   "url": "https://timesofindia.indiatimes.com/city/pune/silvers-sharp-correction-brings-buyers-back-to-the-market/articleshow/135938936.cms",
-   "source": "Times of India",
-   "source_domain": "timesofindia.indiatimes.com",
-   "publisher_id": "times-of-india",
-   "published_at": "2026-11-17T19:16:00Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/30b0448b03029512.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "silver",
-    "gold",
-    "mcx",
-    "india"
-   ],
-   "category": "mcx",
-   "metals": [
-    "silver",
-    "gold"
-   ],
-   "breaking": false,
-   "rank": 6
-  },
-  {
-   "id": "61a963e6ede025f7",
-   "title": "Silver Is Paying for a Rate Rise That Has Not Happened Yet",
-   "summary": "Silver lost about 11% in a week, against 6% for gold, because the cost of money is rising, not because silver's supply shortfall has ended, FXEmpire argues. A hot October US inflation report pushed markets to treat a December Fed rate rise as close to certain; silver traded near $47.24. Metals Focus and the Silver Institute still forecast a sixth straight annual deficit.",
-   "url": "https://www.fxempire.com/forecasts/article/silver-is-paying-for-a-rate-rise-that-has-not-happened-yet-1645279",
-   "source": "FXEmpire",
-   "source_domain": "fxempire.com",
-   "publisher_id": "fxempire",
-   "published_at": "2026-11-17T20:42:54Z",
-   "image_url": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/silver-precious-metal-price-chart-04-5.jpg?width=1201",
-   "image_kind": "photo",
-   "tags": [
-    "silver",
-    "gold",
-    "fed",
-    "global"
-   ],
-   "category": "global",
-   "metals": [
-    "silver"
-   ],
-   "breaking": false,
-   "related_urls": [
-    "https://www.fxstreet.com/analysis/silver-is-paying-for-a-rate-rise-that-has-not-happened-yet-202611172037"
-   ],
-   "rank": 7
-  },
-  {
-   "id": "8edc7e37f67774ac",
-   "title": "Gold financiers under pressure; Muthoot, Manappuram fall 5%; here's why",
-   "summary": "Shares of gold lenders Muthoot Finance and Manappuram Finance fell about 5% as gold slid below $3,800 to a one-year low. Analysts say falling prices could strain gold-loan books as the value of pledged gold drops, with lenders that rolled old loans into fresh ones seen as most exposed.",
-   "url": "https://www.business-standard.com/markets/news/gold-financiers-under-pressure-muthoot-manappuram-fall-5-here-s-why-126111800267_1.html",
-   "source": "Business Standard",
-   "source_domain": "business-standard.com",
-   "publisher_id": "business-standard",
-   "published_at": "2026-11-18T05:08:07Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/8edc7e37f67774ac.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "mcx",
-    "india"
-   ],
-   "category": "mcx",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "rank": 8
-  },
-  {
-   "id": "206ecd1475cd4688",
-   "title": "Gold prices slide sharply: What does the correction mean for Titan, Kalyan Jewellers and gold financiers?",
-   "summary": "Gold fell for a sixth straight session in Delhi while silver crashed 5.3% to Rs 1,69,500 per kg, a one-year low. Shares of gold lenders Muthoot Finance and Manappuram Finance fell more than 3% on the slide, while IIFL Finance rose 5.5%.",
-   "url": "https://upstox.com/news/market-news/stocks/gold-prices-slide-sharply-what-does-the-correction-mean-for-titan-kalyan-jewellers-and-gold-financiers/article-203614/",
-   "source": "Upstox",
-   "source_domain": "upstox.com",
-   "publisher_id": "upstox",
-   "published_at": "2026-11-18T05:04:09Z",
-   "image_url": "https://assets.upstox.com/content/assets/images/news/jewellery-stocks-today-nov-16.webp",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "silver",
-    "mcx",
-    "india",
-    "jewellery"
-   ],
-   "category": "mcx",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "breaking": false,
-   "rank": 9
-  },
-  {
-   "id": "73a095917aca7abe",
-   "title": "Titan, Kalyan Jewellers, PC Jeweller fall up to 5%: Why are jewellery stocks losing shine despite lower gold prices?",
-   "summary": "Titan fell 4.8% to Rs 4,681 and Kalyan Jewellers slipped 5.3% to Rs 645.80 as jewellery stocks fell despite cheaper gold, with investors worried shoppers may delay purchases expecting further price falls. MCX gold fell nearly 2.5% to Rs 1,31,063 per 10 g, its lowest in over a year, on a strong dollar and US rate-hike expectations.",
-   "url": "https://www.livemint.com/market/titan-kalyan-jewellers-pc-jeweller-fall-up-to-5-why-are-jewellery-stocks-losing-shine-despite-lower-gold-prices-11794985842518.html",
-   "source": "Mint",
-   "source_domain": "livemint.com",
-   "publisher_id": "mint",
-   "published_at": "2026-11-18T07:56:26Z",
-   "image_url": null,
-   "image_kind": "none",
-   "category": "mcx",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "tags": [
-    "gold",
-    "silver",
-    "mcx",
-    "jewellery"
-   ],
-   "breaking": false,
-   "related_urls": [],
-   "rank": 10
-  },
-  {
-   "url": "https://www.thecore.in/business/jewellery-volumes-fall-spending-rises-buyers-trade-down-weight-purity-874215",
-   "title": "As Gold Stays Costly, Indians Are Rethinking What They Buy and How Much",
-   "summary": "World Gold Council data shows India's gold demand fell 29% to 162.5 tonnes in July-September even as its value rose 3% to Rs 2.42 lakh crore, with jewellery volumes down 20% while spending rose 16%, a rise the WGC called entirely price-led. Buyers are choosing lighter, lower-carat jewellery and exchanging old gold; Dhanteras sales were put at about Rs 60,000 crore, up 15-20% with quantity flat.",
-   "source": "The Core",
-   "source_domain": "thecore.in",
-   "publisher_id": "the-core",
-   "published_at": "2026-11-18T00:30:02Z",
-   "category": "mcx",
-   "metals": [
-    "gold"
-   ],
-   "tags": [
-    "gold",
-    "india",
-    "jewellery"
-   ],
-   "image_url": "https://www.thecore.in/h-upload/2026/11/17/1107684-jewellery1200x630jpg.jpg",
-   "image_kind": "photo",
-   "id": "d4065fb23b6494b6",
-   "breaking": false,
-   "rank": 11
-  },
-  {
    "id": "67cd4133a671fe1c",
    "title": "Gold struggles near one-year lows, silver rebounds as stocks slide, Fed hike bets persist - Kitco PM Report",
    "summary": "Spot gold held near $3,853 in late US trading on Tuesday, just above Monday's 13-month low, while silver rebounded about 1% to $47.33 on bargain hunting. Weaker US data, lower yields and fresh geopolitical tensions competed with near-certain bets on a December Fed hike, and equities fell again. Traders now await US housing data and the Fed's October minutes on Wednesday.",
@@ -410,6 +264,156 @@
     "https://www.fxstreet.com/news/gold-recovers-its-retail-sales-drop-and-holds-above-mondays-low-202611171901",
     "https://www.kitco.com/news/article/2026-11-17/gold-price-drops-3848oz-after-september-retail-sales-rise-02-core-rises-06"
    ],
+   "rank": 6
+  },
+  {
+   "id": "30b0448b03029512",
+   "title": "Silver's sharp correction brings buyers back to the market",
+   "summary": "Silver's steep correction — down nearly 57% to about ₹1.7 lakh per kg from January's ₹4 lakh record — is bringing buyers back for coins, bars and smaller denominations, jewellers say, with staggered purchases rather than bulk buying. Augmont's Renisha Chainani expects silver to consolidate between $44 and $53 an ounce; the gold-silver ratio is around 82, up from about 46 at January's peak.",
+   "url": "https://timesofindia.indiatimes.com/city/pune/silvers-sharp-correction-brings-buyers-back-to-the-market/articleshow/135938936.cms",
+   "source": "Times of India",
+   "source_domain": "timesofindia.indiatimes.com",
+   "publisher_id": "times-of-india",
+   "published_at": "2026-11-17T19:16:00Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/30b0448b03029512.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "silver",
+    "gold",
+    "mcx",
+    "india"
+   ],
+   "category": "mcx",
+   "metals": [
+    "silver",
+    "gold"
+   ],
+   "breaking": false,
+   "rank": 7
+  },
+  {
+   "id": "61a963e6ede025f7",
+   "title": "Silver Is Paying for a Rate Rise That Has Not Happened Yet",
+   "summary": "Silver lost about 11% in a week, against 6% for gold, because the cost of money is rising, not because silver's supply shortfall has ended, FXEmpire argues. A hot October US inflation report pushed markets to treat a December Fed rate rise as close to certain; silver traded near $47.24. Metals Focus and the Silver Institute still forecast a sixth straight annual deficit.",
+   "url": "https://www.fxempire.com/forecasts/article/silver-is-paying-for-a-rate-rise-that-has-not-happened-yet-1645279",
+   "source": "FXEmpire",
+   "source_domain": "fxempire.com",
+   "publisher_id": "fxempire",
+   "published_at": "2026-11-17T20:42:54Z",
+   "image_url": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/silver-precious-metal-price-chart-04-5.jpg?width=1201",
+   "image_kind": "photo",
+   "tags": [
+    "silver",
+    "gold",
+    "fed",
+    "global"
+   ],
+   "category": "global",
+   "metals": [
+    "silver"
+   ],
+   "breaking": false,
+   "related_urls": [
+    "https://www.fxstreet.com/analysis/silver-is-paying-for-a-rate-rise-that-has-not-happened-yet-202611172037"
+   ],
+   "rank": 8
+  },
+  {
+   "id": "8edc7e37f67774ac",
+   "title": "Gold financiers under pressure; Muthoot, Manappuram fall 5%; here's why",
+   "summary": "Shares of gold lenders Muthoot Finance and Manappuram Finance fell about 5% as gold slid below $3,800 to a one-year low. Analysts say falling prices could strain gold-loan books as the value of pledged gold drops, with lenders that rolled old loans into fresh ones seen as most exposed.",
+   "url": "https://www.business-standard.com/markets/news/gold-financiers-under-pressure-muthoot-manappuram-fall-5-here-s-why-126111800267_1.html",
+   "source": "Business Standard",
+   "source_domain": "business-standard.com",
+   "publisher_id": "business-standard",
+   "published_at": "2026-11-18T05:08:07Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/8edc7e37f67774ac.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "mcx",
+    "india"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "rank": 9
+  },
+  {
+   "id": "206ecd1475cd4688",
+   "title": "Gold prices slide sharply: What does the correction mean for Titan, Kalyan Jewellers and gold financiers?",
+   "summary": "Gold fell for a sixth straight session in Delhi while silver crashed 5.3% to Rs 1,69,500 per kg, a one-year low. Shares of gold lenders Muthoot Finance and Manappuram Finance fell more than 3% on the slide, while IIFL Finance rose 5.5%.",
+   "url": "https://upstox.com/news/market-news/stocks/gold-prices-slide-sharply-what-does-the-correction-mean-for-titan-kalyan-jewellers-and-gold-financiers/article-203614/",
+   "source": "Upstox",
+   "source_domain": "upstox.com",
+   "publisher_id": "upstox",
+   "published_at": "2026-11-18T05:04:09Z",
+   "image_url": "https://assets.upstox.com/content/assets/images/news/jewellery-stocks-today-nov-16.webp",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "silver",
+    "mcx",
+    "india",
+    "jewellery"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "rank": 10
+  },
+  {
+   "id": "73a095917aca7abe",
+   "title": "Titan, Kalyan Jewellers, PC Jeweller fall up to 5%: Why are jewellery stocks losing shine despite lower gold prices?",
+   "summary": "Titan fell 4.8% to Rs 4,681 and Kalyan Jewellers slipped 5.3% to Rs 645.80 as jewellery stocks fell despite cheaper gold, with investors worried shoppers may delay purchases expecting further price falls. MCX gold fell nearly 2.5% to Rs 1,31,063 per 10 g, its lowest in over a year, on a strong dollar and US rate-hike expectations.",
+   "url": "https://www.livemint.com/market/titan-kalyan-jewellers-pc-jeweller-fall-up-to-5-why-are-jewellery-stocks-losing-shine-despite-lower-gold-prices-11794985842518.html",
+   "source": "Mint",
+   "source_domain": "livemint.com",
+   "publisher_id": "mint",
+   "published_at": "2026-11-18T07:56:26Z",
+   "image_url": null,
+   "image_kind": "none",
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "tags": [
+    "gold",
+    "silver",
+    "mcx",
+    "jewellery"
+   ],
+   "breaking": false,
+   "related_urls": [],
+   "rank": 11
+  },
+  {
+   "url": "https://www.thecore.in/business/jewellery-volumes-fall-spending-rises-buyers-trade-down-weight-purity-874215",
+   "title": "As Gold Stays Costly, Indians Are Rethinking What They Buy and How Much",
+   "summary": "World Gold Council data shows India's gold demand fell 29% to 162.5 tonnes in July-September even as its value rose 3% to Rs 2.42 lakh crore, with jewellery volumes down 20% while spending rose 16%, a rise the WGC called entirely price-led. Buyers are choosing lighter, lower-carat jewellery and exchanging old gold; Dhanteras sales were put at about Rs 60,000 crore, up 15-20% with quantity flat.",
+   "source": "The Core",
+   "source_domain": "thecore.in",
+   "publisher_id": "the-core",
+   "published_at": "2026-11-18T00:30:02Z",
+   "category": "mcx",
+   "metals": [
+    "gold"
+   ],
+   "tags": [
+    "gold",
+    "india",
+    "jewellery"
+   ],
+   "image_url": "https://www.thecore.in/h-upload/2026/11/17/1107684-jewellery1200x630jpg.jpg",
+   "image_kind": "photo",
+   "id": "d4065fb23b6494b6",
+   "breaking": false,
    "rank": 12
   },
   {
@@ -440,28 +444,6 @@
    "rank": 13
   },
   {
-   "id": "05423c163a4bb304",
-   "title": "Gold below $4,000/oz attracts ETF inflows, led by US",
-   "summary": "Physically backed gold ETFs took in a net $672.8 million in the week to November 13 as gold slipped below $4,000 an ounce, World Gold Council data show. US investors led with $766 million of inflows while the UK, Japan and China redeemed, and inflows are net positive at $40.8 billion so far in 2026.",
-   "url": "https://www.thehindubusinessline.com/markets/gold/gold-below-4000oz-attracts-etf-inflows-led-by-us/article71708410.ece",
-   "source": "The Hindu BusinessLine",
-   "source_domain": "thehindubusinessline.com",
-   "publisher_id": "hindu-businessline",
-   "published_at": "2026-11-17T03:26:22Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/05423c163a4bb304.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "global"
-   ],
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "rank": 14
-  },
-  {
    "id": "6e4b6d77c8b7bc40",
    "title": "Silver ETFs Crash 5%: What's The Bearish Demand Forecast That Triggered Selloff",
    "summary": "Silver ETFs fell nearly 5%, with the SBI Silver ETF down 4.76% to Rs 165.20 in its biggest fall since September 26, after Metals Focus forecast global silver demand down 5% in 2026, with jewellery demand contracting about 5% even as industrial demand is set to rise 1% to a record 710 million ounces.",
@@ -482,7 +464,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 15
+   "rank": 14
   },
   {
    "id": "1d166b01e9431e26",
@@ -505,7 +487,7 @@
     "global"
    ],
    "breaking": false,
-   "rank": 16
+   "rank": 15
   },
   {
    "id": "4d19b82d0f7fb9bd",
@@ -528,7 +510,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 17
+   "rank": 16
   },
   {
    "title": "Senco Gold reports record ₹2,426 crore Dhanteras sales, up 26%; retail revenue rises 25%",
@@ -557,7 +539,7 @@
     "https://www.business-standard.com/markets/news/senco-gold-shares-jump-8-on-record-festive-sales-of-2-426-crore-126111700328_1.html",
     "https://www.business-standard.com/markets/news/senco-gold-shares-jump-8-on-record-festive-sales-of-2-426-crore-126111700328_1.html"
    ],
-   "rank": 18
+   "rank": 17
   },
   {
    "id": "fe96a20b414b6d7f",
@@ -582,7 +564,7 @@
     "jewellery"
    ],
    "breaking": false,
-   "rank": 19
+   "rank": 18
   },
   {
    "title": "Silver prices find $50 floor as solar industry seeks to accelerate shift toward copper",
@@ -604,7 +586,7 @@
    "image_kind": "photo",
    "breaking": false,
    "id": "178b0d89b508aaad",
-   "rank": 20
+   "rank": 19
   },
   {
    "id": "6ed09807d4975359",
@@ -627,7 +609,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 21
+   "rank": 20
   },
   {
    "id": "5e68b6e2d472fd7e",
@@ -651,7 +633,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 22
+   "rank": 21
   },
   {
    "id": "c62e7b1a525d6422",
@@ -674,7 +656,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 23
+   "rank": 22
   },
   {
    "id": "669996602c78c6bb",
@@ -697,7 +679,7 @@
     "jewellery"
    ],
    "breaking": false,
-   "rank": 24
+   "rank": 23
   }
  ]
 }
