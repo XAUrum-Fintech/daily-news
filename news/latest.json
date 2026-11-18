@@ -1,56 +1,33 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-18T18:00Z",
-  "generated_at": "2026-11-18T18:10:19Z",
+  "edition_id": "2026-11-18T20:00Z",
+  "generated_at": "2026-11-18T20:08:34Z",
   "window": {
-    "from": "2026-11-18T16:00:00Z",
-    "to": "2026-11-18T18:00:00Z"
+    "from": "2026-11-18T18:00:00Z",
+    "to": "2026-11-18T20:00:00Z"
   },
   "insights": {
-    "headline": "Gold sinks to $3,744 and silver nears $45 as Waller backs a bigger Fed hike",
-    "summary": "Spot gold fell towards $3,744 an ounce, its lowest since September 2025, and silver neared $45 as Fed Governor Christopher Waller suggested a 50-basis-point December hike, gold's worst weekly stretch since 1989. In India, MCX December gold stood near Rs 1,31,060 per 10 g and silver near Rs 1,63,533 per kg, while India's gold import bill could fall to $35-40 billion in FY27 from nearly $72 billion. The gold-silver ratio hit a one-year high near 82.6 as silver fell harder, and traders await the Fed's October meeting minutes, due at 00:30 IST Thursday.",
+    "headline": "Fed minutes back more hikes as gold holds near one-year low",
+    "summary": "Fed minutes showed almost all officials saw more rate hikes ahead, with a couple open to a half-point December move; spot gold stayed near $3,744 an ounce and silver near $45, while MCX gold held near Rs 1,31,060 per 10 g and silver near Rs 1,63,533 per kg. The December 8-9 Fed meeting is the next test.",
     "points": [
-      "Fed Governor Christopher Waller suggested a 50-basis-point December hike, sending gold towards $3,744.",
-      "Silver fell harder, near $45.68, pushing the gold-silver ratio to a one-year high of 82.6.",
+      "Fed minutes: almost all officials agreed further rate hikes would likely be needed; a couple raised a possible half-point December move.",
+      "Spot gold stayed near $3,744 an ounce, its lowest since September 2025, with silver near $45 an ounce.",
       "MCX December gold stood near Rs 1,31,060 per 10 g and silver near Rs 1,63,533 per kg, both near one-year lows.",
       "India's gold import bill could fall to $35-40 billion in FY27 from nearly $72 billion, with April-October imports down 40%.",
-      "The Fed's October meeting minutes, due 00:30 IST Thursday, are the next test for rate-hike bets."
+      "The Fed's December 8-9 meeting is the next test for rate-hike bets; markets price a quarter-point hike as near-certain."
     ],
-    "brief": {
-      "schema": "orob-brief.v1",
-      "brief_id": "2026-11-18-2152",
-      "date": "2026-11-18",
-      "generated_at": "2026-11-18T16:22:05Z",
-      "slot": "evening",
-      "expires_at": "2026-11-18T18:29:00Z",
-      "headline": "Gold near one-year low as Fed hike bets build",
-      "summary": "MCX gold near Rs 1.31 lakh per 10 g and silver near Rs 1.64 lakh per kg as Fed hike bets held spot gold below $3,800.",
-      "bullets": [
-        {
-          "text": "A firmer dollar near a 19-month high and 10-year yields above 5% kept pressure on bullion, Reuters, Moneycontrol and Livemint report.",
-          "item_ids": [
-            "3398c8bb9491fc70",
-            "57004e211a3999f1",
-            "b60afdaf218fe898"
-          ]
-        },
-        {
-          "text": "Delhi silver fell to a one-year low as buyers returned at lower levels, while October gold imports tripled to $5.51 billion.",
-          "item_ids": [
-            "30b0448b03029512",
-            "8756e4dff143b22c"
-          ]
-        },
-        {
-          "text": "Watch the Fed's October meeting minutes, due 00:30 IST Thursday, for the tone on further rate hikes.",
-          "item_ids": [
-            "1259c76ac36a68cf"
-          ]
-        }
-      ]
-    }
+    "brief": null
   },
   "trending": [
+    {
+      "title": "Fed minutes point to more hikes",
+      "summary": "Minutes of the Fed's October meeting showed almost all officials saw more hikes ahead, with a couple open to a half-point December move; gold stayed near one-year lows.",
+      "item_ids": [
+        "a91f3ec94172086e",
+        "8aeeb87110a8e619",
+        "3398c8bb9491fc70"
+      ]
+    },
     {
       "title": "Gold breaks below $3,800",
       "summary": "Spot gold fell to about $3,744, its lowest since September 2025, after Fed Governor Waller backed a 50-basis-point December hike; BullionVault calls it gold's worst weekly run since 1989.",
@@ -59,7 +36,6 @@
         "d80861db62a1db94",
         "3398c8bb9491fc70",
         "1259c76ac36a68cf",
-        "57004e211a3999f1",
         "b60afdaf218fe898"
       ]
     },
@@ -93,18 +69,39 @@
         "8756e4dff143b22c",
         "b2935299b5091f31"
       ]
-    },
-    {
-      "title": "Central-bank demand endures",
-      "summary": "Central banks are rethinking gold as geopolitical risks mount, an OMFIF report says, while China saw robust gold demand in October and Kitco sees gold reclaiming $5,600 by 2028.",
-      "item_ids": [
-        "880407ceba39dd32",
-        "1d166b01e9431e26",
-        "bd5b6edc37241a5a"
-      ]
     }
   ],
   "items": [
+    {
+      "id": "a91f3ec94172086e",
+      "title": "Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike",
+      "summary": "Minutes of the Fed's October 27-28 meeting showed almost all officials agreed further rate hikes would likely be needed, while a couple said a half-point increase might be needed if inflation data stayed unfavourable. Only Lisa Cook and Beth Hammack dissented for a quarter-point hike. The minutes set up a December 8-9 debate over a larger hike or tougher language on tightening.",
+      "url": "https://www.reuters.com/business/fed-policymakers-focused-inflation-risks-october-with-some-seeing-need-bigger-2026-11-18/",
+      "source": "Reuters",
+      "source_domain": "reuters.com",
+      "publisher_id": "reuters",
+      "published_at": "2026-11-18T19:10:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "fed",
+        "global"
+      ],
+      "breaking": false,
+      "paywall": "no-verdict (host blocks fetch, 401)",
+      "related_urls": [
+        "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-policymakers-focused-on-inflation-risks-in-october-with-some-seeing-need-for-bigger-rate-hike/articleshow/135970652.cms",
+        "https://www.xtb.com/int/market-analysis/news-and-research/fed-minutes-virtually-everyone-in-favor-of-further-rate-hikes-is-there-a-chance-for-50-basis-points-in-december"
+      ],
+      "rank": 1
+    },
     {
       "id": "8aeeb87110a8e619",
       "title": "Gold and silver 'can't find a floor' as Waller calls for Fed rate hike",
@@ -129,7 +126,7 @@
       ],
       "breaking": false,
       "paywall": "no-verdict (no isAccessibleForFree signal)",
-      "rank": 1
+      "rank": 2
     },
     {
       "breaking": false,
@@ -156,7 +153,7 @@
       ],
       "title": "Gold, silver prices in Indian markets crash to nearly a year's low",
       "url": "https://www.thehindubusinessline.com/markets/gold/gold-silver-prices-in-indian-markets-crash-to-nearly-a-years-low/article71714989.ece",
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "3398c8bb9491fc70",
@@ -184,7 +181,7 @@
       "related_urls": [
         "https://www.reuters.com/world/india/gold-slides-over-one-year-low-firm-dollar-us-rate-outlook-2026-11-18/"
       ],
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "1259c76ac36a68cf",
@@ -216,7 +213,7 @@
         "https://www.fxstreet.com/news/gold-tumbles-to-its-lowest-in-over-a-year-as-fed-rate-hike-bets-build-202611181109",
         "https://finance.yahoo.com/markets/commodities/articles/gold-14-month-low-traders-164318443.html"
       ],
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "b2935299b5091f31",
@@ -241,7 +238,7 @@
       ],
       "breaking": false,
       "paywall": "no-verdict (host blocks fetch, 403)",
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "f2f1235376905686",
@@ -267,7 +264,7 @@
       ],
       "breaking": false,
       "paywall": "no-verdict (host blocks fetch, 403)",
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "126c83631662ea8c",
@@ -291,7 +288,7 @@
       ],
       "breaking": false,
       "paywall": "no-verdict (host unreachable)",
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "5a4e40214a790677",
@@ -315,7 +312,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "8756e4dff143b22c",
@@ -338,7 +335,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "880407ceba39dd32",
@@ -359,31 +356,6 @@
       "category": "global",
       "metals": [
         "gold"
-      ],
-      "breaking": false,
-      "rank": 10
-    },
-    {
-      "id": "57004e211a3999f1",
-      "title": "Dollar holds near 19-month high as data supports case for US rate hikes",
-      "summary": "The dollar index held near a 19-month high at 103.66 on Wednesday, after touching 103.78 overnight, its highest since April 2025, as US retail sales rose moderately in October and Fed officials backed more rate hikes. Traders expect a quarter-point Fed hike in December, with attention turning to US housing starts and the Fed's October meeting minutes due Thursday.",
-      "url": "https://www.reuters.com/world/middle-east/dollar-holds-near-19-month-high-data-supports-case-us-rate-hikes-2026-11-18/",
-      "source": "Reuters",
-      "source_domain": "reuters.com",
-      "publisher_id": "reuters",
-      "published_at": "2026-11-18T01:34:05Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "global",
-        "fed"
       ],
       "breaking": false,
       "rank": 11
@@ -713,31 +685,6 @@
       "rank": 24
     },
     {
-      "id": "fe96a20b414b6d7f",
-      "title": "India's Jewelry Exports Surge 34% in October",
-      "summary": "India's gem and jewellery exports jumped 34% year on year to $2.92 billion in October, GJEPC data shows, with gold jewellery exports up 48.2% to $1.26 billion, studded gold jewellery up 67.3% and silver jewellery up 55.5%; GJEPC cautioned the gain was flattered by last October's Diwali factory shutdowns and higher gold prices, and expects about 10% export growth in FY27.",
-      "url": "https://www.jckonline.com/editorial-article/indias-jewelry-exports-surge/",
-      "source": "JCK",
-      "source_domain": "jckonline.com",
-      "publisher_id": "jck",
-      "published_at": "2026-11-16T18:39:41Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "india",
-        "jewellery"
-      ],
-      "breaking": false,
-      "rank": 25
-    },
-    {
       "id": "5e68b6e2d472fd7e",
       "title": "SEBI revises minimum margin norms for commodity derivatives",
       "summary": "SEBI has revised minimum initial margins for commodity derivatives to 6% for low-volatility, 8% for medium and 10% for high-volatility contracts, applying uniformly to agricultural and non-agricultural commodities including bullion, with margin periods of risk of two to three days. The norms take effect on December 1, 2026 for one year.",
@@ -759,7 +706,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 26
+      "rank": 25
     },
     {
       "id": "c62e7b1a525d6422",
@@ -782,7 +729,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 27
+      "rank": 26
     }
   ]
 }

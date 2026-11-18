@@ -1,55 +1,45 @@
-# Gold & Silver for Indian buyers · 2026-11-18T18:00Z
+# Gold & Silver for Indian buyers · 2026-11-18T20:00Z
 
-## Today's brief
+> Fed minutes back more hikes as gold holds near one-year low
 
-**Gold near one-year low as Fed hike bets build**
+Fed minutes showed almost all officials saw more rate hikes ahead, with a couple open to a half-point December move; spot gold stayed near $3,744 an ounce and silver near $45, while MCX gold held near Rs 1,31,060 per 10 g and silver near Rs 1,63,533 per kg. The December 8-9 Fed meeting is the next test.
 
-MCX gold near Rs 1.31 lakh per 10 g and silver near Rs 1.64 lakh per kg as Fed hike bets held spot gold below $3,800.
-
-- A firmer dollar near a 19-month high and 10-year yields above 5% kept pressure on bullion, Reuters, Moneycontrol and Livemint report.
-- Delhi silver fell to a one-year low as buyers returned at lower levels, while October gold imports tripled to $5.51 billion.
-- Watch the Fed's October meeting minutes, due 00:30 IST Thursday, for the tone on further rate hikes.
-
-> Gold sinks to $3,744 and silver nears $45 as Waller backs a bigger Fed hike
-
-Spot gold fell towards $3,744 an ounce, its lowest since September 2025, and silver neared $45 as Fed Governor Christopher Waller suggested a 50-basis-point December hike, gold's worst weekly stretch since 1989. In India, MCX December gold stood near Rs 1,31,060 per 10 g and silver near Rs 1,63,533 per kg, while India's gold import bill could fall to $35-40 billion in FY27 from nearly $72 billion. The gold-silver ratio hit a one-year high near 82.6 as silver fell harder, and traders await the Fed's October meeting minutes, due at 00:30 IST Thursday.
-
-- Fed Governor Christopher Waller suggested a 50-basis-point December hike, sending gold towards $3,744.
-- Silver fell harder, near $45.68, pushing the gold-silver ratio to a one-year high of 82.6.
+- Fed minutes: almost all officials agreed further rate hikes would likely be needed; a couple raised a possible half-point December move.
+- Spot gold stayed near $3,744 an ounce, its lowest since September 2025, with silver near $45 an ounce.
 - MCX December gold stood near Rs 1,31,060 per 10 g and silver near Rs 1,63,533 per kg, both near one-year lows.
 - India's gold import bill could fall to $35-40 billion in FY27 from nearly $72 billion, with April-October imports down 40%.
-- The Fed's October meeting minutes, due 00:30 IST Thursday, are the next test for rate-hike bets.
+- The Fed's December 8-9 meeting is the next test for rate-hike bets; markets price a quarter-point hike as near-certain.
 
 ## Trending
+- **Fed minutes point to more hikes**: Minutes of the Fed's October meeting showed almost all officials saw more hikes ahead, with a couple open to a half-point December move; gold stayed near one-year lows. (stories a91f3ec94172086e, 8aeeb87110a8e619, 3398c8bb9491fc70)
 - **Gold breaks below $3,800**: Spot gold fell to about $3,744, its lowest since September 2025, after Fed Governor Waller backed a 50-basis-point December hike; BullionVault calls it gold's worst weekly run since 1989. (stories 8aeeb87110a8e619, d80861db62a1db94, 3398c8bb9491fc70)
 - **Silver's sharper fall**: Silver slid towards $45.68, down nearly 12% in five sessions, and the gold-silver ratio hit a one-year high of 82.6; analysts warn it could slide to $35. (stories 8aeeb87110a8e619, f2f1235376905686, 126c83631662ea8c)
 - **Gold lenders feel the slide**: Muthoot Finance and Manappuram Finance fell about 5% as gold's slide cut the value of pledged collateral, while jewellers Titan and Kalyan fell up to 5% despite cheaper gold. (stories 8edc7e37f67774ac, 206ecd1475cd4688, 73a095917aca7abe)
 - **October imports rebound — but stay far below last year**: India's gold imports tripled in October to $5.51 billion, yet April-October imports were down 40% at $24.78 billion and the full-year bill could fall to $35-40 billion. (stories 8756e4dff143b22c, b2935299b5091f31)
-- **Central-bank demand endures**: Central banks are rethinking gold as geopolitical risks mount, an OMFIF report says, while China saw robust gold demand in October and Kitco sees gold reclaiming $5,600 by 2028. (stories 880407ceba39dd32, 1d166b01e9431e26, bd5b6edc37241a5a)
 
 ## Stories
-1. [Gold and silver 'can't find a floor' as Waller calls for Fed rate hike](https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-floor-fed-rates-111820261) — *BullionVault*, 2026-11-18T15:50:00Z
+1. [Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike](https://www.reuters.com/business/fed-policymakers-focused-inflation-risks-october-with-some-seeing-need-bigger-2026-11-18/) — *Reuters*, 2026-11-18T19:10:00Z
+   Minutes of the Fed's October 27-28 meeting showed almost all officials agreed further rate hikes would likely be needed, while a couple said a half-point increase might be needed if inflation data stayed unfavourable. Only Lisa Cook and Beth Hammack dissented for a quarter-point hike. The minutes set up a December 8-9 debate over a larger hike or tougher language on tightening.
+2. [Gold and silver 'can't find a floor' as Waller calls for Fed rate hike](https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-floor-fed-rates-111820261) — *BullionVault*, 2026-11-18T15:50:00Z
    Gold fell towards $3,744, as much as 3.6% below last Friday's finish, and silver dropped near $45 an ounce after Fed Governor Christopher Waller suggested a 50-basis-point rate hike in December. Silver fixed around $45.90 at London's midday auction, and BullionVault called it gold's worst stretch of weekly losses since 1989, with January hike odds in Fed futures already above 70%.
-2. [Gold, silver prices in Indian markets crash to nearly a year's low](https://www.thehindubusinessline.com/markets/gold/gold-silver-prices-in-indian-markets-crash-to-nearly-a-years-low/article71714989.ece) — *The Hindu BusinessLine*, 2026-11-18T08:15:00Z
+3. [Gold, silver prices in Indian markets crash to nearly a year's low](https://www.thehindubusinessline.com/markets/gold/gold-silver-prices-in-indian-markets-crash-to-nearly-a-years-low/article71714989.ece) — *The Hindu BusinessLine*, 2026-11-18T08:15:00Z
    Indian gold and silver fell to their lowest in a year, tracking the slide. IBJA data showed gold opening at Rs 1,31,505 per 10 g and silver at Rs 1,64,506 per kg; spot gold was $3,772 at 13:00 IST and silver $45.90. MCX December gold stood at Rs 1,31,060 per 10 g. Gold has shed about Rs 10,000 per 10 g since November began, and traders await the Fed's October minutes, due 00:30 IST Thursday.
-3. [Gold slumps below $3,800 as Fed officials signal more rate hikes](https://www.moneycontrol.com/news/business/gold-slumps-below-3-800-as-fed-officials-signal-more-rate-hikes-14083000.html) — *Moneycontrol*, 2026-11-18T02:36:36Z
+4. [Gold slumps below $3,800 as Fed officials signal more rate hikes](https://www.moneycontrol.com/news/business/gold-slumps-below-3-800-as-fed-officials-signal-more-rate-hikes-14083000.html) — *Moneycontrol*, 2026-11-18T02:36:36Z
    Spot gold fell 1.4% to $3,795.55 an ounce, below $3,800 for the first time since September 2025, after Fed officials made the case for more rate hikes. St. Louis Fed President Alberto Musalem said the US economy would likely need several rate increases before spring. Silver dropped 2.6% to $46.18 an ounce. Investors await the Fed's October meeting minutes, due later Wednesday.
-4. [Gold slides to over one-year low on firm dollar, US rate outlook](https://www.reuters.com/world/india/gold-slides-over-one-year-low-firm-dollar-us-rate-outlook-2026-11-18/) — *Reuters*, 2026-11-18T03:00:00Z
+5. [Gold slides to over one-year low on firm dollar, US rate outlook](https://www.reuters.com/world/india/gold-slides-over-one-year-low-firm-dollar-us-rate-outlook-2026-11-18/) — *Reuters*, 2026-11-18T03:00:00Z
    Spot gold fell 1.4% to $3,796.37, its lowest since September 2025, as a firm dollar near a 19-month high and expectations of higher US rates weighed; silver slipped 2.9% to $46.01. Markets price a 95.7% chance of a December Fed hike, and await the minutes of the Fed's October meeting due at 1900 GMT.
-5. [$32 Billion Squeeze: Why India's Massive Gold Import Bill Is Shrinking Fast](https://www.ndtvprofit.com/economy/32-billion-squeeze-why-india-s-massive-gold-import-bill-is-shrinking-fast-12346067) — *NDTV Profit*, 2026-11-18T17:39:00Z
+6. [$32 Billion Squeeze: Why India's Massive Gold Import Bill Is Shrinking Fast](https://www.ndtvprofit.com/economy/32-billion-squeeze-why-india-s-massive-gold-import-bill-is-shrinking-fast-12346067) — *NDTV Profit*, 2026-11-18T17:39:00Z
    India's gold import bill could fall to $35-40 billion in FY27 from nearly $72 billion in FY26, NDTV Profit reports, with gold imports down about 40% to $24.78 billion in April-October. Commerce Secretary Rajesh Agrawal attributed the fall to the higher customs duty introduced in May, which made overseas purchases more expensive.
-6. [Gold, silver divide widens: Why SLV looks riskier than GLD as Fed rate fears mount](https://www.benzinga.com/etfs/sector-etfs/26/11/63394802/gold-silver-divide-widens-why-slv-looks-riskier-than-gld-as-fed-rate-fears-mount) — *Benzinga*, 2026-11-18T16:06:00Z
+7. [Gold, silver divide widens: Why SLV looks riskier than GLD as Fed rate fears mount](https://www.benzinga.com/etfs/sector-etfs/26/11/63394802/gold-silver-divide-widens-why-slv-looks-riskier-than-gld-as-fed-rate-fears-mount) — *Benzinga*, 2026-11-18T16:06:00Z
    The gold-silver ratio climbed to a one-year high of 82.6 as silver fell harder than gold, Benzinga reports: December gold futures fell 2.34% to $3,773.80 an ounce while silver futures dropped 2.45% to $45.68. Gold ETF GLD fell 2.4% and silver ETF SLV slid 4.4% on Wednesday morning, both touching their lowest since September 2025, with markets pricing a 96.4% chance of a December Fed hike.
-7. [Silver analysis: XAG/USD continues to set new lows for the year](https://www.forex.com/ie/news-and-analysis/silver-analysis-xag-usd-continues-to-set-new-lows-for-the-year/) — *FOREX.com*, 2026-11-18T16:21:00Z
+8. [Silver analysis: XAG/USD continues to set new lows for the year](https://www.forex.com/ie/news-and-analysis/silver-analysis-xag-usd-continues-to-set-new-lows-for-the-year/) — *FOREX.com*, 2026-11-18T16:21:00Z
    Silver has fallen nearly 12% over the last five trading sessions, FOREX.com notes, with US 10-year Treasury yields holding above 5.0%. Traders are watching $45 as critical support, lows not seen since October 2025, with $49 as a nearby barrier and $54 as resistance.
-8. [Silver Bears Eye $35: At That Price, 1-Kg Silver May Cost Less Than 10 Gm Of Gold In India](https://www.ndtvprofit.com/markets/silver-bears-eye-35-at-that-price-1-kg-silver-may-cost-less-than-10-gm-of-gold-in-india-12344704) — *NDTV Profit*, 2026-11-18T12:55:21Z
+9. [Silver Bears Eye $35: At That Price, 1-Kg Silver May Cost Less Than 10 Gm Of Gold In India](https://www.ndtvprofit.com/markets/silver-bears-eye-35-at-that-price-1-kg-silver-may-cost-less-than-10-gm-of-gold-in-india-12344704) — *NDTV Profit*, 2026-11-18T12:55:21Z
    Technical analysts warn silver could slide towards $35 an ounce; with gold near $3,765, that would lift the gold-silver ratio to its highest since 2020 and make 1 kg of silver cheaper than 10 gm of gold on MCX.
-9. [Gold Imports Triple In October To $5.51 Billion, But Remain Well Below Historical Levels](https://www.outlookmoney.com/invest/india-gold-imports-october-2026-festive-demand-unofficial-supplies) — *Outlook Money*, 2026-11-18T06:55:40Z
+10. [Gold Imports Triple In October To $5.51 Billion, But Remain Well Below Historical Levels](https://www.outlookmoney.com/invest/india-gold-imports-october-2026-festive-demand-unofficial-supplies) — *Outlook Money*, 2026-11-18T06:55:40Z
    India's gold imports more than tripled in October to $5.51 billion from September, but were 63% lower than a year earlier; the World Gold Council attributes the gap to unofficial supplies and recycled gold despite healthy Dhanteras-Diwali demand.
-10. [Central banks rethink gold as global risks mount](https://www.mining.com/central-banks-rethink-gold-as-global-risks-mount/) — *MINING.COM*, 2026-11-18T15:30:20Z
+11. [Central banks rethink gold as global risks mount](https://www.mining.com/central-banks-rethink-gold-as-global-risks-mount/) — *MINING.COM*, 2026-11-18T15:30:20Z
    Central banks are increasingly weighing geopolitical uncertainty alongside traditional financial risks when managing gold reserves, according to a new OMFIF report, while tokenization and retail investors reshape how gold is held and traded.
-11. [Dollar holds near 19-month high as data supports case for US rate hikes](https://www.reuters.com/world/middle-east/dollar-holds-near-19-month-high-data-supports-case-us-rate-hikes-2026-11-18/) — *Reuters*, 2026-11-18T01:34:05Z
-   The dollar index held near a 19-month high at 103.66 on Wednesday, after touching 103.78 overnight, its highest since April 2025, as US retail sales rose moderately in October and Fed officials backed more rate hikes. Traders expect a quarter-point Fed hike in December, with attention turning to US housing starts and the Fed's October meeting minutes due Thursday.
 12. [US 10-Year Yield Set for Historic Run Above 5% on Fed Cycle](https://www.livemint.com/market/us-10-year-yield-set-for-historic-run-above-5-on-fed-cycle-11794948232494.html) — *Mint*, 2026-11-17T20:43:51Z
    The US 10-year Treasury yield is on pace for its 27th close above 5% in 2026, near the 29 of 2007, after hotter October inflation pushed traders to fully price a quarter-point Fed hike on December 9 and over 80 basis points of tightening by September 2027. The yield traded near 5.09% on Tuesday; JPMorgan's Priya Misra tied yields over 5% to a risk premium from uncertainty about the Fed.
 13. [Gold struggles near one-year lows, silver rebounds as stocks slide, Fed hike bets persist - Kitco PM Report](https://www.kitco.com/news/article/2026-11-17/gold-struggles-near-one-year-lows-silver-rebounds-stocks-slide-fed-hike) — *Kitco*, 2026-11-17T22:06:24Z
@@ -76,9 +66,7 @@ Spot gold fell towards $3,744 an ounce, its lowest since September 2025, and sil
    UBS is standing by its call for gold to reach $5,000 an ounce in 2027 even after the metal's sharp sell-off, holding that longer-term demand will outweigh the near-term drag from higher US rates and a firm dollar.
 24. [China gold market update: Robust demand in October](https://www.gold.org/goldhub/gold-focus/2026/11/china-gold-market-update-robust-demand-october) — *World Gold Council*, 2026-11-17T13:30:00Z
    China's central bank stretched its gold-buying streak to 24 months with its largest monthly addition since late 2023, adding 25.8 tonnes in October, the World Gold Council says; Chinese gold ETFs drew inflows for a fourth straight month to another record, and Shanghai Gold Exchange withdrawals rose month on month.
-25. [India's Jewelry Exports Surge 34% in October](https://www.jckonline.com/editorial-article/indias-jewelry-exports-surge/) — *JCK*, 2026-11-16T18:39:41Z
-   India's gem and jewellery exports jumped 34% year on year to $2.92 billion in October, GJEPC data shows, with gold jewellery exports up 48.2% to $1.26 billion, studded gold jewellery up 67.3% and silver jewellery up 55.5%; GJEPC cautioned the gain was flattered by last October's Diwali factory shutdowns and higher gold prices, and expects about 10% export growth in FY27.
-26. [SEBI revises minimum margin norms for commodity derivatives](https://www.thehindubusinessline.com/markets/sebi-revises-minimum-margin-norms-for-commodity-derivatives/article71712951.ece) — *The Hindu BusinessLine*, 2026-11-17T15:47:30Z
+25. [SEBI revises minimum margin norms for commodity derivatives](https://www.thehindubusinessline.com/markets/sebi-revises-minimum-margin-norms-for-commodity-derivatives/article71712951.ece) — *The Hindu BusinessLine*, 2026-11-17T15:47:30Z
    SEBI has revised minimum initial margins for commodity derivatives to 6% for low-volatility, 8% for medium and 10% for high-volatility contracts, applying uniformly to agricultural and non-agricultural commodities including bullion, with margin periods of risk of two to three days. The norms take effect on December 1, 2026 for one year.
-27. [RBI announces premature redemption rate for Sovereign Gold Bonds due November 18](https://www.devdiscourse.com/article/business/4008388-rbi-announces-premature-redemption-rate-for-sovereign-gold-bonds-due-november-18) — *Devdiscourse*, 2026-11-17T14:08:46Z
+26. [RBI announces premature redemption rate for Sovereign Gold Bonds due November 18](https://www.devdiscourse.com/article/business/4008388-rbi-announces-premature-redemption-rate-for-sovereign-gold-bonds-due-november-18) — *Devdiscourse*, 2026-11-17T14:08:46Z
    RBI has fixed the premature redemption price for Sovereign Gold Bond 2020-21 Series VIII at ₹13,499 per unit for redemption on November 18, 2026, based on the simple average of IBJA 999-purity gold closing prices on November 13, 16 and 17. The tranche was issued on November 18, 2020 at ₹5,127 per gram for online investors.
