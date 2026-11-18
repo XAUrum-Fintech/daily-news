@@ -1,30 +1,30 @@
-# Gold & Silver for Indian buyers · 2026-11-18T07:00Z
+# Gold & Silver for Indian buyers · 2026-11-18T08:00Z
 
-> Gold breaks below $3,800 to a 14-month low as Fed hike bets build
+> MCX gold at one-year low as Fed hike bets build
 
-Spot gold fell below $3,800 to $3,784, its lowest since September 2025, as Fed officials signalled more rate hikes and the dollar held near a 19-month high. Silver slipped 2.9% to $46.01, and in Delhi it crashed 5.3% to Rs 1,69,500 per kg, a one-year low. Silver ETFs fell nearly 5% on the slide. The Fed's October meeting minutes, due at 00:30 IST Thursday, are the next test for rate-hike bets.
+MCX gold fell nearly 2.5% to Rs 1,31,063 per 10 g, its lowest in over a year, as spot gold stayed below $3,800 and silver slid. Titan fell 4.8% and Kalyan Jewellers 5.3% as jewellery stocks slid despite cheaper gold, while Delhi silver crashed 5.3% to Rs 1,69,500 per kg, a one-year low. The Fed's October meeting minutes, due at 00:30 IST Thursday, are the next test for rate-hike bets.
 
-- Spot gold broke below $3,800 to $3,784, its lowest since September 2025; silver slipped 2.9% to $46.01.
+- Spot gold held below $3,800 at $3,795.55, its lowest since September 2025; silver slipped 2.6% to $46.18.
+- MCX gold fell nearly 2.5% to Rs 1,31,063 per 10 g, its lowest in over a year.
 - The dollar held near a 19-month high at 103.66; markets price a 95.7% chance of a December Fed hike.
-- The 10-year yield is set for a 27th close above 5% in 2026, near 2007's 29.
-- In Delhi, silver crashed 5.3% to Rs 1,69,500 per kg, a one-year low; gold lenders fell about 5%.
-- WGC: India's Q3 gold demand fell 29% to 162.5 tonnes; festive spending still rose.
+- Titan fell 4.8% and Kalyan Jewellers 5.3% as jewellery stocks slid despite cheaper gold.
+- In Delhi, silver crashed 5.3% to Rs 1,69,500 per kg, a one-year low; silver ETFs fell nearly 5%.
 
 ## Today's brief
 
-**Gold breaks below $3,800 as Fed hike bets build**
+**MCX gold hits one-year low as Fed hike bets build**
 
-Spot gold fell below $3,800 to $3,795.55, its lowest since September 2025, as Fed officials signalled more hikes.
+MCX gold fell to Rs 1,31,063 per 10 g, a one-year low, as Fed hike bets kept spot gold below $3,800.
 
-- St. Louis Fed's Musalem said the US economy would likely need several rate increases before spring, Moneycontrol reports.
-- Indian buyers are trading down to lighter, lower-carat jewellery as high prices cut volumes, though festive spending rose, WGC data shows.
-- Watch: the Fed's October meeting minutes, due 00:30 IST Thursday, for the tone on further rate hikes.
+- Fed officials signalled more rate hikes, lifting the dollar to a 19-month high and 10-year yields above 5%, Moneycontrol and Reuters report.
+- Jewellery stocks slid as buyers wait for cheaper prices, while Delhi silver crashed to a one-year low and buyers returned at lower levels.
+- Watch the Fed's October meeting minutes, due 00:30 IST Thursday, for the tone on further rate hikes.
 
 ## Trending
 - **Gold breaks below $3,800**: Spot gold fell below $3,800 to $3,784, its lowest since September 2025, as the dollar held near a 19-month high and markets priced a near-certain December Fed hike. (stories 1, 2, 3, 4)
-- **Gold lenders feel the slide**: Muthoot Finance and Manappuram Finance fell about 5% as gold's slide cut the value of pledged collateral, while jewellers Titan and Kalyan face pressure from the correction. (stories 8, 9)
-- **Silver's sharper fall**: Silver slipped 2.9% to $46.01 globally and crashed 5.3% in Delhi to Rs 1,69,500 per kg, a one-year low, even as buyers return to the metal at lower prices; silver ETFs fell nearly 5%. (stories 3, 6, 7, 14)
-- **Indian buyers trade down as gold stays costly**: High prices are pushing Indian buyers towards lighter, lower-carat jewellery, though festive spending still rose and Dhanteras sales hit records. (stories 10, 16, 17)
+- **Gold lenders feel the slide**: Muthoot Finance and Manappuram Finance fell about 5% as gold's slide cut the value of pledged collateral, while jewellers Titan and Kalyan fell up to 5% despite cheaper gold. (stories 8, 9, 10)
+- **Silver's sharper fall**: Silver slipped 2.9% to $46.01 globally and crashed 5.3% in Delhi to Rs 1,69,500 per kg, a one-year low, even as buyers return to the metal at lower prices; silver ETFs fell nearly 5%. (stories 3, 6, 7, 15)
+- **Indian buyers trade down as gold stays costly**: High prices are pushing Indian buyers towards lighter, lower-carat jewellery, though festive spending still rose and Dhanteras sales hit records. (stories 11, 17, 18)
 - **Fed minutes in focus**: The minutes of the Fed's October meeting, due at 00:30 IST Thursday, are the next read on how far and how fast US rates may rise. (stories 3, 4, 5)
 
 ## Stories
@@ -46,30 +46,30 @@ Spot gold fell below $3,800 to $3,795.55, its lowest since September 2025, as Fe
    Shares of gold lenders Muthoot Finance and Manappuram Finance fell about 5% as gold slid below $3,800 to a one-year low. Analysts say falling prices could strain gold-loan books as the value of pledged gold drops, with lenders that rolled old loans into fresh ones seen as most exposed.
 9. [Gold prices slide sharply: What does the correction mean for Titan, Kalyan Jewellers and gold financiers?](https://upstox.com/news/market-news/stocks/gold-prices-slide-sharply-what-does-the-correction-mean-for-titan-kalyan-jewellers-and-gold-financiers/article-203614/) — *Upstox*, 2026-11-18T05:04:09Z
    Gold fell for a sixth straight session in Delhi while silver crashed 5.3% to Rs 1,69,500 per kg, a one-year low. Shares of gold lenders Muthoot Finance and Manappuram Finance fell more than 3% on the slide, while IIFL Finance rose 5.5%.
-10. [As Gold Stays Costly, Indians Are Rethinking What They Buy and How Much](https://www.thecore.in/business/jewellery-volumes-fall-spending-rises-buyers-trade-down-weight-purity-874215) — *The Core*, 2026-11-18T00:30:02Z
+10. [Titan, Kalyan Jewellers, PC Jeweller fall up to 5%: Why are jewellery stocks losing shine despite lower gold prices?](https://www.livemint.com/market/titan-kalyan-jewellers-pc-jeweller-fall-up-to-5-why-are-jewellery-stocks-losing-shine-despite-lower-gold-prices-11794985842518.html) — *Mint*, 2026-11-18T07:56:26Z
+   Titan fell 4.8% to Rs 4,681 and Kalyan Jewellers slipped 5.3% to Rs 645.80 as jewellery stocks fell despite cheaper gold, with investors worried shoppers may delay purchases expecting further price falls. MCX gold fell nearly 2.5% to Rs 1,31,063 per 10 g, its lowest in over a year, on a strong dollar and US rate-hike expectations.
+11. [As Gold Stays Costly, Indians Are Rethinking What They Buy and How Much](https://www.thecore.in/business/jewellery-volumes-fall-spending-rises-buyers-trade-down-weight-purity-874215) — *The Core*, 2026-11-18T00:30:02Z
    World Gold Council data shows India's gold demand fell 29% to 162.5 tonnes in July-September even as its value rose 3% to Rs 2.42 lakh crore, with jewellery volumes down 20% while spending rose 16%, a rise the WGC called entirely price-led. Buyers are choosing lighter, lower-carat jewellery and exchanging old gold; Dhanteras sales were put at about Rs 60,000 crore, up 15-20% with quantity flat.
-11. [Gold struggles near one-year lows, silver rebounds as stocks slide, Fed hike bets persist - Kitco PM Report](https://www.kitco.com/news/article/2026-11-17/gold-struggles-near-one-year-lows-silver-rebounds-stocks-slide-fed-hike) — *Kitco*, 2026-11-17T22:06:24Z
+12. [Gold struggles near one-year lows, silver rebounds as stocks slide, Fed hike bets persist - Kitco PM Report](https://www.kitco.com/news/article/2026-11-17/gold-struggles-near-one-year-lows-silver-rebounds-stocks-slide-fed-hike) — *Kitco*, 2026-11-17T22:06:24Z
    Spot gold held near $3,853 in late US trading on Tuesday, just above Monday's 13-month low, while silver rebounded about 1% to $47.33 on bargain hunting. Weaker US data, lower yields and fresh geopolitical tensions competed with near-certain bets on a December Fed hike, and equities fell again. Traders now await US housing data and the Fed's October minutes on Wednesday.
-12. [Gold will reclaim $5,600/oz in 2028 as rate cuts bring Western investors back to precious metals – Goldman Sachs](https://www.kitco.com/news/article/2026-11-17/gold-will-reclaim-5600oz-2028-rate-cuts-bring-western-investors-back) — *Kitco*, 2026-11-17T16:22:43Z
+13. [Gold will reclaim $5,600/oz in 2028 as rate cuts bring Western investors back to precious metals – Goldman Sachs](https://www.kitco.com/news/article/2026-11-17/gold-will-reclaim-5600oz-2028-rate-cuts-bring-western-investors-back) — *Kitco*, 2026-11-17T16:22:43Z
    Goldman Sachs expects gold to reclaim its record above $5,600 an ounce by the end of 2028 once the Federal Reserve starts cutting rates and Western investors return. The bank sees gold at $4,650 by the end of 2027, with central banks buying about 60 tonnes a month, but warns of more volatility while the Fed keeps raising rates.
-13. [Gold below $4,000/oz attracts ETF inflows, led by US](https://www.thehindubusinessline.com/markets/gold/gold-below-4000oz-attracts-etf-inflows-led-by-us/article71708410.ece) — *The Hindu BusinessLine*, 2026-11-17T03:26:22Z
+14. [Gold below $4,000/oz attracts ETF inflows, led by US](https://www.thehindubusinessline.com/markets/gold/gold-below-4000oz-attracts-etf-inflows-led-by-us/article71708410.ece) — *The Hindu BusinessLine*, 2026-11-17T03:26:22Z
    Physically backed gold ETFs took in a net $672.8 million in the week to November 13 as gold slipped below $4,000 an ounce, World Gold Council data show. US investors led with $766 million of inflows while the UK, Japan and China redeemed, and inflows are net positive at $40.8 billion so far in 2026.
-14. [Silver ETFs Crash 5%: What's The Bearish Demand Forecast That Triggered Selloff](https://www.ndtvprofit.com/markets/silver-etfs-crash-5-whats-the-bearish-demand-forecast-that-triggered-selloff-12333171) — *NDTV Profit*, 2026-11-16T09:42:54Z
+15. [Silver ETFs Crash 5%: What's The Bearish Demand Forecast That Triggered Selloff](https://www.ndtvprofit.com/markets/silver-etfs-crash-5-whats-the-bearish-demand-forecast-that-triggered-selloff-12333171) — *NDTV Profit*, 2026-11-16T09:42:54Z
    Silver ETFs fell nearly 5%, with the SBI Silver ETF down 4.76% to Rs 165.20 in its biggest fall since September 26, after Metals Focus forecast global silver demand down 5% in 2026, with jewellery demand contracting about 5% even as industrial demand is set to rise 1% to a record 710 million ounces.
-15. [China gold market update: Robust demand in October](https://www.gold.org/goldhub/gold-focus/2026/11/china-gold-market-update-robust-demand-october) — *World Gold Council*, 2026-11-17T13:30:00Z
+16. [China gold market update: Robust demand in October](https://www.gold.org/goldhub/gold-focus/2026/11/china-gold-market-update-robust-demand-october) — *World Gold Council*, 2026-11-17T13:30:00Z
    China's central bank stretched its gold-buying streak to 24 months with its largest monthly addition since late 2023, adding 25.8 tonnes in October, the World Gold Council says; Chinese gold ETFs drew inflows for a fourth straight month to another record, and Shanghai Gold Exchange withdrawals rose month on month.
-16. [India gold market update: Gold demand gets festive boost](https://www.gold.org/goldhub/gold-focus/2026/11/india-gold-market-update-gold-demand-gets-festive-boost) — *World Gold Council*, 2026-11-17T08:54:09Z
+17. [India gold market update: Gold demand gets festive boost](https://www.gold.org/goldhub/gold-focus/2026/11/india-gold-market-update-gold-demand-gets-festive-boost) — *World Gold Council*, 2026-11-17T08:54:09Z
    The World Gold Council says festive demand was healthy across regions in jewellery and bars and coins, helped by softer prices; Indian gold ETFs saw a fifth straight month of net inflows in October at Rs 35bn, imports rebounded to a six-month high, and domestic discounts narrowed to $5/oz by 12 November.
-17. [Senco Gold reports record ₹2,426 crore Dhanteras sales, up 26%; retail revenue rises 25%](https://www.cnbctv18.com/market/stocks/senco-gold-share-price-reports-record-rs-2426-crore-dhanteras-sales-up-26-retail-revenue-rises-25-20035148.htm) — *CNBC-TV18*, 2026-11-16T12:57:25Z
+18. [Senco Gold reports record ₹2,426 crore Dhanteras sales, up 26%; retail revenue rises 25%](https://www.cnbctv18.com/market/stocks/senco-gold-share-price-reports-record-rs-2426-crore-dhanteras-sales-up-26-retail-revenue-rises-25-20035148.htm) — *CNBC-TV18*, 2026-11-16T12:57:25Z
    Senco Gold posted record festive-season retail sales of over ₹2,426 crore between 1 October and 11 November, up 26% on last year, despite volatile and elevated gold prices. Retail revenue rose 25%, and the jeweller crossed ₹10,000 crore in sales on a trailing 12-month basis. The company credited higher footfalls, new customers and its Dhanteras campaign.
-18. [India's Jewelry Exports Surge 34% in October](https://www.jckonline.com/editorial-article/indias-jewelry-exports-surge/) — *JCK*, 2026-11-16T18:39:41Z
+19. [India's Jewelry Exports Surge 34% in October](https://www.jckonline.com/editorial-article/indias-jewelry-exports-surge/) — *JCK*, 2026-11-16T18:39:41Z
    India's gem and jewellery exports jumped 34% year on year to $2.92 billion in October, GJEPC data shows, with gold jewellery exports up 48.2% to $1.26 billion, studded gold jewellery up 67.3% and silver jewellery up 55.5%; GJEPC cautioned the gain was flattered by last October's Diwali factory shutdowns and higher gold prices, and expects about 10% export growth in FY27.
-19. [Silver prices find $50 floor as solar industry seeks to accelerate shift toward copper](https://www.pv-magazine.com/2026/11/16/silver-prices-find-50-floor-as-solar-industry-seeks-to-accelerate-shift-toward-copper/) — *pv magazine*, 2026-11-16T11:37:58Z
+20. [Silver prices find $50 floor as solar industry seeks to accelerate shift toward copper](https://www.pv-magazine.com/2026/11/16/silver-prices-find-50-floor-as-solar-industry-seeks-to-accelerate-shift-toward-copper/) — *pv magazine*, 2026-11-16T11:37:58Z
    Metals Focus sees silver holding a floor near $50 an ounce after its retreat from January's record $121.65, though it warns prices can still dip below that level. The Silver Institute and Metals Focus expect a sixth straight annual deficit in 2026, with demand beating supply by 35 million ounces, while solar makers speed a shift to copper to cut silver use.
-20. [Foreign Gold in New York Fed Hits 7-Decade Low](https://www.bullionvault.com/gold-news/opinion-analysis/gold-central-bank-locations-111720261) — *BullionVault*, 2026-11-17T11:14:00Z
+21. [Foreign Gold in New York Fed Hits 7-Decade Low](https://www.bullionvault.com/gold-news/opinion-analysis/gold-central-bank-locations-111720261) — *BullionVault*, 2026-11-17T11:14:00Z
    Foreign governments and central banks now hold the least gold at the New York Fed since 1957, BullionVault reports, as central banks spread custody risk away from the US; France sold its New York holdings and the Netherlands moved bars to London, while the share of central banks keeping any gold at the Fed fell to 14%.
-21. [Why Silver rates crashed from record high of ₹4 lakh per kg price to below ₹1.75 lakh? Experts explain 3 key reasons](https://www.livemint.com/market/commodities/why-silver-rates-crashed-from-record-high-of-rs-4-lakh-per-kg-price-to-below-rs-1-75-lakh-experts-explain-3-key-reasons-11794890469861.html) — *Mint*, 2026-11-17T05:33:17Z
-   Silver has plunged nearly 60% from its January record above ₹4 lakh per kg to below ₹1.75 lakh, Mint reports. MCX December silver traded around ₹1,70,065 per kg on Tuesday, up 1.3% from Monday's close, after COMEX silver hit a fresh 52-week low near $47.22 an ounce. Experts blame forced selling and margin calls, a roughly 5% fall in demand, further US rate hike expectations and a stronger dollar.
 22. [SEBI revises minimum margin norms for commodity derivatives](https://www.thehindubusinessline.com/markets/sebi-revises-minimum-margin-norms-for-commodity-derivatives/article71712951.ece) — *The Hindu BusinessLine*, 2026-11-17T15:47:30Z
    SEBI has revised minimum initial margins for commodity derivatives to 6% for low-volatility, 8% for medium and 10% for high-volatility contracts, applying uniformly to agricultural and non-agricultural commodities including bullion, with margin periods of risk of two to three days. The norms take effect on December 1, 2026 for one year.
 23. [RBI announces premature redemption rate for Sovereign Gold Bonds due November 18](https://www.devdiscourse.com/article/business/4008388-rbi-announces-premature-redemption-rate-for-sovereign-gold-bonds-due-november-18) — *Devdiscourse*, 2026-11-17T14:08:46Z
