@@ -1,33 +1,33 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-18T12:00Z",
-  "generated_at": "2026-11-18T12:38:49Z",
+  "edition_id": "2026-11-18T16:00Z",
+  "generated_at": "2026-11-18T16:22:05Z",
   "window": {
-    "from": "2026-11-18T11:00:00Z",
-    "to": "2026-11-18T12:00:00Z"
+    "from": "2026-11-18T14:00:00Z",
+    "to": "2026-11-18T16:00:00Z"
   },
   "insights": {
-    "headline": "MCX gold at one-year low as Fed hike bets build",
-    "summary": "Spot gold fell to $3,772 an ounce, its lowest in over a year, as a firm dollar and bets on further Fed rate hikes kept pressure on bullion; silver slid to $45.90. In India, MCX December gold stood at Rs 1,31,060 per 10 g and silver at Rs 1,63,533 per kg. Jewellery and gold-lending stocks fell up to 5% despite cheaper metal, while the World Gold Council said lower prices and the wedding season should support jewellery demand. UBS is holding its $5,000 gold call for 2027 despite the sell-off. The Fed's October meeting minutes, due at 00:30 IST Thursday, are the next test for rate-hike bets.",
+    "headline": "Gold and silver end the day near one-year lows as Fed hike bets lift the dollar",
+    "summary": "Spot gold stayed below $3,800, near $3,772 an ounce, as a firm dollar and bets on further Fed rate hikes kept pressure on bullion; silver slid towards $45.90. In India, MCX December gold stood near Rs 1,31,060 per 10 g and silver near Rs 1,63,533 per kg, with jewellery and gold-lending stocks falling up to 5%. Technical analysts warn silver could slide to $35, while India's gold imports tripled in October to $5.51 billion but stayed 63% below last year. The Fed's October meeting minutes, due at 00:30 IST Thursday, are the next test for rate-hike bets.",
     "points": [
-      "Spot gold fell to $3,772, its lowest in over a year; silver slid to $45.90 an ounce.",
-      "MCX December gold stood at Rs 1,31,060 per 10 g; silver at Rs 1,63,533 per kg.",
-      "The dollar held near a 19-month high at 103.66; markets price a 95.7% chance of a December Fed hike.",
-      "Titan fell 4.8% and Kalyan Jewellers 5.3% as jewellery stocks slid despite cheaper gold.",
-      "UBS still sees gold at $5,000 in 2027 despite the sell-off; Goldman Sachs sees $5,600 by end-2028."
+      "MCX gold and silver crashed to nearly a year's low, with December gold near Rs 1,31,060 per 10 g.",
+      "Spot gold stayed below $3,800 near $3,772 as Fed hike bets held the dollar near a 19-month high.",
+      "Technical analysts warn silver could slide to $35 an ounce, making 1 kg of silver cheaper than 10 gm of gold.",
+      "India's gold imports tripled in October to $5.51 billion but were 63% lower than a year earlier.",
+      "Central banks are rethinking gold reserves as geopolitical risks mount, an OMFIF report says."
     ],
     "brief": {
       "schema": "orob-brief.v1",
-      "brief_id": "2026-11-18-1334",
+      "brief_id": "2026-11-18-2152",
       "date": "2026-11-18",
-      "generated_at": "2026-11-18T08:04:54Z",
-      "slot": "midday",
-      "expires_at": "2026-11-18T13:00:00Z",
-      "headline": "MCX gold hits one-year low as Fed hike bets build",
-      "summary": "MCX gold fell to Rs 1,31,063 per 10 g, a one-year low, as Fed hike bets kept spot gold below $3,800.",
+      "generated_at": "2026-11-18T16:22:05Z",
+      "slot": "evening",
+      "expires_at": "2026-11-18T18:29:00Z",
+      "headline": "Gold near one-year low as Fed hike bets build",
+      "summary": "MCX gold near Rs 1.31 lakh per 10 g and silver near Rs 1.64 lakh per kg as Fed hike bets held spot gold below $3,800.",
       "bullets": [
         {
-          "text": "Fed officials signalled more rate hikes, lifting the dollar to a 19-month high and 10-year yields above 5%, Moneycontrol and Reuters report.",
+          "text": "A firmer dollar near a 19-month high and 10-year yields above 5% kept pressure on bullion, Reuters, Moneycontrol and Livemint report.",
           "item_ids": [
             "3398c8bb9491fc70",
             "57004e211a3999f1",
@@ -35,11 +35,10 @@
           ]
         },
         {
-          "text": "Jewellery stocks slid as buyers wait for cheaper prices, while Delhi silver crashed to a one-year low and buyers returned at lower levels.",
+          "text": "Delhi silver fell to a one-year low as buyers returned at lower levels, while October gold imports tripled to $5.51 billion.",
           "item_ids": [
-            "73a095917aca7abe",
-            "206ecd1475cd4688",
-            "30b0448b03029512"
+            "30b0448b03029512",
+            "8756e4dff143b22c"
           ]
         },
         {
@@ -54,13 +53,24 @@
   "trending": [
     {
       "title": "Gold breaks below $3,800",
-      "summary": "Spot gold fell to $3,772, its lowest in over a year, as the dollar held near a 19-month high and markets priced a near-certain December Fed hike.",
+      "summary": "Spot gold fell to $3,772, its lowest in over a year, as the dollar held near a 19-month high and Fed officials signalled more rate hikes.",
       "item_ids": [
         "d80861db62a1db94",
         "3398c8bb9491fc70",
         "1259c76ac36a68cf",
         "57004e211a3999f1",
-        "4f04453f72d2b9ef"
+        "b60afdaf218fe898"
+      ]
+    },
+    {
+      "title": "Silver's sharper fall",
+      "summary": "Silver slid towards $45.90 an ounce, its lowest in a year, and fell in Delhi too, even as buyers returned at lower prices — and analysts warn it could slide to $35.",
+      "item_ids": [
+        "d80861db62a1db94",
+        "1259c76ac36a68cf",
+        "30b0448b03029512",
+        "5a4e40214a790677",
+        "61a963e6ede025f7"
       ]
     },
     {
@@ -73,31 +83,19 @@
       ]
     },
     {
-      "title": "Silver's sharper fall",
-      "summary": "Silver slipped to $45.90 an ounce, its lowest in a year, and fell in Delhi too, even as buyers return to the metal at lower prices.",
+      "title": "October imports rebound — but stay far below last year",
+      "summary": "India's gold imports more than tripled in October to $5.51 billion, yet were 63% lower than a year earlier; the World Gold Council points to unofficial supplies and recycled gold.",
       "item_ids": [
-        "d80861db62a1db94",
-        "1259c76ac36a68cf",
-        "30b0448b03029512"
+        "8756e4dff143b22c"
       ]
     },
     {
-      "title": "Indian buyers trade down as gold stays costly",
-      "summary": "High prices push Indian buyers towards lighter, lower-carat jewellery, though festive spending rose; the World Gold Council says lower prices and the wedding season should support demand.",
+      "title": "Central-bank demand endures",
+      "summary": "Central banks are rethinking gold as geopolitical risks mount, an OMFIF report says, while China saw robust gold demand in October and Kitco sees gold reclaiming $5,600 by 2028.",
       "item_ids": [
-        "d4065fb23b6494b6",
-        "4d19b82d0f7fb9bd",
-        "e50d8c2d85033c5d",
-        "b60e5e0a4e88d66a"
-      ]
-    },
-    {
-      "title": "Fed minutes in focus",
-      "summary": "The minutes of the Fed's October meeting, due at 00:30 IST Thursday, are the next read on how far and how fast US rates may rise.",
-      "item_ids": [
-        "1259c76ac36a68cf",
-        "57004e211a3999f1",
-        "b60afdaf218fe898"
+        "880407ceba39dd32",
+        "1d166b01e9431e26",
+        "bd5b6edc37241a5a"
       ]
     }
   ],
@@ -158,33 +156,6 @@
       "rank": 2
     },
     {
-      "id": "4f04453f72d2b9ef",
-      "title": "Gold falls below $3,800 as Fed rate hike pressure mounts",
-      "summary": "Spot gold fell below $3,800 an ounce for the first time since September 2025, down as much as 1.9% in a third straight daily decline. St. Louis Fed President Alberto Musalem said the US economy would probably need several more rate increases before spring. Investors await the minutes of the Fed's October meeting, due later on Wednesday.",
-      "url": "https://miningmx.com/2026-11-18-gold-drops-below-3-800-on-fed-hike-signals/",
-      "source": "MiningMX",
-      "source_domain": "miningmx.com",
-      "publisher_id": "miningmx",
-      "published_at": "2026-11-18T09:27:19Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/4f04453f72d2b9ef.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "fed",
-        "global",
-        "comex"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "paywall": "no verdict (no isAccessibleForFree signal)",
-      "rank": 3
-    },
-    {
       "id": "1259c76ac36a68cf",
       "title": "Gold slides to over one-year low on firm dollar, US rate outlook",
       "summary": "Spot gold fell 1.4% to $3,796.37, its lowest since September 2025, as a firm dollar near a 19-month high and expectations of higher US rates weighed; silver slipped 2.9% to $46.01. Markets price a 95.7% chance of a December Fed hike, and await the minutes of the Fed's October meeting due at 1900 GMT.",
@@ -212,7 +183,77 @@
         "https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-over-one-year-low-ahead-of-fed-minutes/articleshow/135945512.cms",
         "https://www.livemint.com/market/gold-struggles-to-rebound-from-one-year-low-as-us-dollar-yields-advance-11794942964000.html"
       ],
+      "rank": 3
+    },
+    {
+      "id": "5a4e40214a790677",
+      "title": "Silver Bears Eye $35: At That Price, 1-Kg Silver May Cost Less Than 10 Gm Of Gold In India",
+      "summary": "Technical analysts warn silver could slide towards $35 an ounce; with gold near $3,765, that would lift the gold-silver ratio to its highest since 2020 and make 1 kg of silver cheaper than 10 gm of gold on MCX.",
+      "url": "https://www.ndtvprofit.com/markets/silver-bears-eye-35-at-that-price-1-kg-silver-may-cost-less-than-10-gm-of-gold-in-india-12344704",
+      "source": "NDTV Profit",
+      "source_domain": "ndtvprofit.com",
+      "publisher_id": "ndtv-profit",
+      "published_at": "2026-11-18T12:55:21Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "silver",
+        "gold",
+        "mcx"
+      ],
+      "category": "mcx",
+      "metals": [
+        "silver",
+        "gold"
+      ],
+      "breaking": false,
       "rank": 4
+    },
+    {
+      "id": "8756e4dff143b22c",
+      "title": "Gold Imports Triple In October To $5.51 Billion, But Remain Well Below Historical Levels",
+      "summary": "India's gold imports more than tripled in October to $5.51 billion from September, but were 63% lower than a year earlier; the World Gold Council attributes the gap to unofficial supplies and recycled gold despite healthy Dhanteras-Diwali demand.",
+      "url": "https://www.outlookmoney.com/invest/india-gold-imports-october-2026-festive-demand-unofficial-supplies",
+      "source": "Outlook Money",
+      "source_domain": "outlookmoney.com",
+      "publisher_id": "outlook-money",
+      "published_at": "2026-11-18T06:55:40Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/8756e4dff143b22c.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "india",
+        "mcx"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 5
+    },
+    {
+      "id": "880407ceba39dd32",
+      "title": "Central banks rethink gold as global risks mount",
+      "summary": "Central banks are increasingly weighing geopolitical uncertainty alongside traditional financial risks when managing gold reserves, according to a new OMFIF report, while tokenization and retail investors reshape how gold is held and traded.",
+      "url": "https://www.mining.com/central-banks-rethink-gold-as-global-risks-mount/",
+      "source": "MINING.COM",
+      "source_domain": "mining.com",
+      "publisher_id": "mining-com",
+      "published_at": "2026-11-18T15:30:20Z",
+      "image_url": "https://www.mining.com/wp-content/uploads/2026/11/china-central-bank.jpeg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "central-banks",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 6
     },
     {
       "id": "57004e211a3999f1",
@@ -237,7 +278,7 @@
         "fed"
       ],
       "breaking": false,
-      "rank": 5
+      "rank": 7
     },
     {
       "url": "https://www.livemint.com/market/us-10-year-yield-set-for-historic-run-above-5-on-fed-cycle-11794948232494.html",
@@ -261,7 +302,7 @@
       "image_kind": "none",
       "id": "b60afdaf218fe898",
       "breaking": false,
-      "rank": 6
+      "rank": 8
     },
     {
       "id": "67cd4133a671fe1c",
@@ -292,30 +333,7 @@
         "https://www.fxstreet.com/news/gold-recovers-its-retail-sales-drop-and-holds-above-mondays-low-202611171901",
         "https://www.kitco.com/news/article/2026-11-17/gold-price-drops-3848oz-after-september-retail-sales-rise-02-core-rises-06"
       ],
-      "rank": 7
-    },
-    {
-      "id": "b60e5e0a4e88d66a",
-      "title": "Gold price correction may support jewellery demand during India's wedding season: WGC",
-      "summary": "The World Gold Council says lower gold prices and the ongoing wedding season should support jewellery demand in India, though a sharp rise could temper buying. Festive demand stayed healthy through Dhanteras and Diwali, with demand in value terms up 15-25% year on year. International gold fell 6.3% in October to $3,913 an ounce, and domestic gold has corrected more than 15% over three months.",
-      "url": "https://www.devdiscourse.com/article/business/4008950-gold-price-correction-may-support-jewellery-demand-during-indias-wedding-season-wgc",
-      "source": "Devdiscourse",
-      "source_domain": "devdiscourse.com",
-      "publisher_id": "devdiscourse",
-      "published_at": "2026-11-18T09:27:17Z",
-      "image_url": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/18_11_2026_14_57_13_6615072.jpg&width=920&format=jpeg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "india",
-        "jewellery"
-      ],
-      "category": "festive",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "30b0448b03029512",
@@ -340,7 +358,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "61a963e6ede025f7",
@@ -367,7 +385,7 @@
       "related_urls": [
         "https://www.fxstreet.com/analysis/silver-is-paying-for-a-rate-rise-that-has-not-happened-yet-202611172037"
       ],
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "8edc7e37f67774ac",
@@ -390,7 +408,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 12
     },
     {
       "id": "206ecd1475cd4688",
@@ -416,7 +434,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 13
     },
     {
       "id": "73a095917aca7abe",
@@ -442,7 +460,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 13
+      "rank": 14
     },
     {
       "url": "https://www.thecore.in/business/jewellery-volumes-fall-spending-rises-buyers-trade-down-weight-purity-874215",
@@ -465,7 +483,53 @@
       "image_kind": "photo",
       "id": "d4065fb23b6494b6",
       "breaking": false,
-      "rank": 14
+      "rank": 15
+    },
+    {
+      "id": "b60e5e0a4e88d66a",
+      "title": "Gold price correction may support jewellery demand during India's wedding season: WGC",
+      "summary": "The World Gold Council says lower gold prices and the ongoing wedding season should support jewellery demand in India, though a sharp rise could temper buying. Festive demand stayed healthy through Dhanteras and Diwali, with demand in value terms up 15-25% year on year. International gold fell 6.3% in October to $3,913 an ounce, and domestic gold has corrected more than 15% over three months.",
+      "url": "https://www.devdiscourse.com/article/business/4008950-gold-price-correction-may-support-jewellery-demand-during-indias-wedding-season-wgc",
+      "source": "Devdiscourse",
+      "source_domain": "devdiscourse.com",
+      "publisher_id": "devdiscourse",
+      "published_at": "2026-11-18T09:27:17Z",
+      "image_url": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/18_11_2026_14_57_13_6615072.jpg&width=920&format=jpeg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
+      ],
+      "category": "festive",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 16
+    },
+    {
+      "id": "4d19b82d0f7fb9bd",
+      "title": "India gold market update: Gold demand gets festive boost",
+      "summary": "The World Gold Council says festive demand was healthy across regions in jewellery and bars and coins, helped by softer prices; Indian gold ETFs saw a fifth straight month of net inflows in October at Rs 35bn, imports rebounded to a six-month high, and domestic discounts narrowed to $5/oz by 12 November.",
+      "url": "https://www.gold.org/goldhub/gold-focus/2026/11/india-gold-market-update-gold-demand-gets-festive-boost",
+      "source": "World Gold Council",
+      "source_domain": "gold.org",
+      "publisher_id": "world-gold-council",
+      "published_at": "2026-11-17T08:54:09Z",
+      "image_url": "https://www.gold.org/sites/default/files/default_images/WGC-Social-1200x630.jpeg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
+      ],
+      "category": "festive",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 17
     },
     {
       "id": "bd5b6edc37241a5a",
@@ -493,7 +557,7 @@
         "https://www.mining.com/web/goldman-forecasts-gold-price-to-take-two-years-to-recapture-all-time-highs/",
         "https://www.etvbharat.com/en/business/gold-may-take-two-years-to-reclaim-record-high-etf-investments-continue-enn26111805457"
       ],
-      "rank": 15
+      "rank": 18
     },
     {
       "id": "a8a0dd67ed9629fa",
@@ -515,7 +579,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 16
+      "rank": 19
     },
     {
       "id": "1d166b01e9431e26",
@@ -538,59 +602,7 @@
         "global"
       ],
       "breaking": false,
-      "rank": 17
-    },
-    {
-      "id": "4d19b82d0f7fb9bd",
-      "title": "India gold market update: Gold demand gets festive boost",
-      "summary": "The World Gold Council says festive demand was healthy across regions in jewellery and bars and coins, helped by softer prices; Indian gold ETFs saw a fifth straight month of net inflows in October at Rs 35bn, imports rebounded to a six-month high, and domestic discounts narrowed to $5/oz by 12 November.",
-      "url": "https://www.gold.org/goldhub/gold-focus/2026/11/india-gold-market-update-gold-demand-gets-festive-boost",
-      "source": "World Gold Council",
-      "source_domain": "gold.org",
-      "publisher_id": "world-gold-council",
-      "published_at": "2026-11-17T08:54:09Z",
-      "image_url": "https://www.gold.org/sites/default/files/default_images/WGC-Social-1200x630.jpeg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "india",
-        "jewellery"
-      ],
-      "category": "festive",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 18
-    },
-    {
-      "title": "Senco Gold reports record ₹2,426 crore Dhanteras sales, up 26%; retail revenue rises 25%",
-      "url": "https://www.cnbctv18.com/market/stocks/senco-gold-share-price-reports-record-rs-2426-crore-dhanteras-sales-up-26-retail-revenue-rises-25-20035148.htm",
-      "source": "CNBC-TV18",
-      "source_domain": "cnbctv18.com",
-      "publisher_id": "cnbc-tv18",
-      "published_at": "2026-11-16T12:57:25Z",
-      "category": "festive",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "india",
-        "jewellery"
-      ],
-      "summary": "Senco Gold posted record festive-season retail sales of over ₹2,426 crore between 1 October and 11 November, up 26% on last year, despite volatile and elevated gold prices. Retail revenue rose 25%, and the jeweller crossed ₹10,000 crore in sales on a trailing 12-month basis. The company credited higher footfalls, new customers and its Dhanteras campaign.",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/e50d8c2d85033c5d.jpg",
-      "image_kind": "photo",
-      "breaking": false,
-      "id": "e50d8c2d85033c5d",
-      "related_urls": [
-        "https://www.business-standard.com/markets/news/senco-gold-shares-jump-8-on-record-festive-sales-of-2-426-crore-126111700328_1.html",
-        "https://www.business-standard.com/markets/news/senco-gold-shares-jump-8-on-record-festive-sales-of-2-426-crore-126111700328_1.html"
-      ],
-      "rank": 19
+      "rank": 20
     },
     {
       "id": "fe96a20b414b6d7f",
@@ -613,29 +625,6 @@
         "silver",
         "india",
         "jewellery"
-      ],
-      "breaking": false,
-      "rank": 20
-    },
-    {
-      "id": "6ed09807d4975359",
-      "title": "Foreign Gold in New York Fed Hits 7-Decade Low",
-      "summary": "Foreign governments and central banks now hold the least gold at the New York Fed since 1957, BullionVault reports, as central banks spread custody risk away from the US; France sold its New York holdings and the Netherlands moved bars to London, while the share of central banks keeping any gold at the Fed fell to 14%.",
-      "url": "https://www.bullionvault.com/gold-news/opinion-analysis/gold-central-bank-locations-111720261",
-      "source": "BullionVault",
-      "source_domain": "bullionvault.com",
-      "publisher_id": "bullionvault",
-      "published_at": "2026-11-17T11:14:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/6ed09807d4975359.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "global",
-        "central-banks"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
       ],
       "breaking": false,
       "rank": 21
@@ -686,29 +675,6 @@
       ],
       "breaking": false,
       "rank": 23
-    },
-    {
-      "id": "669996602c78c6bb",
-      "title": "Gold hallmarking: CAG flags inspection gaps at jewellery shops; experts share 5 checks buyers should know",
-      "summary": "A draft CAG audit has flagged weak oversight of hallmarked gold jewellery, finding BIS inspected only 5,444 of 28,865 licensed jewellers in 2024-25, with over 81% going unchecked over five years, and missing 43.7% of its surveillance target for hallmarking centres; the findings raise questions over purity assurance for buyers, and the report is expected to be tabled in Parliament.",
-      "url": "https://www.7globe.in/gold-hallmarking-cag-flags-inspection-gaps-at-jewellery-shops-experts-share-5-checks-buyers-should-know/",
-      "source": "7Globe",
-      "source_domain": "7globe.in",
-      "publisher_id": "7globe",
-      "published_at": "2026-11-16T16:34:51Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "policy",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "india",
-        "jewellery"
-      ],
-      "breaking": false,
-      "rank": 24
     }
   ]
 }
