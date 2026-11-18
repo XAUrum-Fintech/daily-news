@@ -1,20 +1,20 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-18T16:00Z",
-  "generated_at": "2026-11-18T16:22:05Z",
+  "edition_id": "2026-11-18T18:00Z",
+  "generated_at": "2026-11-18T18:10:19Z",
   "window": {
-    "from": "2026-11-18T14:00:00Z",
-    "to": "2026-11-18T16:00:00Z"
+    "from": "2026-11-18T16:00:00Z",
+    "to": "2026-11-18T18:00:00Z"
   },
   "insights": {
-    "headline": "Gold and silver end the day near one-year lows as Fed hike bets lift the dollar",
-    "summary": "Spot gold stayed below $3,800, near $3,772 an ounce, as a firm dollar and bets on further Fed rate hikes kept pressure on bullion; silver slid towards $45.90. In India, MCX December gold stood near Rs 1,31,060 per 10 g and silver near Rs 1,63,533 per kg, with jewellery and gold-lending stocks falling up to 5%. Technical analysts warn silver could slide to $35, while India's gold imports tripled in October to $5.51 billion but stayed 63% below last year. The Fed's October meeting minutes, due at 00:30 IST Thursday, are the next test for rate-hike bets.",
+    "headline": "Gold sinks to $3,744 and silver nears $45 as Waller backs a bigger Fed hike",
+    "summary": "Spot gold fell towards $3,744 an ounce, its lowest since September 2025, and silver neared $45 as Fed Governor Christopher Waller suggested a 50-basis-point December hike, gold's worst weekly stretch since 1989. In India, MCX December gold stood near Rs 1,31,060 per 10 g and silver near Rs 1,63,533 per kg, while India's gold import bill could fall to $35-40 billion in FY27 from nearly $72 billion. The gold-silver ratio hit a one-year high near 82.6 as silver fell harder, and traders await the Fed's October meeting minutes, due at 00:30 IST Thursday.",
     "points": [
-      "MCX gold and silver crashed to nearly a year's low, with December gold near Rs 1,31,060 per 10 g.",
-      "Spot gold stayed below $3,800 near $3,772 as Fed hike bets held the dollar near a 19-month high.",
-      "Technical analysts warn silver could slide to $35 an ounce, making 1 kg of silver cheaper than 10 gm of gold.",
-      "India's gold imports tripled in October to $5.51 billion but were 63% lower than a year earlier.",
-      "Central banks are rethinking gold reserves as geopolitical risks mount, an OMFIF report says."
+      "Fed Governor Christopher Waller suggested a 50-basis-point December hike, sending gold towards $3,744.",
+      "Silver fell harder, near $45.68, pushing the gold-silver ratio to a one-year high of 82.6.",
+      "MCX December gold stood near Rs 1,31,060 per 10 g and silver near Rs 1,63,533 per kg, both near one-year lows.",
+      "India's gold import bill could fall to $35-40 billion in FY27 from nearly $72 billion, with April-October imports down 40%.",
+      "The Fed's October meeting minutes, due 00:30 IST Thursday, are the next test for rate-hike bets."
     ],
     "brief": {
       "schema": "orob-brief.v1",
@@ -53,8 +53,9 @@
   "trending": [
     {
       "title": "Gold breaks below $3,800",
-      "summary": "Spot gold fell to $3,772, its lowest in over a year, as the dollar held near a 19-month high and Fed officials signalled more rate hikes.",
+      "summary": "Spot gold fell to about $3,744, its lowest since September 2025, after Fed Governor Waller backed a 50-basis-point December hike; BullionVault calls it gold's worst weekly run since 1989.",
       "item_ids": [
+        "8aeeb87110a8e619",
         "d80861db62a1db94",
         "3398c8bb9491fc70",
         "1259c76ac36a68cf",
@@ -64,8 +65,11 @@
     },
     {
       "title": "Silver's sharper fall",
-      "summary": "Silver slid towards $45.90 an ounce, its lowest in a year, and fell in Delhi too, even as buyers returned at lower prices — and analysts warn it could slide to $35.",
+      "summary": "Silver slid towards $45.68, down nearly 12% in five sessions, and the gold-silver ratio hit a one-year high of 82.6; analysts warn it could slide to $35.",
       "item_ids": [
+        "8aeeb87110a8e619",
+        "f2f1235376905686",
+        "126c83631662ea8c",
         "d80861db62a1db94",
         "1259c76ac36a68cf",
         "30b0448b03029512",
@@ -84,9 +88,10 @@
     },
     {
       "title": "October imports rebound — but stay far below last year",
-      "summary": "India's gold imports more than tripled in October to $5.51 billion, yet were 63% lower than a year earlier; the World Gold Council points to unofficial supplies and recycled gold.",
+      "summary": "India's gold imports tripled in October to $5.51 billion, yet April-October imports were down 40% at $24.78 billion and the full-year bill could fall to $35-40 billion.",
       "item_ids": [
-        "8756e4dff143b22c"
+        "8756e4dff143b22c",
+        "b2935299b5091f31"
       ]
     },
     {
@@ -100,6 +105,32 @@
     }
   ],
   "items": [
+    {
+      "id": "8aeeb87110a8e619",
+      "title": "Gold and silver 'can't find a floor' as Waller calls for Fed rate hike",
+      "summary": "Gold fell towards $3,744, as much as 3.6% below last Friday's finish, and silver dropped near $45 an ounce after Fed Governor Christopher Waller suggested a 50-basis-point rate hike in December. Silver fixed around $45.90 at London's midday auction, and BullionVault called it gold's worst stretch of weekly losses since 1989, with January hike odds in Fed futures already above 70%.",
+      "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-floor-fed-rates-111820261",
+      "source": "BullionVault",
+      "source_domain": "bullionvault.com",
+      "publisher_id": "bullionvault",
+      "published_at": "2026-11-18T15:50:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/8aeeb87110a8e619.jpg",
+      "image_kind": "photo",
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "fed",
+        "global"
+      ],
+      "breaking": false,
+      "paywall": "no-verdict (no isAccessibleForFree signal)",
+      "rank": 1
+    },
     {
       "breaking": false,
       "category": "mcx",
@@ -125,7 +156,7 @@
       ],
       "title": "Gold, silver prices in Indian markets crash to nearly a year's low",
       "url": "https://www.thehindubusinessline.com/markets/gold/gold-silver-prices-in-indian-markets-crash-to-nearly-a-years-low/article71714989.ece",
-      "rank": 1
+      "rank": 2
     },
     {
       "id": "3398c8bb9491fc70",
@@ -153,7 +184,7 @@
       "related_urls": [
         "https://www.reuters.com/world/india/gold-slides-over-one-year-low-firm-dollar-us-rate-outlook-2026-11-18/"
       ],
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "1259c76ac36a68cf",
@@ -181,9 +212,86 @@
       "breaking": false,
       "related_urls": [
         "https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-over-one-year-low-ahead-of-fed-minutes/articleshow/135945512.cms",
-        "https://www.livemint.com/market/gold-struggles-to-rebound-from-one-year-low-as-us-dollar-yields-advance-11794942964000.html"
+        "https://www.livemint.com/market/gold-struggles-to-rebound-from-one-year-low-as-us-dollar-yields-advance-11794942964000.html",
+        "https://www.fxstreet.com/news/gold-tumbles-to-its-lowest-in-over-a-year-as-fed-rate-hike-bets-build-202611181109",
+        "https://finance.yahoo.com/markets/commodities/articles/gold-14-month-low-traders-164318443.html"
       ],
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "id": "b2935299b5091f31",
+      "title": "$32 Billion Squeeze: Why India's Massive Gold Import Bill Is Shrinking Fast",
+      "summary": "India's gold import bill could fall to $35-40 billion in FY27 from nearly $72 billion in FY26, NDTV Profit reports, with gold imports down about 40% to $24.78 billion in April-October. Commerce Secretary Rajesh Agrawal attributed the fall to the higher customs duty introduced in May, which made overseas purchases more expensive.",
+      "url": "https://www.ndtvprofit.com/economy/32-billion-squeeze-why-india-s-massive-gold-import-bill-is-shrinking-fast-12346067",
+      "source": "NDTV Profit",
+      "source_domain": "ndtvprofit.com",
+      "publisher_id": "ndtv-profit",
+      "published_at": "2026-11-18T17:39:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "india",
+        "mcx",
+        "import-duty"
+      ],
+      "breaking": false,
+      "paywall": "no-verdict (host blocks fetch, 403)",
+      "rank": 5
+    },
+    {
+      "id": "f2f1235376905686",
+      "title": "Gold, silver divide widens: Why SLV looks riskier than GLD as Fed rate fears mount",
+      "summary": "The gold-silver ratio climbed to a one-year high of 82.6 as silver fell harder than gold, Benzinga reports: December gold futures fell 2.34% to $3,773.80 an ounce while silver futures dropped 2.45% to $45.68. Gold ETF GLD fell 2.4% and silver ETF SLV slid 4.4% on Wednesday morning, both touching their lowest since September 2025, with markets pricing a 96.4% chance of a December Fed hike.",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/11/63394802/gold-silver-divide-widens-why-slv-looks-riskier-than-gld-as-fed-rate-fears-mount",
+      "source": "Benzinga",
+      "source_domain": "benzinga.com",
+      "publisher_id": "benzinga",
+      "published_at": "2026-11-18T16:06:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "fed",
+        "global"
+      ],
+      "breaking": false,
+      "paywall": "no-verdict (host blocks fetch, 403)",
+      "rank": 6
+    },
+    {
+      "id": "126c83631662ea8c",
+      "title": "Silver analysis: XAG/USD continues to set new lows for the year",
+      "summary": "Silver has fallen nearly 12% over the last five trading sessions, FOREX.com notes, with US 10-year Treasury yields holding above 5.0%. Traders are watching $45 as critical support, lows not seen since October 2025, with $49 as a nearby barrier and $54 as resistance.",
+      "url": "https://www.forex.com/ie/news-and-analysis/silver-analysis-xag-usd-continues-to-set-new-lows-for-the-year/",
+      "source": "FOREX.com",
+      "source_domain": "forex.com",
+      "publisher_id": "forex",
+      "published_at": "2026-11-18T16:21:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "tags": [
+        "silver",
+        "fed",
+        "global"
+      ],
+      "breaking": false,
+      "paywall": "no-verdict (host unreachable)",
+      "rank": 7
     },
     {
       "id": "5a4e40214a790677",
@@ -207,7 +315,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 4
+      "rank": 8
     },
     {
       "id": "8756e4dff143b22c",
@@ -230,7 +338,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 5
+      "rank": 9
     },
     {
       "id": "880407ceba39dd32",
@@ -253,7 +361,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 10
     },
     {
       "id": "57004e211a3999f1",
@@ -278,7 +386,7 @@
         "fed"
       ],
       "breaking": false,
-      "rank": 7
+      "rank": 11
     },
     {
       "url": "https://www.livemint.com/market/us-10-year-yield-set-for-historic-run-above-5-on-fed-cycle-11794948232494.html",
@@ -302,7 +410,7 @@
       "image_kind": "none",
       "id": "b60afdaf218fe898",
       "breaking": false,
-      "rank": 8
+      "rank": 12
     },
     {
       "id": "67cd4133a671fe1c",
@@ -333,7 +441,7 @@
         "https://www.fxstreet.com/news/gold-recovers-its-retail-sales-drop-and-holds-above-mondays-low-202611171901",
         "https://www.kitco.com/news/article/2026-11-17/gold-price-drops-3848oz-after-september-retail-sales-rise-02-core-rises-06"
       ],
-      "rank": 9
+      "rank": 13
     },
     {
       "id": "30b0448b03029512",
@@ -358,7 +466,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 14
     },
     {
       "id": "61a963e6ede025f7",
@@ -385,7 +493,7 @@
       "related_urls": [
         "https://www.fxstreet.com/analysis/silver-is-paying-for-a-rate-rise-that-has-not-happened-yet-202611172037"
       ],
-      "rank": 11
+      "rank": 15
     },
     {
       "id": "8edc7e37f67774ac",
@@ -408,7 +516,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 16
     },
     {
       "id": "206ecd1475cd4688",
@@ -434,7 +542,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 13
+      "rank": 17
     },
     {
       "id": "73a095917aca7abe",
@@ -460,7 +568,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 14
+      "rank": 18
     },
     {
       "url": "https://www.thecore.in/business/jewellery-volumes-fall-spending-rises-buyers-trade-down-weight-purity-874215",
@@ -483,7 +591,7 @@
       "image_kind": "photo",
       "id": "d4065fb23b6494b6",
       "breaking": false,
-      "rank": 15
+      "rank": 19
     },
     {
       "id": "b60e5e0a4e88d66a",
@@ -506,7 +614,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 16
+      "rank": 20
     },
     {
       "id": "4d19b82d0f7fb9bd",
@@ -529,7 +637,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 17
+      "rank": 21
     },
     {
       "id": "bd5b6edc37241a5a",
@@ -557,7 +665,7 @@
         "https://www.mining.com/web/goldman-forecasts-gold-price-to-take-two-years-to-recapture-all-time-highs/",
         "https://www.etvbharat.com/en/business/gold-may-take-two-years-to-reclaim-record-high-etf-investments-continue-enn26111805457"
       ],
-      "rank": 18
+      "rank": 22
     },
     {
       "id": "a8a0dd67ed9629fa",
@@ -579,7 +687,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 19
+      "rank": 23
     },
     {
       "id": "1d166b01e9431e26",
@@ -602,7 +710,7 @@
         "global"
       ],
       "breaking": false,
-      "rank": 20
+      "rank": 24
     },
     {
       "id": "fe96a20b414b6d7f",
@@ -627,7 +735,7 @@
         "jewellery"
       ],
       "breaking": false,
-      "rank": 21
+      "rank": 25
     },
     {
       "id": "5e68b6e2d472fd7e",
@@ -651,7 +759,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 22
+      "rank": 26
     },
     {
       "id": "c62e7b1a525d6422",
@@ -674,7 +782,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 23
+      "rank": 27
     }
   ]
 }
