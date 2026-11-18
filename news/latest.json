@@ -1,42 +1,44 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-18T20:00Z",
-  "generated_at": "2026-11-18T20:08:34Z",
+  "edition_id": "2026-11-18T22:00Z",
+  "generated_at": "2026-11-18T22:05:49Z",
   "window": {
-    "from": "2026-11-18T18:00:00Z",
-    "to": "2026-11-18T20:00:00Z"
+    "from": "2026-11-18T20:00:00Z",
+    "to": "2026-11-18T22:00:00Z"
   },
   "insights": {
-    "headline": "Fed minutes back more hikes as gold holds near one-year low",
-    "summary": "Fed minutes showed almost all officials saw more rate hikes ahead, with a couple open to a half-point December move; spot gold stayed near $3,744 an ounce and silver near $45, while MCX gold held near Rs 1,31,060 per 10 g and silver near Rs 1,63,533 per kg. The December 8-9 Fed meeting is the next test.",
+    "headline": "Fed minutes keep hike bets alive as gold slides below $3,800",
+    "summary": "Fed minutes showed the central bank firmly committed to cooling inflation, keeping December hike bets alive; spot gold fell more than 3% to about $3,720 an ounce, below $3,800, while silver slid towards $45. In India, gold opened at Rs 1,31,505 per 10 g and silver at Rs 1,64,506 per kg, both near one-year lows. The December 8-9 Fed meeting is the next test.",
     "points": [
-      "Fed minutes: almost all officials agreed further rate hikes would likely be needed; a couple raised a possible half-point December move.",
-      "Spot gold stayed near $3,744 an ounce, its lowest since September 2025, with silver near $45 an ounce.",
-      "MCX December gold stood near Rs 1,31,060 per 10 g and silver near Rs 1,63,533 per kg, both near one-year lows.",
-      "India's gold import bill could fall to $35-40 billion in FY27 from nearly $72 billion, with April-October imports down 40%.",
-      "The Fed's December 8-9 meeting is the next test for rate-hike bets; markets price a quarter-point hike as near-certain."
+      "Fed minutes: the central bank stays firmly committed to cooling inflation, with most officials seeing upside risks to prices.",
+      "Spot gold fell more than 3% to about $3,720 an ounce, dropping below $3,800 support.",
+      "Silver slid towards $45 an ounce, with the gold-silver ratio at a one-year high of 82.6.",
+      "MCX gold opened at Rs 1,31,505 per 10 g and silver at Rs 1,64,506 per kg, both near one-year lows.",
+      "India's gold import bill could fall to $35-40 billion in FY27 from nearly $72 billion, with April-October imports down 40%."
     ],
     "brief": null
   },
   "trending": [
     {
       "title": "Fed minutes point to more hikes",
-      "summary": "Minutes of the Fed's October meeting showed almost all officials saw more hikes ahead, with a couple open to a half-point December move; gold stayed near one-year lows.",
+      "summary": "Minutes of the Fed's October meeting showed the central bank firmly committed to cooling inflation, with most officials seeing upside risks to prices; gold fell below $3,800 support.",
       "item_ids": [
-        "a91f3ec94172086e",
+        "5a421ac027c34198",
         "8aeeb87110a8e619",
         "3398c8bb9491fc70"
       ]
     },
     {
       "title": "Gold breaks below $3,800",
-      "summary": "Spot gold fell to about $3,744, its lowest since September 2025, after Fed Governor Waller backed a 50-basis-point December hike; BullionVault calls it gold's worst weekly run since 1989.",
+      "summary": "Spot gold fell more than 3% to about $3,720, its lowest since September 2025, after Fed minutes showed the central bank committed to cooling inflation.",
       "item_ids": [
+        "5a421ac027c34198",
         "8aeeb87110a8e619",
         "d80861db62a1db94",
         "3398c8bb9491fc70",
         "1259c76ac36a68cf",
-        "b60afdaf218fe898"
+        "b60afdaf218fe898",
+        "ea1330fd82bd5753"
       ]
     },
     {
@@ -73,60 +75,31 @@
   ],
   "items": [
     {
-      "id": "a91f3ec94172086e",
-      "title": "Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike",
-      "summary": "Minutes of the Fed's October 27-28 meeting showed almost all officials agreed further rate hikes would likely be needed, while a couple said a half-point increase might be needed if inflation data stayed unfavourable. Only Lisa Cook and Beth Hammack dissented for a quarter-point hike. The minutes set up a December 8-9 debate over a larger hike or tougher language on tightening.",
-      "url": "https://www.reuters.com/business/fed-policymakers-focused-inflation-risks-october-with-some-seeing-need-bigger-2026-11-18/",
-      "source": "Reuters",
-      "source_domain": "reuters.com",
-      "publisher_id": "reuters",
-      "published_at": "2026-11-18T19:10:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "fed",
-        "global"
-      ],
-      "breaking": false,
-      "paywall": "no-verdict (host blocks fetch, 401)",
-      "related_urls": [
-        "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-policymakers-focused-on-inflation-risks-in-october-with-some-seeing-need-for-bigger-rate-hike/articleshow/135970652.cms",
-        "https://www.xtb.com/int/market-analysis/news-and-research/fed-minutes-virtually-everyone-in-favor-of-further-rate-hikes-is-there-a-chance-for-50-basis-points-in-december"
-      ],
-      "rank": 1
-    },
-    {
-      "id": "8aeeb87110a8e619",
-      "title": "Gold and silver 'can't find a floor' as Waller calls for Fed rate hike",
-      "summary": "Gold fell towards $3,744, as much as 3.6% below last Friday's finish, and silver dropped near $45 an ounce after Fed Governor Christopher Waller suggested a 50-basis-point rate hike in December. Silver fixed around $45.90 at London's midday auction, and BullionVault called it gold's worst stretch of weekly losses since 1989, with January hike odds in Fed futures already above 70%.",
-      "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-floor-fed-rates-111820261",
-      "source": "BullionVault",
-      "source_domain": "bullionvault.com",
-      "publisher_id": "bullionvault",
-      "published_at": "2026-11-18T15:50:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/8aeeb87110a8e619.jpg",
+      "id": "5a421ac027c34198",
+      "title": "Gold prices remain under pressure as Fed minutes show central bank committed to cooling inflation",
+      "summary": "Gold fell to session lows after the Federal Reserve's October meeting minutes showed the central bank firmly committed to raising rates to bring inflation to 2%; spot gold dropped below $3,800 support and last traded at $3,720.20 an ounce, down more than 3% on the day. Most officials saw inflation staying elevated near-term, keeping December hike bets alive.",
+      "url": "https://www.kitco.com/news/article/2026-11-18/gold-prices-remain-under-pressure-fed-minutes-show-central-bank-committed",
+      "source": "Kitco",
+      "source_domain": "kitco.com",
+      "publisher_id": "kitco",
+      "published_at": "2026-11-18T19:43:05Z",
+      "image_url": "https://images.kitco.com/img/extract_0_51_1000_563,width_1200,enlarge,format_jpeg/icms/01204ca0-fbe3-4463-a3c7-924357e708f0.jpeg",
       "image_kind": "photo",
       "category": "global",
       "metals": [
-        "gold",
-        "silver"
+        "gold"
       ],
       "tags": [
         "gold",
-        "silver",
         "fed",
         "global"
       ],
       "breaking": false,
-      "paywall": "no-verdict (no isAccessibleForFree signal)",
-      "rank": 2
+      "related_urls": [
+        "https://www.reuters.com/business/fed-policymakers-focused-inflation-risks-october-with-some-seeing-need-bigger-2026-11-18/",
+        "https://www.investing.com/analysis/gold-breaks-3800-as-rate-hike-bets-overwhelm-safehaven-demand-200691870"
+      ],
+      "rank": 1
     },
     {
       "breaking": false,
@@ -153,6 +126,32 @@
       ],
       "title": "Gold, silver prices in Indian markets crash to nearly a year's low",
       "url": "https://www.thehindubusinessline.com/markets/gold/gold-silver-prices-in-indian-markets-crash-to-nearly-a-years-low/article71714989.ece",
+      "rank": 2
+    },
+    {
+      "id": "8aeeb87110a8e619",
+      "title": "Gold and silver 'can't find a floor' as Waller calls for Fed rate hike",
+      "summary": "Gold fell towards $3,744, as much as 3.6% below last Friday's finish, and silver dropped near $45 an ounce after Fed Governor Christopher Waller suggested a 50-basis-point rate hike in December. Silver fixed around $45.90 at London's midday auction, and BullionVault called it gold's worst stretch of weekly losses since 1989, with January hike odds in Fed futures already above 70%.",
+      "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-floor-fed-rates-111820261",
+      "source": "BullionVault",
+      "source_domain": "bullionvault.com",
+      "publisher_id": "bullionvault",
+      "published_at": "2026-11-18T15:50:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/8aeeb87110a8e619.jpg",
+      "image_kind": "photo",
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "fed",
+        "global"
+      ],
+      "breaking": false,
+      "paywall": "no-verdict (no isAccessibleForFree signal)",
       "rank": 3
     },
     {
@@ -241,6 +240,30 @@
       "rank": 6
     },
     {
+      "id": "ea1330fd82bd5753",
+      "title": "Gold and silver weather a perfect storm as demand holds firm",
+      "summary": "Gold fell 6.8% in October to $3,874.62 an ounce, a 52-week low, and silver slid 18.7%, but the drop looked like a positioning and liquidity reset rather than weakening demand, Sprott says: gold ETF holdings rose to 100.97 million ounces and silver ETF holdings also recovered, while Chinese physical buying absorbed Western selling.",
+      "url": "https://sprott.com/insights/gold-and-silver-weather-a-perfect-storm-as-demand-holds-firm/",
+      "source": "Sprott",
+      "source_domain": "sprott.com",
+      "publisher_id": "sprott",
+      "published_at": "2026-11-18T18:22:49Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "global"
+      ],
+      "breaking": false,
+      "rank": 7
+    },
+    {
       "id": "f2f1235376905686",
       "title": "Gold, silver divide widens: Why SLV looks riskier than GLD as Fed rate fears mount",
       "summary": "The gold-silver ratio climbed to a one-year high of 82.6 as silver fell harder than gold, Benzinga reports: December gold futures fell 2.34% to $3,773.80 an ounce while silver futures dropped 2.45% to $45.68. Gold ETF GLD fell 2.4% and silver ETF SLV slid 4.4% on Wednesday morning, both touching their lowest since September 2025, with markets pricing a 96.4% chance of a December Fed hike.",
@@ -264,7 +287,7 @@
       ],
       "breaking": false,
       "paywall": "no-verdict (host blocks fetch, 403)",
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "126c83631662ea8c",
@@ -288,7 +311,7 @@
       ],
       "breaking": false,
       "paywall": "no-verdict (host unreachable)",
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "5a4e40214a790677",
@@ -312,7 +335,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "8756e4dff143b22c",
@@ -335,7 +358,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "880407ceba39dd32",
@@ -358,7 +381,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 12
     },
     {
       "url": "https://www.livemint.com/market/us-10-year-yield-set-for-historic-run-above-5-on-fed-cycle-11794948232494.html",
@@ -382,7 +405,7 @@
       "image_kind": "none",
       "id": "b60afdaf218fe898",
       "breaking": false,
-      "rank": 12
+      "rank": 13
     },
     {
       "id": "67cd4133a671fe1c",
@@ -413,7 +436,7 @@
         "https://www.fxstreet.com/news/gold-recovers-its-retail-sales-drop-and-holds-above-mondays-low-202611171901",
         "https://www.kitco.com/news/article/2026-11-17/gold-price-drops-3848oz-after-september-retail-sales-rise-02-core-rises-06"
       ],
-      "rank": 13
+      "rank": 14
     },
     {
       "id": "30b0448b03029512",
@@ -438,7 +461,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 15
     },
     {
       "id": "61a963e6ede025f7",
@@ -465,7 +488,7 @@
       "related_urls": [
         "https://www.fxstreet.com/analysis/silver-is-paying-for-a-rate-rise-that-has-not-happened-yet-202611172037"
       ],
-      "rank": 15
+      "rank": 16
     },
     {
       "id": "8edc7e37f67774ac",
@@ -488,7 +511,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 16
+      "rank": 17
     },
     {
       "id": "206ecd1475cd4688",
@@ -514,7 +537,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 17
+      "rank": 18
     },
     {
       "id": "73a095917aca7abe",
@@ -540,7 +563,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 18
+      "rank": 19
     },
     {
       "url": "https://www.thecore.in/business/jewellery-volumes-fall-spending-rises-buyers-trade-down-weight-purity-874215",
@@ -563,7 +586,7 @@
       "image_kind": "photo",
       "id": "d4065fb23b6494b6",
       "breaking": false,
-      "rank": 19
+      "rank": 20
     },
     {
       "id": "b60e5e0a4e88d66a",
@@ -586,7 +609,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 20
+      "rank": 21
     },
     {
       "id": "4d19b82d0f7fb9bd",
@@ -609,34 +632,6 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 21
-    },
-    {
-      "id": "bd5b6edc37241a5a",
-      "title": "Gold will reclaim $5,600/oz in 2028 as rate cuts bring Western investors back to precious metals – Goldman Sachs",
-      "summary": "Goldman Sachs expects gold to reclaim its record above $5,600 an ounce by the end of 2028 once the Federal Reserve starts cutting rates and Western investors return. The bank sees gold at $4,650 by the end of 2027, with central banks buying about 60 tonnes a month, but warns of more volatility while the Fed keeps raising rates.",
-      "url": "https://www.kitco.com/news/article/2026-11-17/gold-will-reclaim-5600oz-2028-rate-cuts-bring-western-investors-back",
-      "source": "Kitco",
-      "source_domain": "kitco.com",
-      "publisher_id": "kitco",
-      "published_at": "2026-11-17T16:22:43Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/bd5b6edc37241a5a.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "central-banks",
-        "fed",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://www.mining.com/web/goldman-forecasts-gold-price-to-take-two-years-to-recapture-all-time-highs/",
-        "https://www.etvbharat.com/en/business/gold-may-take-two-years-to-reclaim-record-high-etf-investments-continue-enn26111805457"
-      ],
       "rank": 22
     },
     {
