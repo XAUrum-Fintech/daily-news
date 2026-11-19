@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-19T00:00Z",
-  "generated_at": "2026-11-19T00:16:27Z",
+  "edition_id": "2026-11-19T02:00Z",
+  "generated_at": "2026-11-19T02:12:24Z",
   "window": {
-    "from": "2026-11-18T22:00:00Z",
-    "to": "2026-11-19T00:00:00Z"
+    "from": "2026-11-19T00:00:00Z",
+    "to": "2026-11-19T02:00:00Z"
   },
   "insights": {
     "headline": "Gold sinks to 14-month low as Fed minutes point to more hikes",
@@ -16,7 +16,38 @@
       "India's gold import bill could fall to $35–40 billion in FY27 from nearly $72 billion, with imports down about 40% in April–October.",
       "Markets price a 7.3% chance of a half-point Fed hike in December, up from 5.3% before the minutes were released."
     ],
-    "brief": null
+    "brief": {
+      "schema": "orob-brief.v1",
+      "brief_id": "2026-11-19-0742",
+      "date": "2026-11-19",
+      "generated_at": "2026-11-19T02:12:24Z",
+      "slot": "morning",
+      "expires_at": "2026-11-19T08:00:00Z",
+      "headline": "Gold at 14-month low after hawkish Fed minutes",
+      "summary": "Spot gold fell 3.2% to $3,726 and MCX gold opened near Rs 1.31 lakh per 10 g as Fed minutes pointed to more rate hikes.",
+      "bullets": [
+        {
+          "text": "Fed minutes showed almost all officials saw more hikes ahead, and Governor Waller raised a possible half-point December move.",
+          "item_ids": [
+            "3f143c808fae59b4",
+            "73319887df16953c"
+          ]
+        },
+        {
+          "text": "The rupee stayed at 93.44 per dollar as FII inflows offset importer demand, while MCX gold tracked the global slide.",
+          "item_ids": [
+            "6430eb25df66c573",
+            "d80861db62a1db94"
+          ]
+        },
+        {
+          "text": "Next on the calendar: the Fed's December 8-9 meeting, with markets pricing about a 95% chance of a hike.",
+          "item_ids": [
+            "73319887df16953c"
+          ]
+        }
+      ]
+    }
   },
   "trending": [
     {
@@ -24,7 +55,7 @@
       "summary": "Gold fell 3.2% to $3,726 and silver 5% to $45.03 as the Fed's October minutes and Waller's half-point hint lifted the dollar to a 19-month high and pushed yields up.",
       "item_ids": [
         "3f143c808fae59b4",
-        "5a421ac027c34198",
+        "73319887df16953c",
         "8aeeb87110a8e619",
         "3398c8bb9491fc70",
         "1259c76ac36a68cf"
@@ -96,31 +127,34 @@
       "rank": 1
     },
     {
-      "id": "5a421ac027c34198",
-      "title": "Gold prices remain under pressure as Fed minutes show central bank committed to cooling inflation",
-      "summary": "Gold fell to session lows after the Federal Reserve's October meeting minutes showed the central bank firmly committed to raising rates to bring inflation to 2%; spot gold dropped below $3,800 support and last traded at $3,720.20 an ounce, down more than 3% on the day. Most officials saw inflation staying elevated near-term, keeping December hike bets alive.",
-      "url": "https://www.kitco.com/news/article/2026-11-18/gold-prices-remain-under-pressure-fed-minutes-show-central-bank-committed",
+      "id": "73319887df16953c",
+      "rank": 2,
+      "title": "Gold plunges below $3,750, silver tumbles as hawkish Fed minutes pressure metals",
+      "summary": "Spot gold fell 3.3% to $3,722.60 an ounce, its lowest since September 2025, and silver slid 5% to $44.93 after the Fed's October minutes reinforced expectations of more rate hikes. Governor Waller raised a possible half-point December move, the dollar held near a 19-month high and the 10-year yield stayed above 5%, while US housing data pointed to weakness.",
+      "url": "https://www.kitco.com/news/article/2026-11-18/gold-plunges-below-3750-silver-tumbles-hawkish-fed-minutes-pressure-metals",
       "source": "Kitco",
       "source_domain": "kitco.com",
       "publisher_id": "kitco",
-      "published_at": "2026-11-18T19:43:05Z",
-      "image_url": "https://images.kitco.com/img/extract_0_51_1000_563,width_1200,enlarge,format_jpeg/icms/01204ca0-fbe3-4463-a3c7-924357e708f0.jpeg",
+      "published_at": "2026-11-18T22:02:35Z",
+      "image_url": "https://images.kitco.com/img/extract_0_0_1024_575,width_1200,enlarge,format_jpeg/icms/5768df25-c265-4c2d-a489-e51917a45667.jpeg",
       "image_kind": "photo",
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
       "tags": [
         "gold",
+        "silver",
         "fed",
         "global"
       ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
       "breaking": false,
       "related_urls": [
+        "https://www.kitco.com/news/article/2026-11-18/gold-prices-remain-under-pressure-fed-minutes-show-central-bank-committed",
         "https://www.reuters.com/business/fed-policymakers-focused-inflation-risks-october-with-some-seeing-need-bigger-2026-11-18/",
         "https://www.investing.com/analysis/gold-breaks-3800-as-rate-hike-bets-overwhelm-safehaven-demand-200691870"
-      ],
-      "rank": 2
+      ]
     },
     {
       "breaking": false,
