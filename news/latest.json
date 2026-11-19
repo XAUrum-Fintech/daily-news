@@ -1,79 +1,100 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-18T22:00Z",
-  "generated_at": "2026-11-18T22:05:49Z",
+  "edition_id": "2026-11-19T00:00Z",
+  "generated_at": "2026-11-19T00:16:27Z",
   "window": {
-    "from": "2026-11-18T20:00:00Z",
-    "to": "2026-11-18T22:00:00Z"
+    "from": "2026-11-18T22:00:00Z",
+    "to": "2026-11-19T00:00:00Z"
   },
   "insights": {
-    "headline": "Fed minutes keep hike bets alive as gold slides below $3,800",
-    "summary": "Fed minutes showed the central bank firmly committed to cooling inflation, keeping December hike bets alive; spot gold fell more than 3% to about $3,720 an ounce, below $3,800, while silver slid towards $45. In India, gold opened at Rs 1,31,505 per 10 g and silver at Rs 1,64,506 per kg, both near one-year lows. The December 8-9 Fed meeting is the next test.",
+    "headline": "Gold sinks to 14-month low as Fed minutes point to more hikes",
+    "summary": "Spot gold fell 3.2% to $3,726 an ounce, its lowest since September 2025, and silver slid 5% to $45.03, after the Fed's October minutes showed most officials expect further rate hikes and Governor Waller raised a possible half-point December move. The dollar hit a 19-month high and Treasury yields climbed. In India, gold opened at Rs 1,31,505 per 10 g and silver at Rs 1,64,506 per kg, near one-year lows, and the rupee held at 93.44 per dollar. India's gold import bill could fall to $35–40 billion in FY27 from nearly $72 billion.",
     "points": [
-      "Fed minutes: the central bank stays firmly committed to cooling inflation, with most officials seeing upside risks to prices.",
-      "Spot gold fell more than 3% to about $3,720 an ounce, dropping below $3,800 support.",
-      "Silver slid towards $45 an ounce, with the gold-silver ratio at a one-year high of 82.6.",
-      "MCX gold opened at Rs 1,31,505 per 10 g and silver at Rs 1,64,506 per kg, both near one-year lows.",
-      "India's gold import bill could fall to $35-40 billion in FY27 from nearly $72 billion, with April-October imports down 40%."
+      "Spot gold fell 3.2% to $3,726 an ounce, its lowest since September 2025, after Fed minutes pointed to more rate hikes.",
+      "Silver slid 5% to $45.03 an ounce and platinum fell 4.1%, as the dollar hit a 19-month high and Treasury yields rose.",
+      "Indian gold opened at ₹1,31,505 per 10 g and silver at ₹1,64,506 per kg, with MCX December gold near ₹1,31,060 per 10 g.",
+      "India's gold import bill could fall to $35–40 billion in FY27 from nearly $72 billion, with imports down about 40% in April–October.",
+      "Markets price a 7.3% chance of a half-point Fed hike in December, up from 5.3% before the minutes were released."
     ],
     "brief": null
   },
   "trending": [
     {
-      "title": "Fed minutes point to more hikes",
-      "summary": "Minutes of the Fed's October meeting showed the central bank firmly committed to cooling inflation, with most officials seeing upside risks to prices; gold fell below $3,800 support.",
+      "title": "Fed hike bets hammer bullion to 14-month lows",
+      "summary": "Gold fell 3.2% to $3,726 and silver 5% to $45.03 as the Fed's October minutes and Waller's half-point hint lifted the dollar to a 19-month high and pushed yields up.",
       "item_ids": [
+        "3f143c808fae59b4",
         "5a421ac027c34198",
         "8aeeb87110a8e619",
-        "3398c8bb9491fc70"
-      ]
-    },
-    {
-      "title": "Gold breaks below $3,800",
-      "summary": "Spot gold fell more than 3% to about $3,720, its lowest since September 2025, after Fed minutes showed the central bank committed to cooling inflation.",
-      "item_ids": [
-        "5a421ac027c34198",
-        "8aeeb87110a8e619",
-        "d80861db62a1db94",
         "3398c8bb9491fc70",
-        "1259c76ac36a68cf",
-        "b60afdaf218fe898",
-        "ea1330fd82bd5753"
+        "1259c76ac36a68cf"
       ]
     },
     {
-      "title": "Silver's sharper fall",
-      "summary": "Silver slid towards $45.68, down nearly 12% in five sessions, and the gold-silver ratio hit a one-year high of 82.6; analysts warn it could slide to $35.",
+      "title": "Silver's slide deepens toward $45 support",
+      "summary": "Silver has fallen nearly 12% in five sessions to about $45, with traders watching $45 as the key level; in India the sharp correction is drawing buyers back for coins and bars.",
       "item_ids": [
-        "8aeeb87110a8e619",
-        "f2f1235376905686",
         "126c83631662ea8c",
-        "d80861db62a1db94",
-        "1259c76ac36a68cf",
-        "30b0448b03029512",
         "5a4e40214a790677",
-        "61a963e6ede025f7"
+        "30b0448b03029512",
+        "3f143c808fae59b4"
       ]
     },
     {
-      "title": "Gold lenders feel the slide",
-      "summary": "Muthoot Finance and Manappuram Finance fell about 5% as gold's slide cut the value of pledged collateral, while jewellers Titan and Kalyan fell up to 5% despite cheaper gold.",
+      "title": "India's gold import bill is shrinking fast",
+      "summary": "Higher duty has cut gold imports about 40% in April-October, and the FY27 bill could fall to $35-40 billion from nearly $72 billion, though October imports tripled from September.",
       "item_ids": [
-        "8edc7e37f67774ac",
+        "b2935299b5091f31",
+        "8756e4dff143b22c"
+      ]
+    },
+    {
+      "title": "Rupee holds near seven-month high on inflows",
+      "summary": "The rupee closed at 93.44 per dollar, broadly steady, as foreign fund inflows offset dollar buying by public-sector banks for importers.",
+      "item_ids": [
+        "6430eb25df66c573"
+      ]
+    },
+    {
+      "title": "Correction hits jewellers, financiers and demand",
+      "summary": "Titan, Kalyan and gold financiers fell as prices corrected, while jewellers say buyers are returning for smaller purchases and the wedding season may support demand.",
+      "item_ids": [
         "206ecd1475cd4688",
-        "73a095917aca7abe"
-      ]
-    },
-    {
-      "title": "October imports rebound — but stay far below last year",
-      "summary": "India's gold imports tripled in October to $5.51 billion, yet April-October imports were down 40% at $24.78 billion and the full-year bill could fall to $35-40 billion.",
-      "item_ids": [
-        "8756e4dff143b22c",
-        "b2935299b5091f31"
+        "8edc7e37f67774ac",
+        "d4065fb23b6494b6",
+        "b60e5e0a4e88d66a"
       ]
     }
   ],
   "items": [
+    {
+      "id": "3f143c808fae59b4",
+      "title": "Gold drops to 14-month low as dollar, yields rise on hawkish Fed rhetoric",
+      "summary": "Spot gold sank 3.2% to $3,726 an ounce, its lowest since September 2025, after the Fed's October minutes showed most officials see further rate hikes and Governor Waller backed a possible half-point December rise. US gold futures settled at $3,741.90, silver slid 5% to $45.03 and platinum fell 4.1%, as the dollar hit a 19-month high.",
+      "url": "https://www.livemint.com/market/gold-drops-to-14-month-low-as-dollar-yields-rise-on-hawkish-fed-rhetoric-11795032242167.html",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "publisher_id": "mint",
+      "published_at": "2026-11-18T20:04:01Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/3f143c808fae59b4.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://www.livemint.com/market/gold-slumps-3-to-lowest-in-over-a-year-on-hawkish-fed-signals-11795036212650.html"
+      ],
+      "rank": 1
+    },
     {
       "id": "5a421ac027c34198",
       "title": "Gold prices remain under pressure as Fed minutes show central bank committed to cooling inflation",
@@ -99,7 +120,7 @@
         "https://www.reuters.com/business/fed-policymakers-focused-inflation-risks-october-with-some-seeing-need-bigger-2026-11-18/",
         "https://www.investing.com/analysis/gold-breaks-3800-as-rate-hike-bets-overwhelm-safehaven-demand-200691870"
       ],
-      "rank": 1
+      "rank": 2
     },
     {
       "breaking": false,
@@ -126,7 +147,7 @@
       ],
       "title": "Gold, silver prices in Indian markets crash to nearly a year's low",
       "url": "https://www.thehindubusinessline.com/markets/gold/gold-silver-prices-in-indian-markets-crash-to-nearly-a-years-low/article71714989.ece",
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "8aeeb87110a8e619",
@@ -152,7 +173,7 @@
       ],
       "breaking": false,
       "paywall": "no-verdict (no isAccessibleForFree signal)",
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "3398c8bb9491fc70",
@@ -180,7 +201,7 @@
       "related_urls": [
         "https://www.reuters.com/world/india/gold-slides-over-one-year-low-firm-dollar-us-rate-outlook-2026-11-18/"
       ],
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "1259c76ac36a68cf",
@@ -212,7 +233,7 @@
         "https://www.fxstreet.com/news/gold-tumbles-to-its-lowest-in-over-a-year-as-fed-rate-hike-bets-build-202611181109",
         "https://finance.yahoo.com/markets/commodities/articles/gold-14-month-low-traders-164318443.html"
       ],
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "b2935299b5091f31",
@@ -237,7 +258,7 @@
       ],
       "breaking": false,
       "paywall": "no-verdict (host blocks fetch, 403)",
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "ea1330fd82bd5753",
@@ -261,7 +282,7 @@
         "global"
       ],
       "breaking": false,
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "f2f1235376905686",
@@ -287,7 +308,7 @@
       ],
       "breaking": false,
       "paywall": "no-verdict (host blocks fetch, 403)",
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "126c83631662ea8c",
@@ -311,7 +332,7 @@
       ],
       "breaking": false,
       "paywall": "no-verdict (host unreachable)",
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "5a4e40214a790677",
@@ -335,7 +356,30 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 11
+    },
+    {
+      "id": "6430eb25df66c573",
+      "title": "India Rupee Review: Steady as FII inflows offset importers' dollar demand",
+      "summary": "The rupee ended broadly steady at 93.44 per dollar on Wednesday, after opening at 93.4050, as foreign institutional inflows offset dollar purchases by public-sector banks for importers. The currency had touched a seven-month high in early trade before giving back gains as the dollar strengthened. Dealers said RBI maturities in the non-deliverable forward market also weighed.",
+      "url": "https://www.informistmedia.com/MoneyWire/65041/India-Rupee-Review-Steady-as-FII-inflows-offset-importers-dollar-demand",
+      "source": "Informist Media",
+      "source_domain": "informistmedia.com",
+      "publisher_id": "informist-media",
+      "published_at": "2026-11-18T10:58:10Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "rupee",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 12
     },
     {
       "id": "8756e4dff143b22c",
@@ -358,7 +402,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 13
     },
     {
       "id": "880407ceba39dd32",
@@ -381,7 +425,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 14
     },
     {
       "url": "https://www.livemint.com/market/us-10-year-yield-set-for-historic-run-above-5-on-fed-cycle-11794948232494.html",
@@ -405,7 +449,7 @@
       "image_kind": "none",
       "id": "b60afdaf218fe898",
       "breaking": false,
-      "rank": 13
+      "rank": 15
     },
     {
       "id": "67cd4133a671fe1c",
@@ -436,7 +480,7 @@
         "https://www.fxstreet.com/news/gold-recovers-its-retail-sales-drop-and-holds-above-mondays-low-202611171901",
         "https://www.kitco.com/news/article/2026-11-17/gold-price-drops-3848oz-after-september-retail-sales-rise-02-core-rises-06"
       ],
-      "rank": 14
+      "rank": 16
     },
     {
       "id": "30b0448b03029512",
@@ -461,7 +505,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 15
+      "rank": 17
     },
     {
       "id": "61a963e6ede025f7",
@@ -488,7 +532,7 @@
       "related_urls": [
         "https://www.fxstreet.com/analysis/silver-is-paying-for-a-rate-rise-that-has-not-happened-yet-202611172037"
       ],
-      "rank": 16
+      "rank": 18
     },
     {
       "id": "8edc7e37f67774ac",
@@ -511,7 +555,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 17
+      "rank": 19
     },
     {
       "id": "206ecd1475cd4688",
@@ -537,33 +581,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 18
-    },
-    {
-      "id": "73a095917aca7abe",
-      "title": "Titan, Kalyan Jewellers, PC Jeweller fall up to 5%: Why are jewellery stocks losing shine despite lower gold prices?",
-      "summary": "Titan fell 4.8% to Rs 4,681 and Kalyan Jewellers slipped 5.3% to Rs 645.80 as jewellery stocks fell despite cheaper gold, with investors worried shoppers may delay purchases expecting further price falls. MCX gold fell nearly 2.5% to Rs 1,31,063 per 10 g, its lowest in over a year, on a strong dollar and US rate-hike expectations.",
-      "url": "https://www.livemint.com/market/titan-kalyan-jewellers-pc-jeweller-fall-up-to-5-why-are-jewellery-stocks-losing-shine-despite-lower-gold-prices-11794985842518.html",
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "publisher_id": "mint",
-      "published_at": "2026-11-18T07:56:26Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "jewellery"
-      ],
-      "breaking": false,
-      "related_urls": [],
-      "rank": 19
+      "rank": 20
     },
     {
       "url": "https://www.thecore.in/business/jewellery-volumes-fall-spending-rises-buyers-trade-down-weight-purity-874215",
@@ -586,7 +604,7 @@
       "image_kind": "photo",
       "id": "d4065fb23b6494b6",
       "breaking": false,
-      "rank": 20
+      "rank": 21
     },
     {
       "id": "b60e5e0a4e88d66a",
@@ -609,7 +627,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 21
+      "rank": 22
     },
     {
       "id": "4d19b82d0f7fb9bd",
@@ -628,28 +646,6 @@
         "jewellery"
       ],
       "category": "festive",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 22
-    },
-    {
-      "id": "a8a0dd67ed9629fa",
-      "title": "Gold still heading for $5,000 despite sharp sell-off, UBS says",
-      "summary": "UBS is standing by its call for gold to reach $5,000 an ounce in 2027 even after the metal's sharp sell-off, holding that longer-term demand will outweigh the near-term drag from higher US rates and a firm dollar.",
-      "url": "https://uk.finance.yahoo.com/news/gold-still-heading-5-000-111500941.html",
-      "source": "Yahoo Finance",
-      "source_domain": "uk.finance.yahoo.com",
-      "publisher_id": "yahoo-finance",
-      "published_at": "2026-11-18T11:15:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "global"
-      ],
-      "category": "global",
       "metals": [
         "gold"
       ],
@@ -701,7 +697,10 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 25
+      "rank": 25,
+      "related_urls": [
+        "https://www.thehindubusinessline.com/markets/commodities/sebi-lowers-commodity-margins-to-encourage-market-participation-and-cut-hedging-costs/article71713243.ece"
+      ]
     },
     {
       "id": "c62e7b1a525d6422",
