@@ -1,8 +1,89 @@
 {
   "schema": "macro-events.v1",
-  "generated_at": "2026-11-19T00:27:57Z",
-  "event_count": 22,
+  "generated_at": "2026-11-19T05:51:41Z",
+  "event_count": 50,
   "events": [
+    {
+      "id": "us-core-pce-2026-08-26",
+      "kind": "us_core_pce",
+      "title": "US core PCE inflation",
+      "status": "released",
+      "scheduled_at": "2026-08-26T08:30:00-04:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [
+        {
+          "key": "core_pce_yoy",
+          "label": "Core PCE, year on year",
+          "unit": "percent",
+          "actual": 3.3,
+          "forecast": null,
+          "previous": 3.3,
+          "previous_first_print": null
+        },
+        {
+          "key": "pce_yoy",
+          "label": "PCE, year on year",
+          "unit": "percent",
+          "actual": 3.7,
+          "forecast": null,
+          "previous": 3.7,
+          "previous_first_print": null
+        }
+      ],
+      "revisions": [],
+      "summary": "Core PCE inflation was 3.3 percent in the year to July; headline PCE inflation was 3.7 percent.",
+      "forecast_source": null,
+      "source_url": "https://bea.gov/news/2026/personal-income-and-outlays-july-2026",
+      "published_at": "2026-08-26T12:30:00Z"
+    },
+    {
+      "id": "ism-mfg-2026-09-01",
+      "kind": "ism_mfg_pmi",
+      "title": "ISM manufacturing PMI",
+      "status": "released",
+      "scheduled_at": "2026-09-01T10:00:00-04:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [
+        {
+          "key": "pmi",
+          "label": "Manufacturing PMI",
+          "unit": "index",
+          "actual": 54.6,
+          "forecast": null,
+          "previous": 55.6,
+          "previous_first_print": null
+        }
+      ],
+      "revisions": [],
+      "summary": "The ISM manufacturing PMI was 54.6 in August, down from 55.6 in July.",
+      "forecast_source": null,
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "published_at": "2026-09-01T14:00:00Z"
+    },
+    {
+      "id": "ism-services-2026-09-03",
+      "kind": "ism_services_pmi",
+      "title": "ISM services PMI",
+      "status": "released",
+      "scheduled_at": "2026-09-03T10:00:00-04:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [
+        {
+          "key": "pmi",
+          "label": "Services PMI",
+          "unit": "index",
+          "actual": 55.4,
+          "forecast": null,
+          "previous": 54.1,
+          "previous_first_print": null
+        }
+      ],
+      "revisions": [],
+      "summary": "The ISM services PMI was 55.4 in August, up from 54.1 in July.",
+      "forecast_source": null,
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "published_at": "2026-09-03T14:00:00Z"
+    },
     {
       "id": "us-jobs-2026-09-04",
       "kind": "us_jobs",
@@ -46,6 +127,164 @@
       "forecast_source": null,
       "source_url": "https://www.bls.gov/news.release/archives/empsit_09042026.htm",
       "published_at": "2026-10-04T17:59:13Z"
+    },
+    {
+      "id": "us-cpi-2026-09-11",
+      "kind": "us_cpi",
+      "title": "US inflation (CPI)",
+      "status": "released",
+      "scheduled_at": "2026-09-11T08:30:00-04:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [
+        {
+          "key": "cpi_yoy",
+          "label": "Inflation, year on year",
+          "unit": "percent",
+          "actual": 3.4,
+          "forecast": null,
+          "previous": 3.4,
+          "previous_first_print": null
+        },
+        {
+          "key": "core_cpi_yoy",
+          "label": "Core inflation, year on year",
+          "unit": "percent",
+          "actual": 2.4,
+          "forecast": null,
+          "previous": 2.5,
+          "previous_first_print": null
+        }
+      ],
+      "revisions": [],
+      "summary": "Consumer prices rose 3.4 percent in the year to August; core inflation was 2.4 percent.",
+      "forecast_source": null,
+      "source_url": "https://www.bls.gov/news.release/archives/cpi_09112026.htm",
+      "published_at": "2026-10-04T17:59:13Z"
+    },
+    {
+      "id": "india-cpi-2026-09-14",
+      "kind": "india_cpi",
+      "title": "India inflation (CPI)",
+      "status": "released",
+      "scheduled_at": "2026-09-14T16:00:00+05:30",
+      "scheduled_tz": "Asia/Kolkata",
+      "metrics": [
+        {
+          "key": "cpi_yoy",
+          "label": "CPI, year on year",
+          "unit": "percent",
+          "actual": 4.82,
+          "forecast": null,
+          "previous": 4.45,
+          "previous_first_print": null
+        }
+      ],
+      "revisions": [],
+      "summary": "Indian consumer prices rose 4.82 percent in the year to August.",
+      "forecast_source": null,
+      "source_url": "https://www.mospi.gov.in/uploads/documents/productChartTable/1789491079168-Press%20Release%20of%20CPI%20for%20August%202026.pdf",
+      "published_at": "2026-09-14T10:30:00Z"
+    },
+    {
+      "id": "fed-2026-09-16",
+      "kind": "fed_rate",
+      "title": "Fed rate decision",
+      "status": "released",
+      "scheduled_at": "2026-09-16T14:00:00-04:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [
+        {
+          "key": "fed_funds_upper",
+          "label": "Fed funds, upper",
+          "unit": "percent",
+          "actual": 4.0,
+          "forecast": null,
+          "previous": 3.75,
+          "previous_first_print": null
+        },
+        {
+          "key": "fed_funds_lower",
+          "label": "Fed funds, lower",
+          "unit": "percent",
+          "actual": 3.75,
+          "forecast": null,
+          "previous": 3.5,
+          "previous_first_print": null
+        }
+      ],
+      "revisions": [],
+      "summary": "The Fed raised its target range by a quarter point to 3.75 to 4 percent.",
+      "forecast_source": null,
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+      "published_at": "2026-10-04T17:59:13Z"
+    },
+    {
+      "id": "us-core-pce-2026-09-30",
+      "kind": "us_core_pce",
+      "title": "US core PCE inflation",
+      "status": "released",
+      "scheduled_at": "2026-09-30T08:30:00-04:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [
+        {
+          "key": "core_pce_yoy",
+          "label": "Core PCE, year on year",
+          "unit": "percent",
+          "actual": 3.0,
+          "forecast": null,
+          "previous": 3.0,
+          "previous_first_print": 3.3
+        },
+        {
+          "key": "pce_yoy",
+          "label": "PCE, year on year",
+          "unit": "percent",
+          "actual": 3.4,
+          "forecast": null,
+          "previous": 3.4,
+          "previous_first_print": 3.7
+        }
+      ],
+      "revisions": [
+        {
+          "label": "July",
+          "from": 3.3,
+          "to": 3.0
+        },
+        {
+          "label": "June",
+          "from": 3.3,
+          "to": 3.0
+        }
+      ],
+      "summary": "Core PCE inflation was 3.0 percent in the year to August; headline PCE inflation was 3.4 percent.",
+      "forecast_source": null,
+      "source_url": "https://bea.gov/news/2026/personal-income-and-outlays-august-2026",
+      "published_at": "2026-09-30T12:30:00Z"
+    },
+    {
+      "id": "ism-mfg-2026-10-01",
+      "kind": "ism_mfg_pmi",
+      "title": "ISM manufacturing PMI",
+      "status": "released",
+      "scheduled_at": "2026-10-01T10:00:00-04:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [
+        {
+          "key": "pmi",
+          "label": "Manufacturing PMI",
+          "unit": "index",
+          "actual": 54.5,
+          "forecast": null,
+          "previous": 54.6,
+          "previous_first_print": null
+        }
+      ],
+      "revisions": [],
+      "summary": "The ISM manufacturing PMI was 54.5 in September, down from 54.6 in August.",
+      "forecast_source": null,
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "published_at": "2026-10-01T14:00:00Z"
     },
     {
       "id": "us-jobs-2026-10-02",
@@ -92,70 +331,28 @@
       "published_at": "2026-10-04T17:59:13Z"
     },
     {
-      "id": "us-cpi-2026-09-11",
-      "kind": "us_cpi",
-      "title": "US inflation (CPI)",
+      "id": "ism-services-2026-10-05",
+      "kind": "ism_services_pmi",
+      "title": "ISM services PMI",
       "status": "released",
-      "scheduled_at": "2026-09-11T08:30:00-04:00",
+      "scheduled_at": "2026-10-05T10:00:00-04:00",
       "scheduled_tz": "America/New_York",
       "metrics": [
         {
-          "key": "cpi_yoy",
-          "label": "Inflation, year on year",
-          "unit": "percent",
-          "actual": 3.4,
+          "key": "pmi",
+          "label": "Services PMI",
+          "unit": "index",
+          "actual": 54.9,
           "forecast": null,
-          "previous": 3.4,
-          "previous_first_print": null
-        },
-        {
-          "key": "core_cpi_yoy",
-          "label": "Core inflation, year on year",
-          "unit": "percent",
-          "actual": 2.4,
-          "forecast": null,
-          "previous": 2.5,
+          "previous": 55.4,
           "previous_first_print": null
         }
       ],
       "revisions": [],
-      "summary": "Consumer prices rose 3.4 percent in the year to August; core inflation was 2.4 percent.",
+      "summary": "The ISM services PMI was 54.9 in September, down from 55.4 in August.",
       "forecast_source": null,
-      "source_url": "https://www.bls.gov/news.release/archives/cpi_09112026.htm",
-      "published_at": "2026-10-04T17:59:13Z"
-    },
-    {
-      "id": "fed-2026-09-16",
-      "kind": "fed_rate",
-      "title": "Fed rate decision",
-      "status": "released",
-      "scheduled_at": "2026-09-16T14:00:00-04:00",
-      "scheduled_tz": "America/New_York",
-      "metrics": [
-        {
-          "key": "fed_funds_upper",
-          "label": "Fed funds, upper",
-          "unit": "percent",
-          "actual": 4.0,
-          "forecast": null,
-          "previous": 3.75,
-          "previous_first_print": null
-        },
-        {
-          "key": "fed_funds_lower",
-          "label": "Fed funds, lower",
-          "unit": "percent",
-          "actual": 3.75,
-          "forecast": null,
-          "previous": 3.5,
-          "previous_first_print": null
-        }
-      ],
-      "revisions": [],
-      "summary": "The Fed raised its target range by a quarter point to 3.75 to 4 percent.",
-      "forecast_source": null,
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-      "published_at": "2026-10-04T17:59:13Z"
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "published_at": "2026-10-05T14:00:00Z"
     },
     {
       "id": "rbi-2026-10-07",
@@ -180,6 +377,36 @@
       "forecast_source": null,
       "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62422",
       "published_at": "2026-10-07T05:24:06Z"
+    },
+    {
+      "id": "india-cpi-2026-10-12",
+      "kind": "india_cpi",
+      "title": "India inflation (CPI)",
+      "status": "released",
+      "scheduled_at": "2026-10-12T16:00:00+05:30",
+      "scheduled_tz": "Asia/Kolkata",
+      "metrics": [
+        {
+          "key": "cpi_yoy",
+          "label": "CPI, year on year",
+          "unit": "percent",
+          "actual": 5.54,
+          "forecast": null,
+          "previous": 4.83,
+          "previous_first_print": 4.82
+        }
+      ],
+      "revisions": [
+        {
+          "label": "August",
+          "from": 4.82,
+          "to": 4.83
+        }
+      ],
+      "summary": "Indian consumer prices rose 5.54 percent in the year to September.",
+      "forecast_source": null,
+      "source_url": "https://www.mospi.gov.in/uploads/latestReleases/latest_release_1791800601071_643518af-5320-4e52-b78c-75c92b83885b_Press_Release_for_the_month_of_September,_2026.pdf",
+      "published_at": "2026-10-12T10:30:00Z"
     },
     {
       "id": "us-cpi-2026-10-14",
@@ -246,6 +473,87 @@
       "forecast_source": null,
       "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
       "published_at": "2026-10-28T18:04:52Z"
+    },
+    {
+      "id": "us-core-pce-2026-10-29",
+      "kind": "us_core_pce",
+      "title": "US core PCE inflation",
+      "status": "released",
+      "scheduled_at": "2026-10-29T08:30:00-04:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [
+        {
+          "key": "core_pce_yoy",
+          "label": "Core PCE, year on year",
+          "unit": "percent",
+          "actual": 3.1,
+          "forecast": null,
+          "previous": 3.0,
+          "previous_first_print": null
+        },
+        {
+          "key": "pce_yoy",
+          "label": "PCE, year on year",
+          "unit": "percent",
+          "actual": 3.6,
+          "forecast": null,
+          "previous": 3.4,
+          "previous_first_print": null
+        }
+      ],
+      "revisions": [],
+      "summary": "Core PCE inflation was 3.1 percent in the year to September; headline PCE inflation was 3.6 percent.",
+      "forecast_source": null,
+      "source_url": "https://bea.gov/news/2026/personal-income-and-outlays-september-2026",
+      "published_at": "2026-10-29T12:30:00Z"
+    },
+    {
+      "id": "ism-mfg-2026-11-02",
+      "kind": "ism_mfg_pmi",
+      "title": "ISM manufacturing PMI",
+      "status": "released",
+      "scheduled_at": "2026-11-02T10:00:00-05:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [
+        {
+          "key": "pmi",
+          "label": "Manufacturing PMI",
+          "unit": "index",
+          "actual": 55.5,
+          "forecast": null,
+          "previous": 54.5,
+          "previous_first_print": null
+        }
+      ],
+      "revisions": [],
+      "summary": "The ISM manufacturing PMI rose to 55.5 in October, from 54.5 in September.",
+      "forecast_source": null,
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "published_at": "2026-11-02T15:00:00Z"
+    },
+    {
+      "id": "ism-services-2026-11-04",
+      "kind": "ism_services_pmi",
+      "title": "ISM services PMI",
+      "status": "released",
+      "scheduled_at": "2026-11-04T10:00:00-05:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [
+        {
+          "key": "pmi",
+          "label": "Services PMI",
+          "unit": "index",
+          "actual": 54.5,
+          "forecast": null,
+          "previous": 54.9,
+          "previous_first_print": null
+        }
+      ],
+      "revisions": [],
+      "summary": "The ISM services PMI was 54.5 in October, down from 54.9 in September.",
+      "forecast_source": null,
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "published_at": "2026-11-04T15:00:00Z"
     },
     {
       "id": "us-jobs-2026-11-06",
@@ -323,6 +631,30 @@
       "forecast_source": null,
       "source_url": "https://www.bls.gov/news.release/archives/cpi_11102026.htm",
       "published_at": "2026-11-10T15:22:28Z"
+    },
+    {
+      "id": "india-cpi-2026-11-12",
+      "kind": "india_cpi",
+      "title": "India inflation (CPI)",
+      "status": "released",
+      "scheduled_at": "2026-11-12T16:00:00+05:30",
+      "scheduled_tz": "Asia/Kolkata",
+      "metrics": [
+        {
+          "key": "cpi_yoy",
+          "label": "CPI, year on year",
+          "unit": "percent",
+          "actual": 6.09,
+          "forecast": null,
+          "previous": 5.54,
+          "previous_first_print": null
+        }
+      ],
+      "revisions": [],
+      "summary": "Indian consumer prices rose 6.09 percent in the year to October.",
+      "forecast_source": null,
+      "source_url": "https://www.mospi.gov.in/uploads/latestreleasesfiles/1794480048335-Press%20Release%20of%20CPI%20for%20October%202026%20.pdf",
+      "published_at": "2026-11-12T10:30:00Z"
     },
     {
       "id": "us-jobs-2026-12-04",
@@ -504,6 +836,230 @@
       "summary": "India's central bank announces the repo rate.",
       "forecast_source": null,
       "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62422",
+      "published_at": null
+    },
+    {
+      "id": "us-core-pce-2026-11-25",
+      "kind": "us_core_pce",
+      "title": "US core PCE inflation",
+      "status": "scheduled",
+      "scheduled_at": "2026-11-25T08:30:00-05:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [],
+      "revisions": [],
+      "summary": "How much US prices rose over the past year, excluding food and energy.",
+      "forecast_source": null,
+      "source_url": "https://www.bea.gov/news/schedule",
+      "published_at": null
+    },
+    {
+      "id": "us-core-pce-2026-12-23",
+      "kind": "us_core_pce",
+      "title": "US core PCE inflation",
+      "status": "scheduled",
+      "scheduled_at": "2026-12-23T08:30:00-05:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [],
+      "revisions": [],
+      "summary": "How much US prices rose over the past year, excluding food and energy.",
+      "forecast_source": null,
+      "source_url": "https://www.bea.gov/news/schedule",
+      "published_at": null
+    },
+    {
+      "id": "us-core-pce-2027-01-28",
+      "kind": "us_core_pce",
+      "title": "US core PCE inflation",
+      "status": "scheduled",
+      "scheduled_at": "2027-01-28T08:30:00-05:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [],
+      "revisions": [],
+      "summary": "How much US prices rose over the past year, excluding food and energy.",
+      "forecast_source": null,
+      "source_url": "https://www.bea.gov/news/schedule",
+      "published_at": null
+    },
+    {
+      "id": "us-core-pce-2027-02-25",
+      "kind": "us_core_pce",
+      "title": "US core PCE inflation",
+      "status": "scheduled",
+      "scheduled_at": "2027-02-25T08:30:00-05:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [],
+      "revisions": [],
+      "summary": "How much US prices rose over the past year, excluding food and energy.",
+      "forecast_source": null,
+      "source_url": "https://www.bea.gov/news/schedule",
+      "published_at": null
+    },
+    {
+      "id": "ism-mfg-2026-12-01",
+      "kind": "ism_mfg_pmi",
+      "title": "ISM manufacturing PMI",
+      "status": "scheduled",
+      "scheduled_at": "2026-12-01T10:00:00-05:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [],
+      "revisions": [],
+      "summary": "Monthly survey of US factory activity; above 50 means expansion.",
+      "forecast_source": null,
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "published_at": null
+    },
+    {
+      "id": "ism-mfg-2027-01-04",
+      "kind": "ism_mfg_pmi",
+      "title": "ISM manufacturing PMI",
+      "status": "scheduled",
+      "scheduled_at": "2027-01-04T10:00:00-05:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [],
+      "revisions": [],
+      "summary": "Monthly survey of US factory activity; above 50 means expansion.",
+      "forecast_source": null,
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "published_at": null
+    },
+    {
+      "id": "ism-mfg-2027-02-01",
+      "kind": "ism_mfg_pmi",
+      "title": "ISM manufacturing PMI",
+      "status": "scheduled",
+      "scheduled_at": "2027-02-01T10:00:00-05:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [],
+      "revisions": [],
+      "summary": "Monthly survey of US factory activity; above 50 means expansion.",
+      "forecast_source": null,
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "published_at": null
+    },
+    {
+      "id": "ism-mfg-2027-03-01",
+      "kind": "ism_mfg_pmi",
+      "title": "ISM manufacturing PMI",
+      "status": "scheduled",
+      "scheduled_at": "2027-03-01T10:00:00-05:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [],
+      "revisions": [],
+      "summary": "Monthly survey of US factory activity; above 50 means expansion.",
+      "forecast_source": null,
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "published_at": null
+    },
+    {
+      "id": "ism-services-2026-12-03",
+      "kind": "ism_services_pmi",
+      "title": "ISM services PMI",
+      "status": "scheduled",
+      "scheduled_at": "2026-12-03T10:00:00-05:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [],
+      "revisions": [],
+      "summary": "Monthly survey of US services activity; above 50 means expansion.",
+      "forecast_source": null,
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "published_at": null
+    },
+    {
+      "id": "ism-services-2027-01-06",
+      "kind": "ism_services_pmi",
+      "title": "ISM services PMI",
+      "status": "scheduled",
+      "scheduled_at": "2027-01-06T10:00:00-05:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [],
+      "revisions": [],
+      "summary": "Monthly survey of US services activity; above 50 means expansion.",
+      "forecast_source": null,
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "published_at": null
+    },
+    {
+      "id": "ism-services-2027-02-03",
+      "kind": "ism_services_pmi",
+      "title": "ISM services PMI",
+      "status": "scheduled",
+      "scheduled_at": "2027-02-03T10:00:00-05:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [],
+      "revisions": [],
+      "summary": "Monthly survey of US services activity; above 50 means expansion.",
+      "forecast_source": null,
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "published_at": null
+    },
+    {
+      "id": "ism-services-2027-03-03",
+      "kind": "ism_services_pmi",
+      "title": "ISM services PMI",
+      "status": "scheduled",
+      "scheduled_at": "2027-03-03T10:00:00-05:00",
+      "scheduled_tz": "America/New_York",
+      "metrics": [],
+      "revisions": [],
+      "summary": "Monthly survey of US services activity; above 50 means expansion.",
+      "forecast_source": null,
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "published_at": null
+    },
+    {
+      "id": "india-cpi-2026-12-14",
+      "kind": "india_cpi",
+      "title": "India inflation (CPI)",
+      "status": "scheduled",
+      "scheduled_at": "2026-12-14T16:00:00+05:30",
+      "scheduled_tz": "Asia/Kolkata",
+      "metrics": [],
+      "revisions": [],
+      "summary": "How much Indian consumer prices rose over the past year.",
+      "forecast_source": null,
+      "source_url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "published_at": null
+    },
+    {
+      "id": "india-cpi-2027-01-12",
+      "kind": "india_cpi",
+      "title": "India inflation (CPI)",
+      "status": "scheduled",
+      "scheduled_at": "2027-01-12T16:00:00+05:30",
+      "scheduled_tz": "Asia/Kolkata",
+      "metrics": [],
+      "revisions": [],
+      "summary": "How much Indian consumer prices rose over the past year.",
+      "forecast_source": null,
+      "source_url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "published_at": null
+    },
+    {
+      "id": "india-cpi-2027-02-12",
+      "kind": "india_cpi",
+      "title": "India inflation (CPI)",
+      "status": "scheduled",
+      "scheduled_at": "2027-02-12T16:00:00+05:30",
+      "scheduled_tz": "Asia/Kolkata",
+      "metrics": [],
+      "revisions": [],
+      "summary": "How much Indian consumer prices rose over the past year.",
+      "forecast_source": null,
+      "source_url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
+      "published_at": null
+    },
+    {
+      "id": "india-cpi-2027-03-12",
+      "kind": "india_cpi",
+      "title": "India inflation (CPI)",
+      "status": "scheduled",
+      "scheduled_at": "2027-03-12T16:00:00+05:30",
+      "scheduled_tz": "Asia/Kolkata",
+      "metrics": [],
+      "revisions": [],
+      "summary": "How much Indian consumer prices rose over the past year.",
+      "forecast_source": null,
+      "source_url": "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf",
       "published_at": null
     }
   ]
