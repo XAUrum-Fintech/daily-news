@@ -1,17 +1,17 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-19T11:00Z",
-  "generated_at": "2026-11-19T11:06:26Z",
+  "edition_id": "2026-11-19T12:00Z",
+  "generated_at": "2026-11-19T12:01:37Z",
   "window": {
     "from": "2026-11-19T10:00:00Z",
-    "to": "2026-11-19T11:00:00Z"
+    "to": "2026-11-19T12:00:00Z"
   },
   "insights": {
     "headline": "Gold steadies near $3,730 after dipping below $3,700",
-    "summary": "Spot gold traded near $3,730 an ounce on Thursday after briefly dipping below $3,700, its lowest since September 2025, as hawkish Fed minutes and a stronger dollar weighed; silver steadied near $45 after slipping to a 14-month low of $44.54. MCX December gold traded near Rs 1,29,274 per 10 g and silver near Rs 1,60,600 per kg, with markets pricing about a 90% chance of a quarter-point Fed hike in December.",
+    "summary": "Spot gold rose to $3,733.76 an ounce on Thursday after touching $3,693.13, its lowest since September 2025, as hawkish Fed minutes and a stronger dollar weighed; silver rose to $45.38. MCX December gold traded near Rs 1,29,650 per 10 g and silver near Rs 1,61,661 per kg, with markets pricing about a 90% chance of a quarter-point Fed hike in December.",
     "points": [
-      "Spot gold traded near $3,730 an ounce after briefly dipping below $3,700, its lowest since September 2025, with support at $3,690.",
-      "MCX gold traded near Rs 1,29,274 per 10 g and silver near Rs 1,60,600 per kg in the afternoon session.",
+      "Spot gold rose 0.3% to $3,733.76 an ounce after touching $3,693.13, its lowest since September 2025; StoneX called it likely bear profit-taking.",
+      "MCX gold traded near Rs 1,29,650 per 10 g and silver near Rs 1,61,661 per kg on Thursday morning.",
       "Gold is down about 33.5% and silver nearly 63% from January record highs; silver would need about a 170% rally to reclaim its peak.",
       "CME FedWatch priced about a 90% chance of a quarter-point December Fed hike, with a 10% chance of a half-point move.",
       "Festive gold sales value rose 15-25% year-on-year, the World Gold Council said, while volumes were largely flat."
@@ -56,6 +56,7 @@
       "summary": "Hawkish Fed minutes and officials' comments lifted the dollar and yields, keeping gold near a 14-month low; markets price about a 90% chance of a quarter-point December hike.",
       "item_ids": [
         "483c6306bd67d091",
+        "6f73a82af4cd5de4",
         "2b102a282296c3e6",
         "73319887df16953c",
         "2c7d1c82e3263439",
@@ -69,9 +70,10 @@
     },
     {
       "title": "Silver steadies after a steeper fall",
-      "summary": "Silver steadied near $45 after slipping to a 14-month low of $44.54, with MCX silver holding near Rs 1.60 lakh per kg; the metal is down about 63% from its January record high.",
+      "summary": "Silver rose 0.8% to $45.38 after slipping to a 14-month low of $44.54, with MCX silver rebounding to Rs 1,61,661 per kg; the metal is down about 63% from its January record high.",
       "item_ids": [
         "483c6306bd67d091",
+        "3b189941f89fae58",
         "8a8311caf7e653d6",
         "c83f930be26e7fa2",
         "30b0448b03029512",
@@ -129,6 +131,31 @@
       "rank": 1
     },
     {
+      "id": "6f73a82af4cd5de4",
+      "title": "Gold edges up from 14-month low as markets assess Fed rate outlook",
+      "summary": "Spot gold rose 0.3% to $3,733.76 an ounce by 0630 GMT on Thursday after touching $3,693.13, its lowest since September 2025, as traders weighed hawkish Fed signals; markets price a 90% chance of a 25-basis-point December hike and 10% for a half-point move, while silver rose 0.8% to $45.38.",
+      "url": "https://www.reuters.com/world/india/gold-edges-up-14-month-low-markets-assess-fed-rate-outlook-2026-11-19/",
+      "source": "Reuters",
+      "source_domain": "reuters.com",
+      "published_at": "2026-11-19T07:00:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "silver",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 2,
+      "publisher_id": "reuters"
+    },
+    {
       "id": "483c6306bd67d091",
       "title": "Gold trades near $3,730 after briefly dipping below $3,700 on hawkish Fed signals",
       "summary": "Spot gold traded near $3,730 an ounce on Thursday after briefly slipping below $3,700, its lowest since September 2025, as a stronger dollar and hawkish Fed minutes weighed. Silver recovered to about $45.43 after dropping below $45, while markets priced about a 90% chance of a quarter-point Fed hike in December and a 10% chance of a half-point move.",
@@ -151,7 +178,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "4d8740985632f1d7",
@@ -173,8 +200,33 @@
       "metals": [
         "gold"
       ],
-      "rank": 3,
+      "rank": 4,
       "breaking": false
+    },
+    {
+      "id": "3b189941f89fae58",
+      "title": "Gold and silver price on Nov 19: MCX gold trades in red at ₹1.29 lakh per 10 gm, Silver edges 1% higher",
+      "summary": "MCX December gold traded 0.13% lower at ₹1,29,650 per 10 g on Thursday morning, below the ₹1.30 lakh mark, while December silver rose 0.5% to ₹1,61,661 per kg from its previous close of ₹1,60,734.",
+      "url": "https://upstox.com/news/market-news/commodities/gold-and-silver-price-on-nov-19-mcx-gold-trades-in-red-at-1-29-lakh-per-10-gm-silver-edges-1-higher/article-203689/",
+      "source": "Upstox",
+      "source_domain": "upstox.com",
+      "published_at": "2026-11-19T06:17:22Z",
+      "image_url": "https://assets.upstox.com/content/assets/images/news/gold-silver-prices-today-12-feb.webp",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 5,
+      "publisher_id": "upstox"
     },
     {
       "id": "e860df60567bbb33",
@@ -198,7 +250,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 4
+      "rank": 6
     },
     {
       "id": "029be7014c19f4c6",
@@ -222,7 +274,7 @@
         "gold",
         "silver"
       ],
-      "rank": 5,
+      "rank": 7,
       "breaking": false
     },
     {
@@ -246,12 +298,12 @@
         "gold",
         "silver"
       ],
-      "rank": 6,
+      "rank": 8,
       "breaking": false
     },
     {
       "id": "73319887df16953c",
-      "rank": 7,
+      "rank": 9,
       "title": "Gold plunges below $3,750, silver tumbles as hawkish Fed minutes pressure metals",
       "summary": "Spot gold fell 3.3% to $3,722.60 an ounce, its lowest since September 2025, and silver slid 5% to $44.93 after the Fed's October minutes reinforced expectations of more rate hikes. Governor Waller raised a possible half-point December move, the dollar held near a 19-month high and the 10-year yield stayed above 5%, while US housing data pointed to weakness.",
       "url": "https://www.kitco.com/news/article/2026-11-18/gold-plunges-below-3750-silver-tumbles-hawkish-fed-minutes-pressure-metals",
@@ -297,7 +349,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 10
     },
     {
       "id": "15ec48a6948c144e",
@@ -318,7 +370,7 @@
       "metals": [
         "gold"
       ],
-      "rank": 9,
+      "rank": 11,
       "breaking": false
     },
     {
@@ -342,7 +394,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 12
     },
     {
       "id": "2c7d1c82e3263439",
@@ -367,7 +419,7 @@
         "global"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 13
     },
     {
       "id": "4ff1626797d6f58d",
@@ -390,7 +442,7 @@
         "gold",
         "silver"
       ],
-      "rank": 12,
+      "rank": 14,
       "breaking": false
     },
     {
@@ -416,7 +468,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 13
+      "rank": 15
     },
     {
       "id": "8a8311caf7e653d6",
@@ -437,7 +489,7 @@
       "metals": [
         "silver"
       ],
-      "rank": 14,
+      "rank": 16,
       "breaking": false
     },
     {
@@ -462,7 +514,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 15
+      "rank": 17
     },
     {
       "id": "c83f930be26e7fa2",
@@ -486,7 +538,7 @@
         "gold",
         "silver"
       ],
-      "rank": 16,
+      "rank": 18,
       "breaking": false
     },
     {
@@ -509,7 +561,7 @@
       "metals": [
         "gold"
       ],
-      "rank": 17,
+      "rank": 19,
       "breaking": false
     },
     {
@@ -535,7 +587,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 18
+      "rank": 20
     },
     {
       "id": "81dcc03a1a58d996",
@@ -558,7 +610,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 19
+      "rank": 21
     },
     {
       "id": "8bf6bfb24e9a3a32",
@@ -580,7 +632,7 @@
       "metals": [
         "gold"
       ],
-      "rank": 20,
+      "rank": 22,
       "breaking": false
     },
     {
@@ -604,7 +656,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 21
+      "rank": 23
     },
     {
       "id": "b2935299b5091f31",
@@ -629,7 +681,7 @@
       ],
       "breaking": false,
       "paywall": "no-verdict (host blocks fetch, 403)",
-      "rank": 22
+      "rank": 24
     },
     {
       "id": "8756e4dff143b22c",
@@ -652,7 +704,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 23
+      "rank": 25
     },
     {
       "id": "29e5956a19976c4a",
@@ -674,7 +726,7 @@
       "metals": [
         "gold"
       ],
-      "rank": 24,
+      "rank": 26,
       "breaking": false
     },
     {
@@ -698,7 +750,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 25
+      "rank": 27
     },
     {
       "id": "880407ceba39dd32",
@@ -721,7 +773,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 26
+      "rank": 28
     },
     {
       "id": "e805cb7f9b717b3f",
@@ -745,7 +797,7 @@
         "gold",
         "silver"
       ],
-      "rank": 27,
+      "rank": 29,
       "breaking": false
     },
     {
@@ -770,7 +822,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 28
+      "rank": 30
     }
   ]
 }
