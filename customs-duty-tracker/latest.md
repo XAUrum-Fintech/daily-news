@@ -1,19 +1,19 @@
-# Customs duty update — ERAM 32/2026
+# Customs duty update — ERAM 33/2026
 
-**Effective:** 19 Nov 2026 (published 18 Nov 2026)
-**Event:** Exchange-rate circular 32/2026
-**USD/INR import: 95.35 → 95.35**
+**Effective:** 20 Nov 2026 (published 19 Nov 2026)
+**Event:** Exchange-rate circular 33/2026
+**USD/INR import: 95.35 → 94.10**
 
-- Gold: tariff $1,245/10g (no change) · duty ₹17,80,661.25/kg (+₹0)
-- Silver: tariff $1,663/kg (no change) · duty ₹23,785.06/kg (+₹0)
+- Gold: tariff $1,245/10g (no change) · duty ₹17,57,317.50/kg (-₹23,343.75)
+- Silver: tariff $1,663/kg (no change) · duty ₹23,473.25/kg (-₹311.81)
 
 ## Why it moved
 
-Neither tariff values nor the exchange rate moved versus the previous event. Gold duty now works out to about ₹17,807 per 10g.
+The rupee strengthened — the import rate fell ₹1.25 to 94.10. Tariff values are unchanged since 13 Nov 2026 (91/2026-Customs (N.T)), so the entire duty move comes from the exchange rate. Gold duty now works out to about ₹17,573 per 10g.
 
 ## Verify
 
-- [Official notifications portal](https://foservices.icegate.gov.in/#/services/notifyPublishScreen) — find 32/2026, Download PDF.
+- [Official notifications portal](https://foservices.icegate.gov.in/#/services/notifyPublishScreen) — find 33/2026, Download PDF.
 
 ---
 *Generated from `latest.json` (schema customs-tracker.v4). Machine-owned — do not hand-edit.*
