@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-19T02:00Z",
-  "generated_at": "2026-11-19T02:12:24Z",
+  "edition_id": "2026-11-19T03:00Z",
+  "generated_at": "2026-11-19T03:07:19Z",
   "window": {
-    "from": "2026-11-19T00:00:00Z",
-    "to": "2026-11-19T02:00:00Z"
+    "from": "2026-11-19T01:00:00Z",
+    "to": "2026-11-19T03:00:00Z"
   },
   "insights": {
     "headline": "Gold sinks to 14-month low as Fed minutes point to more hikes",
@@ -65,6 +65,7 @@
       "title": "Silver's slide deepens toward $45 support",
       "summary": "Silver has fallen nearly 12% in five sessions to about $45, with traders watching $45 as the key level; in India the sharp correction is drawing buyers back for coins and bars.",
       "item_ids": [
+        "3b4581ec16829054",
         "126c83631662ea8c",
         "5a4e40214a790677",
         "30b0448b03029512",
@@ -157,6 +158,31 @@
       ]
     },
     {
+      "id": "f954184a75c3e3fa",
+      "title": "Gold recovers from one-year low as markets assess Fed rate outlook",
+      "summary": "Spot gold edged up 0.6% to $3,745.56 an ounce in early Asian trading on Thursday after hitting a 14-month low on Wednesday, Reuters reported, with December futures at $3,746.80. Fed Governor Michael Barr said he is likely to back tighter policy, and markets price a 90% chance of a 25-basis-point December hike and 10% for a half-point move, according to CME FedWatch.",
+      "url": "https://www.klsescreener.com/v2/news/view/1830749/gold-recovers-from-one-year-low-as-markets-assess-fed-rate-outlook",
+      "source": "KLSE Screener",
+      "source_domain": "klsescreener.com",
+      "publisher_id": "klse-screener",
+      "published_at": "2026-11-19T01:35:49Z",
+      "image_url": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/articles/CFC19F5275122EB7B53819C3B67A2510_low_12.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 3
+    },
+    {
       "breaking": false,
       "category": "mcx",
       "id": "d80861db62a1db94",
@@ -181,7 +207,7 @@
       ],
       "title": "Gold, silver prices in Indian markets crash to nearly a year's low",
       "url": "https://www.thehindubusinessline.com/markets/gold/gold-silver-prices-in-indian-markets-crash-to-nearly-a-years-low/article71714989.ece",
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "8aeeb87110a8e619",
@@ -207,7 +233,7 @@
       ],
       "breaking": false,
       "paywall": "no-verdict (no isAccessibleForFree signal)",
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "3398c8bb9491fc70",
@@ -235,7 +261,7 @@
       "related_urls": [
         "https://www.reuters.com/world/india/gold-slides-over-one-year-low-firm-dollar-us-rate-outlook-2026-11-18/"
       ],
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "1259c76ac36a68cf",
@@ -267,7 +293,7 @@
         "https://www.fxstreet.com/news/gold-tumbles-to-its-lowest-in-over-a-year-as-fed-rate-hike-bets-build-202611181109",
         "https://finance.yahoo.com/markets/commodities/articles/gold-14-month-low-traders-164318443.html"
       ],
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "b2935299b5091f31",
@@ -292,7 +318,7 @@
       ],
       "breaking": false,
       "paywall": "no-verdict (host blocks fetch, 403)",
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "ea1330fd82bd5753",
@@ -316,7 +342,7 @@
         "global"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "f2f1235376905686",
@@ -342,7 +368,36 @@
       ],
       "breaking": false,
       "paywall": "no-verdict (host blocks fetch, 403)",
-      "rank": 9
+      "rank": 10
+    },
+    {
+      "id": "3b4581ec16829054",
+      "title": "Silver and Copper Lead Gold Lower as the Dollar Rises",
+      "summary": "December silver futures traded near $45.50 after touching $45.05, their lowest since September 19, 2025, as the dollar index hit its highest since April 2025. Analyst Przemyslaw Radomski argues silver is under pressure on both its monetary and industrial sides, with the gold-silver ratio near 83, its highest since November 2025; he sees gold possibly falling toward about $3,500.",
+      "url": "https://www.fxempire.com/forecasts/article/silver-and-copper-lead-gold-lower-as-the-dollar-rises-1645550",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "published_at": "2026-11-18T18:56:14Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "silver",
+        "gold",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "silver",
+        "gold"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://www.fxstreet.com/analysis/silver-and-copper-lead-gold-lower-as-the-dollar-rises-202611181856",
+        "https://www.kitco.com/opinion/2026-11-18/silver-and-copper-lead-gold-lower-dollar-rises"
+      ],
+      "rank": 11
     },
     {
       "id": "126c83631662ea8c",
@@ -366,7 +421,7 @@
       ],
       "breaking": false,
       "paywall": "no-verdict (host unreachable)",
-      "rank": 10
+      "rank": 12
     },
     {
       "id": "5a4e40214a790677",
@@ -390,7 +445,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 13
     },
     {
       "id": "6430eb25df66c573",
@@ -413,7 +468,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 14
     },
     {
       "id": "8756e4dff143b22c",
@@ -436,7 +491,33 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 13
+      "rank": 15
+    },
+    {
+      "id": "0accae578e0571fb",
+      "title": "RBI sets premature redemption price of Sovereign Gold Bond 2020-21 Series II at ₹13,345",
+      "summary": "The RBI has fixed the premature redemption price for Sovereign Gold Bond 2020-21 Series II at Rs 13,345 per unit for redemption due today, November 19, 2026. The price is the simple average of IBJA 999-purity gold closing prices on November 16, 17 and 18; the tranche was issued on May 19, 2020 and becomes eligible for early exit after five years.",
+      "url": "https://tradersunion.com/news/central-banks/show/4303622-rbi-sovereign-gold-bond-2020-21-premature-redemption-rate/",
+      "source": "Traders Union",
+      "source_domain": "tradersunion.com",
+      "publisher_id": "traders-union",
+      "published_at": "2026-11-18T14:56:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "rbi",
+        "india"
+      ],
+      "category": "policy",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63416"
+      ],
+      "rank": 16
     },
     {
       "id": "880407ceba39dd32",
@@ -459,62 +540,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 14
-    },
-    {
-      "url": "https://www.livemint.com/market/us-10-year-yield-set-for-historic-run-above-5-on-fed-cycle-11794948232494.html",
-      "title": "US 10-Year Yield Set for Historic Run Above 5% on Fed Cycle",
-      "summary": "The US 10-year Treasury yield is on pace for its 27th close above 5% in 2026, near the 29 of 2007, after hotter October inflation pushed traders to fully price a quarter-point Fed hike on December 9 and over 80 basis points of tightening by September 2027. The yield traded near 5.09% on Tuesday; JPMorgan's Priya Misra tied yields over 5% to a risk premium from uncertainty about the Fed.",
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "publisher_id": "mint",
-      "published_at": "2026-11-17T20:43:51Z",
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "global",
-        "fed"
-      ],
-      "image_url": null,
-      "image_kind": "none",
-      "id": "b60afdaf218fe898",
-      "breaking": false,
-      "rank": 15
-    },
-    {
-      "id": "67cd4133a671fe1c",
-      "title": "Gold struggles near one-year lows, silver rebounds as stocks slide, Fed hike bets persist - Kitco PM Report",
-      "summary": "Spot gold held near $3,853 in late US trading on Tuesday, just above Monday's 13-month low, while silver rebounded about 1% to $47.33 on bargain hunting. Weaker US data, lower yields and fresh geopolitical tensions competed with near-certain bets on a December Fed hike, and equities fell again. Traders now await US housing data and the Fed's October minutes on Wednesday.",
-      "url": "https://www.kitco.com/news/article/2026-11-17/gold-struggles-near-one-year-lows-silver-rebounds-stocks-slide-fed-hike",
-      "source": "Kitco",
-      "source_domain": "kitco.com",
-      "publisher_id": "kitco",
-      "published_at": "2026-11-17T22:06:24Z",
-      "image_url": "https://images.kitco.com/img/extract_0_0_1023_576,width_1200,enlarge,format_jpeg/icms/5768df25-c265-4c2d-a489-e51917a45667.jpeg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "fed",
-        "global",
-        "comex"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://www.livemint.com/market/gold-struggles-to-rebound-from-one-year-low-as-us-dollar-yields-advance-11794942964000.html",
-        "https://www.fxstreet.com/news/gold-recovers-its-retail-sales-drop-and-holds-above-mondays-low-202611171901",
-        "https://www.kitco.com/news/article/2026-11-17/gold-price-drops-3848oz-after-september-retail-sales-rise-02-core-rises-06"
-      ],
-      "rank": 16
+      "rank": 17
     },
     {
       "id": "30b0448b03029512",
@@ -539,7 +565,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 17
+      "rank": 18
     },
     {
       "id": "61a963e6ede025f7",
@@ -566,7 +592,7 @@
       "related_urls": [
         "https://www.fxstreet.com/analysis/silver-is-paying-for-a-rate-rise-that-has-not-happened-yet-202611172037"
       ],
-      "rank": 18
+      "rank": 19
     },
     {
       "id": "8edc7e37f67774ac",
@@ -589,7 +615,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 19
+      "rank": 20
     },
     {
       "id": "206ecd1475cd4688",
@@ -615,7 +641,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 20
+      "rank": 21
     },
     {
       "url": "https://www.thecore.in/business/jewellery-volumes-fall-spending-rises-buyers-trade-down-weight-purity-874215",
@@ -638,7 +664,7 @@
       "image_kind": "photo",
       "id": "d4065fb23b6494b6",
       "breaking": false,
-      "rank": 21
+      "rank": 22
     },
     {
       "id": "b60e5e0a4e88d66a",
@@ -661,7 +687,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 22
+      "rank": 23
     },
     {
       "id": "4d19b82d0f7fb9bd",
@@ -684,7 +710,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 23
+      "rank": 24
     },
     {
       "id": "1d166b01e9431e26",
@@ -707,7 +733,7 @@
         "global"
       ],
       "breaking": false,
-      "rank": 24
+      "rank": 25
     },
     {
       "id": "5e68b6e2d472fd7e",
@@ -731,33 +757,10 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 25,
+      "rank": 26,
       "related_urls": [
         "https://www.thehindubusinessline.com/markets/commodities/sebi-lowers-commodity-margins-to-encourage-market-participation-and-cut-hedging-costs/article71713243.ece"
       ]
-    },
-    {
-      "id": "c62e7b1a525d6422",
-      "title": "RBI announces premature redemption rate for Sovereign Gold Bonds due November 18",
-      "summary": "RBI has fixed the premature redemption price for Sovereign Gold Bond 2020-21 Series VIII at ₹13,499 per unit for redemption on November 18, 2026, based on the simple average of IBJA 999-purity gold closing prices on November 13, 16 and 17. The tranche was issued on November 18, 2020 at ₹5,127 per gram for online investors.",
-      "url": "https://www.devdiscourse.com/article/business/4008388-rbi-announces-premature-redemption-rate-for-sovereign-gold-bonds-due-november-18",
-      "source": "Devdiscourse",
-      "source_domain": "devdiscourse.com",
-      "publisher_id": "devdiscourse",
-      "published_at": "2026-11-17T14:08:46Z",
-      "image_url": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/17_11_2026_19_38_43_4807826.jpg&width=920&format=jpeg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "rbi",
-        "india"
-      ],
-      "category": "policy",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 26
     }
   ]
 }
