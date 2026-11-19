@@ -53,17 +53,17 @@ A single JSON object, UTF-8, at most 1 MiB:
 
 | Field | Type | Rule |
 |---|---|---|
-| `id` | string | Stable identity of the release. 3 to 48 characters, lowercase letters, digits and hyphens, starting and ending with a letter or digit. **Never change it after publishing.** A release that moves to another day keeps its id and changes `scheduled_at`. Convention: `<kind-slug>-<original scheduled date>`, with kind slugs `us-jobs`, `us-cpi`, `fed`, `rbi`, `budget`. Unique in the file. |
-| `kind` | string | One of `us_jobs`, `us_cpi`, `fed_rate`, `rbi_policy`, `union_budget`. |
-| `title` | string | 1 to 60 characters. Plain words for people, for example `US jobs report`, `US inflation (CPI)`, `Fed rate decision`, `RBI policy decision`, `Union Budget`. |
+| `id` | string | Stable identity of the release. 3 to 48 characters, lowercase letters, digits and hyphens, starting and ending with a letter or digit. **Never change it after publishing.** A release that moves to another day keeps its id and changes `scheduled_at`. Convention: `<kind-slug>-<original scheduled date>`, with kind slugs `us-jobs`, `us-cpi`, `fed`, `rbi`, `budget`, `us-core-pce`, `ism-mfg`, `ism-services`, `india-cpi`. Unique in the file. |
+| `kind` | string | One of `us_jobs`, `us_cpi`, `fed_rate`, `rbi_policy`, `union_budget`, `us_core_pce`, `ism_mfg_pmi`, `ism_services_pmi`, `india_cpi`. |
+| `title` | string | 1 to 60 characters. Plain words for people, for example `US jobs report`, `US inflation (CPI)`, `Fed rate decision`, `RBI policy decision`, `Union Budget`, `US core PCE inflation`, `ISM manufacturing PMI`, `ISM services PMI`, `India inflation (CPI)`. |
 | `status` | string | `scheduled`, `released` or `cancelled`. |
 | `scheduled_at` | string | RFC 3339 with the offset that was in force at that moment in `scheduled_tz`. **Store the release time in the zone the agency uses**, not in IST; the backend converts. |
-| `scheduled_tz` | string | IANA zone: `America/New_York` for `us_jobs`, `us_cpi` and `fed_rate`; `Asia/Kolkata` for `rbi_policy` and `union_budget`. The offset in `scheduled_at` must equal the zone's real offset at that instant (this catches a wrong daylight-saving offset: the US clocks change on 1 November 2026, so 8:30 am on 6 November is `-05:00`, while 8:30 am on 2 October is `-04:00`). |
+| `scheduled_tz` | string | IANA zone: `America/New_York` for `us_jobs`, `us_cpi`, `fed_rate`, `us_core_pce`, `ism_mfg_pmi` and `ism_services_pmi`; `Asia/Kolkata` for `rbi_policy`, `union_budget` and `india_cpi`. The offset in `scheduled_at` must equal the zone's real offset at that instant (this catches a wrong daylight-saving offset: the US clocks change on 1 November 2026, so 8:30 am on 6 November is `-05:00`, while 8:30 am on 2 October is `-04:00`). |
 | `metrics` | array | 1 to 6 items. The **first** item is the headline figure (payrolls for the jobs report). A `scheduled` or `cancelled` record may use an empty array; a `released` record needs at least one. |
 | `revisions` | array | 0 to 4 items. Only for `released` records whose release revised earlier figures; must be empty on `scheduled` and `cancelled` records. |
 | `summary` | string | One plain-language sentence, 1 to 160 characters. Required on every record. For a `scheduled` record it says what the release measures ("Monthly count of US jobs added, and the unemployment rate."). For a `released` record it says what happened. No markdown, no line breaks, no advice or opinion about gold or silver. |
 | `forecast_source` | string or null | Name of where forecasts came from, 1 to 40 characters. **Required (non-null) when any metric has a non-null `forecast`; must be null otherwise.** The app prints "expected figure from a public economic calendar; the reader does not verify it" beside it. |
-| `source_url` | string | `https` link to the official release or calendar page. Host must be a `.gov` host, a `.gov.in` host, or exactly `rbi.org.in` or `www.rbi.org.in` (the same "links only to official sites" rule the customs tracker uses). Anything else rejects the file. |
+| `source_url` | string | `https` link to the official release or calendar page. Host must be a `.gov` host, a `.gov.in` host, or exactly `rbi.org.in`, `www.rbi.org.in`, `ismworld.org` or `www.ismworld.org` (the same "links only to official sites" rule the customs tracker uses). Anything else rejects the file. |
 | `published_at` | string or null | RFC 3339. The moment the agent first wrote the actual result into the file. `null` while `scheduled` or `cancelled`; **required when `released`**. Must not be before `scheduled_at` minus one hour. |
 
 ### 3.2 Metric
@@ -86,6 +86,10 @@ For rate decisions use two metrics, upper and lower bound of the target range
 (`fed_funds_upper`, `fed_funds_lower`, unit `percent`), or one metric for the RBI repo
 rate (`repo_rate`, unit `percent`), with `previous` as the rate before the decision. The
 Union Budget has no figures to compare: use an empty `metrics` array and a `summary`.
+For core PCE use two metrics, `core_pce_yoy` first then `pce_yoy` (unit `percent`);
+for each ISM PMI use one metric, `pmi` (unit `index`); for India CPI use one metric,
+`cpi_yoy` (unit `percent`). In each case `previous` is the prior period's figure as
+revised, with `previous_first_print` when it differs.
 
 ### 3.3 Revision
 
@@ -145,7 +149,7 @@ so turning the feature on never floods people with old results.
 The reader is strict about text in `title`, `summary`, metric `label`, revision `label` and `forecast_source`. A single violation still rejects the whole file. The rule reads:
 
 | `forecast_source` | string or null | Name of where forecasts came from, 1 to 40 characters, [plain text](#plain-text) (a name, not a link). **Required (non-null) when any metric has a non-null `forecast`; must be null otherwise.** The app prints "expected figure from a public economic calendar; the reader does not verify it" beside it. |
-| `source_url` | string | `https` link to the official release or calendar page. Host must be a `.gov` host, a `.gov.in` host, or exactly `rbi.org.in` or `www.rbi.org.in` (the same "links only to official sites" rule the customs tracker uses). Anything else rejects the file. |
+| `source_url` | string | `https` link to the official release or calendar page. Host must be a `.gov` host, a `.gov.in` host, or exactly `rbi.org.in`, `www.rbi.org.in`, `ismworld.org` or `www.ismworld.org` (the same "links only to official sites" rule the customs tracker uses). Anything else rejects the file. |
 | `published_at` | string or null | RFC 3339. The moment the agent first wrote the actual result into the file. `null` while `scheduled` or `cancelled`; **required when `released`**. Must not be before `scheduled_at` minus one hour. |
 
 <a id="plain-text"></a>**Plain text.** `title`, `summary`, `forecast_source` and every metric and revision

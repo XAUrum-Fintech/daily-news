@@ -38,6 +38,20 @@ Reachability from this network (verified 2026-10-04; re-check yearly):
       results        https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx
   - indiabudget.gov.in / pib.gov.in: reachable. Publish a budget record only
     when the date is officially announced; never guess.
+  - bea.gov: curl works.
+      schedule       https://www.bea.gov/news/schedule
+      results        https://www.bea.gov/news/2026/personal-income-and-outlays-<month>-2026
+                     (Personal Income and Outlays, 8:30 am New York time)
+  - ismworld.org: curl works for the calendar page; full reports are
+    member-only but the headline PMI is published.
+      calendar       https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/
+                     (Manufacturing 1st business day, Services 3rd business
+                     day, 10:00 am New York time; 2027 dates provisional)
+  - mospi.gov.in: curl works.
+      calendar       https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf
+                     (Advance Release Calendar 2026-27)
+      results        CPI press-release PDFs on mospi.gov.in
+                     (12th, next working day if a holiday, 4:00 pm IST)
 
 All figures and dates come from the official source only. If an official
 page cannot be read, publish nothing new for that release.
@@ -65,7 +79,11 @@ STALE_COMMIT_HOURS = 30
 
 TITLES = {"us_jobs": "US jobs report", "us_cpi": "US inflation (CPI)",
           "fed_rate": "Fed rate decision", "rbi_policy": "RBI policy decision",
-          "union_budget": "Union Budget"}
+          "union_budget": "Union Budget",
+          "us_core_pce": "US core PCE inflation",
+          "ism_mfg_pmi": "ISM manufacturing PMI",
+          "ism_services_pmi": "ISM services PMI",
+          "india_cpi": "India inflation (CPI)"}
 SCHED_SUMMARY = {
     "us_jobs": "Monthly count of US jobs added, and the unemployment rate.",
     "us_cpi": "How much US consumer prices rose over the past year.",
@@ -73,10 +91,20 @@ SCHED_SUMMARY = {
     "rbi_policy": "India's central bank announces the repo rate.",
     "union_budget": ("The Finance Minister presents India's annual budget, "
                      "including customs duty changes."),
+    "us_core_pce": ("How much US prices rose over the past year, "
+                    "excluding food and energy."),
+    "ism_mfg_pmi": ("Monthly survey of US factory activity; "
+                    "above 50 means expansion."),
+    "ism_services_pmi": ("Monthly survey of US services activity; "
+                         "above 50 means expansion."),
+    "india_cpi": "How much Indian consumer prices rose over the past year.",
 }
 TZ = {"us_jobs": "America/New_York", "us_cpi": "America/New_York",
       "fed_rate": "America/New_York", "rbi_policy": "Asia/Kolkata",
-      "union_budget": "Asia/Kolkata"}
+      "union_budget": "Asia/Kolkata", "us_core_pce": "America/New_York",
+      "ism_mfg_pmi": "America/New_York",
+      "ism_services_pmi": "America/New_York",
+      "india_cpi": "Asia/Kolkata"}
 
 # Officially verified 2026-10-04. BLS via text-fetch (curl blocked);
 # Fed calendar via curl; RBI MPC schedule press release prid=62422.
@@ -118,6 +146,148 @@ VERIFIED_SCHEDULE = [
      "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62422"),
     ("rbi_policy", 2027, 2, 5, 10, 0, "+05:30",
      "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62422"),
+    # 2026-11-19 (ORO-401): four new kinds, backend acceptance confirmed.
+    # PCE: BEA Personal Income and Outlays, 8:30 am ET, bea.gov/news/schedule.
+    # Past releases seeded as released records; listed here per the existing
+    # pattern (build_file skips table entries already released).
+    ("us_core_pce", 2026, 8, 26, 8, 30, "-04:00",
+     "https://www.bea.gov/news/schedule"),
+    ("us_core_pce", 2026, 9, 30, 8, 30, "-04:00",
+     "https://www.bea.gov/news/schedule"),
+    ("us_core_pce", 2026, 10, 29, 8, 30, "-04:00",
+     "https://www.bea.gov/news/schedule"),
+    ("us_core_pce", 2026, 11, 25, 8, 30, "-05:00",
+     "https://www.bea.gov/news/schedule"),
+    ("us_core_pce", 2026, 12, 23, 8, 30, "-05:00",
+     "https://www.bea.gov/news/schedule"),
+    ("us_core_pce", 2027, 1, 28, 8, 30, "-05:00",
+     "https://www.bea.gov/news/schedule"),
+    ("us_core_pce", 2027, 2, 25, 8, 30, "-05:00",
+     "https://www.bea.gov/news/schedule"),
+    ("us_core_pce", 2027, 3, 31, 8, 30, "-04:00",
+     "https://www.bea.gov/news/schedule"),
+    ("us_core_pce", 2027, 4, 29, 8, 30, "-04:00",
+     "https://www.bea.gov/news/schedule"),
+    ("us_core_pce", 2027, 5, 27, 8, 30, "-04:00",
+     "https://www.bea.gov/news/schedule"),
+    ("us_core_pce", 2027, 6, 25, 8, 30, "-04:00",
+     "https://www.bea.gov/news/schedule"),
+    ("us_core_pce", 2027, 7, 29, 8, 30, "-04:00",
+     "https://www.bea.gov/news/schedule"),
+    ("us_core_pce", 2027, 8, 25, 8, 30, "-04:00",
+     "https://www.bea.gov/news/schedule"),
+    ("us_core_pce", 2027, 9, 30, 8, 30, "-04:00",
+     "https://www.bea.gov/news/schedule"),
+    ("us_core_pce", 2027, 10, 28, 8, 30, "-04:00",
+     "https://www.bea.gov/news/schedule"),
+    ("us_core_pce", 2027, 11, 24, 8, 30, "-05:00",
+     "https://www.bea.gov/news/schedule"),
+    ("us_core_pce", 2027, 12, 22, 8, 30, "-05:00",
+     "https://www.bea.gov/news/schedule"),
+    # ISM: Report Release Date Calendar on ismworld.org (verified 2026-11-19;
+    # Dec 2026 dates confirmed there). 2027 dates are rule-derived
+    # (Manufacturing 1st business day, Services 3rd business day) and
+    # PROVISIONAL until ISM publishes its 2027 calendar; roll corrections
+    # in place (same ids). Release 10:00 am ET.
+    ("ism_mfg_pmi", 2026, 9, 1, 10, 0, "-04:00",
+     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
+    ("ism_mfg_pmi", 2026, 10, 1, 10, 0, "-04:00",
+     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
+    ("ism_mfg_pmi", 2026, 11, 2, 10, 0, "-05:00",
+     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
+    ("ism_mfg_pmi", 2026, 12, 1, 10, 0, "-05:00",
+     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
+    ("ism_mfg_pmi", 2027, 1, 4, 10, 0, "-05:00",
+     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
+    ("ism_mfg_pmi", 2027, 2, 1, 10, 0, "-05:00",
+     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
+    ("ism_mfg_pmi", 2027, 3, 1, 10, 0, "-05:00",
+     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
+    ("ism_mfg_pmi", 2027, 4, 1, 10, 0, "-04:00",
+     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
+    ("ism_mfg_pmi", 2027, 5, 3, 10, 0, "-04:00",
+     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
+    ("ism_mfg_pmi", 2027, 6, 1, 10, 0, "-04:00",
+     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
+    ("ism_mfg_pmi", 2027, 7, 1, 10, 0, "-04:00",
+     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
+    ("ism_mfg_pmi", 2027, 8, 2, 10, 0, "-04:00",
+     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
+    ("ism_mfg_pmi", 2027, 9, 1, 10, 0, "-04:00",
+     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
+    ("ism_mfg_pmi", 2027, 10, 1, 10, 0, "-04:00",
+     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
+    ("ism_mfg_pmi", 2027, 11, 1, 10, 0, "-04:00",
+     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
+    ("ism_mfg_pmi", 2027, 12, 1, 10, 0, "-05:00",
+     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
+    ("ism_services_pmi", 2026, 9, 3, 10, 0, "-04:00",
+     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
+    ("ism_services_pmi", 2026, 10, 5, 10, 0, "-04:00",
+     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
+    ("ism_services_pmi", 2026, 11, 4, 10, 0, "-05:00",
+     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
+    ("ism_services_pmi", 2026, 12, 3, 10, 0, "-05:00",
+     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
+    ("ism_services_pmi", 2027, 1, 6, 10, 0, "-05:00",
+     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
+    ("ism_services_pmi", 2027, 2, 3, 10, 0, "-05:00",
+     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
+    ("ism_services_pmi", 2027, 3, 3, 10, 0, "-05:00",
+     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
+    ("ism_services_pmi", 2027, 4, 5, 10, 0, "-04:00",
+     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
+    ("ism_services_pmi", 2027, 5, 5, 10, 0, "-04:00",
+     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
+    ("ism_services_pmi", 2027, 6, 3, 10, 0, "-04:00",
+     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
+    ("ism_services_pmi", 2027, 7, 6, 10, 0, "-04:00",
+     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
+    ("ism_services_pmi", 2027, 8, 4, 10, 0, "-04:00",
+     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
+    ("ism_services_pmi", 2027, 9, 3, 10, 0, "-04:00",
+     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
+    ("ism_services_pmi", 2027, 10, 5, 10, 0, "-04:00",
+     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
+    ("ism_services_pmi", 2027, 11, 3, 10, 0, "-04:00",
+     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
+    ("ism_services_pmi", 2027, 12, 3, 10, 0, "-05:00",
+     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
+    # India CPI: MoSPI Advance Release Calendar 2026-27 (12th, next working
+    # day if a holiday, 4:00 pm IST). 2027 dates verified from the calendar
+    # + the 12th/next-working-day rule 2026-11-14.
+    ("india_cpi", 2026, 9, 14, 16, 0, "+05:30",
+     "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf"),
+    ("india_cpi", 2026, 10, 12, 16, 0, "+05:30",
+     "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf"),
+    ("india_cpi", 2026, 11, 12, 16, 0, "+05:30",
+     "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf"),
+    ("india_cpi", 2026, 12, 14, 16, 0, "+05:30",
+     "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf"),
+    ("india_cpi", 2027, 1, 12, 16, 0, "+05:30",
+     "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf"),
+    ("india_cpi", 2027, 2, 12, 16, 0, "+05:30",
+     "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf"),
+    ("india_cpi", 2027, 3, 12, 16, 0, "+05:30",
+     "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf"),
+    ("india_cpi", 2027, 4, 12, 16, 0, "+05:30",
+     "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf"),
+    ("india_cpi", 2027, 5, 12, 16, 0, "+05:30",
+     "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf"),
+    ("india_cpi", 2027, 6, 14, 16, 0, "+05:30",
+     "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf"),
+    ("india_cpi", 2027, 7, 12, 16, 0, "+05:30",
+     "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf"),
+    ("india_cpi", 2027, 8, 12, 16, 0, "+05:30",
+     "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf"),
+    ("india_cpi", 2027, 9, 13, 16, 0, "+05:30",
+     "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf"),
+    ("india_cpi", 2027, 10, 12, 16, 0, "+05:30",
+     "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf"),
+    ("india_cpi", 2027, 11, 12, 16, 0, "+05:30",
+     "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf"),
+    ("india_cpi", 2027, 12, 13, 16, 0, "+05:30",
+     "https://www.mospi.gov.in/uploads/documents/releaseCalender/1791356248513-ARC_2026_27_Sept_2026.pdf"),
 ]
 
 # Removed events (2026-11-14, ORO-401): ids listed here stay removed forever.
@@ -128,7 +298,9 @@ VERIFIED_SCHEDULE = [
 REMOVED_IDS = set()
 # kind -> date string for the slug date part of the id.
 ID_SLUGS = {"us_jobs": "us-jobs", "us_cpi": "us-cpi", "fed_rate": "fed",
-            "rbi_policy": "rbi", "union_budget": "budget"}
+            "rbi_policy": "rbi", "union_budget": "budget",
+            "us_core_pce": "us-core-pce", "ism_mfg_pmi": "ism-mfg",
+            "ism_services_pmi": "ism-services", "india_cpi": "india-cpi"}
 
 
 def log(msg):

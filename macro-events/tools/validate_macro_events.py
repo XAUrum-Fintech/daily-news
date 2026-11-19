@@ -18,14 +18,18 @@ try:
 except ImportError:  # pragma: no cover
     from backports.zoneinfo import ZoneInfo  # type: ignore
 
-KINDS = {"us_jobs", "us_cpi", "fed_rate", "rbi_policy", "union_budget"}
+KINDS = {"us_jobs", "us_cpi", "fed_rate", "rbi_policy", "union_budget",
+         "us_core_pce", "ism_mfg_pmi", "ism_services_pmi", "india_cpi"}
 STATUSES = {"scheduled", "released", "cancelled"}
 UNITS = {"thousand_jobs": (-30000, 30000),
          "percent": (-100, 1000),
          "index": (-1000000, 1000000)}
 KINDS_TZ = {"us_jobs": "America/New_York", "us_cpi": "America/New_York",
             "fed_rate": "America/New_York", "rbi_policy": "Asia/Kolkata",
-            "union_budget": "Asia/Kolkata"}
+            "union_budget": "Asia/Kolkata", "us_core_pce": "America/New_York",
+            "ism_mfg_pmi": "America/New_York",
+            "ism_services_pmi": "America/New_York",
+            "india_cpi": "Asia/Kolkata"}
 
 ID_RE = re.compile(r"^[a-z0-9](?:[a-z0-9-]{1,46}[a-z0-9])?$")
 KEY_RE = re.compile(r"^[a-z0-9_]{1,40}$")
@@ -243,6 +247,7 @@ def validate_record(r, idx, seen_ids, generated_at):
             p = None
         host = (p.hostname or "").lower() if p else ""
         ok_host = (host == "rbi.org.in" or host == "www.rbi.org.in"
+                   or host in ("ismworld.org", "www.ismworld.org")
                    or host.endswith(".gov") or host.endswith(".gov.in"))
         if not p or p.scheme != "https" or not ok_host:
             err(f"{rid}.source_url: https on .gov/.gov.in/rbi.org.in only: "
