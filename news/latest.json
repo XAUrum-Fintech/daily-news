@@ -1,16 +1,16 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-19T08:00Z",
-  "generated_at": "2026-11-19T08:12:01Z",
+  "edition_id": "2026-11-19T09:00Z",
+  "generated_at": "2026-11-19T09:06:31Z",
   "window": {
-    "from": "2026-11-19T07:00:00Z",
-    "to": "2026-11-19T08:00:00Z"
+    "from": "2026-11-19T08:00:00Z",
+    "to": "2026-11-19T09:00:00Z"
   },
   "insights": {
-    "headline": "Gold steadies near $3,700 as Iran tensions temper Fed-driven slide",
-    "summary": "Spot gold held near $3,700 an ounce on Thursday after breaching the level for the first time in 14 months, finding some support as tensions with Iran escalated, while MCX December gold traded near Rs 1,30,200 per 10 g and silver near Rs 1,61,054 per kg. CME FedWatch priced about a 90% chance of a quarter-point Fed hike in December, keeping the dollar near its highest since April 2025. Silver stayed near $45 an ounce, about 63% below its January peak, and festive gold sales value rose 15-25% year-on-year, the World Gold Council said.",
+    "headline": "Gold steadies near $3,730 after dipping below $3,700",
+    "summary": "Spot gold traded near $3,730 an ounce on Thursday after briefly dipping below $3,700, its lowest since September 2025, as hawkish Fed minutes and a stronger dollar weighed; silver recovered to about $45.43 after slipping below $45. MCX December gold traded near Rs 1,30,200 per 10 g and silver near Rs 1,61,054 per kg, with markets pricing about a 90% chance of a quarter-point Fed hike in December.",
     "points": [
-      "Spot gold held near $3,700 an ounce after breaching the level for the first time in 14 months, with support at $3,690.",
+      "Spot gold traded near $3,730 an ounce after briefly dipping below $3,700, its lowest since September 2025, with support at $3,690.",
       "MCX gold traded near Rs 1,30,200 per 10 g and silver near Rs 1,61,054 per kg in the morning session.",
       "Gold is down about 33.5% and silver nearly 63% from January record highs; silver would need about a 170% rally to reclaim its peak.",
       "CME FedWatch priced about a 90% chance of a quarter-point December Fed hike, with a 10% chance of a half-point move.",
@@ -53,8 +53,9 @@
   "trending": [
     {
       "title": "Fed hike bets keep bullion under pressure",
-      "summary": "Hawkish Fed minutes and officials talking up more hikes have lifted the dollar and yields, pushing gold below $3,700 and silver near $45.",
+      "summary": "Hawkish Fed minutes and officials talking up more hikes have lifted the dollar and yields, pushing gold below $3,700 before a partial recovery to about $3,730, with silver near $45.",
       "item_ids": [
+        "483c6306bd67d091",
         "2b102a282296c3e6",
         "73319887df16953c",
         "2c7d1c82e3263439",
@@ -66,6 +67,7 @@
       "title": "Silver steadies after a steeper fall",
       "summary": "Silver fell further and faster than gold, down nearly 63% from its January peak, but steadied near $45 as analysts debate whether the selloff is exhausted.",
       "item_ids": [
+        "483c6306bd67d091",
         "8a8311caf7e653d6",
         "c83f930be26e7fa2",
         "30b0448b03029512",
@@ -77,8 +79,7 @@
       "summary": "Dhanteras-Diwali gold sales value rose 15-25% even as prices ran higher, and the World Gold Council says lower prices should support wedding-season jewellery demand.",
       "item_ids": [
         "8bf6bfb24e9a3a32",
-        "b60e5e0a4e88d66a",
-        "4d19b82d0f7fb9bd"
+        "b60e5e0a4e88d66a"
       ]
     },
     {
@@ -123,6 +124,31 @@
       "rank": 1
     },
     {
+      "id": "483c6306bd67d091",
+      "title": "Gold trades near $3,730 after briefly dipping below $3,700 on hawkish Fed signals",
+      "summary": "Spot gold traded near $3,730 an ounce on Thursday after briefly slipping below $3,700, its lowest since September 2025, as a stronger dollar and hawkish Fed minutes weighed. Silver recovered to about $45.43 after dropping below $45, while markets priced about a 90% chance of a quarter-point Fed hike in December and a 10% chance of a half-point move.",
+      "url": "https://www.aa.com.tr/en/economy/gold-trades-near-3-730-after-briefly-dipping-below-3-700-on-hawkish-fed-signals/4130217",
+      "source": "Anadolu Ajansı",
+      "source_domain": "aa.com.tr",
+      "publisher_id": "anadolu-ajansi",
+      "published_at": "2026-11-19T08:48:49Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "silver",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 2
+    },
+    {
       "id": "15ec48a6948c144e",
       "title": "Gold Rebounds as Iran Tensions Escalate, but $3,667 Support Faces a Test",
       "summary": "Gold rebounded as tensions with Iran escalated, Investing.com reported, though the $3,667 level remains a key support to watch after the slide to a 14-month low.",
@@ -141,7 +167,7 @@
       "metals": [
         "gold"
       ],
-      "rank": 2,
+      "rank": 3,
       "breaking": false
     },
     {
@@ -166,7 +192,7 @@
         "gold",
         "silver"
       ],
-      "rank": 3,
+      "rank": 4,
       "breaking": false
     },
     {
@@ -190,12 +216,12 @@
         "gold",
         "silver"
       ],
-      "rank": 4,
+      "rank": 5,
       "breaking": false
     },
     {
       "id": "73319887df16953c",
-      "rank": 5,
+      "rank": 6,
       "title": "Gold plunges below $3,750, silver tumbles as hawkish Fed minutes pressure metals",
       "summary": "Spot gold fell 3.3% to $3,722.60 an ounce, its lowest since September 2025, and silver slid 5% to $44.93 after the Fed's October minutes reinforced expectations of more rate hikes. Governor Waller raised a possible half-point December move, the dollar held near a 19-month high and the 10-year yield stayed above 5%, while US housing data pointed to weakness.",
       "url": "https://www.kitco.com/news/article/2026-11-18/gold-plunges-below-3750-silver-tumbles-hawkish-fed-minutes-pressure-metals",
@@ -241,7 +267,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "2c7d1c82e3263439",
@@ -266,7 +292,7 @@
         "global"
       ],
       "breaking": false,
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "4ff1626797d6f58d",
@@ -289,33 +315,8 @@
         "gold",
         "silver"
       ],
-      "rank": 8,
+      "rank": 9,
       "breaking": false
-    },
-    {
-      "id": "3b189941f89fae58",
-      "title": "Gold and silver price on Nov 19: MCX gold trades in red at ₹1.29 lakh per 10 gm, Silver edges 1% higher",
-      "summary": "MCX December gold traded 0.13% lower at ₹1,29,650 per 10 g on Thursday morning, while December silver rose 0.5% to ₹1,61,661 per kg. Global gold edged up after Wednesday's sharp plunge, and silver rose nearly 1% internationally after falling almost 5% in the previous session.",
-      "url": "https://upstox.com/news/market-news/commodities/gold-and-silver-price-on-nov-19-mcx-gold-trades-in-red-at-1-29-lakh-per-10-gm-silver-edges-1-higher/article-203689/",
-      "source": "Upstox",
-      "source_domain": "upstox.com",
-      "publisher_id": "upstox",
-      "published_at": "2026-11-19T06:17:22Z",
-      "image_url": "https://assets.upstox.com/content/assets/images/news/gold-silver-prices-today-12-feb.webp",
-      "image_kind": "photo",
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "india"
-      ],
-      "breaking": false,
-      "rank": 9
     },
     {
       "id": "634cf0e7dfc01771",
@@ -561,29 +562,6 @@
       "rank": 19
     },
     {
-      "id": "4d19b82d0f7fb9bd",
-      "title": "India gold market update: Gold demand gets festive boost",
-      "summary": "The World Gold Council says festive demand was healthy across regions in jewellery and bars and coins, helped by softer prices; Indian gold ETFs saw a fifth straight month of net inflows in October at Rs 35bn, imports rebounded to a six-month high, and domestic discounts narrowed to $5/oz by 12 November.",
-      "url": "https://www.gold.org/goldhub/gold-focus/2026/11/india-gold-market-update-gold-demand-gets-festive-boost",
-      "source": "World Gold Council",
-      "source_domain": "gold.org",
-      "publisher_id": "world-gold-council",
-      "published_at": "2026-11-17T08:54:09Z",
-      "image_url": "https://www.gold.org/sites/default/files/default_images/WGC-Social-1200x630.jpeg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "india",
-        "jewellery"
-      ],
-      "category": "festive",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 20
-    },
-    {
       "id": "b2935299b5091f31",
       "title": "$32 Billion Squeeze: Why India's Massive Gold Import Bill Is Shrinking Fast",
       "summary": "India's gold import bill could fall to $35-40 billion in FY27 from nearly $72 billion in FY26, NDTV Profit reports, with gold imports down about 40% to $24.78 billion in April-October. Commerce Secretary Rajesh Agrawal attributed the fall to the higher customs duty introduced in May, which made overseas purchases more expensive.",
@@ -606,7 +584,7 @@
       ],
       "breaking": false,
       "paywall": "no-verdict (host blocks fetch, 403)",
-      "rank": 21
+      "rank": 20
     },
     {
       "id": "8756e4dff143b22c",
@@ -629,7 +607,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 22
+      "rank": 21
     },
     {
       "id": "6430eb25df66c573",
@@ -652,7 +630,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 23
+      "rank": 22
     },
     {
       "id": "ea1330fd82bd5753",
@@ -676,7 +654,7 @@
         "global"
       ],
       "breaking": false,
-      "rank": 24
+      "rank": 23
     },
     {
       "id": "880407ceba39dd32",
@@ -699,7 +677,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 25
+      "rank": 24
     },
     {
       "id": "1d166b01e9431e26",
@@ -722,7 +700,7 @@
         "global"
       ],
       "breaking": false,
-      "rank": 26
+      "rank": 25
     },
     {
       "id": "8edc7e37f67774ac",
@@ -745,7 +723,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 27
+      "rank": 26
     },
     {
       "url": "https://www.thecore.in/business/jewellery-volumes-fall-spending-rises-buyers-trade-down-weight-purity-874215",
@@ -768,7 +746,7 @@
       "image_kind": "photo",
       "id": "d4065fb23b6494b6",
       "breaking": false,
-      "rank": 28
+      "rank": 27
     },
     {
       "id": "5e68b6e2d472fd7e",
@@ -792,7 +770,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 29
+      "rank": 28
     }
   ]
 }
