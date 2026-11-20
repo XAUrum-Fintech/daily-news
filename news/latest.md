@@ -1,50 +1,50 @@
-# Gold & Silver for Indian buyers · 2026-11-20T02:00Z
+# Gold & Silver for Indian buyers · 2026-11-20T03:00Z
 
-## Today's brief
-**Gold at 14-month low as Fed hike bets grow**
+> Gold tests $3,650 support as silver slides to $42; MCX gold under Rs 1.30 lakh
 
-Spot gold fell to $3,630, a 14-month low, as Fed minutes pointed to more hikes; MCX gold stayed under Rs 1.30 lakh.
+Spot gold fell to a new low of $3,667 and tested $3,650 support, with FXEmpire flagging $3,500 next if it fails, as Fed minutes pointed to more hikes and markets priced a 97.3% chance of a December hike. Silver slid to a year-to-date low near $42, deeply oversold, while MCX gold stayed below Rs 1.30 lakh per 10 g and silver near Rs 1.60 lakh per kg. Banks still see gold at $4,650-$5,000 in 2027, and China's central bank extended its gold-buying streak to 24 months.
 
-- Hawkish Fed minutes lifted the dollar and yields, pressuring gold, FXStreet says, while traders also reacted to the US equities pullback.
-- Festive gold sales value rose 15-25%, WGC data shows, while a Dainik Bhaskar probe found rhenium-laced jewellery passing hallmark tests.
-- US core PCE inflation lands on November 25 at 7:00 pm IST, the next test of the Fed's rate path before its December 9 decision.
-
-> Gold slides to 14-month low as Fed hike bets build
-
-Spot gold slid to about $3,630 an ounce, its lowest since September 2025, after Fed minutes showed almost all officials expect rates to move higher, with markets pricing a 97.3% chance of a quarter-point December hike. MCX gold stayed below Rs 1.30 lakh per 10 g, down Rs 12,400 since November 9, and silver slipped below $45 an ounce. UBS still sees gold at $5,000 by end-2027 and Goldman Sachs at $4,650, while China's central bank stretched its buying streak to 24 months.
-
-- Spot gold fell to about $3,630, a 14-month low, after Fed minutes showed almost all officials expect rates to move higher.
-- Markets price a 97.3% chance of a quarter-point Fed hike in December, and FedWatch shows a 46.6% chance of at least 75 bps across the next three meetings.
-- Silver slipped below $45 an ounce to $44.44, with the next support near $42.50; the gold/silver ratio climbed toward 83.
+- Spot gold fell to a new low of $3,667 and tested $3,650 support; FXEmpire flags $3,500 next if $3,650 fails.
+- Silver slid to a year-to-date low near $42, with RSI at 15.31 deeply oversold; support sits near $41.87.
+- Markets price a 97.3% chance of a quarter-point Fed hike in December, and FedWatch shows a 46.6% chance of at least 75 bps over the next three meetings.
 - MCX gold stayed below Rs 1.30 lakh per 10 g, down Rs 12,400 since November 9; silver held near Rs 1.60 lakh per kg.
 - UBS sees gold at $5,000 by end-2027 and Goldman Sachs at $4,650, while China's central bank extended its buying streak to 24 months.
 
+## Today's brief
+**Gold tests $3,650 as silver slides to $42**
+
+Spot gold tested $3,650 support after a $3,667 low, while silver slid to a year-to-date low near $42 on Fed hike bets.
+
+- FXEmpire says gold may test $3,500 next if $3,650 support fails, after Fed minutes showed almost all officials expect more hikes.
+- MCX gold stayed below Rs 1.30 lakh per 10 g, down Rs 12,400 since November 9, while festive gold sales value rose 15-25%, WGC data shows.
+- US core PCE inflation lands on November 25 at 7:00 pm IST, the next test of the Fed's rate path before its December 9 decision.
+
 ## Trending
-- **Fed hike bets keep bullion under pressure**: Hawkish Fed minutes and a strong dollar pushed gold below $3,650 to about $3,630, a 14-month low, with a 97.3% chance of a December hike priced in; banks still see $4,650-$5,000 in 2027. (stories 1, 2, 7, 9, 8, 15, 13, 3, 11)
-- **Silver slides below $45**: Silver slipped below $45 to $44.44, with the next support near $42.50, yet London's vaults shed metal in October and Bank of America still sees $75 an ounce in 2027. (stories 4, 3, 16, 14, 23)
-- **MCX gold under Rs 1.30 lakh**: MCX gold stayed below Rs 1.30 lakh per 10 g, down Rs 12,400 since November 9, while Delhi retail gold fell to Rs 1,34,500 and silver held near Rs 1.60 lakh per kg. (stories 6, 10, 17, 18, 19, 20, 21)
-- **Hallmark purity under scrutiny**: A Dainik Bhaskar probe found rhenium-laced jewellery passing hallmark tests, and a draft CAG audit found 81% of jewellers uninspected in 2024-25; buyers can verify a piece's HUID in the BIS Care app. (stories 5)
-- **Central banks still buying on dips**: China's central bank added 26 tonnes in October, its 24th straight month of buying, while central banks bought 675 tonnes in January-September. (stories 24, 12)
+- **Fed hike bets keep bullion under pressure**: Hawkish Fed minutes and a strong dollar pushed gold to a new low of $3,667 and a test of $3,650 support, with a 97.3% chance of a December hike priced in; banks still see $4,650-$5,000 in 2027. (stories #335fe6b7631483d7, #240d56f694c4f1b0, #b86f2c71d54db6a9, #2de8da693b3ac2e6, #3f143c808fae59b4, #b7744a45d29fe44a, #176285ae74211cd6, #a3da30fa3839ddad)
+- **Silver slides to $42**: Silver slid to a year-to-date low near $42, deeply oversold, yet London's vaults shed metal in October and Bank of America still sees $75 an ounce in 2027. (stories #423d5f2427002ad7, #25414d7e065dedb7, #6d2100c79387d028, #9061735c0db3963d, #6779536174213ba6)
+- **MCX gold under Rs 1.30 lakh**: MCX gold stayed below Rs 1.30 lakh per 10 g, down Rs 12,400 since November 9, while Delhi retail gold fell to Rs 1,34,500 and silver held near Rs 1.60 lakh per kg. (stories #8067964260d83b34, #0f7767803f28ab6a, #e860df60567bbb33, #c83f930be26e7fa2, #91d1b23454c6903b, #b1e16f06f2843aa3, #6d4c483a2f0ba7a3)
+- **Hallmark purity under scrutiny**: A Dainik Bhaskar probe found rhenium-laced jewellery passing hallmark tests, and a draft CAG audit found 81% of jewellers uninspected in 2024-25; buyers can verify a piece's HUID in the BIS Care app. (stories #7d9738744dd54477)
+- **Central banks still buying on dips**: China's central bank added 26 tonnes in October, its 24th straight month of buying, while central banks bought 675 tonnes in January-September. (stories #8eb5683c53729419, #b2945b7f16fb0b88)
 
 ## Stories
 1. [Gold falls to 14-month low below $3,650 on hawkish Fed signals](https://www.fxstreet.com/news/gold-falls-to-14-month-low-below-3-650-on-hawkish-fed-signals-202611192321) — *FXStreet*, 2026-11-19T23:21:49Z
    Spot gold slid to about $3,630 in early Asian trading on Friday, down more than 2.5% on the day to its lowest since September 2025. Minutes from the Fed's October meeting showed almost all officials expect rates to move higher, and markets now price a 97.3% chance of a quarter-point December hike.
-2. [Gold (XAUUSD), Silver, Platinum Forecasts – Gold Tests Yearly Lows As Sell-Off Continues](https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-tests-yearly-lows-as-sell-off-continues-1645866) — *FXEmpire*, 2026-11-19T18:14:54Z
+2. [Gold (XAU/USD) Price Forecast: Deeper Decline Targets $3,500 Support Zone](https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-deeper-decline-targets-3500-support-zone-1645938) — *FXEmpire*, 2026-11-19T22:28:44Z
+   Gold fell to a new low of $3,667 on Wednesday and entered a Fibonacci support zone of $3,706 to $3,650, FXEmpire says. If $3,650 fails, the next support is the April 2025 peak at $3,500, with $3,475 to $3,447 below; countertrend rallies face overhead resistance while the decline stays in its early stages.
+3. [Silver Forecast: XAG/USD hits YTD low near $42.00 in oversold slide](https://www.fxstreet.com/news/silver-price-forecast-xag-usd-bears-retain-control-below-4200-amid-oversold-conditions-202611200251) — *FXStreet*, 2026-11-20T02:51:17Z
+   Silver fell for a third straight day to its lowest since September 2025 in Friday's Asian session, near $42, FXStreet says. The metal held above the mid-$41s, with RSI at 15.31 deeply oversold; channel support sits near $41.87, with resistance at $44.80 and the 100-hour average at $46.20.
+4. [Gold (XAUUSD), Silver, Platinum Forecasts – Gold Tests Yearly Lows As Sell-Off Continues](https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-tests-yearly-lows-as-sell-off-continues-1645866) — *FXEmpire*, 2026-11-19T18:14:54Z
    Gold is trying to settle below $3,700, FXEmpire said, with the next support at $3,630-$3,650 and $3,500-$3,520 after that, as traders focus on the hawkish Fed outlook and a pullback in US equities. FedWatch shows a 46.6% chance of at least 75 basis points of hikes across the next three meetings; the dollar is near yearly highs and the gold/silver ratio sits near 82.50.
-3. [Gold's 14-month low looks mild next to Silver's fall from $121 to $44](https://www.fxstreet.com/analysis/golds-14-month-low-looks-mild-next-to-silvers-fall-from-121-to-44-202611191824) — *FXStreet*, 2026-11-19T18:24:34Z
-   Gold is trading below $3,700, down about a third from its near-$5,600 record in late January, while silver has fallen nearly two-thirds from above $121 to under $45. FXStreet puts the gap down to central-bank buying supporting gold, with no equivalent buyer for silver, as Fed rate-hike bets drive both metals lower.
-4. [Silver Tests 4500 as Palladium Challenges Long-Term Support](https://talkmarkets.com/article/silver-tests-4500-as-palladium-challenges-long-term-support) — *TalkMarkets*, 2026-11-19T19:21:26Z
+5. [Silver Tests 4500 as Palladium Challenges Long-Term Support](https://talkmarkets.com/article/silver-tests-4500-as-palladium-challenges-long-term-support) — *TalkMarkets*, 2026-11-19T19:21:26Z
    Silver slipped beneath the $45.00 level, falling to $44.44 intraday, and a confirmed daily close below $45 would strengthen the bearish case, with the next target near $42.50. Palladium broke below its long-term support and its November low of $922, with $900 and $882 the next downside markers.
-5. [Gold Adulteration Scam: How Chinese Rhenium Powder Can Fool Purity Tests](https://www.outlookmoney.com/invest/gold-adulteration-scam-chinese-rhenium-powder-gold-purity-tests) — *Outlook Money*, 2026-11-18T11:20:21Z
+6. [Gold Adulteration Scam: How Chinese Rhenium Powder Can Fool Purity Tests](https://www.outlookmoney.com/invest/gold-adulteration-scam-chinese-rhenium-powder-gold-purity-tests) — *Outlook Money*, 2026-11-18T11:20:21Z
    A Dainik Bhaskar investigation in Jodhpur found jewellery made with rhenium powder passing purity tests and receiving a 22-carat hallmark despite containing only about 81.7% gold, Outlook Money reported. A draft CAG audit found 81% of registered jewellers were not inspected in 2024-25 and the BIS missed its hallmarking-centre surveillance targets by 43.7%.
-6. [Gold prices fall Rs 12,400 since November 9; silver slips to Rs 1.62 lakh per kg](https://www.moneycontrol.com/news/business/personal-finance/gold-prices-fall-rs-12-400-since-november-9-silver-slips-to-rs-1-62-lakh-per-kg-14085038.html) — *Moneycontrol*, 2026-11-19T13:46:40Z
+7. [Gold prices fall Rs 12,400 since November 9; silver slips to Rs 1.62 lakh per kg](https://www.moneycontrol.com/news/business/personal-finance/gold-prices-fall-rs-12-400-since-november-9-silver-slips-to-rs-1-62-lakh-per-kg-14085038.html) — *Moneycontrol*, 2026-11-19T13:46:40Z
    Delhi gold fell Rs 1,300 to Rs 1,34,500 per 10 g, down Rs 12,400 in eight sessions since November 9, while silver slipped to Rs 1,62,000 per kg, PTI reported. The slide extends the post-Diwali correction as a firm dollar and Fed hike bets keep bullion under pressure.
-7. [Gold price approaches $3,700/oz after U.S. weekly jobless claims rise to 203k](https://www.kitco.com/news/article/2026-11-19/gold-price-approaches-3700oz-after-us-weekly-jobless-claims-rise-203k) — *Kitco*, 2026-11-19T13:30:24Z
+8. [Gold price approaches $3,700/oz after U.S. weekly jobless claims rise to 203k](https://www.kitco.com/news/article/2026-11-19/gold-price-approaches-3700oz-after-us-weekly-jobless-claims-rise-203k) — *Kitco*, 2026-11-19T13:30:24Z
    US initial jobless claims rose to 203,000 for the week ending November 14, above the 197,000 economists expected, and spot gold traded near $3,715 an ounce, Kitco reported. Gold held just above $3,700 after dipping to a 14-month low earlier in the session.
-8. [Gold drops to 14-month low as dollar, yields rise on hawkish Fed rhetoric](https://www.livemint.com/market/gold-drops-to-14-month-low-as-dollar-yields-rise-on-hawkish-fed-rhetoric-11795032242167.html) — *Mint*, 2026-11-18T20:04:01Z
+9. [Gold drops to 14-month low as dollar, yields rise on hawkish Fed rhetoric](https://www.livemint.com/market/gold-drops-to-14-month-low-as-dollar-yields-rise-on-hawkish-fed-rhetoric-11795032242167.html) — *Mint*, 2026-11-18T20:04:01Z
    Spot gold sank 3.2% to $3,726 an ounce, its lowest since September 2025, after the Fed's October minutes showed most officials see further rate hikes and Governor Waller backed a possible half-point December rise. US gold futures settled at $3,741.90, silver slid 5% to $45.03 and platinum fell 4.1%, as the dollar hit a 19-month high.
-9. [Gold edges up from 14-month low as markets assess Fed rate outlook](https://www.reuters.com/world/india/gold-edges-up-14-month-low-markets-assess-fed-rate-outlook-2026-11-19/) — *Reuters*, 2026-11-19T07:00:00Z
-   Spot gold rose 0.3% to $3,733.76 an ounce by 0630 GMT on Thursday after touching $3,693.13, its lowest since September 2025, as traders weighed hawkish Fed signals; markets price a 90% chance of a 25-basis-point December hike and 10% for a half-point move, while silver rose 0.8% to $45.38.
 10. [Gold futures slide near Rs 1.29 lakh, silver below Rs 1.60 lakh on MCX amid hawkish Fed signals: Should investors buy the dip?](https://www.moneycontrol.com/news/business/personal-finance/gold-futures-slide-near-rs-1-29-lakh-silver-below-rs-1-60-lakh-on-mcx-amid-hawkish-fed-signals-should-investors-buy-the-dip-14084193.html) — *Moneycontrol*, 2026-11-19T03:46:00Z
    MCX December gold futures opened 0.75% lower at Rs 1,28,842 per 10 g and silver slipped to Rs 1,59,960 per kg in early trade, as a firmer dollar, rising yields and hawkish Fed commentary kept pressure on bullion. Spot gold hovered just above $3,711 an ounce and silver near $45, with cross-asset selling as a tech-led equity correction forces liquidation.
 11. [Gold Price Forecasts For 2027: UBS At $5,000, Goldman Sachs At $4,650](https://www.exchangerates.org.uk/news/47814/2026-11-19-gold-price-forecasts-for-2027-ubs-at-5-000-goldman-sachs-at-4-650.html) — *Exchange Rates UK*, 2026-11-19T23:45:00Z
