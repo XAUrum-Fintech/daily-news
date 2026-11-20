@@ -1,4 +1,14 @@
-# Gold & Silver for Indian buyers · 2026-11-20T12:00Z
+# Gold & Silver for Indian buyers · 2026-11-20T13:00Z
+
+## Today's brief
+
+**Gold set for worst week in eight months on Fed bets**
+
+MCX gold near Rs 1.22 lakh per 10 g and silver near Rs 1.48 lakh/kg as COMEX gold slid to $3,552 on Fed hike bets.
+
+- Reuters says bullion is headed for its worst week in eight months, with silver falling faster than gold.
+- A firmer dollar and December hike bets above 97% are driving the slide, while a stronger rupee past 93 per dollar adds to the downside.
+- Watch US core PCE inflation on November 25 at 19:00 IST, ahead of the Fed's December 9 rate decision.
 
 > Gold crashes to 14-month low near Rs 1.22 lakh; silver slides 6% as COMEX gold falls to $3,552
 
@@ -10,22 +20,12 @@ MCX gold fell to ₹1,22,435 per 10 g and silver slid 6% to ₹1,48,034 per kg o
 - The rupee strengthened past 93 per dollar to a seven-month high on foreign portfolio inflows and steadier oil.
 - Gold ETFs fell 5% and silver ETFs plunged over 6% to 52-week lows; gold-loan stocks Muthoot and Manappuram fell up to 5%.
 
-## Today's brief
-
-**Gold hits 14-month low as Fed hike bets mount**
-
-MCX gold fell to Rs 1.22 lakh per 10 g and silver to Rs 1.48 lakh/kg as COMEX gold slid to $3,552 on Fed hike bets.
-
-- Reuters says a firmer dollar and December hike bets above 97% are driving the slide, after hawkish remarks from Fed officials.
-- A stronger rupee past 93 per dollar is adding to the downside, while jewellery stocks have fallen up to 10% in five sessions.
-- Watch the Fed's next rate decision on December 9, due 00:30 IST on December 10, with markets pricing a hike.
-
 ## Trending
-- **Gold crashes to 14-month lows**: Friday's sell-off took MCX gold to ₹1,22,435 per 10 g and silver to ₹1,48,034 per kg, the lowest since September 2025, capping the steepest weekly fall in eight months. (stories 1, 8, 10, 11, 12)
-- **Fed hike bets drive the rout**: Hawkish Fed remarks and a December hike priced above 97% have lifted the dollar and yields, squeezing non-yielding bullion across global and Indian markets. (stories 1, 11, 17, 24, 29)
-- **Silver's slide deepens**: Silver is falling faster than gold, down 6% on MCX to ₹1,48,034 per kg with the gold-silver ratio at a 14-month high of 85.5:1 as leveraged positions unwind. (stories 2, 10, 19, 20, 23)
-- **India: hallmarking questioned as jewellery stocks fall**: Jewellery stocks fell up to 10% in five sessions and gold-loan shares up to 5%; 18K gold slipped below Rs 1 lakh. GJC has alerted BIS over suspected alloys adding weight to jewellery. (stories 3, 5, 6, 9, 13)
-- **Banks still see a 2027 recovery**: Goldman Sachs sees gold at $4,650 by end-2027 on central-bank buying, and Morgan Stanley names gold its top commodity pick for 2027, even as Fed hikes weigh near term. (stories 7, 25)
+- **Gold crashes to 14-month lows**: Friday's sell-off took MCX gold to ₹1,22,435 per 10 g and silver to ₹1,48,034 per kg, the lowest since September 2025, capping the steepest weekly fall in eight months. (stories #1, #9, #12, #11)
+- **Fed hike bets drive the rout**: Hawkish Fed remarks and a December hike priced above 97% have lifted the dollar and yields, squeezing non-yielding bullion across global and Indian markets. (stories #11, #1, #17, #24, #29)
+- **Silver's slide deepens**: Silver is falling faster than gold, down 6% on MCX to ₹1,48,034 per kg with the gold-silver ratio at a 14-month high of 85.5:1 as leveraged positions unwind. (stories #19, #2, #23, #20)
+- **India: hallmarking questioned as jewellery stocks fall**: Jewellery stocks fell up to 10% in five sessions and gold-loan shares up to 5%; 18K gold slipped below Rs 1 lakh. GJC has alerted BIS over suspected alloys adding weight to jewellery. (stories #13, #5, #6, #3, #10)
+- **Banks still see a 2027 recovery**: Goldman Sachs sees gold at $4,650 by end-2027 on central-bank buying, and Morgan Stanley names gold its top commodity pick for 2027, even as Fed hikes weigh near term. (stories #7, #25)
 
 ## Stories
 1. [Gold and silver prices crash as Fed rate hike fears mount](https://www.thehindubusinessline.com/markets/gold/gold-silver-slide-to-14-month-lows-as-dollar-fed-fears-bite/article71723476.ece) — *The Hindu BusinessLine*, 2026-11-20T07:17:27Z
@@ -42,20 +42,20 @@ MCX gold fell to Rs 1.22 lakh per 10 g and silver to Rs 1.48 lakh/kg as COMEX go
    IBJA 18K gold has stayed below Rs 1 lakh per 10 g for three straight sessions, falling 8.06% to Rs 92,688 from Rs 1,00,814 on November 17, as a stronger dollar, higher bond yields and Fed tightening bets pressured bullion. IBJA put 24K gold at Rs 1,23,584 and 22K at Rs 1,13,203 per 10 g.
 7. [Gold Price Outlook: Goldman Sachs Sees Gold At $4,650 By 2027-End; Central Bank Buying To Drive](https://www.businesstoday.in/bt-tv/short-video/gold-price-outlook-goldman-sachs-sees-gold-at-4650-by-2027-end-central-bank-buying-to-drive-568736-2026-11-20) — *Business Today*, 2026-11-20T08:43:18Z
    Goldman Sachs sees gold reaching $4,650 an ounce by the end of 2027, with continued central-bank buying driving the recovery. The call comes even as gold trades near 14-month lows under pressure from expectations of further US rate hikes.
-8. [Gold price crash: Yellow metal and silver slump over 4% each on MCX](https://www.cnbctv18.com/market/commodities/gold-price-crash-gold-silver-on-mcx-us-fed-rate-hike-us-dollar-rises-ai-worries-20038292.htm) — *CNBC-TV18*, 2026-11-20T04:11:56Z
+8. [Gold ETFs attract ₹3,500 crore despite price correction: Should you increase your allocation?](https://www.businesstoday.in/personal-finance/story/gold-etfs-attract-rs3500-crore-despite-price-correction-should-you-increase-your-allocation-568819-2026-11-20) — *Business Today*, 2026-11-20T12:31:14Z
+   Gold ETFs drew ₹3,500 crore in October, the fifth straight month of net inflows, according to the World Gold Council, with an estimated ₹2,450 crore more in November 1–11; holdings rose to 126 tonnes even as gold ETF prices fell about 5% on Friday.
+9. [Gold price crash: Yellow metal and silver slump over 4% each on MCX](https://www.cnbctv18.com/market/commodities/gold-price-crash-gold-silver-on-mcx-us-fed-rate-hike-us-dollar-rises-ai-worries-20038292.htm) — *CNBC-TV18*, 2026-11-20T04:11:56Z
    Gold fell nearly 4% to about Rs 1.22 lakh per 10 g on MCX and silver slid nearly 6% to Rs 1.48 lakh per kg as the sell-off deepened, CNBC-TV18 reported. A strengthening dollar and rising expectations of a US Federal Reserve rate hike drove the slide, with spot gold at $3,551.68, down 8.9% on the week.
-9. [GJC alerts BIS over suspected gold adulteration, urges jewellers to tighten quality checks](https://www.thehindubusinessline.com/companies/gjc-alerts-bis-over-suspected-gold-adulteration-urges-jewellers-to-tighten-quality-checks/article71723585.ece) — *The Hindu BusinessLine*, 2026-11-20T08:51:20Z
+10. [GJC alerts BIS over suspected gold adulteration, urges jewellers to tighten quality checks](https://www.thehindubusinessline.com/companies/gjc-alerts-bis-over-suspected-gold-adulteration-urges-jewellers-to-tighten-quality-checks/article71723585.ece) — *The Hindu BusinessLine*, 2026-11-20T08:51:20Z
    The All India Gem and Jewellery Domestic Council has alerted the Bureau of Indian Standards over reports of rhenium- and iridium-based alloys being used to add weight to gold jewellery without matching purity. GJC said BIS is taking the matter seriously, urged jewellers to tighten quality checks, and asked buyers to verify hallmarks on the BIS Care app and insist on GST-paid invoices.
-10. [Gold, silver prices crash up to 6.6% on MCX amid strong US dollar, fed rate concerns](https://sambadenglish.com/national-international-news/india/gold-silver-prices-crash-up-to-66-on-mcx-amid-strong-us-dollar-fed-rate-concerns-12825488) — *Sambad English*, 2026-11-20T05:35:06Z
-   MCX gold December futures fell as much as 4.49%, or Rs 5,733, to an intraday low of Rs 1,21,719 per 10 g, while silver slid 6.6%, or Rs 10,416, to Rs 1,47,066 per kg, Sambad English reported. Spot gold slipped below $3,550 and silver fell towards $41 an ounce as a stronger dollar, higher US yields and Fed rate-hike expectations weighed.
 11. [Gold set for worst week in eight months as firm dollar, Fed hike bets weigh](https://www.reuters.com/world/india/gold-set-worst-week-eight-months-firm-dollar-fed-hike-bets-weigh-2026-11-20/) — *Reuters*, 2026-11-20T03:24:00Z
    Spot gold fell 1.9% to $3,551.68 by 0257 GMT, down about 8.9% on the week — its sharpest weekly fall since March — as a dollar near a 19-month high and a 97.3% chance of a December Fed hike weighed on bullion. Silver fell 2% to $41.90 an ounce, and Swiss gold exports fell 34% in October.
 12. [Gold Hits 15-Month Low, Silver Drops Near Rs 1.48 Lakh | Three Reasons Why Precious Metals Are Crashing?](https://www.ndtvprofit.com/markets/gold-prices-today-three-reasons-why-gold-crash-yellow-metal-today-mcx-gold-silver-prices-crash-commodity-prices-markets-today-12352531) — *NDTV Profit*, 2026-11-20T04:22:00Z
    MCX gold fell 3.84% to Rs 1,22,561 per 10 g and silver slid 5.99% to Rs 1,48,050 per kg, NDTV Profit reported, as both metals hit 15-month lows. Gold has lost Rs 4,891 per 10 g and silver Rs 9,432 per kg in the session.
 13. [Gold price today, Nov 20: Yellow metal falls over 30% from January peak; jewellery stocks fall up to 10% in 5 sessions](https://upstox.com/news/market-news/commodities/gold-price-today-nov-20-yellow-metal-falls-over-30-from-january-peak-jewellery-stocks-fall-up-to-10-in-5-sessions/article-203748/) — *Upstox*, 2026-11-20T04:31:16Z
    Gold has fallen more than 30% from its January peak and declined for an eighth straight session, with Delhi prices down ₹1,300 to ₹1,34,500 per 10 g on Thursday; jewellery stocks including Kalyan Jewellers and PC Jeweller have fallen up to 10% over five sessions as bullion stays under pressure.
-14. [Gold, silver bloodbath: Gold falls below Rs 1.25 lakh, silver crashes 6%; what's next?](https://www.businesstoday.in/markets/stocks/story/gold-silver-bloodbath-gold-falls-below-rs-1-25-lakh-silver-crashes-6-whats-next-568660-2026-11-20) — *Business Today*, 2026-11-20T04:03:56Z
-   Gold fell below Rs 1.25 lakh per 10 g on MCX and silver crashed 6% below Rs 1.50 lakh per kg, Business Today reported, with silver also below $42 internationally. Anuj Gupta puts the next domestic downside at Rs 1.22 lakh and international support at $3,520 an ounce, with $3,580-$3,620 as resistance.
+14. [Gold, silver prices near a bottom? JM Financial, Motilal Oswal flag key levels for a rebound](https://www.cnbctv18.com/market/gold-price-silver-price-crash-outlook-jm-financial-motilal-oswal-key-support-levels-rebound-targets-mcx-copper-zinc-crude-oil-20038612.htm) — *CNBC-TV18*, 2026-11-20T09:57:00Z
+   JM Financial puts MCX gold support near ₹1,20,000, with rebound targets of ₹1,36,500 and ₹1,45,000, and silver support at ₹1,50,000; Motilal Oswal sees a medium-term floor of $3,400–$3,450 an ounce for gold and about $40 for silver.
 15. [Gold ETFs down 5%; Silver ETFs plunge over 6%, trade at 52-week lows](https://www.business-standard.com/markets/news/gold-silver-prices-crash-gold-etfs-down-5-silver-etfs-plunge-over-6-trade-at-52-week-lows-126112000221_1.html) — *Business Standard*, 2026-11-20T04:18:34Z
    Gold ETFs fell 5% and silver ETFs plunged over 6% to 52-week lows, Business Standard reported, as bullion prices crashed. Gold futures traded up to 4% lower around $3,530 and silver futures near $41.60, down nearly 6%, on fears of a December Fed rate hike, a stronger dollar and rising bond yields.
 16. [India's forex reserves fall to over three month low of $705 billion](https://www.reuters.com/world/india/indias-forex-reserves-fall-over-three-month-low-705-billion-2026-11-20/) — *Reuters*, 2026-11-20T11:30:00Z
@@ -86,5 +86,3 @@ MCX gold fell to Rs 1.22 lakh per 10 g and silver to Rs 1.48 lakh/kg as COMEX go
    India's gold import bill could fall to $35-40 billion in FY27 from nearly $72 billion in FY26, NDTV Profit reports, with gold imports down about 40% to $24.78 billion in April-October. Commerce Secretary Rajesh Agrawal attributed the fall to the higher customs duty introduced in May, which made overseas purchases more expensive.
 29. [Gold and Silver’s Deepening US Dollar Dilemma](https://www.investing.com/analysis/gold-and-silvers-deepening-us-dollar-dilemma-200691971) — *Investing.com*, 2026-11-20T07:03:00Z
    Investing.com looks at how a resilient US dollar is deepening the pressure on gold and silver, with expectations of further Fed rate increases adding to the drag on non-yielding bullion.
-30. [Gold: Market Volatility Rises as Trump Calls for Durable US-Iran Resolution](https://www.investing.com/analysis/gold-market-volatility-rises-as-trump-calls-for-durable-usiran-resolution-200691980) — *Investing.com*, 2026-11-20T07:03:00Z
-   Investing.com notes market volatility rising as US President Donald Trump calls for a durable US–Iran resolution, with traders weighing the geopolitical shift alongside the hawkish Fed outlook.
