@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-20T13:00Z",
-  "generated_at": "2026-11-20T13:13:26Z",
+  "edition_id": "2026-11-20T14:00Z",
+  "generated_at": "2026-11-20T14:13:23Z",
   "window": {
-    "from": "2026-11-20T11:00:00Z",
-    "to": "2026-11-20T13:00:00Z"
+    "from": "2026-11-20T12:00:00Z",
+    "to": "2026-11-20T14:00:00Z"
   },
   "insights": {
     "headline": "Gold crashes to 14-month low near Rs 1.22 lakh; silver slides 6% as COMEX gold falls to $3,552",
@@ -13,17 +13,17 @@
       "MCX gold fell to ₹1,22,435 per 10 g, down 3.94%, and silver slid 6% to ₹1,48,034 per kg on Friday.",
       "COMEX gold was at $3,551.90 an ounce, down 3.6%, in gold's steepest weekly fall in eight months.",
       "Markets price a December Fed hike at above 97% as the dollar sits near a 19-month high.",
-      "The rupee strengthened past 93 per dollar to a seven-month high on foreign portfolio inflows and steadier oil.",
+      "The rupee strengthened to 92.68 per dollar, its best monthly gain in eight years, on foreign inflows and steadier oil.",
       "Gold ETFs fell 5% and silver ETFs plunged over 6% to 52-week lows; gold-loan stocks Muthoot and Manappuram fell up to 5%."
     ],
     "brief": {
       "schema": "orob-brief.v1",
-      "brief_id": "2026-11-20-1843",
+      "brief_id": "2026-11-20-1943",
       "date": "2026-11-20",
-      "generated_at": "2026-11-20T13:13:26Z",
+      "generated_at": "2026-11-20T14:13:23Z",
       "slot": "evening",
       "expires_at": "2026-11-20T18:29:00Z",
-      "headline": "Gold set for worst week in eight months on Fed bets",
+      "headline": "Gold slides to 14-month low as Fed hike bets jump",
       "summary": "MCX gold near Rs 1.22 lakh per 10 g and silver near Rs 1.48 lakh/kg as COMEX gold slid to $3,552 on Fed hike bets.",
       "bullets": [
         {
@@ -34,10 +34,10 @@
           ]
         },
         {
-          "text": "A firmer dollar and December hike bets above 97% are driving the slide, while a stronger rupee past 93 per dollar adds to the downside.",
+          "text": "A firmer dollar and December hike bets above 97% are driving the slide, while the rupee gained to 92.68 per dollar.",
           "item_ids": [
             "a2e106a2c3ffcf32",
-            "2d40eadd3b21731e"
+            "5890da3e9ca6a1cf"
           ]
         },
         {
@@ -55,7 +55,9 @@
         "61341e0723565561",
         "bd3a1f707ebe7c78",
         "89f5f0962978785c",
-        "a2e106a2c3ffcf32"
+        "a2e106a2c3ffcf32",
+        "21e27c819851a35c",
+        "da2989b808707404"
       ]
     },
     {
@@ -64,8 +66,6 @@
       "item_ids": [
         "a2e106a2c3ffcf32",
         "61341e0723565561",
-        "335fe6b7631483d7",
-        "b7744a45d29fe44a",
         "85e350b2f0a8ce76"
       ]
     },
@@ -75,8 +75,7 @@
       "item_ids": [
         "423d5f2427002ad7",
         "85542d73fb8dbaf9",
-        "9061735c0db3963d",
-        "8067964260d83b34"
+        "9061735c0db3963d"
       ]
     },
     {
@@ -177,6 +176,30 @@
       "rank": 3
     },
     {
+      "id": "5890da3e9ca6a1cf",
+      "title": "Rupee set for best monthly gain in 8 years on strong foreign fund inflows",
+      "summary": "The rupee has gained 2.46% so far in November to 92.68 per dollar, its best monthly rise in eight years, helped by nearly $13 billion in foreign inflows, lower crude prices and exporter dollar sales. It rose 0.67% on Friday, crossing 93 for the first time since April.",
+      "url": "https://www.business-standard.com/markets/news/rupee-set-for-best-monthly-gain-in-8-years-on-strong-foreign-fund-inflows-126112001061_1.html",
+      "source": "Business Standard",
+      "source_domain": "business-standard.com",
+      "publisher_id": "business-standard",
+      "published_at": "2026-11-20T13:36:30Z",
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "rupee",
+        "mcx",
+        "india"
+      ],
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/5890da3e9ca6a1cf.jpg",
+      "image_kind": "photo",
+      "breaking": false,
+      "rank": 4
+    },
+    {
       "id": "7aff66bd4e2c5e78",
       "title": "Gold, silver fall to 2026 lows; experts say volatility likely to persist",
       "summary": "Gold fell about 4% to Rs 1,22,435 per 10 g and silver 6% to Rs 1,48,034 per kg, the lowest of 2026. Kotak NEO's Anindya Banerjee noted the dollar index near 104, a 19-month high, with a December Fed hike almost fully priced in, while Aspect Bullion's Darshan Desai said retail buyers stayed cautious, preferring smaller staggered purchases.",
@@ -199,7 +222,7 @@
         "india"
       ],
       "breaking": false,
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "957a819256a3b161",
@@ -222,7 +245,7 @@
         "india"
       ],
       "breaking": false,
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "16a3b6b07404d41a",
@@ -245,7 +268,7 @@
         "india"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "7763ef83f727d4bf",
@@ -268,7 +291,7 @@
         "central-banks"
       ],
       "breaking": false,
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "2e50328d8db58f50",
@@ -291,7 +314,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "bd3a1f707ebe7c78",
@@ -316,7 +339,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "fcc221ad5eefb538",
@@ -339,7 +362,10 @@
         "jewellery"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 11,
+      "related_urls": [
+        "https://www.business-standard.com/markets/commodities/industry-body-gjc-alerts-bis-over-gold-adulteration-using-rhenium-iridium-126112000985_1.html"
+      ]
     },
     {
       "id": "a2e106a2c3ffcf32",
@@ -364,7 +390,7 @@
         "global"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 12
     },
     {
       "id": "89f5f0962978785c",
@@ -388,7 +414,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 13
     },
     {
       "id": "4a1383b33035a761",
@@ -414,7 +440,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 13
+      "rank": 14
     },
     {
       "id": "0bcd736c24e1dce0",
@@ -439,7 +465,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 15
     },
     {
       "id": "2e97303e30a718f2",
@@ -463,7 +489,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 15
+      "rank": 16
     },
     {
       "id": "496c7c597cd20fdd",
@@ -487,53 +513,29 @@
         "global"
       ],
       "breaking": false,
-      "rank": 16
-    },
-    {
-      "id": "335fe6b7631483d7",
-      "title": "Gold falls to 14-month low below $3,650 on hawkish Fed signals",
-      "summary": "Spot gold slid to about $3,630 in early Asian trading on Friday, down more than 2.5% on the day to its lowest since September 2025. Minutes from the Fed's October meeting showed almost all officials expect rates to move higher, and markets now price a 97.3% chance of a quarter-point December hike.",
-      "url": "https://www.fxstreet.com/news/gold-falls-to-14-month-low-below-3-650-on-hawkish-fed-signals-202611192321",
-      "source": "FXStreet",
-      "source_domain": "fxstreet.com",
-      "publisher_id": "fxstreet",
-      "published_at": "2026-11-19T23:21:49Z",
-      "image_url": "https://editorial.fxsstatic.com/images/i/gold-03.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "fed",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
       "rank": 17
     },
     {
-      "id": "240d56f694c4f1b0",
-      "title": "Gold (XAU/USD) Price Forecast: Deeper Decline Targets $3,500 Support Zone",
-      "summary": "Gold fell to a new low of $3,667 on Wednesday and entered a Fibonacci support zone of $3,706 to $3,650, FXEmpire says. If $3,650 fails, the next support is the April 2025 peak at $3,500, with $3,475 to $3,447 below; countertrend rallies face overhead resistance while the decline stays in its early stages.",
-      "url": "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-deeper-decline-targets-3500-support-zone-1645938",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "publisher_id": "fxempire",
-      "published_at": "2026-11-19T22:28:44Z",
-      "image_url": null,
-      "image_kind": "none",
+      "id": "21e27c819851a35c",
+      "title": "Gold miners face new test after years of exceptional profits",
+      "summary": "Gold miners face an earnings test as falling prices squeeze margins after almost two years in which higher prices offset rising costs, with JSE-listed producers falling sharply. Analysts say downgrades are possible if costs keep rising while realised prices fall, though strong cash flows leave balance sheets able to withstand weaker prices for now.",
+      "url": "https://miningmx.com/2026-11-20-gold-miners-face-new-test-after-years-of-exceptional-profits/",
+      "source": "MiningMX",
+      "source_domain": "miningmx.com",
+      "publisher_id": "miningmx",
+      "published_at": "2026-11-20T13:02:35Z",
       "category": "global",
       "metals": [
         "gold"
       ],
       "tags": [
         "gold",
-        "fed",
-        "global"
+        "global",
+        "comex"
       ],
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/21e27c819851a35c.jpg",
+      "image_kind": "photo",
       "breaking": false,
-      "related_urls": [],
       "rank": 18
     },
     {
@@ -560,31 +562,27 @@
       "rank": 19
     },
     {
-      "id": "8067964260d83b34",
-      "title": "Gold prices fall Rs 12,400 since November 9; silver slips to Rs 1.62 lakh per kg",
-      "summary": "Delhi gold fell Rs 1,300 to Rs 1,34,500 per 10 g, down Rs 12,400 in eight sessions since November 9, while silver slipped to Rs 1,62,000 per kg, PTI reported. The slide extends the post-Diwali correction as a firm dollar and Fed hike bets keep bullion under pressure.",
-      "url": "https://www.moneycontrol.com/news/business/personal-finance/gold-prices-fall-rs-12-400-since-november-9-silver-slips-to-rs-1-62-lakh-per-kg-14085038.html",
-      "source": "Moneycontrol",
-      "source_domain": "moneycontrol.com",
-      "publisher_id": "moneycontrol",
-      "published_at": "2026-11-19T13:46:40Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/8067964260d83b34.jpg",
-      "image_kind": "photo",
+      "id": "da2989b808707404",
+      "title": "Metals Sell-Off Runs Ahead of Physical Markets",
+      "summary": "ING argues the metals sell-off looks more like a sharp unwind of bullish investor positions than weakening physical demand: gold is down about 9% on the week in its steepest weekly fall since March, while physical copper in China stays tight, with Shanghai stocks at their lowest since late 2023 and the Yangshan premium at a record $500 a tonne.",
+      "url": "https://www.investing.com/analysis/metals-selloff-runs-ahead-of-physical-markets-200692004",
+      "source": "Investing.com",
+      "source_domain": "investing.com",
+      "publisher_id": "investing",
+      "published_at": "2026-11-20T12:36:00Z",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
       "tags": [
         "gold",
-        "silver",
-        "mcx"
+        "global",
+        "comex"
       ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
+      "image_url": null,
+      "image_kind": "none",
       "breaking": false,
-      "rank": 20,
-      "related_urls": [
-        "https://money.rediff.com/news/market/gold-silver-prices-fall-8-session-losing-streak-continues/58386420261119"
-      ]
+      "rank": 20
     },
     {
       "id": "176285ae74211cd6",
@@ -611,29 +609,6 @@
       "rank": 21
     },
     {
-      "id": "2d40eadd3b21731e",
-      "title": "Rupee rises past 93/USD, hits 7-month high on FPI inflows, softer oil",
-      "summary": "The rupee strengthened past 93 per dollar to a more than seven-month high, touching 92.91 intraday, Business Standard reported, gaining nearly 40 paise from its previous close of 93.30. Foreign portfolio inflows into equities and government bonds, plus steadier Brent crude below $92 a barrel, drove the rise.",
-      "url": "https://www.business-standard.com/markets/news/rupee-rises-past-93-usd-hits-7-month-high-on-fpi-inflows-softer-oil-126112000354_1.html",
-      "source": "Business Standard",
-      "source_domain": "business-standard.com",
-      "publisher_id": "business-standard",
-      "published_at": "2026-11-20T06:21:19Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/2d40eadd3b21731e.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "rupee",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 22
-    },
-    {
       "id": "9061735c0db3963d",
       "title": "Leveraged silver speculators wrong-footed by price crash",
       "summary": "Indian investors who borrowed heavily to bet on silver through exchange-traded funds face steep losses as prices sit about 60% below their January peak, while still paying interest on the borrowed money. Margin-funded positions in Nippon India Silver BeES stood at Rs 1,058 crore on November 16, among the largest on the NSE and BSE, after Indian silver ETFs drew a record Rs 9,463 crore in January.",
@@ -654,30 +629,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 23
-    },
-    {
-      "id": "b7744a45d29fe44a",
-      "title": "Gold price falls as Fed hike odds jump and GLD, IAU ETF outflows surge",
-      "summary": "Gold stayed under pressure near $3,728 as traders priced in another Fed rate hike, with the SPDR Gold ETF seeing $1.37 billion of outflows in 30 days and the iShares Gold Trust shedding $279 million, Invezz reported.",
-      "url": "https://invezz.com/news/2026/11/19/gold-price-falls-as-fed-hike-odds-jump-and-gld-iau-etf-outflows-surge/",
-      "source": "Invezz",
-      "source_domain": "invezz.com",
-      "publisher_id": "invezz",
-      "published_at": "2026-11-19T11:02:39Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "fed",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 24
+      "rank": 22
     },
     {
       "id": "b2945b7f16fb0b88",
@@ -700,7 +652,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 25
+      "rank": 23
     },
     {
       "id": "8eb5683c53729419",
@@ -722,7 +674,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 26
+      "rank": 24
     },
     {
       "id": "8bf6bfb24e9a3a32",
@@ -745,31 +697,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 27
-    },
-    {
-      "id": "b2935299b5091f31",
-      "title": "$32 Billion Squeeze: Why India's Massive Gold Import Bill Is Shrinking Fast",
-      "summary": "India's gold import bill could fall to $35-40 billion in FY27 from nearly $72 billion in FY26, NDTV Profit reports, with gold imports down about 40% to $24.78 billion in April-October. Commerce Secretary Rajesh Agrawal attributed the fall to the higher customs duty introduced in May, which made overseas purchases more expensive.",
-      "url": "https://www.ndtvprofit.com/economy/32-billion-squeeze-why-india-s-massive-gold-import-bill-is-shrinking-fast-12346067",
-      "source": "NDTV Profit",
-      "source_domain": "ndtvprofit.com",
-      "publisher_id": "ndtv-profit",
-      "published_at": "2026-11-18T17:39:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "india",
-        "mcx",
-        "import-duty"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 28
+      "rank": 25
     },
     {
       "id": "85e350b2f0a8ce76",
@@ -794,7 +722,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 29
+      "rank": 26
     }
   ]
 }
