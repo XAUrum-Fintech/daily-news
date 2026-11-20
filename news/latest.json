@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-20T14:00Z",
-  "generated_at": "2026-11-20T14:13:23Z",
+  "edition_id": "2026-11-20T18:00Z",
+  "generated_at": "2026-11-20T18:12:08Z",
   "window": {
-    "from": "2026-11-20T12:00:00Z",
-    "to": "2026-11-20T14:00:00Z"
+    "from": "2026-11-20T16:00:00Z",
+    "to": "2026-11-20T18:00:00Z"
   },
   "insights": {
     "headline": "Gold crashes to 14-month low near Rs 1.22 lakh; silver slides 6% as COMEX gold falls to $3,552",
@@ -57,7 +57,9 @@
         "89f5f0962978785c",
         "a2e106a2c3ffcf32",
         "21e27c819851a35c",
-        "da2989b808707404"
+        "da2989b808707404",
+        "c832c0961b615b8e",
+        "4cf36fc429a32d3a"
       ]
     },
     {
@@ -66,7 +68,8 @@
       "item_ids": [
         "a2e106a2c3ffcf32",
         "61341e0723565561",
-        "85e350b2f0a8ce76"
+        "85e350b2f0a8ce76",
+        "07e22255cc99e672"
       ]
     },
     {
@@ -126,246 +129,55 @@
       "rank": 1
     },
     {
-      "id": "85542d73fb8dbaf9",
-      "title": "Gold (XAUUSD) & Silver Price Forecast: Gold Heads for Worst Week in Eight Months, Can $3,518 Hold?",
-      "summary": "Spot gold traded near $3,551.68 an ounce after touching its lowest since September 2025, heading for its worst week in eight months. CME FedWatch showed a 93.9% chance of a quarter-point December hike. Gold is testing $3,518 support and turns bearish below the $3,597 pivot, while silver traded near $41.46 with RSI near 15.",
-      "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-gold-heads-for-worst-week-in-eight-months-can-3518-hold-1645958",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "publisher_id": "fxempire",
-      "published_at": "2026-11-20T09:42:00Z",
+      "id": "c832c0961b615b8e",
+      "title": "MCX Gold Sinks 40% From All-Time High: Analysts Flag The One Level Traders Must Watch",
+      "summary": "MCX gold December futures fell 2.03% to Rs 1,22,659 per 10 g on Friday, with silver down 4.96% to Rs 1,49,673 per kg, and NDTV Profit reports gold is now over 40% below its all-time high after a fifth straight losing session; analysts cited in the piece watch $3,500 an ounce as the key support for spot gold.",
+      "url": "https://www.ndtvprofit.com/markets/mcx-gold-sinks-40-from-all-time-high-analysts-flag-the-one-level-traders-must-watch-12355366",
+      "source": "NDTV Profit",
+      "source_domain": "ndtvprofit.com",
+      "publisher_id": "ndtv-profit",
+      "published_at": "2026-11-20T14:24:57Z",
       "image_url": null,
       "image_kind": "none",
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
       "tags": [
         "gold",
         "silver",
-        "global",
-        "fed"
+        "mcx",
+        "fed",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
       ],
       "breaking": false,
       "rank": 2
     },
     {
-      "id": "67d95009720aed08",
-      "title": "Gold and silver allocation: DSP Mutual Fund announces change in stance for DSP Multi Asset Omni Fund of Funds",
-      "summary": "DSP's Multi Asset Omni Fund of Funds held about 10% in gold ETFs and almost no silver ETFs against a 20% benchmark as of November 18, a 50% underweight. The fund plans to add gold in stages as prices fall — 50 bps near $3,850 an ounce, then 50 bps per $100 drop — and silver in 50 bps steps below $47 an ounce, quickening if prices breach $42.",
-      "url": "https://www.livemint.com/money/gold-silver-allocation-dsp-mutual-fund-change-stance-dsp-multi-asset-omni-fund-of-funds-details-11795162151674.html",
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "publisher_id": "mint",
-      "published_at": "2026-11-20T09:10:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/67d95009720aed08.jpg",
-      "image_kind": "photo",
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
+      "id": "4cf36fc429a32d3a",
+      "title": "Gold Sinks To One-Year Low, Silver Plunges Rs 2.46 lakh From Record High",
+      "summary": "Delhi gold of 99.9% purity fell Rs 5,200 to Rs 1,29,300 per 10 g on Friday, its lowest in a year, while silver dropped Rs 4,000 to Rs 1.58 lakh per kg — Rs 2.46 lakh below its January record of Rs 4.04 lakh; spot gold slid to $3,515 an ounce.",
+      "url": "https://www.ndtv.com/business-news/gold-sinks-to-one-year-low-silver-plunges-rs-2-46-lakh-from-record-high-12356154",
+      "source": "NDTV",
+      "source_domain": "ndtv.com",
+      "publisher_id": "ndtv",
+      "published_at": "2026-11-20T17:17:09Z",
+      "image_url": null,
+      "image_kind": "none",
       "tags": [
         "gold",
         "silver",
         "mcx",
         "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
       ],
       "breaking": false,
       "rank": 3
-    },
-    {
-      "id": "5890da3e9ca6a1cf",
-      "title": "Rupee set for best monthly gain in 8 years on strong foreign fund inflows",
-      "summary": "The rupee has gained 2.46% so far in November to 92.68 per dollar, its best monthly rise in eight years, helped by nearly $13 billion in foreign inflows, lower crude prices and exporter dollar sales. It rose 0.67% on Friday, crossing 93 for the first time since April.",
-      "url": "https://www.business-standard.com/markets/news/rupee-set-for-best-monthly-gain-in-8-years-on-strong-foreign-fund-inflows-126112001061_1.html",
-      "source": "Business Standard",
-      "source_domain": "business-standard.com",
-      "publisher_id": "business-standard",
-      "published_at": "2026-11-20T13:36:30Z",
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "rupee",
-        "mcx",
-        "india"
-      ],
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/5890da3e9ca6a1cf.jpg",
-      "image_kind": "photo",
-      "breaking": false,
-      "rank": 4
-    },
-    {
-      "id": "7aff66bd4e2c5e78",
-      "title": "Gold, silver fall to 2026 lows; experts say volatility likely to persist",
-      "summary": "Gold fell about 4% to Rs 1,22,435 per 10 g and silver 6% to Rs 1,48,034 per kg, the lowest of 2026. Kotak NEO's Anindya Banerjee noted the dollar index near 104, a 19-month high, with a December Fed hike almost fully priced in, while Aspect Bullion's Darshan Desai said retail buyers stayed cautious, preferring smaller staggered purchases.",
-      "url": "https://www.chinimandi.com/gold-silver-fall-to-2026-lows-experts-say-volatility-likely-to-persist/",
-      "source": "ChiniMandi",
-      "source_domain": "chinimandi.com",
-      "publisher_id": "chinimandi",
-      "published_at": "2026-11-20T09:44:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/7aff66bd4e2c5e78.jpg",
-      "image_kind": "photo",
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "global",
-        "india"
-      ],
-      "breaking": false,
-      "rank": 5
-    },
-    {
-      "id": "957a819256a3b161",
-      "title": "Gold price crash: Muthoot Finance, Manappuram shares lose sheen, down up to 5% | Is gold heading for deeper correction?",
-      "summary": "Shares of gold-loan firms Muthoot Finance and Manappuram Finance fell up to 5% as bullion slid to a one-year low, with Muthoot down 3% to an intraday low of Rs 2,480. Cheaper gold shrinks the value of pledged jewellery backing their loans, raising concern over loan-to-value buffers and slower disbursements if the slide continues.",
-      "url": "https://www.livemint.com/market/stock-market-news/gold-price-crash-muthoot-finance-manappuram-shares-lose-sheen-down-up-to-5-is-gold-heading-for-deeper-correction-11795161489903.html",
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "publisher_id": "mint",
-      "published_at": "2026-11-20T08:09:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/957a819256a3b161.jpg",
-      "image_kind": "photo",
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "mcx",
-        "india"
-      ],
-      "breaking": false,
-      "rank": 6
-    },
-    {
-      "id": "16a3b6b07404d41a",
-      "title": "18K gold slips below Rs 1 lakh, down 8% in three days: Is it a buying opportunity?",
-      "summary": "IBJA 18K gold has stayed below Rs 1 lakh per 10 g for three straight sessions, falling 8.06% to Rs 92,688 from Rs 1,00,814 on November 17, as a stronger dollar, higher bond yields and Fed tightening bets pressured bullion. IBJA put 24K gold at Rs 1,23,584 and 22K at Rs 1,13,203 per 10 g.",
-      "url": "https://www.moneycontrol.com/news/business/personal-finance/18k-gold-slips-below-rs-1-lakh-for-three-consecutive-days-is-it-a-buying-opportunity-14085632.html",
-      "source": "Moneycontrol",
-      "source_domain": "moneycontrol.com",
-      "publisher_id": "moneycontrol",
-      "published_at": "2026-11-20T08:27:48Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/16a3b6b07404d41a.jpg",
-      "image_kind": "photo",
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "mcx",
-        "india"
-      ],
-      "breaking": false,
-      "rank": 7
-    },
-    {
-      "id": "7763ef83f727d4bf",
-      "title": "Gold Price Outlook: Goldman Sachs Sees Gold At $4,650 By 2027-End; Central Bank Buying To Drive",
-      "summary": "Goldman Sachs sees gold reaching $4,650 an ounce by the end of 2027, with continued central-bank buying driving the recovery. The call comes even as gold trades near 14-month lows under pressure from expectations of further US rate hikes.",
-      "url": "https://www.businesstoday.in/bt-tv/short-video/gold-price-outlook-goldman-sachs-sees-gold-at-4650-by-2027-end-central-bank-buying-to-drive-568736-2026-11-20",
-      "source": "Business Today",
-      "source_domain": "businesstoday.in",
-      "publisher_id": "business-today",
-      "published_at": "2026-11-20T08:43:18Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/7763ef83f727d4bf.jpg",
-      "image_kind": "photo",
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "global",
-        "central-banks"
-      ],
-      "breaking": false,
-      "rank": 8
-    },
-    {
-      "id": "2e50328d8db58f50",
-      "title": "Gold ETFs attract ₹3,500 crore despite price correction: Should you increase your allocation?",
-      "summary": "Gold ETFs drew ₹3,500 crore in October, the fifth straight month of net inflows, according to the World Gold Council, with an estimated ₹2,450 crore more in November 1–11; holdings rose to 126 tonnes even as gold ETF prices fell about 5% on Friday.",
-      "url": "https://www.businesstoday.in/personal-finance/story/gold-etfs-attract-rs3500-crore-despite-price-correction-should-you-increase-your-allocation-568819-2026-11-20",
-      "source": "Business Today",
-      "source_domain": "businesstoday.in",
-      "publisher_id": "business-today",
-      "published_at": "2026-11-20T12:31:14Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/2e50328d8db58f50.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "mcx",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 9
-    },
-    {
-      "id": "bd3a1f707ebe7c78",
-      "title": "Gold price crash: Yellow metal and silver slump over 4% each on MCX",
-      "summary": "Gold fell nearly 4% to about Rs 1.22 lakh per 10 g on MCX and silver slid nearly 6% to Rs 1.48 lakh per kg as the sell-off deepened, CNBC-TV18 reported. A strengthening dollar and rising expectations of a US Federal Reserve rate hike drove the slide, with spot gold at $3,551.68, down 8.9% on the week.",
-      "url": "https://www.cnbctv18.com/market/commodities/gold-price-crash-gold-silver-on-mcx-us-fed-rate-hike-us-dollar-rises-ai-worries-20038292.htm",
-      "source": "CNBC-TV18",
-      "source_domain": "cnbctv18.com",
-      "publisher_id": "cnbc-tv18",
-      "published_at": "2026-11-20T04:11:56Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/bd3a1f707ebe7c78.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "fed"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 10
-    },
-    {
-      "id": "fcc221ad5eefb538",
-      "title": "GJC alerts BIS over suspected gold adulteration, urges jewellers to tighten quality checks",
-      "summary": "The All India Gem and Jewellery Domestic Council has alerted the Bureau of Indian Standards over reports of rhenium- and iridium-based alloys being used to add weight to gold jewellery without matching purity. GJC said BIS is taking the matter seriously, urged jewellers to tighten quality checks, and asked buyers to verify hallmarks on the BIS Care app and insist on GST-paid invoices.",
-      "url": "https://www.thehindubusinessline.com/companies/gjc-alerts-bis-over-suspected-gold-adulteration-urges-jewellers-to-tighten-quality-checks/article71723585.ece",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "publisher_id": "hindu-businessline",
-      "published_at": "2026-11-20T08:51:20Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/fcc221ad5eefb538.jpg",
-      "image_kind": "photo",
-      "category": "policy",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "india",
-        "jewellery"
-      ],
-      "breaking": false,
-      "rank": 11,
-      "related_urls": [
-        "https://www.business-standard.com/markets/commodities/industry-body-gjc-alerts-bis-over-gold-adulteration-using-rhenium-iridium-126112000985_1.html"
-      ]
     },
     {
       "id": "a2e106a2c3ffcf32",
@@ -390,7 +202,32 @@
         "global"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 4
+    },
+    {
+      "id": "bd3a1f707ebe7c78",
+      "title": "Gold price crash: Yellow metal and silver slump over 4% each on MCX",
+      "summary": "Gold fell nearly 4% to about Rs 1.22 lakh per 10 g on MCX and silver slid nearly 6% to Rs 1.48 lakh per kg as the sell-off deepened, CNBC-TV18 reported. A strengthening dollar and rising expectations of a US Federal Reserve rate hike drove the slide, with spot gold at $3,551.68, down 8.9% on the week.",
+      "url": "https://www.cnbctv18.com/market/commodities/gold-price-crash-gold-silver-on-mcx-us-fed-rate-hike-us-dollar-rises-ai-worries-20038292.htm",
+      "source": "CNBC-TV18",
+      "source_domain": "cnbctv18.com",
+      "publisher_id": "cnbc-tv18",
+      "published_at": "2026-11-20T04:11:56Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/bd3a1f707ebe7c78.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "fed"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 5
     },
     {
       "id": "89f5f0962978785c",
@@ -414,7 +251,248 @@
         "silver"
       ],
       "breaking": false,
+      "rank": 6
+    },
+    {
+      "id": "85542d73fb8dbaf9",
+      "title": "Gold (XAUUSD) & Silver Price Forecast: Gold Heads for Worst Week in Eight Months, Can $3,518 Hold?",
+      "summary": "Spot gold traded near $3,551.68 an ounce after touching its lowest since September 2025, heading for its worst week in eight months. CME FedWatch showed a 93.9% chance of a quarter-point December hike. Gold is testing $3,518 support and turns bearish below the $3,597 pivot, while silver traded near $41.46 with RSI near 15.",
+      "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-gold-heads-for-worst-week-in-eight-months-can-3518-hold-1645958",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "published_at": "2026-11-20T09:42:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "global",
+        "fed"
+      ],
+      "breaking": false,
+      "rank": 7
+    },
+    {
+      "id": "67d95009720aed08",
+      "title": "Gold and silver allocation: DSP Mutual Fund announces change in stance for DSP Multi Asset Omni Fund of Funds",
+      "summary": "DSP's Multi Asset Omni Fund of Funds held about 10% in gold ETFs and almost no silver ETFs against a 20% benchmark as of November 18, a 50% underweight. The fund plans to add gold in stages as prices fall — 50 bps near $3,850 an ounce, then 50 bps per $100 drop — and silver in 50 bps steps below $47 an ounce, quickening if prices breach $42.",
+      "url": "https://www.livemint.com/money/gold-silver-allocation-dsp-mutual-fund-change-stance-dsp-multi-asset-omni-fund-of-funds-details-11795162151674.html",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "publisher_id": "mint",
+      "published_at": "2026-11-20T09:10:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/67d95009720aed08.jpg",
+      "image_kind": "photo",
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "india"
+      ],
+      "breaking": false,
+      "rank": 8
+    },
+    {
+      "id": "5890da3e9ca6a1cf",
+      "title": "Rupee set for best monthly gain in 8 years on strong foreign fund inflows",
+      "summary": "The rupee has gained 2.46% so far in November to 92.68 per dollar, its best monthly rise in eight years, helped by nearly $13 billion in foreign inflows, lower crude prices and exporter dollar sales. It rose 0.67% on Friday, crossing 93 for the first time since April.",
+      "url": "https://www.business-standard.com/markets/news/rupee-set-for-best-monthly-gain-in-8-years-on-strong-foreign-fund-inflows-126112001061_1.html",
+      "source": "Business Standard",
+      "source_domain": "business-standard.com",
+      "publisher_id": "business-standard",
+      "published_at": "2026-11-20T13:36:30Z",
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "rupee",
+        "mcx",
+        "india"
+      ],
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/5890da3e9ca6a1cf.jpg",
+      "image_kind": "photo",
+      "breaking": false,
+      "rank": 9
+    },
+    {
+      "id": "7aff66bd4e2c5e78",
+      "title": "Gold, silver fall to 2026 lows; experts say volatility likely to persist",
+      "summary": "Gold fell about 4% to Rs 1,22,435 per 10 g and silver 6% to Rs 1,48,034 per kg, the lowest of 2026. Kotak NEO's Anindya Banerjee noted the dollar index near 104, a 19-month high, with a December Fed hike almost fully priced in, while Aspect Bullion's Darshan Desai said retail buyers stayed cautious, preferring smaller staggered purchases.",
+      "url": "https://www.chinimandi.com/gold-silver-fall-to-2026-lows-experts-say-volatility-likely-to-persist/",
+      "source": "ChiniMandi",
+      "source_domain": "chinimandi.com",
+      "publisher_id": "chinimandi",
+      "published_at": "2026-11-20T09:44:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/7aff66bd4e2c5e78.jpg",
+      "image_kind": "photo",
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "global",
+        "india"
+      ],
+      "breaking": false,
+      "rank": 10
+    },
+    {
+      "id": "957a819256a3b161",
+      "title": "Gold price crash: Muthoot Finance, Manappuram shares lose sheen, down up to 5% | Is gold heading for deeper correction?",
+      "summary": "Shares of gold-loan firms Muthoot Finance and Manappuram Finance fell up to 5% as bullion slid to a one-year low, with Muthoot down 3% to an intraday low of Rs 2,480. Cheaper gold shrinks the value of pledged jewellery backing their loans, raising concern over loan-to-value buffers and slower disbursements if the slide continues.",
+      "url": "https://www.livemint.com/market/stock-market-news/gold-price-crash-muthoot-finance-manappuram-shares-lose-sheen-down-up-to-5-is-gold-heading-for-deeper-correction-11795161489903.html",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "publisher_id": "mint",
+      "published_at": "2026-11-20T08:09:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/957a819256a3b161.jpg",
+      "image_kind": "photo",
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "mcx",
+        "india"
+      ],
+      "breaking": false,
+      "rank": 11
+    },
+    {
+      "id": "16a3b6b07404d41a",
+      "title": "18K gold slips below Rs 1 lakh, down 8% in three days: Is it a buying opportunity?",
+      "summary": "IBJA 18K gold has stayed below Rs 1 lakh per 10 g for three straight sessions, falling 8.06% to Rs 92,688 from Rs 1,00,814 on November 17, as a stronger dollar, higher bond yields and Fed tightening bets pressured bullion. IBJA put 24K gold at Rs 1,23,584 and 22K at Rs 1,13,203 per 10 g.",
+      "url": "https://www.moneycontrol.com/news/business/personal-finance/18k-gold-slips-below-rs-1-lakh-for-three-consecutive-days-is-it-a-buying-opportunity-14085632.html",
+      "source": "Moneycontrol",
+      "source_domain": "moneycontrol.com",
+      "publisher_id": "moneycontrol",
+      "published_at": "2026-11-20T08:27:48Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/16a3b6b07404d41a.jpg",
+      "image_kind": "photo",
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "mcx",
+        "india"
+      ],
+      "breaking": false,
+      "rank": 12
+    },
+    {
+      "id": "7763ef83f727d4bf",
+      "title": "Gold Price Outlook: Goldman Sachs Sees Gold At $4,650 By 2027-End; Central Bank Buying To Drive",
+      "summary": "Goldman Sachs sees gold reaching $4,650 an ounce by the end of 2027, with continued central-bank buying driving the recovery. The call comes even as gold trades near 14-month lows under pressure from expectations of further US rate hikes.",
+      "url": "https://www.businesstoday.in/bt-tv/short-video/gold-price-outlook-goldman-sachs-sees-gold-at-4650-by-2027-end-central-bank-buying-to-drive-568736-2026-11-20",
+      "source": "Business Today",
+      "source_domain": "businesstoday.in",
+      "publisher_id": "business-today",
+      "published_at": "2026-11-20T08:43:18Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/7763ef83f727d4bf.jpg",
+      "image_kind": "photo",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "global",
+        "central-banks"
+      ],
+      "breaking": false,
       "rank": 13
+    },
+    {
+      "id": "2e50328d8db58f50",
+      "title": "Gold ETFs attract ₹3,500 crore despite price correction: Should you increase your allocation?",
+      "summary": "Gold ETFs drew ₹3,500 crore in October, the fifth straight month of net inflows, according to the World Gold Council, with an estimated ₹2,450 crore more in November 1–11; holdings rose to 126 tonnes even as gold ETF prices fell about 5% on Friday.",
+      "url": "https://www.businesstoday.in/personal-finance/story/gold-etfs-attract-rs3500-crore-despite-price-correction-should-you-increase-your-allocation-568819-2026-11-20",
+      "source": "Business Today",
+      "source_domain": "businesstoday.in",
+      "publisher_id": "business-today",
+      "published_at": "2026-11-20T12:31:14Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/2e50328d8db58f50.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "mcx",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 14
+    },
+    {
+      "id": "07e22255cc99e672",
+      "title": "Gold under a hiking Fed: central-bank demand versus real rates",
+      "summary": "Kitco's commentary argues real yields, not the dollar alone, are driving gold's slide, with December hike odds near 96% and the 10-year real yield near 2.9%; central banks bought 321 tonnes in the third quarter, 42% more than a year earlier, but that buying runs on a slower clock than the rates market.",
+      "url": "https://www.kitco.com/opinion/2026-11-20/gold-under-hiking-fed-central-bank-demand-versus-real-rates",
+      "source": "Kitco",
+      "source_domain": "kitco.com",
+      "publisher_id": "kitco",
+      "published_at": "2026-11-20T16:13:05Z",
+      "image_url": "https://images.kitco.com/img/extract_0_0_1000_562,width_1200,enlarge,format_jpeg/icms/99336310-e053-4377-a0e3-d2a3e8618d69.jpeg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "fed",
+        "central-banks",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 15
+    },
+    {
+      "id": "fcc221ad5eefb538",
+      "title": "GJC alerts BIS over suspected gold adulteration, urges jewellers to tighten quality checks",
+      "summary": "The All India Gem and Jewellery Domestic Council has alerted the Bureau of Indian Standards over reports of rhenium- and iridium-based alloys being used to add weight to gold jewellery without matching purity. GJC said BIS is taking the matter seriously, urged jewellers to tighten quality checks, and asked buyers to verify hallmarks on the BIS Care app and insist on GST-paid invoices.",
+      "url": "https://www.thehindubusinessline.com/companies/gjc-alerts-bis-over-suspected-gold-adulteration-urges-jewellers-to-tighten-quality-checks/article71723585.ece",
+      "source": "The Hindu BusinessLine",
+      "source_domain": "thehindubusinessline.com",
+      "publisher_id": "hindu-businessline",
+      "published_at": "2026-11-20T08:51:20Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/fcc221ad5eefb538.jpg",
+      "image_kind": "photo",
+      "category": "policy",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "india",
+        "jewellery"
+      ],
+      "breaking": false,
+      "rank": 16,
+      "related_urls": [
+        "https://www.business-standard.com/markets/commodities/industry-body-gjc-alerts-bis-over-gold-adulteration-using-rhenium-iridium-126112000985_1.html"
+      ]
     },
     {
       "id": "4a1383b33035a761",
@@ -440,7 +518,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 17
     },
     {
       "id": "0bcd736c24e1dce0",
@@ -465,7 +543,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 15
+      "rank": 18
     },
     {
       "id": "2e97303e30a718f2",
@@ -489,7 +567,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 16
+      "rank": 19
     },
     {
       "id": "496c7c597cd20fdd",
@@ -513,7 +591,7 @@
         "global"
       ],
       "breaking": false,
-      "rank": 17
+      "rank": 20
     },
     {
       "id": "21e27c819851a35c",
@@ -536,7 +614,7 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/21e27c819851a35c.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 18
+      "rank": 21
     },
     {
       "id": "423d5f2427002ad7",
@@ -559,7 +637,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 19
+      "rank": 22
     },
     {
       "id": "da2989b808707404",
@@ -582,7 +660,7 @@
       "image_url": null,
       "image_kind": "none",
       "breaking": false,
-      "rank": 20
+      "rank": 23
     },
     {
       "id": "176285ae74211cd6",
@@ -606,7 +684,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 21
+      "rank": 24
     },
     {
       "id": "9061735c0db3963d",
@@ -629,7 +707,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 22
+      "rank": 25
     },
     {
       "id": "b2945b7f16fb0b88",
@@ -652,7 +730,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 23
+      "rank": 26
     },
     {
       "id": "8eb5683c53729419",
@@ -674,7 +752,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 24
+      "rank": 27
     },
     {
       "id": "8bf6bfb24e9a3a32",
@@ -697,7 +775,32 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 25
+      "rank": 28
+    },
+    {
+      "id": "8cbaff3e412919fc",
+      "title": "Householders With Weddings Relieved As Gold, Silver Prices Slide",
+      "summary": "Families in Telangana with weddings ahead welcomed the slide after months of record prices, with many who had postponed jewellery purchases now willing to buy, while bullion traders worry about the falling value of their stocks; the paper attributes the drop largely to developments in international markets.",
+      "url": "https://www.deccanchronicle.com/southern-states/telangana/householders-with-weddings-relieved-as-gold-silver-prices-slide-2006422",
+      "source": "Deccan Chronicle",
+      "source_domain": "deccanchronicle.com",
+      "publisher_id": "deccan-chronicle",
+      "published_at": "2026-11-20T17:31:23Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/8cbaff3e412919fc.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "india",
+        "jewellery"
+      ],
+      "category": "festive",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 29
     },
     {
       "id": "85e350b2f0a8ce76",
@@ -722,7 +825,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 26
+      "rank": 30
     }
   ]
 }
