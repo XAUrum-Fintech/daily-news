@@ -1,10 +1,10 @@
-# Gold & Silver for Indian buyers · 2026-11-21T12:00Z
+# Gold & Silver for Indian buyers · 2026-11-21T13:00Z
 
-> Gold heads for its worst week since March as Fed hike bets and the AI rout drive a slide to near $3,500
+> Gold ends its worst week since March near $3,500 as Fed hike bets and the AI rout drive the slide
 
-Spot gold held near $3,500 after falling for a fifth straight day, on track for its worst week since March. MCX gold traded near Rs 1.22 lakh per 10 g and silver near Rs 1.48 lakh per kg, with silver down about 65% from its January peak against gold's 37%. A hawkish Fed, a firm dollar and AI-led selling drove the rout, while wedding-season buyers returned as prices eased.
+Spot gold held near $3,500 after falling for a fifth straight day, ending its worst week since March. MCX gold traded near Rs 1.22 lakh per 10 g and silver near Rs 1.48 lakh per kg, with silver down about 65% from its January peak against gold's 37%. A hawkish Fed, a firm dollar and AI-led selling drove the rout, while wedding-season buyers returned as prices eased.
 
-- Spot gold held near $3,500 after a fifth straight daily fall, on track for its worst week since March at about 8%.
+- Spot gold held near $3,500 after a fifth straight daily fall, ending its worst week since March at about 9%.
 - MCX gold traded near Rs 1.22 lakh per 10 g and silver near Rs 1.48 lakh per kg, far below January record highs.
 - Fed hike bets reached 97% for December as officials signalled more increases, Investing.com reports.
 - Silver has fallen about 65% from its January peak against gold's 37%, Mint reports, as wedding buyers return.
@@ -12,12 +12,12 @@ Spot gold held near $3,500 after falling for a fifth straight day, on track for 
 
 ## Today's brief
 
-**Gold holds near $3,514 after worst week since March**
+**Gold ends worst week since March near $3,514**
 
-Spot gold held near $3,514 after a 9% weekly slide; MCX gold at Rs 1.22 lakh per 10 g, silver near Rs 1.48 lakh per kg.
+Spot gold near $3,514 after a 9% weekly slide; MCX gold near Rs 1.22 lakh per 10 g and silver near Rs 1.48 lakh per kg.
 
-- Fed rate-hike bets, a firmer dollar and rising yields drove the selloff, with the AI-led equity rout forcing liquidations, FXEmpire says.
-- On MCX, gold is 37% and silver 65% below January record highs, Mint reports, while the slide relieved households with weddings ahead.
+- Hawkish Fed signals lifted December hike bets to 97%, Investing.com reports, and the dollar to a 19-month high, forcing bullion sales.
+- Gold bought on Dhanteras is worth about 12.5% less now, NDTV Profit reports, while the slide brought wedding shoppers back to jewellers.
 - US core PCE inflation lands on November 25 at 7:00 pm IST, the next test of the Fed's rate path before its December 9 decision.
 
 ## Trending
@@ -52,8 +52,8 @@ Spot gold held near $3,514 after a 9% weekly slide; MCX gold at Rs 1.22 lakh per
    Gold fell nearly 4% to about Rs 1.22 lakh per 10 g on MCX and silver slid nearly 6% to Rs 1.48 lakh per kg as the sell-off deepened, CNBC-TV18 reported. A strengthening dollar and rising expectations of a US Federal Reserve rate hike drove the slide, with spot gold at $3,551.68, down 8.9% on the week.
 12. [Gold, silver price crash: DSP Mutual Fund turns bullish on bullion, reveals new buying strategy; check price levels](https://www.livemint.com/market/commodities/gold-silver-price-crash-dsp-mutual-fund-turns-bullish-on-bullion-reveals-new-buying-strategy-check-price-levels-11795252615511.html) — *Mint*, 2026-11-21T11:20:00Z
    DSP Mutual Fund has turned bullish on bullion after the crash and is rebuilding exposure in its multi-asset fund of funds, adding gold at preset levels — 0.5% more for every $100 fall below $3,850 an ounce — and silver 0.5% more for every $2 fall below $47, Mint reports. DSP puts fair value at $4,484 for gold and $64 for silver. Spot gold fell 3% on Friday to $3,514.08, a 14-month low.
-13. [MCX Gold Sinks 40% From All-Time High: Analysts Flag The One Level Traders Must Watch](https://www.ndtvprofit.com/markets/mcx-gold-sinks-40-from-all-time-high-analysts-flag-the-one-level-traders-must-watch-12355366) — *NDTV Profit*, 2026-11-20T14:24:57Z
-   MCX gold December futures fell 2.03% to Rs 1,22,659 per 10 g on Friday, with silver down 4.96% to Rs 1,49,673 per kg, and NDTV Profit reports gold is now over 40% below its all-time high after a fifth straight losing session; analysts cited in the piece watch $3,500 an ounce as the key support for spot gold.
+13. [Notional Loss Piling? Here's What Rs 1 Lakh Gold Bought On Dhanteras Is Worth Now](https://www.ndtvprofit.com/markets/notional-loss-piling-heres-what-rs-1-lakh-gold-bought-on-dhanteras-is-worth-now-12358406) — *NDTV Profit*, 2026-11-21T10:12:05Z
+   Gold bought on Dhanteras has lost about 12.5% of its value in a fortnight, NDTV Profit reports: 22-carat gold fell from Rs 1,31,600 to Rs 1,15,100 per 10 g and 24-carat from Rs 1,43,570 to Rs 1,25,570 as of November 20. The dip is notional rather than a realised loss, and resale values depend on deductions.
 14. [GJC alerts BIS over suspected gold adulteration, urges jewellers to tighten quality checks](https://www.thehindubusinessline.com/companies/gjc-alerts-bis-over-suspected-gold-adulteration-urges-jewellers-to-tighten-quality-checks/article71723585.ece) — *The Hindu BusinessLine*, 2026-11-20T08:51:20Z
    The All India Gem and Jewellery Domestic Council has alerted the Bureau of Indian Standards over reports of rhenium- and iridium-based alloys being used to add weight to gold jewellery without matching purity. GJC said BIS is taking the matter seriously, urged jewellers to tighten quality checks, and asked buyers to verify hallmarks on the BIS Care app and insist on GST-paid invoices.
 15. [Householders With Weddings Relieved As Gold, Silver Prices Slide](https://www.deccanchronicle.com/southern-states/telangana/householders-with-weddings-relieved-as-gold-silver-prices-slide-2006422) — *Deccan Chronicle*, 2026-11-20T17:31:23Z
