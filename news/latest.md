@@ -16,7 +16,7 @@ Spot gold held near $3,500 after falling for a fifth straight day, ending its wo
 
 Spot gold near $3,514 after a 9% weekly slide; MCX gold near Rs 1.22 lakh per 10 g and silver near Rs 1.48 lakh per kg.
 
-- Hawkish Fed signals lifted December hike bets to 97%, Investing.com reports, and the dollar to a 19-month high, forcing bullion sales.
+- Hawkish Fed signals lifted December hike bets to 97% and the dollar to a 19-month high, forcing bullion sales.
 - Gold bought on Dhanteras is worth about 12.5% less now, NDTV Profit reports, while the slide brought wedding shoppers back to jewellers.
 - US core PCE inflation lands on November 25 at 7:00 pm IST, the next test of the Fed's rate path before its December 9 decision.
 
