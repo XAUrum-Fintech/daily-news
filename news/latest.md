@@ -1,4 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-11-21T03:00Z
+# Gold & Silver for Indian buyers · 2026-11-21T05:00Z
 
 ## Today's brief
 **Gold tests $3,500 after worst week since March**
@@ -11,19 +11,19 @@ Spot gold tested $3,500 after its worst week since March; MCX gold fell to Rs 1.
 
 > Gold tests $3,500 as sell-off deepens; silver slips below $45
 
-Spot gold tested $3,500 an ounce, its lowest in over a year, after a brutal week in which hawkish Fed rate-hike bets, surging Treasury yields and an AI-led equity rout overwhelmed safe-haven demand. MCX gold slid to about Rs 1.22 lakh per 10 g and silver to near Rs 1.48 lakh per kg, with COMEX silver at $42.44. The Kitco survey showed Wall Street still bearish and Main Street bulls down to 36%, while the dollar eased from 19-month highs as US yields fell. Goldman Sachs still sees gold at $4,650 by end-2027, and China's central bank stretched its buying streak to 24 months.
+Spot gold tested $3,500 an ounce, its lowest in over a year, after a brutal week in which hawkish Fed rate-hike bets, surging Treasury yields and an AI-led equity rout overwhelmed safe-haven demand. MCX gold slid to about Rs 1.22 lakh per 10 g and silver to near Rs 1.48 lakh per kg, with silver futures near $41.60. The Kitco survey showed Wall Street still bearish and Main Street bulls down to 36%, while the dollar eased from 19-month highs as US yields fell. Goldman Sachs still sees gold at $4,650 by end-2027, and China's central bank stretched its buying streak to 24 months.
 
 - Spot gold set a weekly low of $3,502.93, testing the $3,500 level, after a brutal week on hawkish Fed bets and an AI-led equity sell-off.
 - Markets price a 97% chance of a December Fed hike; the chance of a 50-basis-point move has fallen to zero, FedWatch shows.
-- Silver broke below $45 and its 200-week average, with futures at $41.92; the gold/silver ratio climbed above 85.
+- Silver slid about 6% on MCX to near Rs 1.48 lakh per kg, while silver ETFs plunged over 6% to 52-week lows.
 - MCX gold fell to about Rs 1.22 lakh per 10 g and silver to near Rs 1.48 lakh per kg; gold ETFs drew Rs 3,500 crore despite the correction.
 - Goldman Sachs sees gold at $4,650 by end-2027; China's central bank added gold for a 24th straight month.
 
 ## Trending
-- **Gold tests $3,500 after worst week since March**: Hawkish Fed minutes and a strong dollar pushed gold to $3,502.93, its lowest in over a year, with a 97% chance of a December hike priced in; the AI-led equity rout drove panic selling. (stories 1, 2, 3, 4, 10, 12)
-- **Silver breaks below $45**: Silver broke below $45 and its 200-week average, with futures at $41.92 and the gold/silver ratio above 85, yet the Silver Institute still projects a 35-million-ounce deficit for 2026. (stories 5, 2, 21, 8)
+- **Gold tests $3,500 after worst week since March**: Hawkish Fed minutes and a strong dollar pushed gold to $3,502.93, its lowest in over a year, with a 97% chance of a December hike priced in; the AI-led equity rout drove panic selling. (stories 1, 2, 3, 4, 5, 10, 12)
+- **Silver slides 6% as ETFs hit 52-week lows**: Silver slid about 6% on MCX to near Rs 1.48 lakh per kg, with silver ETFs at 52-week lows, while the gold/silver ratio climbed above 85. (stories 2, 6, 8, 21)
 - **MCX gold under Rs 1.23 lakh**: MCX gold slid to about Rs 1.22 lakh per 10 g and silver to near Rs 1.48 lakh per kg, while the rupee eyed its best monthly gain in eight years and gold ETFs drew Rs 3,500 crore. (stories 6, 7, 9, 11, 15, 16)
-- **Central banks still buying on dips**: China's central bank added gold for a 24th straight month, while central banks bought a net 675 tonnes in the first nine months of 2026. (stories 25, 12)
+- **Central banks still buying on dips**: China's central bank added gold for a 24th straight month, while central banks bought a net 675 tonnes in the first nine months of 2026. (stories 12, 25)
 - **Wedding buyers get relief as prices slide**: Festive gold sales value rose 15-25% despite high prices, WGC data shows, and households with weddings lined up welcomed the slide in gold and silver. (stories 26, 27, 28)
 
 ## Stories
@@ -31,12 +31,12 @@ Spot gold tested $3,500 an ounce, its lowest in over a year, after a brutal week
    Gold fell for a fifth straight day, trading near $3,500 an ounce after losing nearly 9% on the week — its worst week since March. Silver fared worse, down more than 15% in five sessions. The slide followed hawkish Federal Reserve signals and a rout in AI stocks that spurred selling across markets, with bullion breaking below $4,000, a level many had seen as a floor.
 2. [Gold (XAUUSD), Silver, Platinum Forecasts – Gold Tests New Lows Amid Panic In Markets](https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-tests-new-lows-amid-panic-in-markets-1646172) — *FXEmpire*, 2026-11-21T00:38:22Z
    Gold is testing new lows as the sell-off continues, FXEmpire said, with traders focused on the AI-led pullback in US equities and markets in panic mode. Gold is trying to settle below support at $3,500-$3,520, with the next support at $3,400-$3,420; the chance of a 50-basis-point December hike has fallen to zero, while Treasury yields eased and the dollar pulled back from yearly highs.
-3. [Wall Street stays bearish after gold's slide to $3,500, Main Street pessimism deepens ahead of holiday week](https://www.kitco.com/news/article/2026-11-20/wall-street-stays-bearish-after-golds-slide-3500-main-street-pessimism) — *Kitco*, 2026-11-20T22:26:49Z
+3. [Gold (XAU/USD) Price Forecast: Deepening Selloff Nears Major Support](https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-deepening-selloff-nears-major-support-1646229) — *FXEmpire*, 2026-11-20T22:08:43Z
+   Gold has fallen about 25% from a $4,679 swing high and is nearing a key support zone of $3,500–$3,447, FXEmpire said, though sellers remain in control and no bullish reversal signal has appeared yet. Spot gold slid to $3,503 on Thursday, with the relative strength index at its lowest since September 2023.
+4. [Wall Street stays bearish after gold's slide to $3,500, Main Street pessimism deepens ahead of holiday week](https://www.kitco.com/news/article/2026-11-20/wall-street-stays-bearish-after-golds-slide-3500-main-street-pessimism) — *Kitco*, 2026-11-20T22:26:49Z
    Gold suffered another brutal weekly decline to a low of $3,502.93 an ounce, Kitco News reported, as hawkish Fed expectations, surging Treasury yields and a stronger dollar overwhelmed safe-haven demand. The Kitco survey showed Wall Street still bearish and Main Street bulls down to 36%, with 46% expecting further losses; PCE inflation, GDP and jobless claims are due Wednesday before Thanksgiving.
-4. [Gold Price Crash Tests $3,500 as Fed Hike Bets Reach 97%](https://www.investing.com/analysis/gold-price-crash-tests-3500-as-fed-hike-bets-reach-97-200692028) — *Investing.com*, 2026-11-20T19:26:16Z
+5. [Gold Price Crash Tests $3,500 as Fed Hike Bets Reach 97%](https://www.investing.com/analysis/gold-price-crash-tests-3500-as-fed-hike-bets-reach-97-200692028) — *Investing.com*, 2026-11-20T19:26:16Z
    Gold tested the $3,500 level, touching an overnight low of $3,514.50, as markets priced a 97.3% chance of a quarter-point Fed hike at the December 8-9 meeting. Spot gold traded at $3,568.65, heading for a weekly loss of about 9%, its steepest in eight months, while silver fell 14% on the week to $42.15.
-5. [Silver Weekly Price Forecast: Silver Continues to Fight Real Yields](https://www.fxempire.com/forecasts/article/silver-weekly-price-forecast-silver-continues-to-fight-real-yields-1646182) — *FXEmpire*, 2026-11-21T00:50:14Z
-   Silver broke below $45 and its 200-week moving average, FXEmpire said, heading for a second straight weekly decline as rising real yields and weaker speculative positioning bite; silver futures fell to $41.92. The Silver Institute and Metals Focus project a 35-million-ounce global deficit for 2026, with total demand down 5% to 1.08 billion ounces.
 6. [Gold and silver prices crash as Fed rate hike fears mount](https://www.thehindubusinessline.com/markets/gold/gold-silver-slide-to-14-month-lows-as-dollar-fed-fears-bite/article71723476.ece) — *The Hindu BusinessLine*, 2026-11-20T07:17:27Z
    MCX December gold traded at ₹1,22,435 per 10 g, down 3.94%, while silver fell 6% to ₹1,48,034 per kg, both at their lowest since September 2025; COMEX gold was at $3,551.90 an ounce as December Fed hike expectations topped 97% and the gold-silver ratio hit a 14-month high of 85.5:1.
 7. [Gold Sinks To One-Year Low, Silver Plunges Rs 2.46 lakh From Record High](https://www.ndtv.com/business-news/gold-sinks-to-one-year-low-silver-plunges-rs-2-46-lakh-from-record-high-12356154) — *NDTV*, 2026-11-20T17:17:09Z
