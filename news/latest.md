@@ -10,7 +10,7 @@ MCX gold closed at a 14-month low of Rs 1,21,949 per 10 g on Friday, with spot g
 
 MCX gold closed Friday at a 14-month low of Rs 1,21,949 per 10 g, with spot gold at $3,539, on Fed hike bets.
 
-- A hawkish Fed, a firm dollar and the AI equity rout drove the selling, with December hike bets at 97%, Investing.com reports.
+- A hawkish Fed, a firm dollar and the AI equity rout drove the selling, with December hike bets at 97%, Investing reports.
 
 - India's gold imports fell nearly 40% in April–October, saving $16.46 billion, and traders say the PM's appeal spared heavy losses.
 
@@ -22,7 +22,7 @@ MCX gold closed Friday at a 14-month low of Rs 1,21,949 per 10 g, with spot gold
 
 - Gold has fallen Rs 65 lakh per kg since PM Modi's appeal to curb purchases, the Chamber of Trade and Industry says.
 
-- Fed hike bets reached 97% for December as officials signalled more increases, Investing.com reports.
+- Fed hike bets reached 97% for December as officials signalled more increases, Investing reports.
 
 - Central banks bought 321 tonnes of gold in Q3, up 42% on a year earlier, even as prices fell, CEOWORLD reports.
 
