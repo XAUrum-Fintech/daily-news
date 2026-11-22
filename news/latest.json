@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-22T11:00Z",
-  "generated_at": "2026-11-22T11:08:51Z",
+  "edition_id": "2026-11-22T12:00Z",
+  "generated_at": "2026-11-22T12:05:15Z",
   "window": {
     "from": "2026-11-22T10:00:00Z",
-    "to": "2026-11-22T11:00:00Z"
+    "to": "2026-11-22T12:00:00Z"
   },
   "insights": {
     "headline": "Gold holds a 14-month low as India's gold imports fall 40% and Fed hike bets build",
@@ -49,53 +49,40 @@
   },
   "trending": [
     {
-      "title": "India's import bill shrinks",
-      "summary": "Gold imports fell nearly 40% in April–October, saving $16.46 billion, and traders credit PM Modi's appeal for sparing heavier losses.",
+      "title": "Gold at a 14-month low as Fed hike bets build",
+      "summary": "A hawkish Fed, a firm dollar and the AI equity rout drove gold to its worst week since March, with December hike bets at 97% and spot gold testing $3,500.",
+      "item_ids": [
+        "8ea497c369097bed",
+        "f3fcabe0a139b838",
+        "9b486891742144bc",
+        "250844ec92b67983"
+      ]
+    },
+    {
+      "title": "India's gold import bill falls 40% after the PM's appeal",
+      "summary": "Gold imports fell nearly 40% in April-October, saving $16.46 billion, and traders credit the Prime Minister's appeal with sparing heavier losses.",
       "item_ids": [
         "50fed15214fd1415",
         "4f2a455ac1019c83",
-        "f8f89bb8340001d7"
+        "5cf38646731354b4"
       ]
     },
     {
-      "title": "Worst week since March",
-      "summary": "Gold ended its worst week since March at a 14-month low as Fed hike bets, a firm dollar and the AI equity rout drove selling; the metals have lost about $15 trillion in value since January.",
+      "title": "Silver slides with gold as the gold/silver ratio hits a one-year high",
+      "summary": "Silver dropped more sharply than gold in the week's slide, falling Rs 2.46 lakh from its record high, while solar makers cut silver use by a fifth.",
       "item_ids": [
-        "f3fcabe0a139b838",
-        "250844ec92b67983",
-        "9b486891742144bc",
-        "4913eeec22ba2cff",
-        "8ea497c369097bed",
-        "3c63e5e2c728ec14",
-        "eacd3d832e16ea33"
-      ]
-    },
-    {
-      "title": "Silver's steeper slide",
-      "summary": "Silver has fallen about 65% from its January peak against gold's 37%, with industrial users cutting back and some jewellers seeing demand return.",
-      "item_ids": [
+        "4cf36fc429a32d3a",
         "794edfa62194b0d4",
-        "7bf3b9f709f3170a",
-        "dcde70fa032b9270",
-        "3c63e5e2c728ec14",
-        "eacd3d832e16ea33"
+        "7bf3b9f709f3170a"
       ]
     },
     {
-      "title": "Central banks buy through the fall",
-      "summary": "Official buyers took 321 tonnes in Q3 and China added gold for a 24th month; Goldman says central-bank buying will keep supporting gold even as the Fed hikes.",
+      "title": "Wedding-season buyers meet cheaper gold",
+      "summary": "Households with weddings are relieved as prices slide, jewellers are scaling back making-charge discounts, and the correction is spurring jewellery demand.",
       "item_ids": [
-        "b0cf61400af8066b",
-        "07e22255cc99e672",
-        "3147c872166efa1e",
-        "29761449b189fe38"
-      ]
-    },
-    {
-      "title": "Hallmarking under scrutiny",
-      "summary": "The IBJA has asked BIS to crack down on fake purity reports, rhenium adulteration and 4,000 unregistered refiners; BIS meets on November 23 to examine the complaints.",
-      "item_ids": [
-        "af0e0f75dfbf5471"
+        "8cbaff3e412919fc",
+        "8739e0508b03f1d8",
+        "65da9f5eeb1fdf23"
       ]
     }
   ],
@@ -343,6 +330,29 @@
       "related_urls": []
     },
     {
+      "url": "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-deepening-selloff-nears-major-support-1646229",
+      "title": "Gold (XAU/USD) Price Forecast: Deepening Selloff Nears Major Support",
+      "summary": "FXEmpire's technical read puts gold about 25% below its $4,679 swing high, with the metal sliding to $3,503 on Thursday and a support zone at $3,500-$3,447 ahead; sellers remain in control and no bullish reversal signal has appeared yet.",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "published_at": "2026-11-20T22:08:43Z",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "global"
+      ],
+      "id": "2b34de9ac51a16db",
+      "breaking": false,
+      "rank": 10,
+      "related_urls": []
+    },
+    {
       "id": "4cf36fc429a32d3a",
       "title": "Gold Sinks To One-Year Low, Silver Plunges Rs 2.46 lakh From Record High",
       "summary": "Delhi gold of 99.9% purity fell Rs 5,200 to Rs 1,29,300 per 10 g on Friday, its lowest in a year, while silver dropped Rs 4,000 to Rs 1.58 lakh per kg — Rs 2.46 lakh below its January record of Rs 4.04 lakh; spot gold slid to $3,515 an ounce.",
@@ -365,7 +375,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 10,
+      "rank": 11,
       "related_urls": []
     },
     {
@@ -391,7 +401,7 @@
         "global"
       ],
       "breaking": false,
-      "rank": 11,
+      "rank": 12,
       "related_urls": []
     },
     {
@@ -417,7 +427,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 12
+      "rank": 13
     },
     {
       "title": "UBS flags further gold weakness before Fed rate-cut expectations return",
@@ -441,7 +451,7 @@
       ],
       "breaking": false,
       "id": "71ce774ff270f316",
-      "rank": 13,
+      "rank": 14,
       "related_urls": []
     },
     {
@@ -469,7 +479,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 14
+      "rank": 15
     },
     {
       "id": "794edfa62194b0d4",
@@ -493,7 +503,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 15,
+      "rank": 16,
       "related_urls": []
     },
     {
@@ -516,7 +526,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 16
+      "rank": 17
     },
     {
       "id": "07e22255cc99e672",
@@ -540,7 +550,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 17,
+      "rank": 18,
       "related_urls": []
     },
     {
@@ -564,7 +574,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 18
+      "rank": 19
     },
     {
       "url": "https://timesofindia.indiatimes.com/city/pune/as-gold-price-ease-jewellers-scale-back-offers-making-charge-discounts/articleshow/136062385.cms",
@@ -588,7 +598,7 @@
       ],
       "id": "65da9f5eeb1fdf23",
       "breaking": false,
-      "rank": 19,
+      "rank": 20,
       "related_urls": []
     },
     {
@@ -613,7 +623,7 @@
       ],
       "id": "dcde70fa032b9270",
       "breaking": false,
-      "rank": 20,
+      "rank": 21,
       "related_urls": []
     },
     {
@@ -636,7 +646,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 21
+      "rank": 22
     },
     {
       "id": "8d6cd8b2a95da461",
@@ -659,7 +669,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 22,
+      "rank": 23,
       "related_urls": []
     },
     {
@@ -685,11 +695,11 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 23,
+      "rank": 24,
       "related_urls": []
     },
     {
-      "rank": 24,
+      "rank": 25,
       "title": "Gold, silver price correction spurs jewellery demand ahead of wedding season",
       "summary": "A sharp correction in gold and silver has brought buyers back to jewellery stores ahead of the peak wedding season, jewellers say. A Rajkot jeweller said the fall was steeper than the market expected and put any further downside at 2-5%, while silver has largely returned to year-ago levels. Retail buyers say lower prices have eased the cost of wedding purchases.",
       "url": "https://www.bizzbuzz.news/industry/jewellery/gold-silver-price-correction-spurs-jewellery-demand-ahead-of-wedding-season-1416612",
@@ -736,12 +746,12 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/5890da3e9ca6a1cf.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 25,
+      "rank": 26,
       "related_urls": []
     },
     {
       "id": "f8f89bb8340001d7",
-      "rank": 26,
+      "rank": 27,
       "title": "PM Modi links gold price dip to his appeal, says AI cannot take away jobs of skilled workers",
       "summary": "PM Narendra Modi said on Saturday in Lucknow that people had heeded his appeal from a year ago to avoid unnecessary gold purchases, and that the resulting fall in prices had saved them money. He was speaking at a skill convocation, where he also said AI could not take away the jobs of skilled workers.",
       "url": "https://www.deccanherald.com/india/uttar-pradesh/pm-modi-links-gold-price-dip-to-his-appeal-says-ai-cannot-take-away-jobs-of-skilled-workers-4226818",
@@ -784,7 +794,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 27
+      "rank": 28
     }
   ]
 }
