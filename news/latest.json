@@ -1,51 +1,22 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-22T18:00Z",
-  "generated_at": "2026-11-22T18:06:23Z",
+  "edition_id": "2026-11-22T20:00Z",
+  "generated_at": "2026-11-22T20:13:41Z",
   "window": {
-    "from": "2026-11-22T16:00:00Z",
-    "to": "2026-11-22T18:00:00Z"
+    "from": "2026-11-22T18:00:00Z",
+    "to": "2026-11-22T20:00:00Z"
   },
   "insights": {
     "headline": "Gold and silver end the week at 14-month lows as Fed hike bets build and India's imports fall 40%",
     "summary": "MCX December gold fell 10.9% on the week to Rs 1,21,778 per 10 g and silver 16.2% to Rs 1,47,813 per kg, with spot gold at $3,515, ending the metal's worst week since March. India's gold import bill fell nearly 40% to $24.78 billion in April–October, saving $16.46 billion, and the sell-off has wiped about $15 trillion from gold and silver's value since January. US core PCE data is due on Wednesday, ahead of the Fed's 9 December decision.",
     "points": [
       "MCX December gold fell 10.9% on the week to Rs 1,21,778 per 10 g and silver 16.2% to Rs 1,47,813 per kg, News On AIR reports.",
-      "Spot gold slid to $3,515 an ounce as December Fed hike bets reached 97%, Investing reports.",
+      "December gold futures ended the week at $3,515.40 an ounce, heading for the worst week since March, Bloomberg reports.",
       "India's gold imports fell nearly 40% to $24.78 billion in April–October, saving $16.46 billion, CAIT says.",
       "The sell-off has wiped about $15 trillion from gold and silver's value since January, the Kobeissi Letter estimates, CEOWORLD reports.",
       "The IBJA has asked BIS to act on fake purity reports and 4,000 unregistered refiners; BIS meets on November 23, The420 reports."
     ],
-    "brief": {
-      "schema": "orob-brief.v1",
-      "brief_id": "2026-11-22-2336",
-      "date": "2026-11-22",
-      "generated_at": "2026-11-22T18:06:23Z",
-      "slot": "evening",
-      "expires_at": "2026-11-22T18:29:00Z",
-      "headline": "Gold closes the week at a 14-month low as hike bets build",
-      "summary": "MCX gold closed the week at Rs 1,21,778 per 10 g, silver at Rs 1,47,813 per kg, spot gold $3,515, on Fed hike bets.",
-      "bullets": [
-        {
-          "text": "A strong dollar, elevated Treasury yields and a hawkish Fed drove a second week of selling, News On AIR reports.",
-          "item_ids": [
-            "b5c63d7a387cf2c4",
-            "9b486891742144bc"
-          ]
-        },
-        {
-          "text": "India's gold imports fell nearly 40% in April–October after the duty rose to 15% in May, and jewellers scaled back offers as prices eased.",
-          "item_ids": [
-            "e44064686db20862",
-            "65da9f5eeb1fdf23"
-          ]
-        },
-        {
-          "text": "Watch Wednesday: US core PCE inflation data at 19:00 IST, ahead of the Fed's 9 December decision.",
-          "item_ids": []
-        }
-      ]
-    }
+    "brief": null
   },
   "trending": [
     {
@@ -54,8 +25,7 @@
       "item_ids": [
         "8ea497c369097bed",
         "b5c63d7a387cf2c4",
-        "f3fcabe0a139b838",
-        "9b486891742144bc"
+        "f3fcabe0a139b838"
       ]
     },
     {
@@ -72,8 +42,7 @@
       "summary": "Traders now watch US core PCE data on Wednesday and the Fed's 9 December decision, while Goldman Sachs sees gold outperforming silver to $5,600 by end-2028 and UBS flags more weakness first.",
       "item_ids": [
         "29761449b189fe38",
-        "71ce774ff270f316",
-        "9b486891742144bc"
+        "71ce774ff270f316"
       ]
     },
     {
@@ -200,33 +169,6 @@
       "rank": 4
     },
     {
-      "id": "9b486891742144bc",
-      "title": "Gold Price Crash Tests $3,500 as Fed Hike Bets Reach 97%",
-      "summary": "Gold tested the $3,500 level, touching an overnight low of $3,514.50, as markets priced a 97.3% chance of a quarter-point Fed hike at the December 8-9 meeting. Spot gold traded at $3,568.65, heading for a weekly loss of about 9%, its steepest in eight months, while silver fell 14% on the week to $42.15.",
-      "url": "https://www.investing.com/analysis/gold-price-crash-tests-3500-as-fed-hike-bets-reach-97-200692028",
-      "source": "Investing.com",
-      "source_domain": "investing.com",
-      "publisher_id": "investing",
-      "published_at": "2026-11-20T19:26:16Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "silver",
-        "fed",
-        "comex",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 5,
-      "related_urls": []
-    },
-    {
       "id": "3c63e5e2c728ec14",
       "title": "Gold Price Slump Wipes an Estimated $15 Trillion From Gold and Silver",
       "summary": "Gold ended the week near $3,544 an ounce, about 37% below its January peak near $5,600, while silver traded under $42, some 65% below its January high above $122. The Kobeissi Letter puts the combined loss in value at about $15 trillion. CEOWORLD says bullion became a source of emergency cash as funds sold to cover losses in tech shares, while central banks bought 321 tonnes in the third quarter.",
@@ -249,7 +191,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 5
     },
     {
       "id": "29761449b189fe38",
@@ -276,7 +218,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 7
+      "rank": 6
     },
     {
       "title": "UBS flags further gold weakness before Fed rate-cut expectations return",
@@ -300,7 +242,7 @@
       ],
       "breaking": false,
       "id": "71ce774ff270f316",
-      "rank": 8,
+      "rank": 7,
       "related_urls": []
     },
     {
@@ -324,7 +266,7 @@
         "india"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 8
     },
     {
       "id": "50fed15214fd1415",
@@ -349,7 +291,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 10
+      "rank": 9
     },
     {
       "id": "4f2a455ac1019c83",
@@ -376,11 +318,11 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 11
+      "rank": 10
     },
     {
       "id": "f8f89bb8340001d7",
-      "rank": 12,
+      "rank": 11,
       "title": "PM Modi links gold price dip to his appeal, says AI cannot take away jobs of skilled workers",
       "summary": "PM Narendra Modi said on Saturday in Lucknow that people had heeded his appeal from a year ago to avoid unnecessary gold purchases, and that the resulting fall in prices had saved them money. He was speaking at a skill convocation, where he also said AI could not take away the jobs of skilled workers.",
       "url": "https://www.deccanherald.com/india/uttar-pradesh/pm-modi-links-gold-price-dip-to-his-appeal-says-ai-cannot-take-away-jobs-of-skilled-workers-4226818",
@@ -423,7 +365,7 @@
         "global"
       ],
       "breaking": false,
-      "rank": 13
+      "rank": 12
     },
     {
       "id": "7bf3b9f709f3170a",
@@ -445,7 +387,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 13
     },
     {
       "id": "b0cf61400af8066b",
@@ -468,7 +410,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 15
+      "rank": 14
     },
     {
       "url": "https://timesofindia.indiatimes.com/city/pune/as-gold-price-ease-jewellers-scale-back-offers-making-charge-discounts/articleshow/136062385.cms",
@@ -492,7 +434,7 @@
       ],
       "id": "65da9f5eeb1fdf23",
       "breaking": false,
-      "rank": 16,
+      "rank": 15,
       "related_urls": []
     },
     {
@@ -517,7 +459,7 @@
       ],
       "id": "dcde70fa032b9270",
       "breaking": false,
-      "rank": 17,
+      "rank": 16,
       "related_urls": []
     },
     {
@@ -540,7 +482,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 18
+      "rank": 17
     },
     {
       "id": "8d6cd8b2a95da461",
@@ -563,7 +505,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 19,
+      "rank": 18,
       "related_urls": []
     },
     {
@@ -588,7 +530,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 20
+      "rank": 19
     }
   ]
 }
