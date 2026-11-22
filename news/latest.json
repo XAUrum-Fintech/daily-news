@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-22T16:00Z",
-  "generated_at": "2026-11-22T16:12:31Z",
+  "edition_id": "2026-11-22T18:00Z",
+  "generated_at": "2026-11-22T18:06:23Z",
   "window": {
-    "from": "2026-11-22T14:00:00Z",
-    "to": "2026-11-22T16:00:00Z"
+    "from": "2026-11-22T16:00:00Z",
+    "to": "2026-11-22T18:00:00Z"
   },
   "insights": {
     "headline": "Gold and silver end the week at 14-month lows as Fed hike bets build and India's imports fall 40%",
@@ -18,12 +18,12 @@
     ],
     "brief": {
       "schema": "orob-brief.v1",
-      "brief_id": "2026-11-22-1840",
+      "brief_id": "2026-11-22-2336",
       "date": "2026-11-22",
-      "generated_at": "2026-11-22T13:10:11Z",
+      "generated_at": "2026-11-22T18:06:23Z",
       "slot": "evening",
       "expires_at": "2026-11-22T18:29:00Z",
-      "headline": "Gold ends the week at a 14-month low on Fed hike bets",
+      "headline": "Gold closes the week at a 14-month low as hike bets build",
       "summary": "MCX gold closed the week at Rs 1,21,778 per 10 g, silver at Rs 1,47,813 per kg, spot gold $3,515, on Fed hike bets.",
       "bullets": [
         {
@@ -34,10 +34,10 @@
           ]
         },
         {
-          "text": "India's gold imports fell nearly 40% in April–October after the duty rose to 15% in May, and wedding buyers find relief in lower prices.",
+          "text": "India's gold imports fell nearly 40% in April–October after the duty rose to 15% in May, and jewellers scaled back offers as prices eased.",
           "item_ids": [
             "e44064686db20862",
-            "8cbaff3e412919fc"
+            "65da9f5eeb1fdf23"
           ]
         },
         {
@@ -49,40 +49,40 @@
   },
   "trending": [
     {
-      "title": "Gold at a 14-month low as Fed hike bets build",
-      "summary": "A hawkish Fed, a firm dollar and the AI equity rout drove gold to its worst week since March, with December hike bets at 97% and spot gold testing $3,500.",
+      "title": "Gold and silver end the week at 14-month lows",
+      "summary": "A hawkish Fed, a 19-month-high dollar and Treasury yields near 5% drove bullion's worst week since March, with MCX gold down about 11% and silver about 16% on the week.",
       "item_ids": [
         "8ea497c369097bed",
         "b5c63d7a387cf2c4",
         "f3fcabe0a139b838",
-        "9b486891742144bc",
-        "1efef62201bd0c5b"
+        "9b486891742144bc"
       ]
     },
     {
-      "title": "India's gold import bill falls 40% after the PM's appeal",
-      "summary": "Gold imports fell nearly 40% in April-October, saving $16.46 billion, and traders credit the Prime Minister's appeal with sparing heavier losses.",
+      "title": "India's imports fell as the duty bite showed",
+      "summary": "Gold imports fell nearly 40% in April–October after the duty rose to 15% in May, saving $16.46 billion, while jewellers scaled back offers and wedding buyers found relief in lower prices.",
       "item_ids": [
+        "e44064686db20862",
         "50fed15214fd1415",
-        "4f2a455ac1019c83",
-        "e44064686db20862"
-      ]
-    },
-    {
-      "title": "Silver slides with gold as the gold/silver ratio hits a one-year high",
-      "summary": "Silver dropped more sharply than gold in the week's slide, falling Rs 2.46 lakh from its record high, while solar makers cut silver use by a fifth.",
-      "item_ids": [
-        "4cf36fc429a32d3a",
-        "b5c63d7a387cf2c4",
-        "7bf3b9f709f3170a"
-      ]
-    },
-    {
-      "title": "Wedding-season buyers meet cheaper gold",
-      "summary": "Households with weddings are relieved as prices slide and jewellers are scaling back making-charge discounts.",
-      "item_ids": [
-        "8cbaff3e412919fc",
         "65da9f5eeb1fdf23"
+      ]
+    },
+    {
+      "title": "What next: US inflation data and the Fed",
+      "summary": "Traders now watch US core PCE data on Wednesday and the Fed's 9 December decision, while Goldman Sachs sees gold outperforming silver to $5,600 by end-2028 and UBS flags more weakness first.",
+      "item_ids": [
+        "29761449b189fe38",
+        "71ce774ff270f316",
+        "9b486891742144bc"
+      ]
+    },
+    {
+      "title": "Silver's slide runs deeper than gold's",
+      "summary": "Silver fell further than gold on the week as industrial demand wobbled — solar makers cut silver use by a fifth — though cheaper silver is reviving Salem's anklet makers.",
+      "item_ids": [
+        "7bf3b9f709f3170a",
+        "dcde70fa032b9270",
+        "1efef62201bd0c5b"
       ]
     }
   ],
@@ -116,8 +116,35 @@
       "related_urls": []
     },
     {
+      "id": "b5c63d7a387cf2c4",
+      "title": "Gold and silver prices plunge amid strong US dollar and rising Treasury yields",
+      "summary": "Gold and silver fell steeply for a second week as a stronger dollar and higher Treasury yields weighed on sentiment. On MCX, December gold fell 10.9% to Rs 1,21,778 per 10 g and silver 16.2% to Rs 1,47,813 per kg; on COMEX, December gold fell 9.5% to $3,515.40 an ounce and silver 16.4% to $41.07.",
+      "url": "https://newsonair.gov.in/gold-and-silver-prices-plunge-amid-strong-us-dollar-and-rising-treasury-yields/",
+      "source": "News On AIR",
+      "source_domain": "newsonair.gov.in",
+      "publisher_id": "news-on-air",
+      "published_at": "2026-11-22T12:02:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "comex",
+        "fed",
+        "global"
+      ],
+      "breaking": false,
+      "rank": 2
+    },
+    {
       "id": "1efef62201bd0c5b",
-      "rank": 2,
+      "rank": 3,
       "title": "Gold, silver, copper, aluminium, platinum to zinc: Why are metal prices crashing to multi-month lows? Key reasons",
       "summary": "Last week ended in a broad metals selloff: MCX December gold closed 4.32% lower at ₹1,21,949 per 10 g on Friday while silver stayed near a 14-month low below $42 an ounce, with copper, aluminium, zinc and platinum also sliding. Mint attributes the slide to sticky US inflation, a stronger dollar, rising yields, December Fed hike bets and cooling AI infrastructure spending.",
       "url": "https://www.livemint.com/market/commodities/gold-silver-copper-aluminium-platinum-to-zinc-why-are-metal-prices-crashing-to-multi-month-lows-key-reasons-11795357679178.html",
@@ -145,58 +172,6 @@
       "publisher_id": "mint"
     },
     {
-      "id": "b5c63d7a387cf2c4",
-      "title": "Gold and silver prices plunge amid strong US dollar and rising Treasury yields",
-      "summary": "Gold and silver fell steeply for a second week as a stronger dollar and higher Treasury yields weighed on sentiment. On MCX, December gold fell 10.9% to Rs 1,21,778 per 10 g and silver 16.2% to Rs 1,47,813 per kg; on COMEX, December gold fell 9.5% to $3,515.40 an ounce and silver 16.4% to $41.07.",
-      "url": "https://newsonair.gov.in/gold-and-silver-prices-plunge-amid-strong-us-dollar-and-rising-treasury-yields/",
-      "source": "News On AIR",
-      "source_domain": "newsonair.gov.in",
-      "publisher_id": "news-on-air",
-      "published_at": "2026-11-22T12:02:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "comex",
-        "fed",
-        "global"
-      ],
-      "breaking": false,
-      "rank": 3
-    },
-    {
-      "id": "3c63e5e2c728ec14",
-      "title": "Gold Price Slump Wipes an Estimated $15 Trillion From Gold and Silver",
-      "summary": "Gold ended the week near $3,544 an ounce, about 37% below its January peak near $5,600, while silver traded under $42, some 65% below its January high above $122. The Kobeissi Letter puts the combined loss in value at about $15 trillion. CEOWORLD says bullion became a source of emergency cash as funds sold to cover losses in tech shares, while central banks bought 321 tonnes in the third quarter.",
-      "url": "https://ceoworld.biz/2026/11/22/gold-price-slump-wipes-an-estimated-15-trillion-from-gold-and-silver/",
-      "source": "CEOWORLD magazine",
-      "source_domain": "ceoworld.biz",
-      "publisher_id": "ceoworld",
-      "published_at": "2026-11-22T04:46:11Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "silver",
-        "global",
-        "central-banks"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 4
-    },
-    {
       "id": "f3fcabe0a139b838",
       "title": "Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff",
       "summary": "Gold fell for a fifth straight day to near $3,500 an ounce, heading for its biggest weekly drop since March at about 8%, Bloomberg reports, as a hawkish Fed signalled more rate hikes and the AI stock rout forced selling across metals; silver has fallen almost 15% over five sessions.",
@@ -222,7 +197,7 @@
       "related_urls": [
         "https://www.advisorperspectives.com/articles/2026/11/20/gold-worst-week-march-hawkish-fed-ai-selloff"
       ],
-      "rank": 5
+      "rank": 4
     },
     {
       "id": "9b486891742144bc",
@@ -248,190 +223,33 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 6,
+      "rank": 5,
       "related_urls": []
     },
     {
-      "id": "e44064686db20862",
-      "title": "Did PM Modi's appeal really bring down gold prices? Here's what the data shows",
-      "summary": "Mathrubhumi tests the PM's claim that his appeal to avoid non-essential gold purchases lowered prices: 24-carat gold fell about 18% from Rs 15,250 a gram on 9 May to Rs 12,523 on 21 November. The piece concludes the appeal alone cannot explain it — the import duty rose from 6% to 15% in May, imports fell about 40% in April–October, and a stronger dollar and Fed hike expectations also weighed.",
-      "url": "https://english.mathrubhumi.com/news/money/did-pm-modi-gold-buying-appeal-bring-down-gold-prices-market-data-explained-gdfoqmr2",
-      "source": "Mathrubhumi",
-      "source_domain": "english.mathrubhumi.com",
-      "publisher_id": "mathrubhumi",
-      "published_at": "2026-11-22T11:18:00Z",
-      "image_url": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1va9b7ep6vujewz1puh/1/gold-market-png.jpeg?$p=f162f31&f=16%3A9&w=1200&q=1",
-      "image_kind": "photo",
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "mcx",
-        "india"
-      ],
-      "breaking": false,
-      "rank": 7
-    },
-    {
-      "id": "50fed15214fd1415",
-      "title": "PM Modi's appeal to avoid gold purchases reflects in import data, India saves $16.46 billion in 7 months: CAIT",
-      "summary": "India's gold import bill fell nearly 40% to $24.78 billion in April–October 2026 from $41.24 billion a year earlier, saving $16.46 billion, the Confederation of All India Traders says, crediting PM Modi's appeal to avoid non-essential gold purchases. October imports fell 62.6% to $5.51 billion from $14.72 billion a year earlier.",
-      "url": "https://hiindia.com/pm-modis-appeal-to-avoid-gold-purchases-reflects-in-import-data-india-saves-16-46-billion-in-7-months-cait/",
-      "source": "hi INDiA",
-      "source_domain": "hiindia.com",
-      "publisher_id": "hi-india",
-      "published_at": "2026-11-22T07:07:28Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/50fed15214fd1415.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "india",
-        "mcx",
-        "import-duty"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "related_urls": [],
-      "rank": 8
-    },
-    {
-      "id": "4f2a455ac1019c83",
-      "title": "Chamber of Trade and Industry Credits PM Modi's Gold Appeal for Preventing Trader Losses",
-      "summary": "The Chamber of Trade and Industry has written to PM Modi thanking him for his appeal to curb gold purchases, saying gold has fallen from Rs 1.90 crore to Rs 1.25 crore per kg since the appeal — a drop of Rs 65 lakh per kg that spared jewellers and investors heavy losses. The body says the correction has eased the burden on families in the wedding season, with about 52 lakh weddings under way.",
-      "url": "https://www.mirrornow.in/india-news/cti-credits-modi-gold-purchase-appeal-for-preventing-trader-losses-article-156549409",
-      "source": "Mirror Now",
-      "source_domain": "mirrornow.in",
-      "publisher_id": "mirror-now",
-      "published_at": "2026-11-22T07:13:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/4f2a455ac1019c83.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "india",
-        "mcx",
-        "jewellery"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": [],
-      "rank": 9
-    },
-    {
-      "id": "250844ec92b67983",
-      "title": "Gold price continues to fall as AI selloff, rate-hike bets weigh. What’s ahead?",
-      "summary": "Spot gold fell 3% to $3,514.08 an ounce on Friday, touching a 14-month low of $3,502.49, and has shed about 9.4% this week — its worst week since March. Hawkish Fed signals and an AI-led equity selloff drove the slide, with markets pricing a 96% chance of a December rate hike. Silver fell 4.1% to $40.99 an ounce, while analysts said a bottom could come sooner rather than later.",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-price-continues-to-fall-as-ai-selloff-rate-hike-bets-weigh-whats-ahead/article71727282.ece",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "publisher_id": "hindu-businessline",
-      "published_at": "2026-11-21T05:20:16Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/250844ec92b67983.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "fed",
-        "global",
-        "comex"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://www.reuters.com/world/india/gold-set-worst-week-eight-months-firm-dollar-fed-hike-bets-weigh-2026-11-20/",
-        "https://economictimes.indiatimes.com/markets/commodities/news/golds-slide-deepens-as-ai-rout-rate-hike-bets-hurt-bullion/articleshow/136045549.cms"
-      ],
-      "rank": 10
-    },
-    {
-      "id": "4cf36fc429a32d3a",
-      "title": "Gold Sinks To One-Year Low, Silver Plunges Rs 2.46 lakh From Record High",
-      "summary": "Delhi gold of 99.9% purity fell Rs 5,200 to Rs 1,29,300 per 10 g on Friday, its lowest in a year, while silver dropped Rs 4,000 to Rs 1.58 lakh per kg — Rs 2.46 lakh below its January record of Rs 4.04 lakh; spot gold slid to $3,515 an ounce.",
-      "url": "https://www.ndtv.com/business-news/gold-sinks-to-one-year-low-silver-plunges-rs-2-46-lakh-from-record-high-12356154",
-      "source": "NDTV",
-      "source_domain": "ndtv.com",
-      "publisher_id": "ndtv",
-      "published_at": "2026-11-20T17:17:09Z",
+      "id": "3c63e5e2c728ec14",
+      "title": "Gold Price Slump Wipes an Estimated $15 Trillion From Gold and Silver",
+      "summary": "Gold ended the week near $3,544 an ounce, about 37% below its January peak near $5,600, while silver traded under $42, some 65% below its January high above $122. The Kobeissi Letter puts the combined loss in value at about $15 trillion. CEOWORLD says bullion became a source of emergency cash as funds sold to cover losses in tech shares, while central banks bought 321 tonnes in the third quarter.",
+      "url": "https://ceoworld.biz/2026/11/22/gold-price-slump-wipes-an-estimated-15-trillion-from-gold-and-silver/",
+      "source": "CEOWORLD magazine",
+      "source_domain": "ceoworld.biz",
+      "publisher_id": "ceoworld",
+      "published_at": "2026-11-22T04:46:11Z",
       "image_url": null,
       "image_kind": "none",
       "tags": [
         "gold",
         "silver",
-        "mcx",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 11,
-      "related_urls": []
-    },
-    {
-      "id": "b8a0b5db4569e804",
-      "title": "Wall Street stays bearish after gold's slide to $3,500, Main Street pessimism deepens ahead of holiday week",
-      "summary": "Gold suffered another brutal weekly decline to a low of $3,502.93 an ounce, Kitco News reported, as hawkish Fed expectations, surging Treasury yields and a stronger dollar overwhelmed safe-haven demand. The Kitco survey showed Wall Street still bearish and Main Street bulls down to 36%, with 46% expecting further losses; PCE inflation, GDP and jobless claims are due Wednesday before Thanksgiving.",
-      "url": "https://www.kitco.com/news/article/2026-11-20/wall-street-stays-bearish-after-golds-slide-3500-main-street-pessimism",
-      "source": "Kitco",
-      "source_domain": "kitco.com",
-      "publisher_id": "kitco",
-      "published_at": "2026-11-20T22:26:49Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/b8a0b5db4569e804.jpg",
-      "image_kind": "photo",
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "fed",
-        "global"
-      ],
-      "breaking": false,
-      "rank": 12,
-      "related_urls": []
-    },
-    {
-      "title": "UBS flags further gold weakness before Fed rate-cut expectations return",
-      "summary": "UBS expects gold headwinds into early 2027 as strong US jobs data and hot inflation keep Fed hike bets alive, with meaningful support only near $3,500. It does not expect the slide to last through 2027, forecasting $4,200 in March rising to $5,000 by end-2027, with central-bank buying and a jewellery recovery stabilising prices.",
-      "url": "https://au.investing.com/news/commodities-news/ubs-flags-further-gold-weakness-before-fed-ratecut-expectations-return-4788248",
-      "source": "Investing.com",
-      "source_domain": "investing.com",
-      "publisher_id": "investing",
-      "published_at": "2026-11-21T18:00:17Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "fed",
         "global",
         "central-banks"
       ],
       "category": "global",
       "metals": [
-        "gold"
+        "gold",
+        "silver"
       ],
       "breaking": false,
-      "id": "71ce774ff270f316",
-      "rank": 13,
-      "related_urls": []
+      "rank": 6
     },
     {
       "id": "29761449b189fe38",
@@ -458,7 +276,130 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 14
+      "rank": 7
+    },
+    {
+      "title": "UBS flags further gold weakness before Fed rate-cut expectations return",
+      "summary": "UBS expects gold headwinds into early 2027 as strong US jobs data and hot inflation keep Fed hike bets alive, with meaningful support only near $3,500. It does not expect the slide to last through 2027, forecasting $4,200 in March rising to $5,000 by end-2027, with central-bank buying and a jewellery recovery stabilising prices.",
+      "url": "https://au.investing.com/news/commodities-news/ubs-flags-further-gold-weakness-before-fed-ratecut-expectations-return-4788248",
+      "source": "Investing.com",
+      "source_domain": "investing.com",
+      "publisher_id": "investing",
+      "published_at": "2026-11-21T18:00:17Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "fed",
+        "global",
+        "central-banks"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "id": "71ce774ff270f316",
+      "rank": 8,
+      "related_urls": []
+    },
+    {
+      "id": "e44064686db20862",
+      "title": "Did PM Modi's appeal really bring down gold prices? Here's what the data shows",
+      "summary": "Mathrubhumi tests the PM's claim that his appeal to avoid non-essential gold purchases lowered prices: 24-carat gold fell about 18% from Rs 15,250 a gram on 9 May to Rs 12,523 on 21 November. The piece concludes the appeal alone cannot explain it — the import duty rose from 6% to 15% in May, imports fell about 40% in April–October, and a stronger dollar and Fed hike expectations also weighed.",
+      "url": "https://english.mathrubhumi.com/news/money/did-pm-modi-gold-buying-appeal-bring-down-gold-prices-market-data-explained-gdfoqmr2",
+      "source": "Mathrubhumi",
+      "source_domain": "english.mathrubhumi.com",
+      "publisher_id": "mathrubhumi",
+      "published_at": "2026-11-22T11:18:00Z",
+      "image_url": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1va9b7ep6vujewz1puh/1/gold-market-png.jpeg?$p=f162f31&f=16%3A9&w=1200&q=1",
+      "image_kind": "photo",
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "mcx",
+        "india"
+      ],
+      "breaking": false,
+      "rank": 9
+    },
+    {
+      "id": "50fed15214fd1415",
+      "title": "PM Modi's appeal to avoid gold purchases reflects in import data, India saves $16.46 billion in 7 months: CAIT",
+      "summary": "India's gold import bill fell nearly 40% to $24.78 billion in April–October 2026 from $41.24 billion a year earlier, saving $16.46 billion, the Confederation of All India Traders says, crediting PM Modi's appeal to avoid non-essential gold purchases. October imports fell 62.6% to $5.51 billion from $14.72 billion a year earlier.",
+      "url": "https://hiindia.com/pm-modis-appeal-to-avoid-gold-purchases-reflects-in-import-data-india-saves-16-46-billion-in-7-months-cait/",
+      "source": "hi INDiA",
+      "source_domain": "hiindia.com",
+      "publisher_id": "hi-india",
+      "published_at": "2026-11-22T07:07:28Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/50fed15214fd1415.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "india",
+        "mcx",
+        "import-duty"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "related_urls": [],
+      "rank": 10
+    },
+    {
+      "id": "4f2a455ac1019c83",
+      "title": "Chamber of Trade and Industry Credits PM Modi's Gold Appeal for Preventing Trader Losses",
+      "summary": "The Chamber of Trade and Industry has written to PM Modi thanking him for his appeal to curb gold purchases, saying gold has fallen from Rs 1.90 crore to Rs 1.25 crore per kg since the appeal — a drop of Rs 65 lakh per kg that spared jewellers and investors heavy losses. The body says the correction has eased the burden on families in the wedding season, with about 52 lakh weddings under way.",
+      "url": "https://www.mirrornow.in/india-news/cti-credits-modi-gold-purchase-appeal-for-preventing-trader-losses-article-156549409",
+      "source": "Mirror Now",
+      "source_domain": "mirrornow.in",
+      "publisher_id": "mirror-now",
+      "published_at": "2026-11-22T07:13:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/4f2a455ac1019c83.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "india",
+        "mcx",
+        "jewellery"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "related_urls": [],
+      "rank": 11
+    },
+    {
+      "id": "f8f89bb8340001d7",
+      "rank": 12,
+      "title": "PM Modi links gold price dip to his appeal, says AI cannot take away jobs of skilled workers",
+      "summary": "PM Narendra Modi said on Saturday in Lucknow that people had heeded his appeal from a year ago to avoid unnecessary gold purchases, and that the resulting fall in prices had saved them money. He was speaking at a skill convocation, where he also said AI could not take away the jobs of skilled workers.",
+      "url": "https://www.deccanherald.com/india/uttar-pradesh/pm-modi-links-gold-price-dip-to-his-appeal-says-ai-cannot-take-away-jobs-of-skilled-workers-4226818",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "publisher_id": "deccan-herald",
+      "published_at": "2026-11-21T15:36:40Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/f8f89bb8340001d7.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "related_urls": []
     },
     {
       "id": "b4569a84cde7aee0",
@@ -482,7 +423,7 @@
         "global"
       ],
       "breaking": false,
-      "rank": 15
+      "rank": 13
     },
     {
       "id": "7bf3b9f709f3170a",
@@ -504,7 +445,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 16
+      "rank": 14
     },
     {
       "id": "b0cf61400af8066b",
@@ -527,7 +468,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 17
+      "rank": 15
     },
     {
       "url": "https://timesofindia.indiatimes.com/city/pune/as-gold-price-ease-jewellers-scale-back-offers-making-charge-discounts/articleshow/136062385.cms",
@@ -551,7 +492,7 @@
       ],
       "id": "65da9f5eeb1fdf23",
       "breaking": false,
-      "rank": 18,
+      "rank": 16,
       "related_urls": []
     },
     {
@@ -576,7 +517,7 @@
       ],
       "id": "dcde70fa032b9270",
       "breaking": false,
-      "rank": 19,
+      "rank": 17,
       "related_urls": []
     },
     {
@@ -599,7 +540,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 20
+      "rank": 18
     },
     {
       "id": "8d6cd8b2a95da461",
@@ -622,56 +563,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 21,
-      "related_urls": []
-    },
-    {
-      "id": "8cbaff3e412919fc",
-      "title": "Householders With Weddings Relieved As Gold, Silver Prices Slide",
-      "summary": "Families in Telangana with weddings ahead welcomed the slide after months of record prices, with many who had postponed jewellery purchases now willing to buy, while bullion traders worry about the falling value of their stocks; the paper attributes the drop largely to developments in international markets.",
-      "url": "https://www.deccanchronicle.com/southern-states/telangana/householders-with-weddings-relieved-as-gold-silver-prices-slide-2006422",
-      "source": "Deccan Chronicle",
-      "source_domain": "deccanchronicle.com",
-      "publisher_id": "deccan-chronicle",
-      "published_at": "2026-11-20T17:31:23Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/8cbaff3e412919fc.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "india",
-        "jewellery"
-      ],
-      "category": "festive",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 22,
-      "related_urls": []
-    },
-    {
-      "id": "f8f89bb8340001d7",
-      "rank": 23,
-      "title": "PM Modi links gold price dip to his appeal, says AI cannot take away jobs of skilled workers",
-      "summary": "PM Narendra Modi said on Saturday in Lucknow that people had heeded his appeal from a year ago to avoid unnecessary gold purchases, and that the resulting fall in prices had saved them money. He was speaking at a skill convocation, where he also said AI could not take away the jobs of skilled workers.",
-      "url": "https://www.deccanherald.com/india/uttar-pradesh/pm-modi-links-gold-price-dip-to-his-appeal-says-ai-cannot-take-away-jobs-of-skilled-workers-4226818",
-      "source": "Deccan Herald",
-      "source_domain": "deccanherald.com",
-      "publisher_id": "deccan-herald",
-      "published_at": "2026-11-21T15:36:40Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/f8f89bb8340001d7.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
+      "rank": 19,
       "related_urls": []
     },
     {
@@ -696,7 +588,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 24
+      "rank": 20
     }
   ]
 }

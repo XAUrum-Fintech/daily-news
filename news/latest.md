@@ -1,14 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-11-22T16:00Z
-
-## Today's brief
-
-**Gold ends the week at a 14-month low on Fed hike bets**
-
-MCX gold closed the week at Rs 1,21,778 per 10 g, silver at Rs 1,47,813 per kg, spot gold $3,515, on Fed hike bets.
-
-- A strong dollar, elevated Treasury yields and a hawkish Fed drove a second week of selling, News On AIR reports.
-- India's gold imports fell nearly 40% in April–October after the duty rose to 15% in May, and wedding buyers find relief in lower prices.
-- Watch Wednesday: US core PCE inflation data at 19:00 IST, ahead of the Fed's 9 December decision.
+# Gold & Silver for Indian buyers · 2026-11-22T18:00Z
 
 > Gold and silver end the week at 14-month lows as Fed hike bets build and India's imports fall 40%
 
@@ -20,58 +10,79 @@ MCX December gold fell 10.9% on the week to Rs 1,21,778 per 10 g and silver 16.2
 - The sell-off has wiped about $15 trillion from gold and silver's value since January, the Kobeissi Letter estimates, CEOWORLD reports.
 - The IBJA has asked BIS to act on fake purity reports and 4,000 unregistered refiners; BIS meets on November 23, The420 reports.
 
+## Today's brief
+
+**Gold closes the week at a 14-month low as hike bets build**
+
+MCX gold closed the week at Rs 1,21,778 per 10 g, silver at Rs 1,47,813 per kg, spot gold $3,515, on Fed hike bets.
+
+- A strong dollar, elevated Treasury yields and a hawkish Fed drove a second week of selling, News On AIR reports.
+- India's gold imports fell nearly 40% in April–October after the duty rose to 15% in May, and jewellers scaled back offers as prices eased.
+- Watch Wednesday: US core PCE inflation data at 19:00 IST, ahead of the Fed's 9 December decision.
+
 ## Trending
-- **Gold at a 14-month low as Fed hike bets build**: A hawkish Fed, a firm dollar and the AI equity rout drove gold to its worst week since March, with December hike bets at 97% and spot gold testing $3,500. (stories #1, #2, #3, #5, #6)
-- **India's gold import bill falls 40% after the PM's appeal**: Gold imports fell nearly 40% in April-October, saving $16.46 billion, and traders credit the Prime Minister's appeal with sparing heavier losses. (stories #7, #8, #9)
-- **Silver slides with gold as the gold/silver ratio hits a one-year high**: Silver dropped more sharply than gold in the week's slide, falling Rs 2.46 lakh from its record high, while solar makers cut silver use by a fifth. (stories #3, #11, #16)
-- **Wedding-season buyers meet cheaper gold**: Households with weddings are relieved as prices slide and jewellers are scaling back making-charge discounts. (stories #18, #22)
+- **Gold and silver end the week at 14-month lows**: A hawkish Fed, a 19-month-high dollar and Treasury yields near 5% drove bullion's worst week since March, with MCX gold down about 11% and silver about 16% on the week. (stories 1, 2, 4, 5)
+- **India's imports fell as the duty bite showed**: Gold imports fell nearly 40% in April–October after the duty rose to 15% in May, saving $16.46 billion, while jewellers scaled back offers and wedding buyers found relief in lower prices. (stories 9, 10, 16)
+- **What next: US inflation data and the Fed**: Traders now watch US core PCE data on Wednesday and the Fed's 9 December decision, while Goldman Sachs sees gold outperforming silver to $5,600 by end-2028 and UBS flags more weakness first. (stories 7, 8, 5)
+- **Silver's slide runs deeper than gold's**: Silver fell further than gold on the week as industrial demand wobbled — solar makers cut silver use by a fifth — though cheaper silver is reviving Salem's anklet makers. (stories 14, 17, 3)
 
 ## Stories
 1. [Gold rate today in India at 14-month low; will it hit ₹1 lakh? Experts list out 3 reasons for gold price drop in 2026](https://www.livemint.com/market/commodities/gold-rate-today-in-india-at-14-month-low-will-it-hit-rs-1-lakh-experts-list-out-3-reasons-for-gold-price-drop-in-2026-11795283484060.html) — *Mint*, 2026-11-21T23:34:00Z
    MCX gold closed at a 14-month low of Rs 1,21,949 per 10 g on Friday, with spot gold at $3,539, as experts pointed to a hawkish Fed, a strong dollar holding US yields high, and a firmer rupee. One expert quoted in the piece rules out a near-term fall to Rs 1 lakh, calling gold deeply oversold.
-2. [Gold, silver, copper, aluminium, platinum to zinc: Why are metal prices crashing to multi-month lows? Key reasons](https://www.livemint.com/market/commodities/gold-silver-copper-aluminium-platinum-to-zinc-why-are-metal-prices-crashing-to-multi-month-lows-key-reasons-11795357679178.html) — *Mint*, 2026-11-22T14:31:47Z
-   Last week ended in a broad metals selloff: MCX December gold closed 4.32% lower at ₹1,21,949 per 10 g on Friday while silver stayed near a 14-month low below $42 an ounce, with copper, aluminium, zinc and platinum also sliding. Mint attributes the slide to sticky US inflation, a stronger dollar, rising yields, December Fed hike bets and cooling AI infrastructure spending.
-3. [Gold and silver prices plunge amid strong US dollar and rising Treasury yields](https://newsonair.gov.in/gold-and-silver-prices-plunge-amid-strong-us-dollar-and-rising-treasury-yields/) — *News On AIR*, 2026-11-22T12:02:00Z
+
+2. [Gold and silver prices plunge amid strong US dollar and rising Treasury yields](https://newsonair.gov.in/gold-and-silver-prices-plunge-amid-strong-us-dollar-and-rising-treasury-yields/) — *News On AIR*, 2026-11-22T12:02:00Z
    Gold and silver fell steeply for a second week as a stronger dollar and higher Treasury yields weighed on sentiment. On MCX, December gold fell 10.9% to Rs 1,21,778 per 10 g and silver 16.2% to Rs 1,47,813 per kg; on COMEX, December gold fell 9.5% to $3,515.40 an ounce and silver 16.4% to $41.07.
-4. [Gold Price Slump Wipes an Estimated $15 Trillion From Gold and Silver](https://ceoworld.biz/2026/11/22/gold-price-slump-wipes-an-estimated-15-trillion-from-gold-and-silver/) — *CEOWORLD magazine*, 2026-11-22T04:46:11Z
-   Gold ended the week near $3,544 an ounce, about 37% below its January peak near $5,600, while silver traded under $42, some 65% below its January high above $122. The Kobeissi Letter puts the combined loss in value at about $15 trillion. CEOWORLD says bullion became a source of emergency cash as funds sold to cover losses in tech shares, while central banks bought 321 tonnes in the third quarter.
-5. [Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff](https://www.bloomberg.com/news/articles/2026-11-19/gold-set-for-worst-week-since-march-on-hawkish-fed-ai-selloff) — *Bloomberg*, 2026-11-20T22:12:39Z
+
+3. [Gold, silver, copper, aluminium, platinum to zinc: Why are metal prices crashing to multi-month lows? Key reasons](https://www.livemint.com/market/commodities/gold-silver-copper-aluminium-platinum-to-zinc-why-are-metal-prices-crashing-to-multi-month-lows-key-reasons-11795357679178.html) — *Mint*, 2026-11-22T14:31:47Z
+   Last week ended in a broad metals selloff: MCX December gold closed 4.32% lower at ₹1,21,949 per 10 g on Friday while silver stayed near a 14-month low below $42 an ounce, with copper, aluminium, zinc and platinum also sliding. Mint attributes the slide to sticky US inflation, a stronger dollar, rising yields, December Fed hike bets and cooling AI infrastructure spending.
+
+4. [Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff](https://www.bloomberg.com/news/articles/2026-11-19/gold-set-for-worst-week-since-march-on-hawkish-fed-ai-selloff) — *Bloomberg*, 2026-11-20T22:12:39Z
    Gold fell for a fifth straight day to near $3,500 an ounce, heading for its biggest weekly drop since March at about 8%, Bloomberg reports, as a hawkish Fed signalled more rate hikes and the AI stock rout forced selling across metals; silver has fallen almost 15% over five sessions.
-6. [Gold Price Crash Tests $3,500 as Fed Hike Bets Reach 97%](https://www.investing.com/analysis/gold-price-crash-tests-3500-as-fed-hike-bets-reach-97-200692028) — *Investing.com*, 2026-11-20T19:26:16Z
+
+5. [Gold Price Crash Tests $3,500 as Fed Hike Bets Reach 97%](https://www.investing.com/analysis/gold-price-crash-tests-3500-as-fed-hike-bets-reach-97-200692028) — *Investing.com*, 2026-11-20T19:26:16Z
    Gold tested the $3,500 level, touching an overnight low of $3,514.50, as markets priced a 97.3% chance of a quarter-point Fed hike at the December 8-9 meeting. Spot gold traded at $3,568.65, heading for a weekly loss of about 9%, its steepest in eight months, while silver fell 14% on the week to $42.15.
-7. [Did PM Modi's appeal really bring down gold prices? Here's what the data shows](https://english.mathrubhumi.com/news/money/did-pm-modi-gold-buying-appeal-bring-down-gold-prices-market-data-explained-gdfoqmr2) — *Mathrubhumi*, 2026-11-22T11:18:00Z
-   Mathrubhumi tests the PM's claim that his appeal to avoid non-essential gold purchases lowered prices: 24-carat gold fell about 18% from Rs 15,250 a gram on 9 May to Rs 12,523 on 21 November. The piece concludes the appeal alone cannot explain it — the import duty rose from 6% to 15% in May, imports fell about 40% in April–October, and a stronger dollar and Fed hike expectations also weighed.
-8. [PM Modi's appeal to avoid gold purchases reflects in import data, India saves $16.46 billion in 7 months: CAIT](https://hiindia.com/pm-modis-appeal-to-avoid-gold-purchases-reflects-in-import-data-india-saves-16-46-billion-in-7-months-cait/) — *hi INDiA*, 2026-11-22T07:07:28Z
-   India's gold import bill fell nearly 40% to $24.78 billion in April–October 2026 from $41.24 billion a year earlier, saving $16.46 billion, the Confederation of All India Traders says, crediting PM Modi's appeal to avoid non-essential gold purchases. October imports fell 62.6% to $5.51 billion from $14.72 billion a year earlier.
-9. [Chamber of Trade and Industry Credits PM Modi's Gold Appeal for Preventing Trader Losses](https://www.mirrornow.in/india-news/cti-credits-modi-gold-purchase-appeal-for-preventing-trader-losses-article-156549409) — *Mirror Now*, 2026-11-22T07:13:00Z
-   The Chamber of Trade and Industry has written to PM Modi thanking him for his appeal to curb gold purchases, saying gold has fallen from Rs 1.90 crore to Rs 1.25 crore per kg since the appeal — a drop of Rs 65 lakh per kg that spared jewellers and investors heavy losses. The body says the correction has eased the burden on families in the wedding season, with about 52 lakh weddings under way.
-10. [Gold price continues to fall as AI selloff, rate-hike bets weigh. What’s ahead?](https://www.thehindubusinessline.com/markets/gold/gold-price-continues-to-fall-as-ai-selloff-rate-hike-bets-weigh-whats-ahead/article71727282.ece) — *The Hindu BusinessLine*, 2026-11-21T05:20:16Z
-   Spot gold fell 3% to $3,514.08 an ounce on Friday, touching a 14-month low of $3,502.49, and has shed about 9.4% this week — its worst week since March. Hawkish Fed signals and an AI-led equity selloff drove the slide, with markets pricing a 96% chance of a December rate hike. Silver fell 4.1% to $40.99 an ounce, while analysts said a bottom could come sooner rather than later.
-11. [Gold Sinks To One-Year Low, Silver Plunges Rs 2.46 lakh From Record High](https://www.ndtv.com/business-news/gold-sinks-to-one-year-low-silver-plunges-rs-2-46-lakh-from-record-high-12356154) — *NDTV*, 2026-11-20T17:17:09Z
-   Delhi gold of 99.9% purity fell Rs 5,200 to Rs 1,29,300 per 10 g on Friday, its lowest in a year, while silver dropped Rs 4,000 to Rs 1.58 lakh per kg — Rs 2.46 lakh below its January record of Rs 4.04 lakh; spot gold slid to $3,515 an ounce.
-12. [Wall Street stays bearish after gold's slide to $3,500, Main Street pessimism deepens ahead of holiday week](https://www.kitco.com/news/article/2026-11-20/wall-street-stays-bearish-after-golds-slide-3500-main-street-pessimism) — *Kitco*, 2026-11-20T22:26:49Z
-   Gold suffered another brutal weekly decline to a low of $3,502.93 an ounce, Kitco News reported, as hawkish Fed expectations, surging Treasury yields and a stronger dollar overwhelmed safe-haven demand. The Kitco survey showed Wall Street still bearish and Main Street bulls down to 36%, with 46% expecting further losses; PCE inflation, GDP and jobless claims are due Wednesday before Thanksgiving.
-13. [UBS flags further gold weakness before Fed rate-cut expectations return](https://au.investing.com/news/commodities-news/ubs-flags-further-gold-weakness-before-fed-ratecut-expectations-return-4788248) — *Investing.com*, 2026-11-21T18:00:17Z
-   UBS expects gold headwinds into early 2027 as strong US jobs data and hot inflation keep Fed hike bets alive, with meaningful support only near $3,500. It does not expect the slide to last through 2027, forecasting $4,200 in March rising to $5,000 by end-2027, with central-bank buying and a jewellery recovery stabilising prices.
-14. [Goldman Sachs: Gold to Outperform Silver and Reach $5,600 by End-2028](https://www.tradingview.com/news/binance_news:5e675f639094b:0-goldman-sachs-gold-to-outperform-silver-and-reach-5-600-by-end-2028/) — *TradingView*, 2026-11-22T06:45:00Z
+
+6. [Gold Price Slump Wipes an Estimated $15 Trillion From Gold and Silver](https://ceoworld.biz/2026/11/22/gold-price-slump-wipes-an-estimated-15-trillion-from-gold-and-silver/) — *CEOWORLD magazine*, 2026-11-22T04:46:11Z
+   Gold ended the week near $3,544 an ounce, about 37% below its January peak near $5,600, while silver traded under $42, some 65% below its January high above $122. The Kobeissi Letter puts the combined loss in value at about $15 trillion. CEOWORLD says bullion became a source of emergency cash as funds sold to cover losses in tech shares, while central banks bought 321 tonnes in the third quarter.
+
+7. [Goldman Sachs: Gold to Outperform Silver and Reach $5,600 by End-2028](https://www.tradingview.com/news/binance_news:5e675f639094b:0-goldman-sachs-gold-to-outperform-silver-and-reach-5-600-by-end-2028/) — *TradingView*, 2026-11-22T06:45:00Z
    Goldman Sachs expects gold to outperform silver in 2027, forecasting $4,650 an ounce by end-2027 and $5,600 by end-2028 as central banks keep buying about 60 tonnes a month, with Western ETF demand recovering once the Fed starts cutting rates. The bank sees near-term downside and volatility while the Fed keeps hiking.
-15. [How US Fed interest rates impact gold prices in India: 2026 trends and 2027 outlook](https://english.mathrubhumi.com/news/money/how-us-federal-reserve-interest-rates-impact-gold-prices-india-2026-2027-outlook-jnjw65bp) — *Mathrubhumi*, 2026-11-22T10:29:00Z
-   The explainer traces how Fed rate rises usually press gold down — the metal pays no interest and higher yields lift the dollar — and notes the exceptions: runaway inflation, war and central-bank buying. For 2027 it says retail 24-carat gold may stay volatile between about Rs 1.22 lakh and Rs 1.35 lakh per 10 g, and cites Goldman Sachs projecting $4,650 an ounce by late 2027 once rates ease.
-16. [Solar makers cut silver use by a fifth as the gold/silver ratio climbs to a one-year high of 86](https://ceoeconomy.com/article/silver-solar-demand-falls-gold-silver-ratio-86) — *CEO Economy*, 2026-11-21T14:00:00Z
-   The Silver Institute expects global silver demand to fall 5% this year to 1.08 billion ounces, with solar makers using about 20% less silver as installations fell short. Silver closed near $41.19 an ounce on 20 November, pushing the gold/silver ratio to 85.8 from 45.4 in January. The market is still forecast to run a sixth straight annual deficit, of 35 million ounces.
-17. [China Gold Reserves Rise for a 24th Month as the Price Falls](https://ceoworld.biz/2026/11/22/china-gold-reserves-rise-for-a-24th-month-as-the-price-falls/) — *CEOWORLD magazine*, 2026-11-22T04:52:02Z
-   China's central bank added about 26 tonnes of gold in October, its largest buy in three years, taking reserves to 78.3 million ounces in a 24th straight monthly rise even as bullion fell. The World Gold Council puts central-bank buying at 321 tonnes in Q3, but only 228 tonnes of the 675-tonne nine-month total was publicly reported. Poland held 673 tonnes at end-September against a 700-tonne goal.
-18. [As gold price ease, jewellers scale back offers, making-charge discounts](https://timesofindia.indiatimes.com/city/pune/as-gold-price-ease-jewellers-scale-back-offers-making-charge-discounts/articleshow/136062385.cms) — *Times of India*, 2026-11-22T01:31:00Z
-   Pune jewellers are cutting back the making-charge discounts they offered when gold was soaring, reverting charges to original levels as prices ease to about Rs 1.23 lakh per 10 g. Demand is returning for weddings and gifting, but buyers favour lightweight designs and smaller pieces.
-19. [Silver price dip revives Salem's anklet industry](https://www.newindianexpress.com/states/tamil-nadu/2026/Nov/22/silver-price-dip-revives-salems-anklet-industry) — *The New Indian Express*, 2026-11-22T00:43:00Z
-   Salem's silver anklet makers are seeing orders return as silver eased to about Rs 175 a gram from Rs 195 a week earlier, after the January peak of nearly Rs 425 a gram. Units are now getting about a lakh anklet orders a month, roughly half their normal volume, ahead of Pongal.
-20. [IBJA Seeks BIS Crackdown on Fake Purity Reports and 4,000 Unregistered Gold Refiners](https://the420.in/ibja-seeks-bis-crackdown-on-fake-purity-reports-and-4000-unregistered-gold-refiners/) — *The420.in*, 2026-11-22T02:59:25Z
-   The India Bullion and Jewellers Association has asked the Bureau of Indian Standards to act on alleged collusion between jewellers and hallmarking centres, fake purity reports and rhenium adulteration, and to bring nearly 4,000 unregistered refiners under oversight. BIS has called a meeting on November 23 to examine the complaints.
-21. [Notional Loss Piling? Here's What Rs 1 Lakh Gold Bought On Dhanteras Is Worth Now](https://www.ndtvprofit.com/markets/notional-loss-piling-heres-what-rs-1-lakh-gold-bought-on-dhanteras-is-worth-now-12358406) — *NDTV Profit*, 2026-11-21T10:12:05Z
-   Gold bought on Dhanteras has lost about 12.5% of its value in a fortnight, NDTV Profit reports: 22-carat gold fell from Rs 1,31,600 to Rs 1,15,100 per 10 g and 24-carat from Rs 1,43,570 to Rs 1,25,570 as of November 20. The dip is notional rather than a realised loss, and resale values depend on deductions.
-22. [Householders With Weddings Relieved As Gold, Silver Prices Slide](https://www.deccanchronicle.com/southern-states/telangana/householders-with-weddings-relieved-as-gold-silver-prices-slide-2006422) — *Deccan Chronicle*, 2026-11-20T17:31:23Z
-   Families in Telangana with weddings ahead welcomed the slide after months of record prices, with many who had postponed jewellery purchases now willing to buy, while bullion traders worry about the falling value of their stocks; the paper attributes the drop largely to developments in international markets.
-23. [PM Modi links gold price dip to his appeal, says AI cannot take away jobs of skilled workers](https://www.deccanherald.com/india/uttar-pradesh/pm-modi-links-gold-price-dip-to-his-appeal-says-ai-cannot-take-away-jobs-of-skilled-workers-4226818) — *Deccan Herald*, 2026-11-21T15:36:40Z
+
+8. [UBS flags further gold weakness before Fed rate-cut expectations return](https://au.investing.com/news/commodities-news/ubs-flags-further-gold-weakness-before-fed-ratecut-expectations-return-4788248) — *Investing.com*, 2026-11-21T18:00:17Z
+   UBS expects gold headwinds into early 2027 as strong US jobs data and hot inflation keep Fed hike bets alive, with meaningful support only near $3,500. It does not expect the slide to last through 2027, forecasting $4,200 in March rising to $5,000 by end-2027, with central-bank buying and a jewellery recovery stabilising prices.
+
+9. [Did PM Modi's appeal really bring down gold prices? Here's what the data shows](https://english.mathrubhumi.com/news/money/did-pm-modi-gold-buying-appeal-bring-down-gold-prices-market-data-explained-gdfoqmr2) — *Mathrubhumi*, 2026-11-22T11:18:00Z
+   Mathrubhumi tests the PM's claim that his appeal to avoid non-essential gold purchases lowered prices: 24-carat gold fell about 18% from Rs 15,250 a gram on 9 May to Rs 12,523 on 21 November. The piece concludes the appeal alone cannot explain it — the import duty rose from 6% to 15% in May, imports fell about 40% in April–October, and a stronger dollar and Fed hike expectations also weighed.
+
+10. [PM Modi's appeal to avoid gold purchases reflects in import data, India saves $16.46 billion in 7 months: CAIT](https://hiindia.com/pm-modis-appeal-to-avoid-gold-purchases-reflects-in-import-data-india-saves-16-46-billion-in-7-months-cait/) — *hi INDiA*, 2026-11-22T07:07:28Z
+   India's gold import bill fell nearly 40% to $24.78 billion in April–October 2026 from $41.24 billion a year earlier, saving $16.46 billion, the Confederation of All India Traders says, crediting PM Modi's appeal to avoid non-essential gold purchases. October imports fell 62.6% to $5.51 billion from $14.72 billion a year earlier.
+
+11. [Chamber of Trade and Industry Credits PM Modi's Gold Appeal for Preventing Trader Losses](https://www.mirrornow.in/india-news/cti-credits-modi-gold-purchase-appeal-for-preventing-trader-losses-article-156549409) — *Mirror Now*, 2026-11-22T07:13:00Z
+   The Chamber of Trade and Industry has written to PM Modi thanking him for his appeal to curb gold purchases, saying gold has fallen from Rs 1.90 crore to Rs 1.25 crore per kg since the appeal — a drop of Rs 65 lakh per kg that spared jewellers and investors heavy losses. The body says the correction has eased the burden on families in the wedding season, with about 52 lakh weddings under way.
+
+12. [PM Modi links gold price dip to his appeal, says AI cannot take away jobs of skilled workers](https://www.deccanherald.com/india/uttar-pradesh/pm-modi-links-gold-price-dip-to-his-appeal-says-ai-cannot-take-away-jobs-of-skilled-workers-4226818) — *Deccan Herald*, 2026-11-21T15:36:40Z
    PM Narendra Modi said on Saturday in Lucknow that people had heeded his appeal from a year ago to avoid unnecessary gold purchases, and that the resulting fall in prices had saved them money. He was speaking at a skill convocation, where he also said AI could not take away the jobs of skilled workers.
-24. [121 kg of gold: Anonymous devotee to make biggest-ever individual offering to Lord Venkateswara at Tirumala on Nov 26](https://timesofindia.indiatimes.com/city/vijayawada/121-kg-of-gold-anonymous-devotee-to-make-biggest-ever-individual-offering-to-lord-venkateswara-at-tirumala-on-nov-26/articleshow/136061772.cms) — *Times of India*, 2026-11-21T21:32:00Z
+
+13. [How US Fed interest rates impact gold prices in India: 2026 trends and 2027 outlook](https://english.mathrubhumi.com/news/money/how-us-federal-reserve-interest-rates-impact-gold-prices-india-2026-2027-outlook-jnjw65bp) — *Mathrubhumi*, 2026-11-22T10:29:00Z
+   The explainer traces how Fed rate rises usually press gold down — the metal pays no interest and higher yields lift the dollar — and notes the exceptions: runaway inflation, war and central-bank buying. For 2027 it says retail 24-carat gold may stay volatile between about Rs 1.22 lakh and Rs 1.35 lakh per 10 g, and cites Goldman Sachs projecting $4,650 an ounce by late 2027 once rates ease.
+
+14. [Solar makers cut silver use by a fifth as the gold/silver ratio climbs to a one-year high of 86](https://ceoeconomy.com/article/silver-solar-demand-falls-gold-silver-ratio-86) — *CEO Economy*, 2026-11-21T14:00:00Z
+   The Silver Institute expects global silver demand to fall 5% this year to 1.08 billion ounces, with solar makers using about 20% less silver as installations fell short. Silver closed near $41.19 an ounce on 20 November, pushing the gold/silver ratio to 85.8 from 45.4 in January. The market is still forecast to run a sixth straight annual deficit, of 35 million ounces.
+
+15. [China Gold Reserves Rise for a 24th Month as the Price Falls](https://ceoworld.biz/2026/11/22/china-gold-reserves-rise-for-a-24th-month-as-the-price-falls/) — *CEOWORLD magazine*, 2026-11-22T04:52:02Z
+   China's central bank added about 26 tonnes of gold in October, its largest buy in three years, taking reserves to 78.3 million ounces in a 24th straight monthly rise even as bullion fell. The World Gold Council puts central-bank buying at 321 tonnes in Q3, but only 228 tonnes of the 675-tonne nine-month total was publicly reported. Poland held 673 tonnes at end-September against a 700-tonne goal.
+
+16. [As gold price ease, jewellers scale back offers, making-charge discounts](https://timesofindia.indiatimes.com/city/pune/as-gold-price-ease-jewellers-scale-back-offers-making-charge-discounts/articleshow/136062385.cms) — *Times of India*, 2026-11-22T01:31:00Z
+   Pune jewellers are cutting back the making-charge discounts they offered when gold was soaring, reverting charges to original levels as prices ease to about Rs 1.23 lakh per 10 g. Demand is returning for weddings and gifting, but buyers favour lightweight designs and smaller pieces.
+
+17. [Silver price dip revives Salem's anklet industry](https://www.newindianexpress.com/states/tamil-nadu/2026/Nov/22/silver-price-dip-revives-salems-anklet-industry) — *The New Indian Express*, 2026-11-22T00:43:00Z
+   Salem's silver anklet makers are seeing orders return as silver eased to about Rs 175 a gram from Rs 195 a week earlier, after the January peak of nearly Rs 425 a gram. Units are now getting about a lakh anklet orders a month, roughly half their normal volume, ahead of Pongal.
+
+18. [IBJA Seeks BIS Crackdown on Fake Purity Reports and 4,000 Unregistered Gold Refiners](https://the420.in/ibja-seeks-bis-crackdown-on-fake-purity-reports-and-4000-unregistered-gold-refiners/) — *The420.in*, 2026-11-22T02:59:25Z
+   The India Bullion and Jewellers Association has asked the Bureau of Indian Standards to act on alleged collusion between jewellers and hallmarking centres, fake purity reports and rhenium adulteration, and to bring nearly 4,000 unregistered refiners under oversight. BIS has called a meeting on November 23 to examine the complaints.
+
+19. [Notional Loss Piling? Here's What Rs 1 Lakh Gold Bought On Dhanteras Is Worth Now](https://www.ndtvprofit.com/markets/notional-loss-piling-heres-what-rs-1-lakh-gold-bought-on-dhanteras-is-worth-now-12358406) — *NDTV Profit*, 2026-11-21T10:12:05Z
+   Gold bought on Dhanteras has lost about 12.5% of its value in a fortnight, NDTV Profit reports: 22-carat gold fell from Rs 1,31,600 to Rs 1,15,100 per 10 g and 24-carat from Rs 1,43,570 to Rs 1,25,570 as of November 20. The dip is notional rather than a realised loss, and resale values depend on deductions.
+
+20. [121 kg of gold: Anonymous devotee to make biggest-ever individual offering to Lord Venkateswara at Tirumala on Nov 26](https://timesofindia.indiatimes.com/city/vijayawada/121-kg-of-gold-anonymous-devotee-to-make-biggest-ever-individual-offering-to-lord-venkateswara-at-tirumala-on-nov-26/articleshow/136061772.cms) — *Times of India*, 2026-11-21T21:32:00Z
    An anonymous devotee will hand over 121 kg of gold ornaments — 45 pieces in nine sets, valued at about Rs 160 crore — to Lord Venkateswara at Tirumala on 26 November, in what temple sources describe as the largest individual offering in the shrine's history.
