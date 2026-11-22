@@ -1,22 +1,52 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-21T22:00Z",
-  "generated_at": "2026-11-21T22:06:33Z",
+  "edition_id": "2026-11-22T02:00Z",
+  "generated_at": "2026-11-22T02:11:32Z",
   "window": {
-    "from": "2026-11-21T20:00:00Z",
-    "to": "2026-11-21T22:00:00Z"
+    "from": "2026-11-22T00:00:00Z",
+    "to": "2026-11-22T02:00:00Z"
   },
   "insights": {
-    "headline": "Gold ends its worst week since March near $3,500 as Fed hike bets and the AI rout drive the slide",
-    "summary": "Spot gold held near $3,500 after falling for a fifth straight day, ending its worst week since March. MCX gold traded near Rs 1.22 lakh per 10 g and silver near Rs 1.48 lakh per kg, with silver down about 65% from its January peak against gold's 37%. A hawkish Fed, a firm dollar and AI-led selling drove the rout, while wedding-season buyers returned as prices eased.",
+    "headline": "Gold at a 14-month low near $3,539 as Fed hike bets and the AI rout drive the slide",
+    "summary": "MCX gold closed at a 14-month low of Rs 1,21,949 per 10 g on Friday, with spot gold at $3,539, ending the metal's worst week since March. Silver has fallen about 65% from its January peak against gold's 37%, with MCX silver near Rs 1.48 lakh per kg. A hawkish Fed, a firm dollar and AI-led selling drove the rout, while a stronger rupee deepened the domestic fall; wedding-season buyers and jewellers are returning as prices ease.",
     "points": [
-      "Spot gold held near $3,500 after a fifth straight daily fall, ending its worst week since March at about 9%.",
-      "MCX gold traded near Rs 1.22 lakh per 10 g and silver near Rs 1.48 lakh per kg, far below January record highs.",
+      "MCX gold finished at a 14-month low of Rs 1,21,949 per 10 g on Friday, with spot gold at $3,539, Mint reports.",
+      "Silver has fallen about 65% from its January peak against gold's 37%, Mint reports; MCX silver near Rs 1.48 lakh per kg.",
       "Fed hike bets reached 97% for December as officials signalled more increases, Investing.com reports.",
-      "Silver has fallen about 65% from its January peak against gold's 37%, Mint reports, as wedding buyers return.",
-      "DSP Mutual Fund has turned bullish on bullion after the crash, rebuilding exposure at set price levels, Mint reports."
+      "The rupee recovered to 92.66 per dollar, down about 1.7% on the week, amplifying the MCX fall, Mint reports.",
+      "Pune jewellers are scaling back making-charge discounts as demand returns for weddings, Times of India reports."
     ],
-    "brief": null
+    "brief": {
+      "schema": "orob-brief.v1",
+      "brief_id": "2026-11-22-0741",
+      "date": "2026-11-22",
+      "generated_at": "2026-11-22T02:11:32Z",
+      "slot": "morning",
+      "expires_at": "2026-11-22T08:00:00Z",
+      "headline": "Gold at 14-month low as Fed hike bets weigh",
+      "summary": "MCX gold hit a 14-month low of Rs 1,21,949 per 10 g and spot gold $3,539 on Fed hike bets and a firm dollar.",
+      "bullets": [
+        {
+          "text": "Gold ended its worst week since March at a 14-month low, with silver down about 65% from its January peak against gold's 37%, Mint reports.",
+          "item_ids": [
+            "8ea497c369097bed",
+            "f3fcabe0a139b838",
+            "3c456c9ac7508240"
+          ]
+        },
+        {
+          "text": "A hawkish Fed, a firm dollar and the AI equity rout drove the selling, while a stronger rupee deepened the MCX fall, Mint reports.",
+          "item_ids": [
+            "8ea497c369097bed",
+            "250844ec92b67983"
+          ]
+        },
+        {
+          "text": "Next test: US core PCE on Wednesday 25 November at 19:00 IST, ahead of the Fed's 9 December meeting.",
+          "item_ids": []
+        }
+      ]
+    }
   },
   "trending": [
     {
@@ -27,7 +57,8 @@
         "250844ec92b67983",
         "9b486891742144bc",
         "74bc83abd267203f",
-        "4913eeec22ba2cff"
+        "4913eeec22ba2cff",
+        "8ea497c369097bed"
       ]
     },
     {
@@ -45,14 +76,16 @@
       "summary": "Lower prices are bringing householders and jewellers back ahead of weddings, while festive demand picks up after the sharp correction.",
       "item_ids": [
         "8cbaff3e412919fc",
-        "8739e0508b03f1d8"
+        "8739e0508b03f1d8",
+        "65da9f5eeb1fdf23"
       ]
     },
     {
-      "title": "A fund steps back in",
-      "summary": "DSP Mutual Fund has turned bullish after the crash and is rebuilding bullion exposure at preset price levels, a counterpoint to a week of forced selling.",
+      "title": "Jewellers reset as prices ease",
+      "summary": "Pune jewellers are scaling back making-charge discounts as gold eases, while Salem's silver anklet makers see orders return ahead of Pongal.",
       "item_ids": [
-        "67adc63aa940c70d"
+        "65da9f5eeb1fdf23",
+        "dcde70fa032b9270"
       ]
     },
     {
@@ -96,6 +129,34 @@
       "rank": 1
     },
     {
+      "url": "https://www.livemint.com/market/commodities/gold-rate-today-in-india-at-14-month-low-will-it-hit-rs-1-lakh-experts-list-out-3-reasons-for-gold-price-drop-in-2026-11795283484060.html",
+      "title": "Gold rate today in India at 14-month low; will it hit ₹1 lakh? Experts list out 3 reasons for gold price drop in 2026",
+      "summary": "MCX gold closed at a 14-month low of Rs 1,21,949 per 10 g on Friday, with spot gold at $3,539, as experts pointed to a hawkish Fed, a strong dollar holding US yields high, and a firmer rupee. One expert quoted in the piece rules out a near-term fall to Rs 1 lakh, calling gold deeply oversold.",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "publisher_id": "mint",
+      "published_at": "2026-11-21T23:34:00Z",
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "fed",
+        "rupee",
+        "india"
+      ],
+      "id": "8ea497c369097bed",
+      "breaking": false,
+      "rank": 2,
+      "related_urls": []
+    },
+    {
       "id": "f3fcabe0a139b838",
       "title": "Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff",
       "summary": "Gold fell for a fifth straight day to near $3,500 an ounce, heading for its biggest weekly drop since March at about 8%, Bloomberg reports, as a hawkish Fed signalled more rate hikes and the AI stock rout forced selling across metals; silver has fallen almost 15% over five sessions.",
@@ -121,11 +182,11 @@
       "related_urls": [
         "https://www.advisorperspectives.com/articles/2026/11/20/gold-worst-week-march-hawkish-fed-ai-selloff"
       ],
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "3c456c9ac7508240",
-      "rank": 3,
+      "rank": 4,
       "title": "Gold vs silver price crash compared: White metal loses 65%, gold sheds 37% from record highs",
       "summary": "Gold has fallen 37% and silver 65% from their January 29 record highs on MCX, Mint reports, with gold at Rs 1.22 lakh per 10 g and silver near Rs 1.47 lakh per kg after Friday's slide; investors who bought in October 2025 still hold small gains in both metals.",
       "url": "https://www.livemint.com/market/stock-market-news/gold-vs-silver-price-crash-compared-white-metal-loses-65-gold-sheds-37-from-record-highs-wealth-wiped-returns-11795241673262.html",
@@ -145,7 +206,8 @@
         "silver",
         "mcx"
       ],
-      "breaking": false
+      "breaking": false,
+      "related_urls": []
     },
     {
       "id": "4913eeec22ba2cff",
@@ -169,7 +231,8 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 4
+      "rank": 5,
+      "related_urls": []
     },
     {
       "id": "74bc83abd267203f",
@@ -195,7 +258,8 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 5
+      "rank": 6,
+      "related_urls": []
     },
     {
       "id": "4cf36fc429a32d3a",
@@ -220,7 +284,8 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 7,
+      "related_urls": []
     },
     {
       "id": "89f5f0962978785c",
@@ -244,7 +309,8 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 7
+      "rank": 8,
+      "related_urls": []
     },
     {
       "id": "9b486891742144bc",
@@ -270,11 +336,12 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 9,
+      "related_urls": []
     },
     {
       "id": "f8f89bb8340001d7",
-      "rank": 9,
+      "rank": 10,
       "title": "PM Modi links gold price dip to his appeal, says AI cannot take away jobs of skilled workers",
       "summary": "PM Narendra Modi said on Saturday in Lucknow that people had heeded his appeal from a year ago to avoid unnecessary gold purchases, and that the resulting fall in prices had saved them money. He was speaking at a skill convocation, where he also said AI could not take away the jobs of skilled workers.",
       "url": "https://www.deccanherald.com/india/uttar-pradesh/pm-modi-links-gold-price-dip-to-his-appeal-says-ai-cannot-take-away-jobs-of-skilled-workers-4226818",
@@ -292,7 +359,8 @@
       "metals": [
         "gold"
       ],
-      "breaking": false
+      "breaking": false,
+      "related_urls": []
     },
     {
       "id": "b8a0b5db4569e804",
@@ -317,7 +385,8 @@
         "global"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 11,
+      "related_urls": []
     },
     {
       "id": "c07f30c65a68f458",
@@ -342,7 +411,8 @@
         "global"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 12,
+      "related_urls": []
     },
     {
       "title": "UBS flags further gold weakness before Fed rate-cut expectations return",
@@ -366,7 +436,8 @@
       ],
       "breaking": false,
       "id": "71ce774ff270f316",
-      "rank": 12
+      "rank": 13,
+      "related_urls": []
     },
     {
       "id": "794edfa62194b0d4",
@@ -390,7 +461,8 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 13
+      "rank": 14,
+      "related_urls": []
     },
     {
       "id": "bd3a1f707ebe7c78",
@@ -415,31 +487,8 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 14
-    },
-    {
-      "id": "67adc63aa940c70d",
-      "title": "Gold, silver price crash: DSP Mutual Fund turns bullish on bullion, reveals new buying strategy; check price levels",
-      "summary": "DSP Mutual Fund has turned bullish on bullion after the crash and is rebuilding exposure in its multi-asset fund of funds, adding gold at preset levels — 0.5% more for every $100 fall below $3,850 an ounce — and silver 0.5% more for every $2 fall below $47, Mint reports. DSP puts fair value at $4,484 for gold and $64 for silver. Spot gold fell 3% on Friday to $3,514.08, a 14-month low.",
-      "url": "https://www.livemint.com/market/commodities/gold-silver-price-crash-dsp-mutual-fund-turns-bullish-on-bullion-reveals-new-buying-strategy-check-price-levels-11795252615511.html",
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "publisher_id": "mint",
-      "published_at": "2026-11-21T11:20:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/67adc63aa940c70d.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 15
+      "rank": 15,
+      "related_urls": []
     },
     {
       "id": "8d6cd8b2a95da461",
@@ -462,7 +511,58 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 16
+      "rank": 16,
+      "related_urls": []
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/city/pune/as-gold-price-ease-jewellers-scale-back-offers-making-charge-discounts/articleshow/136062385.cms",
+      "title": "As gold price ease, jewellers scale back offers, making-charge discounts",
+      "summary": "Pune jewellers are cutting back the making-charge discounts they offered when gold was soaring, reverting charges to original levels as prices ease to about Rs 1.23 lakh per 10 g. Demand is returning for weddings and gifting, but buyers favour lightweight designs and smaller pieces.",
+      "source": "Times of India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "publisher_id": "times-of-india",
+      "published_at": "2026-11-22T01:31:00Z",
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/65da9f5eeb1fdf23.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "mcx",
+        "india",
+        "jewellery"
+      ],
+      "id": "65da9f5eeb1fdf23",
+      "breaking": false,
+      "rank": 17,
+      "related_urls": []
+    },
+    {
+      "url": "https://www.newindianexpress.com/states/tamil-nadu/2026/Nov/22/silver-price-dip-revives-salems-anklet-industry",
+      "title": "Silver price dip revives Salem's anklet industry",
+      "summary": "Salem's silver anklet makers are seeing orders return as silver eased to about Rs 175 a gram from Rs 195 a week earlier, after the January peak of nearly Rs 425 a gram. Units are now getting about a lakh anklet orders a month, roughly half their normal volume, ahead of Pongal.",
+      "source": "The New Indian Express",
+      "source_domain": "newindianexpress.com",
+      "publisher_id": "new-indian-express",
+      "published_at": "2026-11-22T00:43:00Z",
+      "category": "mcx",
+      "metals": [
+        "silver"
+      ],
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/dcde70fa032b9270.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "silver",
+        "mcx",
+        "india",
+        "jewellery"
+      ],
+      "id": "dcde70fa032b9270",
+      "breaking": false,
+      "rank": 18,
+      "related_urls": []
     },
     {
       "id": "fcc221ad5eefb538",
@@ -485,7 +585,7 @@
         "jewellery"
       ],
       "breaking": false,
-      "rank": 17,
+      "rank": 19,
       "related_urls": [
         "https://www.business-standard.com/markets/commodities/industry-body-gjc-alerts-bis-over-gold-adulteration-using-rhenium-iridium-126112000985_1.html",
         "https://www.outlookmoney.com/invest/gold-adulteration-scam-chinese-rhenium-powder-gold-purity-tests"
@@ -514,10 +614,11 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 18
+      "rank": 20,
+      "related_urls": []
     },
     {
-      "rank": 19,
+      "rank": 21,
       "title": "Gold, silver price correction spurs jewellery demand ahead of wedding season",
       "summary": "A sharp correction in gold and silver has brought buyers back to jewellery stores ahead of the peak wedding season, jewellers say. A Rajkot jeweller said the fall was steeper than the market expected and put any further downside at 2-5%, while silver has largely returned to year-ago levels. Retail buyers say lower prices have eased the cost of wedding purchases.",
       "url": "https://www.bizzbuzz.news/industry/jewellery/gold-silver-price-correction-spurs-jewellery-demand-ahead-of-wedding-season-1416612",
@@ -539,8 +640,8 @@
         "jewellery"
       ],
       "breaking": false,
-      "related_urls": [],
-      "id": "8739e0508b03f1d8"
+      "id": "8739e0508b03f1d8",
+      "related_urls": []
     },
     {
       "id": "07e22255cc99e672",
@@ -564,7 +665,8 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 20
+      "rank": 22,
+      "related_urls": []
     },
     {
       "id": "7763ef83f727d4bf",
@@ -587,10 +689,11 @@
         "central-banks"
       ],
       "breaking": false,
-      "rank": 21
+      "rank": 23,
+      "related_urls": []
     },
     {
-      "rank": 22,
+      "rank": 24,
       "title": "Gold price falls nears $3,500 as miners face soaring costs",
       "summary": "All-in sustaining costs jumped 22% year on year in Q2 to $1,930 an ounce, the steepest rise since 2013, squeezing margins as gold slid toward $3,500. Sustaining capital spending hit a record $441 an ounce, up 34% on the quarter, and the margin above costs fell 16% to $2,582 an ounce. Barrick realised $174 less per ounce in Q3 and the VanEck Gold Miners ETF fell 12% on the week.",
       "url": "https://www.mining.com/gold-price-falls-nears-3500-as-miners-face-soaring-costs/",
@@ -635,7 +738,8 @@
         "india"
       ],
       "breaking": false,
-      "rank": 23
+      "rank": 25,
+      "related_urls": []
     },
     {
       "id": "2e97303e30a718f2",
@@ -659,7 +763,8 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 24
+      "rank": 26,
+      "related_urls": []
     },
     {
       "id": "5890da3e9ca6a1cf",
@@ -683,7 +788,8 @@
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/5890da3e9ca6a1cf.jpg",
       "image_kind": "photo",
       "breaking": false,
-      "rank": 25
+      "rank": 27,
+      "related_urls": []
     },
     {
       "id": "496c7c597cd20fdd",
@@ -707,7 +813,8 @@
         "global"
       ],
       "breaking": false,
-      "rank": 26
+      "rank": 28,
+      "related_urls": []
     }
   ]
 }
