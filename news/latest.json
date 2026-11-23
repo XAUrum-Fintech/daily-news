@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-23T05:00Z",
-  "generated_at": "2026-11-23T05:14:36Z",
+  "edition_id": "2026-11-23T06:00Z",
+  "generated_at": "2026-11-23T06:13:12Z",
   "window": {
-    "from": "2026-11-23T04:00:00Z",
-    "to": "2026-11-23T05:00:00Z"
+    "from": "2026-11-23T05:00:00Z",
+    "to": "2026-11-23T06:00:00Z"
   },
   "insights": {
     "headline": "MCX gold and silver rebound over 2% after worst week since March",
@@ -14,7 +14,7 @@
       "Spot gold rebounded as much as 2.6% to around $3,630 an ounce after falling 9% last week to a 14-month low, Mint reports.",
       "Gold faces resistance at $3,700, with support at $3,400-$3,500, and traders watch US core PCE data on Wednesday, FXEmpire reports.",
       "India's gold imports fell nearly 40% to $24.78 billion in April–October, saving $16.46 billion, CAIT says.",
-      "The IBJA has asked BIS to act on fake purity reports and 4,000 unregistered refiners; BIS meets on November 23, The420 reports."
+      "Morgan Stanley says gold could move higher if oil falls or the market decides the Fed has finished hiking, Business Standard reports."
     ],
     "brief": {
       "schema": "orob-brief.v1",
@@ -71,7 +71,8 @@
       "item_ids": [
         "29761449b189fe38",
         "24741041f7471b37",
-        "0ada219e2c53485d"
+        "0ada219e2c53485d",
+        "642d18b2b9fdbe79"
       ],
       "summary": "Traders now watch US core PCE data on Wednesday, jobs data on December 4 and the Fed's 9 December decision, while Goldman Sachs sees gold outperforming silver to $5,600 by end-2028.",
       "title": "What next: US inflation data and the Fed"
@@ -195,6 +196,33 @@
       "related_urls": []
     },
     {
+      "id": "642d18b2b9fdbe79",
+      "title": "Gold, Copper, Zinc, Aluminium: Morgan Stanley's outlook on key metals",
+      "summary": "Morgan Stanley says metals have slid in India and globally on inflation worries, higher yields, the prospect of higher-for-longer US rates and a pullback in AI spending, with a stronger dollar adding pressure. The bank says gold could move higher if oil prices fall more decisively or the market concludes the Fed has finished hiking, with ETF and central-bank demand still supporting the metal.",
+      "url": "https://www.business-standard.com/markets/news/gold-copper-zinc-aluminium-morgan-stanley-s-outlook-on-key-metals-126112300235_1.html",
+      "source": "Business Standard",
+      "source_domain": "business-standard.com",
+      "publisher_id": "business-standard",
+      "published_at": "2026-11-23T04:55:40Z",
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "global",
+        "fed",
+        "central-banks"
+      ],
+      "breaking": false,
+      "related_urls": [],
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/642d18b2b9fdbe79.jpg",
+      "image_kind": "photo",
+      "rank": 5
+    },
+    {
       "id": "b5c63d7a387cf2c4",
       "title": "Gold and silver prices plunge amid strong US dollar and rising Treasury yields",
       "summary": "Gold and silver fell steeply for a second week as a stronger dollar and higher Treasury yields weighed on sentiment. On MCX, December gold fell 10.9% to Rs 1,21,778 per 10 g and silver 16.2% to Rs 1,47,813 per kg; on COMEX, December gold fell 9.5% to $3,515.40 an ounce and silver 16.4% to $41.07.",
@@ -219,7 +247,7 @@
         "global"
       ],
       "breaking": false,
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "3c63e5e2c728ec14",
@@ -244,7 +272,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "c8053d48999e8674",
@@ -271,7 +299,7 @@
       "related_urls": [
         "https://economictimes.indiatimes.com/markets/forex/rupee-could-rise-to-91-50/-on-equity-inflows-says-hdfc-banks-treasury-head/articleshow/136088042.cms"
       ],
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "29761449b189fe38",
@@ -298,7 +326,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "5b648f51f77d61af",
@@ -323,7 +351,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "24741041f7471b37",
@@ -347,7 +375,7 @@
         "global"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "e44064686db20862",
@@ -370,7 +398,7 @@
         "india"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 12
     },
     {
       "id": "50fed15214fd1415",
@@ -395,7 +423,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 12
+      "rank": 13
     },
     {
       "id": "7bf3b9f709f3170a",
@@ -417,7 +445,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 13
+      "rank": 14
     },
     {
       "id": "b0cf61400af8066b",
@@ -440,7 +468,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 15
     },
     {
       "url": "https://timesofindia.indiatimes.com/city/pune/as-gold-price-ease-jewellers-scale-back-offers-making-charge-discounts/articleshow/136062385.cms",
@@ -464,7 +492,7 @@
       ],
       "id": "65da9f5eeb1fdf23",
       "breaking": false,
-      "rank": 15,
+      "rank": 16,
       "related_urls": []
     },
     {
@@ -489,7 +517,7 @@
       ],
       "id": "dcde70fa032b9270",
       "breaking": false,
-      "rank": 16,
+      "rank": 17,
       "related_urls": []
     },
     {
@@ -512,7 +540,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 17,
+      "rank": 18,
       "related_urls": [
         "https://www.thehindubusinessline.com/companies/gjc-alerts-bis-over-suspected-gold-adulteration-urges-jewellers-to-tighten-quality-checks/article71723585.ece"
       ]
@@ -538,7 +566,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 18,
+      "rank": 19,
       "related_urls": []
     },
     {
@@ -563,7 +591,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 19
+      "rank": 20
     }
   ]
 }
