@@ -1,30 +1,37 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-23T11:00Z",
-  "generated_at": "2026-11-23T11:03:22Z",
+  "edition_id": "2026-11-23T13:00Z",
+  "generated_at": "2026-11-23T13:08:28Z",
   "window": {
-    "from": "2026-11-23T10:00:00Z",
-    "to": "2026-11-23T11:00:00Z"
+    "from": "2026-11-23T11:00:00Z",
+    "to": "2026-11-23T13:00:00Z"
   },
   "insights": {
-    "headline": "MCX gold, silver rebound over 2% as Fed hike bets fade",
-    "summary": "MCX December gold futures rose 2.38% to Rs 1,24,677 per 10 grams and silver 2.45% to Rs 1,51,435 per kg on Monday, extending the rebound from last week's slide — gold fell 11% and silver 16.2% on the week — as an AI-led equity sell-off pushed traders toward havens and cooled bets on aggressive Fed hikes. Spot gold reclaimed $3,600, rising 2.3% to $3,619, with silver up 2.5% to $42.18. Traders now watch US core PCE data on Wednesday, ahead of the Fed's 9 December decision.",
+    "headline": "MCX gold and silver rebounded over 2% on Monday after their worst week in eight months",
+    "summary": "MCX December gold futures rose 2.38% to Rs 1,24,677 per 10 grams and silver 2.45% to Rs 1,51,435 per kg on Monday, extending the rebound from last week's slide to a 14-month low. Spot gold climbed 2.3% to $3,619 and silver 2.5% to $42.18 as an AI-led equity sell-off pushed traders toward havens and cooled bets on aggressive Fed hikes. Analysts caution the rebound may not mark a bottom, with forced selling still a risk if equity volatility persists. Traders now watch US core PCE data on Wednesday, ahead of the Fed's 9 December decision.",
     "points": [
-      "MCX December gold futures rose 2.38% to Rs 1,24,677 per 10 g and silver 2.45% to Rs 1,51,435 per kg on Monday.",
-      "Spot gold rose 2.3% to $3,619.15 an ounce, reclaiming $3,600 after a 9% weekly fall to a 14-month low.",
-      "Silver rose 2.5% to $42.18 after tumbling 15% last week.",
-      "Traders have pared bets on aggressive Fed hikes after the AI-led equity sell-off; markets price a roughly 93.5% chance of a 25-basis-point December hike.",
-      "US core PCE inflation is due Wednesday at 19:00 IST, the next test for gold ahead of US jobs on 4 December and the Fed's 9 December decision."
+      "MCX gold +2.38% to Rs 1,24,677 per 10 g; silver +2.45% to Rs 1,51,435 per kg.",
+      "Spot gold +2.3% to $3,619 and silver +2.5% to $42.18 after a roughly 9% weekly slide.",
+      "Goldman Sachs desk: speculative funds sold $9.3bn of gold in a week as margin calls forced sales.",
+      "China imported a record $209bn of gold in Jan-Oct, tempering its $1 trillion-plus trade surplus.",
+      "Next test: US core PCE on Wednesday at 19:00 IST, ahead of the Fed's 9 December decision."
     ],
     "brief": {
-      "brief_id": "2026-11-23-1347",
+      "schema": "orob-brief.v1",
+      "brief_id": "2026-11-23-1838",
+      "date": "2026-11-23",
+      "generated_at": "2026-11-23T13:08:28Z",
+      "slot": "evening",
+      "expires_at": "2026-11-23T18:29:00Z",
+      "headline": "Gold, silver rebound after worst week in 8 months",
+      "summary": "MCX gold rose 2.38% to Rs 1,24,677 per 10 g and silver 2.45% to Rs 1,51,435 per kg as Fed hike bets cooled.",
       "bullets": [
         {
           "item_ids": [
-            "0175f79229ea2ea0",
-            "e7e073e16951005c"
+            "e7e073e16951005c",
+            "578b6609ec4bc70b"
           ],
-          "text": "An AI-trade unwind hit global stocks and pushed traders toward havens, easing Treasury yields and the dollar, Anadolu and Mint report."
+          "text": "An AI-led equity slide pushed traders toward havens, cooling December hike bets as liquidation eased, Mint and InvestingLive report."
         },
         {
           "item_ids": [
@@ -39,14 +46,7 @@
           ],
           "text": "Watch Wednesday: US core PCE at 19:00 IST, the next test for gold ahead of US jobs on 4 December and the Fed's 9 December decision."
         }
-      ],
-      "date": "2026-11-23",
-      "expires_at": "2026-11-23T13:00:00Z",
-      "generated_at": "2026-11-23T08:17:59Z",
-      "headline": "MCX gold, silver rebound as Fed hike bets fade",
-      "schema": "orob-brief.v1",
-      "slot": "midday",
-      "summary": "MCX gold +2.38% to Rs 1,24,677 per 10 g, silver +2.45% to Rs 1,51,435 per kg, spot gold $3,600 as Fed hike bets faded."
+      ]
     }
   },
   "trending": [
@@ -56,10 +56,26 @@
         "eed2d50bd72d1f54",
         "e7e073e16951005c",
         "e0195d89bf788f5e",
-        "0175f79229ea2ea0"
+        "19b95bcb958fe3d8"
       ],
       "summary": "Spot gold rose 2.3% to $3,619 and MCX gold 2.38% to Rs 1,24,677 as dip-buyers returned and traders pared December Fed hike bets after gold's 9% weekly fall to a 14-month low.",
       "title": "Gold and silver rebound on MCX after worst week since March"
+    },
+    {
+      "item_ids": [
+        "578b6609ec4bc70b",
+        "e7e073e16951005c"
+      ],
+      "summary": "Goldman Sachs' trading desk says speculative funds sold $9.3bn of gold in a week as AI-led equity losses forced margin-call sales; net longs fell to about $72bn from a $130bn peak.",
+      "title": "Forced selling, not just rates, drove the 9% slide"
+    },
+    {
+      "item_ids": [
+        "09b7301f616a8470",
+        "b0cf61400af8066b"
+      ],
+      "summary": "China imported a record $209bn of gold in January-October, nearly 8% of all imports, holding the surplus near $1.3 trillion instead of $1.5 trillion, while the central bank bought for a 24th month.",
+      "title": "China's record gold imports temper its trade surplus"
     },
     {
       "item_ids": [
@@ -67,26 +83,16 @@
         "50fed15214fd1415",
         "65da9f5eeb1fdf23"
       ],
-      "summary": "Gold imports fell nearly 40% in April–October after the duty rose to 15% in May, saving $16.46 billion, while jewellers scaled back offers and wedding buyers found relief in lower prices.",
+      "summary": "Gold imports fell nearly 40% in April-October after the duty rose to 15% in May, saving $16.46 billion, while jewellers scaled back offers and wedding buyers found relief in lower prices.",
       "title": "India's imports fell as the duty bite showed"
-    },
-    {
-      "item_ids": [
-        "24741041f7471b37",
-        "55a047c99e005c00",
-        "642d18b2b9fdbe79"
-      ],
-      "summary": "Wednesday's US core PCE at 19:00 IST is the next test for gold, ahead of US jobs on 4 December and the Fed's decision on 9 December; swaps traders have pared bets on a December hike.",
-      "title": "What next: US inflation data and the Fed"
     },
     {
       "item_ids": [
         "7bf3b9f709f3170a",
         "dcde70fa032b9270",
-        "5b648f51f77d61af",
-        "55a047c99e005c00"
+        "5b648f51f77d61af"
       ],
-      "summary": "Silver fell 16.2% last week, deeper than gold's 11%, then rebounded 2.5% to $42.18; Morgan Stanley still sees $71.40 while solar makers cut silver use by a fifth.",
+      "summary": "Silver fell 16.2% last week, deeper than gold's slide, then rebounded 2.5% to $42.18; Morgan Stanley still sees $71.40 while solar makers cut silver use by a fifth.",
       "title": "Silver's slide runs deeper than gold's"
     }
   ],
@@ -117,6 +123,29 @@
       "rank": 1
     },
     {
+      "breaking": false,
+      "category": "global",
+      "id": "578b6609ec4bc70b",
+      "image_kind": "photo",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/578b6609ec4bc70b.jpg",
+      "metals": [
+        "gold"
+      ],
+      "published_at": "2026-11-22T23:51:03Z",
+      "publisher_id": "investinglive",
+      "source": "InvestingLive",
+      "source_domain": "investinglive.com",
+      "summary": "Gold's worst week in eight months was driven less by rates alone than by forced selling, analysts say: as AI-led equities slid, leveraged investors sold gold to meet margin calls. Goldman Sachs' trading desk estimates speculative funds sold $9.3bn in a week, cutting net longs to about $72bn. Goldman now sees gold at $4,150 by end-2026 and $4,650 by end-2027.",
+      "tags": [
+        "gold",
+        "global",
+        "fed"
+      ],
+      "title": "Gold sinks 9% in a week as margin calls and Fed hike bets override its haven role",
+      "url": "https://investinglive.com/commodities/gold-sinks-9-in-a-week-as-margin-calls-and-fed-hike-bets-override-its-haven-role/",
+      "rank": 2
+    },
+    {
       "id": "702588c5fdb880ea",
       "title": "Gold rebounds after biggest weekly drop in eight months as buyers return",
       "summary": "Gold rose as much as 2.6% to above $3,630 an ounce after a 9% weekly fall to a 14-month low, as dip-buyers stepped in and traders pared bets on a December Fed rate hike. Silver rose 2.5% to $42.18 after tumbling 15% last week. Retail buyers crowded gold shops in Shenzhen's Shuibei market, and a Friday Treasury rally on AI-spending worries plus a softer dollar aided the rebound.",
@@ -139,32 +168,53 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 2
+      "rank": 3
     },
     {
       "breaking": false,
       "category": "global",
-      "id": "0175f79229ea2ea0",
-      "image_kind": "photo",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/0175f79229ea2ea0.jpg",
+      "id": "09b7301f616a8470",
+      "image_kind": "none",
+      "image_url": null,
       "metals": [
-        "gold",
-        "silver"
+        "gold"
       ],
-      "published_at": "2026-11-23T06:38:05Z",
-      "publisher_id": "anadolu-ajansi",
-      "source": "Anadolu Ajansı",
-      "source_domain": "aa.com.tr",
-      "summary": "Spot gold rose 2.3% to $3,619.15 an ounce as of 0605 GMT, reclaiming $3,600 after last week's 9% slide, as an unwind of the AI trade hit stocks and investors reassessed the pace of Fed tightening. Treasury Secretary Scott Bessent warned the Fed risked a policy mistake by tightening too aggressively; markets price a roughly 93.5% chance of a December hike and await Wednesday's US PCE data.",
+      "published_at": "2026-11-23T00:02:50Z",
+      "publisher_id": "nashnova",
+      "source": "Nashnova",
+      "source_domain": "nashnova.com",
+      "summary": "China imported a record $209 billion of gold in the first ten months of 2026, nearly 8% of all imports, tempering a trade surplus that has passed $1 trillion. Brad Setser of the Council on Foreign Relations estimates the full-year surplus would reach $1.5 trillion without gold, against about $1.3 trillion with it.",
       "tags": [
         "gold",
-        "silver",
+        "global",
+        "central-banks"
+      ],
+      "title": "China's Record Gold Imports Partially Mask Trillion-Dollar Trade Surplus",
+      "url": "https://www.nashnova.com/feed/special/chinas-record-gold-imports-partially-mask-trillion-dollar-trade-surplus-18370",
+      "rank": 4
+    },
+    {
+      "breaking": false,
+      "category": "global",
+      "id": "19b95bcb958fe3d8",
+      "image_kind": "none",
+      "image_url": null,
+      "metals": [
+        "gold"
+      ],
+      "published_at": "2026-11-23T12:01:00Z",
+      "publisher_id": "investing",
+      "source": "Investing.com",
+      "source_domain": "investing.com",
+      "summary": "Gold's rebound has not cleared the risks hanging over the metal, Investing.com's analysis says, with hawkish Fed expectations and fragile sentiment still in play after last week's 9% slide. Traders now look to Wednesday's US core PCE data for the next steer on interest rates.",
+      "tags": [
+        "gold",
         "global",
         "fed"
       ],
-      "title": "Gold rebounds over 2% above $3,600 as investors reassess Fed rate hikes",
-      "url": "https://www.aa.com.tr/en/economy/gold-rebounds-over-2-above-3-600-as-investors-reassess-fed-rate-hikes/4133967",
-      "rank": 3
+      "title": "Gold Recovers Ground, but the Bulls Aren't Out of the Woods Yet",
+      "url": "https://www.investing.com/analysis/gold-recovers-ground-but-the-bulls-arent-out-of-the-woods-yet-200692131",
+      "rank": 5
     },
     {
       "breaking": false,
@@ -191,7 +241,7 @@
       ],
       "title": "Gold and silver rebound over 2% after steep weekly losses: Can the recovery sustain?",
       "url": "https://www.moneycontrol.com/news/business/personal-finance/gold-and-silver-rebound-over-2-after-steep-weekly-losses-can-the-recovery-sustain-14086886.html",
-      "rank": 4
+      "rank": 6
     },
     {
       "url": "https://www.livemint.com/market/gold-rebounds-as-tech-rout-spurs-shift-to-havens-treasury-rally-11795402440872.html",
@@ -216,7 +266,7 @@
       ],
       "id": "e7e073e16951005c",
       "breaking": false,
-      "rank": 5,
+      "rank": 7,
       "related_urls": []
     },
     {
@@ -242,32 +292,7 @@
       ],
       "title": "Gold and Silver Price Forecast: Strong Dollar Caps Rebound Before PCE",
       "url": "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-strong-dollar-caps-rebound-before-pce-1646416",
-      "rank": 6
-    },
-    {
-      "id": "55a047c99e005c00",
-      "title": "Gold (XAUUSD) & Silver Price Forecast: Gold Rebounds From 14-Month Low as Hike Bets Cool, Can $3,595 Hold?",
-      "summary": "Gold rebounded after its biggest weekly fall in eight months as traders scaled back bets on a near-term Fed rate hike, with spot up 1.1% to $3,578.24 and silver above $41.89. FXEmpire puts support at $3,595 and first resistance at $3,651, with a close above it opening the way to $3,695; Wednesday's October personal income and outlays report, including the PCE gauge, is the next test.",
-      "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-gold-rebounds-from-14-month-low-as-hike-bets-cool-can-3595-hold-1646447",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "publisher_id": "fxempire",
-      "published_at": "2026-11-23T06:30:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "silver",
-        "global",
-        "fed"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "24741041f7471b37",
@@ -291,7 +316,7 @@
         "global"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 9
     },
     {
       "url": "https://www.livemint.com/market/commodities/gold-rate-today-in-india-at-14-month-low-will-it-hit-rs-1-lakh-experts-list-out-3-reasons-for-gold-price-drop-in-2026-11795283484060.html",
@@ -318,35 +343,8 @@
       ],
       "id": "8ea497c369097bed",
       "breaking": false,
-      "rank": 9,
+      "rank": 10,
       "related_urls": []
-    },
-    {
-      "id": "642d18b2b9fdbe79",
-      "title": "Gold, Copper, Zinc, Aluminium: Morgan Stanley's outlook on key metals",
-      "summary": "Morgan Stanley says metals have slid in India and globally on inflation worries, higher yields, the prospect of higher-for-longer US rates and a pullback in AI spending, with a stronger dollar adding pressure. The bank says gold could move higher if oil prices fall more decisively or the market concludes the Fed has finished hiking, with ETF and central-bank demand still supporting the metal.",
-      "url": "https://www.business-standard.com/markets/news/gold-copper-zinc-aluminium-morgan-stanley-s-outlook-on-key-metals-126112300235_1.html",
-      "source": "Business Standard",
-      "source_domain": "business-standard.com",
-      "publisher_id": "business-standard",
-      "published_at": "2026-11-23T04:55:40Z",
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "global",
-        "fed",
-        "central-banks"
-      ],
-      "breaking": false,
-      "related_urls": [],
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/642d18b2b9fdbe79.jpg",
-      "image_kind": "photo",
-      "rank": 10
     },
     {
       "id": "c8053d48999e8674",
