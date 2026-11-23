@@ -1,28 +1,38 @@
-# Gold & Silver for Indian buyers · 2026-11-23T00:00Z
+# Gold & Silver for Indian buyers · 2026-11-23T03:00Z
 
-> Gold and silver end the week at 14-month lows as Fed hike bets build and India's imports fall 40%
+## Today's brief
 
-MCX December gold fell 10.9% on the week to Rs 1,21,778 per 10 g and silver 16.2% to Rs 1,47,813 per kg, with spot gold closing Friday near $3,539, ending the metal's worst week since March. India's gold import bill fell nearly 40% to $24.78 billion in April–October, saving $16.46 billion, and the sell-off has wiped about $15 trillion from gold and silver's value since January. US core PCE data is due on Wednesday, ahead of the Fed's 9 December decision.
+**Gold rebounds from 14-month low as Fed hike bets fade**
 
+Spot gold rebounded to about $3,630 and silver to $41.92 as Fed hike bets faded; US inflation data is due Wednesday.
+
+- A rout in technology shares pushed traders toward havens, pulling down Treasury yields and the dollar, Mint reports.
+- A firmer rupee added to the slide that left MCX gold at a 14-month low, and jewellers scaled back making-charge offers as demand returned.
+- Watch Wednesday: US core PCE inflation at 19:00 IST, the next test for gold ahead of the Fed's 9 December decision.
+
+> Gold rebounds as tech rout spurs haven shift after worst week since March
+
+Spot gold rebounded as much as 2.6% to around $3,630 an ounce on Monday after last week's 9% slide to a 14-month low, with silver up 1.9% to $41.92, as a technology-stock rout pushed traders toward havens and pared bets on a near-term Fed rate hike. MCX December gold had closed Friday at Rs 1,21,778 per 10 g, down 10.9% on the week, and silver at Rs 1,47,813 per kg, down 16.2%. US core PCE data is due on Wednesday, ahead of the Fed's 9 December decision.
+
+- Spot gold rebounded as much as 2.6% to around $3,630 an ounce after falling 9% last week to a 14-month low, Mint reports.
+- Silver rose 1.9% to $41.92 an ounce after tumbling 15% the week before, Mint reports.
 - MCX December gold fell 10.9% on the week to Rs 1,21,778 per 10 g and silver 16.2% to Rs 1,47,813 per kg, News On AIR reports.
-- The sell-off has wiped about $15 trillion from gold and silver's value since January, the Kobeissi Letter estimates, CEOWORLD reports.
 - India's gold imports fell nearly 40% to $24.78 billion in April–October, saving $16.46 billion, CAIT says.
-- Silver closed Friday at $41.00 an ounce, down 16% in a week, though Morgan Stanley still sees $71.40 by the second quarter of 2027.
 - The IBJA has asked BIS to act on fake purity reports and 4,000 unregistered refiners; BIS meets on November 23, The420 reports.
 
 ## Trending
-- **Gold and silver end the week at 14-month lows**: A hawkish Fed, a 19-month-high dollar and Treasury yields near 5% drove bullion's worst week since March, with MCX gold down about 11% and silver about 16% on the week. (stories 1, 2, 3)
+- **Gold rebounds from 14-month low**: A technology-stock rout pushed traders toward havens, lifting spot gold as much as 2.6% to about $3,630 and silver 1.9% to $41.92 after last week's slide, as bets on a near-term Fed hike faded. (stories 1, 2, 3)
 - **India's imports fell as the duty bite showed**: Gold imports fell nearly 40% in April–October after the duty rose to 15% in May, saving $16.46 billion, while jewellers scaled back offers and wedding buyers found relief in lower prices. (stories 8, 9, 12)
 - **What next: US inflation data and the Fed**: Traders now watch US core PCE data on Wednesday, jobs data on December 4 and the Fed's 9 December decision, while Goldman Sachs sees gold outperforming silver to $5,600 by end-2028. (stories 5, 7)
-- **Silver's slide runs deeper than gold's**: Silver fell further than gold on the week as industrial demand wobbled — solar makers cut silver use by a fifth — though cheaper silver is reviving Salem's anklet makers. (stories 10, 13, 3, 6)
+- **Silver's slide runs deeper than gold's**: Silver fell further than gold on the week as industrial demand wobbled — solar makers cut silver use by a fifth — though cheaper silver is reviving Salem's anklet makers. (stories 10, 13, 6)
 
 ## Stories
-1. [Gold rate today in India at 14-month low; will it hit ₹1 lakh? Experts list out 3 reasons for gold price drop in 2026](https://www.livemint.com/market/commodities/gold-rate-today-in-india-at-14-month-low-will-it-hit-rs-1-lakh-experts-list-out-3-reasons-for-gold-price-drop-in-2026-11795283484060.html) — *Mint*, 2026-11-21T23:34:00Z
+1. [Gold Rebounds as Tech Rout Spurs Shift to Havens, Treasury Rally](https://www.livemint.com/market/gold-rebounds-as-tech-rout-spurs-shift-to-havens-treasury-rally-11795402440872.html) — *Mint*, 2026-11-23T02:54:00Z
+   Gold rebounded as much as 2.6% to around $3,630 an ounce after falling 9% last week to a 14-month low, as a rout in technology shares pushed traders toward havens and pulled down Treasury yields and the dollar. Spot gold was up 1.4% at $3,587.13 in Singapore, while silver rose 1.9% to $41.92 after tumbling 15% the week before.
+2. [Gold rate today in India at 14-month low; will it hit ₹1 lakh? Experts list out 3 reasons for gold price drop in 2026](https://www.livemint.com/market/commodities/gold-rate-today-in-india-at-14-month-low-will-it-hit-rs-1-lakh-experts-list-out-3-reasons-for-gold-price-drop-in-2026-11795283484060.html) — *Mint*, 2026-11-21T23:34:00Z
    MCX gold closed at a 14-month low of Rs 1,21,949 per 10 g on Friday, with spot gold at $3,539, as experts pointed to a hawkish Fed, a strong dollar holding US yields high, and a firmer rupee. One expert quoted in the piece rules out a near-term fall to Rs 1 lakh, calling gold deeply oversold.
-2. [Gold and silver prices plunge amid strong US dollar and rising Treasury yields](https://newsonair.gov.in/gold-and-silver-prices-plunge-amid-strong-us-dollar-and-rising-treasury-yields/) — *News On AIR*, 2026-11-22T12:02:00Z
+3. [Gold and silver prices plunge amid strong US dollar and rising Treasury yields](https://newsonair.gov.in/gold-and-silver-prices-plunge-amid-strong-us-dollar-and-rising-treasury-yields/) — *News On AIR*, 2026-11-22T12:02:00Z
    Gold and silver fell steeply for a second week as a stronger dollar and higher Treasury yields weighed on sentiment. On MCX, December gold fell 10.9% to Rs 1,21,778 per 10 g and silver 16.2% to Rs 1,47,813 per kg; on COMEX, December gold fell 9.5% to $3,515.40 an ounce and silver 16.4% to $41.07.
-3. [Gold, silver, copper, aluminium, platinum to zinc: Why are metal prices crashing to multi-month lows? Key reasons](https://www.livemint.com/market/commodities/gold-silver-copper-aluminium-platinum-to-zinc-why-are-metal-prices-crashing-to-multi-month-lows-key-reasons-11795357679178.html) — *Mint*, 2026-11-22T14:31:47Z
-   Last week ended in a broad metals selloff: MCX December gold closed 4.32% lower at ₹1,21,949 per 10 g on Friday while silver stayed near a 14-month low below $42 an ounce, with copper, aluminium, zinc and platinum also sliding. Mint attributes the slide to sticky US inflation, a stronger dollar, rising yields, December Fed hike bets and cooling AI infrastructure spending.
 4. [Gold Price Slump Wipes an Estimated $15 Trillion From Gold and Silver](https://ceoworld.biz/2026/11/22/gold-price-slump-wipes-an-estimated-15-trillion-from-gold-and-silver/) — *CEOWORLD magazine*, 2026-11-22T04:46:11Z
    Gold ended the week near $3,544 an ounce, about 37% below its January peak near $5,600, while silver traded under $42, some 65% below its January high above $122. The Kobeissi Letter puts the combined loss in value at about $15 trillion. CEOWORLD says bullion became a source of emergency cash as funds sold to cover losses in tech shares, while central banks bought 321 tonnes in the third quarter.
 5. [Goldman Sachs: Gold to Outperform Silver and Reach $5,600 by End-2028](https://www.tradingview.com/news/binance_news:5e675f639094b:0-goldman-sachs-gold-to-outperform-silver-and-reach-5-600-by-end-2028/) — *TradingView*, 2026-11-22T06:45:00Z
