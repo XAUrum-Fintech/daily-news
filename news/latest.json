@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-23T06:00Z",
-  "generated_at": "2026-11-23T06:13:12Z",
+  "edition_id": "2026-11-23T07:00Z",
+  "generated_at": "2026-11-23T07:04:54Z",
   "window": {
     "from": "2026-11-23T05:00:00Z",
-    "to": "2026-11-23T06:00:00Z"
+    "to": "2026-11-23T07:00:00Z"
   },
   "insights": {
     "headline": "MCX gold and silver rebound over 2% after worst week since March",
@@ -12,7 +12,7 @@
     "points": [
       "MCX gold futures rose 2.2% and silver 2.11% in early Monday trade after falling 11% and 16.2% last week, Moneycontrol reports.",
       "Spot gold rebounded as much as 2.6% to around $3,630 an ounce after falling 9% last week to a 14-month low, Mint reports.",
-      "Gold faces resistance at $3,700, with support at $3,400-$3,500, and traders watch US core PCE data on Wednesday, FXEmpire reports.",
+      "FXEmpire puts gold support at $3,595 and first resistance at $3,651, with Wednesday's October PCE report the next test for gold.",
       "India's gold imports fell nearly 40% to $24.78 billion in April–October, saving $16.46 billion, CAIT says.",
       "Morgan Stanley says gold could move higher if oil falls or the market decides the Fed has finished hiking, Business Standard reports."
     ],
@@ -50,44 +50,69 @@
   },
   "trending": [
     {
+      "title": "Gold and silver rebound on MCX after worst week since March",
+      "summary": "Spot gold rose as much as 2.6% to above $3,630 and MCX gold 2.2% as dip-buyers returned and traders pared December Fed hike bets after gold's 9% weekly fall to a 14-month low.",
       "item_ids": [
+        "702588c5fdb880ea",
         "eed2d50bd72d1f54",
-        "e7e073e16951005c",
-        "0ada219e2c53485d"
-      ],
-      "summary": "MCX gold futures rose 2.2% and silver 2.11% in early Monday trade as short covering met a softer dollar and fading Fed hike bets, after gold fell 11% and silver 16.2% last week.",
-      "title": "Gold and silver rebound on MCX after worst week since March"
+        "e7e073e16951005c"
+      ]
     },
     {
+      "title": "India's imports fell as the duty bite showed",
+      "summary": "Gold imports fell nearly 40% in April–October after the duty rose to 15% in May, saving $16.46 billion, while jewellers scaled back offers and wedding buyers found relief in lower prices.",
       "item_ids": [
         "e44064686db20862",
         "50fed15214fd1415",
         "65da9f5eeb1fdf23"
-      ],
-      "summary": "Gold imports fell nearly 40% in April–October after the duty rose to 15% in May, saving $16.46 billion, while jewellers scaled back offers and wedding buyers found relief in lower prices.",
-      "title": "India's imports fell as the duty bite showed"
+      ]
     },
     {
+      "title": "What next: US inflation data and the Fed",
+      "summary": "Wednesday's US core PCE at 19:00 IST is the next test for gold, ahead of US jobs on 4 December and the Fed's decision on 9 December; swaps traders have pared bets on a December hike.",
       "item_ids": [
-        "29761449b189fe38",
         "24741041f7471b37",
-        "0ada219e2c53485d",
+        "55a047c99e005c00",
         "642d18b2b9fdbe79"
-      ],
-      "summary": "Traders now watch US core PCE data on Wednesday, jobs data on December 4 and the Fed's 9 December decision, while Goldman Sachs sees gold outperforming silver to $5,600 by end-2028.",
-      "title": "What next: US inflation data and the Fed"
+      ]
     },
     {
+      "title": "Silver's slide runs deeper than gold's",
+      "summary": "Silver fell 16.2% last week, deeper than gold's 11%, then rebounded 2.5% to $42.18; Morgan Stanley still sees $71.40 while solar makers cut silver use by a fifth.",
       "item_ids": [
         "7bf3b9f709f3170a",
         "dcde70fa032b9270",
-        "5b648f51f77d61af"
-      ],
-      "summary": "Silver fell further than gold on the week as industrial demand wobbled — solar makers cut silver use by a fifth — though cheaper silver is reviving Salem's anklet makers.",
-      "title": "Silver's slide runs deeper than gold's"
+        "5b648f51f77d61af",
+        "55a047c99e005c00"
+      ]
     }
   ],
   "items": [
+    {
+      "id": "702588c5fdb880ea",
+      "title": "Gold rebounds after biggest weekly drop in eight months as buyers return",
+      "summary": "Gold rose as much as 2.6% to above $3,630 an ounce after a 9% weekly fall to a 14-month low, as dip-buyers stepped in and traders pared bets on a December Fed rate hike. Silver rose 2.5% to $42.18 after tumbling 15% last week. Retail buyers crowded gold shops in Shenzhen's Shuibei market, and a Friday Treasury rally on AI-spending worries plus a softer dollar aided the rebound.",
+      "url": "https://www.business-standard.com/markets/commodities/gold-rebounds-after-biggest-weekly-drop-in-eight-months-as-buyers-return-126112300323_1.html",
+      "source": "Business Standard",
+      "source_domain": "business-standard.com",
+      "publisher_id": "business-standard",
+      "published_at": "2026-11-23T06:00:26Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/702588c5fdb880ea.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 1
+    },
     {
       "breaking": false,
       "category": "mcx",
@@ -113,7 +138,7 @@
       ],
       "title": "Gold and silver rebound over 2% after steep weekly losses: Can the recovery sustain?",
       "url": "https://www.moneycontrol.com/news/business/personal-finance/gold-and-silver-rebound-over-2-after-steep-weekly-losses-can-the-recovery-sustain-14086886.html",
-      "rank": 1
+      "rank": 2
     },
     {
       "url": "https://www.livemint.com/market/gold-rebounds-as-tech-rout-spurs-shift-to-havens-treasury-rally-11795402440872.html",
@@ -138,34 +163,57 @@
       ],
       "id": "e7e073e16951005c",
       "breaking": false,
-      "rank": 2,
+      "rank": 3,
       "related_urls": []
     },
     {
-      "breaking": false,
-      "category": "global",
-      "id": "0ada219e2c53485d",
-      "image_kind": "none",
+      "id": "55a047c99e005c00",
+      "title": "Gold (XAUUSD) & Silver Price Forecast: Gold Rebounds From 14-Month Low as Hike Bets Cool, Can $3,595 Hold?",
+      "summary": "Gold rebounded after its biggest weekly fall in eight months as traders scaled back bets on a near-term Fed rate hike, with spot up 1.1% to $3,578.24 and silver above $41.89. FXEmpire puts support at $3,595 and first resistance at $3,651, with a close above it opening the way to $3,695; Wednesday's October personal income and outlays report, including the PCE gauge, is the next test.",
+      "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-gold-rebounds-from-14-month-low-as-hike-bets-cool-can-3595-hold-1646447",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "published_at": "2026-11-23T06:30:00Z",
       "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "silver",
+        "global",
+        "fed"
+      ],
+      "category": "global",
       "metals": [
         "gold",
         "silver"
       ],
-      "published_at": "2026-11-23T04:12:00Z",
-      "publisher_id": "fxempire",
-      "related_urls": [],
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "summary": "Gold rebounded toward $3,631 an ounce on Monday after last week's slide, but FXEmpire notes the metal remains under pressure, with immediate resistance at $3,700 and support at $3,400-$3,500. Silver faces support at $39-$40. The market now looks to US PCE data on Wednesday: soft data may ease fears of bigger hikes, while a strong reading may renew pressure via the dollar and yields.",
+      "breaking": false,
+      "rank": 4
+    },
+    {
+      "id": "24741041f7471b37",
+      "title": "Gold in a free fall: Why November 25, December 4 and 9 could be crucial for prices",
+      "summary": "Gold faces three decisive US events in the coming weeks, Upstox notes: October PCE inflation data on November 25, the US jobs report on December 4, and the Fed's policy decision on December 9. Bullion has fallen nearly 30% from its January record highs, with Indian gold at a one-year low after nine straight sessions of declines, as a stronger dollar, high Treasury yields and Fed hike bets weigh.",
+      "url": "https://upstox.com/news/market-news/commodities/gold-in-a-free-fall-why-november-25-december-4-and-9-could-be-crucial-for-prices/article-203809/",
+      "source": "Upstox",
+      "source_domain": "upstox.com",
+      "publisher_id": "upstox",
+      "published_at": "2026-11-22T04:28:17Z",
+      "image_url": "https://assets.upstox.com/content/assets/images/news/gold-prices-november-22-2026.webp",
+      "image_kind": "photo",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
       "tags": [
         "gold",
-        "silver",
         "fed",
+        "india",
         "global"
       ],
-      "title": "Gold and Silver Price Forecast: Strong Dollar Caps Rebound Before PCE",
-      "url": "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-strong-dollar-caps-rebound-before-pce-1646416",
-      "rank": 3
+      "breaking": false,
+      "rank": 5
     },
     {
       "url": "https://www.livemint.com/market/commodities/gold-rate-today-in-india-at-14-month-low-will-it-hit-rs-1-lakh-experts-list-out-3-reasons-for-gold-price-drop-in-2026-11795283484060.html",
@@ -192,7 +240,7 @@
       ],
       "id": "8ea497c369097bed",
       "breaking": false,
-      "rank": 4,
+      "rank": 6,
       "related_urls": []
     },
     {
@@ -220,58 +268,6 @@
       "related_urls": [],
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/642d18b2b9fdbe79.jpg",
       "image_kind": "photo",
-      "rank": 5
-    },
-    {
-      "id": "b5c63d7a387cf2c4",
-      "title": "Gold and silver prices plunge amid strong US dollar and rising Treasury yields",
-      "summary": "Gold and silver fell steeply for a second week as a stronger dollar and higher Treasury yields weighed on sentiment. On MCX, December gold fell 10.9% to Rs 1,21,778 per 10 g and silver 16.2% to Rs 1,47,813 per kg; on COMEX, December gold fell 9.5% to $3,515.40 an ounce and silver 16.4% to $41.07.",
-      "url": "https://newsonair.gov.in/gold-and-silver-prices-plunge-amid-strong-us-dollar-and-rising-treasury-yields/",
-      "source": "News On AIR",
-      "source_domain": "newsonair.gov.in",
-      "publisher_id": "news-on-air",
-      "published_at": "2026-11-22T12:02:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "comex",
-        "fed",
-        "global"
-      ],
-      "breaking": false,
-      "rank": 6
-    },
-    {
-      "id": "3c63e5e2c728ec14",
-      "title": "Gold Price Slump Wipes an Estimated $15 Trillion From Gold and Silver",
-      "summary": "Gold ended the week near $3,544 an ounce, about 37% below its January peak near $5,600, while silver traded under $42, some 65% below its January high above $122. The Kobeissi Letter puts the combined loss in value at about $15 trillion. CEOWORLD says bullion became a source of emergency cash as funds sold to cover losses in tech shares, while central banks bought 321 tonnes in the third quarter.",
-      "url": "https://ceoworld.biz/2026/11/22/gold-price-slump-wipes-an-estimated-15-trillion-from-gold-and-silver/",
-      "source": "CEOWORLD magazine",
-      "source_domain": "ceoworld.biz",
-      "publisher_id": "ceoworld",
-      "published_at": "2026-11-22T04:46:11Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "silver",
-        "global",
-        "central-banks"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
       "rank": 7
     },
     {
@@ -354,30 +350,6 @@
       "rank": 10
     },
     {
-      "id": "24741041f7471b37",
-      "title": "Gold in a free fall: Why November 25, December 4 and 9 could be crucial for prices",
-      "summary": "Gold faces three decisive US events in the coming weeks, Upstox notes: October PCE inflation data on November 25, the US jobs report on December 4, and the Fed's policy decision on December 9. Bullion has fallen nearly 30% from its January record highs, with Indian gold at a one-year low after nine straight sessions of declines, as a stronger dollar, high Treasury yields and Fed hike bets weigh.",
-      "url": "https://upstox.com/news/market-news/commodities/gold-in-a-free-fall-why-november-25-december-4-and-9-could-be-crucial-for-prices/article-203809/",
-      "source": "Upstox",
-      "source_domain": "upstox.com",
-      "publisher_id": "upstox",
-      "published_at": "2026-11-22T04:28:17Z",
-      "image_url": "https://assets.upstox.com/content/assets/images/news/gold-prices-november-22-2026.webp",
-      "image_kind": "photo",
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "fed",
-        "india",
-        "global"
-      ],
-      "breaking": false,
-      "rank": 11
-    },
-    {
       "id": "e44064686db20862",
       "title": "Did PM Modi's appeal really bring down gold prices? Here's what the data shows",
       "summary": "Mathrubhumi tests the PM's claim that his appeal to avoid non-essential gold purchases lowered prices: 24-carat gold fell about 18% from Rs 15,250 a gram on 9 May to Rs 12,523 on 21 November. The piece concludes the appeal alone cannot explain it — the import duty rose from 6% to 15% in May, imports fell about 40% in April–October, and a stronger dollar and Fed hike expectations also weighed.",
@@ -398,7 +370,7 @@
         "india"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 11
     },
     {
       "id": "50fed15214fd1415",
@@ -423,52 +395,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 13
-    },
-    {
-      "id": "7bf3b9f709f3170a",
-      "title": "Solar makers cut silver use by a fifth as the gold/silver ratio climbs to a one-year high of 86",
-      "summary": "The Silver Institute expects global silver demand to fall 5% this year to 1.08 billion ounces, with solar makers using about 20% less silver as installations fell short. Silver closed near $41.19 an ounce on 20 November, pushing the gold/silver ratio to 85.8 from 45.4 in January. The market is still forecast to run a sixth straight annual deficit, of 35 million ounces.",
-      "url": "https://ceoeconomy.com/article/silver-solar-demand-falls-gold-silver-ratio-86",
-      "source": "CEO Economy",
-      "source_domain": "ceoeconomy.com",
-      "publisher_id": "ceo-economy",
-      "published_at": "2026-11-21T14:00:00Z",
-      "image_url": "https://ceoeconomy.com/img/silver-solar-demand-falls-gold-silver-ratio-86.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "silver",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 14
-    },
-    {
-      "id": "b0cf61400af8066b",
-      "title": "China Gold Reserves Rise for a 24th Month as the Price Falls",
-      "summary": "China's central bank added about 26 tonnes of gold in October, its largest buy in three years, taking reserves to 78.3 million ounces in a 24th straight monthly rise even as bullion fell. The World Gold Council puts central-bank buying at 321 tonnes in Q3, but only 228 tonnes of the 675-tonne nine-month total was publicly reported. Poland held 673 tonnes at end-September against a 700-tonne goal.",
-      "url": "https://ceoworld.biz/2026/11/22/china-gold-reserves-rise-for-a-24th-month-as-the-price-falls/",
-      "source": "CEOWORLD magazine",
-      "source_domain": "ceoworld.biz",
-      "publisher_id": "ceoworld",
-      "published_at": "2026-11-22T04:52:02Z",
-      "image_url": "https://cdn.ceoworld.biz/wp-content/uploads/2024/11/China-1.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "global",
-        "central-banks"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 15
+      "rank": 12
     },
     {
       "url": "https://timesofindia.indiatimes.com/city/pune/as-gold-price-ease-jewellers-scale-back-offers-making-charge-discounts/articleshow/136062385.cms",
@@ -492,8 +419,53 @@
       ],
       "id": "65da9f5eeb1fdf23",
       "breaking": false,
-      "rank": 16,
+      "rank": 13,
       "related_urls": []
+    },
+    {
+      "id": "b0cf61400af8066b",
+      "title": "China Gold Reserves Rise for a 24th Month as the Price Falls",
+      "summary": "China's central bank added about 26 tonnes of gold in October, its largest buy in three years, taking reserves to 78.3 million ounces in a 24th straight monthly rise even as bullion fell. The World Gold Council puts central-bank buying at 321 tonnes in Q3, but only 228 tonnes of the 675-tonne nine-month total was publicly reported. Poland held 673 tonnes at end-September against a 700-tonne goal.",
+      "url": "https://ceoworld.biz/2026/11/22/china-gold-reserves-rise-for-a-24th-month-as-the-price-falls/",
+      "source": "CEOWORLD magazine",
+      "source_domain": "ceoworld.biz",
+      "publisher_id": "ceoworld",
+      "published_at": "2026-11-22T04:52:02Z",
+      "image_url": "https://cdn.ceoworld.biz/wp-content/uploads/2024/11/China-1.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "global",
+        "central-banks"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 14
+    },
+    {
+      "id": "7bf3b9f709f3170a",
+      "title": "Solar makers cut silver use by a fifth as the gold/silver ratio climbs to a one-year high of 86",
+      "summary": "The Silver Institute expects global silver demand to fall 5% this year to 1.08 billion ounces, with solar makers using about 20% less silver as installations fell short. Silver closed near $41.19 an ounce on 20 November, pushing the gold/silver ratio to 85.8 from 45.4 in January. The market is still forecast to run a sixth straight annual deficit, of 35 million ounces.",
+      "url": "https://ceoeconomy.com/article/silver-solar-demand-falls-gold-silver-ratio-86",
+      "source": "CEO Economy",
+      "source_domain": "ceoeconomy.com",
+      "publisher_id": "ceo-economy",
+      "published_at": "2026-11-21T14:00:00Z",
+      "image_url": "https://ceoeconomy.com/img/silver-solar-demand-falls-gold-silver-ratio-86.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "silver",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 15
     },
     {
       "url": "https://www.newindianexpress.com/states/tamil-nadu/2026/Nov/22/silver-price-dip-revives-salems-anklet-industry",
@@ -517,8 +489,35 @@
       ],
       "id": "dcde70fa032b9270",
       "breaking": false,
-      "rank": 17,
+      "rank": 16,
       "related_urls": []
+    },
+    {
+      "id": "b5c63d7a387cf2c4",
+      "title": "Gold and silver prices plunge amid strong US dollar and rising Treasury yields",
+      "summary": "Gold and silver fell steeply for a second week as a stronger dollar and higher Treasury yields weighed on sentiment. On MCX, December gold fell 10.9% to Rs 1,21,778 per 10 g and silver 16.2% to Rs 1,47,813 per kg; on COMEX, December gold fell 9.5% to $3,515.40 an ounce and silver 16.4% to $41.07.",
+      "url": "https://newsonair.gov.in/gold-and-silver-prices-plunge-amid-strong-us-dollar-and-rising-treasury-yields/",
+      "source": "News On AIR",
+      "source_domain": "newsonair.gov.in",
+      "publisher_id": "news-on-air",
+      "published_at": "2026-11-22T12:02:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "comex",
+        "fed",
+        "global"
+      ],
+      "breaking": false,
+      "rank": 17
     },
     {
       "id": "af0e0f75dfbf5471",
