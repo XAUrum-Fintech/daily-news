@@ -1,19 +1,19 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-23T16:00Z",
-  "generated_at": "2026-11-23T16:07:45Z",
+  "edition_id": "2026-11-23T18:00Z",
+  "generated_at": "2026-11-23T18:13:29Z",
   "window": {
-    "from": "2026-11-23T14:00:00Z",
-    "to": "2026-11-23T16:00:00Z"
+    "from": "2026-11-23T16:00:00Z",
+    "to": "2026-11-23T18:00:00Z"
   },
   "insights": {
-    "headline": "Gold extends rebound past $3,600 as soft US data cools Fed hike bets",
-    "summary": "Spot gold jumped more than 3% to $3,668.20 an ounce as bargain hunting outweighed soft US data, with S&P Global's flash composite PMI falling to 54.6 in November, a four-month low. MCX December gold rose 2.38% to Rs 1,24,677 per 10 grams and silver 2.45% to Rs 1,51,435 per kg, holding Monday's rebound from a 14-month low. Trump said he favours resuming military action against Iran after the new year if talks fail. MCX closes its morning session on Tuesday for Guru Nanak Jayanti and reopens in the evening; traders now watch US core PCE on Wednesday at 19:00 IST.",
+    "headline": "Gold's rebound extends in US trade as futures near $3,690",
+    "summary": "Gold futures rose 4.9% to $3,686.40 an ounce and silver futures 7.2% to $44.07 in US trade, extending Monday's rebound after a 9% weekly slide to a 14-month low. Spot gold had jumped more than 3% to $3,668.20 as bargain hunting outweighed soft US PMI data, while MCX gold rose 2.38% to Rs 1,24,677 per 10 g and silver 2.45% to Rs 1,51,435 per kg. Trump said he favours resuming military action against Iran after the new year if talks fail. MCX closes its morning session on Tuesday for Guru Nanak Jayanti and reopens in the evening; traders now watch US core PCE on Wednesday at 19:00 IST.",
     "points": [
+      "Gold futures rose 4.9% to $3,686.40 an ounce; silver futures jumped 7.2% to $44.07 in US trade.",
       "Spot gold $3,668.20, up more than 3%, as bargain hunting outweighed soft US PMI data.",
       "MCX gold +2.38% to Rs 1,24,677 per 10 g; silver +2.45% to Rs 1,51,435 per kg.",
       "Trump is inclined to resume strikes on Iran after the new year if talks fail.",
-      "MCX morning session closed on Tuesday for Guru Nanak Jayanti; evening trading from 5 pm.",
       "Next test: US core PCE on Wednesday at 19:00 IST, ahead of the Fed's 9 December decision."
     ],
     "brief": {
@@ -52,12 +52,12 @@
   "trending": [
     {
       "title": "Gold's rebound stretches into the US session",
-      "summary": "Spot gold jumped more than 3% to $3,668 as bargain hunting outweighed soft US PMI data, extending Monday's MCX rebound after a 9% weekly slide to a 14-month low.",
+      "summary": "Gold futures rose 4.9% to $3,686.40 and silver futures 7.2% to $44.07 in US trade, extending Monday's rebound after a 9% weekly slide to a 14-month low.",
       "item_ids": [
+        "189a04daf1a5bf10",
         "5c5c2bdf8ad769e1",
         "e0195d89bf788f5e",
-        "eed2d50bd72d1f54",
-        "702588c5fdb880ea"
+        "eed2d50bd72d1f54"
       ]
     },
     {
@@ -119,6 +119,30 @@
       "rank": 1
     },
     {
+      "id": "189a04daf1a5bf10",
+      "title": "Gold Rebounds After Sharpest Weekly Decline Since March",
+      "summary": "Gold surged nearly 5% on Monday after its steepest weekly decline since March, as markets rebounded after Nvidia reinstated Jensen Huang as CEO, the Journal reports. New York gold futures rose 4.9% to $3,686.40 an ounce and silver futures soared 7.2% to $44.07. Saxo Bank analysts cite recovering equities and oversold conditions, though prices remain about 8% lower for the month.",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-rebounds-after-sharpest-weekly-decline-since-march-deaa4b87",
+      "source": "Wall Street Journal",
+      "source_domain": "wsj.com",
+      "publisher_id": "wsj",
+      "published_at": "2026-11-23T15:05:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "silver",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 2
+    },
+    {
       "breaking": false,
       "category": "mcx",
       "id": "e0195d89bf788f5e",
@@ -141,7 +165,7 @@
       ],
       "title": "Gold futures rise to Rs 1.24 lakh per 10 grams, silver crosses Rs 1.51 lakh per kg",
       "url": "https://www.mid-day.com/business/business-news/article/gold-prices-jump-rs-2899-to-rs-124-lakh-per-10-grams-silver-rises-to-rs-1-51-lakh-23661020",
-      "rank": 2
+      "rank": 3
     },
     {
       "breaking": false,
@@ -168,7 +192,7 @@
       ],
       "title": "Gold and silver rebound over 2% after steep weekly losses: Can the recovery sustain?",
       "url": "https://www.moneycontrol.com/news/business/personal-finance/gold-and-silver-rebound-over-2-after-steep-weekly-losses-can-the-recovery-sustain-14086886.html",
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "702588c5fdb880ea",
@@ -193,7 +217,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 4,
+      "rank": 5,
       "related_urls": [
         "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47400J:0-gold-recovers-from-14-month-low-focus-turns-to-us-inflation-data/"
       ]
@@ -221,7 +245,7 @@
       ],
       "id": "e7e073e16951005c",
       "breaking": false,
-      "rank": 5,
+      "rank": 6,
       "related_urls": []
     },
     {
@@ -245,7 +269,7 @@
       ],
       "title": "Gold Recovers Ground, but the Bulls Aren't Out of the Woods Yet",
       "url": "https://www.investing.com/analysis/gold-recovers-ground-but-the-bulls-arent-out-of-the-woods-yet-200692131",
-      "rank": 6
+      "rank": 7
     },
     {
       "breaking": false,
@@ -268,7 +292,7 @@
       ],
       "title": "Gold sinks 9% in a week as margin calls and Fed hike bets override its haven role",
       "url": "https://investinglive.com/commodities/gold-sinks-9-in-a-week-as-margin-calls-and-fed-hike-bets-override-its-haven-role/",
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "22f4a99ba92db037",
@@ -290,7 +314,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "cc0599384b7c2206",
@@ -312,7 +336,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "24741041f7471b37",
@@ -336,7 +360,7 @@
         "global"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "c37e540c655a1736",
@@ -361,7 +385,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 12
     },
     {
       "id": "c8053d48999e8674",
@@ -388,7 +412,7 @@
       "related_urls": [
         "https://economictimes.indiatimes.com/markets/forex/rupee-could-rise-to-91-50/-on-equity-inflows-says-hdfc-banks-treasury-head/articleshow/136088042.cms"
       ],
-      "rank": 12
+      "rank": 13
     },
     {
       "id": "5b648f51f77d61af",
@@ -413,7 +437,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 13
+      "rank": 14
     },
     {
       "url": "https://www.newindianexpress.com/states/tamil-nadu/2026/Nov/22/silver-price-dip-revives-salems-anklet-industry",
@@ -437,7 +461,7 @@
       ],
       "id": "dcde70fa032b9270",
       "breaking": false,
-      "rank": 14,
+      "rank": 15,
       "related_urls": []
     },
     {
@@ -462,7 +486,7 @@
       ],
       "id": "65da9f5eeb1fdf23",
       "breaking": false,
-      "rank": 15,
+      "rank": 16,
       "related_urls": []
     },
     {
@@ -486,7 +510,7 @@
         "india"
       ],
       "breaking": false,
-      "rank": 16
+      "rank": 17
     },
     {
       "id": "50fed15214fd1415",
@@ -511,7 +535,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 17
+      "rank": 18
     },
     {
       "id": "af0e0f75dfbf5471",
@@ -533,7 +557,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 18,
+      "rank": 19,
       "related_urls": [
         "https://www.thehindubusinessline.com/companies/gjc-alerts-bis-over-suspected-gold-adulteration-urges-jewellers-to-tighten-quality-checks/article71723585.ece"
       ]
@@ -560,7 +584,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 19
+      "rank": 20
     }
   ]
 }
