@@ -1,561 +1,501 @@
 {
- "schema": "orob-news.v1",
- "edition_id": "2026-11-23T20:00Z",
- "generated_at": "2026-11-23T20:06:48Z",
- "window": {
-  "from": "2026-11-23T18:00:00Z",
-  "to": "2026-11-23T20:00:00Z"
- },
- "insights": {
-  "headline": "Gold extends rebound toward $3,690 as Nvidia CEO return lifts stocks",
-  "summary": "Gold futures rose 4.9% to $3,686.40 an ounce and silver futures 7.2% to $44.07 in US trade, extending Monday's rebound after a 9% weekly slide to a 14-month low. Spot gold climbed more than 3% to $3,668.20 as bargain hunting outweighed soft US PMI data, while MCX gold rose 2.38% to Rs 1,24,677 per 10 g and silver 2.45% to Rs 1,51,435 per kg. Nvidia's board reinstated Jensen Huang as CEO, steadying the AI-led selling that had forced margin calls in gold. Traders now watch US core PCE on Wednesday at 19:00 IST, ahead of the Fed's 9 December decision.",
-  "points": [
-   "Gold futures rose 4.9% to $3,686.40 an ounce; silver futures jumped 7.2% to $44.07 in US trade.",
-   "Spot gold $3,668.20, up more than 3%, as bargain hunting outweighed soft US PMI data.",
-   "MCX gold +2.38% to Rs 1,24,677 per 10 g; silver +2.45% to Rs 1,51,435 per kg.",
-   "Trump is inclined to resume strikes on Iran after the new year if talks fail.",
-   "Next test: US core PCE on Wednesday at 19:00 IST, ahead of the Fed's 9 December decision."
+  "schema": "orob-news.v1",
+  "edition_id": "2026-11-23T22:00Z",
+  "generated_at": "2026-11-23T22:08:51Z",
+  "window": {
+    "from": "2026-11-23T20:00:00Z",
+    "to": "2026-11-23T22:00:00Z"
+  },
+  "insights": {
+    "headline": "Gold futures settle 3.9% higher at $3,649.20 as Nvidia rally steadies markets",
+    "summary": "Gold futures in New York settled 3.9% higher at $3,649.20 an ounce and silver rose 5.1% to $43.147 on Monday, extending the rebound from last week's 9% slide to a 14-month low. Spot gold climbed more than 3% to $3,668.20 as bargain hunting outweighed soft US PMI data, while MCX gold rose 2.38% to Rs 1,24,677 per 10 g and silver 2.45% to Rs 1,51,435 per kg. Nvidia's board reinstated Jensen Huang as chief executive, steadying the AI-led selling behind last week's slide. Traders now watch US core PCE on Wednesday at 19:00 IST, ahead of the Fed's 9 December decision.",
+    "points": [
+      "Gold futures settled 3.9% higher at $3,649.20 an ounce; silver rose 5.1% to $43.147.",
+      "Spot gold $3,668.20, up more than 3%, as bargain hunting outweighed soft US PMI data.",
+      "MCX gold +2.38% to Rs 1,24,677 per 10 g; silver +2.45% to Rs 1,51,435 per kg.",
+      "Nvidia reinstated Jensen Huang as CEO, lifting equities and steadying the AI-led selloff.",
+      "Next test: US core PCE on Wednesday at 19:00 IST, ahead of the Fed's 9 December decision."
+    ],
+    "brief": null
+  },
+  "trending": [
+    {
+      "title": "Gold's rebound stretches into the US session",
+      "summary": "Gold futures settled 3.9% higher at $3,649.20 and silver 5.1% at $43.147, with spot gold up more than 3% to $3,668.20, as Nvidia's CEO return steadied markets after last week's 9% slide.",
+      "item_ids": [
+        "02ec5b735df1f5df",
+        "5c5c2bdf8ad769e1",
+        "67ce15a3c8999645",
+        "e0195d89bf788f5e"
+      ]
+    },
+    {
+      "title": "Forced selling, not just rates, drove the 9% slide",
+      "summary": "Saxo Bank calls last week's weakness a liquidity-driven event, and UBS notes the selling was concentrated in futures while ETF holdings stayed steady, as tech losses forced investors to liquidate.",
+      "item_ids": [
+        "02ec5b735df1f5df",
+        "67ce15a3c8999645",
+        "702588c5fdb880ea"
+      ]
+    },
+    {
+      "title": "Trump keeps Iran strikes on the table as gold rebounds",
+      "summary": "Trump said he favours resuming military action against Iran after the new year if talks fail, and warned tankers testing the US oil blockade would be sunk, keeping geopolitical risk live.",
+      "item_ids": [
+        "22f4a99ba92db037",
+        "67ce15a3c8999645"
+      ]
+    },
+    {
+      "title": "Silver's slide runs deeper than gold's",
+      "summary": "Silver lost 16% last week to $41.00 and now faces a $43.95 test for its rebound, though Morgan Stanley still sees $71.40 by mid-2027; in Salem, cheaper silver is reviving anklet orders.",
+      "item_ids": [
+        "5b648f51f77d61af",
+        "ec14789e5007bb4d",
+        "dcde70fa032b9270"
+      ]
+    },
+    {
+      "title": "Next test: US core PCE on Wednesday",
+      "summary": "Traders look to Wednesday's US core PCE print at 19:00 IST for the next cue on Fed rates, with a 25-basis-point December hike priced in and a half-point move priced out.",
+      "item_ids": [
+        "24741041f7471b37",
+        "02ec5b735df1f5df"
+      ]
+    }
   ],
-  "brief": null
- },
- "trending": [
-  {
-   "title": "Gold's rebound stretches into the US session",
-   "summary": "Gold futures rose 4.9% to $3,686.40 and silver futures 7.2% to $44.07 in US trade, extending Monday's rebound after a 9% weekly slide to a 14-month low.",
-   "item_ids": [
-    "189a04daf1a5bf10",
-    "5c5c2bdf8ad769e1",
-    "e0195d89bf788f5e",
-    "eed2d50bd72d1f54"
-   ]
-  },
-  {
-   "title": "Forced selling, not just rates, drove the 9% slide",
-   "summary": "Goldman Sachs' trading desk says speculative funds sold $9.3bn of gold in a week as AI-led equity losses forced margin calls, cutting net longs to about $72bn.",
-   "item_ids": [
-    "578b6609ec4bc70b",
-    "e7e073e16951005c"
-   ]
-  },
-  {
-   "title": "Trump keeps Iran strikes on the table as gold rebounds",
-   "summary": "Trump told Fox News he is inclined to resume strikes on Iran if talks fail, and warned tankers testing the blockade would be sunk, keeping geopolitical risk live as bullion recovers.",
-   "item_ids": [
-    "22f4a99ba92db037",
-    "e7e073e16951005c"
-   ]
-  },
-  {
-   "title": "Silver's slide runs deeper than gold's",
-   "summary": "Silver fell 16.2% last week, deeper than gold's slide, then rebounded 2.5% to $42.18; Morgan Stanley still sees $71.40 while cheaper silver revived Salem's anklet makers.",
-   "item_ids": [
-    "5b648f51f77d61af",
-    "dcde70fa032b9270"
-   ]
-  },
-  {
-   "title": "AI's gold link is small but real, WGC says",
-   "summary": "Technology demand for gold totalled 323 tonnes in 2025, about 6-7% of annual demand, the World Gold Council says; AI's bigger effects run through energy costs, inflation, rates and geopolitics.",
-   "item_ids": [
-    "98fc62d89ada2717"
-   ]
-  }
- ],
- "items": [
-  {
-   "id": "5c5c2bdf8ad769e1",
-   "title": "Gold prices jump 3% as bargain hunting overshadows slowing U.S. manufacturing and services activity",
-   "summary": "Spot gold jumped more than 3% to $3,668.20 an ounce as bargain hunting after last week's selloff outweighed soft US data, Kitco reports. S&P Global's flash composite PMI fell to 54.6 in November from 55.9, a four-month low, with manufacturing at 54.5 and services at 54.7, the latter missing forecasts. The gold market barely reacted to the data, with the rebound driven by dip-buying.",
-   "url": "https://www.kitco.com/news/article/2026-11-23/gold-prices-jump-3-bargain-hunting-overshadows-slowing-us-manufacturing-and",
-   "source": "Kitco",
-   "source_domain": "kitco.com",
-   "publisher_id": "kitco",
-   "published_at": "2026-11-23T15:00:26Z",
-   "image_url": "https://images.kitco.com/img/extract_0_233_4500_2533,width_1200,enlarge,format_jpeg/icms/5de1ad97-33ae-45c7-981d-9f1f66f24292.jpeg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "silver",
-    "global"
-   ],
-   "category": "global",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "breaking": false,
-   "rank": 1,
-   "related_urls": [
-    "https://www.livemint.com/market/gold-rises-as-bargain-hunters-step-in-after-steep-weekly-drop-11795461578266.html"
-   ]
-  },
-  {
-   "id": "189a04daf1a5bf10",
-   "title": "Gold Rebounds After Sharpest Weekly Decline Since March",
-   "summary": "Gold surged nearly 5% on Monday after its steepest weekly decline since March, as markets rebounded after Nvidia reinstated Jensen Huang as CEO, the Journal reports. New York gold futures rose 4.9% to $3,686.40 an ounce and silver futures soared 7.2% to $44.07. Saxo Bank analysts cite recovering equities and oversold conditions, though prices remain about 8% lower for the month.",
-   "url": "https://www.wsj.com/finance/commodities-futures/gold-rebounds-after-sharpest-weekly-decline-since-march-deaa4b87",
-   "source": "Wall Street Journal",
-   "source_domain": "wsj.com",
-   "publisher_id": "wsj",
-   "published_at": "2026-11-23T15:05:00Z",
-   "image_url": null,
-   "image_kind": "none",
-   "tags": [
-    "gold",
-    "silver",
-    "global"
-   ],
-   "category": "global",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "breaking": false,
-   "rank": 2
-  },
-  {
-   "breaking": false,
-   "category": "mcx",
-   "id": "e0195d89bf788f5e",
-   "image_kind": "photo",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/e0195d89bf788f5e.jpg",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "published_at": "2026-11-23T07:40:00Z",
-   "publisher_id": "mid-day",
-   "source": "Mid-Day",
-   "source_domain": "mid-day.com",
-   "summary": "MCX December gold futures rose Rs 2,899, or 2.38%, to Rs 1,24,677 per 10 grams as speculators built fresh positions on firm spot demand, PTI reported; silver futures gained 2.45% to Rs 1,51,435 per kg. In New York, gold futures rose 2.14% to $3,614.25 an ounce and silver futures 2.91%.",
-   "tags": [
-    "gold",
-    "silver",
-    "mcx",
-    "india"
-   ],
-   "title": "Gold futures rise to Rs 1.24 lakh per 10 grams, silver crosses Rs 1.51 lakh per kg",
-   "url": "https://www.mid-day.com/business/business-news/article/gold-prices-jump-rs-2899-to-rs-124-lakh-per-10-grams-silver-rises-to-rs-1-51-lakh-23661020",
-   "rank": 3
-  },
-  {
-   "breaking": false,
-   "category": "mcx",
-   "id": "eed2d50bd72d1f54",
-   "image_kind": "photo",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/eed2d50bd72d1f54.jpg",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "published_at": "2026-11-23T04:21:00Z",
-   "publisher_id": "moneycontrol",
-   "related_urls": [],
-   "source": "Moneycontrol",
-   "source_domain": "moneycontrol.com",
-   "summary": "MCX gold futures rose 2.2% and silver 2.11% on Monday after last week's slide — gold fell 11% and silver 16.2% on the week — as short covering and bargain buying met a softer dollar and fading bets on Fed hikes. Spot gold traded near $3,609, up 2%, and silver just above $42. Analysts quoted remain cautious, saying the rebound must hold above resistance to confirm a turn.",
-   "tags": [
-    "gold",
-    "silver",
-    "mcx",
-    "fed",
-    "india"
-   ],
-   "title": "Gold and silver rebound over 2% after steep weekly losses: Can the recovery sustain?",
-   "url": "https://www.moneycontrol.com/news/business/personal-finance/gold-and-silver-rebound-over-2-after-steep-weekly-losses-can-the-recovery-sustain-14086886.html",
-   "rank": 4
-  },
-  {
-   "id": "702588c5fdb880ea",
-   "title": "Gold rebounds after biggest weekly drop in eight months as buyers return",
-   "summary": "Gold rose as much as 2.6% to above $3,630 an ounce after a 9% weekly fall to a 14-month low, as dip-buyers stepped in and traders pared bets on a December Fed rate hike. Silver rose 2.5% to $42.18 after tumbling 15% last week. Retail buyers crowded gold shops in Shenzhen's Shuibei market, and a Friday Treasury rally on AI-spending worries plus a softer dollar aided the rebound.",
-   "url": "https://www.business-standard.com/markets/commodities/gold-rebounds-after-biggest-weekly-drop-in-eight-months-as-buyers-return-126112300323_1.html",
-   "source": "Business Standard",
-   "source_domain": "business-standard.com",
-   "publisher_id": "business-standard",
-   "published_at": "2026-11-23T06:00:26Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/702588c5fdb880ea.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "silver",
-    "global",
-    "fed"
-   ],
-   "category": "global",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "breaking": false,
-   "rank": 5,
-   "related_urls": [
-    "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47400J:0-gold-recovers-from-14-month-low-focus-turns-to-us-inflation-data/"
-   ]
-  },
-  {
-   "url": "https://www.livemint.com/market/gold-rebounds-as-tech-rout-spurs-shift-to-havens-treasury-rally-11795402440872.html",
-   "title": "Gold Rebounds as Tech Rout Spurs Shift to Havens, Treasury Rally",
-   "summary": "Gold rebounded as much as 2.6% to around $3,630 an ounce after falling 9% last week to a 14-month low, as a rout in technology shares pushed traders toward havens and pulled down Treasury yields and the dollar. Spot gold was up 1.4% at $3,587.13 in Singapore, while silver rose 1.9% to $41.92 after tumbling 15% the week before.",
-   "source": "Mint",
-   "source_domain": "livemint.com",
-   "publisher_id": "mint",
-   "published_at": "2026-11-23T02:54:00Z",
-   "category": "global",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "image_url": null,
-   "image_kind": "none",
-   "tags": [
-    "gold",
-    "silver",
-    "fed",
-    "global"
-   ],
-   "id": "e7e073e16951005c",
-   "breaking": false,
-   "rank": 6,
-   "related_urls": []
-  },
-  {
-   "breaking": false,
-   "category": "global",
-   "id": "19b95bcb958fe3d8",
-   "image_kind": "none",
-   "image_url": null,
-   "metals": [
-    "gold"
-   ],
-   "published_at": "2026-11-23T12:01:00Z",
-   "publisher_id": "investing",
-   "source": "Investing.com",
-   "source_domain": "investing.com",
-   "summary": "Gold's rebound has not cleared the risks hanging over the metal, Investing.com's analysis says, with hawkish Fed expectations and fragile sentiment still in play after last week's 9% slide. Traders now look to Wednesday's US core PCE data for the next steer on interest rates.",
-   "tags": [
-    "gold",
-    "global",
-    "fed"
-   ],
-   "title": "Gold Recovers Ground, but the Bulls Aren't Out of the Woods Yet",
-   "url": "https://www.investing.com/analysis/gold-recovers-ground-but-the-bulls-arent-out-of-the-woods-yet-200692131",
-   "rank": 7
-  },
-  {
-   "breaking": false,
-   "category": "global",
-   "id": "578b6609ec4bc70b",
-   "image_kind": "photo",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/578b6609ec4bc70b.jpg",
-   "metals": [
-    "gold"
-   ],
-   "published_at": "2026-11-22T23:51:03Z",
-   "publisher_id": "investinglive",
-   "source": "InvestingLive",
-   "source_domain": "investinglive.com",
-   "summary": "Gold's worst week in eight months was driven less by rates alone than by forced selling, analysts say: as AI-led equities slid, leveraged investors sold gold to meet margin calls. Goldman Sachs' trading desk estimates speculative funds sold $9.3bn in a week, cutting net longs to about $72bn. Goldman now sees gold at $4,150 by end-2026 and $4,650 by end-2027.",
-   "tags": [
-    "gold",
-    "global",
-    "fed"
-   ],
-   "title": "Gold sinks 9% in a week as margin calls and Fed hike bets override its haven role",
-   "url": "https://investinglive.com/commodities/gold-sinks-9-in-a-week-as-margin-calls-and-fed-hike-bets-override-its-haven-role/",
-   "rank": 8
-  },
-  {
-   "id": "22f4a99ba92db037",
-   "title": "Gold Rebound Faces Pressure as Trump Keeps Military Action Against Iran on Table",
-   "summary": "Gold's rebound faces fresh pressure after Donald Trump said he favours resuming military action against Iran after the new year if no agreement is reached, keeping the threat of renewed strikes in focus even as bullion recovers from a 14-month low. Trump also warned tankers testing the US blockade of Iranian oil would be sunk.",
-   "url": "https://www.investing.com/analysis/gold-rebound-faces-pressure-as-trump-keeps-military-action-against-iran-on-table-200692134",
-   "source": "Investing.com",
-   "source_domain": "investing.com",
-   "publisher_id": "investing",
-   "published_at": "2026-11-23T12:31:00Z",
-   "image_url": null,
-   "image_kind": "none",
-   "tags": [
-    "gold",
-    "global"
-   ],
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "rank": 9
-  },
-  {
-   "id": "24741041f7471b37",
-   "title": "Gold in a free fall: Why November 25, December 4 and 9 could be crucial for prices",
-   "summary": "Gold faces three decisive US events in the coming weeks, Upstox notes: October PCE inflation data on November 25, the US jobs report on December 4, and the Fed's policy decision on December 9. Bullion has fallen nearly 30% from its January record highs, with Indian gold at a one-year low after nine straight sessions of declines, as a stronger dollar, high Treasury yields and Fed hike bets weigh.",
-   "url": "https://upstox.com/news/market-news/commodities/gold-in-a-free-fall-why-november-25-december-4-and-9-could-be-crucial-for-prices/article-203809/",
-   "source": "Upstox",
-   "source_domain": "upstox.com",
-   "publisher_id": "upstox",
-   "published_at": "2026-11-22T04:28:17Z",
-   "image_url": "https://assets.upstox.com/content/assets/images/news/gold-prices-november-22-2026.webp",
-   "image_kind": "photo",
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "tags": [
-    "gold",
-    "fed",
-    "india",
-    "global"
-   ],
-   "breaking": false,
-   "rank": 10
-  },
-  {
-   "id": "c37e540c655a1736",
-   "title": "Stock market holiday tomorrow Tuesday, 24 Nov: BSE, NSE open or closed for Guru Nanak Jayanti? Check exchange calendar",
-   "summary": "Indian stock markets stay shut on Tuesday, 24 November for Guru Nanak Jayanti. MCX closes its morning session but reopens for the evening session from 5 pm, when gold and silver futures can trade; 24 November is also a settlement holiday.",
-   "url": "https://www.livemint.com/market/stock-market-news/stock-market-holiday-tomorrow-tuesday-24-nov-bse-nse-open-or-closed-for-guru-nanak-jayanti-check-exchange-calendar-11795433400141.html",
-   "source": "Mint",
-   "source_domain": "livemint.com",
-   "publisher_id": "mint",
-   "published_at": "2026-11-23T12:04:04Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/c37e540c655a1736.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "mcx",
-    "gold",
-    "silver",
-    "india"
-   ],
-   "category": "mcx",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "breaking": false,
-   "rank": 11
-  },
-  {
-   "id": "c8053d48999e8674",
-   "url": "https://www.reuters.com/world/india/indian-rupee-could-rise-9150-equity-inflows-hdfc-banks-treasury-head-says-2026-11-23/",
-   "title": "Indian rupee could rise to 91.50/$ on equity inflows, HDFC Bank's treasury head says",
-   "summary": "The rupee could strengthen to 91.50 per dollar if strong equity inflows continue, HDFC Bank treasury head Arup Rakshit said, seeing it in a 91.50-93.50 range near term. The currency closed Friday at 92.67, up nearly 2.5% in November on record $12 billion of foreign equity inflows, and Rakshit expects the RBI to raise rates in December, with a 25-basis-point hike more or less given.",
-   "source": "Reuters",
-   "source_domain": "reuters.com",
-   "publisher_id": "reuters",
-   "published_at": "2026-11-23T03:10:03Z",
-   "category": "mcx",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "image_url": null,
-   "image_kind": "none",
-   "tags": [
-    "rupee",
-    "india",
-    "mcx"
-   ],
-   "breaking": false,
-   "related_urls": [
-    "https://economictimes.indiatimes.com/markets/forex/rupee-could-rise-to-91-50/-on-equity-inflows-says-hdfc-banks-treasury-head/articleshow/136088042.cms"
-   ],
-   "rank": 12
-  },
-  {
-   "id": "5b648f51f77d61af",
-   "title": "Silver Price Just Lost 16% In A Week. Morgan Stanley Still Sees $71.40",
-   "summary": "Silver closed Friday at $41.00 an ounce, down 16% in a week. Morgan Stanley still sees $71.40 by the second quarter of 2027, about 74% above Friday's close, though it expects silver to lag gold on weak industrial demand. Goldman Sachs sees little chance of another London squeeze in 2027.",
-   "url": "https://www.exchangerates.org.uk/news/47821/2026-11-22-silver-price-just-lost-16-in-a-week-morgan-stanley-still-sees-71-40.html",
-   "source": "Exchange Rates UK",
-   "source_domain": "exchangerates.org.uk",
-   "publisher_id": "exchange-rates-uk",
-   "published_at": "2026-11-22T20:30:00Z",
-   "image_url": null,
-   "image_kind": "none",
-   "tags": [
-    "silver",
-    "gold",
-    "global",
-    "fed"
-   ],
-   "category": "global",
-   "metals": [
-    "silver"
-   ],
-   "breaking": false,
-   "related_urls": [],
-   "rank": 13
-  },
-  {
-   "url": "https://www.newindianexpress.com/states/tamil-nadu/2026/Nov/22/silver-price-dip-revives-salems-anklet-industry",
-   "title": "Silver price dip revives Salem's anklet industry",
-   "summary": "Salem's silver anklet makers are seeing orders return as silver eased to about Rs 175 a gram from Rs 195 a week earlier, after the January peak of nearly Rs 425 a gram. Units are now getting about a lakh anklet orders a month, roughly half their normal volume, ahead of Pongal.",
-   "source": "The New Indian Express",
-   "source_domain": "newindianexpress.com",
-   "publisher_id": "new-indian-express",
-   "published_at": "2026-11-22T00:43:00Z",
-   "category": "mcx",
-   "metals": [
-    "silver"
-   ],
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/dcde70fa032b9270.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "silver",
-    "mcx",
-    "india",
-    "jewellery"
-   ],
-   "id": "dcde70fa032b9270",
-   "breaking": false,
-   "rank": 14,
-   "related_urls": []
-  },
-  {
-   "url": "https://timesofindia.indiatimes.com/city/pune/as-gold-price-ease-jewellers-scale-back-offers-making-charge-discounts/articleshow/136062385.cms",
-   "title": "As gold price ease, jewellers scale back offers, making-charge discounts",
-   "summary": "Pune jewellers are cutting back the making-charge discounts they offered when gold was soaring, reverting charges to original levels as prices ease to about Rs 1.23 lakh per 10 g. Demand is returning for weddings and gifting, but buyers favour lightweight designs and smaller pieces.",
-   "source": "Times of India",
-   "source_domain": "timesofindia.indiatimes.com",
-   "publisher_id": "times-of-india",
-   "published_at": "2026-11-22T01:31:00Z",
-   "category": "mcx",
-   "metals": [
-    "gold"
-   ],
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/65da9f5eeb1fdf23.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "mcx",
-    "india",
-    "jewellery"
-   ],
-   "id": "65da9f5eeb1fdf23",
-   "breaking": false,
-   "rank": 15,
-   "related_urls": []
-  },
-  {
-   "id": "e44064686db20862",
-   "title": "Did PM Modi's appeal really bring down gold prices? Here's what the data shows",
-   "summary": "Mathrubhumi tests the PM's claim that his appeal to avoid non-essential gold purchases lowered prices: 24-carat gold fell about 18% from Rs 15,250 a gram on 9 May to Rs 12,523 on 21 November. The piece concludes the appeal alone cannot explain it — the import duty rose from 6% to 15% in May, imports fell about 40% in April–October, and a stronger dollar and Fed hike expectations also weighed.",
-   "url": "https://english.mathrubhumi.com/news/money/did-pm-modi-gold-buying-appeal-bring-down-gold-prices-market-data-explained-gdfoqmr2",
-   "source": "Mathrubhumi",
-   "source_domain": "english.mathrubhumi.com",
-   "publisher_id": "mathrubhumi",
-   "published_at": "2026-11-22T11:18:00Z",
-   "image_url": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1va9b7ep6vujewz1puh/1/gold-market-png.jpeg?$p=f162f31&f=16%3A9&w=1200&q=1",
-   "image_kind": "photo",
-   "category": "mcx",
-   "metals": [
-    "gold"
-   ],
-   "tags": [
-    "gold",
-    "mcx",
-    "india"
-   ],
-   "breaking": false,
-   "rank": 16
-  },
-  {
-   "id": "50fed15214fd1415",
-   "title": "PM Modi's appeal to avoid gold purchases reflects in import data, India saves $16.46 billion in 7 months: CAIT",
-   "summary": "India's gold import bill fell nearly 40% to $24.78 billion in April–October 2026 from $41.24 billion a year earlier, saving $16.46 billion, the Confederation of All India Traders says, crediting PM Modi's appeal to avoid non-essential gold purchases. October imports fell 62.6% to $5.51 billion from $14.72 billion a year earlier.",
-   "url": "https://hiindia.com/pm-modis-appeal-to-avoid-gold-purchases-reflects-in-import-data-india-saves-16-46-billion-in-7-months-cait/",
-   "source": "hi INDiA",
-   "source_domain": "hiindia.com",
-   "publisher_id": "hi-india",
-   "published_at": "2026-11-22T07:07:28Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/50fed15214fd1415.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "india",
-    "mcx",
-    "import-duty"
-   ],
-   "category": "mcx",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "related_urls": [],
-   "rank": 17
-  },
-  {
-   "id": "af0e0f75dfbf5471",
-   "title": "IBJA Seeks BIS Crackdown on Fake Purity Reports and 4,000 Unregistered Gold Refiners",
-   "summary": "The India Bullion and Jewellers Association has asked the Bureau of Indian Standards to act on alleged collusion between jewellers and hallmarking centres, fake purity reports and rhenium adulteration, and to bring nearly 4,000 unregistered refiners under oversight. BIS has called a meeting on November 23 to examine the complaints.",
-   "url": "https://the420.in/ibja-seeks-bis-crackdown-on-fake-purity-reports-and-4000-unregistered-gold-refiners/",
-   "source": "The420.in",
-   "source_domain": "the420.in",
-   "publisher_id": "the420",
-   "published_at": "2026-11-22T02:59:25Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/af0e0f75dfbf5471.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "india"
-   ],
-   "category": "policy",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "rank": 18,
-   "related_urls": [
-    "https://www.thehindubusinessline.com/companies/gjc-alerts-bis-over-suspected-gold-adulteration-urges-jewellers-to-tighten-quality-checks/article71723585.ece"
-   ]
-  },
-  {
-   "id": "5cf38646731354b4",
-   "title": "121 kg of gold: Anonymous devotee to make biggest-ever individual offering to Lord Venkateswara at Tirumala on Nov 26",
-   "summary": "An anonymous devotee will hand over 121 kg of gold ornaments — 45 pieces in nine sets, valued at about Rs 160 crore — to Lord Venkateswara at Tirumala on 26 November, in what temple sources describe as the largest individual offering in the shrine's history.",
-   "url": "https://timesofindia.indiatimes.com/city/vijayawada/121-kg-of-gold-anonymous-devotee-to-make-biggest-ever-individual-offering-to-lord-venkateswara-at-tirumala-on-nov-26/articleshow/136061772.cms",
-   "source": "Times of India",
-   "source_domain": "timesofindia.indiatimes.com",
-   "publisher_id": "times-of-india",
-   "published_at": "2026-11-21T21:32:00Z",
-   "category": "festive",
-   "metals": [
-    "gold"
-   ],
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/5cf38646731354b4.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "india",
-    "jewellery"
-   ],
-   "breaking": false,
-   "related_urls": [],
-   "rank": 19
-  },
-  {
-   "id": "98fc62d89ada2717",
-   "rank": 20,
-   "title": "Gold's Role in an AI-Driven Economy: Direct and Indirect Effects",
-   "summary": "Gold sits inside the chips and data centres powering the AI buildout, but the World Gold Council's Joseph Cavatoni says that direct demand is small — technology demand totalled 323 tonnes in 2025, about 6-7% of annual demand. He argues AI's larger effects on gold will run through indirect channels — energy costs, inflation, productivity, real rates and geopolitics.",
-   "url": "https://www.gold.org/goldhub/gold-focus/2026/11/golds-role-ai-driven-economy-direct-and-indirect-effects",
-   "source": "World Gold Council",
-   "source_domain": "gold.org",
-   "publisher_id": "world-gold-council",
-   "published_at": "2026-11-23T16:00:00Z",
-   "image_url": "https://www.gold.org/sites/default/files/default_images/WGC-Social-1200x630.jpeg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "global"
-   ],
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false
-  }
- ]
+  "items": [
+    {
+      "id": "5c5c2bdf8ad769e1",
+      "title": "Gold prices jump 3% as bargain hunting overshadows slowing U.S. manufacturing and services activity",
+      "summary": "Spot gold jumped more than 3% to $3,668.20 an ounce as bargain hunting after last week's selloff outweighed soft US data, Kitco reports. S&P Global's flash composite PMI fell to 54.6 in November from 55.9, a four-month low, with manufacturing at 54.5 and services at 54.7, the latter missing forecasts. The gold market barely reacted to the data, with the rebound driven by dip-buying.",
+      "url": "https://www.kitco.com/news/article/2026-11-23/gold-prices-jump-3-bargain-hunting-overshadows-slowing-us-manufacturing-and",
+      "source": "Kitco",
+      "source_domain": "kitco.com",
+      "publisher_id": "kitco",
+      "published_at": "2026-11-23T15:00:26Z",
+      "image_url": "https://images.kitco.com/img/extract_0_233_4500_2533,width_1200,enlarge,format_jpeg/icms/5de1ad97-33ae-45c7-981d-9f1f66f24292.jpeg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 1,
+      "related_urls": [
+        "https://www.livemint.com/market/gold-rises-as-bargain-hunters-step-in-after-steep-weekly-drop-11795461578266.html"
+      ]
+    },
+    {
+      "id": "02ec5b735df1f5df",
+      "title": "Gold Futures Rebound as Nvidia News Lifts Markets",
+      "summary": "Gold futures in New York settled 3.9% higher at $3,649.20 an ounce on Monday, with silver up 5.1% to $43.147, after Nvidia reinstated Jensen Huang as chief executive. Saxo Bank called it a recovery from oversold conditions after a liquidity-driven selloff. Traders still price a 25-basis-point Fed hike in December, but no longer a half-point move, with Wednesday's US PCE data the next cue.",
+      "url": "https://www.morningstar.com/news/dow-jones/202611237574/gold-futures-rebound-as-nvidia-news-lifts-markets-2nd-update",
+      "source": "Morningstar",
+      "source_domain": "morningstar.com",
+      "publisher_id": "morningstar",
+      "published_at": "2026-11-23T20:21:00Z",
+      "image_url": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "comex",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 2
+    },
+    {
+      "id": "67ce15a3c8999645",
+      "title": "Gold Rebounds as Huang's Return to Nvidia Revives Risk Appetite",
+      "summary": "Gold extended its rebound after Nvidia reinstated Jensen Huang as chief executive, rising as much as 4.3% to $3,690 an ounce after a near-9% slide last week. Bloomberg reports the selling was concentrated in futures, while ETF holdings stayed steady, according to UBS, and retail dip-buying emerged in Shenzhen jewellery markets. Fed officials still back higher rates to fight sticky inflation.",
+      "url": "https://www.livemint.com/market/gold-rebounds-as-huang-s-return-to-nvidia-revives-risk-appetite-11795469022718.html",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "publisher_id": "mint",
+      "published_at": "2026-11-23T21:23:42Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "silver",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://www.tradingview.com/news/moneycontrol:a87e12ec2094b:0-commodity-corner-crude-oil-slips-on-supply-concerns-gold-rebounds-as-fed-rate-hike-bets-ease/"
+      ],
+      "rank": 3
+    },
+    {
+      "breaking": false,
+      "category": "mcx",
+      "id": "e0195d89bf788f5e",
+      "image_kind": "photo",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/e0195d89bf788f5e.jpg",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "published_at": "2026-11-23T07:40:00Z",
+      "publisher_id": "mid-day",
+      "source": "Mid-Day",
+      "source_domain": "mid-day.com",
+      "summary": "MCX December gold futures rose Rs 2,899, or 2.38%, to Rs 1,24,677 per 10 grams as speculators built fresh positions on firm spot demand, PTI reported; silver futures gained 2.45% to Rs 1,51,435 per kg. In New York, gold futures rose 2.14% to $3,614.25 an ounce and silver futures 2.91%.",
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "india"
+      ],
+      "title": "Gold futures rise to Rs 1.24 lakh per 10 grams, silver crosses Rs 1.51 lakh per kg",
+      "url": "https://www.mid-day.com/business/business-news/article/gold-prices-jump-rs-2899-to-rs-124-lakh-per-10-grams-silver-rises-to-rs-1-51-lakh-23661020",
+      "rank": 4
+    },
+    {
+      "breaking": false,
+      "category": "mcx",
+      "id": "eed2d50bd72d1f54",
+      "image_kind": "photo",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/eed2d50bd72d1f54.jpg",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "published_at": "2026-11-23T04:21:00Z",
+      "publisher_id": "moneycontrol",
+      "related_urls": [],
+      "source": "Moneycontrol",
+      "source_domain": "moneycontrol.com",
+      "summary": "MCX gold futures rose 2.2% and silver 2.11% on Monday after last week's slide — gold fell 11% and silver 16.2% on the week — as short covering and bargain buying met a softer dollar and fading bets on Fed hikes. Spot gold traded near $3,609, up 2%, and silver just above $42. Analysts quoted remain cautious, saying the rebound must hold above resistance to confirm a turn.",
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "fed",
+        "india"
+      ],
+      "title": "Gold and silver rebound over 2% after steep weekly losses: Can the recovery sustain?",
+      "url": "https://www.moneycontrol.com/news/business/personal-finance/gold-and-silver-rebound-over-2-after-steep-weekly-losses-can-the-recovery-sustain-14086886.html",
+      "rank": 5
+    },
+    {
+      "id": "702588c5fdb880ea",
+      "title": "Gold rebounds after biggest weekly drop in eight months as buyers return",
+      "summary": "Gold rose as much as 2.6% to above $3,630 an ounce after a 9% weekly fall to a 14-month low, as dip-buyers stepped in and traders pared bets on a December Fed rate hike. Silver rose 2.5% to $42.18 after tumbling 15% last week. Retail buyers crowded gold shops in Shenzhen's Shuibei market, and a Friday Treasury rally on AI-spending worries plus a softer dollar aided the rebound.",
+      "url": "https://www.business-standard.com/markets/commodities/gold-rebounds-after-biggest-weekly-drop-in-eight-months-as-buyers-return-126112300323_1.html",
+      "source": "Business Standard",
+      "source_domain": "business-standard.com",
+      "publisher_id": "business-standard",
+      "published_at": "2026-11-23T06:00:26Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/702588c5fdb880ea.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 6,
+      "related_urls": [
+        "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47400J:0-gold-recovers-from-14-month-low-focus-turns-to-us-inflation-data/"
+      ]
+    },
+    {
+      "id": "22f4a99ba92db037",
+      "title": "Gold Rebound Faces Pressure as Trump Keeps Military Action Against Iran on Table",
+      "summary": "Gold's rebound faces fresh pressure after Donald Trump said he favours resuming military action against Iran after the new year if no agreement is reached, keeping the threat of renewed strikes in focus even as bullion recovers from a 14-month low. Trump also warned tankers testing the US blockade of Iranian oil would be sunk.",
+      "url": "https://www.investing.com/analysis/gold-rebound-faces-pressure-as-trump-keeps-military-action-against-iran-on-table-200692134",
+      "source": "Investing.com",
+      "source_domain": "investing.com",
+      "publisher_id": "investing",
+      "published_at": "2026-11-23T12:31:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 7
+    },
+    {
+      "id": "24741041f7471b37",
+      "title": "Gold in a free fall: Why November 25, December 4 and 9 could be crucial for prices",
+      "summary": "Gold faces three decisive US events in the coming weeks, Upstox notes: October PCE inflation data on November 25, the US jobs report on December 4, and the Fed's policy decision on December 9. Bullion has fallen nearly 30% from its January record highs, with Indian gold at a one-year low after nine straight sessions of declines, as a stronger dollar, high Treasury yields and Fed hike bets weigh.",
+      "url": "https://upstox.com/news/market-news/commodities/gold-in-a-free-fall-why-november-25-december-4-and-9-could-be-crucial-for-prices/article-203809/",
+      "source": "Upstox",
+      "source_domain": "upstox.com",
+      "publisher_id": "upstox",
+      "published_at": "2026-11-22T04:28:17Z",
+      "image_url": "https://assets.upstox.com/content/assets/images/news/gold-prices-november-22-2026.webp",
+      "image_kind": "photo",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "fed",
+        "india",
+        "global"
+      ],
+      "breaking": false,
+      "rank": 8
+    },
+    {
+      "id": "ec14789e5007bb4d",
+      "title": "Silver Price Forecast: Bullish harami faces $43.95 breakout test",
+      "summary": "Silver surged more than 5% on Monday to $43.18 an ounce after crashing over 16% last week, forming a bullish harami pattern that needs a close above Friday's high of $43.95 to confirm, FXStreet's technical note says. Above that, resistance sits at $44.25 and then $45.00; a break below $41.13 would resume the downtrend. The rebound came as US yields fell and the Nvidia news steadied markets.",
+      "url": "https://www.fxstreet.com/news/silver-price-forecast-bullish-harami-faces-4395-breakout-test-202611231914",
+      "source": "FXStreet",
+      "source_domain": "fxstreet.com",
+      "publisher_id": "fxstreet",
+      "published_at": "2026-11-23T19:14:32Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "silver",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://www.mitrade.com/insights/news/live-news/article-2-2272562-20261124"
+      ],
+      "rank": 9
+    },
+    {
+      "id": "5b648f51f77d61af",
+      "title": "Silver Price Just Lost 16% In A Week. Morgan Stanley Still Sees $71.40",
+      "summary": "Silver closed Friday at $41.00 an ounce, down 16% in a week. Morgan Stanley still sees $71.40 by the second quarter of 2027, about 74% above Friday's close, though it expects silver to lag gold on weak industrial demand. Goldman Sachs sees little chance of another London squeeze in 2027.",
+      "url": "https://www.exchangerates.org.uk/news/47821/2026-11-22-silver-price-just-lost-16-in-a-week-morgan-stanley-still-sees-71-40.html",
+      "source": "Exchange Rates UK",
+      "source_domain": "exchangerates.org.uk",
+      "publisher_id": "exchange-rates-uk",
+      "published_at": "2026-11-22T20:30:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "silver",
+        "gold",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "related_urls": [],
+      "rank": 10
+    },
+    {
+      "id": "c37e540c655a1736",
+      "title": "Stock market holiday tomorrow Tuesday, 24 Nov: BSE, NSE open or closed for Guru Nanak Jayanti? Check exchange calendar",
+      "summary": "Indian stock markets stay shut on Tuesday, 24 November for Guru Nanak Jayanti. MCX closes its morning session but reopens for the evening session from 5 pm, when gold and silver futures can trade; 24 November is also a settlement holiday.",
+      "url": "https://www.livemint.com/market/stock-market-news/stock-market-holiday-tomorrow-tuesday-24-nov-bse-nse-open-or-closed-for-guru-nanak-jayanti-check-exchange-calendar-11795433400141.html",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "publisher_id": "mint",
+      "published_at": "2026-11-23T12:04:04Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/c37e540c655a1736.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "mcx",
+        "gold",
+        "silver",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 11
+    },
+    {
+      "id": "c8053d48999e8674",
+      "url": "https://www.reuters.com/world/india/indian-rupee-could-rise-9150-equity-inflows-hdfc-banks-treasury-head-says-2026-11-23/",
+      "title": "Indian rupee could rise to 91.50/$ on equity inflows, HDFC Bank's treasury head says",
+      "summary": "The rupee could strengthen to 91.50 per dollar if strong equity inflows continue, HDFC Bank treasury head Arup Rakshit said, seeing it in a 91.50-93.50 range near term. The currency closed Friday at 92.67, up nearly 2.5% in November on record $12 billion of foreign equity inflows, and Rakshit expects the RBI to raise rates in December, with a 25-basis-point hike more or less given.",
+      "source": "Reuters",
+      "source_domain": "reuters.com",
+      "publisher_id": "reuters",
+      "published_at": "2026-11-23T03:10:03Z",
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "rupee",
+        "india",
+        "mcx"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://economictimes.indiatimes.com/markets/forex/rupee-could-rise-to-91-50/-on-equity-inflows-says-hdfc-banks-treasury-head/articleshow/136088042.cms"
+      ],
+      "rank": 12
+    },
+    {
+      "url": "https://www.newindianexpress.com/states/tamil-nadu/2026/Nov/22/silver-price-dip-revives-salems-anklet-industry",
+      "title": "Silver price dip revives Salem's anklet industry",
+      "summary": "Salem's silver anklet makers are seeing orders return as silver eased to about Rs 175 a gram from Rs 195 a week earlier, after the January peak of nearly Rs 425 a gram. Units are now getting about a lakh anklet orders a month, roughly half their normal volume, ahead of Pongal.",
+      "source": "The New Indian Express",
+      "source_domain": "newindianexpress.com",
+      "publisher_id": "new-indian-express",
+      "published_at": "2026-11-22T00:43:00Z",
+      "category": "mcx",
+      "metals": [
+        "silver"
+      ],
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/dcde70fa032b9270.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "silver",
+        "mcx",
+        "india",
+        "jewellery"
+      ],
+      "id": "dcde70fa032b9270",
+      "breaking": false,
+      "rank": 13,
+      "related_urls": []
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/city/pune/as-gold-price-ease-jewellers-scale-back-offers-making-charge-discounts/articleshow/136062385.cms",
+      "title": "As gold price ease, jewellers scale back offers, making-charge discounts",
+      "summary": "Pune jewellers are cutting back the making-charge discounts they offered when gold was soaring, reverting charges to original levels as prices ease to about Rs 1.23 lakh per 10 g. Demand is returning for weddings and gifting, but buyers favour lightweight designs and smaller pieces.",
+      "source": "Times of India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "publisher_id": "times-of-india",
+      "published_at": "2026-11-22T01:31:00Z",
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/65da9f5eeb1fdf23.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "mcx",
+        "india",
+        "jewellery"
+      ],
+      "id": "65da9f5eeb1fdf23",
+      "breaking": false,
+      "rank": 14,
+      "related_urls": []
+    },
+    {
+      "id": "e44064686db20862",
+      "title": "Did PM Modi's appeal really bring down gold prices? Here's what the data shows",
+      "summary": "Mathrubhumi tests the PM's claim that his appeal to avoid non-essential gold purchases lowered prices: 24-carat gold fell about 18% from Rs 15,250 a gram on 9 May to Rs 12,523 on 21 November. The piece concludes the appeal alone cannot explain it — the import duty rose from 6% to 15% in May, imports fell about 40% in April–October, and a stronger dollar and Fed hike expectations also weighed.",
+      "url": "https://english.mathrubhumi.com/news/money/did-pm-modi-gold-buying-appeal-bring-down-gold-prices-market-data-explained-gdfoqmr2",
+      "source": "Mathrubhumi",
+      "source_domain": "english.mathrubhumi.com",
+      "publisher_id": "mathrubhumi",
+      "published_at": "2026-11-22T11:18:00Z",
+      "image_url": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1va9b7ep6vujewz1puh/1/gold-market-png.jpeg?$p=f162f31&f=16%3A9&w=1200&q=1",
+      "image_kind": "photo",
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "mcx",
+        "india"
+      ],
+      "breaking": false,
+      "rank": 15
+    },
+    {
+      "id": "50fed15214fd1415",
+      "title": "PM Modi's appeal to avoid gold purchases reflects in import data, India saves $16.46 billion in 7 months: CAIT",
+      "summary": "India's gold import bill fell nearly 40% to $24.78 billion in April–October 2026 from $41.24 billion a year earlier, saving $16.46 billion, the Confederation of All India Traders says, crediting PM Modi's appeal to avoid non-essential gold purchases. October imports fell 62.6% to $5.51 billion from $14.72 billion a year earlier.",
+      "url": "https://hiindia.com/pm-modis-appeal-to-avoid-gold-purchases-reflects-in-import-data-india-saves-16-46-billion-in-7-months-cait/",
+      "source": "hi INDiA",
+      "source_domain": "hiindia.com",
+      "publisher_id": "hi-india",
+      "published_at": "2026-11-22T07:07:28Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/50fed15214fd1415.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "india",
+        "mcx",
+        "import-duty"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "related_urls": [],
+      "rank": 16
+    },
+    {
+      "id": "af0e0f75dfbf5471",
+      "title": "IBJA Seeks BIS Crackdown on Fake Purity Reports and 4,000 Unregistered Gold Refiners",
+      "summary": "The India Bullion and Jewellers Association has asked the Bureau of Indian Standards to act on alleged collusion between jewellers and hallmarking centres, fake purity reports and rhenium adulteration, and to bring nearly 4,000 unregistered refiners under oversight. BIS has called a meeting on November 23 to examine the complaints.",
+      "url": "https://the420.in/ibja-seeks-bis-crackdown-on-fake-purity-reports-and-4000-unregistered-gold-refiners/",
+      "source": "The420.in",
+      "source_domain": "the420.in",
+      "publisher_id": "the420",
+      "published_at": "2026-11-22T02:59:25Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/af0e0f75dfbf5471.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "india"
+      ],
+      "category": "policy",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 17,
+      "related_urls": [
+        "https://www.thehindubusinessline.com/companies/gjc-alerts-bis-over-suspected-gold-adulteration-urges-jewellers-to-tighten-quality-checks/article71723585.ece"
+      ]
+    }
+  ]
 }
