@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-24T09:00Z",
-  "generated_at": "2026-11-24T09:07:27Z",
+  "edition_id": "2026-11-24T10:00Z",
+  "generated_at": "2026-11-24T10:01:25Z",
   "window": {
-    "from": "2026-11-24T07:00:00Z",
-    "to": "2026-11-24T09:00:00Z"
+    "from": "2026-11-24T09:00:00Z",
+    "to": "2026-11-24T10:00:00Z"
   },
   "insights": {
     "headline": "Gold steadies above $3,600 after Monday's sharp rebound, with MCX shut for the morning on Guru Nanak Jayanti",
@@ -52,12 +52,13 @@
   "trending": [
     {
       "title": "The rebound holds — for now",
-      "summary": "Gold and silver steadied above $3,600 and $43 after Monday's sharp bounce from 14-month lows, with bargain hunting and a steadier dollar doing the work; Natixis warns the recovery may not last.",
+      "summary": "Gold and silver steadied above $3,600 and $43 after Monday's sharp bounce from 14-month lows; Natixis warns the recovery may not last, while Morgan Stanley says gold's long-term drivers remain intact.",
       "item_ids": [
         "3463f821b6d880e8",
         "36dbdfadf23e0660",
         "733a73325a69bffe",
-        "e8fe2a89be139e25"
+        "e8fe2a89be139e25",
+        "642d18b2b9fdbe79"
       ]
     },
     {
@@ -318,6 +319,30 @@
       "related_urls": []
     },
     {
+      "id": "642d18b2b9fdbe79",
+      "rank": 10,
+      "title": "Gold, Copper, Zinc, Aluminium: Morgan Stanley's outlook on key metals",
+      "summary": "Morgan Stanley says gold's long-term drivers remain intact: physical demand is holding up, China's central bank added 26 tonnes in October, and ETF selling has been modest despite falling prices. It says gold could move higher if oil falls further or the market concludes the Fed has finished hiking, though short-term volatility may stay high.",
+      "url": "https://www.business-standard.com/markets/news/gold-copper-zinc-aluminium-morgan-stanley-s-outlook-on-key-metals-126112300235_1.html",
+      "source": "Business Standard",
+      "source_domain": "business-standard.com",
+      "publisher_id": "business-standard",
+      "published_at": "2026-11-23T04:55:40Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/642d18b2b9fdbe79.jpg",
+      "image_kind": "photo",
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "global",
+        "central-banks",
+        "fed"
+      ],
+      "breaking": false
+    },
+    {
       "url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=64030",
       "title": "RBI sets SGB 2021-22 Series I premature redemption price at ₹12,612",
       "summary": "The RBI has fixed the premature redemption price for Sovereign Gold Bond 2021-22 Series I at ₹12,612 per unit for the November 25 redemption, based on the average IBJA 999-purity gold close over November 19, 20 and 23. Holders who applied in the window that closed November 16 can exit at that price, a gain of up to 167% over the ₹4,727 online issue price.",
@@ -338,7 +363,7 @@
       ],
       "breaking": false,
       "id": "4299bb4d6f41a76b",
-      "rank": 10,
+      "rank": 11,
       "related_urls": []
     },
     {
@@ -362,7 +387,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 11,
+      "rank": 12,
       "related_urls": []
     },
     {
@@ -385,7 +410,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 12,
+      "rank": 13,
       "related_urls": []
     },
     {
@@ -413,7 +438,7 @@
       "related_urls": [
         "https://economictimes.indiatimes.com/markets/forex/rupee-could-rise-to-91-50/-on-equity-inflows-says-hdfc-banks-treasury-head/articleshow/136088042.cms"
       ],
-      "rank": 13
+      "rank": 14
     },
     {
       "id": "e44064686db20862",
@@ -436,7 +461,7 @@
         "india"
       ],
       "breaking": false,
-      "rank": 14,
+      "rank": 15,
       "related_urls": []
     },
     {
@@ -460,7 +485,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 15,
+      "rank": 16,
       "related_urls": []
     }
   ]
