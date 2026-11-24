@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-24T11:00Z",
-  "generated_at": "2026-11-24T11:04:54Z",
+  "edition_id": "2026-11-24T12:00Z",
+  "generated_at": "2026-11-24T12:01:23Z",
   "window": {
-    "from": "2026-11-24T10:00:00Z",
-    "to": "2026-11-24T11:00:00Z"
+    "from": "2026-11-24T11:00:00Z",
+    "to": "2026-11-24T12:00:00Z"
   },
   "insights": {
     "headline": "Gold slips to $3,612 after Monday's rebound as the dollar nears a 20-month high; MCX reopens this evening",
@@ -82,7 +82,6 @@
       "summary": "Silver held near $42 after last week's slide, still far below the $50 level it lost — and in India it is down about ₹1 lakh per kg in three months from its August high near ₹2.5 lakh.",
       "item_ids": [
         "ebd03080389711b4",
-        "c5cae1b8d47d9a7a",
         "33c4ab33de24304f",
         "957030eecb3d5a36"
       ]
@@ -441,29 +440,6 @@
       "related_urls": []
     },
     {
-      "id": "c5cae1b8d47d9a7a",
-      "title": "Silver Price Drops Below US$50 — What Matters Now for Miners and Explorers?",
-      "summary": "Silver has fallen below $50 an ounce and now trades around the $43 level after crashing from a record above $120 in January, the Investing News Network reports. Silver company executives are split on what comes next, with some concerned about further declines and others seeing a buying opportunity after the sharp correction.",
-      "url": "https://investingnews.com/gold-advisor-network-silver-price/",
-      "source": "Investing News Network",
-      "source_domain": "investingnews.com",
-      "publisher_id": "investing-news-network",
-      "published_at": "2026-11-23T20:55:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/c5cae1b8d47d9a7a.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "silver",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 15,
-      "related_urls": []
-    },
-    {
       "id": "c8053d48999e8674",
       "url": "https://www.reuters.com/world/india/indian-rupee-could-rise-9150-equity-inflows-hdfc-banks-treasury-head-says-2026-11-23/",
       "title": "Indian rupee could rise to 91.50/$ on equity inflows, HDFC Bank's treasury head says",
@@ -488,31 +464,7 @@
       "related_urls": [
         "https://economictimes.indiatimes.com/markets/forex/rupee-could-rise-to-91-50/-on-equity-inflows-says-hdfc-banks-treasury-head/articleshow/136088042.cms"
       ],
-      "rank": 16
-    },
-    {
-      "id": "e44064686db20862",
-      "title": "Did PM Modi's appeal really bring down gold prices? Here's what the data shows",
-      "summary": "Mathrubhumi tests the PM's claim that his appeal to avoid non-essential gold purchases lowered prices: 24-carat gold fell about 18% from Rs 15,250 a gram on 9 May to Rs 12,523 on 21 November. The piece concludes the appeal alone cannot explain it — the import duty rose from 6% to 15% in May, imports fell about 40% in April–October, and a stronger dollar and Fed hike expectations also weighed.",
-      "url": "https://english.mathrubhumi.com/news/money/did-pm-modi-gold-buying-appeal-bring-down-gold-prices-market-data-explained-gdfoqmr2",
-      "source": "Mathrubhumi",
-      "source_domain": "english.mathrubhumi.com",
-      "publisher_id": "mathrubhumi",
-      "published_at": "2026-11-22T11:18:00Z",
-      "image_url": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1va9b7ep6vujewz1puh/1/gold-market-png.jpeg?$p=f162f31&f=16%3A9&w=1200&q=1",
-      "image_kind": "photo",
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "mcx",
-        "india"
-      ],
-      "breaking": false,
-      "rank": 17,
-      "related_urls": []
+      "rank": 15
     },
     {
       "id": "ec9d044cfa2bb293",
@@ -535,7 +487,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 18,
+      "rank": 16,
       "related_urls": []
     }
   ]
