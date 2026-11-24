@@ -1,92 +1,86 @@
 {
  "schema": "orob-news.v1",
- "edition_id": "2026-11-24T18:00Z",
- "generated_at": "2026-11-24T18:15:47Z",
+ "edition_id": "2026-11-24T20:00Z",
+ "generated_at": "2026-11-24T20:08:23Z",
  "window": {
-  "from": "2026-11-24T16:00:00Z",
-  "to": "2026-11-24T18:00:00Z"
+  "from": "2026-11-24T18:00:00Z",
+  "to": "2026-11-24T20:00:00Z"
  },
  "insights": {
-  "headline": "MCX gold slides to Rs 1,22,505 as silver crashes 6% on Fed hike bets",
-  "summary": "Spot gold fell back to about $3,560 an ounce and silver to $40.76, a fresh 14-month low, as Monday's rebound unravelled on near-certain December Fed hike bets and a firm dollar. On MCX, December gold slid as much as Rs 3,671 to Rs 1,22,325 and silver as much as 6% to Rs 1,44,964 in the evening session. Traders now watch Wednesday's US core PCE at 19:00 IST, the next test before the Fed's 9 December decision.",
+  "headline": "Gold slips below $3,600 as silver tests $40 on tariff fears",
+  "summary": "Spot gold fell to about $3,565 an ounce and silver to $40.77, a fresh 14-month low, as reported US tariff-hike plans and a fresh AI-stock slide spurred liquidity selling. On MCX, December gold ended the evening session down 2.8% at Rs 1,22,505 and silver down 5.7% at Rs 1,45,406. Traders now watch Wednesday's US core PCE at 19:00 IST, the next test before the Fed's 9 December decision.",
   "points": [
-   "MCX December gold fell as much as Rs 3,671 to Rs 1,22,325, ending the evening session down 2.8% at Rs 1,22,505.",
-   "MCX December silver slid as much as 6% to Rs 1,44,964, ending the session down 5.7% at Rs 1,45,406.",
-   "Spot gold fell to $3,560, giving back $125 of Monday's $150 rebound; silver hit $40.76, a 14-month low.",
+   "Spot gold fell below $3,600 toward $3,550 as reported US tariff-hike plans and an AI-stock slide spurred liquidity selling, FXEmpire reports.",
+   "Silver tested $40.50–$41.00 support as the gold/silver ratio neared 87; spot silver stood at $40.77, a fresh 14-month low.",
+   "MCX December gold ended the evening session down 2.8% at Rs 1,22,505; silver ended down 5.7% at Rs 1,45,406.",
    "December Fed hike odds near 97% for a quarter point; US core PCE due Wednesday at 19:00 IST.",
-   "Silver is down 39% in 13 weeks, its steepest fall since the Lehman crash of 2008, BullionVault reports."
+   "Silver mine output stays flat in 2026 despite a sixth straight annual deficit of 35 million oz, the Silver Institute and Metals Focus estimate."
   ],
-  "brief": {
-   "schema": "orob-brief.v1",
-   "brief_id": "2026-11-24-1856",
-   "date": "2026-11-24",
-   "generated_at": "2026-11-24T13:26:00Z",
-   "slot": "evening",
-   "expires_at": "2026-11-24T18:29:00Z",
-   "headline": "Bullion slips in evening trade as dollar stays firm",
-   "summary": "MCX gold eased to Rs 1,25,112 per 10 g and silver to Rs 1,50,591 per kg as the dollar firmed; core PCE due Wednesday.",
-   "bullets": [
-    {
-     "text": "Profit-booking after Monday's rebound and a firm dollar near a 20-month high weighed on bullion, Moneycontrol and Reuters report.",
-     "item_ids": [
-      "f80de5cac2a88204",
-      "36dbdfadf23e0660"
-     ]
-    },
-    {
-     "text": "MCX traded only the evening session for Guru Nanak Jayanti; the rupee could firm to 91.50 per dollar on equity inflows, Reuters reports.",
-     "item_ids": [
-      "b46f81ebd117209a",
-      "c8053d48999e8674"
-     ]
-    },
-    {
-     "text": "Watch Wednesday: US core PCE at 19:00 IST, the next test for the rebound ahead of the Fed's 9 December decision.",
-     "item_ids": [
-      "917f9ff74da6248f"
-     ]
-    }
-   ]
-  }
+  "brief": null
  },
  "trending": [
   {
-   "title": "Monday's rebound unravels in the evening session",
-   "summary": "Gold and silver gave back most of Monday's sharp rebound within a day, with MCX gold sliding to Rs 1,22,505 and silver crashing 6% as the evening session turned lower.",
+   "title": "US session slide extends the rout",
+   "summary": "Gold slipped below $3,600 and silver tested $40.50–$41.00 in US trading as reported tariff-hike plans and a fresh AI-stock slide spurred liquidity selling, giving back more of Monday's rebound.",
    "item_ids": [
-    "931e2fc135f5f3da",
+    "86a124e1f0afdf99",
     "9098e1afb9b707cb",
     "c1ffb21cbf95a291"
    ]
   },
   {
-   "title": "Fed hike bets keep tightening their grip",
-   "summary": "Traders now put a 97% chance on a December rate rise, with further hikes priced into early 2027; Wednesday's core PCE is the next test.",
+   "title": "MCX evening session ends sharply lower",
+   "summary": "December gold ended the evening session down 2.8% at Rs 1,22,505 and silver down 5.7% at Rs 1,45,406, with the slide linked to growing Fed hike bets and a firm dollar.",
    "item_ids": [
-    "9098e1afb9b707cb",
+    "931e2fc135f5f3da",
     "f80de5cac2a88204",
-    "d2a129620dbe8bc2"
+    "957030eecb3d5a36"
    ]
   },
   {
    "title": "Silver falls harder than gold, again",
-   "summary": "Silver is down 39% in 13 weeks, its steepest fall since the Lehman crash, and MCX silver's 6% slide outpaced gold's 2.9% drop in the evening session.",
+   "summary": "Silver is down 39% in 13 weeks, its steepest fall since the Lehman crash, and its 6% MCX slide outpaced gold's 2.9% drop in the evening session, with the gold/silver ratio nearing 87.",
    "item_ids": [
     "9098e1afb9b707cb",
     "957030eecb3d5a36",
-    "917f9ff74da6248f"
+    "86a124e1f0afdf99"
    ]
   },
   {
-   "title": "Banks trim gold targets as the slide deepens",
-   "summary": "JPMorgan's strategists cut their 2026 year-end gold target to $4,500, while Jamie Dimon said gold could reach $5,000 or $10,000 in extreme conditions.",
+   "title": "Silver's supply gap won't close soon",
+   "summary": "Mine output stays flat in 2026 despite a sixth straight annual deficit, as most silver comes as a byproduct of other metals' mines; weaker solar demand could even tip the market into surplus in 2027.",
    "item_ids": [
-    "c2dca4e189735b35",
-    "0a90ccfde9ae65ef"
+    "782a9d4ff1a447a0",
+    "0e14cad7e9a93570"
    ]
   }
  ],
  "items": [
+  {
+   "id": "86a124e1f0afdf99",
+   "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats Below $3600",
+   "summary": "Gold slipped below $3,600 as traders reacted to US plans to raise tariffs on goods from more than a dozen countries and a fresh slide in AI shares. FXEmpire notes gold failed to hold $3,630–$3,650 and drifted toward $3,550. Silver tested $40.50–$41.00 as the gold/silver ratio neared 87, while platinum fell toward $1,250; lower yields and a softer dollar failed to lift gold amid liquidity selling.",
+   "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-retreats-below-3600-1646965",
+   "source": "FXEmpire",
+   "source_domain": "fxempire.com",
+   "publisher_id": "fxempire",
+   "published_at": "2026-11-24T19:07:27Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "gold",
+    "silver",
+    "global",
+    "fed"
+   ],
+   "category": "global",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "rank": 1
+  },
   {
    "id": "931e2fc135f5f3da",
    "title": "Gold & Silver Rates: MCX gold slumps by Rs 3,671, silver crashes 6% amid growing Fed hike bets",
@@ -111,7 +105,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 1
+   "rank": 2
   },
   {
    "id": "9098e1afb9b707cb",
@@ -138,7 +132,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 2
+   "rank": 3
   },
   {
    "id": "c1ffb21cbf95a291",
@@ -162,7 +156,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 3
+   "rank": 4
   },
   {
    "id": "f80de5cac2a88204",
@@ -187,7 +181,7 @@
    ],
    "breaking": false,
    "paywall": "no-verdict",
-   "rank": 4
+   "rank": 5
   },
   {
    "id": "957030eecb3d5a36",
@@ -210,7 +204,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 5
+   "rank": 6
   },
   {
    "id": "36dbdfadf23e0660",
@@ -235,33 +229,30 @@
     "fed"
    ],
    "breaking": false,
-   "rank": 6,
+   "rank": 7,
    "related_urls": []
   },
   {
-   "id": "917f9ff74da6248f",
-   "title": "Silver Price Forecast: Strong Dollar Puts $40 Support at Risk",
-   "summary": "Silver slipped 2.09% to $42.27 an ounce on Tuesday as Monday's rebound lost momentum and the dollar index tested resistance at 104.50. Markets price a 93.5% chance of a 25-basis-point Federal Reserve rate hike in December, FXEmpire reports, ahead of October PCE inflation due Wednesday. The article puts key support at $39–$40, warning a break below it could open a drop toward $35–$37.",
-   "url": "https://www.fxempire.com/forecasts/article/silver-price-forecast-strong-dollar-puts-40-support-at-risk-1646818",
-   "source": "FXEmpire",
-   "source_domain": "fxempire.com",
-   "publisher_id": "fxempire",
-   "published_at": "2026-11-24T09:50:19Z",
-   "image_url": null,
-   "image_kind": "none",
+   "id": "782a9d4ff1a447a0",
+   "title": "Silver miners struggle to close persistent supply gap",
+   "summary": "Silver mine output is set to stay flat in 2026 despite a sixth straight annual deficit, with demand forecast to exceed supply by 35 million oz, Metals Focus estimates. Primary mines supply just 26.1% of output, the rest a byproduct of other metals mines, so higher prices alone are not lifting production. Weaker solar demand could tip the market into surplus in 2027, Deutsche Bank notes.",
+   "url": "https://www.mining.com/silver-miners-struggle-to-close-persistent-supply-gap/",
+   "source": "MINING.COM",
+   "source_domain": "mining.com",
+   "publisher_id": "mining-com",
+   "published_at": "2026-11-24T18:28:14Z",
+   "image_url": "https://www.mining.com/wp-content/uploads/2026/11/penasquito-open-pit.jpg",
+   "image_kind": "photo",
    "tags": [
     "silver",
-    "global",
-    "comex",
-    "fed"
+    "global"
    ],
    "category": "global",
    "metals": [
     "silver"
    ],
    "breaking": false,
-   "paywall": "no-verdict",
-   "rank": 7
+   "rank": 8
   },
   {
    "id": "d2a129620dbe8bc2",
@@ -287,7 +278,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 8
+   "rank": 9
   },
   {
    "id": "0a90ccfde9ae65ef",
@@ -311,32 +302,7 @@
    ],
    "breaking": false,
    "paywall": "free",
-   "rank": 9
-  },
-  {
-   "id": "3463f821b6d880e8",
-   "title": "Gold, silver prices see sharp rebounds as AI shares rally, renewed Fed uncertainty",
-   "summary": "Spot gold traded near $3,635.10 an ounce late Monday, up 2.75%, and silver around $43.02, up about 4.6%, as bargain hunting and improving risk sentiment lifted metals after last week's selloff, Kitco reports. Nvidia's board reinstated Jensen Huang as chief executive, steadying equities, though Fed tightening concerns, high Treasury yields and geopolitical uncertainty still challenge the recovery.",
-   "url": "https://www.kitco.com/news/article/2026-11-23/gold-silver-prices-see-sharp-rebounds-ai-shares-rally-renewed-fed",
-   "source": "Kitco",
-   "source_domain": "kitco.com",
-   "publisher_id": "kitco",
-   "published_at": "2026-11-23T23:04:45Z",
-   "image_url": "https://images.kitco.com/img/extract_0_0_1023_576,width_1200,enlarge,format_jpeg/icms/5768df25-c265-4c2d-a489-e51917a45667.jpeg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "silver",
-    "global"
-   ],
-   "category": "global",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "breaking": false,
-   "rank": 10,
-   "related_urls": []
+   "rank": 10
   },
   {
    "id": "e8fe2a89be139e25",
@@ -416,8 +382,30 @@
    "related_urls": []
   },
   {
+   "id": "0e14cad7e9a93570",
+   "title": "Silver and Copper Retest Lows as Oil Nears Its Turn",
+   "summary": "Silver and copper retested recent lows as the broad metals sell-off extended into the US session, while oil approached a turning point, Investing.com's analysis notes. The piece comes as spot silver tests the $40.50–$41.00 support zone and copper extends its slide alongside precious metals.",
+   "url": "https://www.investing.com/analysis/silver-and-copper-retest-lows-as-oil-nears-its-turn-200692243",
+   "source": "Investing.com",
+   "source_domain": "investing.com",
+   "publisher_id": "investing",
+   "published_at": "2026-11-24T18:30:00Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "silver",
+    "global"
+   ],
+   "category": "global",
+   "metals": [
+    "silver"
+   ],
+   "breaking": false,
+   "rank": 14
+  },
+  {
    "id": "33c4ab33de24304f",
-   "rank": 14,
+   "rank": 15,
    "title": "Silver Recovery Watch: Identifying the Next Major Market Turning Point",
    "summary": "Silver futures steadied near $42.56 after correcting from a recent high near $47.92 to a low of $40.62, the analysis says, with $42.90 the immediate level to reclaim and $43.57 the weekly benchmark for buyers to regain control; holding above $41.68 keeps the recovery intact, while a break below the $40.62 low would point to more weakness.",
    "url": "https://www.investing.com/analysis/silver-recovery-watch-identifying-the-next-major-market-turning-point-200692186",
@@ -436,30 +424,6 @@
     "silver"
    ],
    "breaking": false
-  },
-  {
-   "id": "c2dca4e189735b35",
-   "title": "Jamie Dimon floated $10,000 gold — now JPMorgan's strategists slash their 2026 target to $4,500 as Fed hikes loom",
-   "summary": "JPMorgan CEO Jamie Dimon said gold 'could easily go to 5,000 or 10,000', while the bank's strategists cut their 2026 year-end gold target to $4,500 from $6,000 in July, citing Fed hike fears. The article notes gold peaked at $5,595.46 in January and traded near $3,667 at publication.",
-   "url": "https://finance.yahoo.com/markets/commodities/articles/jamie-dimon-floated-10-000-161500273.html",
-   "source": "Yahoo Finance",
-   "source_domain": "finance.yahoo.com",
-   "publisher_id": "yahoo-finance",
-   "published_at": "2026-11-24T16:15:00Z",
-   "image_url": null,
-   "image_kind": "none",
-   "tags": [
-    "gold",
-    "fed",
-    "global",
-    "central-banks"
-   ],
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "rank": 15
   },
   {
    "id": "880327db269f8ff9",
