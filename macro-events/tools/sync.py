@@ -150,8 +150,12 @@ VERIFIED_SCHEDULE = [
     # PCE: BEA Personal Income and Outlays, 8:30 am ET, bea.gov/news/schedule.
     # Past releases seeded as released records; listed here per the existing
     # pattern (build_file skips table entries already released).
-    ("us_core_pce", 2026, 8, 26, 8, 30, "-04:00",
-     "https://www.bea.gov/news/schedule"),
+    # NOTE 2026-11-24: the 2026-08-26 PCE entry was removed once its released
+    # record aged past the 90-day retention — build_file step 2 re-adds table
+    # entries with no past cutoff, so an aged-out entry comes back as a
+    # phantom scheduled record with no result. Prune entries as they age out
+    # (next: ism_mfg 2026-09-01 ~Nov 30, ism_services 2026-09-03 ~Dec 2)
+    # until step 2 gains a past cutoff.
     ("us_core_pce", 2026, 9, 30, 8, 30, "-04:00",
      "https://www.bea.gov/news/schedule"),
     ("us_core_pce", 2026, 10, 29, 8, 30, "-04:00",
