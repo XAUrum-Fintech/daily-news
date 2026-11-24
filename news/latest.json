@@ -1,20 +1,20 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-24T14:00Z",
-  "generated_at": "2026-11-24T14:05:52Z",
+  "edition_id": "2026-11-24T16:00Z",
+  "generated_at": "2026-11-24T16:11:45Z",
   "window": {
-    "from": "2026-11-24T12:00:00Z",
-    "to": "2026-11-24T14:00:00Z"
+    "from": "2026-11-24T14:00:00Z",
+    "to": "2026-11-24T16:00:00Z"
   },
   "insights": {
-    "headline": "Gold and silver slip in MCX evening trade as a firm dollar and profit-booking stall Monday's rebound",
-    "summary": "MCX gold opened 0.7% lower at Rs 1,25,112 per 10 g in the evening session and silver fell 2.35% to Rs 1,50,591 per kg, giving back part of Monday's sharp rebound after a holiday-shut morning session. Spot gold held just above $3,630 an ounce and silver near $42.27 as the dollar index tested 104.50 and markets priced a 93.5% chance of a Federal Reserve rate hike in December. Traders now await October US PCE inflation due Wednesday, the next test for the rebound ahead of the Fed's 9 December decision.",
+    "headline": "Gold's rebound stalls near $3,600 as silver slides on Fed hike bets",
+    "summary": "Spot gold slipped to about $3,621.70 an ounce in early US trading on Tuesday, down 0.34%, after touching $3,679 overnight, as a firm dollar and near-certain December Fed hike bets stalled Monday's 2.75% rebound from a 14-month low, Kitco reports. Silver fell harder, down 2.33% to $42.04, giving back part of Monday's 4.6% jump. MCX December gold opened 0.7% lower at Rs 1,25,112 per 10 g in the evening session and silver fell 2.35% to Rs 1,50,591 per kg. Traders now watch Wednesday's US core PCE at 19:00 IST.",
     "points": [
-      "MCX gold opened 0.7% lower at Rs 1,25,112 per 10 g in the evening session; silver fell 2.35% to Rs 1,50,591 per kg.",
-      "Spot gold held just above $3,630 an ounce while silver slipped to about $42.27 as the dollar index tested 104.50.",
-      "Gold rose 2.7% on Monday after a near-9% weekly drop, helped by bargain buying and a rally in global equities.",
-      "Natixis warns gold could fall to $3,340 by January as higher rates, a stronger dollar and slowing central-bank buying weigh.",
-      "Central banks bought 321 tonnes of gold in Q3 2026, the World Gold Council says, and global ETF holdings hit a record 4,275 tonnes."
+      "Spot gold near $3,621.70 in early US trading, down 0.34%, after an overnight high of $3,679.",
+      "Silver down 2.33% to $42.04, giving back part of Monday's 4.6% rebound to $43.02.",
+      "MCX gold opened 0.7% lower at Rs 1,25,112 per 10 g; silver fell 2.35% to Rs 1,50,591 per kg.",
+      "December Fed hike odds near 95% for a quarter point, with core PCE due Wednesday at 19:00 IST.",
+      "Silver's next support is $41.89, then $40.77; gold's is $3,595, then $3,503."
     ],
     "brief": {
       "schema": "orob-brief.v1",
@@ -54,18 +54,19 @@
       "title": "Rebound stalls in evening trade",
       "summary": "Monday's sharp bounce faded on Tuesday as profit-booking and a firm dollar pushed MCX gold and silver lower in the evening session, with traders waiting on US PCE inflation due Wednesday.",
       "item_ids": [
+        "c1ffb21cbf95a291",
         "f80de5cac2a88204",
-        "917f9ff74da6248f",
         "0a90ccfde9ae65ef"
       ]
     },
     {
       "title": "Silver under heavier pressure",
-      "summary": "Silver fell further than gold on Tuesday and is testing support near $40 after losing about 15% last week; MCX silver is down about Rs 1 lakh per kg in three months.",
+      "summary": "Silver fell further than gold on Tuesday, down 2.33% to $42.04, and is slipping towards $41.89 support after a roughly 16% slide last week; MCX silver is down about Rs 1 lakh per kg in three months.",
       "item_ids": [
         "917f9ff74da6248f",
         "957030eecb3d5a36",
-        "33c4ab33de24304f"
+        "13f55c191adfda9f",
+        "eed2d50bd72d1f54"
       ]
     },
     {
@@ -78,15 +79,39 @@
     },
     {
       "title": "Fed path decides the next move",
-      "summary": "Markets price a 93.5% chance of a December rate hike, so Wednesday's US core PCE and the Fed's 9 December decision are the next tests for the rebound.",
+      "summary": "Markets price a December rate hike as near-certain, so Wednesday's US core PCE at 19:00 IST and the Fed's 9 December decision are the next tests for the rebound.",
       "item_ids": [
         "917f9ff74da6248f",
         "36dbdfadf23e0660",
-        "733a73325a69bffe"
+        "13f55c191adfda9f"
       ]
     }
   ],
   "items": [
+    {
+      "id": "c1ffb21cbf95a291",
+      "title": "Gold struggles to extend rebound as Fed rate hike bets pressure silver",
+      "summary": "Spot gold was modestly lower and silver sharply lower in early US trading on Tuesday, as a firm dollar and expectations of more Federal Reserve rate hikes pressured metals ahead of key inflation data, Kitco reports. At about 8:37 a.m. EST, gold traded near $3,621.70, down 0.34%, while silver traded near $42.04, down 2.33%; support sits at $3,595 for gold and $41.89 for silver.",
+      "url": "https://www.kitco.com/news/article/2026-11-24/gold-struggles-extend-rebound-fed-rate-hike-bets-pressure-silver-kitco-am",
+      "source": "Kitco",
+      "source_domain": "kitco.com",
+      "publisher_id": "kitco",
+      "published_at": "2026-11-24T13:45:25Z",
+      "image_url": "https://images.kitco.com/img/extract_0_0_1023_576,width_1200,enlarge,format_jpeg/icms/8329ee1b-e903-4905-90ce-ccd6fe5d1c38.jpeg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 1
+    },
     {
       "id": "f80de5cac2a88204",
       "title": "Bullion tumbles again: Gold slips 0.7%, silver nearly 3% down; Three US triggers to watch",
@@ -110,7 +135,31 @@
       ],
       "breaking": false,
       "paywall": "no-verdict",
-      "rank": 1
+      "rank": 2
+    },
+    {
+      "id": "13f55c191adfda9f",
+      "title": "Gold (XAUUSD) & Silver Price Forecast: Gold Extends Rebound as Bargain Hunters Return, Can $3,595 Hold?",
+      "summary": "Gold edged higher early on Tuesday, extending its rebound from a 14-month low on bargain hunting, FXEmpire reports, citing Reuters: spot gold traded near $3,645.29 at 0023 GMT while silver rose 1.2% to $43.55. Fed official John Williams said high inflation points towards tighter policy, with a 95% chance of a quarter-point December hike; gold holds above $3,595, silver towards $41.89.",
+      "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-gold-extends-rebound-as-bargain-hunters-return-can-3595-hold-1646771",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "published_at": "2026-11-24T06:25:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "silver",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 3
     },
     {
       "id": "d2a129620dbe8bc2",
@@ -136,7 +185,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 2
+      "rank": 4
     },
     {
       "id": "917f9ff74da6248f",
@@ -161,7 +210,7 @@
       ],
       "breaking": false,
       "paywall": "no-verdict",
-      "rank": 3
+      "rank": 5
     },
     {
       "id": "0a90ccfde9ae65ef",
@@ -185,7 +234,7 @@
       ],
       "breaking": false,
       "paywall": "free",
-      "rank": 4
+      "rank": 6
     },
     {
       "id": "3463f821b6d880e8",
@@ -209,7 +258,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 5,
+      "rank": 7,
       "related_urls": []
     },
     {
@@ -233,7 +282,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 8
     },
     {
       "id": "36dbdfadf23e0660",
@@ -258,38 +307,12 @@
         "fed"
       ],
       "breaking": false,
-      "rank": 7,
+      "rank": 9,
       "related_urls": []
     },
     {
-      "id": "5609a1b16b8d72ee",
-      "title": "Gold, Silver Price Outlook 2027: Is A Big Recovery Coming?",
-      "summary": "Gold is down about 35% from its 12-month peak and silver 60–65% from its high, ETV Bharat reports, with MCX gold about 30% below its January peak of Rs 1,80,779 per 10 g. Ajay Kedia of Kedia Advisory expects gold could reach $5,000 an ounce within a year. The article cites higher US Treasury yields and a stronger dollar, and notes central banks bought 321 tonnes of gold in Q3 2026.",
-      "url": "https://www.etvbharat.com/en/business/gold-silver-price-outlook-2027-is-a-big-recovery-coming-enn26112403075",
-      "source": "ETV Bharat",
-      "source_domain": "etvbharat.com",
-      "publisher_id": "etv-bharat",
-      "published_at": "2026-11-24T08:38:03Z",
-      "image_url": "https://imgs.etvbharat.com/etvbharat/prod-images/24-11-2026/1200-675-28183134-thumbnail-16x9-goldpriceoutlook-aspera.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "global",
-        "central-banks"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "paywall": "no-verdict",
-      "rank": 8
-    },
-    {
       "id": "e8fe2a89be139e25",
-      "rank": 9,
+      "rank": 10,
       "title": "Gold Climbs To Rs 1.28 Lakh Per 10 Grams, Silver Recovers",
       "summary": "Retail gold climbed to nearly Rs 1.28 lakh per 10 g on Tuesday — 24-carat gold around Rs 1,27,800, up Rs 1,240 — snapping a 10-session losing streak in the national capital, while retail silver hovered near Rs 1.55 lakh per kg. MCX December gold futures settled 3.8% higher at Rs 1,28,912 per 10 g on Monday, and spot gold stood near $3,645 an ounce.",
       "url": "https://www.deccanchronicle.com/business/economics/gold-climbs-to-rs-128-lakh-per-10-grams-silver-recovers-2007469",
@@ -336,7 +359,7 @@
       ],
       "title": "Gold and silver rebound over 2% after steep weekly losses: Can the recovery sustain?",
       "url": "https://www.moneycontrol.com/news/business/personal-finance/gold-and-silver-rebound-over-2-after-steep-weekly-losses-can-the-recovery-sustain-14086886.html",
-      "rank": 10
+      "rank": 11
     },
     {
       "breaking": false,
@@ -361,7 +384,7 @@
       ],
       "title": "Gold futures rise to Rs 1.24 lakh per 10 grams, silver crosses Rs 1.51 lakh per kg",
       "url": "https://www.mid-day.com/business/business-news/article/gold-prices-jump-rs-2899-to-rs-124-lakh-per-10-grams-silver-rises-to-rs-1-51-lakh-23661020",
-      "rank": 11,
+      "rank": 12,
       "related_urls": []
     },
     {
@@ -390,11 +413,11 @@
       "related_urls": [
         "https://www.analyticsinsight.net/business/gold/mcx-to-remain-closed-on-account-of-guru-nanak-jayanti-spot-gold-at-usd-3643"
       ],
-      "rank": 12
+      "rank": 13
     },
     {
       "id": "33c4ab33de24304f",
-      "rank": 13,
+      "rank": 14,
       "title": "Silver Recovery Watch: Identifying the Next Major Market Turning Point",
       "summary": "Silver futures steadied near $42.56 after correcting from a recent high near $47.92 to a low of $40.62, the analysis says, with $42.90 the immediate level to reclaim and $43.57 the weekly benchmark for buyers to regain control; holding above $41.68 keeps the recovery intact, while a break below the $40.62 low would point to more weakness.",
       "url": "https://www.investing.com/analysis/silver-recovery-watch-identifying-the-next-major-market-turning-point-200692186",
@@ -411,54 +434,6 @@
       "category": "global",
       "metals": [
         "silver"
-      ],
-      "breaking": false
-    },
-    {
-      "url": "https://www.kitco.com/news/article/2026-11-23/golds-recovery-may-be-short-lived-natixis-warns-drop-3340",
-      "title": "Gold's recovery may be short-lived as Natixis warns of drop to $3,340",
-      "summary": "Natixis precious metals analyst Bernard Dahdah warns gold's rebound above $3,600 may not hold, seeing a drop to $3,340 an ounce by January as higher rates, a stronger dollar and weaker investment demand weigh on the metal, Kitco reports. Natixis also sees signs that central-bank gold buying, a key support in recent years, is starting to slow.",
-      "source": "Kitco",
-      "source_domain": "kitco.com",
-      "publisher_id": "kitco",
-      "published_at": "2026-11-23T17:49:44Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/733a73325a69bffe.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "global",
-        "fed"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "id": "733a73325a69bffe",
-      "rank": 14,
-      "related_urls": []
-    },
-    {
-      "id": "642d18b2b9fdbe79",
-      "rank": 15,
-      "title": "Gold, Copper, Zinc, Aluminium: Morgan Stanley's outlook on key metals",
-      "summary": "Morgan Stanley says gold's long-term drivers remain intact: physical demand is holding up, China's central bank added 26 tonnes in October, and ETF selling has been modest despite falling prices. It says gold could move higher if oil falls further or the market concludes the Fed has finished hiking, though short-term volatility may stay high.",
-      "url": "https://www.business-standard.com/markets/news/gold-copper-zinc-aluminium-morgan-stanley-s-outlook-on-key-metals-126112300235_1.html",
-      "source": "Business Standard",
-      "source_domain": "business-standard.com",
-      "publisher_id": "business-standard",
-      "published_at": "2026-11-23T04:55:40Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/642d18b2b9fdbe79.jpg",
-      "image_kind": "photo",
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "global",
-        "central-banks",
-        "fed"
       ],
       "breaking": false
     },
@@ -483,7 +458,7 @@
       ],
       "breaking": false,
       "id": "4299bb4d6f41a76b",
-      "rank": 16,
+      "rank": 15,
       "related_urls": []
     },
     {
@@ -511,7 +486,7 @@
       "related_urls": [
         "https://economictimes.indiatimes.com/markets/forex/rupee-could-rise-to-91-50/-on-equity-inflows-says-hdfc-banks-treasury-head/articleshow/136088042.cms"
       ],
-      "rank": 17
+      "rank": 16
     },
     {
       "id": "ec9d044cfa2bb293",
@@ -534,7 +509,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 18,
+      "rank": 17,
       "related_urls": []
     }
   ]
