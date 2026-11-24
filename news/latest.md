@@ -1,4 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-11-24T05:00Z
+# Gold & Silver for Indian buyers · 2026-11-24T06:00Z
 
 > Gold steadies near $3,645 after Monday's sharp rebound as bargain hunters return
 
@@ -20,9 +20,9 @@ Spot gold rose to $3,645 after Monday's 3% rebound, MCX gold near Rs 1.24 lakh p
 - Watch Wednesday: US core PCE at 19:00 IST, the next test for the rebound ahead of the Fed's 9 December decision.
 
 ## Trending
-- **Rebound holds into Tuesday as bargain hunters return**: Spot gold edged up to $3,645 in Asian trade after Monday's climb of more than 3% from a 14-month low, with traders watching whether the recovery survives Wednesday's US inflation data. (stories 2, 1, 3, 11)
+- **Rebound holds into Tuesday as bargain hunters return**: Spot gold edged up to $3,645 in Asian trade after Monday's climb of more than 3% from a 14-month low, with traders watching whether the recovery survives Wednesday's US inflation data. (stories 2, 1, 3)
 - **Silver's slide still runs deeper than gold's**: Silver holds near $43.20 after crashing to a 14-month low of $40.78 last week; FXStreet notes the bounce looks technical, with a December Fed hike now fully priced. (stories 9, 7)
-- **Trade bodies credit Modi appeal for import slide**: Trade bodies say PM Modi's appeal to limit non-essential gold buying cut imports sharply, saving $16.46 billion over seven months; the data behind the claim is debated. (stories 14, 13)
+- **Trade bodies credit Modi appeal for import slide**: Trade bodies say PM Modi's appeal to limit non-essential gold buying cut imports sharply, saving $16.46 billion over seven months; the data behind the claim is debated. (stories 12, 11)
 - **Next test: US core PCE on Wednesday**: Traders look to Wednesday's US core PCE print at 19:00 IST for the next cue on Fed rates, ahead of the Fed's decision due 9 December. (stories 2)
 - **Cheaper silver revives Salem's anklet workshops**: Salem's silver anklet makers say orders have recovered to nearly half of normal levels as silver fell to about Rs 175 a gram, with workshops running nearly six days a week ahead of Pongal. (stories 8)
 
@@ -45,13 +45,9 @@ Spot gold rose to $3,645 after Monday's 3% rebound, MCX gold near Rs 1.24 lakh p
    Salem's silver anklet makers say orders have recovered to nearly half of normal levels after more than a year of sluggish business, as silver fell to about Rs 175 a gram in the city from Rs 195 a week ago, the article reports. Workshops that ran about two days a week now work nearly six days a week ahead of Pongal.
 9. [Silver Price Drops Below US$50 — What Matters Now for Miners and Explorers?](https://investingnews.com/gold-advisor-network-silver-price/) — *Investing News Network*, 2026-11-23T20:55:00Z
    Silver has fallen below $50 an ounce and now trades around the $43 level after crashing from a record above $120 in January, the Investing News Network reports. Silver company executives are split on what comes next, with some concerned about further declines and others seeing a buying opportunity after the sharp correction.
-10. [Stock market holiday tomorrow Tuesday, 24 Nov: BSE, NSE open or closed for Guru Nanak Jayanti? Check exchange calendar](https://www.livemint.com/market/stock-market-news/stock-market-holiday-tomorrow-tuesday-24-nov-bse-nse-open-or-closed-for-guru-nanak-jayanti-check-exchange-calendar-11795433400141.html) — *Mint*, 2026-11-23T12:04:04Z
-   Indian stock markets stay shut on Tuesday, 24 November for Guru Nanak Jayanti. MCX closes its morning session but reopens for the evening session from 5 pm, when gold and silver futures can trade; 24 November is also a settlement holiday.
-11. [Gold (XAU/USD) Price Forecast: Bullish Reversal Targets $3,900 Resistance](https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-bullish-reversal-targets-3900-resistance-1646727) — *FXEmpire*, 2026-11-23T21:51:27Z
-   Gold bounced from the $3,500-$3,526 support zone on Monday, triggering a one-day bullish reversal, FXEmpire reports. The first recovery target is $3,852-$3,901, the prior trend low tested for three weeks and the 61.8% retracement of the decline, while Monday's $3,526 low must hold for the rally to extend.
-12. [Indian rupee could rise to 91.50/$ on equity inflows, HDFC Bank's treasury head says](https://www.reuters.com/world/india/indian-rupee-could-rise-9150-equity-inflows-hdfc-banks-treasury-head-says-2026-11-23/) — *Reuters*, 2026-11-23T03:10:03Z
+10. [Indian rupee could rise to 91.50/$ on equity inflows, HDFC Bank's treasury head says](https://www.reuters.com/world/india/indian-rupee-could-rise-9150-equity-inflows-hdfc-banks-treasury-head-says-2026-11-23/) — *Reuters*, 2026-11-23T03:10:03Z
    The rupee could strengthen to 91.50 per dollar if strong equity inflows continue, HDFC Bank treasury head Arup Rakshit said, seeing it in a 91.50-93.50 range near term. The currency closed Friday at 92.67, up nearly 2.5% in November on record $12 billion of foreign equity inflows, and Rakshit expects the RBI to raise rates in December, with a 25-basis-point hike more or less given.
-13. [Did PM Modi's appeal really bring down gold prices? Here's what the data shows](https://english.mathrubhumi.com/news/money/did-pm-modi-gold-buying-appeal-bring-down-gold-prices-market-data-explained-gdfoqmr2) — *Mathrubhumi*, 2026-11-22T11:18:00Z
+11. [Did PM Modi's appeal really bring down gold prices? Here's what the data shows](https://english.mathrubhumi.com/news/money/did-pm-modi-gold-buying-appeal-bring-down-gold-prices-market-data-explained-gdfoqmr2) — *Mathrubhumi*, 2026-11-22T11:18:00Z
    Mathrubhumi tests the PM's claim that his appeal to avoid non-essential gold purchases lowered prices: 24-carat gold fell about 18% from Rs 15,250 a gram on 9 May to Rs 12,523 on 21 November. The piece concludes the appeal alone cannot explain it — the import duty rose from 6% to 15% in May, imports fell about 40% in April–October, and a stronger dollar and Fed hike expectations also weighed.
-14. [PM Modi's appeal to avoid gold purchases reflects in import data, India saves $16.46 billion in 7 months: CAIT](https://hiindia.com/pm-modis-appeal-to-avoid-gold-purchases-reflects-in-import-data-india-saves-16-46-billion-in-7-months-cait/) — *hi INDiA*, 2026-11-22T07:07:28Z
+12. [PM Modi's appeal to avoid gold purchases reflects in import data, India saves $16.46 billion in 7 months: CAIT](https://hiindia.com/pm-modis-appeal-to-avoid-gold-purchases-reflects-in-import-data-india-saves-16-46-billion-in-7-months-cait/) — *hi INDiA*, 2026-11-22T07:07:28Z
    India's gold import bill fell nearly 40% to $24.78 billion in April–October 2026 from $41.24 billion a year earlier, saving $16.46 billion, the Confederation of All India Traders says, crediting PM Modi's appeal to avoid non-essential gold purchases. October imports fell 62.6% to $5.51 billion from $14.72 billion a year earlier.
