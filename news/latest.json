@@ -1,10 +1,10 @@
 {
  "schema": "orob-news.v1",
- "edition_id": "2026-11-25T05:00Z",
- "generated_at": "2026-11-25T05:05:43Z",
+ "edition_id": "2026-11-25T06:00Z",
+ "generated_at": "2026-11-25T06:13:02Z",
  "window": {
-  "from": "2026-11-25T04:00:00Z",
-  "to": "2026-11-25T05:00:00Z"
+  "from": "2026-11-25T05:00:00Z",
+  "to": "2026-11-25T06:00:00Z"
  },
  "insights": {
   "headline": "Gold slips below ₹1,22,000 on MCX as silver slides to ₹1,43,920 ahead of US core PCE",
@@ -95,6 +95,55 @@
  ],
  "items": [
   {
+   "id": "3d8dc647ec60a1df",
+   "title": "Gold, silver prices trade lower as Fed rate-hike expectations strengthen",
+   "summary": "MCX gold opened at ₹1,22,035 per 10 g, down ₹294, and silver at ₹1,45,137 per kg, down ₹301, with Comex gold near $3,550 an ounce. Business Standard reports traders price a 96.4% chance of a December Fed hike, with US PCE data due later on Wednesday.",
+   "url": "https://www.business-standard.com/markets/commodities/gold-silver-prices-trade-lower-as-fed-rate-hike-expectations-strengthen-126112500260_1.html",
+   "source": "Business Standard",
+   "source_domain": "business-standard.com",
+   "publisher_id": "business-standard",
+   "published_at": "2026-11-25T05:36:25Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/3d8dc647ec60a1df.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "silver",
+    "mcx",
+    "fed",
+    "india"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "rank": 1
+  },
+  {
+   "id": "bedc3fc9e19f3547",
+   "title": "Gold ticks lower ahead of US inflation data",
+   "summary": "Spot gold edged 0.3% lower to $3,544.54 an ounce after falling more than 2% in the previous session, as hawkish signals from the US Federal Reserve reinforced expectations of a December rate hike. Traders await US inflation data, the October PCE index due at 19:00 IST, for further policy clues.",
+   "url": "https://www.reuters.com/world/india/gold-ticks-lower-ahead-us-inflation-data-2026-11-25/",
+   "source": "Reuters",
+   "source_domain": "reuters.com",
+   "publisher_id": "reuters",
+   "published_at": "2026-11-25T00:49:00Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "gold",
+    "global",
+    "fed"
+   ],
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "rank": 2
+  },
+  {
    "id": "929f312fc382654f",
    "title": "Gold price tracker, Nov 25: MCX gold and silver prices fall up to 1% amid weak global cues; what's in focus next?",
    "summary": "MCX December gold fell ₹915, or 0.74%, to a morning low of ₹1,21,414 per 10 g, while silver slid ₹1,518 per kg to ₹1,43,920, as traders awaited US PCE inflation data. Upstox reports the 10-year US Treasury yield held near 4.9% as hawkish Fed commentary kept December hike bets firm.",
@@ -117,7 +166,33 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 1
+   "rank": 3
+  },
+  {
+   "id": "79b9e8ecb251125c",
+   "title": "Gold Crashes ₹4,250, Silver ₹9,600 in Two Days as Fed Hike Fears Wipe Out Monday's Rally",
+   "summary": "MCX gold fell to ₹1,21,750 per 10 g and silver to ₹1,44,598 per kg, down ₹4,250 and ₹9,600 respectively over two sessions, wiping out Monday's rebound. Gujarat Samachar reports Comex gold near $3,546.70 as markets fully priced a December Fed hike ahead of Wednesday's US PCE print.",
+   "url": "https://english.gujaratsamachar.com/news/business/gold-crashes-rs-4250-silver-rs-9600-in-two-days-as-fed-hike-fears-wipe-out-mondays-rally-25563028759",
+   "source": "Gujarat Samachar",
+   "source_domain": "english.gujaratsamachar.com",
+   "publisher_id": "gujarat-samachar",
+   "published_at": "2026-11-25T05:08:38Z",
+   "image_url": "https://cdn.gs-now.com/cdn-cgi/image/width=1200,height=630,q=80/media/post/2026/11/ee73bbec1c9e92212df48fa31f50f0c7.png",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "silver",
+    "mcx",
+    "fed",
+    "india"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "rank": 4
   },
   {
    "id": "b0ce60865bdbe39b",
@@ -142,30 +217,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 2
-  },
-  {
-   "id": "bedc3fc9e19f3547",
-   "title": "Gold ticks lower ahead of US inflation data",
-   "summary": "Spot gold edged 0.3% lower to $3,544.54 an ounce after falling more than 2% in the previous session, as hawkish signals from the US Federal Reserve reinforced expectations of a December rate hike. Traders await US inflation data, the October PCE index due at 19:00 IST, for further policy clues.",
-   "url": "https://www.reuters.com/world/india/gold-ticks-lower-ahead-us-inflation-data-2026-11-25/",
-   "source": "Reuters",
-   "source_domain": "reuters.com",
-   "publisher_id": "reuters",
-   "published_at": "2026-11-25T00:49:00Z",
-   "image_url": null,
-   "image_kind": "none",
-   "tags": [
-    "gold",
-    "global",
-    "fed"
-   ],
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "rank": 3
+   "rank": 5
   },
   {
    "id": "931e2fc135f5f3da",
@@ -191,7 +243,79 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 4
+   "rank": 6
+  },
+  {
+   "id": "0d73bf2a528ec37e",
+   "title": "Silver Prices Fall as Hawkish Fed Signals Build Ahead of U.S. PCE Inflation Data",
+   "summary": "Silver settled 5.69% lower at ₹1,45,438 per kg, down ₹8,779, as hawkish Fed signals built ahead of US PCE inflation data. Kedia Advisory cites a 93.5% chance of a December hike; Metals Focus forecasts global silver demand falling 5% to 1.08 billion ounces in 2026.",
+   "url": "https://in.investing.com/news/commodities-news/silver-prices-fall-as-hawkish-fed-signals-build-ahead-of-us-pce-inflation-data-5724859",
+   "source": "Investing.com India",
+   "source_domain": "in.investing.com",
+   "publisher_id": "investing",
+   "published_at": "2026-11-25T05:03:45Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "silver",
+    "mcx",
+    "fed",
+    "india"
+   ],
+   "category": "mcx",
+   "metals": [
+    "silver"
+   ],
+   "breaking": false,
+   "rank": 7
+  },
+  {
+   "id": "b954174d48cbd227",
+   "title": "Gold struggles near its weekly low as Fed bets and geopolitics underpin USD ahead of US PCE",
+   "summary": "Gold held near its weekly low as a firm dollar and bets on further Fed tightening into early 2027 capped the metal ahead of US PCE data and the second estimate of third-quarter GDP. FXStreet's Haresh Menghani writes that bearish traders are watching a break below the $3,500 level.",
+   "url": "https://www.tmgm.com/en/analysis/market-news/article/gold-struggles-near-weekly-low-as-fed-bets-and-geopolitics-support-usd-ahead-of-us-pce-202611250414",
+   "source": "TMGM",
+   "source_domain": "tmgm.com",
+   "publisher_id": "tmgm",
+   "published_at": "2026-11-25T05:19:39Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/b954174d48cbd227.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "silver",
+    "global",
+    "fed"
+   ],
+   "category": "global",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "rank": 8
+  },
+  {
+   "id": "16262dd8fb22e603",
+   "title": "Gold Falls Below $3,700, Triggering Stop-Losses; BCA Ends Four-Year Bullish Bet, Sees Dollar Heading to 105",
+   "summary": "BCA Research ended its four-year bullish gold call, downgrading the metal to neutral after a position held since November 2022 returned 113%, and sees the dollar index potentially rising to 105. BigGo Finance reports gold hovered near $3,550 an ounce in Wednesday Asian trade after closing more than 2% lower on Tuesday.",
+   "url": "https://finance.biggo.com/news/95d4fbfb-3509-4730-b209-61dee175d8e0",
+   "source": "BigGo Finance",
+   "source_domain": "finance.biggo.com",
+   "publisher_id": "biggo-finance",
+   "published_at": "2026-11-25T05:35:00Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/16262dd8fb22e603.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "global",
+    "fed"
+   ],
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "rank": 9
   },
   {
    "id": "46cebc53d1297855",
@@ -214,7 +338,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 5
+   "rank": 10
   },
   {
    "id": "871c27b4d38b35c3",
@@ -236,7 +360,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 6
+   "rank": 11
   },
   {
    "id": "957030eecb3d5a36",
@@ -259,7 +383,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 7
+   "rank": 12
   },
   {
    "id": "2f455ff6125ed915",
@@ -282,7 +406,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 8
+   "rank": 13
   },
   {
    "id": "b72ffc8dcf1ca269",
@@ -305,7 +429,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 9
+   "rank": 14
   },
   {
    "id": "9098e1afb9b707cb",
@@ -332,7 +456,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 10
+   "rank": 15
   },
   {
    "id": "0a82a29896ad1be5",
@@ -355,7 +479,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 11
+   "rank": 16
   },
   {
    "id": "f80de5cac2a88204",
@@ -379,8 +503,8 @@
     "silver"
    ],
    "breaking": false,
-   "paywall": "no-verdict",
-   "rank": 12
+   "rank": 17,
+   "paywall": "no-verdict"
   },
   {
    "id": "0e14cad7e9a93570",
@@ -402,7 +526,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 13
+   "rank": 18
   },
   {
    "id": "782a9d4ff1a447a0",
@@ -424,7 +548,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 14
+   "rank": 19
   },
   {
    "id": "597fe14bf812ebba",
@@ -448,12 +572,13 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 15
+   "rank": 20
   },
   {
-   "url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=64030",
+   "id": "4299bb4d6f41a76b",
    "title": "RBI sets SGB 2021-22 Series I premature redemption price at ₹12,612",
    "summary": "The RBI has fixed the premature redemption price for Sovereign Gold Bond 2021-22 Series I at ₹12,612 per unit for the November 25 redemption, based on the average IBJA 999-purity gold close over November 19, 20 and 23. Holders who applied in the window that closed November 16 can exit at that price, a gain of up to 167% over the ₹4,727 online issue price.",
+   "url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=64030",
    "source": "RBI",
    "source_domain": "rbi.org.in",
    "publisher_id": "rbi",
@@ -470,9 +595,33 @@
     "gold"
    ],
    "breaking": false,
-   "id": "4299bb4d6f41a76b",
-   "rank": 16,
+   "rank": 21,
    "related_urls": []
+  },
+  {
+   "id": "8c459c390488c85e",
+   "title": "Gold and Silver Prices Fluctuate Amid Wedding Season",
+   "summary": "December MCX gold traded near ₹1,21,800 per 10 g and silver near ₹1,44,761 per kg as wedding-season demand met pressure from Fed hike bets. Udaipur Kiran notes traders price an over 96% chance of a December hike and await US PCE data, with support cited at $3,400 an ounce.",
+   "url": "https://udaipurkiran.com/gold-and-silver-prices-fluctuate-amid-wedding-season/",
+   "source": "Udaipur Kiran",
+   "source_domain": "udaipurkiran.com",
+   "publisher_id": "udaipur-kiran",
+   "published_at": "2026-11-25T05:21:42Z",
+   "image_url": "https://udaipurkiran.com/wp-content/uploads/2026/11/gold-prices-hit-13-month-low-amid-inflation-concerns.webp",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "silver",
+    "india",
+    "jewellery"
+   ],
+   "category": "festive",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "rank": 22
   },
   {
    "id": "ec9d044cfa2bb293",
@@ -495,7 +644,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 17,
+   "rank": 23,
    "related_urls": []
   }
  ]
