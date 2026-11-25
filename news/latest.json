@@ -1,10 +1,10 @@
 {
  "schema": "orob-news.v1",
- "edition_id": "2026-11-25T02:00Z",
- "generated_at": "2026-11-25T02:12:02Z",
+ "edition_id": "2026-11-25T03:00Z",
+ "generated_at": "2026-11-25T03:08:38Z",
  "window": {
-  "from": "2026-11-25T00:00:00Z",
-  "to": "2026-11-25T02:00:00Z"
+  "from": "2026-11-25T02:00:00Z",
+  "to": "2026-11-25T03:00:00Z"
  },
  "insights": {
   "headline": "Gold eases to $3,545 ahead of US core PCE as silver tests $40",
@@ -56,7 +56,8 @@
    "item_ids": [
     "b0ce60865bdbe39b",
     "bedc3fc9e19f3547",
-    "cc34fb625672c7e6"
+    "cc34fb625672c7e6",
+    "cf320989b6b16e12"
    ]
   },
   {
@@ -169,6 +170,28 @@
    "rank": 3
   },
   {
+   "id": "cf320989b6b16e12",
+   "title": "Gold Near 3500 as Copper Tests Another Critical Fibonacci Support",
+   "summary": "Gold trades near $3,583 after breaking below its long-term rising trendline, FXEmpire reports, approaching the 61.8% Fibonacci retracement with the weekly RSI at 33. The $3,500 level is the next decisive support: a confirmed daily close below it would strengthen the bearish case, while a close above $3,685 would close Friday's bearish gap. Copper is testing Fibonacci support near $5.38.",
+   "url": "https://www.fxempire.com/forecasts/article/gold-near-3500-as-copper-tests-another-critical-fibonacci-support-1646995",
+   "source": "FXEmpire",
+   "source_domain": "fxempire.com",
+   "publisher_id": "fxempire",
+   "published_at": "2026-11-24T18:58:12Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "gold",
+    "global"
+   ],
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "rank": 4
+  },
+  {
    "id": "931e2fc135f5f3da",
    "title": "Gold & Silver Rates: MCX gold slumps by Rs 3,671, silver crashes 6% amid growing Fed hike bets",
    "summary": "MCX December gold fell as much as Rs 3,671, or 2.9%, to Rs 1,22,325 in the evening session and was down 2.8% at Rs 1,22,505 late in the day; December silver slid as much as Rs 9,253, or 6%, to Rs 1,44,964. Zee Business links the slide to growing bets on further Fed rate hikes and a firm dollar.",
@@ -192,7 +215,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 4
+   "rank": 5
   },
   {
    "id": "871c27b4d38b35c3",
@@ -214,7 +237,53 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 5
+   "rank": 6
+  },
+  {
+   "id": "957030eecb3d5a36",
+   "title": "Silver price crash: Rates today in India down ₹1 lakh in 3 months! Recovery or more fall ahead for MCX silver futures?",
+   "summary": "Silver in India is down about ₹1 lakh per kg in three months from its August high of around ₹2.5 lakh, with MCX silver closing Monday at ₹1,54,205 per kg after a ₹6,392 rebound. Market experts attribute the slide to elevated US bond yields, a strong dollar, talk of a US Fed rate hike and the rupee's rise from around 98 to 92.50 per dollar; they put crucial support at ₹1,40,000 per kg.",
+   "url": "https://www.livemint.com/market/commodities/silver-price-crash-rates-today-in-india-down-rs-1-lakh-in-3-months-recovery-or-more-fall-ahead-for-mcx-silver-futures-11795511561513.html",
+   "source": "Mint",
+   "source_domain": "livemint.com",
+   "publisher_id": "mint",
+   "published_at": "2026-11-24T10:33:02Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "silver",
+    "mcx",
+    "india"
+   ],
+   "category": "mcx",
+   "metals": [
+    "silver"
+   ],
+   "breaking": false,
+   "rank": 7
+  },
+  {
+   "id": "b72ffc8dcf1ca269",
+   "title": "Pledged gold worth less as prices crash 30% from peak; gold loan NPAs nearly double, RBI cautions NBFCs",
+   "summary": "Gold loan NPAs nearly doubled in six months, the ratio rising to 0.3% at the end of August from 0.16% in March, TransUnion CIBIL data cited in the report shows. With gold down nearly 30% from its peak near Rs 1.80 lakh, pledged gold is worth less and loan-to-value ratios are under pressure. The RBI has asked NBFCs to tighten scrutiny of gold-loan books and warned against rapid expansion.",
+   "url": "https://orbitprimenews.com/pledged-gold-worth-less-after-gold-prices-crash-30-from-peak-while-gold-loan-npas-nearly-double-in-six-months-rbi-cautions-gold-loan-nbfcs-over-loan-to-value-ratios/",
+   "source": "Orbit Prime News",
+   "source_domain": "orbitprimenews.com",
+   "publisher_id": "orbitprimenews",
+   "published_at": "2026-11-25T01:55:55Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "gold",
+    "india",
+    "rbi"
+   ],
+   "category": "policy",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "rank": 8
   },
   {
    "id": "9098e1afb9b707cb",
@@ -241,7 +310,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 6
+   "rank": 9
   },
   {
    "id": "0a82a29896ad1be5",
@@ -264,7 +333,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 7
+   "rank": 10
   },
   {
    "id": "f80de5cac2a88204",
@@ -289,30 +358,7 @@
    ],
    "breaking": false,
    "paywall": "no-verdict",
-   "rank": 8
-  },
-  {
-   "id": "957030eecb3d5a36",
-   "title": "Silver price crash: Rates today in India down ₹1 lakh in 3 months! Recovery or more fall ahead for MCX silver futures?",
-   "summary": "Silver in India is down about ₹1 lakh per kg in three months from its August high of around ₹2.5 lakh, with MCX silver closing Monday at ₹1,54,205 per kg after a ₹6,392 rebound. Market experts attribute the slide to elevated US bond yields, a strong dollar, talk of a US Fed rate hike and the rupee's rise from around 98 to 92.50 per dollar; they put crucial support at ₹1,40,000 per kg.",
-   "url": "https://www.livemint.com/market/commodities/silver-price-crash-rates-today-in-india-down-rs-1-lakh-in-3-months-recovery-or-more-fall-ahead-for-mcx-silver-futures-11795511561513.html",
-   "source": "Mint",
-   "source_domain": "livemint.com",
-   "publisher_id": "mint",
-   "published_at": "2026-11-24T10:33:02Z",
-   "image_url": null,
-   "image_kind": "none",
-   "tags": [
-    "silver",
-    "mcx",
-    "india"
-   ],
-   "category": "mcx",
-   "metals": [
-    "silver"
-   ],
-   "breaking": false,
-   "rank": 9
+   "rank": 11
   },
   {
    "id": "0e14cad7e9a93570",
@@ -334,7 +380,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 10
+   "rank": 12
   },
   {
    "id": "782a9d4ff1a447a0",
@@ -356,7 +402,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 11
+   "rank": 13
   },
   {
    "breaking": false,
@@ -383,11 +429,11 @@
    ],
    "title": "Gold and silver rebound over 2% after steep weekly losses: Can the recovery sustain?",
    "url": "https://www.moneycontrol.com/news/business/personal-finance/gold-and-silver-rebound-over-2-after-steep-weekly-losses-can-the-recovery-sustain-14086886.html",
-   "rank": 12
+   "rank": 14
   },
   {
    "id": "e8fe2a89be139e25",
-   "rank": 13,
+   "rank": 15,
    "title": "Gold Climbs To Rs 1.28 Lakh Per 10 Grams, Silver Recovers",
    "summary": "Retail gold climbed to nearly Rs 1.28 lakh per 10 g on Tuesday — 24-carat gold around Rs 1,27,800, up Rs 1,240 — snapping a 10-session losing streak in the national capital, while retail silver hovered near Rs 1.55 lakh per kg. MCX December gold futures settled 3.8% higher at Rs 1,28,912 per 10 g on Monday, and spot gold stood near $3,645 an ounce.",
    "url": "https://www.deccanchronicle.com/business/economics/gold-climbs-to-rs-128-lakh-per-10-grams-silver-recovers-2007469",
@@ -432,7 +478,7 @@
    ],
    "title": "Gold futures rise to Rs 1.24 lakh per 10 grams, silver crosses Rs 1.51 lakh per kg",
    "url": "https://www.mid-day.com/business/business-news/article/gold-prices-jump-rs-2899-to-rs-124-lakh-per-10-grams-silver-rises-to-rs-1-51-lakh-23661020",
-   "rank": 14,
+   "rank": 16,
    "related_urls": []
   },
   {
@@ -457,7 +503,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 15
+   "rank": 17
   },
   {
    "url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=64030",
@@ -480,7 +526,7 @@
    ],
    "breaking": false,
    "id": "4299bb4d6f41a76b",
-   "rank": 16,
+   "rank": 18,
    "related_urls": []
   },
   {
@@ -508,7 +554,7 @@
    "related_urls": [
     "https://economictimes.indiatimes.com/markets/forex/rupee-could-rise-to-91-50/-on-equity-inflows-says-hdfc-banks-treasury-head/articleshow/136088042.cms"
    ],
-   "rank": 17
+   "rank": 19
   },
   {
    "id": "ec9d044cfa2bb293",
@@ -531,7 +577,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 18,
+   "rank": 20,
    "related_urls": []
   }
  ]
