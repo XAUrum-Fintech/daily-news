@@ -1,20 +1,20 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-25T16:00Z",
-  "generated_at": "2026-11-25T16:15:19Z",
+  "edition_id": "2026-11-25T18:00Z",
+  "generated_at": "2026-11-25T18:08:24Z",
   "window": {
-    "from": "2026-11-25T14:00:00Z",
-    "to": "2026-11-25T16:00:00Z"
+    "from": "2026-11-25T16:00:00Z",
+    "to": "2026-11-25T18:00:00Z"
   },
   "insights": {
-    "headline": "Gold sinks to $3,428 as strong US data cements December hike bets; MCX gold near Rs 1,20,637",
-    "summary": "US third-quarter GDP was revised up to 4.3% and new home sales jumped 14.2%, while PCE inflation came in at 3.8% with core PCE at 3.3%. Spot gold fell to $3,427.90 an ounce, down more than 3% on the day, its lowest since September 2025. MCX gold traded near Rs 1,20,637 per 10 g and silver near Rs 1,41,524 per kg, with the rupee at a 2026 high of 92.16 per dollar cushioning Indian buyers. The RBI held 880.52 tonnes of gold at September-end, 84% of it in India.",
+    "headline": "Gold breaks below $3,500 as hot PCE and strong GDP cement December hike bets",
+    "summary": "Spot gold fell below $3,500 to a session low of $3,427.90 an ounce, down more than 3% on the day, after US PCE inflation came in at 3.8% with core PCE at 3.3% and third-quarter GDP was revised up to 4.3%. MCX gold traded near Rs 1,20,637 per 10 g and silver near Rs 1,41,524 per kg, with the rupee at a 2026 high of 92.16 per dollar cushioning Indian buyers. The RBI held 880.52 tonnes of gold at September-end, 84% of it in India.",
     "points": [
-      "Spot gold fell to $3,427.90 an ounce, down more than 3% on the day, after US new home sales jumped 14.2%.",
-      "US Q3 GDP was revised up to 4.3% and PCE inflation came in at 3.8%, with core PCE at 3.3%.",
+      "Spot gold fell below $3,500 to a session low of $3,427.90 an ounce, down more than 3% on the day.",
+      "US PCE inflation came in at 3.8% and core PCE at 3.3%, while Q3 GDP was revised up to 4.3%.",
       "MCX gold traded near Rs 1,20,637 per 10 g, down 1.4%, and silver near Rs 1,41,524 per kg, down 2.7%.",
-      "The RBI held 880.52 tonnes of gold at September-end, with 740.13 tonnes, or 84%, stored in India.",
-      "Silver ETFs fell up to 5.6% and gold ETFs nearly 3% on Wednesday as equities rallied."
+      "The rupee hit an eight-month high of 92.1850 per dollar, cushioning Indian buyers from the slide.",
+      "The RBI held 880.52 tonnes of gold at September-end, with 740.13 tonnes, or 84%, stored in India."
     ],
     "brief": {
       "schema": "orob-brief.v1",
@@ -52,9 +52,10 @@
   },
   "trending": [
     {
-      "title": "Hot PCE and strong US data sink gold to session lows",
-      "summary": "PCE inflation at 3.8%, Q3 GDP revised up to 4.3% and new home sales up 14.2% pushed spot gold to $3,427.90, with traders pricing a near-certain December Fed hike.",
+      "title": "Hot PCE and strong US data sink gold below $3,500",
+      "summary": "PCE inflation at 3.8%, Q3 GDP revised up to 4.3% and new home sales up 14.2% pushed spot gold below $3,500 to $3,427.90, with traders pricing a near-certain December Fed hike.",
       "item_ids": [
+        "38fba46de8848f6e",
         "4400e88503e2eed6",
         "087a9d31d9929fb0",
         "8de160b4cd8dd16c"
@@ -87,6 +88,31 @@
   ],
   "items": [
     {
+      "id": "38fba46de8848f6e",
+      "rank": 1,
+      "title": "Gold Sinks Below $3500 as Silver Crashes Thru' $40",
+      "summary": "Gold sank to $3,455 an ounce and silver crashed through $40 to as low as $38.68 after US GDP was revised up to 4.3% and core PCE came in at 3.3%. Markets still put a 98% chance on a quarter-point Fed hike in December. Strategist Nicky Shiels calls the sell-off a structural exit in gold, while ex-fund manager Charlie Morris sees a correction within a bull market.",
+      "url": "https://live.bullionvault.com/gold-news/gold-price-news/gold-3500-silver-crash-fed-112520261",
+      "source": "BullionVault",
+      "source_domain": "live.bullionvault.com",
+      "publisher_id": "bullionvault",
+      "published_at": "2026-11-25T14:58:24Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/38fba46de8848f6e.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false
+    },
+    {
       "id": "4400e88503e2eed6",
       "title": "Gold price falls to session lows as U.S. New Home Sales rise 14.2% in October",
       "summary": "US new home sales jumped 14.2% in October to a 701,000 annual rate, beating the 650,000 forecast, Kitco reports. Spot gold fell to $3,427.90 an ounce, down more than 3% on the day, as the strong housing data added to selling pressure from hot PCE inflation and firming bets on a December Fed rate hike.",
@@ -106,7 +132,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 1,
+      "rank": 2,
       "publisher_id": "kitco"
     },
     {
@@ -135,7 +161,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "087a9d31d9929fb0",
@@ -160,7 +186,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "8de160b4cd8dd16c",
@@ -183,7 +209,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 4,
+      "rank": 5,
       "publisher_id": "kitco"
     },
     {
@@ -206,8 +232,11 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 5,
-      "publisher_id": "hindu-businessline"
+      "rank": 6,
+      "publisher_id": "hindu-businessline",
+      "related_urls": [
+        "https://www.reuters.com/world/india/india-central-bank-raises-share-domestically-held-gold-reserves-data-shows-2026-11-25/"
+      ]
     },
     {
       "id": "7741ac80b9aa58db",
@@ -233,7 +262,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "bedc3fc9e19f3547",
@@ -256,7 +285,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "8ac9887acb2e14fc",
@@ -280,7 +309,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 9
     },
     {
       "url": "https://www.indiatvnews.com/business/markets/gold-silver-prices-decline-on-mcx-as-investors-reassess-outlook-for-us-interest-rates-check-city-wise-rates-2026-11-25-1060332",
@@ -307,7 +336,7 @@
       "id": "c3f623a2843991be",
       "breaking": false,
       "related_urls": [],
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "e480ce1984b78a35",
@@ -333,7 +362,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "3d8dc647ec60a1df",
@@ -359,7 +388,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 12
     },
     {
       "url": "https://www.bhaskarenglish.in/business/news/gold-silver-price-fall-india-bullion-jewellers-association-rate-139793640.html",
@@ -385,7 +414,7 @@
       "id": "d710f1faec6928f9",
       "breaking": false,
       "related_urls": [],
-      "rank": 12
+      "rank": 13
     },
     {
       "url": "https://www.thehindubusinessline.com/markets/gold/silver-futures-decline-to-144-lakhkg/article71741385.ece",
@@ -409,7 +438,7 @@
       "id": "b5093045611dd175",
       "breaking": false,
       "related_urls": [],
-      "rank": 13
+      "rank": 14
     },
     {
       "id": "0d73bf2a528ec37e",
@@ -433,7 +462,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 15
     },
     {
       "id": "021529eaddd23805",
@@ -456,7 +485,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 15
+      "rank": 16
     },
     {
       "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-gold-slips-again-as-fed-hike-bets-firm-can-3503-hold-1647067",
@@ -482,7 +511,7 @@
       "id": "7307083e549b7a70",
       "breaking": false,
       "related_urls": [],
-      "rank": 16
+      "rank": 17
     },
     {
       "url": "https://www.ndtvprofit.com/markets/gold-silver-lose-shine-yellow-metal-prices-fall-below-rs-1-21-000-white-metal-rates-under-rs-1-42-000-12374077",
@@ -509,7 +538,7 @@
       "id": "ddaa89379930dd50",
       "breaking": false,
       "related_urls": [],
-      "rank": 17
+      "rank": 18
     },
     {
       "url": "https://www.aa.com.tr/en/economy/gold-weakens-further-as-tariff-worries-and-rate-bets-pressure-bullion/4136660",
@@ -535,7 +564,7 @@
       "id": "060c151084788591",
       "breaking": false,
       "related_urls": [],
-      "rank": 18
+      "rank": 19
     },
     {
       "id": "e7326818e63964bb",
@@ -559,7 +588,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 19
+      "rank": 20
     },
     {
       "id": "b7848f028dc7ca3c",
@@ -581,7 +610,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 20
+      "rank": 21
     },
     {
       "id": "782a9d4ff1a447a0",
@@ -603,7 +632,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 21
+      "rank": 22
     },
     {
       "id": "b72ffc8dcf1ca269",
@@ -626,7 +655,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 22
+      "rank": 23
     }
   ]
 }
