@@ -1,20 +1,20 @@
 {
  "schema": "orob-news.v1",
- "edition_id": "2026-11-25T03:00Z",
- "generated_at": "2026-11-25T03:08:38Z",
+ "edition_id": "2026-11-25T05:00Z",
+ "generated_at": "2026-11-25T05:05:43Z",
  "window": {
-  "from": "2026-11-25T02:00:00Z",
-  "to": "2026-11-25T03:00:00Z"
+  "from": "2026-11-25T04:00:00Z",
+  "to": "2026-11-25T05:00:00Z"
  },
  "insights": {
-  "headline": "Gold eases to $3,545 ahead of US core PCE as silver tests $40",
-  "summary": "Spot gold eased to $3,544.54 an ounce after falling more than 2% on Tuesday, with silver sliding to $40.73 as it tests major support near $39.53. On MCX, December gold ended the evening session down 2.8% at Rs 1,22,505 and silver slid as much as 6% to Rs 1,44,964. Traders price a 96.4% chance of a December Fed hike and now await US core PCE at 19:00 IST, the next test before the Fed's 9 December decision.",
+  "headline": "Gold slips below ₹1,22,000 on MCX as silver slides to ₹1,43,920 ahead of US core PCE",
+  "summary": "Spot gold held near $3,545 an ounce after Tuesday's 2% slide, with silver near $40.70 as it tests support close to $39.50. On MCX, December gold touched a morning low of ₹1,21,414 per 10 g and silver fell to ₹1,43,920 per kg, while the rupee strengthened to 92.62 against the dollar. Traders price a near-certain December Fed hike and now await US core PCE at 19:00 IST, the next test before the Fed's 9 December decision.",
   "points": [
-   "Spot gold eased to $3,544.54 an ounce after falling more than 2% in the previous session.",
-   "Silver fell to a low of $40.73 and now tests support near $39.53, with the 200-week average at $39.90.",
-   "MCX December gold ended the evening session down 2.8% at Rs 1,22,505; silver slid as much as 6% to Rs 1,44,964.",
-   "Traders price a 96.4% chance of a December Fed hike; US core PCE is due today at 19:00 IST.",
-   "Gold futures gave up $79.30, or 2.18%, reversing the previous session's 2.70% rally."
+   "Spot gold held near $3,544.54 an ounce after falling more than 2% in the previous session.",
+   "Silver held near $40.70 and now tests support near $39.53, with the 200-week average at $39.90.",
+   "MCX December gold touched a morning low of ₹1,21,414 per 10 g; silver fell to ₹1,43,920 per kg.",
+   "The rupee rose 23 paise to 92.62 against the dollar on foreign inflows and lower crude.",
+   "Traders price a 96.4% chance of a December Fed hike; US core PCE is due today at 19:00 IST."
   ],
   "brief": {
    "schema": "orob-brief.v1",
@@ -52,17 +52,16 @@
  "trending": [
   {
    "title": "Gold slips again ahead of US core PCE",
-   "summary": "Spot gold eased to $3,544.54 after Tuesday's 2% slide as hawkish Fed signals firmed December hike bets, with traders awaiting today's PCE print at 19:00 IST.",
+   "summary": "MCX gold touched a morning low of ₹1,21,414 after Tuesday's 2% slide took spot gold to $3,544.54, as hawkish Fed signals firmed December hike bets and traders await today's PCE print at 19:00 IST.",
    "item_ids": [
+    "929f312fc382654f",
     "b0ce60865bdbe39b",
-    "bedc3fc9e19f3547",
-    "cc34fb625672c7e6",
-    "cf320989b6b16e12"
+    "bedc3fc9e19f3547"
    ]
   },
   {
    "title": "Silver tests major support near $40",
-   "summary": "Silver fell to $40.73, below its prior low, and now tests a support zone near $39.53, while MCX silver slid 6% in the evening session.",
+   "summary": "Silver fell to $40.73, below its prior low, and now tests a support zone near $39.53, while MCX silver slid to ₹1,43,920 in morning trade.",
    "item_ids": [
     "871c27b4d38b35c3",
     "957030eecb3d5a36",
@@ -71,18 +70,18 @@
   },
   {
    "title": "MCX tracks the global slide",
-   "summary": "December gold ended the evening session down 2.8% at Rs 1,22,505 and silver down as much as 6%, with the slide linked to Fed hike bets and a firm dollar.",
+   "summary": "December gold ended the evening session down 2.8% at Rs 1,22,505 and silver down as much as 6%, then slipped further in Wednesday morning trade on Fed hike bets and a firm dollar.",
    "item_ids": [
     "931e2fc135f5f3da",
     "f80de5cac2a88204",
-    "e0195d89bf788f5e"
+    "929f312fc382654f"
    ]
   },
   {
-   "title": "Lower prices could revive physical demand",
-   "summary": "Theo's Iggy Ioppe argues the selloff sows the next rally: central banks on fixed budgets buy more per dollar, and price-sensitive jewellery demand in China and India should return.",
+   "title": "Rupee strength softens the blow for Indian buyers",
+   "summary": "The rupee rose to 92.62 against the dollar, up over 1.6% in five sessions, on foreign inflows and lower crude; a stronger rupee makes dollar-priced gold cheaper in rupee terms.",
    "item_ids": [
-    "597fe14bf812ebba"
+    "2f455ff6125ed915"
    ]
   },
   {
@@ -95,6 +94,31 @@
   }
  ],
  "items": [
+  {
+   "id": "929f312fc382654f",
+   "title": "Gold price tracker, Nov 25: MCX gold and silver prices fall up to 1% amid weak global cues; what's in focus next?",
+   "summary": "MCX December gold fell ₹915, or 0.74%, to a morning low of ₹1,21,414 per 10 g, while silver slid ₹1,518 per kg to ₹1,43,920, as traders awaited US PCE inflation data. Upstox reports the 10-year US Treasury yield held near 4.9% as hawkish Fed commentary kept December hike bets firm.",
+   "url": "https://upstox.com/news/market-news/commodities/gold-price-tracker-nov-25-mcx-gold-prices-mcx-silver-rates-comex-gold-comex-silver-us-pce-inflation-data-in-focus-check-silver-prices-today/liveblog-203915/",
+   "source": "Upstox",
+   "source_domain": "upstox.com",
+   "publisher_id": "upstox",
+   "published_at": "2026-11-25T04:49:06Z",
+   "image_url": "https://assets.upstox.com/content/assets/images/news/goldsilverpricesliveblognov25.webp",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "silver",
+    "mcx",
+    "india"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "rank": 1
+  },
   {
    "id": "b0ce60865bdbe39b",
    "title": "Gold and Silver Slide to Key Support as Rate Hike Fears Build",
@@ -118,7 +142,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 1
+   "rank": 2
   },
   {
    "id": "bedc3fc9e19f3547",
@@ -141,55 +165,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 2
-  },
-  {
-   "id": "cc34fb625672c7e6",
-   "title": "Gold Price Down to USD 3,566.45/Ounce",
-   "summary": "Gold fell 2% on Tuesday as traders braced for US inflation data, with spot gold down 1.8% to $3,566.45 an ounce after touching $3,558.69 intraday and US gold futures 2.3% lower at $3,565.70. Silver slid 5% to $40.90 an ounce, while platinum fell 3.9% to $1,273.78. Hawkish Fed signals and firm December hike bets kept bullion under pressure ahead of Wednesday's US PCE release.",
-   "url": "https://www.fananews.com/language/en/gold-price-down-to-usd-3566-45-ounce/",
-   "source": "QNA",
-   "source_domain": "fananews.com",
-   "publisher_id": "fana-news",
-   "published_at": "2026-11-24T20:31:00Z",
-   "image_url": "https://www.fananews.com/wp-content/uploads/2026/11/gold-logo-4.jpeg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "silver",
-    "global",
-    "fed",
-    "comex"
-   ],
-   "category": "global",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "breaking": false,
    "rank": 3
-  },
-  {
-   "id": "cf320989b6b16e12",
-   "title": "Gold Near 3500 as Copper Tests Another Critical Fibonacci Support",
-   "summary": "Gold trades near $3,583 after breaking below its long-term rising trendline, FXEmpire reports, approaching the 61.8% Fibonacci retracement with the weekly RSI at 33. The $3,500 level is the next decisive support: a confirmed daily close below it would strengthen the bearish case, while a close above $3,685 would close Friday's bearish gap. Copper is testing Fibonacci support near $5.38.",
-   "url": "https://www.fxempire.com/forecasts/article/gold-near-3500-as-copper-tests-another-critical-fibonacci-support-1646995",
-   "source": "FXEmpire",
-   "source_domain": "fxempire.com",
-   "publisher_id": "fxempire",
-   "published_at": "2026-11-24T18:58:12Z",
-   "image_url": null,
-   "image_kind": "none",
-   "tags": [
-    "gold",
-    "global"
-   ],
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "rank": 4
   },
   {
    "id": "931e2fc135f5f3da",
@@ -213,6 +189,29 @@
    "metals": [
     "gold",
     "silver"
+   ],
+   "breaking": false,
+   "rank": 4
+  },
+  {
+   "id": "46cebc53d1297855",
+   "title": "Gold rate today under pressure after dead-cat bounce from 14-month low; ₹1 lakh or ₹1.5 lakh? 3 dates to remember",
+   "summary": "Gold slipped below ₹1,22,000 per 10 g again after Monday's dead-cat bounce, opening at ₹1,21,900 and touching ₹1,21,414, Mint reports. Experts cite expectations of a firm US inflation print, a hawkish Fed and a stronger rupee; Mint puts support at ₹1,21,700–₹1,21,000 and $3,500 an ounce.",
+   "url": "https://www.livemint.com/market/commodities/gold-rate-today-under-pressure-after-dead-cat-bounce-from-14-month-low-rs-1-lakh-or-rs-1-5-lakh-3-dates-to-remember-11795577248684.html",
+   "source": "Mint",
+   "source_domain": "livemint.com",
+   "publisher_id": "mint",
+   "published_at": "2026-11-25T04:17:31Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "gold",
+    "mcx",
+    "fed"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold"
    ],
    "breaking": false,
    "rank": 5
@@ -263,6 +262,29 @@
    "rank": 7
   },
   {
+   "id": "2f455ff6125ed915",
+   "title": "Rupee jumps 23 paise to 92.62 against US dollar in early trade",
+   "summary": "The rupee rose 23 paise to 92.62 against the dollar in early trade, PTI reports, helped by foreign-fund inflows, a rally in domestic equities and Brent crude down 1.3%. The currency has gained over 1.6% in five sessions since 94.19 on 13 November, though a strong dollar capped further gains.",
+   "url": "https://economictimes.indiatimes.com/markets/forex/rupee-jumps-23-paise-to-92-62-against-us-dollar-in-early-trade/articleshow/136147947.cms",
+   "source": "Economic Times",
+   "source_domain": "economictimes.indiatimes.com",
+   "publisher_id": "economic-times",
+   "published_at": "2026-11-25T04:30:22Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/2f455ff6125ed915.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "rupee",
+    "india"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "rank": 8
+  },
+  {
    "id": "b72ffc8dcf1ca269",
    "title": "Pledged gold worth less as prices crash 30% from peak; gold loan NPAs nearly double, RBI cautions NBFCs",
    "summary": "Gold loan NPAs nearly doubled in six months, the ratio rising to 0.3% at the end of August from 0.16% in March, TransUnion CIBIL data cited in the report shows. With gold down nearly 30% from its peak near Rs 1.80 lakh, pledged gold is worth less and loan-to-value ratios are under pressure. The RBI has asked NBFCs to tighten scrutiny of gold-loan books and warned against rapid expansion.",
@@ -283,7 +305,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 8
+   "rank": 9
   },
   {
    "id": "9098e1afb9b707cb",
@@ -310,7 +332,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 9
+   "rank": 10
   },
   {
    "id": "0a82a29896ad1be5",
@@ -333,7 +355,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 10
+   "rank": 11
   },
   {
    "id": "f80de5cac2a88204",
@@ -358,7 +380,7 @@
    ],
    "breaking": false,
    "paywall": "no-verdict",
-   "rank": 11
+   "rank": 12
   },
   {
    "id": "0e14cad7e9a93570",
@@ -380,7 +402,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 12
+   "rank": 13
   },
   {
    "id": "782a9d4ff1a447a0",
@@ -402,84 +424,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 13
-  },
-  {
-   "breaking": false,
-   "category": "mcx",
-   "id": "eed2d50bd72d1f54",
-   "image_kind": "photo",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/eed2d50bd72d1f54.jpg",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "published_at": "2026-11-23T04:21:00Z",
-   "publisher_id": "moneycontrol",
-   "related_urls": [],
-   "source": "Moneycontrol",
-   "source_domain": "moneycontrol.com",
-   "summary": "MCX gold futures rose 2.2% and silver 2.11% on Monday after last week's slide — gold fell 11% and silver 16.2% on the week — as short covering and bargain buying met a softer dollar and fading bets on Fed hikes. Spot gold traded near $3,609, up 2%, and silver just above $42. Analysts quoted remain cautious, saying the rebound must hold above resistance to confirm a turn.",
-   "tags": [
-    "gold",
-    "silver",
-    "mcx",
-    "fed",
-    "india"
-   ],
-   "title": "Gold and silver rebound over 2% after steep weekly losses: Can the recovery sustain?",
-   "url": "https://www.moneycontrol.com/news/business/personal-finance/gold-and-silver-rebound-over-2-after-steep-weekly-losses-can-the-recovery-sustain-14086886.html",
    "rank": 14
-  },
-  {
-   "id": "e8fe2a89be139e25",
-   "rank": 15,
-   "title": "Gold Climbs To Rs 1.28 Lakh Per 10 Grams, Silver Recovers",
-   "summary": "Retail gold climbed to nearly Rs 1.28 lakh per 10 g on Tuesday — 24-carat gold around Rs 1,27,800, up Rs 1,240 — snapping a 10-session losing streak in the national capital, while retail silver hovered near Rs 1.55 lakh per kg. MCX December gold futures settled 3.8% higher at Rs 1,28,912 per 10 g on Monday, and spot gold stood near $3,645 an ounce.",
-   "url": "https://www.deccanchronicle.com/business/economics/gold-climbs-to-rs-128-lakh-per-10-grams-silver-recovers-2007469",
-   "source": "Deccan Chronicle",
-   "source_domain": "deccanchronicle.com",
-   "publisher_id": "deccan-chronicle",
-   "published_at": "2026-11-24T08:32:35Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/e8fe2a89be139e25.jpg",
-   "image_kind": "photo",
-   "tags": [
-    "gold",
-    "silver",
-    "mcx"
-   ],
-   "category": "mcx",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "breaking": false
-  },
-  {
-   "breaking": false,
-   "category": "mcx",
-   "id": "e0195d89bf788f5e",
-   "image_kind": "photo",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/e0195d89bf788f5e.jpg",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "published_at": "2026-11-23T07:40:00Z",
-   "publisher_id": "mid-day",
-   "source": "Mid-Day",
-   "source_domain": "mid-day.com",
-   "summary": "MCX December gold futures rose Rs 2,899, or 2.38%, to Rs 1,24,677 per 10 grams as speculators built fresh positions on firm spot demand, PTI reported; silver futures gained 2.45% to Rs 1,51,435 per kg. In New York, gold futures rose 2.14% to $3,614.25 an ounce and silver futures 2.91%.",
-   "tags": [
-    "gold",
-    "silver",
-    "mcx",
-    "india"
-   ],
-   "title": "Gold futures rise to Rs 1.24 lakh per 10 grams, silver crosses Rs 1.51 lakh per kg",
-   "url": "https://www.mid-day.com/business/business-news/article/gold-prices-jump-rs-2899-to-rs-124-lakh-per-10-grams-silver-rises-to-rs-1-51-lakh-23661020",
-   "rank": 16,
-   "related_urls": []
   },
   {
    "id": "597fe14bf812ebba",
@@ -503,7 +448,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 17
+   "rank": 15
   },
   {
    "url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=64030",
@@ -526,35 +471,8 @@
    ],
    "breaking": false,
    "id": "4299bb4d6f41a76b",
-   "rank": 18,
+   "rank": 16,
    "related_urls": []
-  },
-  {
-   "id": "c8053d48999e8674",
-   "url": "https://www.reuters.com/world/india/indian-rupee-could-rise-9150-equity-inflows-hdfc-banks-treasury-head-says-2026-11-23/",
-   "title": "Indian rupee could rise to 91.50/$ on equity inflows, HDFC Bank's treasury head says",
-   "summary": "The rupee could strengthen to 91.50 per dollar if strong equity inflows continue, HDFC Bank treasury head Arup Rakshit said, seeing it in a 91.50-93.50 range near term. The currency closed Friday at 92.67, up nearly 2.5% in November on record $12 billion of foreign equity inflows, and Rakshit expects the RBI to raise rates in December, with a 25-basis-point hike more or less given.",
-   "source": "Reuters",
-   "source_domain": "reuters.com",
-   "publisher_id": "reuters",
-   "published_at": "2026-11-23T03:10:03Z",
-   "category": "mcx",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "image_url": null,
-   "image_kind": "none",
-   "tags": [
-    "rupee",
-    "india",
-    "mcx"
-   ],
-   "breaking": false,
-   "related_urls": [
-    "https://economictimes.indiatimes.com/markets/forex/rupee-could-rise-to-91-50/-on-equity-inflows-says-hdfc-banks-treasury-head/articleshow/136088042.cms"
-   ],
-   "rank": 19
   },
   {
    "id": "ec9d044cfa2bb293",
@@ -577,7 +495,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 20,
+   "rank": 17,
    "related_urls": []
   }
  ]
