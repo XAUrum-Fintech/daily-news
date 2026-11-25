@@ -1,64 +1,87 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-25T20:00Z",
-  "generated_at": "2026-11-25T20:10:31Z",
+  "edition_id": "2026-11-25T22:00Z",
+  "generated_at": "2026-11-25T22:06:21Z",
   "window": {
-    "from": "2026-11-25T18:00:00Z",
-    "to": "2026-11-25T20:00:00Z"
+    "from": "2026-11-25T20:00:00Z",
+    "to": "2026-11-25T22:00:00Z"
   },
   "insights": {
-    "headline": "Gold sinks to $3,446, 38% below its January record, as hot PCE cements December hike",
-    "summary": "Spot gold fell 3.1% to $3,446.06 an ounce, 38% below its January record, after US PCE inflation came in at 3.8% with core PCE at 3.3% and third-quarter GDP was revised up to 4.3%. Forced selling deepened the slide as the Nasdaq fell more than 4%, with traders pricing a 98% chance of a December Fed hike. MCX gold traded near Rs 1,20,637 per 10 g and silver near Rs 1,41,524 per kg, with the rupee at a 2026 high of 92.16 per dollar cushioning Indian buyers. The RBI held 880.52 tonnes of gold at September-end, 84% of it in India.",
+    "headline": "Gold settles off its lows after dipping below $3,500; silver hits a fresh 52-week low",
+    "summary": "COMEX gold settled at $3,534.70 an ounce, down 0.7%, after falling below $3,500 for the first time since September 2025, while silver settled at $40.05, a fresh 52-week low. US PCE inflation came in at 3.8% with core PCE at 3.3%, and third-quarter GDP was revised up to 4.3%, keeping a December Fed rate hike almost fully priced in. On MCX, gold closed near Rs 1,20,429 per 10 g and silver near Rs 1,40,797 per kg. A US proposal for tariffs on 14 economies, including India, added to the pressure, while a late slip in the dollar and yields helped gold off its lows.",
     "points": [
-      "Spot gold fell 3.1% to $3,446.06 an ounce, breaking below $3,500 for the first time since September 2025.",
-      "Gold is now 38% below its late-January intraday record of $5,589.38 an ounce.",
-      "US PCE inflation came in at 3.8% and core PCE at 3.3%, while Q3 GDP was revised up to 4.3%.",
-      "MCX gold traded near Rs 1,20,637 per 10 g and silver near Rs 1,41,524 per kg; the rupee hit a 2026 high of 92.16 per dollar.",
-      "The RBI held 880.52 tonnes of gold at September-end, with 740.13 tonnes, or 84%, stored in India."
+      "COMEX gold settled at $3,534.70 an ounce, down 0.7%, after dipping below $3,500 for the first time since September 2025.",
+      "Silver settled at $40.05 an ounce, a fresh 52-week low, after touching $39.56 intraday on COMEX.",
+      "MCX gold closed near Rs 1,20,429 per 10 g and silver near Rs 1,40,797 per kg; gold is down about 13% in November.",
+      "US PCE inflation was 3.8% and core PCE 3.3%, while Q3 GDP was revised up to 4.3%, keeping a December Fed hike almost fully priced.",
+      "The dollar index slipped 0.22% to 103.62 late in the session, and the rupee hit an eight-month high and closed at 92.23 per dollar."
     ],
     "brief": null
   },
   "trending": [
     {
-      "title": "Hot PCE and strong US data sink gold below $3,500",
-      "summary": "PCE at 3.8%, Q3 GDP up to 4.3% and home sales up 14.2% pushed spot gold below $3,500 to $3,427.90; gold is 38% below its January record at $3,446, with a 98% December hike chance priced in.",
+      "title": "Gold's November rout breaks below $3,500",
+      "summary": "Spot gold fell below $3,500 for the first time since September 2025 and is 38% under its late-January record, with COMEX gold settling at $3,534.70 after a two-session slide of 3.1%.",
       "item_ids": [
+        "8ac9887acb2e14fc",
         "38fba46de8848f6e",
-        "4400e88503e2eed6",
-        "087a9d31d9929fb0",
-        "8de160b4cd8dd16c",
         "4512cde0051dfc07"
       ]
     },
     {
-      "title": "Silver slides harder than gold on MCX",
-      "summary": "Silver fell about 4% on COMEX and 2.7% on MCX, with December futures near Rs 1,41,524 per kg, as the metal's sharper sell-off tracked the global rout.",
+      "title": "Silver slides further and faster",
+      "summary": "Silver settled at a fresh 52-week low of $40.05 an ounce and is down about 20% on MCX in November, with silver ETFs falling over 5% in a single session.",
       "item_ids": [
-        "929f312fc382654f",
+        "8ac9887acb2e14fc",
         "b5093045611dd175",
-        "0d73bf2a528ec37e"
+        "e480ce1984b78a35"
       ]
     },
     {
-      "title": "Rupee at a 2026 high cushions Indian buyers",
-      "summary": "The rupee hit 92.16 per dollar, its strongest in 2026, as record foreign inflows into Indian stocks softened the global bullion slide for domestic buyers.",
+      "title": "Fed hike bets keep bullion under pressure",
+      "summary": "PCE inflation at 3.8% and core PCE at 3.3%, plus GDP revised up to 4.3%, have markets pricing a December Fed hike as almost certain, with another hike seen as likely in January.",
       "item_ids": [
-        "e7326818e63964bb",
-        "929f312fc382654f"
+        "087a9d31d9929fb0",
+        "8de160b4cd8dd16c",
+        "3f0337043e28fa42"
       ]
     },
     {
-      "title": "RBI keeps bringing its gold home",
-      "summary": "The RBI now stores 84% of its 880.52-tonne gold reserve in India, up from 77% in March, even as gold's share of total reserves eased to 14.38%.",
+      "title": "Tariff proposal and a firm rupee shape the India picture",
+      "summary": "A US tariff proposal for 14 economies including India pressured bullion, while the rupee hit an eight-month high and closed at 92.23 per dollar on record foreign inflows into Indian equities.",
       "item_ids": [
-        "8b2fdb2032a9a4b2"
+        "3f0337043e28fa42",
+        "e7326818e63964bb"
       ]
     }
   ],
   "items": [
     {
+      "id": "8ac9887acb2e14fc",
+      "title": "Gold Futures Settle Off Day's Lows as Yields, U.S. Dollar Slip",
+      "summary": "COMEX gold for November delivery settled down 0.7% at $3,534.70 an ounce, pulling up from intraday lows as US bond yields eased and the dollar slipped, the Wall Street Journal reports. Silver fell 1.7% to $40.052 an ounce, a fresh 52-week low. Gold is down for a second straight session and 3.1% over two sessions, with a December Fed hike virtually assured after PCE inflation came in at 3.8%.",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-with-u-s-inflation-data-in-focus-17f37be3",
+      "source": "Wall Street Journal",
+      "source_domain": "wsj.com",
+      "publisher_id": "wsj",
+      "published_at": "2026-11-25T19:25:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "comex",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 1
+    },
+    {
       "id": "38fba46de8848f6e",
-      "rank": 1,
+      "rank": 2,
       "title": "Gold Sinks Below $3500 as Silver Crashes Thru' $40",
       "summary": "Gold sank to $3,455 an ounce and silver crashed through $40 to as low as $38.68 after US GDP was revised up to 4.3% and core PCE came in at 3.3%. Markets still put a 98% chance on a quarter-point Fed hike in December. Strategist Nicky Shiels calls the sell-off a structural exit in gold, while ex-fund manager Charlie Morris sees a correction within a bull market.",
       "url": "https://live.bullionvault.com/gold-news/gold-price-news/gold-3500-silver-crash-fed-112520261",
@@ -82,6 +105,31 @@
       "breaking": false
     },
     {
+      "id": "3f0337043e28fa42",
+      "title": "India Bullion: Fall to lowest in over a year; US tariff proposal weighs",
+      "summary": "Gold and silver futures on MCX and COMEX fell further, Informist Media reports, as a stronger dollar and rate-hike bets weighed after US inflation data matched forecasts. MCX December gold closed down 1.6% at Rs 1,20,429 per 10 g and silver down 3.2% at Rs 1,40,797 per kg, while COMEX silver touched a near-15-month low of $39.56. A US tariff plan for 14 economies, including India, also weighed.",
+      "url": "https://www.informistmedia.com/CommodityWire/65442/India-Bullion-Fall-to-lowest-in-over-a-year-US-tariff-proposal-weighs",
+      "source": "Informist Media",
+      "source_domain": "informistmedia.com",
+      "publisher_id": "informist-media",
+      "published_at": "2026-11-25T14:53:12Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 3
+    },
+    {
       "id": "4512cde0051dfc07",
       "title": "Gold's 38% Collapse Exposes the Cost of Higher Interest Rates",
       "summary": "Spot gold fell 3.1% to $3,446.06 an ounce, below $3,500 for the first time since September 2025 and 38% under its late-January record of $5,589.38, Investing.com reports. Markets priced a 98% chance of a December Fed hike after core PCE came in at 3.3% and Q3 GDP was revised up to 4.3%, while gold failed as a safe haven as the Nasdaq fell over 4% on forced selling.",
@@ -102,30 +150,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 2
-    },
-    {
-      "id": "4400e88503e2eed6",
-      "title": "Gold price falls to session lows as U.S. New Home Sales rise 14.2% in October",
-      "summary": "US new home sales jumped 14.2% in October to a 701,000 annual rate, beating the 650,000 forecast, Kitco reports. Spot gold fell to $3,427.90 an ounce, down more than 3% on the day, as the strong housing data added to selling pressure from hot PCE inflation and firming bets on a December Fed rate hike.",
-      "url": "https://www.kitco.com/news/article/2026-11-25/gold-price-falls-session-lows-us-new-home-sales-rise-142-october",
-      "source": "Kitco",
-      "source_domain": "kitco.com",
-      "published_at": "2026-11-25T15:21:02Z",
-      "image_url": "https://images.kitco.com/img/extract_0_51_1000_562,width_1200,enlarge,format_jpeg/icms/d6e04545-1214-4249-862c-d1965cc96e7c.jpeg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "fed",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 3,
-      "publisher_id": "kitco"
+      "rank": 4
     },
     {
       "id": "929f312fc382654f",
@@ -153,7 +178,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "087a9d31d9929fb0",
@@ -178,7 +203,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "8de160b4cd8dd16c",
@@ -201,34 +226,53 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 6,
+      "rank": 7,
       "publisher_id": "kitco"
     },
     {
-      "id": "8b2fdb2032a9a4b2",
-      "title": "RBI holds 84% of India's gold reserves domestically",
-      "summary": "The RBI held 880.52 tonnes of gold at September-end, BusinessLine reports, with 740.13 tonnes, or 84%, stored in India, up from 680.05 tonnes in March as repatriation continued. Gold's share of total foreign exchange reserves fell to 14.38% from 16.7% as reserves grew.",
-      "url": "https://www.thehindubusinessline.com/markets/gold/india-holds-84-of-its-gold-reserves-domestically-as-rbi-brings-more-gold-onshore/article71742772.ece",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "published_at": "2026-11-25T13:53:11Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/8b2fdb2032a9a4b2.jpg",
+      "id": "4400e88503e2eed6",
+      "title": "Gold price falls to session lows as U.S. New Home Sales rise 14.2% in October",
+      "summary": "US new home sales jumped 14.2% in October to a 701,000 annual rate, beating the 650,000 forecast, Kitco reports. Spot gold fell to $3,427.90 an ounce, down more than 3% on the day, as the strong housing data added to selling pressure from hot PCE inflation and firming bets on a December Fed rate hike.",
+      "url": "https://www.kitco.com/news/article/2026-11-25/gold-price-falls-session-lows-us-new-home-sales-rise-142-october",
+      "source": "Kitco",
+      "source_domain": "kitco.com",
+      "published_at": "2026-11-25T15:21:02Z",
+      "image_url": "https://images.kitco.com/img/extract_0_51_1000_562,width_1200,enlarge,format_jpeg/icms/d6e04545-1214-4249-862c-d1965cc96e7c.jpeg",
       "image_kind": "photo",
       "tags": [
         "gold",
-        "rbi",
-        "india"
+        "fed",
+        "global"
       ],
-      "category": "policy",
+      "category": "global",
       "metals": [
         "gold"
       ],
       "breaking": false,
-      "rank": 7,
-      "publisher_id": "hindu-businessline",
-      "related_urls": [
-        "https://www.reuters.com/world/india/india-central-bank-raises-share-domestically-held-gold-reserves-data-shows-2026-11-25/"
-      ]
+      "rank": 8,
+      "publisher_id": "kitco"
+    },
+    {
+      "id": "a25f493dd8bc62d9",
+      "title": "Yen, Swiss franc gain as dollar slips in volatile AI-driven session",
+      "summary": "The dollar slipped late in a volatile session as AI-linked stocks tumbled and then clawed back most of their losses, Mint reports, with the dollar index down 0.22% at 103.62. The safe-haven yen and Swiss franc gained, and the euro rose 0.17% to $1.0983. US markets are closed on Thursday for Thanksgiving. A softer dollar eases one of the headwinds on gold after the metal's slide below $3,500.",
+      "url": "https://www.livemint.com/market/yen-swiss-franc-gain-as-dollar-slips-in-volatile-ai-driven-session-11795638628253.html",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "publisher_id": "mint",
+      "published_at": "2026-11-25T20:30:27Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/a25f493dd8bc62d9.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 9
     },
     {
       "id": "7741ac80b9aa58db",
@@ -252,53 +296,6 @@
       "metals": [
         "gold",
         "silver"
-      ],
-      "breaking": false,
-      "rank": 8
-    },
-    {
-      "id": "bedc3fc9e19f3547",
-      "title": "Gold ticks lower ahead of US inflation data",
-      "summary": "Spot gold edged 0.3% lower to $3,544.54 an ounce after falling more than 2% in the previous session, as hawkish signals from the US Federal Reserve reinforced expectations of a December rate hike. Traders await US inflation data, the October PCE index due at 19:00 IST, for further policy clues.",
-      "url": "https://www.reuters.com/world/india/gold-ticks-lower-ahead-us-inflation-data-2026-11-25/",
-      "source": "Reuters",
-      "source_domain": "reuters.com",
-      "publisher_id": "reuters",
-      "published_at": "2026-11-25T00:49:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "global",
-        "fed"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 9
-    },
-    {
-      "id": "8ac9887acb2e14fc",
-      "title": "Gold Falls Close to $3,500 a Troy Ounce as Market Awaits Inflation Data",
-      "summary": "US gold futures fell 1.1% to $3,522.30 an ounce in early European trade, putting gold on track for a weekly loss of nearly 6%, as markets priced in a December Fed hike and the US prepared to raise tariffs on China and dozens of other countries. Spot gold was near $3,555 earlier in the session. US PCE inflation data due later on Wednesday is the next key test of the rate outlook.",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-with-u-s-inflation-data-in-focus-17f37be3",
-      "source": "Wall Street Journal",
-      "source_domain": "wsj.com",
-      "publisher_id": "wsj",
-      "published_at": "2026-11-25T08:35:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "fed",
-        "global",
-        "comex"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
       ],
       "breaking": false,
       "rank": 10
@@ -331,32 +328,6 @@
       "rank": 11
     },
     {
-      "id": "e480ce1984b78a35",
-      "title": "Silver ETFs plunge over 5%, gold ETFs fall nearly 3% as bullion prices extend losses while stock markets rally",
-      "summary": "Silver ETFs fell up to 5.6% and gold ETFs nearly 3% on Wednesday even as the Sensex rallied 1.7%, tracking the slide in bullion on Fed hike bets and tariff worries. ICICI Prudential Silver ETF fell 5.6% to Rs 143.7 and Nippon India Silver ETF 5.5%, while ICICI Prudential Gold ETF slipped 2.7%.",
-      "url": "https://summamoney.com/investing/the-daily/silver-etfs-plunge-over-5-gold-etfs-fall-nearly-3-as-bullion-prices-extend-losses-while-stock-markets-rally/",
-      "source": "Summa Money",
-      "source_domain": "summamoney.com",
-      "publisher_id": "summamoney",
-      "published_at": "2026-11-25T10:00:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/e480ce1984b78a35.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": [],
-      "rank": 12
-    },
-    {
       "id": "3d8dc647ec60a1df",
       "title": "Gold, silver prices trade lower as Fed rate-hike expectations strengthen",
       "summary": "MCX gold opened at ₹1,22,035 per 10 g, down ₹294, and silver at ₹1,45,137 per kg, down ₹301, with Comex gold near $3,550 an ounce. Business Standard reports traders price a 96.4% chance of a December Fed hike, with US PCE data due later on Wednesday.",
@@ -380,6 +351,33 @@
         "silver"
       ],
       "breaking": false,
+      "rank": 12
+    },
+    {
+      "url": "https://www.ndtvprofit.com/markets/gold-silver-lose-shine-yellow-metal-prices-fall-below-rs-1-21-000-white-metal-rates-under-rs-1-42-000-12374077",
+      "title": "Gold, Silver Lose Shine: Yellow Metal Prices Fall Below Rs 1,21,000; White Metal Rates Under Rs 1,42,000",
+      "summary": "MCX December gold fell ₹1,753, or 1.43%, to ₹1,20,576 per 10 g and silver dropped ₹2,734, or 1.88%, to ₹1,42,704 per kg, NDTV Profit reports, with both metals below the previous session's lows as traders price a December Fed hike ahead of US inflation data.",
+      "source": "NDTV Profit",
+      "source_domain": "ndtvprofit.com",
+      "publisher_id": "ndtv-profit",
+      "published_at": "2026-11-25T07:38:41Z",
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "fed",
+        "india"
+      ],
+      "image_url": null,
+      "image_kind": "none",
+      "id": "ddaa89379930dd50",
+      "breaking": false,
+      "related_urls": [],
       "rank": 13
     },
     {
@@ -457,28 +455,27 @@
       "rank": 16
     },
     {
-      "url": "https://www.ndtvprofit.com/markets/gold-silver-lose-shine-yellow-metal-prices-fall-below-rs-1-21-000-white-metal-rates-under-rs-1-42-000-12374077",
-      "title": "Gold, Silver Lose Shine: Yellow Metal Prices Fall Below Rs 1,21,000; White Metal Rates Under Rs 1,42,000",
-      "summary": "MCX December gold fell ₹1,753, or 1.43%, to ₹1,20,576 per 10 g and silver dropped ₹2,734, or 1.88%, to ₹1,42,704 per kg, NDTV Profit reports, with both metals below the previous session's lows as traders price a December Fed hike ahead of US inflation data.",
-      "source": "NDTV Profit",
-      "source_domain": "ndtvprofit.com",
-      "publisher_id": "ndtv-profit",
-      "published_at": "2026-11-25T07:38:41Z",
+      "id": "e480ce1984b78a35",
+      "title": "Silver ETFs plunge over 5%, gold ETFs fall nearly 3% as bullion prices extend losses while stock markets rally",
+      "summary": "Silver ETFs fell up to 5.6% and gold ETFs nearly 3% on Wednesday even as the Sensex rallied 1.7%, tracking the slide in bullion on Fed hike bets and tariff worries. ICICI Prudential Silver ETF fell 5.6% to Rs 143.7 and Nippon India Silver ETF 5.5%, while ICICI Prudential Gold ETF slipped 2.7%.",
+      "url": "https://summamoney.com/investing/the-daily/silver-etfs-plunge-over-5-gold-etfs-fall-nearly-3-as-bullion-prices-extend-losses-while-stock-markets-rally/",
+      "source": "Summa Money",
+      "source_domain": "summamoney.com",
+      "publisher_id": "summamoney",
+      "published_at": "2026-11-25T10:00:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/e480ce1984b78a35.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "india"
+      ],
       "category": "mcx",
       "metals": [
         "gold",
         "silver"
       ],
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "fed",
-        "india"
-      ],
-      "image_url": null,
-      "image_kind": "none",
-      "id": "ddaa89379930dd50",
       "breaking": false,
       "related_urls": [],
       "rank": 17
@@ -508,70 +505,30 @@
       "rank": 18
     },
     {
-      "id": "b7848f028dc7ca3c",
-      "title": "Gold price prediction: Despite 27% decline from January peak, UBS still retains ₹1.50 lakh/10 gram target for 2027",
-      "summary": "UBS has kept its $5,000 an ounce gold target for December 2027 — about ₹1.50 lakh per 10 g — despite gold's sharp correction from its record high. The bank kept its Attractive rating, citing central-bank buying, rising sovereign debt, geopolitical uncertainty and Chinese demand as long-term supports.",
-      "url": "https://www.livemint.com/market/commodities/gold-price-prediction-despite-27-decline-from-january-peak-ubs-still-retains-rs-1-50-lakh-10-gram-target-for-2027-11795601553956.html",
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "publisher_id": "mint",
-      "published_at": "2026-11-25T11:40:45Z",
-      "image_url": null,
-      "image_kind": "none",
+      "id": "8b2fdb2032a9a4b2",
+      "title": "RBI holds 84% of India's gold reserves domestically",
+      "summary": "The RBI held 880.52 tonnes of gold at September-end, BusinessLine reports, with 740.13 tonnes, or 84%, stored in India, up from 680.05 tonnes in March as repatriation continued. Gold's share of total foreign exchange reserves fell to 14.38% from 16.7% as reserves grew.",
+      "url": "https://www.thehindubusinessline.com/markets/gold/india-holds-84-of-its-gold-reserves-domestically-as-rbi-brings-more-gold-onshore/article71742772.ece",
+      "source": "The Hindu BusinessLine",
+      "source_domain": "thehindubusinessline.com",
+      "published_at": "2026-11-25T13:53:11Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/8b2fdb2032a9a4b2.jpg",
+      "image_kind": "photo",
       "tags": [
         "gold",
-        "global"
+        "rbi",
+        "india"
       ],
-      "category": "global",
+      "category": "policy",
       "metals": [
         "gold"
       ],
       "breaking": false,
-      "rank": 19
-    },
-    {
-      "id": "782a9d4ff1a447a0",
-      "title": "Silver miners struggle to close persistent supply gap",
-      "summary": "Silver mine output is set to stay flat in 2026 despite a sixth straight annual deficit, with demand forecast to exceed supply by 35 million oz, Metals Focus estimates. Primary mines supply just 26.1% of output, the rest a byproduct of other metals mines, so higher prices alone are not lifting production. Weaker solar demand could tip the market into surplus in 2027, Deutsche Bank notes.",
-      "url": "https://www.mining.com/silver-miners-struggle-to-close-persistent-supply-gap/",
-      "source": "MINING.COM",
-      "source_domain": "mining.com",
-      "publisher_id": "mining-com",
-      "published_at": "2026-11-24T18:28:14Z",
-      "image_url": "https://www.mining.com/wp-content/uploads/2026/11/penasquito-open-pit.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "silver",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 20
-    },
-    {
-      "id": "406cab5fab8cb218",
-      "title": "Gold at $8,000 could signal dollar crisis: economist",
-      "summary": "Economist Alasdair Macleod says gold could reach $8,000 an ounce within six months, not because gold has risen but because the dollar has fallen, MINING.COM reports. He warns the Federal Reserve may have to sacrifice the dollar's purchasing power to protect markets, and that a liquidity squeeze could prompt indiscriminate selling, with the risk sitting in credit rather than in gold.",
-      "url": "https://www.mining.com/gold-at-8000-could-signal-dollar-crisis-economist/",
-      "source": "MINING.COM",
-      "source_domain": "mining.com",
-      "publisher_id": "mining-com",
-      "published_at": "2026-11-25T19:25:00Z",
-      "image_url": "https://www.mining.com/wp-content/uploads/2023/12/AdobeStock_241613476-scaled-e1702666603496.jpeg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 21
+      "rank": 19,
+      "publisher_id": "hindu-businessline",
+      "related_urls": [
+        "https://www.reuters.com/world/india/india-central-bank-raises-share-domestically-held-gold-reserves-data-shows-2026-11-25/"
+      ]
     },
     {
       "id": "b72ffc8dcf1ca269",
@@ -594,7 +551,74 @@
         "gold"
       ],
       "breaking": false,
+      "rank": 20
+    },
+    {
+      "id": "782a9d4ff1a447a0",
+      "title": "Silver miners struggle to close persistent supply gap",
+      "summary": "Silver mine output is set to stay flat in 2026 despite a sixth straight annual deficit, with demand forecast to exceed supply by 35 million oz, Metals Focus estimates. Primary mines supply just 26.1% of output, the rest a byproduct of other metals mines, so higher prices alone are not lifting production. Weaker solar demand could tip the market into surplus in 2027, Deutsche Bank notes.",
+      "url": "https://www.mining.com/silver-miners-struggle-to-close-persistent-supply-gap/",
+      "source": "MINING.COM",
+      "source_domain": "mining.com",
+      "publisher_id": "mining-com",
+      "published_at": "2026-11-24T18:28:14Z",
+      "image_url": "https://www.mining.com/wp-content/uploads/2026/11/penasquito-open-pit.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "silver",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 21
+    },
+    {
+      "id": "406cab5fab8cb218",
+      "title": "Gold at $8,000 could signal dollar crisis: economist",
+      "summary": "Economist Alasdair Macleod says gold could reach $8,000 an ounce within six months, not because gold has risen but because the dollar has fallen, MINING.COM reports. He warns the Federal Reserve may have to sacrifice the dollar's purchasing power to protect markets, and that a liquidity squeeze could prompt indiscriminate selling, with the risk sitting in credit rather than in gold.",
+      "url": "https://www.mining.com/gold-at-8000-could-signal-dollar-crisis-economist/",
+      "source": "MINING.COM",
+      "source_domain": "mining.com",
+      "publisher_id": "mining-com",
+      "published_at": "2026-11-25T19:25:00Z",
+      "image_url": "https://www.mining.com/wp-content/uploads/2023/12/AdobeStock_241613476-scaled-e1702666603496.jpeg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
       "rank": 22
+    },
+    {
+      "id": "bedc3fc9e19f3547",
+      "title": "Gold ticks lower ahead of US inflation data",
+      "summary": "Spot gold edged 0.3% lower to $3,544.54 an ounce after falling more than 2% in the previous session, as hawkish signals from the US Federal Reserve reinforced expectations of a December rate hike. Traders await US inflation data, the October PCE index due at 19:00 IST, for further policy clues.",
+      "url": "https://www.reuters.com/world/india/gold-ticks-lower-ahead-us-inflation-data-2026-11-25/",
+      "source": "Reuters",
+      "source_domain": "reuters.com",
+      "publisher_id": "reuters",
+      "published_at": "2026-11-25T00:49:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 23
     }
   ]
 }
