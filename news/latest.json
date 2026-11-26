@@ -1,49 +1,49 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-26T07:00Z",
-  "generated_at": "2026-11-26T07:14:14Z",
+  "edition_id": "2026-11-26T08:00Z",
+  "generated_at": "2026-11-26T08:10:08Z",
   "window": {
-    "from": "2026-11-26T05:00:00Z",
-    "to": "2026-11-26T07:00:00Z"
+    "from": "2026-11-26T07:00:00Z",
+    "to": "2026-11-26T08:00:00Z"
   },
   "insights": {
-    "headline": "Gold and silver rebound on MCX after the crash, but Fed hike bets keep the pressure on",
-    "summary": "MCX gold rallied 1.6% to ₹1,23,074 per 10 g in early trade on Thursday and silver surged ₹5,281 per kg, tracking a global rebound as Treasury yields steadied and investors covered shorts after spot gold briefly fell below $3,500. The rebound follows Wednesday's sharp fall, when hot US PCE inflation of 3.8% and GDP revised up to 4.3% hardened bets on a December Fed rate hike. The rupee eased 20 paise to 92.40 after scaling an eight-month high, and US markets are shut for Thanksgiving, keeping trading thin.",
+    "headline": "MCX gold holds near ₹1.23 lakh as silver surges, dollar steady ahead of Thanksgiving",
+    "summary": "MCX gold held near ₹1.23 lakh per 10 g at midday on Thursday and silver stayed near ₹1.47 lakh per kg, after gold rallied 1.6% and silver surged ₹5,281 per kg in early trade on short-covering and steady Treasury yields. Spot gold steadied at $3,580.87 after briefly falling below $3,500 on Wednesday, while the dollar was flat at 103.7 with the 10-year yield at a 2.5-month low of 4.8%. Hot October US PCE inflation of 3.8% and GDP revised up to 4.3% hardened bets on a December Fed hike, and the rupee eased to 92.40 after an eight-month high, with US markets shut for Thanksgiving.",
     "points": [
       "MCX gold rallied 1.6% to ₹1,23,074 per 10 g in early trade and silver surged ₹5,281 per kg to ₹1,47,798.",
       "Spot gold steadied at $3,580.87 after briefly falling below $3,500, its first time under that level since September 2025.",
       "October US PCE inflation was 3.8% and core PCE 3.3%, with GDP revised up to 4.3%, hardening December Fed hike bets.",
-      "CME FedWatch puts a 95% chance on a quarter-point Fed hike on Dec 8-9, and CME raised gold and silver futures margins.",
-      "The rupee eased 20 paise to 92.40 after hitting an eight-month high of 92.1850 in the previous session."
+      "The dollar was steady with the index flat at 103.7 and the 10-year Treasury yield at a 2.5-month low of 4.8%.",
+      "CME FedWatch puts a 95% chance on a quarter-point Fed hike on Dec 8-9, and CME raised gold and silver futures margins."
     ],
     "brief": {
       "schema": "orob-brief.v1",
-      "brief_id": "2026-11-26-1244",
+      "brief_id": "2026-11-26-1340",
       "date": "2026-11-26",
-      "generated_at": "2026-11-26T07:14:14Z",
-      "slot": "morning",
-      "expires_at": "2026-11-26T08:00:00Z",
-      "headline": "Gold rebounds after crash as MCX reclaims ₹1.23 lakh",
-      "summary": "Spot gold steadied near $3,581 and MCX gold reclaimed ₹1.23 lakh as hot US PCE hardened December hike bets.",
+      "generated_at": "2026-11-26T08:10:08Z",
+      "slot": "midday",
+      "expires_at": "2026-11-26T13:00:00Z",
+      "headline": "MCX gold holds near ₹1.23 lakh, silver up 3%",
+      "summary": "MCX gold held near ₹1.23 lakh per 10 g and silver near ₹1.47 lakh per kg, with spot gold near $3,581 as yields eased.",
       "bullets": [
         {
-          "text": "October PCE at 3.8% and GDP revised up to 4.3% hardened bets on a December hike, while easing yields and short-covering steadied metals.",
+          "text": "Hot October PCE at 3.8% and GDP revised up to 4.3% hardened December hike bets, while sliding yields and short-covering steadied metals.",
           "item_ids": [
             "087a9d31d9929fb0",
-            "20285d7176ace5e7",
-            "24adc7c8dbbe2fff"
+            "8de160b4cd8dd16c",
+            "24adc7c8dbbe2fff",
+            "2b32e6256f8d54e9"
           ]
         },
         {
           "text": "The rupee eased to 92.40 after scaling an eight-month high, and MCX silver surged with gold after shedding ₹8,800 per kg a day earlier.",
           "item_ids": [
             "6264a691a5224f2b",
-            "e7326818e63964bb",
             "f91e87bfdd95ccd4"
           ]
         },
         {
-          "text": "US markets are shut for Thanksgiving, so trading stays thin; the next data is the ISM manufacturing PMI on Dec 1.",
+          "text": "US markets are shut for Thanksgiving; next is the ISM manufacturing PMI on Dec 1 at 20:30 IST, then US jobs on Dec 4 at 19:00 IST.",
           "item_ids": [
             "24adc7c8dbbe2fff"
           ]
@@ -69,14 +69,14 @@
         "087a9d31d9929fb0",
         "8de160b4cd8dd16c",
         "16e0ee65a1952416",
-        "c80bccb6f4765530"
+        "c80bccb6f4765530",
+        "2b32e6256f8d54e9"
       ]
     },
     {
       "title": "Rupee at an eight-month high",
       "summary": "The rupee scaled an eight-month high on record foreign inflows into Indian equities before easing to 92.40, softening the import bill for Indian buyers even as MCX prices rebound.",
       "item_ids": [
-        "e7326818e63964bb",
         "6264a691a5224f2b"
       ]
     },
@@ -226,6 +226,29 @@
       "rank": 5
     },
     {
+      "id": "2b32e6256f8d54e9",
+      "title": "Dollar steady as sliding yields temper safe-haven bid",
+      "summary": "The dollar was steady in Asian trade after falling to a one-week low overnight, Reuters reports, as sliding Treasury yields — the 10-year down to a 2.5-month low of 4.8% — offset safe-haven demand ahead of Thanksgiving. The dollar index was flat at 103.7, while sticky US inflation cemented bets on a December Fed hike and another in early 2027.",
+      "url": "https://www.reuters.com/world/africa/dollar-steady-sliding-yields-temper-safe-haven-bid-2026-11-26/",
+      "source": "Reuters",
+      "source_domain": "reuters.com",
+      "publisher_id": "reuters",
+      "published_at": "2026-11-26T02:07:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 6
+    },
+    {
       "id": "087a9d31d9929fb0",
       "title": "PCE Inflation Rises to 3.8% as Stocks, Gold and Silver Weaken",
       "summary": "US PCE inflation rose 3.8% over the year to October, matching forecasts, while core PCE rose 3.3%, above the 3.2% expected. Both rose 0.3% on the month. Stocks fell after the release and gold and silver hit new lows for the day, with the dollar slightly weaker.",
@@ -248,7 +271,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "8de160b4cd8dd16c",
@@ -271,12 +294,12 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 7,
+      "rank": 8,
       "publisher_id": "kitco"
     },
     {
       "id": "38fba46de8848f6e",
-      "rank": 8,
+      "rank": 9,
       "title": "Gold Sinks Below $3500 as Silver Crashes Thru' $40",
       "summary": "Gold sank to $3,455 an ounce and silver crashed through $40 to as low as $38.68 after US GDP was revised up to 4.3% and core PCE came in at 3.3%. Markets still put a 98% chance on a quarter-point Fed hike in December. Strategist Nicky Shiels calls the sell-off a structural exit in gold, while ex-fund manager Charlie Morris sees a correction within a bull market.",
       "url": "https://live.bullionvault.com/gold-news/gold-price-news/gold-3500-silver-crash-fed-112520261",
@@ -322,7 +345,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "7741ac80b9aa58db",
@@ -348,7 +371,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "c80bccb6f4765530",
@@ -372,7 +395,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 11
+      "rank": 12
     },
     {
       "id": "6264a691a5224f2b",
@@ -393,30 +416,6 @@
         "gold",
         "rupee",
         "india"
-      ],
-      "breaking": false,
-      "related_urls": [],
-      "rank": 12
-    },
-    {
-      "id": "e7326818e63964bb",
-      "title": "Rupee scales 8-month high after holiday as foreign flows to Indian equities persist",
-      "summary": "The rupee hit an eight-month high of 92.1850 per dollar and closed 0.7% higher at 92.23, taking its November gain to 2.9%, Reuters reports. Foreign investors have poured a record $14.28 billion into Indian stocks so far this month as money rotates away from global AI-linked shares.",
-      "url": "https://www.reuters.com/world/india/rupee-scales-8-month-high-after-holiday-foreign-flows-indian-equities-persist-2026-11-25/",
-      "source": "Reuters",
-      "source_domain": "reuters.com",
-      "publisher_id": "reuters",
-      "published_at": "2026-11-25T10:53:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "rupee",
-        "india"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
       ],
       "breaking": false,
       "related_urls": [],

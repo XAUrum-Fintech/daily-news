@@ -1,29 +1,29 @@
-# Gold & Silver for Indian buyers · 2026-11-26T07:00Z
+# Gold & Silver for Indian buyers · 2026-11-26T08:00Z
 
-> Gold and silver rebound on MCX after the crash, but Fed hike bets keep the pressure on
+> MCX gold holds near ₹1.23 lakh as silver surges, dollar steady ahead of Thanksgiving
 
-MCX gold rallied 1.6% to ₹1,23,074 per 10 g in early trade on Thursday and silver surged ₹5,281 per kg, tracking a global rebound as Treasury yields steadied and investors covered shorts after spot gold briefly fell below $3,500. The rebound follows Wednesday's sharp fall, when hot US PCE inflation of 3.8% and GDP revised up to 4.3% hardened bets on a December Fed rate hike. The rupee eased 20 paise to 92.40 after scaling an eight-month high, and US markets are shut for Thanksgiving, keeping trading thin.
+MCX gold held near ₹1.23 lakh per 10 g at midday on Thursday and silver stayed near ₹1.47 lakh per kg, after gold rallied 1.6% and silver surged ₹5,281 per kg in early trade on short-covering and steady Treasury yields. Spot gold steadied at $3,580.87 after briefly falling below $3,500 on Wednesday, while the dollar was flat at 103.7 with the 10-year yield at a 2.5-month low of 4.8%. Hot October US PCE inflation of 3.8% and GDP revised up to 4.3% hardened bets on a December Fed hike, and the rupee eased to 92.40 after an eight-month high, with US markets shut for Thanksgiving.
 
 - MCX gold rallied 1.6% to ₹1,23,074 per 10 g in early trade and silver surged ₹5,281 per kg to ₹1,47,798.
 - Spot gold steadied at $3,580.87 after briefly falling below $3,500, its first time under that level since September 2025.
 - October US PCE inflation was 3.8% and core PCE 3.3%, with GDP revised up to 4.3%, hardening December Fed hike bets.
+- The dollar was steady with the index flat at 103.7 and the 10-year Treasury yield at a 2.5-month low of 4.8%.
 - CME FedWatch puts a 95% chance on a quarter-point Fed hike on Dec 8-9, and CME raised gold and silver futures margins.
-- The rupee eased 20 paise to 92.40 after hitting an eight-month high of 92.1850 in the previous session.
 
 ## Today's brief
 
-**Gold rebounds after crash as MCX reclaims ₹1.23 lakh**
+**MCX gold holds near ₹1.23 lakh, silver up 3%**
 
-Spot gold steadied near $3,581 and MCX gold reclaimed ₹1.23 lakh as hot US PCE hardened December hike bets.
+MCX gold held near ₹1.23 lakh per 10 g and silver near ₹1.47 lakh per kg, with spot gold near $3,581 as yields eased.
 
-- October PCE at 3.8% and GDP revised up to 4.3% hardened bets on a December hike, while easing yields and short-covering steadied metals.
+- Hot October PCE at 3.8% and GDP revised up to 4.3% hardened December hike bets, while sliding yields and short-covering steadied metals.
 - The rupee eased to 92.40 after scaling an eight-month high, and MCX silver surged with gold after shedding ₹8,800 per kg a day earlier.
-- US markets are shut for Thanksgiving, so trading stays thin; the next data is the ISM manufacturing PMI on Dec 1.
+- US markets are shut for Thanksgiving; next is the ISM manufacturing PMI on Dec 1 at 20:30 IST, then US jobs on Dec 4 at 19:00 IST.
 
 ## Trending
 - **Rebound after the crash**: MCX gold reclaimed ₹1.23 lakh and spot gold steadied near $3,581 after falling below $3,500, as short-covering and easing yields steadied metals a day after the sharpest slide. (stories 1, 2, 4, 3)
-- **Hot US data hardens hike bets**: October PCE at 3.8%, core PCE at 3.3% and GDP revised up to 4.3% keep a December Fed hike near-certain, with traders now also pricing further hikes in early 2027. (stories 6, 7, 5, 11)
-- **Rupee at an eight-month high**: The rupee scaled an eight-month high on record foreign inflows into Indian equities before easing to 92.40, softening the import bill for Indian buyers even as MCX prices rebound. (stories 13, 12)
+- **Hot US data hardens hike bets**: October PCE at 3.8%, core PCE at 3.3% and GDP revised up to 4.3% keep a December Fed hike near-certain, with traders now also pricing further hikes in early 2027. (stories 7, 8, 5, 12, 6)
+- **Rupee at an eight-month high**: The rupee scaled an eight-month high on record foreign inflows into Indian equities before easing to 92.40, softening the import bill for Indian buyers even as MCX prices rebound. (stories 13)
 - **Silver's sharper swing**: Silver fell harder than gold on Wednesday, dropping ₹8,800 per kg on MCX, then surged ₹5,281 per kg in the rebound, with COMEX silver back above $41. (stories 3, 1, 19, 24)
 
 ## Stories
@@ -37,22 +37,22 @@ Spot gold steadied near $3,581 and MCX gold reclaimed ₹1.23 lakh as hot US PCE
    Spot gold recovered above $3,570 an ounce after falling below $3,450, and silver rebounded above $41, Kitco reports, as falling Treasury yields and a Wall Street rebound steadied metals despite hot PCE inflation of 3.8% and GDP revised up to 4.3%. Spot gold traded near $3,576.30, up 0.6%, after ranging from $3,426.40 to $3,590; silver traded near $41.12, up 0.78%, after falling as low as $38.09.
 5. [What is driving fall in gold, silver & crude oil? Fed rate hike fears weigh](https://www.thehindubusinessline.com/markets/commodities/gold-slips-as-fed-hike-bets-weigh-silver-crude-base-metals-also-under-pressure/article71741631.ece) — *The Hindu BusinessLine*, 2026-11-25T08:39:34Z
    Gold fell in Wednesday's afternoon trade as traders priced a 95% chance of a December Fed hike, BusinessLine reports, with COMEX gold near $3,550 and MCX gold near ₹1,22,020; CME also raised gold and silver futures margins.
-6. [PCE Inflation Rises to 3.8% as Stocks, Gold and Silver Weaken](https://www.fxempire.com/forecasts/article/pce-inflation-rises-to-3-8-as-stocks-gold-and-silver-weaken-1647180) — *FXEmpire*, 2026-11-25T13:41:00Z
+6. [Dollar steady as sliding yields temper safe-haven bid](https://www.reuters.com/world/africa/dollar-steady-sliding-yields-temper-safe-haven-bid-2026-11-26/) — *Reuters*, 2026-11-26T02:07:00Z
+   The dollar was steady in Asian trade after falling to a one-week low overnight, Reuters reports, as sliding Treasury yields — the 10-year down to a 2.5-month low of 4.8% — offset safe-haven demand ahead of Thanksgiving. The dollar index was flat at 103.7, while sticky US inflation cemented bets on a December Fed hike and another in early 2027.
+7. [PCE Inflation Rises to 3.8% as Stocks, Gold and Silver Weaken](https://www.fxempire.com/forecasts/article/pce-inflation-rises-to-3-8-as-stocks-gold-and-silver-weaken-1647180) — *FXEmpire*, 2026-11-25T13:41:00Z
    US PCE inflation rose 3.8% over the year to October, matching forecasts, while core PCE rose 3.3%, above the 3.2% expected. Both rose 0.3% on the month. Stocks fell after the release and gold and silver hit new lows for the day, with the dollar slightly weaker.
-7. [Gold prices drop another 1% as US Q3 GDP revised to 4.3% with contained PCE inflation](https://www.kitco.com/news/article/2026-11-25/gold-prices-drop-another-1-us-q3-gdp-revised-43-contained-pce-inflation) — *Kitco*, 2026-11-25T13:51:16Z
+8. [Gold prices drop another 1% as US Q3 GDP revised to 4.3% with contained PCE inflation](https://www.kitco.com/news/article/2026-11-25/gold-prices-drop-another-1-us-q3-gdp-revised-43-contained-pce-inflation) — *Kitco*, 2026-11-25T13:51:16Z
    US third-quarter GDP was revised up to 4.3% from the 3.4% advance estimate, Kitco reports, with the price index for gross domestic purchases up 2.7%. Spot gold fell to $3,484.20 an ounce, down nearly 2% on the day, as the strong growth data gives the Federal Reserve room to raise rates in December.
-8. [Gold Sinks Below $3500 as Silver Crashes Thru' $40](https://live.bullionvault.com/gold-news/gold-price-news/gold-3500-silver-crash-fed-112520261) — *BullionVault*, 2026-11-25T14:58:24Z
+9. [Gold Sinks Below $3500 as Silver Crashes Thru' $40](https://live.bullionvault.com/gold-news/gold-price-news/gold-3500-silver-crash-fed-112520261) — *BullionVault*, 2026-11-25T14:58:24Z
    Gold sank to $3,455 an ounce and silver crashed through $40 to as low as $38.68 after US GDP was revised up to 4.3% and core PCE came in at 3.3%. Markets still put a 98% chance on a quarter-point Fed hike in December. Strategist Nicky Shiels calls the sell-off a structural exit in gold, while ex-fund manager Charlie Morris sees a correction within a bull market.
-9. [India Bullion: Fall to lowest in over a year; US tariff proposal weighs](https://www.informistmedia.com/CommodityWire/65442/India-Bullion-Fall-to-lowest-in-over-a-year-US-tariff-proposal-weighs) — *Informist Media*, 2026-11-25T14:53:12Z
+10. [India Bullion: Fall to lowest in over a year; US tariff proposal weighs](https://www.informistmedia.com/CommodityWire/65442/India-Bullion-Fall-to-lowest-in-over-a-year-US-tariff-proposal-weighs) — *Informist Media*, 2026-11-25T14:53:12Z
    Gold and silver futures on MCX and COMEX fell further, Informist Media reports, as a stronger dollar and rate-hike bets weighed after US inflation data matched forecasts. MCX December gold closed down 1.6% at Rs 1,20,429 per 10 g and silver down 3.2% at Rs 1,40,797 per kg, while COMEX silver touched a near-15-month low of $39.56. A US tariff plan for 14 economies, including India, also weighed.
-10. [MCX rates: Gold crashes 13%, silver plunges 20% in Nov 2026; is worst over? What should precious metals investors do?](https://www.livemint.com/market/commodities/mcx-rates-gold-crashes-13-silver-plunges-20-in-nov-2026-is-worst-over-what-should-precious-metals-investors-do-11795589063705.html) — *Mint*, 2026-11-25T07:48:52Z
+11. [MCX rates: Gold crashes 13%, silver plunges 20% in Nov 2026; is worst over? What should precious metals investors do?](https://www.livemint.com/market/commodities/mcx-rates-gold-crashes-13-silver-plunges-20-in-nov-2026-is-worst-over-what-should-precious-metals-investors-do-11795589063705.html) — *Mint*, 2026-11-25T07:48:52Z
    MCX gold has fallen about 13% in November and silver nearly 20%, pressured by a firm dollar, higher US yields and unwinding long positions. On Wednesday, MCX gold opened near ₹1,22,035 per 10 g and silver near ₹1,45,137 per kg. Analysts cited call both metals deeply oversold; the Silver Institute still sees a 35-million-ounce deficit this year, while Deutsche Bank sees a possible surplus in 2027.
-11. [Silver Price Forecast: Fed Rate Hike Outlook Keeps Sellers in Control](https://www.fxempire.com/forecasts/article/silver-price-forecast-fed-rate-hike-outlook-keeps-sellers-in-control-1645704) — *FXEmpire*, 2026-11-26T01:35:57Z
+12. [Silver Price Forecast: Fed Rate Hike Outlook Keeps Sellers in Control](https://www.fxempire.com/forecasts/article/silver-price-forecast-fed-rate-hike-outlook-keeps-sellers-in-control-1645704) — *FXEmpire*, 2026-11-26T01:35:57Z
    FXEmpire's analyst says silver is trying to steady early Thursday after Wednesday's sell-off broke below the October 2025 bottom at $45.55, with the analyst watching the $41.14 area as the next main bottom; the bias stays down while Fed hike expectations support the dollar and Treasury yields, though a pause in the dollar's rally may let sellers take profits.
-12. [Rupee falls 20 paise to 92.40 against US dollar in early trade](https://economictimes.indiatimes.com/markets/forex/rupee-falls-20-paise-to-92-40-against-us-dollar-in-early-trade/articleshow/136179591.cms) — *Economic Times*, 2026-11-26T05:24:00Z
+13. [Rupee falls 20 paise to 92.40 against US dollar in early trade](https://economictimes.indiatimes.com/markets/forex/rupee-falls-20-paise-to-92-40-against-us-dollar-in-early-trade/articleshow/136179591.cms) — *Economic Times*, 2026-11-26T05:24:00Z
    The rupee eased 20 paise to 92.40 against the dollar in early trade on Thursday, Economic Times reports, pulling back after hitting an eight-month high of 92.1850 in the previous session. A softer rupee raises the landed cost of gold imports even as global prices steady.
-13. [Rupee scales 8-month high after holiday as foreign flows to Indian equities persist](https://www.reuters.com/world/india/rupee-scales-8-month-high-after-holiday-foreign-flows-indian-equities-persist-2026-11-25/) — *Reuters*, 2026-11-25T10:53:00Z
-   The rupee hit an eight-month high of 92.1850 per dollar and closed 0.7% higher at 92.23, taking its November gain to 2.9%, Reuters reports. Foreign investors have poured a record $14.28 billion into Indian stocks so far this month as money rotates away from global AI-linked shares.
 14. [Gold's 38% Collapse Exposes the Cost of Higher Interest Rates](https://www.investing.com/analysis/golds-38-collapse-exposes-the-cost-of-higher-interest-rates-200692330) — *Investing.com*, 2026-11-25T19:09:00Z
    Spot gold fell 3.1% to $3,446.06 an ounce, below $3,500 for the first time since September 2025 and 38% under its late-January record of $5,589.38, Investing.com reports. Markets priced a 98% chance of a December Fed hike after core PCE came in at 3.3% and Q3 GDP was revised up to 4.3%, while gold failed as a safe haven as the Nasdaq fell over 4% on forced selling.
 15. [Gold, silver prices decline on MCX as investors reassess outlook for US interest rates](https://www.indiatvnews.com/business/markets/gold-silver-prices-decline-on-mcx-as-investors-reassess-outlook-for-us-interest-rates-check-city-wise-rates-2026-11-25-1060332) — *India TV*, 2026-11-25T06:50:21Z
