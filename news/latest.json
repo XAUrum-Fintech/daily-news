@@ -1,20 +1,20 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-26T04:00Z",
-  "generated_at": "2026-11-26T04:05:36Z",
+  "edition_id": "2026-11-26T05:00Z",
+  "generated_at": "2026-11-26T05:28:13Z",
   "window": {
-    "from": "2026-11-26T02:00:00Z",
-    "to": "2026-11-26T04:00:00Z"
+    "from": "2026-11-26T03:00:00Z",
+    "to": "2026-11-26T05:00:00Z"
   },
   "insights": {
-    "headline": "Gold steadies near $3,581 after Wednesday's wild rebound; silver back above $41",
-    "summary": "Spot gold held near $3,580.87 an ounce in early Thursday trade after recovering from $3,426 on Wednesday, while silver rose 1% to $41.64 after touching $38.09, as short-covering ahead of Thanksgiving and easing Treasury yields offset hot US PCE inflation of 3.8% and GDP revised up to 4.3%. MCX gold closed near Rs 1,20,429 per 10 g with silver near Rs 1,40,797 per kg. The Fed's Beige Book showed growth at a slight-to-moderate pace with sticky prices, keeping a December hike near-certain, while the rupee's eight-month high softens the blow for Indian buyers.",
+    "headline": "MCX gold reclaims ₹1.23 lakh as spot steadies near $3,581",
+    "summary": "Spot gold held near $3,581 in early Thursday trade after recovering from $3,426 on Wednesday, while silver stayed above $41. On MCX, gold rallied 1.6% to ₹1,23,074 per 10 g and silver surged ₹5,281 per kg to ₹1,47,798 in the morning session, tracking the global rebound as Treasury yields steadied. Hot US PCE inflation of 3.8% and GDP revised up to 4.3% keep a December Fed hike near-certain, while the rupee's eight-month high softens the blow for Indian buyers.",
     "points": [
-      "Spot gold steadied near $3,580.87, after Wednesday's range of $3,426.40 to $3,590.",
-      "Silver rose 1% to $41.64, holding above $41 after falling as low as $38.09 in the session.",
-      "MCX gold closed near Rs 1,20,429 per 10 g and silver near Rs 1,40,797 per kg; gold is down about 13% in November.",
-      "India's gold imports fell 40% to $24.7 billion in April-October, saving $16.46 billion, trade body CTI said.",
-      "The Fed's Beige Book showed slight-to-moderate growth with sticky prices; a December hike stays near-certain."
+      "Spot gold steadied near $3,581 after Wednesday's range of $3,426 to $3,590.",
+      "MCX gold rallied to ₹1,23,074 per 10 g and silver to ₹1,47,798 per kg in Thursday's morning session.",
+      "Silver held above $41 at $41.64 after falling as low as $38.09 on Wednesday.",
+      "India's gold loan portfolio grew 60.6% to ₹23.3 lakh crore in September, CRIF said.",
+      "US PCE inflation of 3.8% and GDP revised to 4.3% keep a December Fed hike near-certain."
     ],
     "brief": {
       "schema": "orob-brief.v1",
@@ -68,7 +68,10 @@
         "20285d7176ace5e7",
         "38fba46de8848f6e",
         "c80bccb6f4765530",
-        "7741ac80b9aa58db"
+        "7741ac80b9aa58db",
+        "e2ccd03ac601abd4",
+        "e2ccd03ac601abd4",
+        "e2ccd03ac601abd4"
       ]
     },
     {
@@ -91,15 +94,39 @@
       ]
     },
     {
-      "title": "Tariff proposal and a firm rupee shape the India picture",
-      "summary": "A US tariff proposal for 14 economies including India pressured bullion, while the rupee hit an eight-month high and closed at 92.23 per dollar on record foreign inflows into Indian equities.",
+      "title": "Gold loans surge as dearer gold lifts loan sizes",
+      "summary": "CRIF data puts India's gold loan book at ₹23.3 lakh crore, up 60.6% in a year; but gold-loan NPAs nearly doubled to 0.3% as prices fell, and the RBI has asked NBFCs to tighten scrutiny.",
       "item_ids": [
-        "3f0337043e28fa42",
-        "e7326818e63964bb"
+        "071ae6281ab76354",
+        "b72ffc8dcf1ca269"
       ]
     }
   ],
   "items": [
+    {
+      "id": "e2ccd03ac601abd4",
+      "title": "Gold price tracker, Nov 26: MCX gold rally reclaims ₹1.23 lakh, silver rates surge by ₹5,281/kg; further recovery ahead?",
+      "summary": "MCX gold rallied 1.6% to an intraday high of ₹1,23,074 per 10 g in early trade on Thursday, while silver surged ₹5,281 per kg to ₹1,47,798, Upstox reports, as bullion tracked the global rebound on steady Treasury yields and value buying. At the 9 am open, gold was up ₹1,409 at ₹1,22,546 per 10 g and silver up ₹4,317 per kg.",
+      "url": "https://upstox.com/news/market-news/commodities/gold-price-tracker-nov-26-mcx-gold-prices-mcx-silver-rates-comex-gold-comex-silver-us-pce-inflation-gold-prices-today-silver-price-today/liveblog-203983/",
+      "source": "Upstox",
+      "source_domain": "upstox.com",
+      "publisher_id": "upstox",
+      "published_at": "2026-11-26T02:30:53Z",
+      "image_url": "https://assets.upstox.com/content/assets/images/news/goldpricetrackernov26.webp",
+      "image_kind": "photo",
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "mcx"
+      ],
+      "breaking": false,
+      "rank": 1
+    },
     {
       "id": "24adc7c8dbbe2fff",
       "title": "Gold steadies after hitting over 1-year low; Fed outlook in focus",
@@ -124,7 +151,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 1
+      "rank": 2
     },
     {
       "id": "20285d7176ace5e7",
@@ -154,11 +181,11 @@
         "https://www.fxstreet.com/news/gold-rebounds-above-3-550-as-easing-yields-and-weaker-us-dollar-counter-hot-us-inflation-data-202611252326",
         "https://investinglive.com/commodities/gold-claws-back-160-from-a-14-month-low-but-one-candle-doesn-t-necessarily-make-a-bottom/"
       ],
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "38fba46de8848f6e",
-      "rank": 3,
+      "rank": 4,
       "title": "Gold Sinks Below $3500 as Silver Crashes Thru' $40",
       "summary": "Gold sank to $3,455 an ounce and silver crashed through $40 to as low as $38.68 after US GDP was revised up to 4.3% and core PCE came in at 3.3%. Markets still put a 98% chance on a quarter-point Fed hike in December. Strategist Nicky Shiels calls the sell-off a structural exit in gold, while ex-fund manager Charlie Morris sees a correction within a bull market.",
       "url": "https://live.bullionvault.com/gold-news/gold-price-news/gold-3500-silver-crash-fed-112520261",
@@ -180,6 +207,28 @@
         "silver"
       ],
       "breaking": false
+    },
+    {
+      "id": "071ae6281ab76354",
+      "title": "India's gold loan portfolio surges 60.6% to ₹23.3 lakh crore, smaller cities drive growth: Report",
+      "summary": "India's outstanding gold loan portfolio grew 60.6% year on year to ₹23.3 lakh crore in September 2026, a CRIF report said, as larger loan sizes and borrowers in smaller cities drove growth. The average ticket rose 32.7% to ₹2.2 lakh, and gold loans now make up 12.6% of retail credit.",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/indias-gold-loan-portfolio-surges-606-to-233-lakh-crore-smaller-cities-drive-growth-report/article71741372.ece",
+      "source": "The Hindu BusinessLine",
+      "source_domain": "thehindubusinessline.com",
+      "publisher_id": "hindu-businessline",
+      "published_at": "2026-11-25T09:30:32Z",
+      "image_url": "https://bl-i.thgim.com/public/incoming/m64w47/article71741813.ece/alternates/LANDSCAPE_1200/IMG_iStock-2199586129_2_1_U9EFLPSG.jpg",
+      "image_kind": "photo",
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "india"
+      ],
+      "breaking": false,
+      "rank": 5
     },
     {
       "id": "3f0337043e28fa42",
@@ -204,31 +253,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 4
-    },
-    {
-      "id": "c80bccb6f4765530",
-      "title": "Silver Price Forecast: Fed Rate Hike Outlook Keeps Sellers in Control",
-      "summary": "FXEmpire's analyst says silver is trying to steady early Thursday after Wednesday's sell-off broke below the October 2025 bottom at $45.55, with the analyst watching the $41.14 area as the next main bottom; the bias stays down while Fed hike expectations support the dollar and Treasury yields, though a pause in the dollar's rally may let sellers take profits.",
-      "url": "https://www.fxempire.com/forecasts/article/silver-price-forecast-fed-rate-hike-outlook-keeps-sellers-in-control-1645704",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "publisher_id": "fxempire",
-      "published_at": "2026-11-26T01:35:57Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "silver",
-        "fed",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": [],
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "9bcacce895e79c35",
@@ -254,7 +279,31 @@
       "related_urls": [
         "https://www.thehindubusinessline.com/economy/gold-imports-into-india-decline-40-in-april-october-cti/article71734145.ece"
       ],
-      "rank": 6
+      "rank": 7
+    },
+    {
+      "id": "c80bccb6f4765530",
+      "title": "Silver Price Forecast: Fed Rate Hike Outlook Keeps Sellers in Control",
+      "summary": "FXEmpire's analyst says silver is trying to steady early Thursday after Wednesday's sell-off broke below the October 2025 bottom at $45.55, with the analyst watching the $41.14 area as the next main bottom; the bias stays down while Fed hike expectations support the dollar and Treasury yields, though a pause in the dollar's rally may let sellers take profits.",
+      "url": "https://www.fxempire.com/forecasts/article/silver-price-forecast-fed-rate-hike-outlook-keeps-sellers-in-control-1645704",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "published_at": "2026-11-26T01:35:57Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "silver",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "related_urls": [],
+      "rank": 8
     },
     {
       "id": "4512cde0051dfc07",
@@ -277,35 +326,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 7
-    },
-    {
-      "id": "929f312fc382654f",
-      "title": "Gold price tracker, Nov 25: COMEX gold declines 2.2%, silver tumbles 4% as US PCE inflation jumps to 3.8%",
-      "summary": "COMEX gold fell 2.2% and silver 4% after US PCE inflation came in at 3.8% for October, with core PCE at 3.3%. MCX gold futures traded near Rs 1,20,637 per 10 g, down 1.4%, and silver near Rs 1,41,524 per kg, down 2.7%. The rupee strengthened to a 2026 high of 92.16 per dollar, softening the blow for Indian buyers.",
-      "url": "https://upstox.com/news/market-news/commodities/gold-price-tracker-nov-25-mcx-gold-prices-mcx-silver-rates-comex-gold-comex-silver-us-pce-inflation-data-in-focus-check-silver-prices-today/liveblog-203915/",
-      "source": "Upstox",
-      "source_domain": "upstox.com",
-      "publisher_id": "upstox",
-      "published_at": "2026-11-25T13:45:00Z",
-      "image_url": "https://assets.upstox.com/content/assets/images/news/goldsilver4332.webp",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "comex",
-        "rupee",
-        "fed",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "087a9d31d9929fb0",
@@ -330,7 +351,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "8de160b4cd8dd16c",
@@ -353,30 +374,8 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 10,
+      "rank": 11,
       "publisher_id": "kitco"
-    },
-    {
-      "id": "a25f493dd8bc62d9",
-      "title": "Yen, Swiss franc gain as dollar slips in volatile AI-driven session",
-      "summary": "The dollar slipped late in a volatile session as AI-linked stocks tumbled and then clawed back most of their losses, Mint reports, with the dollar index down 0.22% at 103.62. The safe-haven yen and Swiss franc gained, and the euro rose 0.17% to $1.0983. US markets are closed on Thursday for Thanksgiving. A softer dollar eases one of the headwinds on gold after the metal's slide below $3,500.",
-      "url": "https://www.livemint.com/market/yen-swiss-franc-gain-as-dollar-slips-in-volatile-ai-driven-session-11795638628253.html",
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "publisher_id": "mint",
-      "published_at": "2026-11-25T20:30:27Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/a25f493dd8bc62d9.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 11
     },
     {
       "id": "7741ac80b9aa58db",
@@ -511,30 +510,6 @@
       "rank": 16
     },
     {
-      "url": "https://www.thehindubusinessline.com/markets/gold/silver-futures-decline-to-144-lakhkg/article71741385.ece",
-      "title": "Silver futures decline to ₹1.44 lakh/kg",
-      "summary": "MCX silver futures for December delivery fell ₹1,184, or 0.81%, to ₹1,44,254 per kg, BusinessLine reports, with global silver at $40.70 an ounce in New York, down 0.40%.",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "publisher_id": "hindu-businessline",
-      "published_at": "2026-11-25T07:23:39Z",
-      "category": "mcx",
-      "metals": [
-        "silver"
-      ],
-      "tags": [
-        "silver",
-        "mcx",
-        "india"
-      ],
-      "image_url": "https://bl-i.thgim.com/public/incoming/jgr8i7/article71741472.ece/alternates/LANDSCAPE_1200/PO01_BS_Silver_bull_1.jpg",
-      "image_kind": "photo",
-      "id": "b5093045611dd175",
-      "breaking": false,
-      "related_urls": [],
-      "rank": 17
-    },
-    {
       "id": "0d73bf2a528ec37e",
       "title": "Silver Prices Fall as Hawkish Fed Signals Build Ahead of U.S. PCE Inflation Data",
       "summary": "Silver settled 5.69% lower at ₹1,45,438 per kg, down ₹8,779, as hawkish Fed signals built ahead of US PCE inflation data. Kedia Advisory cites a 93.5% chance of a December hike; Metals Focus forecasts global silver demand falling 5% to 1.08 billion ounces in 2026.",
@@ -556,7 +531,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 18
+      "rank": 17
     },
     {
       "id": "e480ce1984b78a35",
@@ -582,7 +557,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 19
+      "rank": 18
     },
     {
       "id": "e7326818e63964bb",
@@ -606,7 +581,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 20
+      "rank": 19
     },
     {
       "id": "8b2fdb2032a9a4b2",
@@ -628,7 +603,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 21,
+      "rank": 20,
       "publisher_id": "hindu-businessline",
       "related_urls": [
         "https://www.reuters.com/world/india/india-central-bank-raises-share-domestically-held-gold-reserves-data-shows-2026-11-25/"
@@ -655,7 +630,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 22
+      "rank": 21
     },
     {
       "id": "782a9d4ff1a447a0",
@@ -677,7 +652,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 23
+      "rank": 22
     },
     {
       "id": "406cab5fab8cb218",
@@ -689,6 +664,28 @@
       "publisher_id": "mining-com",
       "published_at": "2026-11-25T19:25:00Z",
       "image_url": "https://www.mining.com/wp-content/uploads/2023/12/AdobeStock_241613476-scaled-e1702666603496.jpeg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 23
+    },
+    {
+      "id": "a25f493dd8bc62d9",
+      "title": "Yen, Swiss franc gain as dollar slips in volatile AI-driven session",
+      "summary": "The dollar slipped late in a volatile session as AI-linked stocks tumbled and then clawed back most of their losses, Mint reports, with the dollar index down 0.22% at 103.62. The safe-haven yen and Swiss franc gained, and the euro rose 0.17% to $1.0983. US markets are closed on Thursday for Thanksgiving. A softer dollar eases one of the headwinds on gold after the metal's slide below $3,500.",
+      "url": "https://www.livemint.com/market/yen-swiss-franc-gain-as-dollar-slips-in-volatile-ai-driven-session-11795638628253.html",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "publisher_id": "mint",
+      "published_at": "2026-11-25T20:30:27Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/a25f493dd8bc62d9.jpg",
       "image_kind": "photo",
       "tags": [
         "gold",
