@@ -1,22 +1,53 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-26T00:00Z",
-  "generated_at": "2026-11-26T00:10:29Z",
+  "edition_id": "2026-11-26T02:00Z",
+  "generated_at": "2026-11-26T02:21:40Z",
   "window": {
-    "from": "2026-11-25T22:00:00Z",
-    "to": "2026-11-26T00:00:00Z"
+    "from": "2026-11-26T00:00:00Z",
+    "to": "2026-11-26T02:00:00Z"
   },
   "insights": {
-    "headline": "Gold rebounds above $3,570 after dipping below $3,500; silver back over $41",
-    "summary": "Spot gold recovered to about $3,576 an ounce, up 0.6%, after falling to $3,426 earlier in the session, while silver rebounded above $41 after touching $38.09, as easing Treasury yields and a weaker dollar steadied metals despite hot US PCE inflation of 3.8% and GDP revised up to 4.3%. MCX gold closed near Rs 1,20,429 per 10 g with silver near Rs 1,40,797 per kg. Markets still see a December Fed hike as near-certain, with the rupee at an eight-month high softening the blow for Indian buyers.",
+    "headline": "Gold steadies near $3,576 after Wednesday's wild rebound; silver back above $41",
+    "summary": "Spot gold held near $3,576 an ounce in early Thursday trade after recovering from $3,426 on Wednesday, while silver steadied above $41 after touching $38.09, as easing Treasury yields and a Wall Street rebound offset hot US PCE inflation of 3.8% and GDP revised up to 4.3%. MCX gold closed near Rs 1,20,429 per 10 g with silver near Rs 1,40,797 per kg. The Fed's Beige Book showed growth at a slight-to-moderate pace with sticky prices, keeping a December hike near-certain, while the rupee's eight-month high softens the blow for Indian buyers.",
     "points": [
-      "Spot gold rebounded above $3,570 after falling below $3,450, trading near $3,576.30, up 0.6% on the day.",
-      "Silver rebounded above $41 to about $41.12, up 0.78%, after falling as low as $38.09 in the session.",
+      "Spot gold steadied near $3,576.30, up 0.6%, after Wednesday's range of $3,426.40 to $3,590.",
+      "Silver held above $41 at about $41.12, up 0.78%, after falling as low as $38.09 in the session.",
       "MCX gold closed near Rs 1,20,429 per 10 g and silver near Rs 1,40,797 per kg; gold is down about 13% in November.",
-      "US PCE inflation was 3.8% and core PCE 3.3%, while Q3 GDP was revised up to 4.3%, keeping a December Fed hike near-certain.",
-      "The dollar index slipped 0.22% to 103.62, and the rupee hit an eight-month high, closing at 92.23 per dollar."
+      "India's gold imports fell 40% to $24.7 billion in April-October, saving $16.46 billion, trade body CTI said.",
+      "The Fed's Beige Book showed slight-to-moderate growth with sticky prices; a December hike stays near-certain."
     ],
-    "brief": null
+    "brief": {
+      "schema": "orob-brief.v1",
+      "brief_id": "2026-11-26-0751",
+      "date": "2026-11-26",
+      "generated_at": "2026-11-26T02:21:40Z",
+      "slot": "morning",
+      "expires_at": "2026-11-26T08:00:00Z",
+      "headline": "Gold steadies after wild rebound; Fed hike bets stay firm",
+      "summary": "Gold held near $3,576 and silver above $41 after the rebound on easing yields, with MCX gold near Rs 1,20,429 per 10 g.",
+      "bullets": [
+        {
+          "text": "Kitco says easing Treasury yields and a Wall Street rebound steadied metals after hot PCE at 3.8% and GDP at 4.3% kept hike bets firm.",
+          "item_ids": [
+            "20285d7176ace5e7",
+            "087a9d31d9929fb0"
+          ]
+        },
+        {
+          "text": "The rupee hit an eight-month high, softening the blow for Indian buyers, while gold imports fell 40% to $24.7 billion in April-October.",
+          "item_ids": [
+            "e7326818e63964bb",
+            "9bcacce895e79c35"
+          ]
+        },
+        {
+          "text": "US markets are shut for Thanksgiving, so trading is thin; the next data is the ISM manufacturing PMI on Dec 1.",
+          "item_ids": [
+            "20285d7176ace5e7"
+          ]
+        }
+      ]
+    }
   },
   "trending": [
     {
@@ -34,16 +65,27 @@
       "item_ids": [
         "20285d7176ace5e7",
         "38fba46de8848f6e",
+        "c80bccb6f4765530",
         "7741ac80b9aa58db"
       ]
     },
     {
       "title": "Fed hike bets keep bullion under pressure",
-      "summary": "PCE at 3.8% and core PCE at 3.3%, plus GDP revised up to 4.3%, have markets pricing a December Fed hike as near-certain, with the Dec. 8-9 meeting the next focus.",
+      "summary": "PCE at 3.8% and core PCE at 3.3%, GDP revised up to 4.3%, and a Beige Book showing sticky prices have markets pricing a December Fed hike as near-certain, with the Dec. 8-9 meeting the next focus.",
       "item_ids": [
         "087a9d31d9929fb0",
         "8de160b4cd8dd16c",
+        "c94a7b5dd054772f",
         "3f0337043e28fa42"
+      ]
+    },
+    {
+      "title": "India's imports shrink as prices ease",
+      "summary": "Gold imports fell 40% to $24.7 billion in April-October, saving $16.46 billion, while the RBI now holds 84% of its gold at home and the rupee sits at an eight-month high.",
+      "item_ids": [
+        "9bcacce895e79c35",
+        "8b2fdb2032a9a4b2",
+        "e7326818e63964bb"
       ]
     },
     {
@@ -137,6 +179,84 @@
       "rank": 3
     },
     {
+      "id": "c80bccb6f4765530",
+      "title": "Silver Price Forecast: Fed Rate Hike Outlook Keeps Sellers in Control",
+      "summary": "FXEmpire's analyst says silver is trying to steady early Thursday after Wednesday's sell-off broke below the October 2025 bottom at $45.55, with the analyst watching the $41.14 area as the next main bottom; the bias stays down while Fed hike expectations support the dollar and Treasury yields, though a pause in the dollar's rally may let sellers take profits.",
+      "url": "https://www.fxempire.com/forecasts/article/silver-price-forecast-fed-rate-hike-outlook-keeps-sellers-in-control-1645704",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "published_at": "2026-11-26T01:35:57Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "silver",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "related_urls": [],
+      "rank": 4
+    },
+    {
+      "id": "9bcacce895e79c35",
+      "title": "India Records 40% Decline in Gold Imports to $24.7 Billion in April-October 2026",
+      "summary": "India's gold imports fell 40% to $24.7 billion in April-October from $41.24 billion a year earlier, saving $16.46 billion, trade body CTI said, with October alone down 62.6% to $5.51 billion; full-year imports are estimated at $35-40 billion versus about $72 billion in FY26, and gold prices have eased to about Rs 1.25 crore per kg from Rs 1.90 crore.",
+      "url": "https://www.angelone.in/news/economy/india-records-40-decline-in-gold-imports-to-24-7-billion-in-april-october-2026",
+      "source": "Angel One",
+      "source_domain": "angelone.in",
+      "publisher_id": "angel-one",
+      "published_at": "2026-11-24T06:46:18Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/9bcacce895e79c35.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "india",
+        "mcx"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://www.thehindubusinessline.com/economy/gold-imports-into-india-decline-40-in-april-october-cti/article71734145.ece"
+      ],
+      "rank": 5
+    },
+    {
+      "id": "c94a7b5dd054772f",
+      "title": "Fed survey shows continued growth and sticky inflation in recent weeks",
+      "summary": "The Fed's Beige Book found growth at a slight-to-moderate pace across most of the US, with eight of 12 districts growing, while prices rose moderately and employment increased; contacts expect costs and prices to keep rising, and markets still price at least a quarter-point hike at the Dec. 8-9 meeting after PCE came in at 3.8% and core PCE at 3.3%.",
+      "url": "https://www.reuters.com/business/fed-survey-shows-continued-growth-sticky-inflation-recent-weeks-2026-11-25/",
+      "source": "Reuters",
+      "source_domain": "reuters.com",
+      "publisher_id": "reuters",
+      "published_at": "2026-11-25T20:07:37Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "silver",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-survey-shows-continued-growth-and-sticky-inflation-in-recent-weeks/articleshow/136172166.cms"
+      ],
+      "rank": 6
+    },
+    {
       "id": "4512cde0051dfc07",
       "title": "Gold's 38% Collapse Exposes the Cost of Higher Interest Rates",
       "summary": "Spot gold fell 3.1% to $3,446.06 an ounce, below $3,500 for the first time since September 2025 and 38% under its late-January record of $5,589.38, Investing.com reports. Markets priced a 98% chance of a December Fed hike after core PCE came in at 3.3% and Q3 GDP was revised up to 4.3%, while gold failed as a safe haven as the Nasdaq fell over 4% on forced selling.",
@@ -157,7 +277,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 4
+      "rank": 7
     },
     {
       "id": "929f312fc382654f",
@@ -185,7 +305,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 5
+      "rank": 8
     },
     {
       "id": "087a9d31d9929fb0",
@@ -210,7 +330,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 9
     },
     {
       "id": "8de160b4cd8dd16c",
@@ -233,7 +353,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 7,
+      "rank": 10,
       "publisher_id": "kitco"
     },
     {
@@ -256,7 +376,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 11
     },
     {
       "id": "7741ac80b9aa58db",
@@ -282,7 +402,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 12
     },
     {
       "url": "https://www.indiatvnews.com/business/markets/gold-silver-prices-decline-on-mcx-as-investors-reassess-outlook-for-us-interest-rates-check-city-wise-rates-2026-11-25-1060332",
@@ -309,7 +429,7 @@
       "id": "c3f623a2843991be",
       "breaking": false,
       "related_urls": [],
-      "rank": 10
+      "rank": 13
     },
     {
       "id": "3d8dc647ec60a1df",
@@ -335,7 +455,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 14
     },
     {
       "url": "https://www.ndtvprofit.com/markets/gold-silver-lose-shine-yellow-metal-prices-fall-below-rs-1-21-000-white-metal-rates-under-rs-1-42-000-12374077",
@@ -362,7 +482,7 @@
       "id": "ddaa89379930dd50",
       "breaking": false,
       "related_urls": [],
-      "rank": 12
+      "rank": 15
     },
     {
       "url": "https://www.bhaskarenglish.in/business/news/gold-silver-price-fall-india-bullion-jewellers-association-rate-139793640.html",
@@ -388,7 +508,7 @@
       "id": "d710f1faec6928f9",
       "breaking": false,
       "related_urls": [],
-      "rank": 13
+      "rank": 16
     },
     {
       "url": "https://www.thehindubusinessline.com/markets/gold/silver-futures-decline-to-144-lakhkg/article71741385.ece",
@@ -412,7 +532,7 @@
       "id": "b5093045611dd175",
       "breaking": false,
       "related_urls": [],
-      "rank": 14
+      "rank": 17
     },
     {
       "id": "0d73bf2a528ec37e",
@@ -436,7 +556,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 15
+      "rank": 18
     },
     {
       "id": "e480ce1984b78a35",
@@ -462,7 +582,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 16
+      "rank": 19
     },
     {
       "id": "e7326818e63964bb",
@@ -486,7 +606,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 17
+      "rank": 20
     },
     {
       "id": "8b2fdb2032a9a4b2",
@@ -508,7 +628,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 18,
+      "rank": 21,
       "publisher_id": "hindu-businessline",
       "related_urls": [
         "https://www.reuters.com/world/india/india-central-bank-raises-share-domestically-held-gold-reserves-data-shows-2026-11-25/"
@@ -535,7 +655,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 19
+      "rank": 22
     },
     {
       "id": "782a9d4ff1a447a0",
@@ -557,7 +677,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 20
+      "rank": 23
     },
     {
       "id": "406cab5fab8cb218",
@@ -579,7 +699,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 21
+      "rank": 24
     }
   ]
 }
