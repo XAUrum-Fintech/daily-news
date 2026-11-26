@@ -1,19 +1,19 @@
 {
  "schema": "orob-news.v1",
- "edition_id": "2026-11-26T16:00Z",
- "generated_at": "2026-11-26T16:03:43Z",
+ "edition_id": "2026-11-26T18:00Z",
+ "generated_at": "2026-11-26T18:10:00Z",
  "window": {
-  "from": "2026-11-26T14:00:00Z",
-  "to": "2026-11-26T16:00:00Z"
+  "from": "2026-11-26T16:00:00Z",
+  "to": "2026-11-26T18:00:00Z"
  },
  "insights": {
-  "headline": "MCX gold holds near Rs 1.23 lakh as silver steadies above $41",
-  "summary": "Gold steadied near $3,570 an ounce and silver held above $41 after rebounding from 15-month lows, as easing US Treasury yields and short-covering offset bets on further Fed rate increases. MCX gold held near Rs 1.23 lakh per 10 g and silver near Rs 1.47 lakh per kg, with the rupee at 92.40 to the dollar. Hot October PCE inflation at 3.8% and GDP revised up to 4.3% have hardened bets on a December Fed hike, and US markets were shut for Thanksgiving, keeping trading thin.",
+  "headline": "Silver jumps 3.6% on MCX as metals steady after slide to 14-month lows",
+  "summary": "MCX silver jumped 3.6% to ₹1,48,245 per kg as short-covering lifted metals off 14-month lows, with MCX gold holding near ₹1.23 lakh per 10 g and spot gold near $3,570 an ounce. Hot October PCE inflation at 3.8% and GDP revised up to 4.3% have hardened bets on a December Fed rate hike, while US markets stayed shut for Thanksgiving, keeping trading thin. Gold-loan lenders are meanwhile shifting to collections as falling prices push loan-to-value ratios toward regulatory caps.",
   "points": [
-   "MCX December gold traded at Rs 1,22,780 per 10 g, up Rs 1,643, and silver at Rs 1,47,513 per kg, up Rs 4,996.",
-   "Spot gold eased to about $3,570 an ounce in early US trading while silver held near $41.30, with US markets shut for Thanksgiving.",
-   "Silver retook $42.00 in Asian trading after bouncing from a $38.20 low, its lowest since August 2025.",
+   "MCX December silver jumped 3.6% to ₹1,48,245 per kg, touching ₹1,48,336, after falling 16% between November 17 and 25.",
+   "MCX gold held near ₹1.23 lakh per 10 g, with spot gold near $3,570 an ounce in thin Thanksgiving trading.",
    "October US PCE inflation was 3.8% and core PCE 3.3%, with GDP revised up to 4.3%, hardening December Fed hike bets.",
+   "Gold-loan LTVs at some NBFCs crossed 75%, with segments breaching 85%, as lenders shift to collections.",
    "The RBI held 880.52 tonnes of gold at September-end, with 740.13 tonnes, or 84%, stored in India."
   ],
   "brief": {
@@ -52,12 +52,13 @@
  "trending": [
   {
    "title": "Metals steady after the slide to 14-month lows",
-   "summary": "Gold steadied near $3,570 and silver near $41.30 after both hit their lowest in over a year, with silver briefly retaking $42 as easing yields and short-covering lifted prices off the lows.",
+   "summary": "Gold steadied near $3,570 and silver near $41.30 after both hit their lowest in over a year, with MCX silver jumping 3.6% to ₹1,48,245 as short-covering lifted prices off the lows.",
    "item_ids": [
     "73e57beb3d22e6b1",
     "24adc7c8dbbe2fff",
     "b2e8d8777052a254",
-    "f8cd69175854e691"
+    "f8cd69175854e691",
+    "b2006342b9474f42"
    ]
   },
   {
@@ -81,9 +82,10 @@
   },
   {
    "title": "Gold loans feel the pinch as prices drop",
-   "summary": "Gold loan NPAs nearly doubled in six months as pledged gold lost value, with the RBI asking NBFCs to tighten scrutiny of gold-loan books.",
+   "summary": "Gold loan NPAs nearly doubled in six months as pledged gold lost value, and lenders are shifting to collections as LTVs cross 75% and near regulatory caps.",
    "item_ids": [
-    "b72ffc8dcf1ca269"
+    "b72ffc8dcf1ca269",
+    "c12aace9b8c498a6"
    ]
   },
   {
@@ -95,6 +97,29 @@
   }
  ],
  "items": [
+  {
+   "id": "b2006342b9474f42",
+   "title": "Silver Prices Jump 3% on MCX to ₹1,48,336 per Kg; Kotak Neo Sees Scope for Further Recovery",
+   "summary": "MCX December silver jumped 3.6% to ₹1,48,245 per kg in morning trade, touching an intraday high of ₹1,48,336, as short-covering drove a rebound from Wednesday's low of ₹1,36,712. Kotak Neo said the heavy selling leaves scope for further recovery if silver holds above ₹1,45,400, with ₹1,53,000 the next level in focus. Silver is still nearly 19% below its November 10 close.",
+   "url": "https://www.kotakneo.com/news/commodities/why-silver-price-is-rising/",
+   "source": "Kotak Neo",
+   "source_domain": "kotakneo.com",
+   "publisher_id": "kotak-neo",
+   "published_at": "2026-11-26T07:23:04Z",
+   "image_url": "https://www.kotakneo.com/uploads/Why_Silver_Price_Is_Rising_Today_a71b57b817.webp",
+   "image_kind": "photo",
+   "tags": [
+    "silver",
+    "mcx",
+    "india"
+   ],
+   "category": "mcx",
+   "metals": [
+    "silver"
+   ],
+   "breaking": false,
+   "rank": 1
+  },
   {
    "id": "73e57beb3d22e6b1",
    "title": "Gold, silver prices rebound on MCX, Comex on buying at lower levels",
@@ -119,7 +144,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 1
+   "rank": 2
   },
   {
    "id": "6fde9014f0d7285a",
@@ -141,29 +166,6 @@
    "category": "global",
    "metals": [
     "gold",
-    "silver"
-   ],
-   "breaking": false,
-   "rank": 2
-  },
-  {
-   "id": "f8cd69175854e691",
-   "title": "Silver Price Forecast: XAG/USD looks to build on recovery above $42.00",
-   "summary": "Silver retook the $42.00 mark in Thursday's Asian session after bouncing from a $38.20 low, its lowest since August 2025, FXStreet reports, helped by dip-buying and lower US Treasury yields. The metal still faces resistance near the 100-hour average, with traders watching whether the recovery holds.",
-   "url": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-looks-to-build-on-recovery-above-4200-202611260247",
-   "source": "FXStreet",
-   "source_domain": "fxstreet.com",
-   "publisher_id": "fxstreet",
-   "published_at": "2026-11-26T02:47:59Z",
-   "image_url": null,
-   "image_kind": "none",
-   "tags": [
-    "silver",
-    "global",
-    "fed"
-   ],
-   "category": "global",
-   "metals": [
     "silver"
    ],
    "breaking": false,
@@ -318,6 +320,29 @@
    "rank": 9
   },
   {
+   "id": "c12aace9b8c498a6",
+   "title": "Gold loan growth slows as falling gold prices push lenders into collection mode",
+   "summary": "Gold-loan companies are shifting from growth to collections after the sharp fall in bullion pushed loan-to-value ratios higher, with portfolio LTVs at some NBFCs crossing 75% and certain segments breaching 85%. Lenders are asking borrowers to repay part of their loans or pledge more gold, and analysts expect stress to show in asset quality from the December quarter.",
+   "url": "https://www.thehindubusinessline.com/markets/gold/gold-loan-growth-slows-as-falling-gold-prices-push-lenders-into-collection-mode/article71746853.ece",
+   "source": "The Hindu BusinessLine",
+   "source_domain": "thehindubusinessline.com",
+   "publisher_id": "hindu-businessline",
+   "published_at": "2026-11-26T15:05:00Z",
+   "image_url": "https://bl-i.thgim.com/public/incoming/5ai2hz/article71747476.ece/alternates/LANDSCAPE_1200/BIZ-ADITYA-BIRLGNAGE1FL5.3.jpg.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "mcx",
+    "india"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "rank": 10
+  },
+  {
    "breaking": false,
    "category": "global",
    "id": "b2e8d8777052a254",
@@ -328,7 +353,7 @@
    ],
    "published_at": "2026-11-26T07:23:32Z",
    "publisher_id": "fxstreet",
-   "rank": 10,
+   "rank": 11,
    "source": "FXStreet",
    "source_domain": "fxstreet.com",
    "summary": "Silver traded 0.5% higher near $41.30 in European trading, recovering after hitting a fresh almost 15-month low of $38.20 the previous day, as US Treasury yields eased to a fresh two-month low near 4.80% and traders slightly trimmed bets on a larger January Fed hike. FXStreet notes rallies remain vulnerable while silver holds below its 20-day average near $46.99.",
@@ -367,7 +392,7 @@
    "related_urls": [
     "https://www.cnbctv18.com/videos/market/world-gold-council-sachin-jain-gold-demand-india-dip-buying-price-correction-etf-inflows-20041954.htm"
    ],
-   "rank": 11
+   "rank": 12
   },
   {
    "id": "6264a691a5224f2b",
@@ -391,7 +416,7 @@
    ],
    "breaking": false,
    "related_urls": [],
-   "rank": 12
+   "rank": 13
   },
   {
    "id": "3f0337043e28fa42",
@@ -416,7 +441,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 13
+   "rank": 14
   },
   {
    "id": "bff0458b5bd760a6",
@@ -438,7 +463,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 14
+   "rank": 15
   },
   {
    "id": "4512cde0051dfc07",
@@ -461,7 +486,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 15
+   "rank": 16
   },
   {
    "id": "410bf6a722fe1a94",
@@ -487,7 +512,7 @@
    "related_urls": [
     "https://www.rbi.org.in/SCRIPTs/BS_PressReleaseDisplay.aspx?prid=64030"
    ],
-   "rank": 16
+   "rank": 17
   },
   {
    "id": "8b2fdb2032a9a4b2",
@@ -509,12 +534,35 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 17,
+   "rank": 18,
    "publisher_id": "hindu-businessline",
    "related_urls": [
     "https://www.reuters.com/world/india/india-central-bank-raises-share-domestically-held-gold-reserves-data-shows-2026-11-25/",
     "https://www.thehindubusinessline.com/money-and-banking/rbi-loses-875-in-gold-as-prices-dip-in-september/article71743407.ece"
    ]
+  },
+  {
+   "id": "f8cd69175854e691",
+   "title": "Silver Price Forecast: XAG/USD looks to build on recovery above $42.00",
+   "summary": "Silver retook the $42.00 mark in Thursday's Asian session after bouncing from a $38.20 low, its lowest since August 2025, FXStreet reports, helped by dip-buying and lower US Treasury yields. The metal still faces resistance near the 100-hour average, with traders watching whether the recovery holds.",
+   "url": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-looks-to-build-on-recovery-above-4200-202611260247",
+   "source": "FXStreet",
+   "source_domain": "fxstreet.com",
+   "publisher_id": "fxstreet",
+   "published_at": "2026-11-26T02:47:59Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "silver",
+    "global",
+    "fed"
+   ],
+   "category": "global",
+   "metals": [
+    "silver"
+   ],
+   "breaking": false,
+   "rank": 19
   },
   {
    "id": "b72ffc8dcf1ca269",
@@ -537,7 +585,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 18
+   "rank": 20
   }
  ]
 }
