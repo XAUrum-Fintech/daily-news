@@ -1,49 +1,51 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-26T06:00Z",
-  "generated_at": "2026-11-26T06:04:59Z",
+  "edition_id": "2026-11-26T07:00Z",
+  "generated_at": "2026-11-26T07:14:14Z",
   "window": {
-    "from": "2026-11-26T04:00:00Z",
-    "to": "2026-11-26T06:00:00Z"
+    "from": "2026-11-26T05:00:00Z",
+    "to": "2026-11-26T07:00:00Z"
   },
   "insights": {
-    "headline": "MCX gold holds above ₹1.23 lakh as spot steadies near $3,581; rupee eases to 92.40",
-    "summary": "Spot gold held near $3,581 in early Thursday trade after recovering from $3,426 on Wednesday, while silver stayed above $41. On MCX, gold held above ₹1.23 lakh in the morning session after rallying 1.6% to ₹1,23,074 per 10 g, with silver at ₹1,47,798 per kg. The rupee eased 20 paise to 92.40 against the dollar after hitting an eight-month high, and the RBI fixed the SGB 2021-22 Series I early redemption price at ₹12,612 per gram. Hot US PCE inflation of 3.8% and GDP revised up to 4.3% keep a December Fed hike near-certain, with US markets shut for Thanksgiving.",
+    "headline": "Gold and silver rebound on MCX after the crash, but Fed hike bets keep the pressure on",
+    "summary": "MCX gold rallied 1.6% to ₹1,23,074 per 10 g in early trade on Thursday and silver surged ₹5,281 per kg, tracking a global rebound as Treasury yields steadied and investors covered shorts after spot gold briefly fell below $3,500. The rebound follows Wednesday's sharp fall, when hot US PCE inflation of 3.8% and GDP revised up to 4.3% hardened bets on a December Fed rate hike. The rupee eased 20 paise to 92.40 after scaling an eight-month high, and US markets are shut for Thanksgiving, keeping trading thin.",
     "points": [
-      "Spot gold steadied near $3,581 after Wednesday's range of $3,426 to $3,590.",
-      "MCX gold held above ₹1.23 lakh in Thursday's morning session; silver at ₹1,47,798 per kg.",
-      "The rupee eased 20 paise to 92.40 in early trade after hitting an eight-month high of 92.1850.",
-      "RBI fixed the SGB 2021-22 Series I early redemption price at ₹12,612 per gram, up 164% on its 2021 issue price.",
-      "US PCE inflation of 3.8% and GDP revised to 4.3% keep a December Fed hike near-certain."
+      "MCX gold rallied 1.6% to ₹1,23,074 per 10 g in early trade and silver surged ₹5,281 per kg to ₹1,47,798.",
+      "Spot gold steadied at $3,580.87 after briefly falling below $3,500, its first time under that level since September 2025.",
+      "October US PCE inflation was 3.8% and core PCE 3.3%, with GDP revised up to 4.3%, hardening December Fed hike bets.",
+      "CME FedWatch puts a 95% chance on a quarter-point Fed hike on Dec 8-9, and CME raised gold and silver futures margins.",
+      "The rupee eased 20 paise to 92.40 after hitting an eight-month high of 92.1850 in the previous session."
     ],
     "brief": {
       "schema": "orob-brief.v1",
-      "brief_id": "2026-11-26-0751",
+      "brief_id": "2026-11-26-1244",
       "date": "2026-11-26",
-      "generated_at": "2026-11-26T02:21:40Z",
+      "generated_at": "2026-11-26T07:14:14Z",
       "slot": "morning",
       "expires_at": "2026-11-26T08:00:00Z",
-      "headline": "Gold steadies after wild rebound; Fed hike bets stay firm",
-      "summary": "Gold held near $3,576 and silver above $41 after the rebound on easing yields, with MCX gold near Rs 1,20,429 per 10 g.",
+      "headline": "Gold rebounds after crash as MCX reclaims ₹1.23 lakh",
+      "summary": "Spot gold steadied near $3,581 and MCX gold reclaimed ₹1.23 lakh as hot US PCE hardened December hike bets.",
       "bullets": [
         {
-          "text": "Kitco says easing Treasury yields and a Wall Street rebound steadied metals after hot PCE at 3.8% and GDP at 4.3% kept hike bets firm.",
+          "text": "October PCE at 3.8% and GDP revised up to 4.3% hardened bets on a December hike, while easing yields and short-covering steadied metals.",
           "item_ids": [
+            "087a9d31d9929fb0",
             "20285d7176ace5e7",
-            "087a9d31d9929fb0"
+            "24adc7c8dbbe2fff"
           ]
         },
         {
-          "text": "The rupee hit an eight-month high, softening the blow for Indian buyers, while gold imports fell 40% to $24.7 billion in April-October.",
+          "text": "The rupee eased to 92.40 after scaling an eight-month high, and MCX silver surged with gold after shedding ₹8,800 per kg a day earlier.",
           "item_ids": [
+            "6264a691a5224f2b",
             "e7326818e63964bb",
-            "9bcacce895e79c35"
+            "f91e87bfdd95ccd4"
           ]
         },
         {
-          "text": "US markets are shut for Thanksgiving, so trading is thin; the next data is the ISM manufacturing PMI on Dec 1.",
+          "text": "US markets are shut for Thanksgiving, so trading stays thin; the next data is the ISM manufacturing PMI on Dec 1.",
           "item_ids": [
-            "20285d7176ace5e7"
+            "24adc7c8dbbe2fff"
           ]
         }
       ]
@@ -51,50 +53,41 @@
   },
   "trending": [
     {
-      "title": "Gold steadies after the wild Wednesday slide",
-      "summary": "Gold fell below $3,500 on Wednesday, its lowest since September 2025, then recovered toward $3,590 as yields eased; on MCX it reclaimed ₹1.23 lakh in Thursday's morning session.",
+      "title": "Rebound after the crash",
+      "summary": "MCX gold reclaimed ₹1.23 lakh and spot gold steadied near $3,581 after falling below $3,500, as short-covering and easing yields steadied metals a day after the sharpest slide.",
       "item_ids": [
         "e2ccd03ac601abd4",
         "24adc7c8dbbe2fff",
         "20285d7176ace5e7",
-        "38fba46de8848f6e"
+        "f91e87bfdd95ccd4"
       ]
     },
     {
-      "title": "Silver's sharper fall, sharper bounce",
-      "summary": "Silver crashed through $40 to as low as $38.09 before rebounding above $41; on MCX it surged to ₹1,47,798 per kg, though analysts still see sellers in control while Fed hike bets hold.",
-      "item_ids": [
-        "c80bccb6f4765530",
-        "0d73bf2a528ec37e",
-        "782a9d4ff1a447a0",
-        "e480ce1984b78a35"
-      ]
-    },
-    {
-      "title": "Fed hike bets still cap the rebound",
-      "summary": "PCE at 3.8% and core PCE at 3.3%, GDP revised up to 4.3%, and a Beige Book showing sticky prices have markets pricing a December Fed hike as near-certain, with the Dec. 8-9 meeting the next focus.",
+      "title": "Hot US data hardens hike bets",
+      "summary": "October PCE at 3.8%, core PCE at 3.3% and GDP revised up to 4.3% keep a December Fed hike near-certain, with traders now also pricing further hikes in early 2027.",
       "item_ids": [
         "087a9d31d9929fb0",
         "8de160b4cd8dd16c",
-        "4512cde0051dfc07"
+        "16e0ee65a1952416",
+        "c80bccb6f4765530"
       ]
     },
     {
-      "title": "Rupee eases after an eight-month high",
-      "summary": "The rupee hit 92.1850 per dollar, an eight-month high, on record foreign inflows into Indian stocks, then eased 20 paise to 92.40 in early Thursday trade.",
+      "title": "Rupee at an eight-month high",
+      "summary": "The rupee scaled an eight-month high on record foreign inflows into Indian equities before easing to 92.40, softening the import bill for Indian buyers even as MCX prices rebound.",
       "item_ids": [
-        "6264a691a5224f2b",
-        "e7326818e63964bb"
+        "e7326818e63964bb",
+        "6264a691a5224f2b"
       ]
     },
     {
-      "title": "India's gold economy adjusts to lower prices",
-      "summary": "Gold imports fell 40% to $24.7 billion in April-October, the gold loan book grew 60.6% to ₹23.3 lakh crore even as loan NPAs nearly doubled, and the RBI fixed SGB early redemption at ₹12,612 per gram.",
+      "title": "Silver's sharper swing",
+      "summary": "Silver fell harder than gold on Wednesday, dropping ₹8,800 per kg on MCX, then surged ₹5,281 per kg in the rebound, with COMEX silver back above $41.",
       "item_ids": [
-        "9bcacce895e79c35",
-        "071ae6281ab76354",
-        "b72ffc8dcf1ca269",
-        "410bf6a722fe1a94"
+        "f91e87bfdd95ccd4",
+        "e2ccd03ac601abd4",
+        "0d73bf2a528ec37e",
+        "782a9d4ff1a447a0"
       ]
     }
   ],
@@ -150,6 +143,32 @@
       "rank": 2
     },
     {
+      "id": "f91e87bfdd95ccd4",
+      "title": "MCX gold plunges ₹4,420/10g, silver sheds nearly ₹8,800/kg as PCE data fuels December Fed rate hike bets",
+      "summary": "MCX gold fell 3.6% to ₹1,17,906 per 10 g and silver dropped ₹8,800 to ₹1,36,712 per kg on Wednesday evening, Mint reports, as hotter-than-target US inflation strengthened bets on Federal Reserve rate hikes and lifted the dollar.",
+      "url": "https://www.livemint.com/market/commodities/mcx-gold-plunges-rs-4-500-10g-silver-sheds-nearly-rs-8-800-kg-as-pce-data-fuels-december-fed-rate-hike-fears-11795621934097.html",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "publisher_id": "mint",
+      "published_at": "2026-11-25T16:27:31Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/f91e87bfdd95ccd4.jpg",
+      "image_kind": "photo",
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "fed",
+        "india"
+      ],
+      "breaking": false,
+      "rank": 3
+    },
+    {
       "id": "20285d7176ace5e7",
       "title": "Gold, silver reverse early losses as Wall Street rebounds ahead of Thanksgiving",
       "summary": "Spot gold recovered above $3,570 an ounce after falling below $3,450, and silver rebounded above $41, Kitco reports, as falling Treasury yields and a Wall Street rebound steadied metals despite hot PCE inflation of 3.8% and GDP revised up to 4.3%. Spot gold traded near $3,576.30, up 0.6%, after ranging from $3,426.40 to $3,590; silver traded near $41.12, up 0.78%, after falling as low as $38.09.",
@@ -177,176 +196,34 @@
         "https://www.fxstreet.com/news/gold-rebounds-above-3-550-as-easing-yields-and-weaker-us-dollar-counter-hot-us-inflation-data-202611252326",
         "https://investinglive.com/commodities/gold-claws-back-160-from-a-14-month-low-but-one-candle-doesn-t-necessarily-make-a-bottom/"
       ],
-      "rank": 3
+      "rank": 4
     },
     {
-      "id": "38fba46de8848f6e",
-      "rank": 4,
-      "title": "Gold Sinks Below $3500 as Silver Crashes Thru' $40",
-      "summary": "Gold sank to $3,455 an ounce and silver crashed through $40 to as low as $38.68 after US GDP was revised up to 4.3% and core PCE came in at 3.3%. Markets still put a 98% chance on a quarter-point Fed hike in December. Strategist Nicky Shiels calls the sell-off a structural exit in gold, while ex-fund manager Charlie Morris sees a correction within a bull market.",
-      "url": "https://live.bullionvault.com/gold-news/gold-price-news/gold-3500-silver-crash-fed-112520261",
-      "source": "BullionVault",
-      "source_domain": "live.bullionvault.com",
-      "publisher_id": "bullionvault",
-      "published_at": "2026-11-25T14:58:24Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/38fba46de8848f6e.jpg",
+      "id": "16e0ee65a1952416",
+      "title": "What is driving fall in gold, silver & crude oil? Fed rate hike fears weigh",
+      "summary": "Gold fell in Wednesday's afternoon trade as traders priced a 95% chance of a December Fed hike, BusinessLine reports, with COMEX gold near $3,550 and MCX gold near ₹1,22,020; CME also raised gold and silver futures margins.",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/gold-slips-as-fed-hike-bets-weigh-silver-crude-base-metals-also-under-pressure/article71741631.ece",
+      "source": "The Hindu BusinessLine",
+      "source_domain": "thehindubusinessline.com",
+      "publisher_id": "hindu-businessline",
+      "published_at": "2026-11-25T08:39:34Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/16e0ee65a1952416.jpg",
       "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "fed",
-        "global"
-      ],
       "category": "global",
       "metals": [
         "gold",
         "silver"
       ],
-      "breaking": false
-    },
-    {
-      "id": "6264a691a5224f2b",
-      "title": "Rupee falls 20 paise to 92.40 against US dollar in early trade",
-      "summary": "The rupee eased 20 paise to 92.40 against the dollar in early trade on Thursday, Economic Times reports, pulling back after hitting an eight-month high of 92.1850 in the previous session. A softer rupee raises the landed cost of gold imports even as global prices steady.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-falls-20-paise-to-92-40-against-us-dollar-in-early-trade/articleshow/136179591.cms",
-      "source": "Economic Times",
-      "source_domain": "economictimes.indiatimes.com",
-      "publisher_id": "economic-times",
-      "published_at": "2026-11-26T05:24:00Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/6264a691a5224f2b.jpg",
-      "image_kind": "photo",
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "rupee",
-        "india"
-      ],
-      "breaking": false,
-      "related_urls": [],
-      "rank": 5
-    },
-    {
-      "id": "3f0337043e28fa42",
-      "title": "India Bullion: Fall to lowest in over a year; US tariff proposal weighs",
-      "summary": "Gold and silver futures on MCX and COMEX fell further, Informist Media reports, as a stronger dollar and rate-hike bets weighed after US inflation data matched forecasts. MCX December gold closed down 1.6% at Rs 1,20,429 per 10 g and silver down 3.2% at Rs 1,40,797 per kg, while COMEX silver touched a near-15-month low of $39.56. A US tariff plan for 14 economies, including India, also weighed.",
-      "url": "https://www.informistmedia.com/CommodityWire/65442/India-Bullion-Fall-to-lowest-in-over-a-year-US-tariff-proposal-weighs",
-      "source": "Informist Media",
-      "source_domain": "informistmedia.com",
-      "publisher_id": "informist-media",
-      "published_at": "2026-11-25T14:53:12Z",
-      "image_url": null,
-      "image_kind": "none",
       "tags": [
         "gold",
         "silver",
         "mcx",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 6
-    },
-    {
-      "id": "071ae6281ab76354",
-      "title": "India's gold loan portfolio surges 60.6% to ₹23.3 lakh crore, smaller cities drive growth: Report",
-      "summary": "India's outstanding gold loan portfolio grew 60.6% year on year to ₹23.3 lakh crore in September 2026, a CRIF report said, as larger loan sizes and borrowers in smaller cities drove growth. The average ticket rose 32.7% to ₹2.2 lakh, and gold loans now make up 12.6% of retail credit.",
-      "url": "https://www.thehindubusinessline.com/money-and-banking/indias-gold-loan-portfolio-surges-606-to-233-lakh-crore-smaller-cities-drive-growth-report/article71741372.ece",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "publisher_id": "hindu-businessline",
-      "published_at": "2026-11-25T09:30:32Z",
-      "image_url": "https://bl-i.thgim.com/public/incoming/m64w47/article71741813.ece/alternates/LANDSCAPE_1200/IMG_iStock-2199586129_2_1_U9EFLPSG.jpg",
-      "image_kind": "photo",
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "india"
-      ],
-      "breaking": false,
-      "rank": 7
-    },
-    {
-      "id": "9bcacce895e79c35",
-      "title": "India Records 40% Decline in Gold Imports to $24.7 Billion in April-October 2026",
-      "summary": "India's gold imports fell 40% to $24.7 billion in April-October from $41.24 billion a year earlier, saving $16.46 billion, trade body CTI said, with October alone down 62.6% to $5.51 billion; full-year imports are estimated at $35-40 billion versus about $72 billion in FY26, and gold prices have eased to about Rs 1.25 crore per kg from Rs 1.90 crore.",
-      "url": "https://www.angelone.in/news/economy/india-records-40-decline-in-gold-imports-to-24-7-billion-in-april-october-2026",
-      "source": "Angel One",
-      "source_domain": "angelone.in",
-      "publisher_id": "angel-one",
-      "published_at": "2026-11-24T06:46:18Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/9bcacce895e79c35.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "india",
-        "mcx"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://www.thehindubusinessline.com/economy/gold-imports-into-india-decline-40-in-april-october-cti/article71734145.ece"
-      ],
-      "rank": 8
-    },
-    {
-      "id": "c80bccb6f4765530",
-      "title": "Silver Price Forecast: Fed Rate Hike Outlook Keeps Sellers in Control",
-      "summary": "FXEmpire's analyst says silver is trying to steady early Thursday after Wednesday's sell-off broke below the October 2025 bottom at $45.55, with the analyst watching the $41.14 area as the next main bottom; the bias stays down while Fed hike expectations support the dollar and Treasury yields, though a pause in the dollar's rally may let sellers take profits.",
-      "url": "https://www.fxempire.com/forecasts/article/silver-price-forecast-fed-rate-hike-outlook-keeps-sellers-in-control-1645704",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "publisher_id": "fxempire",
-      "published_at": "2026-11-26T01:35:57Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "silver",
+        "comex",
         "fed",
         "global"
       ],
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
       "breaking": false,
-      "related_urls": [],
-      "rank": 9
-    },
-    {
-      "id": "4512cde0051dfc07",
-      "title": "Gold's 38% Collapse Exposes the Cost of Higher Interest Rates",
-      "summary": "Spot gold fell 3.1% to $3,446.06 an ounce, below $3,500 for the first time since September 2025 and 38% under its late-January record of $5,589.38, Investing.com reports. Markets priced a 98% chance of a December Fed hike after core PCE came in at 3.3% and Q3 GDP was revised up to 4.3%, while gold failed as a safe haven as the Nasdaq fell over 4% on forced selling.",
-      "url": "https://www.investing.com/analysis/golds-38-collapse-exposes-the-cost-of-higher-interest-rates-200692330",
-      "source": "Investing.com",
-      "source_domain": "investing.com",
-      "publisher_id": "investing",
-      "published_at": "2026-11-25T19:09:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "fed",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 10
+      "rank": 5
     },
     {
       "id": "087a9d31d9929fb0",
@@ -371,7 +248,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 6
     },
     {
       "id": "8de160b4cd8dd16c",
@@ -394,8 +271,58 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 12,
+      "rank": 7,
       "publisher_id": "kitco"
+    },
+    {
+      "id": "38fba46de8848f6e",
+      "rank": 8,
+      "title": "Gold Sinks Below $3500 as Silver Crashes Thru' $40",
+      "summary": "Gold sank to $3,455 an ounce and silver crashed through $40 to as low as $38.68 after US GDP was revised up to 4.3% and core PCE came in at 3.3%. Markets still put a 98% chance on a quarter-point Fed hike in December. Strategist Nicky Shiels calls the sell-off a structural exit in gold, while ex-fund manager Charlie Morris sees a correction within a bull market.",
+      "url": "https://live.bullionvault.com/gold-news/gold-price-news/gold-3500-silver-crash-fed-112520261",
+      "source": "BullionVault",
+      "source_domain": "live.bullionvault.com",
+      "publisher_id": "bullionvault",
+      "published_at": "2026-11-25T14:58:24Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/38fba46de8848f6e.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false
+    },
+    {
+      "id": "3f0337043e28fa42",
+      "title": "India Bullion: Fall to lowest in over a year; US tariff proposal weighs",
+      "summary": "Gold and silver futures on MCX and COMEX fell further, Informist Media reports, as a stronger dollar and rate-hike bets weighed after US inflation data matched forecasts. MCX December gold closed down 1.6% at Rs 1,20,429 per 10 g and silver down 3.2% at Rs 1,40,797 per kg, while COMEX silver touched a near-15-month low of $39.56. A US tariff plan for 14 economies, including India, also weighed.",
+      "url": "https://www.informistmedia.com/CommodityWire/65442/India-Bullion-Fall-to-lowest-in-over-a-year-US-tariff-proposal-weighs",
+      "source": "Informist Media",
+      "source_domain": "informistmedia.com",
+      "publisher_id": "informist-media",
+      "published_at": "2026-11-25T14:53:12Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 9
     },
     {
       "id": "7741ac80b9aa58db",
@@ -421,32 +348,101 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 13
+      "rank": 10
     },
     {
-      "id": "410bf6a722fe1a94",
-      "title": "Bought SGB at ₹4,777 in 2021? RBI announces ₹12,612 redemption price; check your profit",
-      "summary": "The RBI has fixed ₹12,612 per gram as the premature redemption price for Sovereign Gold Bonds 2021-22 Series I due on November 25, Upstox reports, a gain of about 164% over the May 2021 issue price of ₹4,777 per gram. The price is the average of IBJA 999-purity closing prices on November 19, 20 and 23.",
-      "url": "https://upstox.com/news/personal-finance/commodities/bought-sgb-at-4777-in-2021-rbi-announces-12612-redemption-price-check-your-profit/article-203913/",
-      "source": "Upstox",
-      "source_domain": "upstox.com",
-      "publisher_id": "upstox",
-      "published_at": "2026-11-25T02:04:36Z",
-      "image_url": "https://assets.upstox.com/content/assets/images/news/sgb-202-22-series-i-premature-redemption.webp",
+      "id": "c80bccb6f4765530",
+      "title": "Silver Price Forecast: Fed Rate Hike Outlook Keeps Sellers in Control",
+      "summary": "FXEmpire's analyst says silver is trying to steady early Thursday after Wednesday's sell-off broke below the October 2025 bottom at $45.55, with the analyst watching the $41.14 area as the next main bottom; the bias stays down while Fed hike expectations support the dollar and Treasury yields, though a pause in the dollar's rally may let sellers take profits.",
+      "url": "https://www.fxempire.com/forecasts/article/silver-price-forecast-fed-rate-hike-outlook-keeps-sellers-in-control-1645704",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "published_at": "2026-11-26T01:35:57Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "silver",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "related_urls": [],
+      "rank": 11
+    },
+    {
+      "id": "6264a691a5224f2b",
+      "title": "Rupee falls 20 paise to 92.40 against US dollar in early trade",
+      "summary": "The rupee eased 20 paise to 92.40 against the dollar in early trade on Thursday, Economic Times reports, pulling back after hitting an eight-month high of 92.1850 in the previous session. A softer rupee raises the landed cost of gold imports even as global prices steady.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-falls-20-paise-to-92-40-against-us-dollar-in-early-trade/articleshow/136179591.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-11-26T05:24:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/6264a691a5224f2b.jpg",
       "image_kind": "photo",
-      "category": "policy",
+      "category": "global",
       "metals": [
         "gold"
       ],
       "tags": [
         "gold",
-        "india",
-        "rbi"
+        "rupee",
+        "india"
       ],
       "breaking": false,
-      "related_urls": [
-        "https://www.rbi.org.in/SCRIPTs/BS_PressReleaseDisplay.aspx?prid=64030"
+      "related_urls": [],
+      "rank": 12
+    },
+    {
+      "id": "e7326818e63964bb",
+      "title": "Rupee scales 8-month high after holiday as foreign flows to Indian equities persist",
+      "summary": "The rupee hit an eight-month high of 92.1850 per dollar and closed 0.7% higher at 92.23, taking its November gain to 2.9%, Reuters reports. Foreign investors have poured a record $14.28 billion into Indian stocks so far this month as money rotates away from global AI-linked shares.",
+      "url": "https://www.reuters.com/world/india/rupee-scales-8-month-high-after-holiday-foreign-flows-indian-equities-persist-2026-11-25/",
+      "source": "Reuters",
+      "source_domain": "reuters.com",
+      "publisher_id": "reuters",
+      "published_at": "2026-11-25T10:53:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "rupee",
+        "india"
       ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "related_urls": [],
+      "rank": 13
+    },
+    {
+      "id": "4512cde0051dfc07",
+      "title": "Gold's 38% Collapse Exposes the Cost of Higher Interest Rates",
+      "summary": "Spot gold fell 3.1% to $3,446.06 an ounce, below $3,500 for the first time since September 2025 and 38% under its late-January record of $5,589.38, Investing.com reports. Markets priced a 98% chance of a December Fed hike after core PCE came in at 3.3% and Q3 GDP was revised up to 4.3%, while gold failed as a safe haven as the Nasdaq fell over 4% on forced selling.",
+      "url": "https://www.investing.com/analysis/golds-38-collapse-exposes-the-cost-of-higher-interest-rates-200692330",
+      "source": "Investing.com",
+      "source_domain": "investing.com",
+      "publisher_id": "investing",
+      "published_at": "2026-11-25T19:09:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
       "rank": 14
     },
     {
@@ -606,27 +602,29 @@
       "rank": 20
     },
     {
-      "id": "e7326818e63964bb",
-      "title": "Rupee scales 8-month high after holiday as foreign flows to Indian equities persist",
-      "summary": "The rupee hit an eight-month high of 92.1850 per dollar and closed 0.7% higher at 92.23, taking its November gain to 2.9%, Reuters reports. Foreign investors have poured a record $14.28 billion into Indian stocks so far this month as money rotates away from global AI-linked shares.",
-      "url": "https://www.reuters.com/world/india/rupee-scales-8-month-high-after-holiday-foreign-flows-indian-equities-persist-2026-11-25/",
-      "source": "Reuters",
-      "source_domain": "reuters.com",
-      "publisher_id": "reuters",
-      "published_at": "2026-11-25T10:53:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "rupee",
-        "india"
-      ],
-      "category": "global",
+      "id": "410bf6a722fe1a94",
+      "title": "Bought SGB at ₹4,777 in 2021? RBI announces ₹12,612 redemption price; check your profit",
+      "summary": "The RBI has fixed ₹12,612 per gram as the premature redemption price for Sovereign Gold Bonds 2021-22 Series I due on November 25, Upstox reports, a gain of about 164% over the May 2021 issue price of ₹4,777 per gram. The price is the average of IBJA 999-purity closing prices on November 19, 20 and 23.",
+      "url": "https://upstox.com/news/personal-finance/commodities/bought-sgb-at-4777-in-2021-rbi-announces-12612-redemption-price-check-your-profit/article-203913/",
+      "source": "Upstox",
+      "source_domain": "upstox.com",
+      "publisher_id": "upstox",
+      "published_at": "2026-11-25T02:04:36Z",
+      "image_url": "https://assets.upstox.com/content/assets/images/news/sgb-202-22-series-i-premature-redemption.webp",
+      "image_kind": "photo",
+      "category": "policy",
       "metals": [
         "gold"
       ],
+      "tags": [
+        "gold",
+        "india",
+        "rbi"
+      ],
       "breaking": false,
-      "related_urls": [],
+      "related_urls": [
+        "https://www.rbi.org.in/SCRIPTs/BS_PressReleaseDisplay.aspx?prid=64030"
+      ],
       "rank": 21
     },
     {
@@ -722,28 +720,6 @@
       ],
       "breaking": false,
       "rank": 25
-    },
-    {
-      "id": "a25f493dd8bc62d9",
-      "title": "Yen, Swiss franc gain as dollar slips in volatile AI-driven session",
-      "summary": "The dollar slipped late in a volatile session as AI-linked stocks tumbled and then clawed back most of their losses, Mint reports, with the dollar index down 0.22% at 103.62. The safe-haven yen and Swiss franc gained, and the euro rose 0.17% to $1.0983. US markets are closed on Thursday for Thanksgiving. A softer dollar eases one of the headwinds on gold after the metal's slide below $3,500.",
-      "url": "https://www.livemint.com/market/yen-swiss-franc-gain-as-dollar-slips-in-volatile-ai-driven-session-11795638628253.html",
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "publisher_id": "mint",
-      "published_at": "2026-11-25T20:30:27Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/a25f493dd8bc62d9.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 26
     }
   ]
 }
