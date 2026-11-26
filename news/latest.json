@@ -1,19 +1,19 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-26T05:00Z",
-  "generated_at": "2026-11-26T05:28:13Z",
+  "edition_id": "2026-11-26T06:00Z",
+  "generated_at": "2026-11-26T06:04:59Z",
   "window": {
-    "from": "2026-11-26T03:00:00Z",
-    "to": "2026-11-26T05:00:00Z"
+    "from": "2026-11-26T04:00:00Z",
+    "to": "2026-11-26T06:00:00Z"
   },
   "insights": {
-    "headline": "MCX gold reclaims ₹1.23 lakh as spot steadies near $3,581",
-    "summary": "Spot gold held near $3,581 in early Thursday trade after recovering from $3,426 on Wednesday, while silver stayed above $41. On MCX, gold rallied 1.6% to ₹1,23,074 per 10 g and silver surged ₹5,281 per kg to ₹1,47,798 in the morning session, tracking the global rebound as Treasury yields steadied. Hot US PCE inflation of 3.8% and GDP revised up to 4.3% keep a December Fed hike near-certain, while the rupee's eight-month high softens the blow for Indian buyers.",
+    "headline": "MCX gold holds above ₹1.23 lakh as spot steadies near $3,581; rupee eases to 92.40",
+    "summary": "Spot gold held near $3,581 in early Thursday trade after recovering from $3,426 on Wednesday, while silver stayed above $41. On MCX, gold held above ₹1.23 lakh in the morning session after rallying 1.6% to ₹1,23,074 per 10 g, with silver at ₹1,47,798 per kg. The rupee eased 20 paise to 92.40 against the dollar after hitting an eight-month high, and the RBI fixed the SGB 2021-22 Series I early redemption price at ₹12,612 per gram. Hot US PCE inflation of 3.8% and GDP revised up to 4.3% keep a December Fed hike near-certain, with US markets shut for Thanksgiving.",
     "points": [
       "Spot gold steadied near $3,581 after Wednesday's range of $3,426 to $3,590.",
-      "MCX gold rallied to ₹1,23,074 per 10 g and silver to ₹1,47,798 per kg in Thursday's morning session.",
-      "Silver held above $41 at $41.64 after falling as low as $38.09 on Wednesday.",
-      "India's gold loan portfolio grew 60.6% to ₹23.3 lakh crore in September, CRIF said.",
+      "MCX gold held above ₹1.23 lakh in Thursday's morning session; silver at ₹1,47,798 per kg.",
+      "The rupee eased 20 paise to 92.40 in early trade after hitting an eight-month high of 92.1850.",
+      "RBI fixed the SGB 2021-22 Series I early redemption price at ₹12,612 per gram, up 164% on its 2021 issue price.",
       "US PCE inflation of 3.8% and GDP revised to 4.3% keep a December Fed hike near-certain."
     ],
     "brief": {
@@ -51,54 +51,50 @@
   },
   "trending": [
     {
-      "title": "Gold's wild Wednesday: below $3,500, then back above $3,570",
-      "summary": "Gold fell to $3,426, its lowest since September 2025, on hot PCE and strong GDP, then recovered toward $3,590 as yields eased and the dollar slipped.",
+      "title": "Gold steadies after the wild Wednesday slide",
+      "summary": "Gold fell below $3,500 on Wednesday, its lowest since September 2025, then recovered toward $3,590 as yields eased; on MCX it reclaimed ₹1.23 lakh in Thursday's morning session.",
       "item_ids": [
+        "e2ccd03ac601abd4",
         "24adc7c8dbbe2fff",
         "20285d7176ace5e7",
-        "38fba46de8848f6e",
+        "38fba46de8848f6e"
+      ]
+    },
+    {
+      "title": "Silver's sharper fall, sharper bounce",
+      "summary": "Silver crashed through $40 to as low as $38.09 before rebounding above $41; on MCX it surged to ₹1,47,798 per kg, though analysts still see sellers in control while Fed hike bets hold.",
+      "item_ids": [
+        "c80bccb6f4765530",
+        "0d73bf2a528ec37e",
+        "782a9d4ff1a447a0",
+        "e480ce1984b78a35"
+      ]
+    },
+    {
+      "title": "Fed hike bets still cap the rebound",
+      "summary": "PCE at 3.8% and core PCE at 3.3%, GDP revised up to 4.3%, and a Beige Book showing sticky prices have markets pricing a December Fed hike as near-certain, with the Dec. 8-9 meeting the next focus.",
+      "item_ids": [
+        "087a9d31d9929fb0",
+        "8de160b4cd8dd16c",
         "4512cde0051dfc07"
       ]
     },
     {
-      "title": "Silver slides further and faster, then bounces",
-      "summary": "Silver crashed through $40 to as low as $38.09 before rebounding above $41 late in the session; on MCX, silver is down about 20% in November.",
+      "title": "Rupee eases after an eight-month high",
+      "summary": "The rupee hit 92.1850 per dollar, an eight-month high, on record foreign inflows into Indian stocks, then eased 20 paise to 92.40 in early Thursday trade.",
       "item_ids": [
-        "24adc7c8dbbe2fff",
-        "20285d7176ace5e7",
-        "38fba46de8848f6e",
-        "c80bccb6f4765530",
-        "7741ac80b9aa58db",
-        "e2ccd03ac601abd4",
-        "e2ccd03ac601abd4",
-        "e2ccd03ac601abd4"
-      ]
-    },
-    {
-      "title": "Fed hike bets keep bullion under pressure",
-      "summary": "PCE at 3.8% and core PCE at 3.3%, GDP revised up to 4.3%, and a Beige Book showing sticky prices have markets pricing a December Fed hike as near-certain, with the Dec. 8-9 meeting the next focus.",
-      "item_ids": [
-        "24adc7c8dbbe2fff",
-        "3f0337043e28fa42",
-        "087a9d31d9929fb0",
-        "8de160b4cd8dd16c"
-      ]
-    },
-    {
-      "title": "India's imports shrink as prices ease",
-      "summary": "Gold imports fell 40% to $24.7 billion in April-October, saving $16.46 billion, while the RBI now holds 84% of its gold at home and the rupee sits at an eight-month high.",
-      "item_ids": [
-        "9bcacce895e79c35",
-        "8b2fdb2032a9a4b2",
+        "6264a691a5224f2b",
         "e7326818e63964bb"
       ]
     },
     {
-      "title": "Gold loans surge as dearer gold lifts loan sizes",
-      "summary": "CRIF data puts India's gold loan book at ₹23.3 lakh crore, up 60.6% in a year; but gold-loan NPAs nearly doubled to 0.3% as prices fell, and the RBI has asked NBFCs to tighten scrutiny.",
+      "title": "India's gold economy adjusts to lower prices",
+      "summary": "Gold imports fell 40% to $24.7 billion in April-October, the gold loan book grew 60.6% to ₹23.3 lakh crore even as loan NPAs nearly doubled, and the RBI fixed SGB early redemption at ₹12,612 per gram.",
       "item_ids": [
+        "9bcacce895e79c35",
         "071ae6281ab76354",
-        "b72ffc8dcf1ca269"
+        "b72ffc8dcf1ca269",
+        "410bf6a722fe1a94"
       ]
     }
   ],
@@ -209,25 +205,27 @@
       "breaking": false
     },
     {
-      "id": "071ae6281ab76354",
-      "title": "India's gold loan portfolio surges 60.6% to ₹23.3 lakh crore, smaller cities drive growth: Report",
-      "summary": "India's outstanding gold loan portfolio grew 60.6% year on year to ₹23.3 lakh crore in September 2026, a CRIF report said, as larger loan sizes and borrowers in smaller cities drove growth. The average ticket rose 32.7% to ₹2.2 lakh, and gold loans now make up 12.6% of retail credit.",
-      "url": "https://www.thehindubusinessline.com/money-and-banking/indias-gold-loan-portfolio-surges-606-to-233-lakh-crore-smaller-cities-drive-growth-report/article71741372.ece",
-      "source": "The Hindu BusinessLine",
-      "source_domain": "thehindubusinessline.com",
-      "publisher_id": "hindu-businessline",
-      "published_at": "2026-11-25T09:30:32Z",
-      "image_url": "https://bl-i.thgim.com/public/incoming/m64w47/article71741813.ece/alternates/LANDSCAPE_1200/IMG_iStock-2199586129_2_1_U9EFLPSG.jpg",
+      "id": "6264a691a5224f2b",
+      "title": "Rupee falls 20 paise to 92.40 against US dollar in early trade",
+      "summary": "The rupee eased 20 paise to 92.40 against the dollar in early trade on Thursday, Economic Times reports, pulling back after hitting an eight-month high of 92.1850 in the previous session. A softer rupee raises the landed cost of gold imports even as global prices steady.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-falls-20-paise-to-92-40-against-us-dollar-in-early-trade/articleshow/136179591.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-11-26T05:24:00Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/6264a691a5224f2b.jpg",
       "image_kind": "photo",
-      "category": "mcx",
+      "category": "global",
       "metals": [
         "gold"
       ],
       "tags": [
         "gold",
+        "rupee",
         "india"
       ],
       "breaking": false,
+      "related_urls": [],
       "rank": 5
     },
     {
@@ -256,6 +254,28 @@
       "rank": 6
     },
     {
+      "id": "071ae6281ab76354",
+      "title": "India's gold loan portfolio surges 60.6% to ₹23.3 lakh crore, smaller cities drive growth: Report",
+      "summary": "India's outstanding gold loan portfolio grew 60.6% year on year to ₹23.3 lakh crore in September 2026, a CRIF report said, as larger loan sizes and borrowers in smaller cities drove growth. The average ticket rose 32.7% to ₹2.2 lakh, and gold loans now make up 12.6% of retail credit.",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/indias-gold-loan-portfolio-surges-606-to-233-lakh-crore-smaller-cities-drive-growth-report/article71741372.ece",
+      "source": "The Hindu BusinessLine",
+      "source_domain": "thehindubusinessline.com",
+      "publisher_id": "hindu-businessline",
+      "published_at": "2026-11-25T09:30:32Z",
+      "image_url": "https://bl-i.thgim.com/public/incoming/m64w47/article71741813.ece/alternates/LANDSCAPE_1200/IMG_iStock-2199586129_2_1_U9EFLPSG.jpg",
+      "image_kind": "photo",
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "india"
+      ],
+      "breaking": false,
+      "rank": 7
+    },
+    {
       "id": "9bcacce895e79c35",
       "title": "India Records 40% Decline in Gold Imports to $24.7 Billion in April-October 2026",
       "summary": "India's gold imports fell 40% to $24.7 billion in April-October from $41.24 billion a year earlier, saving $16.46 billion, trade body CTI said, with October alone down 62.6% to $5.51 billion; full-year imports are estimated at $35-40 billion versus about $72 billion in FY26, and gold prices have eased to about Rs 1.25 crore per kg from Rs 1.90 crore.",
@@ -279,7 +299,7 @@
       "related_urls": [
         "https://www.thehindubusinessline.com/economy/gold-imports-into-india-decline-40-in-april-october-cti/article71734145.ece"
       ],
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "c80bccb6f4765530",
@@ -303,7 +323,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "4512cde0051dfc07",
@@ -326,7 +346,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "087a9d31d9929fb0",
@@ -351,7 +371,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "8de160b4cd8dd16c",
@@ -374,7 +394,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 11,
+      "rank": 12,
       "publisher_id": "kitco"
     },
     {
@@ -401,7 +421,33 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 13
+    },
+    {
+      "id": "410bf6a722fe1a94",
+      "title": "Bought SGB at ₹4,777 in 2021? RBI announces ₹12,612 redemption price; check your profit",
+      "summary": "The RBI has fixed ₹12,612 per gram as the premature redemption price for Sovereign Gold Bonds 2021-22 Series I due on November 25, Upstox reports, a gain of about 164% over the May 2021 issue price of ₹4,777 per gram. The price is the average of IBJA 999-purity closing prices on November 19, 20 and 23.",
+      "url": "https://upstox.com/news/personal-finance/commodities/bought-sgb-at-4777-in-2021-rbi-announces-12612-redemption-price-check-your-profit/article-203913/",
+      "source": "Upstox",
+      "source_domain": "upstox.com",
+      "publisher_id": "upstox",
+      "published_at": "2026-11-25T02:04:36Z",
+      "image_url": "https://assets.upstox.com/content/assets/images/news/sgb-202-22-series-i-premature-redemption.webp",
+      "image_kind": "photo",
+      "category": "policy",
+      "metals": [
+        "gold"
+      ],
+      "tags": [
+        "gold",
+        "india",
+        "rbi"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://www.rbi.org.in/SCRIPTs/BS_PressReleaseDisplay.aspx?prid=64030"
+      ],
+      "rank": 14
     },
     {
       "url": "https://www.indiatvnews.com/business/markets/gold-silver-prices-decline-on-mcx-as-investors-reassess-outlook-for-us-interest-rates-check-city-wise-rates-2026-11-25-1060332",
@@ -428,7 +474,7 @@
       "id": "c3f623a2843991be",
       "breaking": false,
       "related_urls": [],
-      "rank": 13
+      "rank": 15
     },
     {
       "id": "3d8dc647ec60a1df",
@@ -454,7 +500,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 16
     },
     {
       "url": "https://www.ndtvprofit.com/markets/gold-silver-lose-shine-yellow-metal-prices-fall-below-rs-1-21-000-white-metal-rates-under-rs-1-42-000-12374077",
@@ -481,7 +527,7 @@
       "id": "ddaa89379930dd50",
       "breaking": false,
       "related_urls": [],
-      "rank": 15
+      "rank": 17
     },
     {
       "url": "https://www.bhaskarenglish.in/business/news/gold-silver-price-fall-india-bullion-jewellers-association-rate-139793640.html",
@@ -507,7 +553,7 @@
       "id": "d710f1faec6928f9",
       "breaking": false,
       "related_urls": [],
-      "rank": 16
+      "rank": 18
     },
     {
       "id": "0d73bf2a528ec37e",
@@ -531,7 +577,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 17
+      "rank": 19
     },
     {
       "id": "e480ce1984b78a35",
@@ -557,7 +603,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 18
+      "rank": 20
     },
     {
       "id": "e7326818e63964bb",
@@ -581,7 +627,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 19
+      "rank": 21
     },
     {
       "id": "8b2fdb2032a9a4b2",
@@ -603,10 +649,11 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 20,
+      "rank": 22,
       "publisher_id": "hindu-businessline",
       "related_urls": [
-        "https://www.reuters.com/world/india/india-central-bank-raises-share-domestically-held-gold-reserves-data-shows-2026-11-25/"
+        "https://www.reuters.com/world/india/india-central-bank-raises-share-domestically-held-gold-reserves-data-shows-2026-11-25/",
+        "https://www.thehindubusinessline.com/money-and-banking/rbi-loses-875-in-gold-as-prices-dip-in-september/article71743407.ece"
       ]
     },
     {
@@ -630,7 +677,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 21
+      "rank": 23
     },
     {
       "id": "782a9d4ff1a447a0",
@@ -652,7 +699,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 22
+      "rank": 24
     },
     {
       "id": "406cab5fab8cb218",
@@ -674,7 +721,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 23
+      "rank": 25
     },
     {
       "id": "a25f493dd8bc62d9",
@@ -696,7 +743,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 24
+      "rank": 26
     }
   ]
 }
