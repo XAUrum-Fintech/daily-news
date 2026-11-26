@@ -1,6 +1,6 @@
 {
   "schema": "customs-tracker.v4",
-  "generated_at": "2026-11-25T16:07:17Z",
+  "generated_at": "2026-11-26T15:55:41Z",
   "duty_rate": 0.15,
   "row_count": 75,
   "source_notes": "Tariff values: CBIC 'Fixation of Tariff Value' notifications amending 36/2001-Customs (N.T.). Exchange rates: ICEGATE ERAM notifications. London fix: LBMA gold PM / silver price.",
@@ -1917,9 +1917,9 @@
       "silver_value_inr_kg": 158567.05,
       "silver_duty_inr_kg": 23785.06,
       "silver_duty_change_inr_kg": -686.52,
-      "source_url": null,
-      "source_kind": null,
-      "notice_url": null,
+      "source_url": "https://www.caalley.com/cus26/csnt91-2026.pdf",
+      "source_kind": "notice",
+      "notice_url": "https://www.caalley.com/cus26/csnt91-2026.pdf",
       "duty_rate": 0.15
     },
     {
@@ -2025,9 +2025,9 @@
       "silver_value_inr_kg": 140773.6,
       "silver_duty_inr_kg": 21116.04,
       "silver_duty_change_inr_kg": -2357.21,
-      "source_url": null,
-      "source_kind": null,
-      "notice_url": null,
+      "source_url": "https://www.caalley.com/cus26/csnt94-2026.pdf",
+      "source_kind": "notice",
+      "notice_url": "https://www.caalley.com/cus26/csnt94-2026.pdf",
       "duty_rate": 0.15
     },
     {
@@ -2052,9 +2052,9 @@
       "silver_value_inr_kg": 140773.6,
       "silver_duty_inr_kg": 21116.04,
       "silver_duty_change_inr_kg": 0.0,
-      "source_url": null,
-      "source_kind": null,
-      "notice_url": null,
+      "source_url": "https://www.caalley.com/cus26/csnt96-2026.pdf",
+      "source_kind": "notice",
+      "notice_url": "https://www.caalley.com/cus26/csnt96-2026.pdf",
       "duty_rate": 0.15
     }
   ]
