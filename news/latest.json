@@ -1,17 +1,17 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-26T02:00Z",
-  "generated_at": "2026-11-26T02:21:40Z",
+  "edition_id": "2026-11-26T04:00Z",
+  "generated_at": "2026-11-26T04:05:36Z",
   "window": {
-    "from": "2026-11-26T00:00:00Z",
-    "to": "2026-11-26T02:00:00Z"
+    "from": "2026-11-26T02:00:00Z",
+    "to": "2026-11-26T04:00:00Z"
   },
   "insights": {
-    "headline": "Gold steadies near $3,576 after Wednesday's wild rebound; silver back above $41",
-    "summary": "Spot gold held near $3,576 an ounce in early Thursday trade after recovering from $3,426 on Wednesday, while silver steadied above $41 after touching $38.09, as easing Treasury yields and a Wall Street rebound offset hot US PCE inflation of 3.8% and GDP revised up to 4.3%. MCX gold closed near Rs 1,20,429 per 10 g with silver near Rs 1,40,797 per kg. The Fed's Beige Book showed growth at a slight-to-moderate pace with sticky prices, keeping a December hike near-certain, while the rupee's eight-month high softens the blow for Indian buyers.",
+    "headline": "Gold steadies near $3,581 after Wednesday's wild rebound; silver back above $41",
+    "summary": "Spot gold held near $3,580.87 an ounce in early Thursday trade after recovering from $3,426 on Wednesday, while silver rose 1% to $41.64 after touching $38.09, as short-covering ahead of Thanksgiving and easing Treasury yields offset hot US PCE inflation of 3.8% and GDP revised up to 4.3%. MCX gold closed near Rs 1,20,429 per 10 g with silver near Rs 1,40,797 per kg. The Fed's Beige Book showed growth at a slight-to-moderate pace with sticky prices, keeping a December hike near-certain, while the rupee's eight-month high softens the blow for Indian buyers.",
     "points": [
-      "Spot gold steadied near $3,576.30, up 0.6%, after Wednesday's range of $3,426.40 to $3,590.",
-      "Silver held above $41 at about $41.12, up 0.78%, after falling as low as $38.09 in the session.",
+      "Spot gold steadied near $3,580.87, after Wednesday's range of $3,426.40 to $3,590.",
+      "Silver rose 1% to $41.64, holding above $41 after falling as low as $38.09 in the session.",
       "MCX gold closed near Rs 1,20,429 per 10 g and silver near Rs 1,40,797 per kg; gold is down about 13% in November.",
       "India's gold imports fell 40% to $24.7 billion in April-October, saving $16.46 billion, trade body CTI said.",
       "The Fed's Beige Book showed slight-to-moderate growth with sticky prices; a December hike stays near-certain."
@@ -54,6 +54,7 @@
       "title": "Gold's wild Wednesday: below $3,500, then back above $3,570",
       "summary": "Gold fell to $3,426, its lowest since September 2025, on hot PCE and strong GDP, then recovered toward $3,590 as yields eased and the dollar slipped.",
       "item_ids": [
+        "24adc7c8dbbe2fff",
         "20285d7176ace5e7",
         "38fba46de8848f6e",
         "4512cde0051dfc07"
@@ -63,6 +64,7 @@
       "title": "Silver slides further and faster, then bounces",
       "summary": "Silver crashed through $40 to as low as $38.09 before rebounding above $41 late in the session; on MCX, silver is down about 20% in November.",
       "item_ids": [
+        "24adc7c8dbbe2fff",
         "20285d7176ace5e7",
         "38fba46de8848f6e",
         "c80bccb6f4765530",
@@ -73,10 +75,10 @@
       "title": "Fed hike bets keep bullion under pressure",
       "summary": "PCE at 3.8% and core PCE at 3.3%, GDP revised up to 4.3%, and a Beige Book showing sticky prices have markets pricing a December Fed hike as near-certain, with the Dec. 8-9 meeting the next focus.",
       "item_ids": [
+        "24adc7c8dbbe2fff",
+        "3f0337043e28fa42",
         "087a9d31d9929fb0",
-        "8de160b4cd8dd16c",
-        "c94a7b5dd054772f",
-        "3f0337043e28fa42"
+        "8de160b4cd8dd16c"
       ]
     },
     {
@@ -98,6 +100,32 @@
     }
   ],
   "items": [
+    {
+      "id": "24adc7c8dbbe2fff",
+      "title": "Gold steadies after hitting over 1-year low; Fed outlook in focus",
+      "summary": "Spot gold steadied at $3,580.87 an ounce early Thursday after briefly falling below $3,500 on Wednesday, the first time since September 2025, Reuters reports, as investors covered shorts ahead of Thanksgiving; December futures rose 1.2% to $3,578.70. Silver rose 1% to $41.64. Hot US inflation and GDP revised up to 4.3% reinforced expectations of Fed rate hikes in December and early 2027.",
+      "url": "https://www.reuters.com/world/india/gold-steadies-after-hitting-over-1-year-low-fed-outlook-focus-2026-11-26/",
+      "source": "Reuters",
+      "source_domain": "reuters.com",
+      "publisher_id": "reuters",
+      "published_at": "2026-11-26T03:39:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "silver",
+        "fed",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "related_urls": [],
+      "rank": 1
+    },
     {
       "id": "20285d7176ace5e7",
       "title": "Gold, silver reverse early losses as Wall Street rebounds ahead of Thanksgiving",
@@ -126,11 +154,11 @@
         "https://www.fxstreet.com/news/gold-rebounds-above-3-550-as-easing-yields-and-weaker-us-dollar-counter-hot-us-inflation-data-202611252326",
         "https://investinglive.com/commodities/gold-claws-back-160-from-a-14-month-low-but-one-candle-doesn-t-necessarily-make-a-bottom/"
       ],
-      "rank": 1
+      "rank": 2
     },
     {
       "id": "38fba46de8848f6e",
-      "rank": 2,
+      "rank": 3,
       "title": "Gold Sinks Below $3500 as Silver Crashes Thru' $40",
       "summary": "Gold sank to $3,455 an ounce and silver crashed through $40 to as low as $38.68 after US GDP was revised up to 4.3% and core PCE came in at 3.3%. Markets still put a 98% chance on a quarter-point Fed hike in December. Strategist Nicky Shiels calls the sell-off a structural exit in gold, while ex-fund manager Charlie Morris sees a correction within a bull market.",
       "url": "https://live.bullionvault.com/gold-news/gold-price-news/gold-3500-silver-crash-fed-112520261",
@@ -176,7 +204,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "c80bccb6f4765530",
@@ -200,7 +228,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "9bcacce895e79c35",
@@ -225,34 +253,6 @@
       "breaking": false,
       "related_urls": [
         "https://www.thehindubusinessline.com/economy/gold-imports-into-india-decline-40-in-april-october-cti/article71734145.ece"
-      ],
-      "rank": 5
-    },
-    {
-      "id": "c94a7b5dd054772f",
-      "title": "Fed survey shows continued growth and sticky inflation in recent weeks",
-      "summary": "The Fed's Beige Book found growth at a slight-to-moderate pace across most of the US, with eight of 12 districts growing, while prices rose moderately and employment increased; contacts expect costs and prices to keep rising, and markets still price at least a quarter-point hike at the Dec. 8-9 meeting after PCE came in at 3.8% and core PCE at 3.3%.",
-      "url": "https://www.reuters.com/business/fed-survey-shows-continued-growth-sticky-inflation-recent-weeks-2026-11-25/",
-      "source": "Reuters",
-      "source_domain": "reuters.com",
-      "publisher_id": "reuters",
-      "published_at": "2026-11-25T20:07:37Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "silver",
-        "fed",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": [
-        "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-survey-shows-continued-growth-and-sticky-inflation-in-recent-weeks/articleshow/136172166.cms"
       ],
       "rank": 6
     },
