@@ -1,20 +1,20 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-26T08:00Z",
-  "generated_at": "2026-11-26T08:10:08Z",
+  "edition_id": "2026-11-26T10:00Z",
+  "generated_at": "2026-11-26T10:12:23Z",
   "window": {
-    "from": "2026-11-26T07:00:00Z",
-    "to": "2026-11-26T08:00:00Z"
+    "from": "2026-11-26T09:00:00Z",
+    "to": "2026-11-26T10:00:00Z"
   },
   "insights": {
-    "headline": "MCX gold holds near ₹1.23 lakh as silver surges, dollar steady ahead of Thanksgiving",
-    "summary": "MCX gold held near ₹1.23 lakh per 10 g at midday on Thursday and silver stayed near ₹1.47 lakh per kg, after gold rallied 1.6% and silver surged ₹5,281 per kg in early trade on short-covering and steady Treasury yields. Spot gold steadied at $3,580.87 after briefly falling below $3,500 on Wednesday, while the dollar was flat at 103.7 with the 10-year yield at a 2.5-month low of 4.8%. Hot October US PCE inflation of 3.8% and GDP revised up to 4.3% hardened bets on a December Fed hike, and the rupee eased to 92.40 after an eight-month high, with US markets shut for Thanksgiving.",
+    "headline": "Gold rebounds on MCX as buyers step in; WGC says Indian demand stays firm",
+    "summary": "MCX gold rebounded to ₹1,22,780 per 10 g and silver to ₹1,47,513 per kg in early trade on Thursday as buyers stepped in after the slide to near one-year lows, with spot gold near $3,575. UBS kept its $5,000-an-ounce gold forecast for December 2027, and the World Gold Council said Indian physical demand stays firm on dip buying. Hot October US PCE inflation of 3.8% and GDP revised up to 4.3% keep December Fed hike bets near-certain, with US markets shut for Thanksgiving.",
     "points": [
-      "MCX gold rallied 1.6% to ₹1,23,074 per 10 g in early trade and silver surged ₹5,281 per kg to ₹1,47,798.",
-      "Spot gold steadied at $3,580.87 after briefly falling below $3,500, its first time under that level since September 2025.",
-      "October US PCE inflation was 3.8% and core PCE 3.3%, with GDP revised up to 4.3%, hardening December Fed hike bets.",
-      "The dollar was steady with the index flat at 103.7 and the 10-year Treasury yield at a 2.5-month low of 4.8%.",
-      "CME FedWatch puts a 95% chance on a quarter-point Fed hike on Dec 8-9, and CME raised gold and silver futures margins."
+      "MCX December gold traded at ₹1,22,780 per 10 g, up ₹1,643, and silver at ₹1,47,513 per kg, up ₹4,996.",
+      "Spot gold steadied near $3,575 after briefly falling below $3,500, its first time under that level since September 2025.",
+      "UBS kept its gold forecast at $5,000 an ounce by December 2027, about ₹1.49 lakh per 10 g, after a 27% correction from January's peak.",
+      "India's physical gold demand stays firm on dip buying, the World Gold Council said, with central banks buying over 345 tonnes last quarter.",
+      "October US PCE inflation was 3.8% and core PCE 3.3%, with GDP revised up to 4.3%, hardening December Fed hike bets."
     ],
     "brief": {
       "schema": "orob-brief.v1",
@@ -59,7 +59,8 @@
         "e2ccd03ac601abd4",
         "24adc7c8dbbe2fff",
         "20285d7176ace5e7",
-        "f91e87bfdd95ccd4"
+        "f91e87bfdd95ccd4",
+        "73e57beb3d22e6b1"
       ]
     },
     {
@@ -69,8 +70,9 @@
         "087a9d31d9929fb0",
         "8de160b4cd8dd16c",
         "16e0ee65a1952416",
-        "c80bccb6f4765530",
-        "2b32e6256f8d54e9"
+        "2b32e6256f8d54e9",
+        "11347b03a75980ee",
+        "b7848f028dc7ca3c"
       ]
     },
     {
@@ -87,11 +89,46 @@
         "f91e87bfdd95ccd4",
         "e2ccd03ac601abd4",
         "0d73bf2a528ec37e",
-        "782a9d4ff1a447a0"
+        "782a9d4ff1a447a0",
+        "73e57beb3d22e6b1"
+      ]
+    },
+    {
+      "title": "Indian demand stays firm as RBI holds gold at home",
+      "summary": "The World Gold Council says Indian buyers are stepping in on dips with ETF inflows recovering, while the RBI now holds 740.13 tonnes — 84% of its gold — in India.",
+      "item_ids": [
+        "15de6aa629f19b2f",
+        "8b2fdb2032a9a4b2"
       ]
     }
   ],
   "items": [
+    {
+      "id": "73e57beb3d22e6b1",
+      "title": "Gold, silver prices rebound on MCX, Comex on buying at lower levels",
+      "summary": "MCX December gold traded at ₹1,22,780 per 10 g, up ₹1,643, and silver at ₹1,47,513 per kg, up ₹4,996, as buyers stepped in after the slide to near one-year lows. Comex gold traded near $3,575 an ounce, with the rebound led by short-covering and lower-level buying.",
+      "url": "https://www.business-standard.com/markets/commodities/gold-silver-prices-rebound-on-mcx-comex-on-buying-at-lower-levels-126112600534_1.html",
+      "source": "Business Standard",
+      "source_domain": "business-standard.com",
+      "publisher_id": "business-standard",
+      "published_at": "2026-11-26T07:31:39Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/73e57beb3d22e6b1.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "comex",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 1
+    },
     {
       "id": "e2ccd03ac601abd4",
       "title": "Gold price tracker, Nov 26: MCX gold rally reclaims ₹1.23 lakh, silver rates surge by ₹5,281/kg; further recovery ahead?",
@@ -114,7 +151,7 @@
         "mcx"
       ],
       "breaking": false,
-      "rank": 1
+      "rank": 2
     },
     {
       "id": "24adc7c8dbbe2fff",
@@ -140,7 +177,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "f91e87bfdd95ccd4",
@@ -166,7 +203,7 @@
         "india"
       ],
       "breaking": false,
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "20285d7176ace5e7",
@@ -196,7 +233,82 @@
         "https://www.fxstreet.com/news/gold-rebounds-above-3-550-as-easing-yields-and-weaker-us-dollar-counter-hot-us-inflation-data-202611252326",
         "https://investinglive.com/commodities/gold-claws-back-160-from-a-14-month-low-but-one-candle-doesn-t-necessarily-make-a-bottom/"
       ],
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "id": "15de6aa629f19b2f",
+      "title": "Gold demand remains strong despite price correction, says World Gold Council",
+      "summary": "India's physical gold demand remains firm despite the correction, the World Gold Council's Sachin Jain said, with consumers buying on dips and ETF inflows recovering in the first half of November. Central banks bought more than 345 tonnes in the previous quarter, and gold ETF holdings were about 126 tonnes at end-October.",
+      "url": "https://www.cnbctv18.com/market/gold-demand-remains-strong-despite-price-correction-says-world-gold-councils-sachin-jain-etf-inflows-20041946.htm",
+      "source": "CNBC-TV18",
+      "source_domain": "cnbctv18.com",
+      "publisher_id": "cnbc-tv18",
+      "published_at": "2026-11-26T08:40:25Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/15de6aa629f19b2f.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "india",
+        "jewellery",
+        "central-banks"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "related_urls": [
+        "https://www.cnbctv18.com/videos/market/world-gold-council-sachin-jain-gold-demand-india-dip-buying-price-correction-etf-inflows-20041954.htm"
+      ],
+      "rank": 6
+    },
+    {
+      "id": "b7848f028dc7ca3c",
+      "title": "Gold price prediction: Despite 27% decline from January peak, UBS still retains ₹1.50 lakh/10 gram target for 2027",
+      "summary": "UBS has kept its gold forecast at $5,000 an ounce by December 2027 — about ₹1.49 lakh per 10 g — even after Indian gold corrected 27% from its January peak near ₹1.8 lakh to about ₹1.2 lakh. The bank cites central-bank buying and reserve diversification, while spot gold was near $3,531 when the note was written.",
+      "url": "https://www.livemint.com/market/commodities/gold-price-prediction-despite-27-decline-from-january-peak-ubs-still-retains-rs-1-50-lakh-10-gram-target-for-2027-11795601553956.html",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "publisher_id": "mint",
+      "published_at": "2026-11-25T11:40:45Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/b7848f028dc7ca3c.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 7
+    },
+    {
+      "id": "11347b03a75980ee",
+      "title": "Gold Price Forecast: Lower Yields Fuel Rebound Despite Fed Hike Bets",
+      "summary": "Gold recovered from the $3,400–$3,500 support zone after touching $3,426.80 on Wednesday, helped by easing Treasury yields even as traders see a December Fed hike as near-certain. FXEmpire notes a daily close above $3,700 could open the way to $3,850.",
+      "url": "https://www.fxempire.com/forecasts/article/gold-price-forecast-lower-yields-fuel-rebound-despite-fed-hike-bets-1647449",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "published_at": "2026-11-26T08:37:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 8
     },
     {
       "id": "16e0ee65a1952416",
@@ -223,7 +335,7 @@
         "global"
       ],
       "breaking": false,
-      "rank": 5
+      "rank": 9
     },
     {
       "id": "2b32e6256f8d54e9",
@@ -246,7 +358,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 10
     },
     {
       "id": "087a9d31d9929fb0",
@@ -271,7 +383,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 7
+      "rank": 11
     },
     {
       "id": "8de160b4cd8dd16c",
@@ -294,12 +406,12 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 8,
+      "rank": 12,
       "publisher_id": "kitco"
     },
     {
       "id": "38fba46de8848f6e",
-      "rank": 9,
+      "rank": 13,
       "title": "Gold Sinks Below $3500 as Silver Crashes Thru' $40",
       "summary": "Gold sank to $3,455 an ounce and silver crashed through $40 to as low as $38.68 after US GDP was revised up to 4.3% and core PCE came in at 3.3%. Markets still put a 98% chance on a quarter-point Fed hike in December. Strategist Nicky Shiels calls the sell-off a structural exit in gold, while ex-fund manager Charlie Morris sees a correction within a bull market.",
       "url": "https://live.bullionvault.com/gold-news/gold-price-news/gold-3500-silver-crash-fed-112520261",
@@ -345,57 +457,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 10
-    },
-    {
-      "id": "7741ac80b9aa58db",
-      "title": "MCX rates: Gold crashes 13%, silver plunges 20% in Nov 2026; is worst over? What should precious metals investors do?",
-      "summary": "MCX gold has fallen about 13% in November and silver nearly 20%, pressured by a firm dollar, higher US yields and unwinding long positions. On Wednesday, MCX gold opened near ₹1,22,035 per 10 g and silver near ₹1,45,137 per kg. Analysts cited call both metals deeply oversold; the Silver Institute still sees a 35-million-ounce deficit this year, while Deutsche Bank sees a possible surplus in 2027.",
-      "url": "https://www.livemint.com/market/commodities/mcx-rates-gold-crashes-13-silver-plunges-20-in-nov-2026-is-worst-over-what-should-precious-metals-investors-do-11795589063705.html",
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "publisher_id": "mint",
-      "published_at": "2026-11-25T07:48:52Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/7741ac80b9aa58db.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "fed",
-        "india"
-      ],
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 11
-    },
-    {
-      "id": "c80bccb6f4765530",
-      "title": "Silver Price Forecast: Fed Rate Hike Outlook Keeps Sellers in Control",
-      "summary": "FXEmpire's analyst says silver is trying to steady early Thursday after Wednesday's sell-off broke below the October 2025 bottom at $45.55, with the analyst watching the $41.14 area as the next main bottom; the bias stays down while Fed hike expectations support the dollar and Treasury yields, though a pause in the dollar's rally may let sellers take profits.",
-      "url": "https://www.fxempire.com/forecasts/article/silver-price-forecast-fed-rate-hike-outlook-keeps-sellers-in-control-1645704",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "publisher_id": "fxempire",
-      "published_at": "2026-11-26T01:35:57Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "silver",
-        "fed",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": [],
-      "rank": 12
+      "rank": 14
     },
     {
       "id": "6264a691a5224f2b",
@@ -419,7 +481,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 13
+      "rank": 15
     },
     {
       "id": "4512cde0051dfc07",
@@ -442,7 +504,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 16
     },
     {
       "url": "https://www.indiatvnews.com/business/markets/gold-silver-prices-decline-on-mcx-as-investors-reassess-outlook-for-us-interest-rates-check-city-wise-rates-2026-11-25-1060332",
@@ -469,7 +531,7 @@
       "id": "c3f623a2843991be",
       "breaking": false,
       "related_urls": [],
-      "rank": 15
+      "rank": 17
     },
     {
       "id": "3d8dc647ec60a1df",
@@ -495,7 +557,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 16
+      "rank": 18
     },
     {
       "url": "https://www.ndtvprofit.com/markets/gold-silver-lose-shine-yellow-metal-prices-fall-below-rs-1-21-000-white-metal-rates-under-rs-1-42-000-12374077",
@@ -522,7 +584,7 @@
       "id": "ddaa89379930dd50",
       "breaking": false,
       "related_urls": [],
-      "rank": 17
+      "rank": 19
     },
     {
       "url": "https://www.bhaskarenglish.in/business/news/gold-silver-price-fall-india-bullion-jewellers-association-rate-139793640.html",
@@ -548,7 +610,7 @@
       "id": "d710f1faec6928f9",
       "breaking": false,
       "related_urls": [],
-      "rank": 18
+      "rank": 20
     },
     {
       "id": "0d73bf2a528ec37e",
@@ -572,7 +634,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 19
+      "rank": 21
     },
     {
       "id": "e480ce1984b78a35",
@@ -598,7 +660,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 20
+      "rank": 22
     },
     {
       "id": "410bf6a722fe1a94",
@@ -624,7 +686,7 @@
       "related_urls": [
         "https://www.rbi.org.in/SCRIPTs/BS_PressReleaseDisplay.aspx?prid=64030"
       ],
-      "rank": 21
+      "rank": 23
     },
     {
       "id": "8b2fdb2032a9a4b2",
@@ -646,7 +708,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 22,
+      "rank": 24,
       "publisher_id": "hindu-businessline",
       "related_urls": [
         "https://www.reuters.com/world/india/india-central-bank-raises-share-domestically-held-gold-reserves-data-shows-2026-11-25/",
@@ -674,7 +736,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 23
+      "rank": 25
     },
     {
       "id": "782a9d4ff1a447a0",
@@ -696,7 +758,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 24
+      "rank": 26
     },
     {
       "id": "406cab5fab8cb218",
@@ -718,7 +780,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 25
+      "rank": 27
     }
   ]
 }
