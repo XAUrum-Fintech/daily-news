@@ -1,20 +1,20 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-27T03:00Z",
-  "generated_at": "2026-11-27T03:09:12Z",
+  "edition_id": "2026-11-27T04:00Z",
+  "generated_at": "2026-11-27T04:08:35Z",
   "window": {
     "from": "2026-11-27T02:00:00Z",
-    "to": "2026-11-27T03:00:00Z"
+    "to": "2026-11-27T04:00:00Z"
   },
   "insights": {
-    "headline": "Gold steadies near $3,565 as December hike bets harden; India’s ₹23 lakh crore gold-loan market under strain",
-    "summary": "Spot gold held near $3,565 an ounce in thin Thanksgiving trading as traders priced a near-certain Federal Reserve rate hike in December after hot October PCE data, while silver edged up to $41.42. On MCX, gold futures ended near Rs 1,24,559 per 10 g and silver near Rs 1,50,130 per kg after recovering from their lowest levels in over a year. India’s ₹23 lakh crore gold-loan market is under strain as falling prices push loan-to-value ratios higher, and the RBI repatriated another 60 tonnes of gold in 2026.",
+    "headline": "Gold rebounds from one-year low as AI jitters ease; silver jumps 4.6%",
+    "summary": "Spot gold rose 1.6% to $3,622.91 on Friday, rebounding from its lowest since September 2025 as a US holiday lull calmed AI-driven market jitters, and bullion is up 2.7% on the week. Silver led the recovery, climbing 4.6% to $43.40 as the dollar pulled back from a near 20-month high. MCX silver had already jumped 3% to ₹1,48,336 per kg, though traders still price a near-certain December Fed rate hike after hot October inflation data.",
     "points": [
-      "Spot gold near $3,565.50 and silver $41.42 as traders price a 99.4% chance of a December Fed hike.",
-      "MCX gold ended at Rs 1,24,559 per 10 g and silver at Rs 1,50,130 per kg after rebounding from one-year lows.",
-      "India’s ₹23 lakh crore gold-loan market is under strain as falling prices lift loan-to-value ratios; the RBI is watching repeat borrowers.",
-      "The RBI repatriated 60.08 tonnes of gold in April–September 2026; gold’s share of forex reserves fell to 14.38%.",
-      "Turkey’s central bank paused purchases of domestically produced gold until further notice."
+      "Spot gold climbed 1.6% to $3,622.91 an ounce by 0247 GMT on Friday, rebounding from its lowest since September 2025; bullion is up 2.7% so far this week.",
+      "Spot silver climbed 4.6% to $43.40, with FXStreet reporting XAG/USD near $43.75, up almost 5%, as the dollar corrected from a near 20-month high.",
+      "MCX silver jumped 3% to ₹1,48,336 per kg, Kotak Neo reports, with MCX gold also rebounding on buying at lower levels.",
+      "Traders price a 99.4% chance of a December Fed hike after hot October PCE, Kitco reports; the Fed raised rates for the first time in three years in September.",
+      "China's net gold imports via Hong Kong rose 1.6% in October to their highest since April, Reuters reports."
     ],
     "brief": {
       "schema": "orob-brief.v1",
@@ -49,35 +49,34 @@
   },
   "trending": [
     {
-      "title": "Fed hike bets pin gold near 14-month lows",
-      "summary": "Hot October PCE hardened bets on a December hike to near-certainty, and gold eased to $3,565.50 in thin holiday trading after briefly breaking below $3,500.",
+      "title": "Gold rebounds from its one-year low",
+      "summary": "Spot gold rose 1.6% to $3,622.91 on Friday as a US holiday lull calmed AI-driven jitters, leaving bullion up 2.7% on the week after its lowest since September 2025.",
       "item_ids": [
-        "0004e6b29491749d",
-        "69577005ca7c563b",
-        "087a9d31d9929fb0",
-        "24adc7c8dbbe2fff"
-      ]
-    },
-    {
-      "title": "MCX bullion snaps back from one-year lows",
-      "summary": "Gold and silver futures on MCX recovered on short-covering, with February gold at Rs 1,24,559 per 10 g and March silver at Rs 1,50,130 per kg.",
-      "item_ids": [
-        "5108d937084948d6",
-        "b2006342b9474f42",
-        "73e57beb3d22e6b1"
-      ]
-    },
-    {
-      "title": "Dollar near 22-month peak as AI rout rattles markets",
-      "summary": "The dollar index held at 103.81, just below a 22-month peak, as doubts about the AI trade kept markets volatile and supported Fed tightening bets.",
-      "item_ids": [
-        "7c978466fd33fd7f",
+        "06c10346bc303225",
         "0004e6b29491749d"
       ]
     },
     {
+      "title": "Silver leads the recovery",
+      "summary": "Silver climbed 4.6% to $43.40 and nearly 5% to $43.75 by one measure, outpacing gold as the dollar corrected from a near 20-month high; MCX silver jumped 3% to ₹1,48,336 per kg.",
+      "item_ids": [
+        "281fe139d64e6519",
+        "b69e9dfa9d6029c4",
+        "b2006342b9474f42"
+      ]
+    },
+    {
+      "title": "Fed hike bets keep the rally fragile",
+      "summary": "Traders price a near-certain December hike after hot October PCE, and the Fed is expected to raise again in early 2027, keeping pressure on non-yielding bullion.",
+      "item_ids": [
+        "0004e6b29491749d",
+        "69577005ca7c563b",
+        "7c978466fd33fd7f"
+      ]
+    },
+    {
       "title": "Gold-loan stress grows as prices fall",
-      "summary": "Falling gold prices are pushing loan-to-value ratios higher across India’s ₹23 lakh crore gold-loan market, with lenders shifting to collections and the RBI watching repeat borrowers.",
+      "summary": "Falling prices are squeezing India's ₹23 lakh crore gold-loan market and pushing lenders into collection mode as loan growth slows.",
       "item_ids": [
         "d7f69d1e3c0fbd97",
         "c12aace9b8c498a6"
@@ -85,7 +84,7 @@
     },
     {
       "title": "Central banks split on gold",
-      "summary": "The RBI repatriated another 60 tonnes of gold in 2026, while Turkey’s central bank paused purchases of domestically mined gold until further notice.",
+      "summary": "The RBI brought another 60 tonnes home in 2026 while Turkey's central bank suspended purchases of domestically produced gold.",
       "item_ids": [
         "eaf1e7baea80fd92",
         "930d9e58fd027dce"
@@ -93,6 +92,31 @@
     }
   ],
   "items": [
+    {
+      "id": "06c10346bc303225",
+      "title": "Gold rebounds from one-year low as AI jitters ease",
+      "summary": "Spot gold rose 1.6% to $3,622.91 on Friday, rebounding from its lowest since September 2025 as a US holiday lull calmed AI-driven market jitters, Reuters reports; bullion is up 2.7% on the week, silver climbed 4.6% to $43.40, and China's net gold imports via Hong Kong hit their highest since April.",
+      "url": "https://www.reuters.com/world/india/gold-rebounds-one-year-low-ai-jitters-ease-2026-11-27/",
+      "source": "Reuters",
+      "source_domain": "reuters.com",
+      "publisher_id": "reuters",
+      "published_at": "2026-11-27T03:28:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "silver",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 1
+    },
     {
       "id": "0004e6b29491749d",
       "title": "Gold slips, silver gains as Fed rate hike expectations persist in holiday trading - Kitco PM Report",
@@ -116,7 +140,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 1
+      "rank": 2
     },
     {
       "id": "b2006342b9474f42",
@@ -139,7 +163,55 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "id": "281fe139d64e6519",
+      "title": "Silver Price Forecast: XAG/USD surges to near $43.75 as US Dollar remains in corrective phase",
+      "summary": "Silver extended its two-day recovery, surging almost 5% to near $43.75 as the dollar corrected from its near 20-month high of 104.57, FXStreet reports; ING notes a sustained dollar pullback may wait until the Fed meeting on December 9 or November CPI on December 10.",
+      "url": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-surges-to-near-4375-as-us-dollar-remains-in-corrective-phase-202611270322",
+      "source": "FXStreet",
+      "source_domain": "fxstreet.com",
+      "publisher_id": "fxstreet",
+      "published_at": "2026-11-27T03:22:39Z",
+      "image_url": "https://editorial.fxsstatic.com/images/i/Silver5.png",
+      "image_kind": "photo",
+      "tags": [
+        "silver",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 4
+    },
+    {
+      "id": "b69e9dfa9d6029c4",
+      "title": "Gold and Silver Price Forecast: Silver Leads Rebound as Ratio Falls",
+      "summary": "Gold and silver rebounded from key support — $3,400-$3,500 for gold and $39-$40 for silver — with silver leading the recovery as the gold-to-silver ratio fell, FXEmpire reports, though high rates and resistance at $3,700 for gold and $49 for silver could cap further gains.",
+      "url": "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-silver-leads-rebound-as-ratio-falls-1647648",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "published_at": "2026-11-27T03:36:00Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "silver",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 5
     },
     {
       "id": "5108d937084948d6",
@@ -164,56 +236,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 3
-    },
-    {
-      "id": "24adc7c8dbbe2fff",
-      "title": "Gold steadies after hitting over 1-year low; Fed outlook in focus",
-      "summary": "Spot gold steadied at $3,580.87 an ounce early Thursday after briefly falling below $3,500 on Wednesday, the first time since September 2025, Reuters reports, as investors covered shorts ahead of Thanksgiving; December futures rose 1.2% to $3,578.70. Silver rose 1% to $41.64. Hot US inflation and GDP revised up to 4.3% reinforced expectations of Fed rate hikes in December and early 2027.",
-      "url": "https://www.reuters.com/world/india/gold-steadies-after-hitting-over-1-year-low-fed-outlook-focus-2026-11-26/",
-      "source": "Reuters",
-      "source_domain": "reuters.com",
-      "publisher_id": "reuters",
-      "published_at": "2026-11-26T03:39:00Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "silver",
-        "fed",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "related_urls": [],
-      "rank": 4
-    },
-    {
-      "id": "7c978466fd33fd7f",
-      "title": "Dollar lingers near 22-month peak as AI worries simmer",
-      "summary": "The dollar hovered just below a 22-month peak in holiday-thinned trading, Reuters reports, with the dollar index steady at 103.81 after touching 104.53 on Monday. Traders watched AI-linked stocks for direction, and a December Fed hike is seen as a near certainty. A firm dollar keeps pressure on gold.",
-      "url": "https://www.reuters.com/world/africa/dollar-lingers-near-22-month-peak-ai-worries-simmer-2026-11-27/",
-      "source": "Reuters",
-      "source_domain": "reuters.com",
-      "publisher_id": "reuters",
-      "published_at": "2026-11-27T01:03:46Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "global",
-        "fed"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "73e57beb3d22e6b1",
@@ -239,7 +262,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "69577005ca7c563b",
@@ -264,7 +287,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "d7f69d1e3c0fbd97",
@@ -289,7 +312,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "16e0ee65a1952416",
@@ -302,31 +325,6 @@
       "published_at": "2026-11-25T09:30:44Z",
       "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/16e0ee65a1952416.jpg",
       "image_kind": "photo",
-      "tags": [
-        "gold",
-        "silver",
-        "fed",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 9
-    },
-    {
-      "id": "087a9d31d9929fb0",
-      "title": "PCE Inflation Rises to 3.8% as Stocks, Gold and Silver Weaken",
-      "summary": "US PCE inflation rose 3.8% over the year to October, matching forecasts, while core PCE rose 3.3%, above the 3.2% expected. Both rose 0.3% on the month. Stocks fell after the release and gold and silver hit new lows for the day, with the dollar slightly weaker.",
-      "url": "https://www.fxempire.com/forecasts/article/pce-inflation-rises-to-3-8-as-stocks-gold-and-silver-weaken-1647180",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "publisher_id": "fxempire",
-      "published_at": "2026-11-25T13:41:00Z",
-      "image_url": null,
-      "image_kind": "none",
       "tags": [
         "gold",
         "silver",
@@ -396,29 +394,6 @@
       "rank": 12
     },
     {
-      "id": "930d9e58fd027dce",
-      "title": "Turkish central bank suspends its purchases of domestically produced gold, bankers say",
-      "summary": "Turkey's central bank has suspended purchases of domestically produced gold until further notice, bankers told Reuters, without giving a reason. Turkey mines about 30 tonnes a year and the bank holds around 800 tonnes. The pause breaks a run of central-bank buying that has long supported gold.",
-      "url": "https://www.mining.com/web/turkish-central-bank-suspends-its-purchases-of-domestically-produced-gold-bankers-say/",
-      "source": "MINING.COM",
-      "source_domain": "mining.com",
-      "publisher_id": "mining-com",
-      "published_at": "2026-11-27T00:15:03Z",
-      "image_url": "https://www.mining.com/wp-content/uploads/2026/02/AdobeStock_1595931617-scaled-e1772241919423.jpeg",
-      "image_kind": "photo",
-      "tags": [
-        "gold",
-        "central-banks",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "breaking": false,
-      "rank": 13
-    },
-    {
       "id": "04921fc9830212ae",
       "title": "Gold Makes 17% Loss from Last Thanksgiving, Worst Since 2013",
       "summary": "Gold and silver held on to Wednesday's steep rebound from 15-month lows in thin Thanksgiving trading, BullionVault reports, with gold flat near $3,606 and silver around $41.50. Gold has lost 16.6% over 12 months, its worst such fall since the 28% crash of 2013, while silver is down 22.2% on the year. Fed funds futures price a 99.5% chance of a December hike.",
@@ -439,6 +414,29 @@
       "metals": [
         "gold",
         "silver"
+      ],
+      "breaking": false,
+      "rank": 13
+    },
+    {
+      "id": "7c978466fd33fd7f",
+      "title": "Dollar lingers near 22-month peak as AI worries simmer",
+      "summary": "The dollar hovered just below a 22-month peak in holiday-thinned trading, Reuters reports, with the dollar index steady at 103.81 after touching 104.53 on Monday. Traders watched AI-linked stocks for direction, and a December Fed hike is seen as a near certainty. A firm dollar keeps pressure on gold.",
+      "url": "https://www.reuters.com/world/africa/dollar-lingers-near-22-month-peak-ai-worries-simmer-2026-11-27/",
+      "source": "Reuters",
+      "source_domain": "reuters.com",
+      "publisher_id": "reuters",
+      "published_at": "2026-11-27T01:03:46Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
       ],
       "breaking": false,
       "rank": 14
@@ -496,29 +494,6 @@
       "rank": 16
     },
     {
-      "breaking": false,
-      "category": "global",
-      "id": "b2e8d8777052a254",
-      "image_kind": "none",
-      "image_url": null,
-      "metals": [
-        "silver"
-      ],
-      "published_at": "2026-11-26T07:23:32Z",
-      "publisher_id": "fxstreet",
-      "rank": 17,
-      "source": "FXStreet",
-      "source_domain": "fxstreet.com",
-      "summary": "Silver traded 0.5% higher near $41.30 in European trading, recovering after hitting a fresh almost 15-month low of $38.20 the previous day, as US Treasury yields eased to a fresh two-month low near 4.80% and traders slightly trimmed bets on a larger January Fed hike. FXStreet notes rallies remain vulnerable while silver holds below its 20-day average near $46.99.",
-      "tags": [
-        "silver",
-        "global",
-        "fed"
-      ],
-      "title": "Silver Price Forecast: XAG/USD holds ground amid setback in US bond yields",
-      "url": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-ground-amid-setback-in-us-bond-yields-202611260723"
-    },
-    {
       "id": "6264a691a5224f2b",
       "title": "Rupee falls 20 paise to 92.40 against US dollar in early trade",
       "summary": "The rupee eased 20 paise to 92.40 against the dollar in early trade on Thursday, Economic Times reports, pulling back after hitting an eight-month high of 92.1850 in the previous session. A softer rupee raises the landed cost of gold imports even as global prices steady.",
@@ -540,6 +515,29 @@
       ],
       "breaking": false,
       "related_urls": [],
+      "rank": 17
+    },
+    {
+      "id": "930d9e58fd027dce",
+      "title": "Turkish central bank suspends its purchases of domestically produced gold, bankers say",
+      "summary": "Turkey's central bank has suspended purchases of domestically produced gold until further notice, bankers told Reuters, without giving a reason. Turkey mines about 30 tonnes a year and the bank holds around 800 tonnes. The pause breaks a run of central-bank buying that has long supported gold.",
+      "url": "https://www.mining.com/web/turkish-central-bank-suspends-its-purchases-of-domestically-produced-gold-bankers-say/",
+      "source": "MINING.COM",
+      "source_domain": "mining.com",
+      "publisher_id": "mining-com",
+      "published_at": "2026-11-27T00:15:03Z",
+      "image_url": "https://www.mining.com/wp-content/uploads/2026/02/AdobeStock_1595931617-scaled-e1772241919423.jpeg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "central-banks",
+        "global"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
       "rank": 18
     },
     {
