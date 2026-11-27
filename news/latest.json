@@ -1,20 +1,20 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-27T02:00Z",
-  "generated_at": "2026-11-27T02:10:50Z",
+  "edition_id": "2026-11-27T03:00Z",
+  "generated_at": "2026-11-27T03:09:12Z",
   "window": {
-    "from": "2026-11-27T00:00:00Z",
-    "to": "2026-11-27T02:00:00Z"
+    "from": "2026-11-27T02:00:00Z",
+    "to": "2026-11-27T03:00:00Z"
   },
   "insights": {
-    "headline": "Gold eases to $3,565 in thin holiday trade as December hike bets harden; silver outshines on MCX",
-    "summary": "Spot gold eased to $3,565.50 an ounce in thin Thanksgiving trading as traders priced a near-certain Federal Reserve rate hike in December after hot October PCE data, while silver edged up to $41.42. On MCX, gold futures ended near Rs 1,24,559 per 10 g and silver near Rs 1,50,130 per kg after recovering from their lowest levels in over a year. The dollar stayed near a 22-month peak, and Turkey's central bank paused purchases of domestically mined gold.",
+    "headline": "Gold steadies near $3,565 as December hike bets harden; India’s ₹23 lakh crore gold-loan market under strain",
+    "summary": "Spot gold held near $3,565 an ounce in thin Thanksgiving trading as traders priced a near-certain Federal Reserve rate hike in December after hot October PCE data, while silver edged up to $41.42. On MCX, gold futures ended near Rs 1,24,559 per 10 g and silver near Rs 1,50,130 per kg after recovering from their lowest levels in over a year. India’s ₹23 lakh crore gold-loan market is under strain as falling prices push loan-to-value ratios higher, and the RBI repatriated another 60 tonnes of gold in 2026.",
     "points": [
-      "Spot gold was near $3,565.50 an ounce late Thursday, down 0.63%, while silver held near $41.42, up 0.33%, in thin Thanksgiving trading.",
-      "MCX February gold ended at Rs 1,24,559 per 10 g, up 0.9%, and March silver at Rs 1,50,130 per kg, up 2.8%, on short-covering.",
-      "Fed funds futures price a 99.4% chance of a December rate hike after October core PCE inflation came in at 3.3% and headline PCE at 3.8%.",
-      "The dollar index was steady at 103.81, just below a 22-month peak of 104.53 hit on Monday, as AI-stock worries kept markets volatile.",
-      "Turkey's central bank suspended purchases of domestically produced gold until further notice; it mines about 30 tonnes a year and holds some 800 tonnes."
+      "Spot gold near $3,565.50 and silver $41.42 as traders price a 99.4% chance of a December Fed hike.",
+      "MCX gold ended at Rs 1,24,559 per 10 g and silver at Rs 1,50,130 per kg after rebounding from one-year lows.",
+      "India’s ₹23 lakh crore gold-loan market is under strain as falling prices lift loan-to-value ratios; the RBI is watching repeat borrowers.",
+      "The RBI repatriated 60.08 tonnes of gold in April–September 2026; gold’s share of forex reserves fell to 14.38%.",
+      "Turkey’s central bank paused purchases of domestically produced gold until further notice."
     ],
     "brief": {
       "schema": "orob-brief.v1",
@@ -76,8 +76,16 @@
       ]
     },
     {
+      "title": "Gold-loan stress grows as prices fall",
+      "summary": "Falling gold prices are pushing loan-to-value ratios higher across India’s ₹23 lakh crore gold-loan market, with lenders shifting to collections and the RBI watching repeat borrowers.",
+      "item_ids": [
+        "d7f69d1e3c0fbd97",
+        "c12aace9b8c498a6"
+      ]
+    },
+    {
       "title": "Central banks split on gold",
-      "summary": "The RBI repatriated another 60 tonnes of gold in 2026, while Turkey's central bank paused purchases of domestically mined gold until further notice.",
+      "summary": "The RBI repatriated another 60 tonnes of gold in 2026, while Turkey’s central bank paused purchases of domestically mined gold until further notice.",
       "item_ids": [
         "eaf1e7baea80fd92",
         "930d9e58fd027dce"
@@ -259,6 +267,31 @@
       "rank": 7
     },
     {
+      "id": "d7f69d1e3c0fbd97",
+      "title": "Gold Prices Fall: Is India’s ₹23 Lakh Crore Gold Loan Market at Risk? | The Morning Brief Decode",
+      "summary": "ET’s Morning Brief looks at the strain on India’s ₹23 lakh crore gold-loan market after gold’s sharp fall from its peak, with rising loan-to-value ratios squeezing borrowers and lenders. It examines whether lenders can auction pledged jewellery even without a missed repayment, why the RBI is concerned about repeat borrowers, and how exposed India’s biggest gold-loan companies are.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-fall-is-indias-23-lakh-crore-gold-loan-market-at-risk-the-morning-brief-decode/videoshow/136206854.cms",
+      "source": "Economic Times",
+      "source_domain": "economictimes.indiatimes.com",
+      "publisher_id": "economic-times",
+      "published_at": "2026-11-27T01:53:18Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/d7f69d1e3c0fbd97.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "mcx",
+        "india",
+        "rbi"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "related_urls": [],
+      "rank": 8
+    },
+    {
       "id": "16e0ee65a1952416",
       "title": "What is driving fall in gold, silver & crude oil? Fed rate hike fears weigh",
       "summary": "Gold, silver, crude oil and base metals all slipped as growing bets on further US Federal Reserve rate hikes sapped demand, BusinessLine reports, with markets awaiting US data and the December rate decision.",
@@ -281,7 +314,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 8
+      "rank": 9
     },
     {
       "id": "087a9d31d9929fb0",
@@ -306,7 +339,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "f91e87bfdd95ccd4",
@@ -332,7 +365,7 @@
         "india"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "eaf1e7baea80fd92",
@@ -357,9 +390,10 @@
       ],
       "breaking": false,
       "related_urls": [
-        "https://www.thehindubusinessline.com/markets/gold/india-holds-84-of-its-gold-reserves-domestically-as-rbi-brings-more-gold-onshore/article71742772.ece"
+        "https://www.thehindubusinessline.com/markets/gold/india-holds-84-of-its-gold-reserves-domestically-as-rbi-brings-more-gold-onshore/article71742772.ece",
+        "https://investinglive.com/commodities/rbi-buys-no-gold-for-six-months-but-brings-another-60-tonnes-home/"
       ],
-      "rank": 11
+      "rank": 12
     },
     {
       "id": "930d9e58fd027dce",
@@ -382,7 +416,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 13
     },
     {
       "id": "04921fc9830212ae",
@@ -407,7 +441,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 13
+      "rank": 14
     },
     {
       "id": "15de6aa629f19b2f",
@@ -436,7 +470,7 @@
       "related_urls": [
         "https://www.cnbctv18.com/videos/market/world-gold-council-sachin-jain-gold-demand-india-dip-buying-price-correction-etf-inflows-20041954.htm"
       ],
-      "rank": 14
+      "rank": 15
     },
     {
       "id": "c12aace9b8c498a6",
@@ -459,7 +493,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 15
+      "rank": 16
     },
     {
       "breaking": false,
@@ -472,7 +506,7 @@
       ],
       "published_at": "2026-11-26T07:23:32Z",
       "publisher_id": "fxstreet",
-      "rank": 16,
+      "rank": 17,
       "source": "FXStreet",
       "source_domain": "fxstreet.com",
       "summary": "Silver traded 0.5% higher near $41.30 in European trading, recovering after hitting a fresh almost 15-month low of $38.20 the previous day, as US Treasury yields eased to a fresh two-month low near 4.80% and traders slightly trimmed bets on a larger January Fed hike. FXStreet notes rallies remain vulnerable while silver holds below its 20-day average near $46.99.",
@@ -506,7 +540,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 17
+      "rank": 18
     },
     {
       "id": "3f0337043e28fa42",
@@ -531,7 +565,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 18
+      "rank": 19
     },
     {
       "id": "bff0458b5bd760a6",
@@ -553,7 +587,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 19
+      "rank": 20
     },
     {
       "id": "e2ccd03ac601abd4",
@@ -577,7 +611,7 @@
         "mcx"
       ],
       "breaking": false,
-      "rank": 20
+      "rank": 21
     }
   ]
 }
