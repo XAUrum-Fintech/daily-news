@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-27T05:00Z",
-  "generated_at": "2026-11-27T05:07:53Z",
+  "edition_id": "2026-11-27T06:00Z",
+  "generated_at": "2026-11-27T06:07:03Z",
   "window": {
-    "from": "2026-11-27T04:00:00Z",
-    "to": "2026-11-27T05:00:00Z"
+    "from": "2026-11-27T05:00:00Z",
+    "to": "2026-11-27T06:00:00Z"
   },
   "insights": {
     "headline": "Gold rebounds from one-year low as AI jitters ease; silver jumps 4.6%",
@@ -70,16 +70,17 @@
       "summary": "Traders price a near-certain December hike after hot October PCE, and the Fed is expected to raise again in early 2027, keeping pressure on non-yielding bullion.",
       "item_ids": [
         "0004e6b29491749d",
-        "69577005ca7c563b",
+        "dabf8e478c8dc634",
         "7c978466fd33fd7f"
       ]
     },
     {
-      "title": "Gold-loan stress grows as prices fall",
-      "summary": "Falling prices are squeezing India's ₹23 lakh crore gold-loan market and pushing lenders into collection mode as loan growth slows.",
+      "title": "India: gold-loan stress and a duty debate",
+      "summary": "Falling prices squeeze India's ₹23 lakh crore gold-loan market as lenders move into collection mode; PM Modi credits his appeal for the fall, Juris Hour notes the May duty hike to 15%.",
       "item_ids": [
         "d7f69d1e3c0fbd97",
-        "c12aace9b8c498a6"
+        "c12aace9b8c498a6",
+        "2a9d4ce930e61adc"
       ]
     },
     {
@@ -191,6 +192,29 @@
       "rank": 4
     },
     {
+      "id": "dabf8e478c8dc634",
+      "title": "Gold (XAU/USD) Price Forecast: Failed Breakout Leaves Bullish Reversal Unconfirmed",
+      "summary": "Gold's attempt to break higher failed as sellers regained control after a rise above $3,590, FXEmpire reports, leaving the metal to close below the breakout level at $3,567 after a low of $3,551. Support sits at $3,500–$3,446, while a recovery above $3,690 would signal a bullish reversal, with resistance at $3,749 and $3,870–$3,901.",
+      "url": "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-failed-breakout-leaves-bullish-reversal-unconfirmed-1647613",
+      "source": "FXEmpire",
+      "source_domain": "fxempire.com",
+      "publisher_id": "fxempire",
+      "published_at": "2026-11-26T22:01:14Z",
+      "image_url": null,
+      "image_kind": "none",
+      "tags": [
+        "gold",
+        "global",
+        "fed"
+      ],
+      "category": "global",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 5
+    },
+    {
       "id": "281fe139d64e6519",
       "title": "Silver Price Forecast: XAG/USD surges to near $43.75 as US Dollar remains in corrective phase",
       "summary": "Silver extended its two-day recovery, surging almost 5% to near $43.75 as the dollar corrected from its near 20-month high of 104.57, FXStreet reports; ING notes a sustained dollar pullback may wait until the Fed meeting on December 9 or November CPI on December 10.",
@@ -211,7 +235,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "b69e9dfa9d6029c4",
@@ -236,7 +260,55 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 6
+      "rank": 7
+    },
+    {
+      "id": "2a9d4ce930e61adc",
+      "title": "PM Modi Says Gold Prices Fell After His Appeal: Does Govt Control Gold Rates or Does the International Market?",
+      "summary": "PM Narendra Modi credited his appeal to avoid unnecessary gold purchases for the price fall, Juris Hour reports, noting 24-carat gold eased from about ₹15,250 a gram on May 9 to ₹12,523 on November 21. Prices are market-determined, the piece explains, though the government can move landed costs through customs duty — raised from 6% to 15% in May — while imports fell nearly 40% in April–October.",
+      "url": "https://www.jurishour.in/money-hacks/pm-modi-says-gold-prices-fell-after-his-appeal/",
+      "source": "Juris Hour",
+      "source_domain": "jurishour.in",
+      "publisher_id": "juris-hour",
+      "published_at": "2026-11-27T05:18:34Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/2a9d4ce930e61adc.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "india",
+        "import-duty"
+      ],
+      "category": "policy",
+      "metals": [
+        "gold"
+      ],
+      "breaking": false,
+      "rank": 8
+    },
+    {
+      "id": "dee2821003a46378",
+      "title": "MCX gold price impact on jewellery stocks: Why Titan, PC Jeweller, Kalyan Jewellers shares are shining up to 4% today",
+      "summary": "Jewellery stocks rose on Friday as gold rebounded from a more than one-year low, Mint reports, with Titan, Kalyan Jewellers, Thangamayil Jewellery and PC Jeweller gaining, though analysts cautioned the recovery may not last.",
+      "url": "https://www.livemint.com/market/stock-market-news/mcx-gold-price-impact-on-jewellery-stocks-why-titan-pc-jeweller-kalyan-jewellers-shares-are-shining-up-to-4-today-11795753148273.html",
+      "source": "Mint",
+      "source_domain": "livemint.com",
+      "publisher_id": "mint",
+      "published_at": "2026-11-27T04:29:57Z",
+      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/dee2821003a46378.jpg",
+      "image_kind": "photo",
+      "tags": [
+        "gold",
+        "silver",
+        "mcx",
+        "india"
+      ],
+      "category": "mcx",
+      "metals": [
+        "gold",
+        "silver"
+      ],
+      "breaking": false,
+      "rank": 9
     },
     {
       "id": "5108d937084948d6",
@@ -261,7 +333,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 7
+      "rank": 10
     },
     {
       "id": "73e57beb3d22e6b1",
@@ -287,32 +359,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 8
-    },
-    {
-      "id": "69577005ca7c563b",
-      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats As Traders Rush To Take Profits After Rebound",
-      "summary": "Gold pulled back as traders took profits after Wednesday's rebound, FXEmpire reports, with FedWatch pricing a December hike at 99.4%. Support sits at $3,500–$3,520 and resistance at $3,600. Silver tested $42 as the gold/silver ratio pulled back below 86, with $44.50–$45.00 next if silver holds above $41.",
-      "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-retreats-as-traders-rush-to-take-profits-after-rebound-1647576",
-      "source": "FXEmpire",
-      "source_domain": "fxempire.com",
-      "publisher_id": "fxempire",
-      "published_at": "2026-11-26T21:20:43Z",
-      "image_url": null,
-      "image_kind": "none",
-      "tags": [
-        "gold",
-        "silver",
-        "fed",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "breaking": false,
-      "rank": 9
+      "rank": 11
     },
     {
       "id": "d7f69d1e3c0fbd97",
@@ -337,7 +384,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 10
+      "rank": 12
     },
     {
       "id": "16e0ee65a1952416",
@@ -362,33 +409,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 11
-    },
-    {
-      "id": "f91e87bfdd95ccd4",
-      "title": "MCX gold plunges ₹4,420/10g, silver sheds nearly ₹8,800/kg as PCE data fuels December Fed rate hike bets",
-      "summary": "MCX gold fell 3.6% to ₹1,17,906 per 10 g and silver dropped ₹8,800 to ₹1,36,712 per kg on Wednesday evening, Mint reports, as hotter-than-target US inflation strengthened bets on Federal Reserve rate hikes and lifted the dollar.",
-      "url": "https://www.livemint.com/market/commodities/mcx-gold-plunges-rs-4-500-10g-silver-sheds-nearly-rs-8-800-kg-as-pce-data-fuels-december-fed-rate-hike-fears-11795621934097.html",
-      "source": "Mint",
-      "source_domain": "livemint.com",
-      "publisher_id": "mint",
-      "published_at": "2026-11-25T16:27:31Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/f91e87bfdd95ccd4.jpg",
-      "image_kind": "photo",
-      "category": "mcx",
-      "metals": [
-        "gold",
-        "silver"
-      ],
-      "tags": [
-        "gold",
-        "silver",
-        "mcx",
-        "fed",
-        "india"
-      ],
-      "breaking": false,
-      "rank": 12
+      "rank": 13
     },
     {
       "id": "eaf1e7baea80fd92",
@@ -416,7 +437,7 @@
         "https://www.thehindubusinessline.com/markets/gold/india-holds-84-of-its-gold-reserves-domestically-as-rbi-brings-more-gold-onshore/article71742772.ece",
         "https://investinglive.com/commodities/rbi-buys-no-gold-for-six-months-but-brings-another-60-tonnes-home/"
       ],
-      "rank": 13
+      "rank": 14
     },
     {
       "id": "04921fc9830212ae",
@@ -441,7 +462,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 15
     },
     {
       "id": "7c978466fd33fd7f",
@@ -464,7 +485,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 15
+      "rank": 16
     },
     {
       "id": "15de6aa629f19b2f",
@@ -493,7 +514,7 @@
       "related_urls": [
         "https://www.cnbctv18.com/videos/market/world-gold-council-sachin-jain-gold-demand-india-dip-buying-price-correction-etf-inflows-20041954.htm"
       ],
-      "rank": 16
+      "rank": 17
     },
     {
       "id": "c12aace9b8c498a6",
@@ -516,7 +537,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 17
+      "rank": 18
     },
     {
       "id": "6264a691a5224f2b",
@@ -540,7 +561,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 18
+      "rank": 19
     },
     {
       "id": "930d9e58fd027dce",
@@ -563,7 +584,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 19
+      "rank": 20
     },
     {
       "id": "194e80e2f693cc0d",
@@ -586,7 +607,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 20
+      "rank": 21
     },
     {
       "id": "3f0337043e28fa42",
@@ -611,7 +632,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 21
+      "rank": 22
     },
     {
       "id": "bff0458b5bd760a6",
@@ -633,7 +654,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 22
+      "rank": 23
     },
     {
       "id": "e2ccd03ac601abd4",
@@ -657,7 +678,7 @@
         "mcx"
       ],
       "breaking": false,
-      "rank": 23
+      "rank": 24
     }
   ]
 }
