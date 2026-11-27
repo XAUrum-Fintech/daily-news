@@ -1,20 +1,20 @@
 {
  "schema": "orob-news.v1",
- "edition_id": "2026-11-27T10:00Z",
- "generated_at": "2026-11-27T10:06:07Z",
+ "edition_id": "2026-11-27T11:00Z",
+ "generated_at": "2026-11-27T11:07:37Z",
  "window": {
-  "from": "2026-11-27T08:00:00Z",
-  "to": "2026-11-27T10:00:00Z"
+  "from": "2026-11-27T10:00:00Z",
+  "to": "2026-11-27T11:00:00Z"
  },
  "insights": {
-  "headline": "Gold extends rebound to $3,649 as MCX gold tops ₹1.25 lakh; silver up 5.5%",
-  "summary": "Spot gold rose nearly 2.5% to $3,649 on Friday, extending its rebound from a one-year low as risk appetite returned and Asian shares rallied, while MCX gold held above ₹1.25 lakh at ₹1,25,151 per 10 g and silver jumped 5.5% to ₹1,53,954 per kg. Traders still price a near-certain December Fed hike after hot October PCE, and jewellery stocks rallied with the metal.",
+  "headline": "Gold extends rebound to $3,708 as MCX gold tops ₹1.26 lakh; silver surges 10%",
+  "summary": "COMEX gold futures jumped 4% to $3,708 on Friday, extending the rebound from a 52-week low as risk appetite returned and Asian stocks rallied, while MCX gold rose to ₹1,26,251 per 10 g and silver surged over 10% on COMEX to $44.24. Spot gold in India also rose, supported by wedding-season demand, and the rupee's November rally faces a test from Brent crude above $96 even as $16 billion of foreign inflows cushion the currency. Traders still price a near-certain December Fed hike after hot October PCE, and jewellery stocks rallied with the metal.",
   "points": [
-   "Spot gold rose nearly 2.5% to $3,649 on Friday, extending its rebound from a one-year low as risk appetite returned across Asian markets.",
-   "MCX gold hit ₹1,25,151 per 10 g and silver ₹1,53,954 per kg in Friday trade, Upstox reports, with COMEX silver up 8.3% to $43.42.",
-   "MCX's market value crossed ₹1 trillion as its shares hit a record ₹3,939.85, up 11% in two days and 77% this year.",
-   "Traders price a 99.4% chance of a December Fed hike after hot October PCE, Kitco reports; the dollar sits near a 22-month peak.",
-   "Jewellery stocks rallied with bullion: Titan rose 3.7% to ₹4,805 and Kalyan Jewellers gained 3.8%, Business Standard reports."
+   "COMEX gold futures rose 4% to $3,708.40 on Friday, 7.4% above Wednesday's 52-week low of $3,453.80, India Infoline reports.",
+   "MCX gold hit ₹1,26,251 per 10 g and silver ₹1,54,151 per kg, with COMEX silver up 10.4% to $44.24 an ounce.",
+   "Spot gold in India rose on wedding-season demand, Informist reports, with MCX December gold at ₹1,25,912 per 10 g, up 3%.",
+   "The rupee, up 2.6% in November, faces an oil test with Brent above $96, though $16 billion of foreign inflows cushion it, Reuters reports.",
+   "Traders price a near-certain December Fed hike after hot October PCE, Kitco reports; the dollar index sits near a 22-month high."
   ],
   "brief": {
    "schema": "orob-brief.v1",
@@ -50,8 +50,9 @@
  "trending": [
   {
    "title": "Gold rebounds from its one-year low",
-   "summary": "Bargain buying and a Thanksgiving lull lifted bullion off its lowest since September 2025, with MCX gold back above Rs 1.25 lakh.",
+   "summary": "Bargain buying and a Thanksgiving lull lifted bullion off its lowest since September 2025, with COMEX gold at $3,708 and MCX gold above Rs 1.26 lakh.",
    "item_ids": [
+    "79adb249f0ed23c8",
     "06c10346bc303225",
     "cc1c63da519260c8",
     "9683b47699a1c925",
@@ -61,8 +62,9 @@
   },
   {
    "title": "Silver leads the recovery",
-   "summary": "Silver outpaced gold on MCX and COMEX, with the gold-silver ratio falling as the metal reclaimed $43 an ounce.",
+   "summary": "Silver outpaced gold on MCX and COMEX, with COMEX silver up over 10% to $44.24 an ounce and MCX silver at Rs 1,54,151 per kg.",
    "item_ids": [
+    "79adb249f0ed23c8",
     "281fe139d64e6519",
     "b69e9dfa9d6029c4",
     "b2006342b9474f42",
@@ -75,14 +77,14 @@
    "item_ids": [
     "0004e6b29491749d",
     "9683b47699a1c925",
-    "7c978466fd33fd7f"
+    "b3c335de45d07bb9"
    ]
   },
   {
    "title": "India: wedding demand returns as prices fall",
    "summary": "Lower prices drew wedding buyers back to jewellers, while jewellery stocks rose with the metal.",
    "item_ids": [
-    "3241d0a880fbfd1e",
+    "1e5c4df106a0b3bb",
     "15de6aa629f19b2f",
     "3830d1afb430074a"
    ]
@@ -98,6 +100,34 @@
   }
  ],
  "items": [
+  {
+   "id": "79adb249f0ed23c8",
+   "title": "COMEX Gold Surges 4% to $3,708, MCX Gold Crosses ₹1.26 Lakh; COMEX Silver Futures Jumps 10%",
+   "summary": "COMEX gold futures jumped 4% to $3,708.40 on Friday, extending the rebound from a 52-week low, while MCX gold rose 3.2% to an intraday high of ₹1,26,251 per 10 g. COMEX silver futures surged over 10% to $44.24 an ounce as risk appetite returned across Asian markets and Chinese stocks rallied.",
+   "url": "https://www.indiainfoline.com/news/gold/comex-gold-surges-4-to-3708-mcx-gold-crosses-1-26-lakh-comex-silver-futures-jumps-10",
+   "source": "India Infoline",
+   "source_domain": "indiainfoline.com",
+   "publisher_id": "india-infoline",
+   "published_at": "2026-11-27T10:33:40Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/79adb249f0ed23c8.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "silver",
+    "mcx",
+    "comex"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold",
+    "silver"
+   ],
+   "breaking": false,
+   "related_urls": [
+    "https://invezz.com/news/2026/11/27/gold-price-today-jumps-4-percent-rebound-52-week-low/"
+   ],
+   "rank": 1
+  },
   {
    "id": "9683b47699a1c925",
    "title": "Gold Extends Rebound as Risk Appetite Returns but Remains in Downtrend",
@@ -119,7 +149,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 1
+   "rank": 2
   },
   {
    "id": "06c10346bc303225",
@@ -144,7 +174,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 2
+   "rank": 3
   },
   {
    "id": "cc1c63da519260c8",
@@ -168,7 +198,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 3
+   "rank": 4
   },
   {
    "id": "b39fb6f9bbd474fa",
@@ -191,7 +221,32 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 4
+   "rank": 5
+  },
+  {
+   "id": "1e5c4df106a0b3bb",
+   "title": "Spot gold up as futures rebound from 1-year low; wedding demand lends support",
+   "summary": "Spot gold in India rose on Friday as MCX December gold touched ₹1,25,912 per 10 g, up 3%, and COMEX gold reached $3,683, with wedding-season demand and recycled-gold buying supporting prices. Informist notes jewellers offered no discounts as demand rose, though traders expect Fed hike bets to limit further gains.",
+   "url": "https://www.informistmedia.com/CommodityWire/65566/gold-prices-Spot-gold-up-as-futures-rebound-from-1-year-low-wedding-demand-lends-support",
+   "source": "Informist Media",
+   "source_domain": "informistmedia.com",
+   "publisher_id": "informist-media",
+   "published_at": "2026-11-27T09:21:46Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "gold",
+    "india",
+    "mcx",
+    "comex",
+    "jewellery"
+   ],
+   "category": "festive",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "rank": 6
   },
   {
    "id": "0004e6b29491749d",
@@ -216,7 +271,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 5
+   "rank": 7
   },
   {
    "id": "c05fbb4b4fe78b9e",
@@ -242,7 +297,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 6
+   "rank": 8
   },
   {
    "id": "5493a5753707042c",
@@ -265,7 +320,30 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 7
+   "rank": 9
+  },
+  {
+   "id": "b3c335de45d07bb9",
+   "title": "Rupee rally faces oil test; inflows, positive sentiment provide cushion",
+   "summary": "The rupee's November rally, up 2.6% this month and Asia's best, faces a test from Brent crude above $96, though $16 billion of foreign equity inflows in November and improving sentiment towards Indian assets should cushion it, Reuters reports. The currency settled at 92.4450 to the dollar on Thursday, with the dollar index near a 22-month high.",
+   "url": "https://www.reuters.com/world/india/rupee-rally-faces-oil-test-inflows-positive-sentiment-provide-cushion-2026-11-27/",
+   "source": "Reuters",
+   "source_domain": "reuters.com",
+   "publisher_id": "reuters",
+   "published_at": "2026-11-27T03:03:00Z",
+   "image_url": null,
+   "image_kind": "none",
+   "tags": [
+    "rupee",
+    "india",
+    "gold"
+   ],
+   "category": "mcx",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "rank": 10
   },
   {
    "id": "37fa969f48a5f76f",
@@ -290,7 +368,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 8
+   "rank": 11
   },
   {
    "id": "3830d1afb430074a",
@@ -315,7 +393,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 9
+   "rank": 12
   },
   {
    "id": "b2006342b9474f42",
@@ -338,7 +416,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 10
+   "rank": 13
   },
   {
    "id": "281fe139d64e6519",
@@ -361,7 +439,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 11
+   "rank": 14
   },
   {
    "id": "b69e9dfa9d6029c4",
@@ -386,7 +464,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 12
+   "rank": 15
   },
   {
    "id": "5108d937084948d6",
@@ -411,32 +489,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 13
-  },
-  {
-   "id": "3241d0a880fbfd1e",
-   "title": "Spot gold up as bargain buyers step in; wedding demand picks up on low rates",
-   "summary": "Spot gold rose on Thursday as wedding-season demand picked up and a softer dollar helped, Informist reports. The national average price of 99.9% purity gold rose Rs 1,500 to Rs 1,27,000 per 10 g, and jewellers said families with weddings in April and May are buying now after the sharp fall. MCX February gold was at Rs 1,22,670 per 10 g, up 1.3%, with COMEX February gold at $3,597.70.",
-   "url": "https://www.informistmedia.com/CommodityWire/65504/gold-prices-Spot-gold-up-as-bargain-buyers-step-in-wedding-demand-picks-up-on-low-rates",
-   "source": "Informist Media",
-   "source_domain": "informistmedia.com",
-   "publisher_id": "informist-media",
-   "published_at": "2026-11-26T11:30:02Z",
-   "image_url": null,
-   "image_kind": "none",
-   "tags": [
-    "gold",
-    "silver",
-    "india",
-    "jewellery"
-   ],
-   "category": "festive",
-   "metals": [
-    "gold",
-    "silver"
-   ],
-   "breaking": false,
-   "rank": 14
+   "rank": 16
   },
   {
    "id": "2a9d4ce930e61adc",
@@ -459,7 +512,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 15
+   "rank": 17
   },
   {
    "id": "d7f69d1e3c0fbd97",
@@ -484,7 +537,7 @@
    ],
    "breaking": false,
    "related_urls": [],
-   "rank": 16
+   "rank": 18
   },
   {
    "id": "15de6aa629f19b2f",
@@ -513,7 +566,7 @@
    "related_urls": [
     "https://www.cnbctv18.com/videos/market/world-gold-council-sachin-jain-gold-demand-india-dip-buying-price-correction-etf-inflows-20041954.htm"
    ],
-   "rank": 17
+   "rank": 19
   },
   {
    "id": "eaf1e7baea80fd92",
@@ -541,7 +594,7 @@
     "https://www.thehindubusinessline.com/markets/gold/india-holds-84-of-its-gold-reserves-domestically-as-rbi-brings-more-gold-onshore/article71742772.ece",
     "https://investinglive.com/commodities/rbi-buys-no-gold-for-six-months-but-brings-another-60-tonnes-home/"
    ],
-   "rank": 18
+   "rank": 20
   },
   {
    "id": "04921fc9830212ae",
@@ -566,30 +619,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 19
-  },
-  {
-   "id": "7c978466fd33fd7f",
-   "title": "Dollar lingers near 22-month peak as AI worries simmer",
-   "summary": "The dollar hovered just below a 22-month peak in holiday-thinned trading, Reuters reports, with the dollar index steady at 103.81 after touching 104.53 on Monday. Traders watched AI-linked stocks for direction, and a December Fed hike is seen as a near certainty. A firm dollar keeps pressure on gold.",
-   "url": "https://www.reuters.com/world/africa/dollar-lingers-near-22-month-peak-ai-worries-simmer-2026-11-27/",
-   "source": "Reuters",
-   "source_domain": "reuters.com",
-   "publisher_id": "reuters",
-   "published_at": "2026-11-27T01:03:46Z",
-   "image_url": null,
-   "image_kind": "none",
-   "tags": [
-    "gold",
-    "global",
-    "fed"
-   ],
-   "category": "global",
-   "metals": [
-    "gold"
-   ],
-   "breaking": false,
-   "rank": 20
+   "rank": 21
   },
   {
    "id": "c12aace9b8c498a6",
@@ -612,7 +642,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 21
+   "rank": 22
   },
   {
    "id": "6264a691a5224f2b",
@@ -636,7 +666,7 @@
    ],
    "breaking": false,
    "related_urls": [],
-   "rank": 22
+   "rank": 23
   },
   {
    "id": "930d9e58fd027dce",
@@ -659,7 +689,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 23
+   "rank": 24
   },
   {
    "id": "194e80e2f693cc0d",
@@ -682,7 +712,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 24
+   "rank": 25
   },
   {
    "id": "bff0458b5bd760a6",
@@ -704,7 +734,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 25
+   "rank": 26
   }
  ]
 }
