@@ -1,10 +1,10 @@
 {
  "schema": "orob-news.v1",
- "edition_id": "2026-11-28T00:00Z",
- "generated_at": "2026-11-28T00:17:16Z",
+ "edition_id": "2026-11-28T02:00Z",
+ "generated_at": "2026-11-28T02:16:00Z",
  "window": {
-  "from": "2026-11-27T22:00:00Z",
-  "to": "2026-11-28T00:00:00Z"
+  "from": "2026-11-28T00:00:00Z",
+  "to": "2026-11-28T02:00:00Z"
  },
  "insights": {
   "headline": "Gold and silver extend Friday rebound as Wall Street rallies; Fed hike bets still cap gains",
@@ -14,9 +14,41 @@
    "MCX gold rebounded Rs 8,345 from Wednesday's low to Rs 1,26,251 per 10 g, set to snap a two-week losing streak; MCX silver hit Rs 1,54,804 per kg.",
    "India's silver imports nearly tripled in October to Rs 18,634 crore as import rules eased, with silver ETF inflows of Rs 3,092 crore.",
    "Gold ETFs saw $2.15 billion of net outflows last week as higher rates drew money away from bullion, World Gold Council data shows.",
-   "Beijing's vow to support its stock market lifted the CSI300 4.2% and helped gold and silver seal their first weekly gains in three."
+   "Kitco's survey: 40% of Wall Street analysts see gold higher next week after the $3,600 reclaim; Main Street stayed bearish, with payrolls the next test."
   ],
-  "brief": null
+  "brief": {
+   "schema": "orob-brief.v1",
+   "brief_id": "2026-11-28-0746",
+   "date": "2026-11-28",
+   "generated_at": "2026-11-28T02:16:00Z",
+   "slot": "morning",
+   "expires_at": "2026-11-28T08:00:00Z",
+   "headline": "Gold, silver extend Friday rebound as Wall Street rallies",
+   "summary": "MCX gold held near Rs 1,26,251 per 10 g and silver near Rs 1,54,804 per kg after spot gold rose to $3,653 on Friday.",
+   "bullets": [
+    {
+     "text": "Steadier tech stocks and a softer dollar drove the rebound from Wednesday's 15-month lows, Mint says, with Beijing's support adding lift.",
+     "item_ids": [
+      "6a009379f23d2beb",
+      "e6b4a7cfea8a86b0"
+     ]
+    },
+    {
+     "text": "MCX gold is set to snap a two-week losing streak as wedding demand returns, Mint reports; silver imports nearly tripled in October.",
+     "item_ids": [
+      "6a009379f23d2beb",
+      "da267e53c0091543",
+      "1e5c4df106a0b3bb"
+     ]
+    },
+    {
+     "text": "Watch next week: Chicago PMI on Monday and the US jobs report on Friday, the next test for the rebound, Kitco's survey notes.",
+     "item_ids": [
+      "65bcb7427c2b6daf"
+     ]
+    }
+   ]
+  }
  },
  "trending": [
   {
@@ -26,14 +58,15 @@
     "6a009379f23d2beb",
     "3d2bc22ace7863af",
     "cb7410d7481bbd5e",
-    "c02a20d31a5b67d5"
+    "c02a20d31a5b67d5",
+    "65bcb7427c2b6daf"
    ]
   },
   {
    "title": "India's silver buyers are back",
    "summary": "October silver imports nearly tripled to Rs 18,634 crore after import rules eased, and silver ETF inflows hit Rs 3,092 crore. November trade data, due Dec 15, will show whether the buying lasts.",
    "item_ids": [
-    "48bcc6c7b90bd61c",
+    "da267e53c0091543",
     "5493a5753707042c"
    ]
   },
@@ -51,7 +84,7 @@
    "summary": "Gold ETFs bled $2.15 billion last week on rate worries, while Indian and Chinese physical demand revived at lower prices.",
    "item_ids": [
     "8a54e07c2c2ac116",
-    "48bcc6c7b90bd61c",
+    "da267e53c0091543",
     "5493a5753707042c"
    ]
   }
@@ -136,15 +169,16 @@
    "rank": 3
   },
   {
-   "url": "https://www.kitco.com/opinion/2026-11-27/silver-buyers-india-are-back-will-they-stay",
-   "title": "Silver buyers in India are back. will they stay?",
-   "summary": "India's silver imports nearly tripled in October to Rs 18,634 crore once import rules eased, Kitco reports, with silver ETF inflows of Rs 3,092 crore, suggesting demand held back since May was delayed rather than lost. China exported less silver as its own demand stayed strong, but one month does not prove a squeeze; November trade data due around Dec 15 will test whether the buying lasts.",
-   "source": "Kitco",
-   "source_domain": "kitco.com",
-   "publisher_id": "kitco",
-   "published_at": "2026-11-27T20:09:09Z",
-   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/48bcc6c7b90bd61c.jpg",
-   "image_kind": "photo",
+   "id": "da267e53c0091543",
+   "title": "Silver Imports Surge in India as Buyers Return, October Data Shows",
+   "summary": "India's silver imports nearly tripled in October to Rs 18,634 crore after import rules eased, FXEmpire reports, with silver ETF inflows of Rs 3,092 crore, up 57% on September. The author estimates imports of roughly 32 to 36 million ounces, while China exported 285.43 tonnes as its own demand stayed strong.",
+   "url": "https://www.fxempire.com/forecasts/article/silver-imports-surge-in-india-as-buyers-return-october-data-shows-1647883",
+   "source": "FXEmpire",
+   "source_domain": "fxempire.com",
+   "publisher_id": "fxempire",
+   "published_at": "2026-11-27T19:13:28Z",
+   "image_url": null,
+   "image_kind": "none",
    "tags": [
     "silver",
     "india",
@@ -155,10 +189,6 @@
     "silver"
    ],
    "breaking": false,
-   "related_urls": [
-    "https://www.fxempire.com/forecasts/article/silver-imports-surge-in-india-as-buyers-return-october-data-shows-1647883"
-   ],
-   "id": "48bcc6c7b90bd61c",
    "rank": 4
   },
   {
@@ -259,6 +289,29 @@
    "rank": 8
   },
   {
+   "id": "65bcb7427c2b6daf",
+   "title": "Wall Street's bullish bets tick higher after gold bounces back above $3,600, Main Street maintains bearish bias with payrolls on deck",
+   "summary": "Wall Street turned less bearish after gold reclaimed $3,600, Kitco's weekly survey shows: 6 of 15 analysts (40%) expect higher prices next week and 5 (33%) expect a fall. Main Street stayed bearish, with 43% of 159 retail voters looking for lower prices. Analysts pointed to the rebound from Wednesday's $3,426 low, with Friday's US jobs report the next test.",
+   "url": "https://www.kitco.com/news/article/2026-11-27/wall-streets-bullish-bets-tick-higher-after-gold-bounces-back-above-3600",
+   "source": "Kitco",
+   "source_domain": "kitco.com",
+   "publisher_id": "kitco",
+   "published_at": "2026-11-27T23:01:13Z",
+   "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/65bcb7427c2b6daf.jpg",
+   "image_kind": "photo",
+   "tags": [
+    "gold",
+    "fed",
+    "global"
+   ],
+   "category": "global",
+   "metals": [
+    "gold"
+   ],
+   "breaking": false,
+   "rank": 9
+  },
+  {
    "id": "c02a20d31a5b67d5",
    "title": "HSBC flags $3,400 as gold's next big test and says it is too early to call a bottom",
    "summary": "HSBC warns it is too early to call an end to gold's slide, InvestingLive reports, with further equity weakness able to push gold through major support at $3,400 an ounce; the bank sees limits to the selloff, while Saxo's Ole Hansen says gold's slide from its record looks overdone.",
@@ -279,7 +332,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 9
+   "rank": 10
   },
   {
    "id": "8a54e07c2c2ac116",
@@ -302,7 +355,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 10
+   "rank": 11
   },
   {
    "id": "cc1c63da519260c8",
@@ -326,7 +379,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 11
+   "rank": 12
   },
   {
    "id": "90b4caee07bb0b9e",
@@ -350,7 +403,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 12
+   "rank": 13
   },
   {
    "title": "Sebi allows FPIs to trade in physically settled non-agri commodity derivatives",
@@ -373,7 +426,7 @@
    ],
    "breaking": false,
    "id": "1c05bf6c16180195",
-   "rank": 13
+   "rank": 14
   },
   {
    "id": "1e5c4df106a0b3bb",
@@ -398,7 +451,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 14
+   "rank": 15
   },
   {
    "id": "5493a5753707042c",
@@ -421,7 +474,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 15
+   "rank": 16
   },
   {
    "title": "Silver Price Forecast: XAG/USD finds support near 200-week SMA",
@@ -443,7 +496,7 @@
    ],
    "breaking": false,
    "id": "61db8612248c2b68",
-   "rank": 16
+   "rank": 17
   },
   {
    "id": "37fa969f48a5f76f",
@@ -468,7 +521,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 17
+   "rank": 18
   },
   {
    "id": "3830d1afb430074a",
@@ -493,7 +546,7 @@
     "silver"
    ],
    "breaking": false,
-   "rank": 18
+   "rank": 19
   },
   {
    "id": "b3c335de45d07bb9",
@@ -516,7 +569,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 19
+   "rank": 20
   },
   {
    "id": "d7f69d1e3c0fbd97",
@@ -541,7 +594,7 @@
    ],
    "breaking": false,
    "related_urls": [],
-   "rank": 20
+   "rank": 21
   },
   {
    "id": "930d9e58fd027dce",
@@ -564,7 +617,7 @@
     "gold"
    ],
    "breaking": false,
-   "rank": 21
+   "rank": 22
   }
  ]
 }
