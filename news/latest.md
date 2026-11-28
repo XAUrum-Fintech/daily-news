@@ -1,4 +1,4 @@
-# Gold & Silver for Indian buyers · 2026-11-28T10:00Z
+# Gold & Silver for Indian buyers · 2026-11-28T11:00Z
 
 ## Today's brief
 
@@ -43,7 +43,7 @@ Gold rose 1.94% and silver 1.16% on the week as Friday's tech-led rally extended
 7. [India Now Stores 84% of Its Gold Reserves Domestically: RBI Brings Back 60 Tonnes From Overseas Vaults](https://www.jagranjosh.com/general-knowledge/india-now-stores-84-of-its-gold-reserves-domestically-rbi-brings-back-60-tonnes-from-overseas-vaults-what-is-the-total-value-check-details-1820014211-1) — *Jagran Josh*, 2026-11-27T10:13:49Z
    RBI's half-yearly report shows it moved 60.08 tonnes of gold from overseas vaults to India between April and September, taking domestic holdings to 740.13 tonnes — 84% of its 880.52-tonne total — without adding to overall reserves.
 8. [Gold, Silver Prices Rebound as Bullion Recovers From Lows](https://hdfcsky.com/news/gold-jumps-3-9percent-to-3672-as-silver-surges-6-6percent-in-volatile-week-mcx-gold-closes-at-rs122272-silver-at-rs153277) — *HDFCSky*, 2026-11-28T05:35:09Z
-   Gold and silver ended a volatile week with a sharp Friday rebound: spot gold rose 3% to $3,672 and silver 6.6% to $44.28, recovering from Wednesday's 15-month low of $3,426 after hot October core PCE (3.3%) lifted Fed hike bets. MCX December silver futures jumped 5.1% to ₹1,53,277 per kg as steadier tech stocks and bargain buying drove the recovery.
+   Gold and silver ended a volatile week with a sharp Friday rebound: spot gold rose 3% to $3,672 and silver 6.6% to $44.28, recovering from Wednesday's 15-month low of $3,426 after hot October core PCE (3.3%) lifted Fed hike bets. Steadier tech stocks and bargain buying drove the recovery.
 9. [Gold and Silver Jump as Beijing Vows to Support China's Stock Market](https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-china-support-112720261) — *BullionVault*, 2026-11-27T15:51:01Z
    Gold and silver jumped on Friday after Beijing promised support for China's stock market, BullionVault reports, with London gold peaking at $3,685 and silver trading 15.1% above Wednesday's 15-month lows. Shanghai's CSI300 leapt 4.2% as the State Council urged listed firms to raise dividends and buybacks with ample liquidity guarantees. Both metals sealed their first weekly gains in three.
 10. [Gold and Silver Price Forecast: Silver Leads Rebound as Ratio Falls](https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-silver-leads-rebound-as-ratio-falls-1647648) — *FXEmpire*, 2026-11-27T09:45:00Z
