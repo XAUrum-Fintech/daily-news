@@ -154,7 +154,9 @@ VERIFIED_SCHEDULE = [
     # record aged past the 90-day retention — build_file step 2 re-adds table
     # entries with no past cutoff, so an aged-out entry comes back as a
     # phantom scheduled record with no result. Prune entries as they age out
-    # (next: ism_mfg 2026-09-01 ~Nov 30, ism_services 2026-09-03 ~Dec 2)
+    # (2026-11-28: pruned ism_mfg 2026-09-01 and ism_services 2026-09-03,
+    # both released records still inside retention at prune time; next:
+    # india_cpi 2026-09-14 ~Dec 13, us_core_pce 2026-09-30 ~Dec 29)
     # until step 2 gains a past cutoff.
     ("us_core_pce", 2026, 9, 30, 8, 30, "-04:00",
      "https://www.bea.gov/news/schedule"),
@@ -193,8 +195,6 @@ VERIFIED_SCHEDULE = [
     # (Manufacturing 1st business day, Services 3rd business day) and
     # PROVISIONAL until ISM publishes its 2027 calendar; roll corrections
     # in place (same ids). Release 10:00 am ET.
-    ("ism_mfg_pmi", 2026, 9, 1, 10, 0, "-04:00",
-     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
     ("ism_mfg_pmi", 2026, 10, 1, 10, 0, "-04:00",
      "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
     ("ism_mfg_pmi", 2026, 11, 2, 10, 0, "-05:00",
@@ -224,8 +224,6 @@ VERIFIED_SCHEDULE = [
     ("ism_mfg_pmi", 2027, 11, 1, 10, 0, "-04:00",
      "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
     ("ism_mfg_pmi", 2027, 12, 1, 10, 0, "-05:00",
-     "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
-    ("ism_services_pmi", 2026, 9, 3, 10, 0, "-04:00",
      "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
     ("ism_services_pmi", 2026, 10, 5, 10, 0, "-04:00",
      "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"),
