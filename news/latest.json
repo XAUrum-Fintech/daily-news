@@ -1,10 +1,10 @@
 {
   "schema": "orob-news.v1",
-  "edition_id": "2026-11-28T04:00Z",
-  "generated_at": "2026-11-28T04:16:54Z",
+  "edition_id": "2026-11-28T05:00Z",
+  "generated_at": "2026-11-28T05:03:47Z",
   "window": {
     "from": "2026-11-28T03:00:00Z",
-    "to": "2026-11-28T04:00:00Z"
+    "to": "2026-11-28T05:00:00Z"
   },
   "insights": {
     "headline": "Gold and silver extend Friday rebound as Wall Street rallies; Fed hike bets still cap gains",
@@ -197,7 +197,10 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 4
+      "rank": 4,
+      "related_urls": [
+        "https://www.kitco.com/opinion/2026-11-27/silver-buyers-india-are-back-will-they-stay"
+      ]
     },
     {
       "id": "126c4b3bed212685",
@@ -297,31 +300,6 @@
       "rank": 8
     },
     {
-      "title": "Why Is Silver Price Surging Today? Silver Futures Jump 10% as Gold Reclaims $3,600",
-      "summary": "Silver futures surged 10% to $44.17 on Friday as investors returned to metals after Wednesday's selloff, Coinpaper reports, with gold futures up nearly 4% to $3,675; silver still faces a 35 million-ounce supply deficit in 2026, its sixth straight year, while hot October PCE at 3.8% keeps December Fed hike expectations alive.",
-      "url": "https://coinpaper.com/39513/why-is-silver-price-surging-today-silver-futures-jump-10-as-gold-reclaims-3-600",
-      "source": "Coinpaper",
-      "source_domain": "coinpaper.com",
-      "publisher_id": "coinpaper",
-      "published_at": "2026-11-27T16:20:45Z",
-      "image_url": "https://imagecodex.com/v1/coinpaper/media/48f94092-23e1-49e2-862a-0392f7d4f9f7.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "silver",
-        "gold",
-        "fed",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "silver",
-        "gold"
-      ],
-      "breaking": false,
-      "id": "0ebe3c26ba94dee0",
-      "rank": 9
-    },
-    {
       "id": "cb7410d7481bbd5e",
       "title": "Gold's $3,750 ceiling: Analyst says a hawkish Fed \"would cap Gold rallies\"",
       "summary": "Gold is back above $3,600 and heading for a weekly gain after bouncing from a 15-month low near $3,425, FXStreet reports, but analysts say a hawkish Fed would cap rallies below $3,750; $3,500 must hold for the recovery to last, with the Fed's Dec 8-9 meeting the key test.",
@@ -342,7 +320,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 10
+      "rank": 9
     },
     {
       "id": "65bcb7427c2b6daf",
@@ -365,7 +343,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 11
+      "rank": 10
     },
     {
       "id": "c02a20d31a5b67d5",
@@ -388,7 +366,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 12
+      "rank": 11
     },
     {
       "id": "8a54e07c2c2ac116",
@@ -411,31 +389,30 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 13
+      "rank": 12
     },
     {
-      "id": "cc1c63da519260c8",
-      "title": "Gold price tracker, Nov 27: MCX gold jumps over ₹1.25 lakh, silver prices rally 5.5%",
-      "summary": "MCX gold surged 2.35% to an intraday high of ₹1,25,151 per 10 g and silver jumped 5.5% to ₹1,53,954 per kg on Friday, Upstox reports, as value buying continued after the metals fell to around 14-month lows. COMEX gold traded 2.7% higher at $3,632 and silver 8.3% higher at $43.42, while jewellery stocks including Titan and Kalyan rose and the gold-silver ratio fell to $82.53.",
-      "url": "https://upstox.com/news/market-news/commodities/gold-price-tracker-nov-27-mcx-gold-prices-mcx-silver-rates-comex-gold-comex-silver-gold-prices-today-bullion-market-silver-prices-today/liveblog-204059/",
-      "source": "Upstox",
-      "source_domain": "upstox.com",
-      "publisher_id": "upstox",
-      "published_at": "2026-11-27T03:25:51Z",
-      "image_url": "https://assets.upstox.com/content/assets/images/news/gold-and-silver-rate-today-17-nov.webp",
-      "image_kind": "photo",
+      "id": "32f94587451ee595",
+      "title": "Gold Remains Under Pressure as the Weekly Close Fails to Reclaim $3,618",
+      "summary": "Gold remained under pressure into the weekend, Investing.com's weekly review says, with the weekly close failing to retake a key level even after Friday's rebound from 15-month lows. The review reads the bounce as unconfirmed while Fed hike bets keep a lid on rallies.",
+      "url": "https://www.investing.com/analysis/gold-remains-under-pressure-as-the-weekly-close-fails-to-reclaim-3618-200692467",
+      "source": "Investing.com",
+      "source_domain": "investing.com",
+      "publisher_id": "investing",
+      "published_at": "2026-11-27T19:52:00Z",
+      "image_url": null,
+      "image_kind": "none",
       "tags": [
         "gold",
-        "silver",
-        "mcx"
+        "global",
+        "fed"
       ],
-      "category": "mcx",
+      "category": "global",
       "metals": [
-        "gold",
-        "silver"
+        "gold"
       ],
       "breaking": false,
-      "rank": 14
+      "rank": 13
     },
     {
       "id": "90b4caee07bb0b9e",
@@ -459,7 +436,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 15
+      "rank": 14
     },
     {
       "title": "Sebi allows FPIs to trade in physically settled non-agri commodity derivatives",
@@ -482,7 +459,7 @@
       ],
       "breaking": false,
       "id": "1c05bf6c16180195",
-      "rank": 16
+      "rank": 15
     },
     {
       "id": "1e5c4df106a0b3bb",
@@ -507,7 +484,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 17
+      "rank": 16
     },
     {
       "id": "5493a5753707042c",
@@ -530,52 +507,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 18
-    },
-    {
-      "id": "194e80e2f693cc0d",
-      "title": "Gold Falls Below $3,500 Mark as Russia Offloads 72 Tons Over Ten Straight Months, Becoming Biggest Selling Pressure",
-      "summary": "GoldFix data shows Russia sold gold for a tenth straight month from January to October, cutting about 72 tonnes as the finance ministry drew on the National Wealth Fund to fund the budget; Turkey and Azerbaijan's state oil fund also sold.",
-      "url": "https://finance.biggo.com/news/27fda231-8133-44cc-b1f1-57e7a8e3ea43",
-      "source": "BigGo Finance",
-      "source_domain": "finance.biggo.com",
-      "publisher_id": "biggo-finance",
-      "published_at": "2026-11-27T04:05:25Z",
-      "image_url": "https://raw.githubusercontent.com/XAUrum-Fintech/daily-news/main/assets/news/194e80e2f693cc0d.jpg",
-      "image_kind": "photo",
-      "category": "global",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "global",
-        "central-banks"
-      ],
-      "breaking": false,
-      "rank": 19
-    },
-    {
-      "title": "Silver Price Forecast: XAG/USD finds support near 200-week SMA",
-      "summary": "Silver found buyers near $43.24, up 4.1% on the day and on track for its first weekly gain in three weeks, FXStreet reports, after Wednesday's selloff pushed it to $38.20; it has recovered above the 200-week SMA at $39.88, with the RSI near 32 and first resistance at the 100-week SMA near $53.79.",
-      "url": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-finds-support-near-200-week-sma-202611271612",
-      "source": "FXStreet",
-      "source_domain": "fxstreet.com",
-      "publisher_id": "fxstreet",
-      "published_at": "2026-11-27T16:12:17Z",
-      "image_url": "https://editorial.fxsstatic.com/images/i/Commodities_Silver-2.jpg",
-      "image_kind": "photo",
-      "tags": [
-        "silver",
-        "global"
-      ],
-      "category": "global",
-      "metals": [
-        "silver"
-      ],
-      "breaking": false,
-      "id": "61db8612248c2b68",
-      "rank": 20
+      "rank": 17
     },
     {
       "id": "37fa969f48a5f76f",
@@ -600,7 +532,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 21
+      "rank": 18
     },
     {
       "id": "3830d1afb430074a",
@@ -625,7 +557,7 @@
         "silver"
       ],
       "breaking": false,
-      "rank": 22
+      "rank": 19
     },
     {
       "id": "b3c335de45d07bb9",
@@ -648,7 +580,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 23
+      "rank": 20
     },
     {
       "id": "d7f69d1e3c0fbd97",
@@ -673,7 +605,7 @@
       ],
       "breaking": false,
       "related_urls": [],
-      "rank": 24
+      "rank": 21
     },
     {
       "id": "930d9e58fd027dce",
@@ -696,30 +628,7 @@
         "gold"
       ],
       "breaking": false,
-      "rank": 25
-    },
-    {
-      "id": "46c99d9913ee3c6e",
-      "title": "401.81 Grams of Gold Jewellery Worth Approximately ₹50 lakh Seized; 17 Articles Found Bearing Fake BIS Hallmarks and 33 Without Valid Hallmarking",
-      "summary": "BIS seized about 402 grams of gold jewellery worth around ₹50 lakh from three shops in Neemuch, Madhya Pradesh, after finding pieces bearing fake hallmarks and others without valid hallmarking.",
-      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2342716&reg=48&lang=2",
-      "source": "Press Information Bureau",
-      "source_domain": "pib.gov.in",
-      "publisher_id": "press-information-bureau",
-      "published_at": "2026-11-27T12:48:00Z",
-      "image_url": "https://static.pib.gov.in/WriteReadData/userfiles/image/2026/nov/WhatsAppImage2026-11-27at18.11.31_20261127181919_95c446.jpeg",
-      "image_kind": "photo",
-      "category": "policy",
-      "metals": [
-        "gold"
-      ],
-      "tags": [
-        "gold",
-        "india",
-        "jewellery"
-      ],
-      "breaking": false,
-      "rank": 26
+      "rank": 22
     }
   ]
 }
